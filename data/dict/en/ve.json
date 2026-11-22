@@ -1,0 +1,2955 @@
+{
+ "ve": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "委內瑞拉",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 veing｜複數 ves"
+ },
+ "veal": {
+  "ph": "/vi:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小牛肉",
+    "def": "meat from a calf"
+   },
+   {
+    "pos": "vt.",
+    "zh": "宰小牛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 veals"
+ },
+ "vecchi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vecchi)人名；(法、意)韋基",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vecchi"
+ },
+ "vecchio": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vecchio)人名；(意)韋基奧",
+    "def": ""
+   }
+  ]
+ },
+ "vector": {
+  "ph": "/'vektә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "向量, 傳病媒介",
+    "def": "a variable quantity that can be resolved into components"
+   },
+   {
+    "pos": "vt.",
+    "zh": "(用無線電)導引, 給...導航",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 向量; 向量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vectors"
+ },
+ "veda": {
+  "ph": "/'veidә, 'vi:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吠陀經；吠陀本集（印度最古老的宗教文獻和文學作品的總稱）",
+    "def": ""
+   }
+  ]
+ },
+ "vedic": {
+  "ph": "/'veidik, 'vi:dik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吠陀梵語(早期梵文之一種)",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "吠陀的",
+    "def": "of or relating to the Vedas or to the ancient Sanskrit in which they were written"
+   }
+  ]
+ },
+ "vee": {
+  "ph": "/vi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "V字形物",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "V字形的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vees｜現在分詞 veeing"
+ },
+ "veep": {
+  "ph": "/vi:p/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(=Veepee, vice-president)(美國的)副總統",
+    "def": ""
+   }
+  ]
+ },
+ "veer": {
+  "ph": "/viә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "轉向",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使轉向",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "轉向",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 veered｜第三人稱單數 veers｜現在分詞 veering｜過去分詞 veered"
+ },
+ "veg": {
+  "ph": "/vedʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蔬菜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vegs｜過去式 vegged"
+ },
+ "vega": {
+  "ph": "/'vi:^ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[天]織女星",
+    "def": "prolific Spanish playwright (1562-1635)"
+   }
+  ]
+ },
+ "vegan": {
+  "ph": "/'vegәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嚴格的素食主義者",
+    "def": "a strict vegetarian; someone who eats no animal or dairy products at all"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 絕對素食者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vegans"
+ },
+ "vegas": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維加斯",
+    "def": ""
+   }
+  ]
+ },
+ "vegetable": {
+  "ph": "/'vedʒәtәbl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蔬菜, 植物, 無精打采之人",
+    "def": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+   },
+   {
+    "pos": "adj.",
+    "zh": "蔬菜的, 植物的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vegetables"
+ },
+ "vegetal": {
+  "ph": "/'vedʒitl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "植物的, 植物性的, 有關植物生長的",
+    "def": "composed of vegetation or plants"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 植物的; 植物性的; 生長的, 營養的",
+    "def": ""
+   }
+  ]
+ },
+ "vegetarian": {
+  "ph": "/.vedʒi'tєәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "素食者, 食草動物",
+    "def": "eater of fruits and grains and nuts; someone who eats no meat or fish or (often) any animal products"
+   },
+   {
+    "pos": "adj.",
+    "zh": "素食的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vegetarians"
+ },
+ "vegetarianism": {
+  "ph": "/vedʒi'teәriәniz(ә)m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "素食主義",
+    "def": "a diet excluding all meat and fish"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 素食主義",
+    "def": ""
+   }
+  ]
+ },
+ "vegetate": {
+  "ph": "/'vedʒiteit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "植物似地生長, 過呆板單調的生活, 無所事事地生活, (贅疣)生長, 長大",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 vegetated｜複數 vegetates｜現在分詞 vegetating｜第三人稱單數 vegetates｜過去分詞 vegetated"
+ },
+ "vegetated": {
+  "ph": "/ˈvedʒəteɪtɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "過單調呆板的生活( vegetate的過去式和過去分詞 ); 植物似地生長; <醫>（瘤、疣等）長大",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 vegetated"
+ },
+ "vegetation": {
+  "ph": "/.vedʒi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "植物",
+    "def": "all the plant life in a particular region or period"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 贄生物, 贄疣, 增殖體; 生長, 增殖",
+    "def": ""
+   }
+  ]
+ },
+ "vegetative": {
+  "ph": "/'vedʒitәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "植物的, 蔬菜的, 生長的, 無性繁殖的, 植物似的, 生活呆板單調的, 生長性的",
+    "def": "of or relating to an activity that is passive and monotonous"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 植物性的; 生長的, 營養的",
+    "def": ""
+   }
+  ]
+ },
+ "veggie": {
+  "ph": "/'vedʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "素食者",
+    "def": ""
+   }
+  ]
+ },
+ "vehemence": {
+  "ph": "/'vi:imәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱烈, 激烈",
+    "def": "intensity or forcefulness of expression"
+   }
+  ]
+ },
+ "vehement": {
+  "ph": "/'vi:imәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熱烈的, 激烈的",
+    "def": ""
+   }
+  ]
+ },
+ "vehemently": {
+  "ph": "/'vi:əməntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "激烈地; 暴烈地; 強烈地; 熱烈地",
+    "def": ""
+   }
+  ]
+ },
+ "vehicle": {
+  "ph": "/'vi:ikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "交通工具, 車輛, 傳播媒介",
+    "def": "a conveyance that transports people or objects"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 載體; 運載體; 漆料",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vehicles"
+ },
+ "vehicular": {
+  "ph": "/vi'hikjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "車的, 作為媒介的, 用車輛運載的",
+    "def": "of or relating to or intended for (motor) vehicles"
+   }
+  ]
+ },
+ "veil": {
+  "ph": "/veil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "面紗, 面罩, 藉口, 幕, 帳, 遮蔽物",
+    "def": "a membranous covering attached to the immature fruiting body of certain mushrooms"
+   },
+   {
+    "pos": "vt.",
+    "zh": "戴面紗, 隱藏, 遮蔽, 掩飾",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "蒙上面紗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 veils｜過去分詞 veiled｜過去式 veiled｜現在分詞 veiling｜第三人稱單數 veils"
+ },
+ "veiled": {
+  "ph": "/veild/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蒙上面紗的, 用幕遮蓋的, (聲音)不清楚的, 掩飾的, 遮遮蓋蓋的, 隱蔽的",
+    "def": "having or as if having a veil or concealing cover"
+   }
+  ],
+  "forms": "過去分詞 veiled｜過去式 veiled"
+ },
+ "veiling": {
+  "ph": "/'veiliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒙面紗, 面紗, 面紗布料",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 veiling"
+ },
+ "vein": {
+  "ph": "/vein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "血管, 靜脈, 紋理, 氣質, 情緒",
+    "def": "a blood vessel that carries blood from the capillaries toward the heart"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使有脈絡, 像脈絡般分佈於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 veins｜過去分詞 veined｜現在分詞 veining｜過去式 veined｜第三人稱單數 veins"
+ },
+ "veined": {
+  "ph": "/'veind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有脈紋的, 有葉脈的, 有紋理的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有脈紋的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 veined"
+ },
+ "veining": {
+  "ph": "/'veiniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脈紋的形成, 脈紋的排列",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 鑄模龜裂",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 veining"
+ },
+ "veiny": {
+  "ph": "/'veini/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多靜脈的, 有靜脈的, 多脈紋的",
+    "def": "Full of veins; veinous; veined; as, veiny marble."
+   }
+  ],
+  "forms": "比較級 veinier"
+ },
+ "velasco": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Velasco)人名；(西)貝拉斯科；(葡、意)韋拉斯科",
+    "def": ""
+   }
+  ]
+ },
+ "velasquez": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "委拉斯奎茲（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "velcro": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維可牢（一種尼龍搭扣的商標名稱）",
+    "def": "nylon fabric used as a fastening"
+   }
+  ]
+ },
+ "veld": {
+  "ph": "/velt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(南非洲的)草原",
+    "def": "elevated open grassland in southern Africa"
+   }
+  ],
+  "forms": "複數 velds"
+ },
+ "veldt": {
+  "ph": "/velt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(南非洲的)草原",
+    "def": ""
+   }
+  ]
+ },
+ "vellum": {
+  "ph": "/'velәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上等皮紙, 皮紙文書, 牛皮紙",
+    "def": "a heavy creamy-colored paper resembling parchment"
+   },
+   {
+    "pos": "adj.",
+    "zh": "牛皮紙的",
+    "def": ""
+   }
+  ]
+ },
+ "velociraptor": {
+  "ph": "/vəˌlɒsɪˈræptə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迅猛龍（二足、肉食性的有羽毛恐龍, 能高速奔跑。電影《侏羅紀公園》系列中的重要角色）; 速龍; 伶盜龍",
+    "def": "small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs"
+   }
+  ]
+ },
+ "velocity": {
+  "ph": "/vi'lɒsәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "速度, 迅速",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 速度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 velocities"
+ },
+ "velodrome": {
+  "ph": "/'vi:lәdrәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳踏車賽車場",
+    "def": "a banked oval track for bicycle or motorcycle racing"
+   }
+  ]
+ },
+ "velour": {
+  "ph": "/vә'luә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天鵝絨, 拉絨織物, 絲絨",
+    "def": "heavy fabric that resembles velvet"
+   }
+  ],
+  "forms": "複數 velours"
+ },
+ "velvet": {
+  "ph": "/'velvit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天鵝絨",
+    "def": "a silky densely piled fabric with a plain back"
+   },
+   {
+    "pos": "adj.",
+    "zh": "天鵝絨的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 velvets"
+ },
+ "velveteen": {
+  "ph": "/.velvi'ti:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "棉絨, 平絨",
+    "def": "a usually cotton fabric with a short pile imitating velvet"
+   }
+  ],
+  "forms": "複數 velveteens"
+ },
+ "velvety": {
+  "ph": "/'velviti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "像天鵝絨的, 輕軟光滑的, 柔和的, 平和的",
+    "def": ""
+   }
+  ]
+ },
+ "ven": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "虛擬企業網（Virtual Enterprise Network）；虛擬裝置編號（Virtual Equipment Number）；委內瑞拉（國家程式碼）",
+    "def": ""
+   }
+  ]
+ },
+ "vena": {
+  "ph": "/'vi:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靜脈",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 靜脈",
+    "def": ""
+   }
+  ]
+ },
+ "venables": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "維納布林斯 住所名稱, 來源於拉丁語, 含義是“狩獵場”(hunting ground)",
+    "def": ""
+   }
+  ]
+ },
+ "venal": {
+  "ph": "/'vi:nl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可收買的, 貪汙的, 用金錢買得的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 貪汙的",
+    "def": ""
+   }
+  ]
+ },
+ "venality": {
+  "ph": "/vi:'nælәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唯利是圖, 以權謀私, 甘受賄賂",
+    "def": "prostitution of talents or offices or services for reward"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 貪汙, 唯利是圖, 甘受賄賂",
+    "def": ""
+   }
+  ]
+ },
+ "vend": {
+  "ph": "/vend/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "出售, 從事販賣",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vending｜第三人稱單數 vends｜過去式 vended｜過去分詞 vended"
+ },
+ "vender": {
+  "ph": "/'vendә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小販, 賣主, 自動售貨機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 售主, 自動售貨機, 廠家",
+    "def": ""
+   }
+  ]
+ },
+ "vendetta": {
+  "ph": "/ven'detә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "族間仇殺, 世仇, 宿怨",
+    "def": "a feud in which members of the opposing parties murder each other"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 血仇, 近親復仇, 世仇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vendettas"
+ },
+ "vending": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "販賣的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vending"
+ },
+ "vendor": {
+  "ph": "/'vendә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小販, 賣主, 自動售貨機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 計算機銷售商",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vendors"
+ },
+ "veneer": {
+  "ph": "/vә'niә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飾面薄板, 飾面, 外表",
+    "def": "coating consisting of a thin layer of superior wood glued to a base of inferior wood"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鑲飾, 膠合, 虛飾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 veneers｜過去分詞 veneered｜現在分詞 veneering｜過去式 veneered｜第三人稱單數 veneers"
+ },
+ "veneered": {
+  "ph": "/vɪ'nɪə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外表；虛飾；飾面；膠合板的一層；薄木片",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "膠合；虛飾；給…鑲以飾片",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 veneered"
+ },
+ "venerable": {
+  "ph": "/'venәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "莊嚴的, 值得尊敬的",
+    "def": ""
+   }
+  ]
+ },
+ "venerate": {
+  "ph": "/'venәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "尊敬, 崇敬, 崇拜",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 venerated｜過去式 venerated｜現在分詞 venerating｜第三人稱單數 venerates"
+ },
+ "venerated": {
+  "ph": "/ˈvenəˌreɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "敬重（某人或某事物）, 崇敬( venerate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 venerated"
+ },
+ "veneration": {
+  "ph": "/.venә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尊敬, 崇敬, 崇拜",
+    "def": ""
+   }
+  ]
+ },
+ "venereal": {
+  "ph": "/vә'niәriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "性愛的, 性交的, 性病的, 生殖器的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 性病的, 性交的",
+    "def": ""
+   }
+  ]
+ },
+ "venetian": {
+  "ph": "/vә'ni:ʃәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "威尼斯的",
+    "def": "of or relating to or characteristic of Venice or its people"
+   },
+   {
+    "pos": "n.",
+    "zh": "威尼斯人",
+    "def": "a resident of Venice"
+   }
+  ],
+  "forms": "複數 venetians"
+ },
+ "veneto": {
+  "ph": "/'venetɔ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "威尼託區[義大利行政區名]",
+    "def": ""
+   }
+  ]
+ },
+ "venezia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（意）威尼斯（等於Venice）",
+    "def": ""
+   }
+  ]
+ },
+ "venezuela": {
+  "ph": "/,vene'zweilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "委內瑞拉",
+    "def": "a republic in northern South America on the Caribbean; achieved independence from Spain in 1811; rich in oil"
+   }
+  ]
+ },
+ "venezuelan": {
+  "ph": "/,venә'zweilәŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "委內瑞拉的；委內瑞拉人的",
+    "def": "of or relating to or characteristic of Venezuela or its people"
+   }
+  ],
+  "forms": "複數 venezuelans"
+ },
+ "vengeance": {
+  "ph": "/'vendʒәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "復仇, 報仇",
+    "def": "the act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in the next life; I will repay, saith the Lord\"-"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 報仇, 復仇",
+    "def": ""
+   }
+  ]
+ },
+ "vengeful": {
+  "ph": "/'vendʒful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "復仇心重的, 報復的",
+    "def": ""
+   }
+  ]
+ },
+ "vengefully": {
+  "ph": "/'vendʒfəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "復仇心切地",
+    "def": ""
+   }
+  ]
+ },
+ "vengefulness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "報復",
+    "def": ""
+   }
+  ]
+ },
+ "venial": {
+  "ph": "/'vi:njәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可原諒的, 可寬恕的, 輕微的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可寬恕的, 可原諒的, 輕微的",
+    "def": ""
+   }
+  ]
+ },
+ "venice": {
+  "ph": "/'venis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威尼斯",
+    "def": "the provincial capital of Veneto; built on 118 islands within a lagoon in the Gulf of Venice; has canals instead of streets; one of Italy's major ports and a fa"
+   }
+  ]
+ },
+ "venison": {
+  "ph": "/'venizn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鹿肉, 野味",
+    "def": "meat from a deer used as food"
+   }
+  ]
+ },
+ "venn": {
+  "ph": "/ven/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 文氏",
+    "def": ""
+   }
+  ]
+ },
+ "venom": {
+  "ph": "/'venәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毒液, 惡意",
+    "def": "toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "放毒, 使有毒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 venoms"
+ },
+ "venomous": {
+  "ph": "/'venәmәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有毒的, 惡毒的, 分泌毒液的, 有毒腺的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 毒的, 有毒的",
+    "def": ""
+   }
+  ]
+ },
+ "venomously": {
+  "ph": "/'venəməslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "狠毒地, 充滿惡意地",
+    "def": ""
+   }
+  ]
+ },
+ "venous": {
+  "ph": "/'vi:nәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "靜脈的, 在靜脈中的, 有脈的",
+    "def": "of or contained in or performing the function of the veins"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 靜脈的",
+    "def": ""
+   }
+  ]
+ },
+ "vent": {
+  "ph": "/vent/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排氣口, 出口, 通風孔, 發洩",
+    "def": "a hole for the escape of gas or air"
+   },
+   {
+    "pos": "vt.",
+    "zh": "發洩, 排出, 給...開孔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vents｜現在分詞 venting｜過去式 vented｜過去分詞 vented｜第三人稱單數 vents"
+ },
+ "vented": {
+  "ph": "/ventid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "表達, 發洩（感情, 尤指憤怒）( vent的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "ventilate": {
+  "ph": "/'ventileit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使空氣流通, 使通風, 公開討論, 公開",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 通風, 換氣",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ventilated｜現在分詞 ventilating｜第三人稱單數 ventilates｜過去式 ventilated"
+ },
+ "ventilated": {
+  "ph": "/'ventileitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "通風的",
+    "def": "exposed to air"
+   }
+  ],
+  "forms": "過去分詞 ventilated"
+ },
+ "ventilating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 通風",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ventilating"
+ },
+ "ventilation": {
+  "ph": "/.venti'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通風, 空氣流通, 公開討論",
+    "def": "the act of supplying fresh air and getting rid of foul air"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 通風, 換氣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ventilations"
+ },
+ "ventilator": {
+  "ph": "/'ventileitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通風裝置, 送風機, 換氣扇",
+    "def": "a device (such as a fan) that introduces fresh air or expels foul air"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 通風機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ventilators"
+ },
+ "ventilatory": {
+  "ph": "/'ventilәtәri/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "通風的, 通氣的",
+    "def": ""
+   }
+  ]
+ },
+ "venting": {
+  "ph": "/'ventiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 通氣",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 venting"
+ },
+ "ventral": {
+  "ph": "/'ventrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腹的, 腹部的, 腹面的",
+    "def": "toward or on or near the belly (front of a primate or lower surface of a lower animal)"
+   },
+   {
+    "pos": "n.",
+    "zh": "腹鰭",
+    "def": ""
+   }
+  ]
+ },
+ "ventricle": {
+  "ph": "/'ventrikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "室, 腦室, 心室",
+    "def": "one of four connected cavities in the brain; is continuous with the central canal of the spinal cord and contains cerebrospinal fluid"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 室(如腦室,心室等)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ventricles"
+ },
+ "ventricular": {
+  "ph": "/ven'trikjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "心室的, 膨脹的",
+    "def": "of or relating to a ventricle (of the heart or brain)"
+   }
+  ]
+ },
+ "ventriloquism": {
+  "ph": "/ven'trilәkwiz(ә)m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "口技, 腹語口技",
+    "def": "the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)"
+   }
+  ]
+ },
+ "ventriloquist": {
+  "ph": "/ven'trilәkwist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "口技藝人",
+    "def": "a performer who projects the voice into a wooden dummy"
+   }
+  ],
+  "forms": "複數 ventriloquists"
+ },
+ "ventura": {
+  "ph": "/ven'turə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凡吐拉市（美國加州）",
+    "def": ""
+   }
+  ]
+ },
+ "venture": {
+  "ph": "/'ventʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冒險, 風險",
+    "def": "any venturesome undertaking especially one with an uncertain outcome"
+   },
+   {
+    "pos": "vt.",
+    "zh": "敢於, 冒...的危險",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "冒險",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ventures｜過去式 ventured｜現在分詞 venturing｜過去分詞 ventured｜第三人稱單數 ventures"
+ },
+ "venture capital": {
+  "ph": "/ˈventʃə ˈkæpitl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>風險資本",
+    "def": ""
+   }
+  ]
+ },
+ "venturer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冒險者, 投機者",
+    "def": "a merchant who undertakes a trading venture (especially a venture that sends goods overseas)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 冒險者, 投機商人, 企業經營者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 venturers"
+ },
+ "venturesome": {
+  "ph": "/'ventʃәsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冒險的, 好冒險的, 不顧一切的",
+    "def": ""
+   }
+  ]
+ },
+ "venturi": {
+  "ph": "/ven'tuәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文氏管, 文丘裡管( 一種流體流量測定裝置, 亦作venturitube)",
+    "def": "United States architect (born in 1925)"
+   }
+  ],
+  "forms": "複數 venturi"
+ },
+ "venturing": {
+  "ph": "/ˈventʃərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "敢於, 冒險( venture的現在分詞 ); 冒…的危險; 拿…冒險; 用…進行投機",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 venturing"
+ },
+ "venturous": {
+  "ph": "/'ventʃәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好冒險的, 大膽的, 不顧一切的",
+    "def": ""
+   }
+  ]
+ },
+ "venue": {
+  "ph": "/'venju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犯罪地點, 審判地, 發生地點",
+    "def": "the scene of any event or action (especially the place of a meeting)"
+   }
+  ],
+  "forms": "複數 venues"
+ },
+ "venus": {
+  "ph": "/'vi:nәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維納斯(愛與美的女神), 金星",
+    "def": "the second nearest planet to the sun; it is peculiar in that its rotation is slow and retrograde (in the opposite sense of the Earth and all other planets excep"
+   }
+  ]
+ },
+ "venusian": {
+  "ph": "/vi:n'ju:siәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "金星的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 venusians"
+ },
+ "ver": {
+  "ph": "/vә:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] DOS內部命令:在螢幕上顯示正在使用的DOS的版本號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vers｜第三人稱單數 vers"
+ },
+ "vera": {
+  "ph": "/'viәrә/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "通用實驗性反應堆裝置（Versatile Experimental Reactor Assembly ）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 veras"
+ },
+ "veracious": {
+  "ph": "/vә'reiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "說實話的, 誠實的, 老實的, 真實的",
+    "def": ""
+   }
+  ]
+ },
+ "veracity": {
+  "ph": "/vә'ræsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說話老實, 老實, 誠實",
+    "def": "unwillingness to tell lies"
+   }
+  ]
+ },
+ "veranda": {
+  "ph": "/vә'rændә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陽臺, 走廊",
+    "def": "a porch along the outside of a building (sometimes partly enclosed)"
+   }
+  ],
+  "forms": "複數 verandas"
+ },
+ "verandah": {
+  "ph": "/vә'rændә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陽臺, 走廊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verandahs"
+ },
+ "verb": {
+  "ph": "/vә:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動詞",
+    "def": "the word class that serves as the predicate of a sentence"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 動詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verbs"
+ },
+ "verbal": {
+  "ph": "/'vә:bl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用言辭的, 言語的, 口頭的, 逐字的, 動詞的",
+    "def": "of or relating to or formed from words in general"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 言語的, 口述的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verbals"
+ },
+ "verbalise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使變成動詞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "vt. 用詞語描述, 用詞語表達",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "累贅, 嘮叨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 verbalising｜過去分詞 verbalised｜過去式 verbalised｜複數 verbalises｜第三人稱單數 verbalises"
+ },
+ "verbalization": {
+  "ph": "/.vә:bәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "言語表現, 冗長, 累贅",
+    "def": "the words that are spoken in the activity of verbalization"
+   }
+  ]
+ },
+ "verbalize": {
+  "ph": "/'vә:bәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "以言語表現, 使變成動詞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "用言辭表達, 累贅, 嘮叨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 verbalizing｜過去式 verbalized｜第三人稱單數 verbalizes｜過去分詞 verbalized"
+ },
+ "verbalized": {
+  "ph": "/ˈvə:bəlaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "描述( verbalize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "verbally": {
+  "ph": "/'v\\\\\\\\:bәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "口頭地, 非書面地",
+    "def": ""
+   }
+  ]
+ },
+ "verbatim": {
+  "ph": "/vә:'beitim/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "逐字的, 照字面的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "逐字地",
+    "def": ""
+   }
+  ]
+ },
+ "verbena": {
+  "ph": "/vә:'bi:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬鞭草",
+    "def": "any of numerous tropical or subtropical American plants of the genus Verbena grown for their showy spikes of variously colored flowers"
+   }
+  ],
+  "forms": "複數 verbenas"
+ },
+ "verbiage": {
+  "ph": "/'vә:biidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羅嗦, 冗詞, 措辭",
+    "def": "overabundance of words"
+   }
+  ]
+ },
+ "verbose": {
+  "ph": "/vә'bәus/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用字多的, 冗長的, 累贅的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 詳述",
+    "def": ""
+   }
+  ]
+ },
+ "verbosity": {
+  "ph": "/vә:'bɒsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "贅言, 嘮叨, 冗長",
+    "def": ""
+   }
+  ]
+ },
+ "verdant": {
+  "ph": "/'vә:dnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "翠綠的, 青翠的, 無經驗的, 不老練的",
+    "def": ""
+   }
+  ]
+ },
+ "verde": {
+  "ph": "/v\\\\\\\\:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維德角（塞內加爾西部）",
+    "def": ""
+   }
+  ]
+ },
+ "verderer": {
+  "ph": "/'v\\\\\\\\:dәrә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英>[律]皇室護林官",
+    "def": "Alt. of Verderor"
+   }
+  ],
+  "forms": "複數 verderers"
+ },
+ "verdi": {
+  "ph": "/'vɛədi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威爾第（義大利歌劇作曲家）",
+    "def": "Italian operatic composer (1813-1901)"
+   }
+  ]
+ },
+ "verdict": {
+  "ph": "/'vә:dikt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裁決, 判決, 判斷性意見, 定論, 結論",
+    "def": "(law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 定論, 判斷, 意見",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verdicts"
+ },
+ "verdigris": {
+  "ph": "/'vә:digri:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銅綠",
+    "def": "a blue or green powder used as a paint pigment"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 銅綠; 鹼式碳酸銅",
+    "def": ""
+   }
+  ]
+ },
+ "verdun": {
+  "ph": "/'vεdʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凡爾登（法國東北部城市）；凡爾登（加拿大東南部城市）",
+    "def": "a battle in World War I (1916); in some of the bloodiest fighting in World War I the German offensive was stopped"
+   }
+  ]
+ },
+ "verdure": {
+  "ph": "/'vә:dʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "翠綠, 新綠, 碧綠, 精力旺盛, 新鮮",
+    "def": ""
+   }
+  ]
+ },
+ "vere": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "維爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "verge": {
+  "ph": "/vә:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊緣, 邊界, 起始點",
+    "def": "the limit beyond which something happens or changes"
+   },
+   {
+    "pos": "vi.",
+    "zh": "處在邊緣, 接近, 下沉, 趨向",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 verging｜複數 verges｜過去式 verged｜第三人稱單數 verges｜過去分詞 verged"
+ },
+ "verger": {
+  "ph": "/'vә:dʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "執權標的人, 教堂司事",
+    "def": "a church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during ceremonies"
+   }
+  ],
+  "forms": "複數 vergers"
+ },
+ "verifiability": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 可驗證性",
+    "def": ""
+   }
+  ]
+ },
+ "verifiable": {
+  "ph": "/'verifaiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可核實的, 可證實的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可檢驗的, 可作證的, 可證實的",
+    "def": ""
+   }
+  ]
+ },
+ "verifiably": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "能證實地",
+    "def": ""
+   }
+  ]
+ },
+ "verification": {
+  "ph": "/.verifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "證實, 查證, 證明屬實",
+    "def": "(law) an affidavit attached to a statement confirming the truth of that statement"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 驗證",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verifications"
+ },
+ "verified": {
+  "ph": "/'verifaid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "已查清的, 已證實的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 verified｜過去式 verified"
+ },
+ "verifier": {
+  "ph": "/'verifaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檢驗者, 核實者, 考證者, 作證者, 檢驗器, 核對器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 校對員; 校對機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verifiers"
+ },
+ "verify": {
+  "ph": "/'verifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "證明, 查證, 證實, 檢驗, 校驗",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 校驗, 檢驗; DOS內部命令:設定寫入磁碟時是否驗證寫入的正確性",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 verified｜現在分詞 verifying｜過去式 verified｜第三人稱單數 verifies"
+ },
+ "verily": {
+  "ph": "/'verili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "真正地, 真實地",
+    "def": ""
+   }
+  ]
+ },
+ "verisimilar": {
+  "ph": "/.veri'similә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好像真實的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 貌似真的, 似乎是真的, 很可能的",
+    "def": ""
+   }
+  ]
+ },
+ "verisimilitude": {
+  "ph": "/.verisi'militju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好像真實, 似真, 逼真",
+    "def": "the appearance of truth; the quality of seeming to be true"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 貌似真實, 逼真, 貌似真實的事物",
+    "def": ""
+   }
+  ]
+ },
+ "veritable": {
+  "ph": "/'veritәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "名副其實的, 真實的, 確實的, 真的",
+    "def": ""
+   }
+  ]
+ },
+ "veritably": {
+  "ph": "/'veritәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "真實地, 真正地, 真地",
+    "def": ""
+   }
+  ]
+ },
+ "verity": {
+  "ph": "/'veriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "真實, 真理, 忠誠",
+    "def": "an enduring or necessary ethical or religious or aesthetic truth"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 真實性, 真理, 事實",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verities"
+ },
+ "verlaine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "魏爾倫（法國詩人）",
+    "def": ""
+   }
+  ]
+ },
+ "vermeer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維梅爾（女子名）",
+    "def": "Dutch painter renowned for his use of light (1632-1675)"
+   }
+  ]
+ },
+ "vermeil": {
+  "ph": "/'vә:meil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硃紅色, 鍍金的銀(或銅等)",
+    "def": "Vermilion; also, the color of vermilion, a bright,"
+   },
+   {
+    "pos": "adj.",
+    "zh": "硃紅色的, 鮮紅色的",
+    "def": ""
+   }
+  ]
+ },
+ "vermicelli": {
+  "ph": "/.vә:mi'seli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細麵條",
+    "def": "pasta in strings thinner than spaghetti"
+   }
+  ]
+ },
+ "vermiculite": {
+  "ph": "/vә:'mikjulait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛭石",
+    "def": "any of a group of yellow or brown hydrous silicate minerals having a micaceous structure"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 蛭石",
+    "def": ""
+   }
+  ]
+ },
+ "vermilion": {
+  "ph": "/vә'miljәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硃紅, 硃砂, 硃紅色",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "硃紅的, 鮮紅色的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗以硃紅色",
+    "def": ""
+   }
+  ]
+ },
+ "vermin": {
+  "ph": "/'vә:min/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "害蟲, 歹徒",
+    "def": "an irritating or obnoxious person"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蟲, 體外寄生蟲(如蚤、臭蟲、蚤等)",
+    "def": ""
+   }
+  ]
+ },
+ "verminous": {
+  "ph": "/'vә:minәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "害蟲的, 寄生蟲的, 由害蟲引起的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蠕蟲的",
+    "def": ""
+   }
+  ]
+ },
+ "vermont": {
+  "ph": "/vә:'mɔnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佛蒙特",
+    "def": "a state in New England"
+   }
+  ]
+ },
+ "vermouth": {
+  "ph": "/'vә:mәθ, 'vә:mu:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苦艾酒, 味美思",
+    "def": "any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks"
+   }
+  ],
+  "forms": "複數 vermouths"
+ },
+ "vern": {
+  "ph": "/vә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗恩（男子名, 等於Vernon）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verns"
+ },
+ "vernacular": {
+  "ph": "/vә'nækjulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "本地話, 方言",
+    "def": "the everyday speech of the people (as distinguished from literary language)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "地方的, 用本地語寫成的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vernaculars"
+ },
+ "vernal": {
+  "ph": "/'vә:nl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "春天的, 和煦的, 青春的",
+    "def": "of or characteristic of or occurring in spring"
+   }
+  ]
+ },
+ "verne": {
+  "ph": "/və:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凡爾納（法國小說家）；威恩（女子名）",
+    "def": "French writer who is considered the father of science fiction (1828-1905)"
+   }
+  ],
+  "forms": "複數 vernes"
+ },
+ "verney": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Verney)人名；(法)韋爾內；(英)弗尼",
+    "def": ""
+   }
+  ]
+ },
+ "vernier": {
+  "ph": "/'vә:niә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遊尺, 遊標, 遊標尺",
+    "def": "French mathematician who described the vernier scale (1580-1637)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 遊標",
+    "def": ""
+   }
+  ]
+ },
+ "vernon": {
+  "ph": "/'vә:nәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗農（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "verona": {
+  "ph": "/vi'rәunә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維羅那（義大利城市）",
+    "def": "a city in Veneto on the River Adige"
+   }
+  ]
+ },
+ "veronese": {
+  "ph": "/verә'ni:z/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "義大利之維羅納Verona的,維羅納人的",
+    "def": ""
+   }
+  ]
+ },
+ "veronica": {
+  "ph": "/vә'rɔnikә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] Veronica查詢程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 veronicas"
+ },
+ "versace": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "範思哲（世界著名品牌, 及其創始人）",
+    "def": "Italian fashion designer (1946-1997)"
+   }
+  ]
+ },
+ "versailles": {
+  "ph": "/veә'sai, vә:'seilz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "凡爾賽[法國北部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "versatile": {
+  "ph": "/'vә:sәtail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多才多藝的, 萬用的, 萬向的",
+    "def": ""
+   }
+  ]
+ },
+ "versatility": {
+  "ph": "/.vә:sә'tiliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多用途, 多才多藝, 易變",
+    "def": "having a wide variety of skills"
+   }
+  ]
+ },
+ "verse": {
+  "ph": "/vә:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詩, 韻文, 詩句",
+    "def": "a piece of poetry"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用詩表達",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "作詩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verses｜過去分詞 versed｜現在分詞 versing｜過去式 versed｜第三人稱單數 verses"
+ },
+ "versed": {
+  "ph": "/vә:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熟練的, 精通的",
+    "def": ""
+   }
+  ]
+ },
+ "versemonger": {
+  "ph": "/'vә:smʌŋgә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拙劣詩人",
+    "def": "A writer of verses; especially, a writer of"
+   }
+  ]
+ },
+ "versicolor": {
+  "ph": "/'vә:sikʌlә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多色的, 顏色多變化的",
+    "def": "Alt. of Versicolored"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 雜色的, 多色的, 花斑的",
+    "def": ""
+   }
+  ]
+ },
+ "versification": {
+  "ph": "/.vә:sifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詩律, 作詩",
+    "def": "a metrical adaptation of something (e.g., of a prose text)"
+   }
+  ],
+  "forms": "複數 versifications"
+ },
+ "versify": {
+  "ph": "/'vә:sifai/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "作詩",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用詩表達",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 versified｜現在分詞 versifying｜過去式 versified｜第三人稱單數 versifies"
+ },
+ "version": {
+  "ph": "/'vә:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種描述, 版本, 譯文",
+    "def": "an interpretation of a matter from a particular viewpoint"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 版本",
+    "def": ""
+   }
+  ],
+  "forms": "複數 versions"
+ },
+ "verso": {
+  "ph": "/'vә:sәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偶數頁, 背面, 反面",
+    "def": "left-hand page"
+   }
+  ],
+  "forms": "複數 versos"
+ },
+ "versus": {
+  "ph": "/'vә:sәs/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "對...",
+    "def": "Against; as, John Doe versus Richard Roe; -- chiefly"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 訴, 對, 相形",
+    "def": ""
+   }
+  ]
+ },
+ "vert": {
+  "ph": "/vә:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草木, 綠色",
+    "def": "Everything that grows, and bears a green leaf, within the"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 傾側, 傾轉",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 verts｜複數 verts"
+ },
+ "vertebra": {
+  "ph": "/'vә:tibrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脊椎, 椎骨",
+    "def": "one of the bony segments of the spinal column"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 椎骨, 脊髓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vertebrae"
+ },
+ "vertebral": {
+  "ph": "/'vә:tibrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "椎骨的, 脊椎的, 由椎骨構成的",
+    "def": "of or relating to or constituting vertebrae"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 椎骨的",
+    "def": ""
+   }
+  ]
+ },
+ "vertebrate": {
+  "ph": "/'vә:tibreit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脊椎動物",
+    "def": "animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium"
+   },
+   {
+    "pos": "adj.",
+    "zh": "有椎骨的, 有脊椎的",
+    "def": "having a backbone or spinal column"
+   }
+  ],
+  "forms": "複數 vertebrates"
+ },
+ "vertex": {
+  "ph": "/'vә:teks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頂點, 最高點, 頭頂, 天頂",
+    "def": "the point of intersection of lines or the point opposite the base of a figure"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 頂點",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vertices"
+ },
+ "vertical": {
+  "ph": "/'vә:tikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "垂直的, 直立的",
+    "def": "at right angles to the plane of the horizon or a base line"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 垂直的, 頂的, 頭頂的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 verticals"
+ },
+ "verticality": {
+  "ph": "/.vә:ti'kæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "垂直性, 垂直狀態",
+    "def": "position at right angles to the horizon"
+   }
+  ]
+ },
+ "vertically": {
+  "ph": "/'vetikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "垂直地",
+    "def": ""
+   }
+  ]
+ },
+ "vertiginous": {
+  "ph": "/vә:'tidʒinәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "旋轉的, 眩暈的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 眩暈的",
+    "def": ""
+   }
+  ]
+ },
+ "vertigo": {
+  "ph": "/'vә:tigәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "眩暈, 迷惘",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 眩暈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vertigos"
+ },
+ "vertu": {
+  "ph": "/vә:'tu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藝術品或古董, 愛好古董者",
+    "def": ""
+   }
+  ]
+ },
+ "vervain": {
+  "ph": "/'vә:vein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]馬鞭草屬的植物, 馬鞭草",
+    "def": ""
+   }
+  ]
+ },
+ "verve": {
+  "ph": "/vә:v/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱情, 氣魄, 神韻, 活力",
+    "def": ""
+   }
+  ]
+ },
+ "vervet": {
+  "ph": "/'vә:vit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黑長尾猴",
+    "def": "South African monkey with black face and hands"
+   }
+  ],
+  "forms": "複數 vervets"
+ },
+ "very": {
+  "ph": "/'veri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "真正的, 恰好的, 十足的, 特有的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "非常, 完全",
+    "def": ""
+   }
+  ]
+ },
+ "vesicle": {
+  "ph": "/'vesikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "囊, 泡, 水皰",
+    "def": "a small anatomically normal sac or bladderlike structure (especially one containing fluid)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 小穴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vesicles"
+ },
+ "vesicular": {
+  "ph": "/vi'sikjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(具)囊的, 有泡的, 由泡形成的",
+    "def": "of or relating to or involving vesicles"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 囊狀的, 泡狀的, 水皰的",
+    "def": ""
+   }
+  ]
+ },
+ "vesper": {
+  "ph": "/'vespә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃昏, 薄暮, 晚禱",
+    "def": "a late afternoon or evening worship service"
+   }
+  ],
+  "forms": "複數 vespers"
+ },
+ "vespers": {
+  "ph": "/'vespәz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晚禱, 晚課",
+    "def": "the sixth of the seven canonical hours of the divine office; early evening; now often made a public service on Sundays"
+   }
+  ]
+ },
+ "vessel": {
+  "ph": "/'vesl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船, 容器, 脈管",
+    "def": "a tube in which a body fluid circulates"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 管, 脈管, (容)器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vessels"
+ },
+ "vest": {
+  "ph": "/vest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "背心, 汗背心",
+    "def": "a man's sleeveless garment worn underneath a coat"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使穿衣服, 授予",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "穿衣服, 歸屬",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vested｜複數 vests｜現在分詞 vesting｜過去式 vested｜第三人稱單數 vests"
+ },
+ "vesta": {
+  "ph": "/'vestә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短火柴",
+    "def": "(Roman mythology) goddess of the hearth and its fire whose flame was tended by vestal virgins; counterpart of Greek Hestia"
+   }
+  ]
+ },
+ "vestal": {
+  "ph": "/'vestl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "女灶神的",
+    "def": "of or relating to Vesta"
+   },
+   {
+    "pos": "n.",
+    "zh": "處女, 修女",
+    "def": "a chaste woman"
+   }
+  ]
+ },
+ "vested": {
+  "ph": "/'vestid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿衣服的, 既得的, 既定的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 既得的, 法定的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vested"
+ },
+ "vested interest": {
+  "ph": "/'vestid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特權階級, 既得權利",
+    "def": ""
+   }
+  ]
+ },
+ "vestibular": {
+  "ph": "/ves'ti:bjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "門廳的, 前庭的",
+    "def": "relating to the sense of equilibrium"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 前庭的",
+    "def": ""
+   }
+  ]
+ },
+ "vestibule": {
+  "ph": "/'vestibju:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前庭, 門廊, 前廳",
+    "def": "any of various bodily cavities leading to another cavity (as of the ear or vagina)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "為...設門廊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vestibules｜過去分詞 vestibuled"
+ },
+ "vestige": {
+  "ph": "/'vestidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遺蹟, 痕跡, 殘餘, 絲毫, 退化的器官",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 遺蹟, 剩件, 剩餘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vestiges"
+ },
+ "vestigial": {
+  "ph": "/ves'tidʒiәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "殘留的, 遺留的, 退化的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 遺蹟的, 剩餘的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vestigials"
+ },
+ "vesting": {
+  "ph": "/'vestiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 歸屬, 授予",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vesting"
+ },
+ "vestment": {
+  "ph": "/'vestmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣服, 衣裳, 禮服, 法衣, 祭服",
+    "def": "gown (especially ceremonial garments) worn by the clergy"
+   }
+  ],
+  "forms": "複數 vestments"
+ },
+ "vestry": {
+  "ph": "/'vestri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法衣聖器儲藏室, 祈禱室, 教區委員會",
+    "def": "in the Protestant Episcopal Church: a committee elected by the congregation to work with the churchwardens in managing the temporal affairs of the church"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 教堂法衣室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vestries"
+ },
+ "vestryman": {
+  "ph": "/'vestrimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教區代表, 教區委員",
+    "def": "a man who is a member of a church vestry"
+   }
+  ],
+  "forms": "複數 vestrymen"
+ },
+ "vesture": {
+  "ph": "/'vestʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣服, 衣裳, 覆蓋物",
+    "def": "something that covers or cloaks like a garment"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給穿衣服",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vesturing｜過去式 vestured｜第三人稱單數 vestures｜過去分詞 vestured"
+ },
+ "vesuvius": {
+  "ph": "/vi'su:vjәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維蘇威火山（義大利西南部）",
+    "def": "a volcano in southwestern Italy on the Mediterranean coast; a Plinian eruption in 79 AD buried Pompeii and killed Pliny the Elder; last erupted in 1944"
+   }
+  ]
+ },
+ "vet": {
+  "ph": "/vet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獸醫",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "當獸醫",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "診斷, 檢審",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vets｜過去分詞 vetted｜現在分詞 vetting｜第三人稱單數 vets｜過去式 vetted"
+ },
+ "vetch": {
+  "ph": "/vetʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巢菜, 野豌豆",
+    "def": "any of various climbing plants of the genus Vicia having pinnately compound leaves that terminate in tendrils and small variously colored flowers; includes valu"
+   }
+  ],
+  "forms": "複數 vetches"
+ },
+ "veteran": {
+  "ph": "/'vetәrәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老手, 退伍軍人, 老兵, 老樹",
+    "def": "a serviceman who has seen considerable active service"
+   },
+   {
+    "pos": "adj.",
+    "zh": "老兵的, 老練的, 經驗豐富的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 veterans"
+ },
+ "veterinarian": {
+  "ph": "/.vetәri'nєәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獸醫",
+    "def": "a doctor who practices veterinary medicine"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 獸醫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 veterinarians"
+ },
+ "veterinary": {
+  "ph": "/'vetәrinәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "獸醫的",
+    "def": "of or relating to veterinarians or veterinary medicine"
+   },
+   {
+    "pos": "n.",
+    "zh": "獸醫",
+    "def": ""
+   }
+  ]
+ },
+ "veto": {
+  "ph": "/'vi:tәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "否決權",
+    "def": "a vote that blocks a decision"
+   },
+   {
+    "pos": "vt.",
+    "zh": "否決, 禁止",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vetoed｜過去式 vetoed｜現在分詞 vetoing｜第三人稱單數 vetoes"
+ },
+ "vetting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 審查, 修正",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vetting"
+ },
+ "veuve": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Veuve)人名；(法)弗夫",
+    "def": ""
+   }
+  ]
+ },
+ "vex": {
+  "ph": "/veks/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使煩惱, 使苦惱",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "煩惱",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vexed｜現在分詞 vexing｜過去式 vexed｜第三人稱單數 vexes｜複數 vexes"
+ },
+ "vexation": {
+  "ph": "/vek'seiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惱怒, 煩惱, 令人惱火的事情",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 招人煩惱的事物, 煩惱, 苦悶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vexations"
+ },
+ "vexatious": {
+  "ph": "/vek'seiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "叫人發急的, 使人為難的, 無理纏訟的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 苛捐雜稅",
+    "def": ""
+   }
+  ]
+ },
+ "vexed": {
+  "ph": "/vekst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "煩惱的, 焦急的, 生氣的, 為難的, 惱怒的, 爭論不休的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vexed｜過去式 vexed"
+ },
+ "vexing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使人煩惱的, 使人惱火的",
+    "def": ""
+   }
+  ]
+ }
+}

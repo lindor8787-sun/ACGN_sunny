@@ -1,0 +1,44 @@
+{
+ "gc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 氣相色譜法; 氣相層析",
+    "def": ""
+   }
+  ]
+ },
+ "gcc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "海灣合作委員會（Gulf Cooperation Council）",
+    "def": ""
+   }
+  ]
+ },
+ "gce": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "普通教育文憑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gces"
+ },
+ "gcse": {
+  "ph": "/ˌdʒi: si: es ˈi:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "普通中等教育證書(General Certificate of Secondary Education)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gcses"
+ }
+}

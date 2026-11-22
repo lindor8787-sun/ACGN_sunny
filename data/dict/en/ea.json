@@ -1,0 +1,1242 @@
+{
+ "ea": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 有效地址, 單元動作, 外部訪問",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 卵白蛋白, 紅細胞抗體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eas"
+ },
+ "each": {
+  "ph": "/i:tʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "每個, 每一",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "每個",
+    "def": ""
+   },
+   {
+    "pos": "pron.",
+    "zh": "每個, 個人, 各自",
+    "def": ""
+   }
+  ]
+ },
+ "each other": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "彼此",
+    "def": ""
+   }
+  ]
+ },
+ "eadwine": {
+  "ph": "/'edwin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃德溫(=Edwin)",
+    "def": ""
+   }
+  ]
+ },
+ "eager": {
+  "ph": "/'i:gә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熱心的, 渴望的, 熱望的",
+    "def": "having or showing keen interest or intense desire or impatient expectancy"
+   }
+  ]
+ },
+ "eagerly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "渴望, 熱衷於, 熱切",
+    "def": ""
+   }
+  ]
+ },
+ "eagerness": {
+  "ph": "/'i:gәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱心",
+    "def": "a positive feeling of wanting to push ahead with something"
+   }
+  ]
+ },
+ "eagle": {
+  "ph": "/'i:gl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鷹, 鷹狀標飾",
+    "def": "any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight"
+   }
+  ],
+  "forms": "複數 eagles｜過去式 eagled｜過去分詞 eagled｜現在分詞 eagling｜第三人稱單數 eagles"
+ },
+ "eaglet": {
+  "ph": "/'i:glit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小鷹",
+    "def": "a young eagle"
+   }
+  ]
+ },
+ "eagleton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伊格爾頓",
+    "def": ""
+   }
+  ]
+ },
+ "ealing": {
+  "ph": "/'i:liŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伊令(英格蘭東南部一城市)",
+    "def": ""
+   }
+  ]
+ },
+ "eames": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃姆斯",
+    "def": ""
+   }
+  ]
+ },
+ "eamon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃蒙（男子名, 愛爾蘭語）, 含義是“愉快的保護”（happy protection）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "艾曼（人名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "伊蒙（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "eamonn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Eamonn)人名；(英)埃蒙",
+    "def": ""
+   }
+  ]
+ },
+ "ear": {
+  "ph": "/iә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳朵, 傾聽, 聽覺, 穗",
+    "def": "the sense organ for hearing and equilibrium"
+   },
+   {
+    "pos": "vi.",
+    "zh": "抽穗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ears"
+ },
+ "earache": {
+  "ph": "/'iәreik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳朵痛",
+    "def": "an ache localized in the middle or inner ear"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 耳痛",
+    "def": ""
+   }
+  ]
+ },
+ "eardrum": {
+  "ph": "/'iәdrʌm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中耳, 鼓膜",
+    "def": "the membrane in the ear that vibrates to sound"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鼓室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eardrums"
+ },
+ "eared": {
+  "ph": "/iәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有...耳的, 有把的, 有穗的",
+    "def": "having ears (or appendages resembling ears) or having ears of a specified kind; often used in combination"
+   }
+  ]
+ },
+ "earflap": {
+  "ph": "/'iәflæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(禦寒用的)耳罩",
+    "def": "one of two flaps attached to a cap to keep the ears warm"
+   }
+  ],
+  "forms": "複數 earflaps"
+ },
+ "earful": {
+  "ph": "/'iәful/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驚人(或重要)新聞的透露, (說話、閒話等的)大量, 過多, 斥責",
+    "def": "an outpouring of gossip"
+   }
+  ]
+ },
+ "earhole": {
+  "ph": "/'iәhәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳孔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earholes"
+ },
+ "earl": {
+  "ph": "/ә:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯爵",
+    "def": "a British peer ranking below a marquess and above a viscount"
+   }
+  ],
+  "forms": "複數 earls"
+ },
+ "earldom": {
+  "ph": "/'ә:ldәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯爵的身分",
+    "def": "the dignity or rank or position of an earl or countess"
+   }
+  ],
+  "forms": "複數 earldoms"
+ },
+ "earle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "厄爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "earless": {
+  "ph": "/'iәlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無耳的, 聽覺不佳的, 無穗的",
+    "def": "lacking external ears"
+   }
+  ]
+ },
+ "earlier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "早的；初期的",
+    "def": ""
+   }
+  ]
+ },
+ "earliest": {
+  "ph": "/'iәliist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "早的；初期的",
+    "def": ""
+   }
+  ]
+ },
+ "earlobe": {
+  "ph": "/'iәlәub/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳垂",
+    "def": "the fleshy pendulous part of the external human ear"
+   }
+  ],
+  "forms": "複數 earlobes"
+ },
+ "earls": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯爵（earl的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "early": {
+  "ph": "/'ә:li/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "早的, 早熟的",
+    "def": "at or near the beginning of a period of time or course of events or before the usual or expected time"
+   },
+   {
+    "pos": "adv.",
+    "zh": "很早, 初",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 earlier｜最高級 earliest"
+ },
+ "earmark": {
+  "ph": "/'iәmɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳上記號, 特徵, 記號, 標記",
+    "def": "identification mark on the ear of a domestic animal"
+   },
+   {
+    "pos": "vt.",
+    "zh": "在耳朵上做記號, 標記, 指定...作特定用途",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 earmarked｜過去式 earmarked｜現在分詞 earmarking｜第三人稱單數 earmarks｜複數 earmarks"
+ },
+ "earmarked": {
+  "ph": "/ˈɪəˌmɑ:kt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "指定…作為特定用途( earmark的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 earmarked｜過去式 earmarked"
+ },
+ "earn": {
+  "ph": "/ә:n/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "賺得, 獲得, 博得",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 歐州科學研究網",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 earning｜過去分詞 earned｜過去式 earned｜第三人稱單數 earns"
+ },
+ "earned": {
+  "ph": "/ә:nd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "掙得的",
+    "def": "gained or acquired; especially through merit or as a result of effort or action"
+   }
+  ],
+  "forms": "過去分詞 earned｜過去式 earned"
+ },
+ "earner": {
+  "ph": "/'ә:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賺錢的人",
+    "def": "someone who earn wages in return for their labor"
+   }
+  ],
+  "forms": "複數 earners"
+ },
+ "earnest": {
+  "ph": "/'ә:nist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "定金, 誠摯, 認真",
+    "def": "something of value given by one person to another to bind a contract"
+   },
+   {
+    "pos": "adj.",
+    "zh": "認真的, 熱心的, 重要的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earnests"
+ },
+ "earnestly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "誠摯地；認真地",
+    "def": ""
+   }
+  ]
+ },
+ "earnestness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "認真；誠摯；正經",
+    "def": "an earnest and sincere feeling"
+   }
+  ]
+ },
+ "earnings": {
+  "ph": "/'ә:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "所賺的錢, 工資, 收入",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 工資, 收入, 收益, 盈餘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earnings"
+ },
+ "earphone": {
+  "ph": "/'iәfәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳機, 聽筒",
+    "def": "electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 耳機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earphones｜第三人稱單數 earphones"
+ },
+ "earpiece": {
+  "ph": "/'iәpi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳機, 護耳片, 眼鏡腳, 頭戴式耳機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 聽筒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earpieces"
+ },
+ "earplug": {
+  "ph": "/'iәplʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳塞",
+    "def": "an earphone that is inserted into the ear canal"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 耳塞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earplugs"
+ },
+ "earring": {
+  "ph": "/'iәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳環, 耳飾",
+    "def": "jewelry to ornament the ear; usually clipped to the earlobe or fastened through a hole in the lobe"
+   }
+  ],
+  "forms": "複數 earrings"
+ },
+ "earshot": {
+  "ph": "/'iәʃɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聽力所及之範圍, 可聽距離",
+    "def": "the range within which a voice can be heard"
+   }
+  ]
+ },
+ "earsplitting": {
+  "ph": "/'iәsplitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "震耳欲聾的",
+    "def": ""
+   }
+  ]
+ },
+ "earth": {
+  "ph": "/ә:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地球, 泥土, 世界, 塵世",
+    "def": "the 3rd planet from the sun; the planet we live on"
+   },
+   {
+    "pos": "vt.",
+    "zh": "埋入土中, 趕入洞內",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "躲入洞內",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earths｜過去分詞 earthed｜現在分詞 earthing｜過去式 earthed｜第三人稱單數 earths"
+ },
+ "earthbound": {
+  "ph": "/'\\\\\\\\:θbajnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "只在地球上的, 只在地面的, 只在陸地的, 世俗的, 平凡的, 缺乏想象力的",
+    "def": ""
+   }
+  ]
+ },
+ "earthen": {
+  "ph": "/'ә:θәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "土製的, 陶製的",
+    "def": "made of earth (or baked clay)"
+   }
+  ]
+ },
+ "earthenware": {
+  "ph": "/'ә:θәnweә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陶器",
+    "def": "ceramic ware made of porous clay fired at low heat"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 陶器; 土器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earthenwares"
+ },
+ "earthiness": {
+  "ph": "/'ә:θinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土質, 土性, 粗陋, 樸實",
+    "def": "The quality or state of being earthy, or of containing"
+   }
+  ]
+ },
+ "earthling": {
+  "ph": "/'ә:θliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "世人, 俗人, 俗物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earthlings"
+ },
+ "earthly": {
+  "ph": "/'ә:θli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地球的, 俗世的, 可能的",
+    "def": "of or belonging to or characteristic of this earth as distinguished from heaven"
+   }
+  ]
+ },
+ "earthmover": {
+  "ph": "/'ә:θmu:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "推土機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 earthmovers"
+ },
+ "earthquake": {
+  "ph": "/'ә:θkweik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地震",
+    "def": "shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity"
+   }
+  ],
+  "forms": "複數 earthquakes"
+ },
+ "earthshaking": {
+  "ph": "/'ә:θ.ʃeikiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "驚天動地的",
+    "def": ""
+   }
+  ]
+ },
+ "earthward": {
+  "ph": "/'ә:θwәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向地球的",
+    "def": ""
+   }
+  ]
+ },
+ "earthwork": {
+  "ph": "/'\\\\\\\\:θw\\\\\\\\:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土木工事, 土方工程",
+    "def": "an earthen rampart"
+   }
+  ],
+  "forms": "複數 earthworks"
+ },
+ "earthworm": {
+  "ph": "/'ә:θwә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蚯蚓",
+    "def": "terrestrial worm that burrows into and helps aerate soil; often surfaces when the ground is cool or wet; used as bait by anglers"
+   }
+  ],
+  "forms": "複數 earthworms"
+ },
+ "earthy": {
+  "ph": "/'ә:θi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "土的, 土質的, 土味的",
+    "def": "of or consisting of or resembling earth"
+   }
+  ],
+  "forms": "比較級 earthier"
+ },
+ "earwax": {
+  "ph": "/'iәwæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳垢",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 耵聹, 耳垢",
+    "def": ""
+   }
+  ]
+ },
+ "earwig": {
+  "ph": "/'iәwi^/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蠼螋",
+    "def": "any of numerous insects of the order Dermaptera having elongate bodies and slender many-jointed antennae and a pair of large pincers at the rear of the abdomen"
+   }
+  ],
+  "forms": "複數 earwigs｜現在分詞 earwigging｜過去式 earwigged"
+ },
+ "earworm": {
+  "ph": "/'iәwә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "螟蛉",
+    "def": ""
+   }
+  ]
+ },
+ "ease": {
+  "ph": "/i:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安樂, 安逸, 悠閒",
+    "def": "freedom from difficulty or hardship or effort"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使安樂, 使安心, 減輕, 放鬆",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "減輕, 放鬆, 靈活地移動",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 eased｜現在分詞 easing｜過去分詞 eased｜第三人稱單數 eases"
+ },
+ "easel": {
+  "ph": "/'i:zәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畫架, 黑板架",
+    "def": "an upright tripod for displaying something (usually an artist's canvas)"
+   }
+  ],
+  "forms": "複數 easels"
+ },
+ "easement": {
+  "ph": "/'i:zmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緩和, 減輕, 便利設施",
+    "def": "(law) the privilege of using something that is not your own (as using another's land as a right of way to your own land)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 在他人土地上的通行權, 地役權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 easements"
+ },
+ "easier": {
+  "ph": "/'i:ziә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "更簡單；較早的；容易些（easy的比較級形式）",
+    "def": ""
+   }
+  ]
+ },
+ "easily": {
+  "ph": "/'i:zili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "容易地, 輕易地, 流利地",
+    "def": ""
+   }
+  ]
+ },
+ "easiness": {
+  "ph": "/'i:zinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "容易, 輕鬆, 安適",
+    "def": "a feeling of refreshing tranquility and an absence of tension or worry"
+   }
+  ]
+ },
+ "easing": {
+  "ph": "/'i:ziŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吃勢；容位；松型",
+    "def": "a change for the better"
+   }
+  ],
+  "forms": "現在分詞 easing｜複數 easings"
+ },
+ "eason": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊森（男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 easons"
+ },
+ "east": {
+  "ph": "/i:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東方, 東",
+    "def": "the cardinal compass point that is at 90 degrees"
+   },
+   {
+    "pos": "adj.",
+    "zh": "東方的, 向東的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向東方, 朝東方",
+    "def": ""
+   }
+  ]
+ },
+ "eastbound": {
+  "ph": "/'i:stbaund/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "往東的, 向東旅行的",
+    "def": ""
+   }
+  ]
+ },
+ "eastbourne": {
+  "ph": "/'i:stbɔ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伊斯特本(英國一港市)",
+    "def": ""
+   }
+  ]
+ },
+ "eastender": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "East End的變形",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eastenders"
+ },
+ "easter": {
+  "ph": "/'i:stә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "復活節",
+    "def": "a Christian celebration of the Resurrection of Christ; celebrated on the Sunday following the first full moon after the vernal equinox"
+   }
+  ],
+  "forms": "複數 easters"
+ },
+ "easterly": {
+  "ph": "/'i:stәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "東的, 向東的, 從東的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向東",
+    "def": ""
+   }
+  ],
+  "forms": "複數 easterlies"
+ },
+ "eastern": {
+  "ph": "/'i:stәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東方人, 東正教徒",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "東方的, 向東的, 自東的",
+    "def": "of or characteristic of eastern regions of the United States"
+   }
+  ]
+ },
+ "easterner": {
+  "ph": "/'i:stәnә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東方人",
+    "def": "an inhabitant of an eastern area; especially of the U.S."
+   }
+  ],
+  "forms": "複數 easterners"
+ },
+ "easternmost": {
+  "ph": "/'i:stәnmәust/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最東部的",
+    "def": ""
+   }
+  ]
+ },
+ "eastgate": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伊斯特蓋特（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "eastham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Eastham)人名；(英)伊斯特漢",
+    "def": ""
+   }
+  ]
+ },
+ "eastleigh": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊斯特利 (英國國會選區)",
+    "def": ""
+   }
+  ]
+ },
+ "eastman": {
+  "ph": "/'i:stmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊士曼（姓氏）",
+    "def": "United States inventor of a dry-plate process of developing photographic film and of flexible film (his firm introduced roll film) and of the box camera and of "
+   }
+  ]
+ },
+ "easton": {
+  "ph": "/'i:stən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊斯頓（人名）；伊斯頓（美國地名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eastons"
+ },
+ "eastward": {
+  "ph": "/'i:stwәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朝東方向",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "向東方的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向東",
+    "def": ""
+   }
+  ]
+ },
+ "eastwards": {
+  "ph": "/'i:stwәdz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向東方地",
+    "def": ""
+   }
+  ]
+ },
+ "eastwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊斯威特",
+    "def": ""
+   }
+  ]
+ },
+ "easy": {
+  "ph": "/'i:zi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "容易的, 緩緩的, 舒適的, 從容的, 寬容的, 流暢的, 隨便的, 自在的, 疲軟的",
+    "def": "posing no difficulty; requiring little effort"
+   },
+   {
+    "pos": "adv.",
+    "zh": "容易地, 慢慢地",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 easier｜最高級 easiest"
+ },
+ "easy-going": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "隨和的",
+    "def": "Moving easily; hence, mild-tempered; ease-loving;"
+   }
+  ]
+ },
+ "easygoing": {
+  "ph": "/'i:zigәuiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "脾氣隨和的, 逍遙自在的, 悠閒的, 懶散的",
+    "def": ""
+   }
+  ]
+ },
+ "eat": {
+  "ph": "/i:t/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "吃, 腐蝕",
+    "def": "take in solid food"
+   }
+  ],
+  "forms": "現在分詞 eating｜過去式 ate｜過去分詞 eaten｜第三人稱單數 eats"
+ },
+ "eatable": {
+  "ph": "/'i:tәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可以吃的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "食物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eatables"
+ },
+ "eater": {
+  "ph": "/'i:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吃...的人, 生吃的水果, 美味的水果",
+    "def": "someone who consumes food for nourishment"
+   }
+  ],
+  "forms": "複數 eaters"
+ },
+ "eatery": {
+  "ph": "/'i:tәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "簡便飲食店",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eateries"
+ },
+ "eating": {
+  "ph": "/'i:tiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吃, 食物",
+    "def": "the act of consuming food"
+   },
+   {
+    "pos": "adj.",
+    "zh": "侵蝕的, 腐蝕性的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 eating"
+ },
+ "eaton": {
+  "ph": "/'i:tn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊頓（姓氏））",
+    "def": ""
+   }
+  ]
+ },
+ "eats": {
+  "ph": "/i:ts/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "裝置準確度測試站（Equipment Accuracy Test Station）",
+    "def": ""
+   }
+  ]
+ },
+ "eau": {
+  "ph": "/әu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 水",
+    "def": ""
+   }
+  ]
+ },
+ "eave": {
+  "ph": "/i:v/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屋簷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eaves｜過去式 eaved"
+ },
+ "eavesdrop": {
+  "ph": "/'i:vzdrɒp/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "偷聽",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "屋簷水, 偷聽",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 eavesdropping｜第三人稱單數 eavesdrops｜過去分詞 eavesdropped｜過去式 eavesdropped"
+ },
+ "eavesdropper": {
+  "ph": "/'i:vzdrɒpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偷聽者",
+    "def": "a secret listener to private conversations"
+   }
+  ],
+  "forms": "複數 eavesdroppers"
+ },
+ "eavesdropping": {
+  "ph": "/'i:vzdrɒpiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偷聽",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 竊聽罪, 偷聽",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 eavesdropping"
+ }
+}

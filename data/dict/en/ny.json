@@ -1,0 +1,141 @@
+{
+ "ny": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "紐約",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 紐約",
+    "def": ""
+   }
+  ]
+ },
+ "nyasaland": {
+  "ph": "/ni'æsәlænd,nai-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尼亞薩蘭人(非洲東南部國家馬拉維)",
+    "def": ""
+   }
+  ]
+ },
+ "nye": {
+  "ph": "/nai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奈(m.)",
+    "def": "A brood or flock of pheasants."
+   },
+   {
+    "pos": "n.",
+    "zh": "<英>=nide",
+    "def": ""
+   }
+  ]
+ },
+ "nylon": {
+  "ph": "/'nailɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尼龍",
+    "def": "a thermoplastic polyamide; a family of strong resilient synthetic fibers"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 尼龍; 聚醯胺纖維",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nylons"
+ },
+ "nymph": {
+  "ph": "/nimf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "居於山林水澤的仙女, 蛹, 美麗的少女",
+    "def": "(classical mythology) a minor nature goddess usually depicted as a beautiful maiden"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 稚蟲, 若蟲, 蝻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nymphs"
+ },
+ "nymphaea": {
+  "ph": "/nim'fi:ə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睡蓮屬",
+    "def": "the type genus of the family Nymphaeaceae; any of a variety of water lilies"
+   }
+  ]
+ },
+ "nymphet": {
+  "ph": "/'nimfit. nim'fet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "早熟的少女；放蕩的少婦；仙女般的少女",
+    "def": "a sexually attractive young woman"
+   }
+  ],
+  "forms": "複數 nymphets"
+ },
+ "nymphomaniac": {
+  "ph": "/-'meiniæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "性慾強烈的女人",
+    "def": "a woman with abnormal sexual desires"
+   }
+  ],
+  "forms": "複數 nymphomaniacs"
+ },
+ "nyse": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 紐約證券交易所",
+    "def": ""
+   }
+  ]
+ },
+ "nyssa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 紫樹屬",
+    "def": ""
+   }
+  ]
+ },
+ "nystagmus": {
+  "ph": "/ni'stægmәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "眼球震顫",
+    "def": "involuntary movements of the eyeballs; its presence or absence is used to diagnose a variety of neurological and visual disorders"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 眼球震顫",
+    "def": ""
+   }
+  ]
+ }
+}

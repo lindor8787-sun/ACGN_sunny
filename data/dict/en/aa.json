@@ -1,0 +1,95 @@
+{
+ "aa": {
+  "ph": "/ɔ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 絕對地址, 農業自動化, 自動應答",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 各, 各個",
+    "def": ""
+   }
+  ]
+ },
+ "aaa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 急性焦慮發作",
+    "def": ""
+   }
+  ]
+ },
+ "aaah": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "American Association for the Advancement of the Humanities 美國人權促進會",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aaahed"
+ },
+ "aachen": {
+  "ph": "/'ɑ:kәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "亞琛[德意志聯邦共和國西部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "aah": {
+  "ph": "/ɑ:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "[軍] Armored Artillery Howitzer, 裝甲榴彈炮",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "[軍] Advanced Attack Helicopter, 先進攻擊直升機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aahs｜現在分詞 aahing｜過去式 aahed"
+ },
+ "aardvark": {
+  "ph": "/'ɑ:dvɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土豚",
+    "def": "nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata"
+   }
+  ],
+  "forms": "複數 aardvarks"
+ },
+ "aargh": {
+  "ph": "/ɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "啊",
+    "def": ""
+   }
+  ]
+ },
+ "aaron": {
+  "ph": "/'eәrәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞倫（男子名）；[聖經]亞倫（摩西之兄, 猶太教的第一祭司長）",
+    "def": "United States professional baseball player who hit more home runs than Babe Ruth (born in 1934)"
+   }
+  ]
+ }
+}

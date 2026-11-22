@@ -1,0 +1,835 @@
+{
+ "av": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 陣列/向量, 屬性值, 有效, 平均值",
+    "def": ""
+   }
+  ],
+  "forms": "複數 avs"
+ },
+ "ava": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 卡法根, 麻醉椒(根及根莖)",
+    "def": ""
+   }
+  ]
+ },
+ "avail": {
+  "ph": "/ә'veil/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "有用, 有利",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "有利於",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "效用, 利益",
+    "def": "a means of serving"
+   }
+  ],
+  "forms": "過去式 availed｜過去分詞 availed｜現在分詞 availing｜第三人稱單數 avails"
+ },
+ "availability": {
+  "ph": "/ә.veilә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有效性, 可利用性, 可利用的人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 有效性; 可用性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 availabilities"
+ },
+ "available": {
+  "ph": "/ә'veilәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可利用的, 可獲得的, 有效的",
+    "def": "obtainable or accessible and ready for use or service"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有效的, 可得的",
+    "def": ""
+   }
+  ]
+ },
+ "avalanche": {
+  "ph": "/'ævәlɑ:ntʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪崩, 山崩, 大量",
+    "def": "a slide of large masses of snow and ice and mud down a mountain"
+   },
+   {
+    "pos": "vi.",
+    "zh": "崩塌",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "大量湧至",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 avalanching｜過去式 avalanched｜第三人稱單數 avalanches｜過去分詞 avalanched"
+ },
+ "avalon": {
+  "ph": "/'ævәlɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿瓦隆(凱爾特族傳說中的西方樂土島,據說亞瑟王及其部下死後屍體被移往該島)",
+    "def": ""
+   }
+  ]
+ },
+ "avant": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "激進的；先鋒派的",
+    "def": ""
+   }
+  ]
+ },
+ "avant-garde": {
+  "ph": "/.ævɔŋ'ɡɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "先鋒派；前衛派",
+    "def": "any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts)"
+   }
+  ],
+  "forms": "複數 avant-gardes"
+ },
+ "avarice": {
+  "ph": "/'ævәris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貪婪",
+    "def": "reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)"
+   }
+  ]
+ },
+ "avaricious": {
+  "ph": "/.ævә'riʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貪婪的",
+    "def": ""
+   }
+  ]
+ },
+ "avascular": {
+  "ph": "/ә'vɑ:skjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無血管的",
+    "def": "without blood vessels"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無血管的",
+    "def": ""
+   }
+  ]
+ },
+ "avatar": {
+  "ph": "/.ævә'tɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天神下凡化作人形, 化身",
+    "def": "the manifestation of a Hindu deity (especially Vishnu) in human or superhuman or animal form"
+   }
+  ],
+  "forms": "複數 avatars"
+ },
+ "avc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "average variable cost 平均可變成本",
+    "def": ""
+   }
+  ],
+  "forms": "複數 avcs"
+ },
+ "ave": {
+  "ph": "/'ævi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大街, 途徑, 林蔭大道",
+    "def": "An ave Maria."
+   }
+  ],
+  "forms": "現在分詞 aving"
+ },
+ "avebury": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Avebury)人名；(英)埃夫伯里",
+    "def": ""
+   }
+  ]
+ },
+ "avec": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Allen video-enhanced contrast microscopy 艾倫視像增強相差顯微術; automatic vibration exciter control 自動振動激勵器控制",
+    "def": ""
+   }
+  ]
+ },
+ "aveling": {
+  "ph": "/'eivliŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃夫林(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "avenge": {
+  "ph": "/ә'vendʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "為...報復, 報仇",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 avenged｜過去式 avenged｜第三人稱單數 avenges｜現在分詞 avenging"
+ },
+ "avenger": {
+  "ph": "/ә'vendʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "復仇者",
+    "def": "someone who takes vengeance"
+   }
+  ],
+  "forms": "複數 avengers｜第三人稱單數 avengers"
+ },
+ "avenging": {
+  "ph": "/ә'vendʒiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "復仇的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 avenging"
+ },
+ "avenue": {
+  "ph": "/'ævәnju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大街, 途徑, 林蔭路",
+    "def": "a line of approach"
+   }
+  ],
+  "forms": "複數 avenues"
+ },
+ "aver": {
+  "ph": "/ә'vә:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "斷言, 堅稱",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 立證, 證明, 確證",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 averred｜第三人稱單數 avers｜過去分詞 averred｜現在分詞 averring｜複數 avers"
+ },
+ "average": {
+  "ph": "/'ævәridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平均, 平均數, 一般水平, 海損",
+    "def": "a statistic describing the location of a distribution"
+   },
+   {
+    "pos": "adj.",
+    "zh": "平均的, 中等的, 平常的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "算出...平均數, 平均做, 均分, 使平衡",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "平均為, 呈中間色",
+    "def": ""
+   }
+  ],
+  "forms": "複數 averages｜現在分詞 averaging｜過去式 averaged｜過去分詞 averaged｜第三人稱單數 averages"
+ },
+ "averaged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "平均（average的過去式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 averaged｜過去式 averaged"
+ },
+ "averagely": {
+  "ph": "/'ævəridʒli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "平均地；一般地",
+    "def": ""
+   }
+  ]
+ },
+ "averageness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "平均數；平均水平；平庸",
+    "def": ""
+   }
+  ]
+ },
+ "averaging": {
+  "ph": "/'ævәridʒiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 求平均值",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 averaging"
+ },
+ "averse": {
+  "ph": "/ә'vә:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不願意的, 反對的",
+    "def": ""
+   }
+  ]
+ },
+ "aversion": {
+  "ph": "/ә'vә:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厭惡, 討厭的事, 討厭的人",
+    "def": "the act of turning yourself (or your gaze) away"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 厭惡, 移轉, 移位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aversions"
+ },
+ "aversive": {
+  "ph": "/ə'və:siv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反感的；嫌惡的",
+    "def": "tending to repel or dissuade"
+   }
+  ]
+ },
+ "avert": {
+  "ph": "/ә'vә:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "轉開, 避免, 防止",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 averted｜過去式 averted｜現在分詞 averting｜第三人稱單數 averts"
+ },
+ "averted": {
+  "ph": "/ə'və:tid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "避免（avert的過去分詞）；轉開",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "轉移的；移開的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 averted"
+ },
+ "avery": {
+  "ph": "/'eivәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾弗裡（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "avi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "多媒體檔案格式（Audio Video Interactive）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 avi"
+ },
+ "avian": {
+  "ph": "/'eiviәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鳥類的",
+    "def": "pertaining to or characteristic of birds"
+   },
+   {
+    "pos": "n.",
+    "zh": "鳥",
+    "def": ""
+   }
+  ]
+ },
+ "aviary": {
+  "ph": "/'eivjәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大型鳥舍, 鳥類飼養場",
+    "def": "a building where birds are kept"
+   }
+  ],
+  "forms": "複數 aviaries"
+ },
+ "aviation": {
+  "ph": "/.eivi'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航空, 航空學, 飛行術",
+    "def": "the aggregation of a country's military aircraft"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 航空, 飛行, 飛行術",
+    "def": ""
+   }
+  ]
+ },
+ "aviator": {
+  "ph": "/'eivieitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛行員",
+    "def": "someone who operates an aircraft"
+   }
+  ],
+  "forms": "複數 aviators"
+ },
+ "avid": {
+  "ph": "/'ævid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "渴望的, 急切的, 勁頭十足的",
+    "def": ""
+   }
+  ]
+ },
+ "avidity": {
+  "ph": "/ә'viditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱望, 急切, 利慾心",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 貪婪癖",
+    "def": ""
+   }
+  ]
+ },
+ "avidly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "貪心地；熱心地",
+    "def": ""
+   }
+  ]
+ },
+ "avignon": {
+  "ph": "/.ævi:n'jәuŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿維尼昂綢",
+    "def": "a town in southeastern France on the Rhone River; the seat of the papacy from 1309 to 1378 and the residence of antipopes during the Great Schism"
+   }
+  ]
+ },
+ "avila": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿維拉（西班牙中部的古城）；阿維拉（男子名）；阿維拉粘膠草杆纖維",
+    "def": ""
+   }
+  ]
+ },
+ "avionics": {
+  "ph": "/,eivi'ɔniks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 航空電子學",
+    "def": ""
+   }
+  ]
+ },
+ "aviv": {
+  "ph": "/ɑ:'viv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大自然的重生",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Aviv)人名；(俄)阿維夫",
+    "def": ""
+   }
+  ]
+ },
+ "avocado": {
+  "ph": "/.ævәu'kɑ:dou/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鱷梨, 鱷梨樹",
+    "def": "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed"
+   }
+  ],
+  "forms": "複數 avocados"
+ },
+ "avocation": {
+  "ph": "/.ævәu'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副業, 嗜好",
+    "def": "an auxiliary activity"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 法院之間訴訟的轉移, 職業, 本職",
+    "def": ""
+   }
+  ],
+  "forms": "複數 avocations"
+ },
+ "avocational": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "業餘愛好的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "副業的",
+    "def": ""
+   }
+  ]
+ },
+ "avoid": {
+  "ph": "/ә'vɒid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "避免, 防止, 撤消",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 避免, 迴避, 躲開",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 avoided｜現在分詞 avoiding｜過去式 avoided｜第三人稱單數 avoids"
+ },
+ "avoidable": {
+  "ph": "/ә'vɒidәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可避免的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可作為無效的, 可迴避的, 可避免的",
+    "def": ""
+   }
+  ]
+ },
+ "avoidance": {
+  "ph": "/ә'vɒidәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "避免, 避開, 逃避",
+    "def": "deliberately avoiding; keeping away from or preventing from happening"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 迴避, 廢止, 宣告無效",
+    "def": ""
+   }
+  ],
+  "forms": "複數 avoidances"
+ },
+ "avoided": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "避免；迴避；避免了；使無效（avoid的過去式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 avoided"
+ },
+ "avoider": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "躲避",
+    "def": ""
+   }
+  ],
+  "forms": "複數 avoiders"
+ },
+ "avoiding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "避免；迴避",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "避免（avoid的ing形式）；迴避；撤銷",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "避免的；迴避的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 avoiding"
+ },
+ "avon": {
+  "ph": "/'eivɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃文河（英國西南部一河）；雅芳（化妝品品牌）",
+    "def": "a river in southwestern England rising in Gloucestershire and flowing through Bristol to empty into the estuary of the Severn"
+   }
+  ]
+ },
+ "avonmouth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃文茅斯",
+    "def": ""
+   }
+  ]
+ },
+ "avouch": {
+  "ph": "/ә'vautʃ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "斷言, 主張, 保證, 承認",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 avouching｜過去式 avouched｜第三人稱單數 avouches｜過去分詞 avouched"
+ },
+ "avow": {
+  "ph": "/ә'vau/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "坦率承認, 斷言",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 公開宣稱, 宣告, 供認",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 avowed｜過去分詞 avowed｜第三人稱單數 avows｜現在分詞 avowing"
+ },
+ "avowal": {
+  "ph": "/ә'vauәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公開表示, 坦率承認",
+    "def": "a statement asserting the existence or the truth of something"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 宣告, 公開宣佈, 供認",
+    "def": ""
+   }
+  ],
+  "forms": "複數 avowals"
+ },
+ "avowed": {
+  "ph": "/ә'vaud/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "坦率承認的, 公開宣佈的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 公開承認的, 公開宣佈的, 公認的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 avowed｜過去分詞 avowed"
+ },
+ "avowedly": {
+  "ph": "/ә'vaudli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "公然地",
+    "def": ""
+   }
+  ]
+ },
+ "avril": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾薇爾（加拿大女歌手）；四月之戀（電影名）",
+    "def": ""
+   }
+  ]
+ },
+ "avro": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿弗羅",
+    "def": ""
+   }
+  ]
+ },
+ "avulsion": {
+  "ph": "/ә'vʌlʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扯開, 撕脫, 扯離的部分",
+    "def": "an abrupt change in the course of a stream that forms the boundary between two parcels of land resulting in the loss of part of the land of one landowner and a "
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 撕脫[法], 抽出術",
+    "def": ""
+   }
+  ]
+ },
+ "avuncular": {
+  "ph": "/ә'vʌŋkjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "叔伯的, 叔伯似的",
+    "def": "resembling a uncle in kindness or indulgence"
+   }
+  ]
+ }
+}

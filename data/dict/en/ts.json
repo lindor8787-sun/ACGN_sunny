@@ -1,0 +1,136 @@
+{
+ "t-shirt": {
+  "ph": "/'ti:,ʃә:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓領汗衫, T恤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 t-shirts"
+ },
+ "ts": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 正文段",
+    "def": ""
+   }
+  ]
+ },
+ "tsar": {
+  "ph": "/zɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙皇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tsars"
+ },
+ "tsarina": {
+  "ph": "/zɑ:'rinә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙皇皇后, 女沙皇",
+    "def": ""
+   }
+  ]
+ },
+ "tsarist": {
+  "ph": "/'zɑ:rist, 'tsɑ:-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沙皇的, 沙皇式的, 專制的, 沙皇時代的, 沙皇派的, 擁護沙皇制度的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "沙皇的支持者, 沙皇制度的支持者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tsarists"
+ },
+ "tsb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "信託儲蓄銀行（Trustee Savings Bank）；技術通報（Technical Service Bulletin）；推力艙增壓器（Thrust Section Blower）",
+    "def": ""
+   }
+  ]
+ },
+ "tsetse": {
+  "ph": "/'tsetsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舌蠅, 采采蠅",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 采采蠅(舌蠅屬)",
+    "def": ""
+   }
+  ]
+ },
+ "tsp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茶匙, 一茶匙的量",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 茶匙(4毫升)",
+    "def": ""
+   }
+  ]
+ },
+ "tsu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tsu)人名；(日)津 (姓)",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "臺灣團結聯盟（Taiwan Solidarity Union）；貿易服務設施平臺（Trade Services Utilities）；電信交換單元（Telecommunication Switching Unit）；三糖尿素（Triple Sugar Urea）",
+    "def": ""
+   }
+  ]
+ },
+ "tsunami": {
+  "ph": "/tsu'nɑ:mi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海嘯",
+    "def": "a cataclysm resulting from a destructive sea wave caused by an earthquake or volcanic eruption"
+   }
+  ],
+  "forms": "複數 tsunami"
+ },
+ "tsw": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 遠端軟體",
+    "def": ""
+   }
+  ]
+ }
+}

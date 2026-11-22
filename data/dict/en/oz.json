@@ -1,0 +1,48 @@
+{
+ "oz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "盎司（ounce）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ozs"
+ },
+ "oz.": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 英兩",
+    "def": ""
+   }
+  ]
+ },
+ "ozone": {
+  "ph": "/'әuzәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新鮮的空氣, 臭氧, 使人愉快的影響",
+    "def": "a colorless gas (O3) soluble in alkalis and cold water; a strong oxidizing agent; can be produced by electric discharge in oxygen or by the action of ultraviole"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 臭氧",
+    "def": ""
+   }
+  ]
+ },
+ "ozone layer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 臭氧層",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,738 @@
+{
+ "on": {
+  "ph": "/ɒn/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在...之上",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "...上去",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "正起作用的",
+    "def": "in operation or operational"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 開啟",
+    "def": ""
+   }
+  ]
+ },
+ "on board": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "在船/車/飛機上, 在公共交通車輛上",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 已裝船",
+    "def": ""
+   }
+  ]
+ },
+ "on purpose": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "故意",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 故意地",
+    "def": ""
+   }
+  ]
+ },
+ "on-screen": {
+  "ph": "/ɒn skri:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "& adv. 在計算機螢幕上看到的[地]; 公開地",
+    "def": ""
+   }
+  ]
+ },
+ "onanism": {
+  "ph": "/'әunәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手淫, 自淫, 交媾中斷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 手淫, 交媾中斷",
+    "def": ""
+   }
+  ]
+ },
+ "onassis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Onassis)人名；(希)奧納西斯",
+    "def": ""
+   }
+  ]
+ },
+ "onboard": {
+  "ph": "/'ɒn'bɒ:d/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在板上, 在船上, 在車上, 在飛機上",
+    "def": ""
+   }
+  ]
+ },
+ "once": {
+  "ph": "/wʌns/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "一次, 曾經, 一旦",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "一旦, 一經",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "一次",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "從前的",
+    "def": ""
+   }
+  ]
+ },
+ "onchocerciasis": {
+  "ph": "/,ɔŋkәjs\\\\\\\\:'kaiәsis,-'saiә-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 盤尾絲蟲病",
+    "def": ""
+   }
+  ]
+ },
+ "oncogene": {
+  "ph": "/'ɔnkә,dʒi:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 致癌基因",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oncogenes"
+ },
+ "oncologist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腫瘤學家；腫瘤醫師",
+    "def": "a specialist in oncology"
+   }
+  ],
+  "forms": "複數 oncologists"
+ },
+ "oncology": {
+  "ph": "/ɒŋ'kɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腫瘤學",
+    "def": "the branch of medicine concerned with the study and treatment of tumors"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腫瘤學",
+    "def": ""
+   }
+  ]
+ },
+ "oncoming": {
+  "ph": "/'ɒnkʌmiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "接近的, 即將到來的, 新興的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "來臨",
+    "def": ""
+   }
+  ]
+ },
+ "ondansetron": {
+  "ph": "/ɒn'dænstrɒn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]奧坦西隆, 樞復寧",
+    "def": ""
+   }
+  ]
+ },
+ "one": {
+  "ph": "/wʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一(個)",
+    "def": "the smallest whole number or a numeral representing this number"
+   },
+   {
+    "pos": "pron.",
+    "zh": "一, 任何人",
+    "def": ""
+   },
+   {
+    "pos": "num.",
+    "zh": "一, 一個",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "一致的, 完整的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ones"
+ },
+ "one another": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "彼此",
+    "def": ""
+   }
+  ]
+ },
+ "one's": {
+  "ph": "/wʌnz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人們的；自己的",
+    "def": ""
+   }
+  ]
+ },
+ "one-man": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "只需要一個人的, 由一個人經營的, 由一個人做的, 由一個人組成的",
+    "def": ""
+   }
+  ]
+ },
+ "one-off": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "一次性的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "一次性事物",
+    "def": "a happening that occurs only once and is not repeated"
+   }
+  ],
+  "forms": "複數 one-offs"
+ },
+ "one-piece": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "連衣裙的, (衣服)上下身連在一起的",
+    "def": "(of clothing) consisting of or fashioned in a single whole piece"
+   },
+   {
+    "pos": "n.",
+    "zh": "連衣裙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 one-pieces"
+ },
+ "one-sided": {
+  "ph": "/,wʌn'saidid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "只有一邊的, 不公正的, 單方面的, 片面的, 一邊倒的, 一邊佔優勢的",
+    "def": ""
+   }
+  ]
+ },
+ "one-time": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "以前的, 古時的, 一度的",
+    "def": ""
+   }
+  ]
+ },
+ "one-to-one": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "一對一的, 面對面的",
+    "def": ""
+   }
+  ]
+ },
+ "one-way": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "單行道的, 單程的, 單方面的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 單向",
+    "def": ""
+   }
+  ]
+ },
+ "oneiric": {
+  "ph": "/әu'naiәrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "夢的, 夢一般的",
+    "def": "of or relating to or suggestive of dreams"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 夢的, 夢樣的",
+    "def": ""
+   }
+  ]
+ },
+ "oneness": {
+  "ph": "/'wʌnnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單一性, 同一性, 統一性",
+    "def": "the quality of being united into one"
+   }
+  ]
+ },
+ "onerous": {
+  "ph": "/'ɒnәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "繁重的, 負有法律責任的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 負有義務的, 艱鉅的, 繁重的",
+    "def": ""
+   }
+  ]
+ },
+ "oneself": {
+  "ph": "/wʌn'self/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "自己, 親自",
+    "def": "A reflexive form of the indefinite pronoun one."
+   }
+  ]
+ },
+ "ongoing": {
+  "ph": "/'ɒngәuiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "前進的, 進行的, 不間斷的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "前進, 發展",
+    "def": ""
+   }
+  ]
+ },
+ "onion": {
+  "ph": "/'ʌnjәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洋蔥",
+    "def": "the bulb of an onion plant"
+   },
+   {
+    "pos": "vt.",
+    "zh": "因洋蔥使掉淚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 onions"
+ },
+ "onionskin": {
+  "ph": "/'ʌnjәnskin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄光澤紙, 洋蔥皮",
+    "def": "a thin strong lightweight translucent paper used especially for making carbon copies"
+   }
+  ]
+ },
+ "onliest": {
+  "ph": "/'әjnlist,'ɔ:n-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<方>=only",
+    "def": ""
+   }
+  ]
+ },
+ "online": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 聯機",
+    "def": ""
+   }
+  ]
+ },
+ "onlooker": {
+  "ph": "/'ɔnljkә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旁觀者, 袖手旁觀者",
+    "def": "someone who looks on"
+   }
+  ],
+  "forms": "複數 onlookers"
+ },
+ "only": {
+  "ph": "/'әunli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "唯一的, 僅有的, 最佳的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "只有, 僅僅, 只能",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "但是, 不過",
+    "def": ""
+   }
+  ]
+ },
+ "ono": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "或最近報價（售貨廣告用語）",
+    "def": ""
+   }
+  ]
+ },
+ "onomatopoeia": {
+  "ph": "/.ɒnәumætәu'pi:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擬聲, 擬聲語, 聲喻法",
+    "def": "using words that imitate the sound they denote"
+   }
+  ]
+ },
+ "onomatopoeic": {
+  "ph": "/ˌɒnəˌmætə'pi:ɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "擬聲的, 聲喻的",
+    "def": "of or relating to or characterized by onomatopoeia"
+   }
+  ]
+ },
+ "onrush": {
+  "ph": "/'ɒnrʌʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突進, 突擊, 襲擊, 洪流",
+    "def": "a forceful forward rush or flow"
+   }
+  ],
+  "forms": "現在分詞 onrushing"
+ },
+ "onrushing": {
+  "ph": "/'ɔn,rʌʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "衝勢迅猛的, 洶湧奔流的",
+    "def": ""
+   }
+  ]
+ },
+ "onscreen": {
+  "ph": "/ɒnsk'ri:n/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "& adj. 在銀幕上（的）",
+    "def": ""
+   }
+  ]
+ },
+ "onset": {
+  "ph": "/'ɒnset/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開始, 攻擊, 進攻",
+    "def": "the beginning or early stages"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 起始, 開始",
+    "def": ""
+   }
+  ]
+ },
+ "onshore": {
+  "ph": "/'ɒnʃɒ:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向陸的, 陸上的, 在國內的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向陸地, 在陸上, 在國內",
+    "def": ""
+   }
+  ]
+ },
+ "onslaught": {
+  "ph": "/'ɒnslɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突擊, 猛擊, 猛攻",
+    "def": "a sudden and severe onset of trouble"
+   }
+  ],
+  "forms": "複數 onslaughts"
+ },
+ "onslow": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Onslow)人名；(英)翁斯洛",
+    "def": ""
+   }
+  ]
+ },
+ "onstage": {
+  "ph": "/'ɔn'steidʒ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在前臺",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "在前臺的",
+    "def": "situated or taking place on the area of a stage visible to the audience"
+   }
+  ]
+ },
+ "ontario": {
+  "ph": "/ɔn'teәriәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安大略湖（北美五大湖之一）",
+    "def": "a prosperous and industrialized province in central Canada"
+   }
+  ]
+ },
+ "ontic": {
+  "ph": "/'ɒntik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "本體的, 實體的, 具有實體的",
+    "def": ""
+   }
+  ]
+ },
+ "onto": {
+  "ph": "/'ɒntu:/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在...之上",
+    "def": "On the top of; upon; on. See On to, under On, prep."
+   }
+  ],
+  "forms": "複數 ontos"
+ },
+ "ontogenetic": {
+  "ph": "/ɔntәudʒә'netik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "個體發生的, 個體發育的",
+    "def": "of or relating to the origin and development of individual organisms"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 個體發生的, 個體發育的",
+    "def": ""
+   }
+  ]
+ },
+ "ontogeny": {
+  "ph": "/ɒn'tɒdʒini/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "個體發生, 個體發生學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 個體發生, 個體發育",
+    "def": ""
+   }
+  ]
+ },
+ "ontological": {
+  "ph": "/.ɒntә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "存在論的, 本體論的, 實體論的",
+    "def": "of or relating to ontology"
+   }
+  ]
+ },
+ "ontology": {
+  "ph": "/ɒn'tɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "存在論, 本體論, 實體論",
+    "def": "(computer science) a rigorous and exhaustive organization of some knowledge domain that is usually hierarchical and contains all the relevant entities and their"
+   }
+  ],
+  "forms": "複數 ontologies"
+ },
+ "onus": {
+  "ph": "/'әunәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "負擔, 責任, 義務, 過失, 恥辱",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 責任, 義務, 負擔",
+    "def": ""
+   }
+  ]
+ },
+ "onward": {
+  "ph": "/'ɒnwәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向前的, 前進的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向前, 前進, 在先",
+    "def": ""
+   }
+  ]
+ },
+ "onwards": {
+  "ph": "/'ɔnwә:dz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向前, 在前面",
+    "def": ""
+   }
+  ]
+ },
+ "onyx": {
+  "ph": "/'ɒniks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縞瑪瑙",
+    "def": "a chalcedony with alternating black and white bands; used in making cameos"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 爪甲, 甲, 眼前房積膿",
+    "def": ""
+   }
+  ]
+ }
+}

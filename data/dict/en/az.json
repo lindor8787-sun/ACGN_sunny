@@ -1,0 +1,131 @@
+{
+ "azalea": {
+  "ph": "/ә'zeiljә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "杜鵑花",
+    "def": "any of numerous ornamental shrubs grown for their showy flowers of various colors"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 杜鵑花",
+    "def": ""
+   }
+  ],
+  "forms": "複數 azaleas"
+ },
+ "azerbaijan": {
+  "ph": "/,ɑ:zәbai'dʒɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞塞拜然",
+    "def": "a landlocked republic in southwestern Asia; formerly an Asian soviet"
+   }
+  ]
+ },
+ "azerbaijani": {
+  "ph": "/,æzәbai'dʒɑ:ni/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "亞塞拜然人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 azerbaijanis"
+ },
+ "azeri": {
+  "ph": "/'æzəri/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "亞塞拜然人, 亞塞拜然語（Azerbaijani）；亞塞拜然人的, 亞塞拜然語的（Azerbaijani）",
+    "def": ""
+   }
+  ]
+ },
+ "azimuth": {
+  "ph": "/'æzimәθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方位, 方位角",
+    "def": "the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian"
+   }
+  ],
+  "forms": "複數 azimuths"
+ },
+ "azimuthal": {
+  "ph": "/æzi'mju:θl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "方位角的",
+    "def": "of or relating to or in azimuth"
+   }
+  ]
+ },
+ "azithromycin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿奇黴素",
+    "def": "a systemic antibacterial medicine (trade name Zithromax) that is prescribed to treat bacterial infections in many different parts of the body"
+   }
+  ]
+ },
+ "aziz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿齊茲（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "azt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 阿-宋二氏試驗(檢孕)",
+    "def": ""
+   }
+  ]
+ },
+ "aztec": {
+  "ph": "/'æztek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿茲特克人, 阿茲特克語",
+    "def": "a member of the Nahuatl people who established an empire in Mexico that was overthrown by Cortes in 1519"
+   },
+   {
+    "pos": "adj.",
+    "zh": "阿茲特克人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aztecs"
+ },
+ "azure": {
+  "ph": "/'æʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天藍色, 碧空",
+    "def": "a light shade of blue"
+   },
+   {
+    "pos": "adj.",
+    "zh": "蔚藍的",
+    "def": ""
+   }
+  ]
+ }
+}

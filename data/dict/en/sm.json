@@ -1,0 +1,1516 @@
+{
+ "sm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "理科碩士",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 模擬器, 同步調變解調器",
+    "def": ""
+   }
+  ]
+ },
+ "smack": {
+  "ph": "/smæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風味, 滋味, 少量, 拍擊聲, 咂嘴聲, 小漁船, 海洛因",
+    "def": "a sailing ship (usually rigged like a sloop or cutter) used in fishing and sailing along the coast"
+   },
+   {
+    "pos": "vi.",
+    "zh": "有味道, 咂嘴, 發出拍擊聲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "拍, 打, 摑, 咂, 出聲地吻",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "啪地一聲, 猛然",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 smacked｜現在分詞 smacking｜過去分詞 smacked｜第三人稱單數 smacks｜複數 smacks"
+ },
+ "smacker": {
+  "ph": "/'smækә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摑打者, 猛擊者, 啪的一擊, 出聲的一吻, 出眾的東西, 極好的東西",
+    "def": "a loud kiss"
+   }
+  ],
+  "forms": "複數 smackers"
+ },
+ "smacking": {
+  "ph": "/'smækiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "活潑的, 發出響聲的, 精力充沛的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "摑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smackings｜現在分詞 smacking"
+ },
+ "smale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯梅爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "small": {
+  "ph": "/smɒ:l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "小的, 少的, 小型的, 低微的, 小氣的, 細微的",
+    "def": "limited or below average in number or quantity or magnitude or extent"
+   },
+   {
+    "pos": "adv.",
+    "zh": "些微地",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "狹小部分",
+    "def": "the slender part of the back"
+   }
+  ],
+  "forms": "比較級 smaller｜最高級 smallest"
+ },
+ "small print": {
+  "ph": "/smɔ:l print/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "難懂的條文, 附屬細則",
+    "def": ""
+   }
+  ]
+ },
+ "small-scale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "小比例尺的, 小規模的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 小規模的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 small-scales"
+ },
+ "smalley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "斯莫利（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "smallholder": {
+  "ph": "/'smɒ:l.hәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小農, 小佃農",
+    "def": "a person owning or renting a smallholding"
+   }
+  ],
+  "forms": "複數 smallholders"
+ },
+ "smallholding": {
+  "ph": "/'smɒ:l.hәuldiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小農場, 小塊農田",
+    "def": "a piece of land under 50 acres that is sold or let to someone for cultivation"
+   }
+  ],
+  "forms": "複數 smallholdings｜現在分詞 smallholding"
+ },
+ "smallish": {
+  "ph": "/'smɒ:liʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有點小的, 短小的",
+    "def": ""
+   }
+  ]
+ },
+ "smallmouth": {
+  "ph": "/'smɔ: lmajθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[魚]小口黑鱸",
+    "def": "a variety of black bass; the angle of the jaw falls below the eye"
+   }
+  ]
+ },
+ "smallness": {
+  "ph": "/'smɒ:lnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小, 貧乏, 小氣",
+    "def": "the property of having a relatively small size"
+   }
+  ]
+ },
+ "smallpox": {
+  "ph": "/'smɒ:lpɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天花",
+    "def": "a highly contagious viral disease characterized by fever and weakness and skin eruption with pustules that form scabs that slough off leaving scars"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 天花, 痘瘡",
+    "def": ""
+   }
+  ]
+ },
+ "smallwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Smallwood)人名；(英)斯莫爾伍德",
+    "def": ""
+   }
+  ]
+ },
+ "smarmy": {
+  "ph": "/'smɑ:mi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "虛情假意的, 愛說奉承話的",
+    "def": ""
+   }
+  ]
+ },
+ "smart": {
+  "ph": "/smɑ:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聰明的, 漂亮的, 刺痛的, 劇烈的, 敏捷的, 巧妙的, 伶俐的, 瀟灑的",
+    "def": "showing mental alertness and calculation and resourcefulness"
+   },
+   {
+    "pos": "n.",
+    "zh": "刺痛, 痛苦",
+    "def": "a kind of pain such as that caused by a wound or a burn or a sore"
+   },
+   {
+    "pos": "vi.",
+    "zh": "刺痛",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 smarter｜現在分詞 smarting｜最高級 smartest｜過去式 smarted｜第三人稱單數 smarts｜過去分詞 smarted"
+ },
+ "smarten": {
+  "ph": "/'smɑ:tn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使瀟灑, 使整潔",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變瀟灑, 變強烈",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smartening｜過去分詞 smartened｜過去式 smartened｜第三人稱單數 smartens"
+ },
+ "smartly": {
+  "ph": "/'smɑ:ti/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "瀟灑地, 火辣辣地, 刺痛地",
+    "def": ""
+   }
+  ]
+ },
+ "smartness": {
+  "ph": "/'smɑ:tnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "現代風格, 敏捷, 機靈",
+    "def": ""
+   }
+  ]
+ },
+ "smarts": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刺痛；頭腦（smart的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "smarty": {
+  "ph": "/'smɑ:ti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自作聰明的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smarties"
+ },
+ "smash": {
+  "ph": "/smæʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打碎, 粉碎, 打碎時嘩啦聲, 猛擊, 扣球, 殺球, 經營失敗, 破產, 硬幣, 假硬幣",
+    "def": "a serious collision (especially of motor vehicles)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "非常轟動的, 了不起的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "打碎, 粉碎, 擊潰, 使破產, 使裂變, 使用假硬幣",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "碎裂, 猛撞, 破產, 扣球, 殺球",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "轟隆一聲, 嘩啦一聲",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 smashed｜過去分詞 smashed｜現在分詞 smashing｜第三人稱單數 smashes｜複數 smashes"
+ },
+ "smashed": {
+  "ph": "/smæʃt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喝醉酒的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 酒醉的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 smashed｜過去分詞 smashed"
+ },
+ "smasher": {
+  "ph": "/'smæʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打碎者, 善於叩球者, 摔跟頭, (非正式)出色的人, 使用假鈔票者, 收買髒物者",
+    "def": "a person who smashes something"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 使用假鈔票者, 收買贓物者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smashers"
+ },
+ "smashing": {
+  "ph": "/'smæʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "猛烈的, 發出撞擊聲的, 了不起的, 轟動的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smashing"
+ },
+ "smattering": {
+  "ph": "/'smætәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膚淺的知識, 一知半解的知識, 片斷的知識, 少數, 少量",
+    "def": "a slight or superficial understanding of a subject"
+   }
+  ],
+  "forms": "複數 smatterings"
+ },
+ "smear": {
+  "ph": "/smiә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "塗, 擦上, 玷汙, 把...擦模糊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被弄髒",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "汙點, 汙跡, 汙衊",
+    "def": "slanderous defamation"
+   }
+  ],
+  "forms": "複數 smears｜過去分詞 smeared｜過去式 smeared｜現在分詞 smearing｜第三人稱單數 smears"
+ },
+ "smeared": {
+  "ph": "/smiəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "弄髒; 玷汙; 塗抹; 擦上",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "弄髒的; 汙跡斑斑的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 smeared｜過去分詞 smeared"
+ },
+ "smearing": {
+  "ph": "/'smiәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汙點, 拖尾效應；弄髒的；蹭髒（smear進行時形式）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smearings"
+ },
+ "smeary": {
+  "ph": "/'smiәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "汙染的, 油汙的, 能產生汙跡的",
+    "def": "Tending to smear or soil; adhesive; viscous."
+   }
+  ]
+ },
+ "smeaton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Smeaton)人名；(英)斯米頓",
+    "def": ""
+   }
+  ]
+ },
+ "smedley": {
+  "ph": "/'smedli/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "斯梅德利(姓氏)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smedleys"
+ },
+ "smell": {
+  "ph": "/smel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "味道, 氣味, 嗅覺, 嗅, 臭味, 氣息",
+    "def": "the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form"
+   },
+   {
+    "pos": "vt.",
+    "zh": "聞, 探出, 察覺, 發出...的氣味",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "嗅, 散發氣味, 發臭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smells｜過去式 smelled｜第三人稱單數 smells｜現在分詞 smelling｜過去分詞 smelt"
+ },
+ "smelling": {
+  "ph": "/smelɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "嗅, 聞( smell的現在分詞 ); 聞到; 嗅出; 覺察出",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smelling"
+ },
+ "smelly": {
+  "ph": "/'smeli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發臭的, 有臭味的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smellies｜最高級 smelliest｜比較級 smellier"
+ },
+ "smelt": {
+  "ph": "/smelt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡瓜魚",
+    "def": "small cold-water silvery fish; migrate between salt and fresh water"
+   },
+   {
+    "pos": "vt.",
+    "zh": "精煉, 熔鍊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "smell的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smelting｜過去分詞 smelted｜過去式 smelted｜複數 smelts｜第三人稱單數 smelts"
+ },
+ "smelter": {
+  "ph": "/'smeltә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熔鑄工, 冶煉者, 熔爐, 冶金廠, 冶煉廠",
+    "def": "an industrial plant for smelting"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 冶煉廠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smelters"
+ },
+ "smelting": {
+  "ph": "/'smeltiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 熔鍊; 冶煉",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smelting"
+ },
+ "smetana": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Smetana)人名；(捷)斯梅塔娜 (女名), 斯梅塔納",
+    "def": "Czech composer (1824-1884)"
+   }
+  ]
+ },
+ "smethwick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "斯梅西克（英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "smidgen": {
+  "ph": "/'smidʒin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "少量, 一點點",
+    "def": ""
+   }
+  ]
+ },
+ "smile": {
+  "ph": "/smail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "微笑, 喜色, 笑容",
+    "def": "a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement"
+   },
+   {
+    "pos": "vi.",
+    "zh": "微笑, 覺得好笑",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "微笑著表示",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 smiled｜現在分詞 smiling｜複數 smiles｜第三人稱單數 smiles｜過去分詞 smiled"
+ },
+ "smiler": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "微笑者",
+    "def": "a person who smiles"
+   }
+  ],
+  "forms": "複數 smilers"
+ },
+ "smiles": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "微笑；喜色（smile的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "smiley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 微笑符",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smileys"
+ },
+ "smiling": {
+  "ph": "/'smailiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "微笑的, 歡快的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smiling"
+ },
+ "smilingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "微笑地, 含笑地",
+    "def": ""
+   }
+  ]
+ },
+ "smirch": {
+  "ph": "/smә:tʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "沾汙, 弄髒",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "髒汙, 汙點",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 smirched｜現在分詞 smirching｜第三人稱單數 smirches｜過去分詞 smirched"
+ },
+ "smirk": {
+  "ph": "/smә:k/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "傻笑, 假笑, 得意地笑",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "傻笑, 假笑, 得意的笑",
+    "def": "a smile expressing smugness or scorn instead of pleasure"
+   }
+  ],
+  "forms": "過去式 smirked｜現在分詞 smirking｜複數 smirks｜第三人稱單數 smirks｜過去分詞 smirked"
+ },
+ "smirking": {
+  "ph": "/smɜ:kɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "傻笑( smirk的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smirking"
+ },
+ "smirky": {
+  "ph": "/'sm\\\\\\\\:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "假笑的,傻笑的,得意地笑的",
+    "def": "Smirk; smirking."
+   }
+  ]
+ },
+ "smite": {
+  "ph": "/smait/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "重擊, 打, 擊敗, 毀滅, 侵襲, 打動",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "重擊, 打",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "重擊, 打",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 smitten｜過去式 smote｜現在分詞 smiting｜第三人稱單數 smites"
+ },
+ "smith": {
+  "ph": "/smiθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐵匠, 金屬品工匠",
+    "def": "Rhodesian statesman who declared independence of Zimbabwe from Great Britain (born in 1919)"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 鍛造工, 上手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smiths"
+ },
+ "smithereen": {
+  "ph": "/,smiðә'ri:n/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把…擊碎,把…炸成碎片",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smithereens"
+ },
+ "smithers": {
+  "ph": "/'smiðәz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[口]=smithereens",
+    "def": ""
+   }
+  ]
+ },
+ "smithson": {
+  "ph": "/'smiθsn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "史密森(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "smithsonian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "史密森尼（美國博物館）；史密森學會",
+    "def": "The Smithsonian Institution."
+   }
+  ]
+ },
+ "smithy": {
+  "ph": "/'smiði/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鍛工車間",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 鍛工場",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smithies"
+ },
+ "smock": {
+  "ph": "/smɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工作服, 罩衫, 長罩衣",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使穿上工作服, 縫製裝飾用衣褶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smocks｜過去式 smocked｜現在分詞 smocking｜第三人稱單數 smocks｜過去分詞 smocked"
+ },
+ "smog": {
+  "ph": "/smәug/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煙霧",
+    "def": "air pollution by a mixture of smoke and fog"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 煙霧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smogs｜第三人稱單數 smogs"
+ },
+ "smoggy": {
+  "ph": "/'smɔ^i,'smɔ:-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "煙霧瀰漫的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 smoggiest"
+ },
+ "smoke": {
+  "ph": "/smәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煙, 霧氣, 煙燻劑, 抽菸, 煙色",
+    "def": "a cloud of fine particles suspended in a gas"
+   },
+   {
+    "pos": "vi.",
+    "zh": "吸菸, 冒煙, 瀰漫",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "以煙燻, 抽菸而導致...",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smoking｜過去式 smoked｜過去分詞 smoked｜第三人稱單數 smokes｜複數 smokes"
+ },
+ "smoked": {
+  "ph": "/smәukt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熏製的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 smoked｜過去分詞 smoked"
+ },
+ "smoked salmon": {
+  "ph": "/sməʊkt ˈsæmən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燻鮭魚",
+    "def": ""
+   }
+  ]
+ },
+ "smokehouse": {
+  "ph": "/'smәukhaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熏製室",
+    "def": "a small house where smoke is used to cure meat or fish"
+   }
+  ],
+  "forms": "複數 smokehouses"
+ },
+ "smokejumper": {
+  "ph": "/'sməuk,dʒʌmpə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空降森林滅火員",
+    "def": ""
+   }
+  ]
+ },
+ "smokeless": {
+  "ph": "/'smәuklis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無煙的",
+    "def": "emitting or containing little or no smoke"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 無煙的, 不出煙的",
+    "def": ""
+   }
+  ]
+ },
+ "smoker": {
+  "ph": "/'smәukә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸菸者, 吸菸的人, 吸菸車廂, (美)(非正式)蒸汽火車頭",
+    "def": "a person who smokes tobacco"
+   }
+  ],
+  "forms": "複數 smokers"
+ },
+ "smokers": {
+  "ph": "/ˈsməʊkəz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸菸者( smoker的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "smokescreen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煙幕, 掩蓋某人真實意圖的東西",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smokescreens"
+ },
+ "smokestack": {
+  "ph": "/'smәukstæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煙囪",
+    "def": "a large tall chimney through which combustion gases and smoke can be evacuated"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 煙堆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smokestacks"
+ },
+ "smokey": {
+  "ph": "/'smәuki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多煙的",
+    "def": ""
+   }
+  ]
+ },
+ "smokiness": {
+  "ph": "/s'məʊkɪnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "煙霧性",
+    "def": ""
+   }
+  ]
+ },
+ "smoking": {
+  "ph": "/'smәukiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抽菸, 冒煙",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 煙燻; 吸菸",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smoking"
+ },
+ "smoky": {
+  "ph": "/'smәuki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冒煙的, 滿是煙的, 燻髒的, 菸灰色的",
+    "def": "marked by or emitting or filled with smoke"
+   }
+  ],
+  "forms": "複數 smokies｜比較級 smokier"
+ },
+ "smolder": {
+  "ph": "/'smәuldә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "悶燒, 鬱積",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "悶燒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smoldering｜過去式 smoldered｜第三人稱單數 smolders｜過去分詞 smoldered｜複數 smolders"
+ },
+ "smoldering": {
+  "ph": "/'sməʊdərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用文火燜燒, 燻燒, 慢燃( smolder的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "smolensk": {
+  "ph": "/'smɔlensk,smɔ'l-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "斯摩稜斯克[蘇聯西部城市](在第聶伯河上游)",
+    "def": ""
+   }
+  ]
+ },
+ "smollett": {
+  "ph": "/'smɔlit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "斯莫利特(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "smolt": {
+  "ph": "/smәult/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "三齡大的小鮭魚",
+    "def": "A young salmon two or three years old, when it has acquired"
+   }
+  ],
+  "forms": "複數 smolts"
+ },
+ "smooch": {
+  "ph": "/smu:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摟抱接吻, 汙跡",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "摟抱著接吻",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "與...摟抱接吻, 弄髒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smooching｜過去式 smooched｜第三人稱單數 smooches｜過去分詞 smooched"
+ },
+ "smoochy": {
+  "ph": "/s'mu:tʃaɪ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（歌曲）慢節奏的; 浪漫的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 smoochier｜最高級 smoochiest"
+ },
+ "smooth": {
+  "ph": "/smu:ð/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平滑的, 平穩的, 流暢的, 和藹的, 安祥的, 圓滑的, 調勻的, 無毛的",
+    "def": "having a surface free from roughness or bumps or ridges or irregularities"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使光滑, 燙平, 使平和, 消除",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變平滑, 變平靜",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "一塊平地, 平滑部分",
+    "def": "the act of smoothing"
+   }
+  ],
+  "forms": "現在分詞 smoothing｜比較級 smoother｜過去分詞 smoothed｜過去式 smoothed｜第三人稱單數 smooths｜最高級 smoothest"
+ },
+ "smoothbore": {
+  "ph": "/'smu:ðbɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無膛線槍, 無膛線炮",
+    "def": "a firearm that has no rifling"
+   }
+  ]
+ },
+ "smoothed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平滑的；平滑後的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 smoothed"
+ },
+ "smoothie": {
+  "ph": "/'smu:ði/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舉止優雅的人, 善於奉承的人, 油嘴滑舌的人",
+    "def": "someone with an assured and ingratiating manner"
+   }
+  ]
+ },
+ "smoothing": {
+  "ph": "/'smu:ðiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 修勻, 平滑, 使平滑",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smoothing"
+ },
+ "smoothly": {
+  "ph": "/'smu:ðli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "平滑地, 流暢地, 流利地",
+    "def": ""
+   }
+  ]
+ },
+ "smoothness": {
+  "ph": "/'smu:ðnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柔滑, 平滑, 平坦",
+    "def": "a texture without roughness; smooth to the touch"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 平穩性; 平穩度",
+    "def": ""
+   }
+  ]
+ },
+ "smoothy": {
+  "ph": "/'smu:ði/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舉止優雅的人, 善於奉承的人, 油嘴滑舌的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smoothies"
+ },
+ "smorgasbord": {
+  "ph": "/'smɔ:^әsbɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瑞典式自助餐",
+    "def": "an assortment of foods starting with herring or smoked eel or salmon etc with bread and butter; then cheeses and eggs and pickled vegetables and aspics; finally"
+   }
+  ]
+ },
+ "smother": {
+  "ph": "/'smʌðә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使喘不過氣, 使窒息, 悶熄, 忍住, 抑制, 覆蓋",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "窒息, 被抑制",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "濃煙, 窒息狀態, 雜亂無章",
+    "def": "a stifling cloud of smoke"
+   }
+  ],
+  "forms": "過去分詞 smothered｜過去式 smothered｜現在分詞 smothering｜第三人稱單數 smothers"
+ },
+ "smothered": {
+  "ph": "/ˈsmʌðəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）窒息, （使）透不過氣( smother的過去式和過去分詞 ); 覆蓋; 忍住; 抑制",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 smothered"
+ },
+ "smothering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窒息",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smothering"
+ },
+ "smoulder": {
+  "ph": "/'smәuldә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "悶燒, 鬱積",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "悶燒",
+    "def": "a fire that burns with thick smoke but no flame"
+   }
+  ],
+  "forms": "現在分詞 smouldering｜過去式 smouldered｜過去分詞 smouldered｜複數 smoulders｜第三人稱單數 smoulders"
+ },
+ "smouldering": {
+  "ph": "/'smәuldәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "悶燒, 低溫煉焦, 低溫乾餾",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smouldering｜複數 smoulderings"
+ },
+ "smp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磺胺甲氧嗪, 長效磺胺",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磺胺甲氧嗪; 磺胺甲氧基噠嗪; 長效磺胺",
+    "def": ""
+   }
+  ]
+ },
+ "smudge": {
+  "ph": "/smʌdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汙點, 髒汙, 燻煙",
+    "def": "a smoky fire to drive away insects"
+   },
+   {
+    "pos": "vt.",
+    "zh": "弄髒, 使模糊, 用濃煙燻",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被弄髒",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 smudged｜複數 smudges｜過去式 smudged｜現在分詞 smudging｜第三人稱單數 smudges"
+ },
+ "smudged": {
+  "ph": "/smʌdʒd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "弄髒, 留下汙跡, （使）變髒( smudge的過去式 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 smudged｜過去分詞 smudged"
+ },
+ "smudgy": {
+  "ph": "/'smʌdʒi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "髒汙的, 模糊不清的",
+    "def": ""
+   }
+  ]
+ },
+ "smug": {
+  "ph": "/smʌg/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自以為是的, 自鳴得意的, 整潔的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "書呆子, 自命不凡的傢伙",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 smuggest｜比較級 smugger"
+ },
+ "smuggle": {
+  "ph": "/'smʌgl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "偷運, 走私, 私運",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "走私",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 smuggled｜過去式 smuggled｜現在分詞 smuggling｜第三人稱單數 smuggles"
+ },
+ "smuggled": {
+  "ph": "/ˈsmʌɡld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "偷運( smuggle的過去式和過去分詞 ); 私運; 走私; 不按規章地偷帶（人或物）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 smuggled"
+ },
+ "smuggler": {
+  "ph": "/'smʌglә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "走私者, 走私船",
+    "def": "someone who imports or exports without paying duties"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 走私者, 走私船",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smugglers"
+ },
+ "smuggling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "走私",
+    "def": "secretly importing prohibited goods or goods on which duty is due"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 走私",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 smuggling"
+ },
+ "smugly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "沾沾自喜地；自鳴得意地",
+    "def": ""
+   }
+  ]
+ },
+ "smugness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矯矜；裝模做樣",
+    "def": "an excessive feeling of self-satisfaction"
+   }
+  ]
+ },
+ "smut": {
+  "ph": "/smʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煤塵, 汙跡, 黑穗病",
+    "def": "destructive diseases of plants (especially cereal grasses) caused by fungi that produce black powdery masses of spores"
+   },
+   {
+    "pos": "vt.",
+    "zh": "弄髒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "患黑穗病",
+    "def": ""
+   }
+  ],
+  "forms": "複數 smuts｜現在分詞 smutting｜過去式 smutted｜第三人稱單數 smuts｜過去分詞 smutted"
+ },
+ "smutty": {
+  "ph": "/'smʌti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "煤灰色的, 患黑穗病的, 猥褻的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 汙染的, 猥褻的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 smuttier"
+ },
+ "smyrna": {
+  "ph": "/'smә:nә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "士麥那(土耳其西部港市伊茲密爾)",
+    "def": ""
+   }
+  ]
+ },
+ "smyth": {
+  "ph": "/smiθ, smaiθ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "史密斯(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "smythe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Smythe)人名；(英)斯邁思",
+    "def": ""
+   }
+  ]
+ }
+}

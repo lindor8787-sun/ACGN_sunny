@@ -1,0 +1,151 @@
+{
+ "eb": {
+  "ph": "/eb/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "電子束（Electron Beam）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ebbing｜複數 ebs"
+ },
+ "ebb": {
+  "ph": "/eb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "退潮, 衰退",
+    "def": "a gradual decline (in size or strength or power or number)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "潮退, 衰退",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ebbed｜過去分詞 ebbed｜複數 ebbs｜第三人稱單數 ebbs｜現在分詞 ebbing"
+ },
+ "ebbing": {
+  "ph": "/ebɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（指潮水）退( ebb的現在分詞 ); 落; 減少; 衰落",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ebbings｜現在分詞 ebbing"
+ },
+ "ebenezer": {
+  "ph": "/,ebi'ni:zә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃比尼澤(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "eberhard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃伯哈德（人名、品牌名）",
+    "def": ""
+   }
+  ]
+ },
+ "ebert": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃伯特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "ebon": {
+  "ph": "/'ebәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "似烏木的",
+    "def": ""
+   }
+  ]
+ },
+ "ebonized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使成烏木色, 使像烏木( ebonize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "ebony": {
+  "ph": "/'ebәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏木",
+    "def": "hard dark-colored heartwood of the ebony tree; used in cabinetwork and for piano keys"
+   },
+   {
+    "pos": "adj.",
+    "zh": "烏木製的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ebonies"
+ },
+ "ebrd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "歐洲復興開發銀行",
+    "def": ""
+   }
+  ]
+ },
+ "ebullience": {
+  "ph": "/i'bʌljәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沸騰, 熱情, 熱情洋溢",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 沸騰",
+    "def": ""
+   }
+  ]
+ },
+ "ebullient": {
+  "ph": "/i'bʌljәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沸騰的, 熱情的, 熱情洋溢的",
+    "def": ""
+   }
+  ]
+ },
+ "ebury": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ebury)人名；(英)伊伯裡",
+    "def": ""
+   }
+  ]
+ }
+}

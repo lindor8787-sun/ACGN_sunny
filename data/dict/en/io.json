@@ -1,0 +1,264 @@
+{
+ "io": {
+  "ph": "/'aiәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 輸入輸出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ios"
+ },
+ "ioc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "國際奧林匹克委員會",
+    "def": ""
+   }
+  ]
+ },
+ "iod": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "直接需氧量（Immediate Oxygen Demand）",
+    "def": ""
+   }
+  ]
+ },
+ "iodide": {
+  "ph": "/'aiәdaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碘化物",
+    "def": "a salt or ester of hydriodic acid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 碘化物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 iodides"
+ },
+ "iodine": {
+  "ph": "/'aiәdi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碘, 碘酒",
+    "def": "a nonmetallic element belonging to the halogens; used especially in medicine and photography and in dyes; occurs naturally only in combination in small quantiti"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 碘I-2",
+    "def": ""
+   }
+  ]
+ },
+ "iodized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用碘處理, 使碘化( iodize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "iom": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）馬恩島（Isle of Man）",
+    "def": ""
+   }
+  ]
+ },
+ "ion": {
+  "ph": "/'aiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "離子",
+    "def": "a particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 離子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ions"
+ },
+ "iona": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛奧那島（蘇格蘭一小島）",
+    "def": ""
+   }
+  ]
+ },
+ "ionian": {
+  "ph": "/ai'әunjәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛奧尼亞的, 愛奧尼亞式的",
+    "def": "of or pertaining to the ancient Ionians who lived in Attica and related territories, to their Ionic dialect of Greek, or to their culture"
+   },
+   {
+    "pos": "n.",
+    "zh": "愛奧尼亞人",
+    "def": "a member of one of four linguistic divisions of the prehistoric Greeks"
+   }
+  ],
+  "forms": "複數 ionians"
+ },
+ "ionic": {
+  "ph": "/ai'ɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "離子的, 愛奧尼亞的, 愛奧尼亞韻律的, 愛奧尼亞式的",
+    "def": "containing or involving or occurring in the form of ions"
+   },
+   {
+    "pos": "n.",
+    "zh": "愛奧尼亞方言",
+    "def": ""
+   }
+  ]
+ },
+ "ionise": {
+  "ph": "/'aiәnaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "<主英>=ionize",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ionising｜第三人稱單數 ionises｜過去式 ionised｜過去分詞 ionised"
+ },
+ "ionised": {
+  "ph": "/'aiənaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "電離（等於ionize）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ionised"
+ },
+ "ionization": {
+  "ph": "/.aiәnai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "離子化, 電離",
+    "def": "the condition of being dissociated into ions (as by heat or radiation or chemical reaction or electrical discharge)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 電離; 電離作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ionizations"
+ },
+ "ionize": {
+  "ph": "/'aiәnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使離子化",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "電離",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ionizing｜過去分詞 ionized｜過去式 ionized｜第三人稱單數 ionizes"
+ },
+ "ionized": {
+  "ph": "/'ɑɪəˌnɑɪz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）電離, （使）成離子( ionize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ionized"
+ },
+ "ionizing": {
+  "ph": "/'aɪənaɪzɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）電離, （使）成離子( ionize的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ionizing"
+ },
+ "ionosphere": {
+  "ph": "/ai'ɒnә.sfiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電離層",
+    "def": "the outer region of the Earth's atmosphere; contains a high concentration of free electrons"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 電離層",
+    "def": ""
+   }
+  ]
+ },
+ "iota": {
+  "ph": "/ai'әutә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘字母第9位(I,L), 極微小",
+    "def": "the 9th letter of the Greek alphabet"
+   }
+  ],
+  "forms": "複數 iotas"
+ },
+ "iou": {
+  "ph": "/'aiәu'ju:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "借據, 借條",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ious"
+ },
+ "iowa": {
+  "ph": "/'aiәwә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣阿華州",
+    "def": "a member of the Siouan people formerly living in Iowa and Minnesota and Missouri"
+   }
+  ]
+ }
+}

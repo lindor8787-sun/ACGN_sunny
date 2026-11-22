@@ -1,0 +1,32 @@
+{
+ "vm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 虛擬機器, 虛擬儲存機",
+    "def": ""
+   }
+  ]
+ },
+ "vme": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "虛擬機器環境（Virtual Machine Enviroment）",
+    "def": ""
+   }
+  ]
+ },
+ "vms": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 聲音資訊系統, 虛擬系統",
+    "def": ""
+   }
+  ]
+ }
+}

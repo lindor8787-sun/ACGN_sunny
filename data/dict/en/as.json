@@ -1,0 +1,3421 @@
+{
+ "as": {
+  "ph": "/æz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "同樣地, 例如",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "做為, 當作",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "當...之時, 以...的方式, 像...一樣, 因為",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 高階系統, 先進系統, 輔助儲存器, 自治系統",
+    "def": ""
+   }
+  ]
+ },
+ "as soon as": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "一...就",
+    "def": ""
+   }
+  ]
+ },
+ "as well": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "也",
+    "def": ""
+   }
+  ]
+ },
+ "asa": {
+  "ph": "/'eisә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 美國標準協會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asas"
+ },
+ "asahi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朝日（公司及其品牌名稱）",
+    "def": ""
+   }
+  ]
+ },
+ "asap": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "儘快（As Soon As Possible）",
+    "def": ""
+   }
+  ]
+ },
+ "asaph": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿薩夫（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "asb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國生物化學家學會（American Society of Biochemists）",
+    "def": ""
+   }
+  ]
+ },
+ "asbestos": {
+  "ph": "/æs'bestɒs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石棉",
+    "def": "a fibrous amphibole; used for making fireproof articles; inhaling fibers can cause asbestosis or lung cancer"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 石棉",
+    "def": ""
+   }
+  ]
+ },
+ "asbestosis": {
+  "ph": "/.æsbes'tәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石棉沉著病",
+    "def": "lung disease caused by inhaling asbestos particles"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 石棉肺; 石棉塵肺",
+    "def": ""
+   }
+  ]
+ },
+ "asc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 先進科學計算機",
+    "def": ""
+   }
+  ]
+ },
+ "ascend": {
+  "ph": "/ә'send/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "上升, 追溯, 登高",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "攀登",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ascended｜第三人稱單數 ascends｜過去分詞 ascended｜現在分詞 ascending"
+ },
+ "ascendance": {
+  "ph": "/ә'sendәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優越, 權勢",
+    "def": ""
+   }
+  ]
+ },
+ "ascendancy": {
+  "ph": "/ә'sendәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優勢, 支配地位",
+    "def": ""
+   }
+  ]
+ },
+ "ascendant": {
+  "ph": "/ә'sendәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "支配地位, 優勢, 運星",
+    "def": "position or state of being dominant or in control"
+   },
+   {
+    "pos": "adj.",
+    "zh": "上升的, 佔優勢的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ascendants"
+ },
+ "ascendency": {
+  "ph": "/ә'sendәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優勢, 支配地位",
+    "def": ""
+   }
+  ]
+ },
+ "ascender": {
+  "ph": "/ә'sendә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 上行字母, 字母高出部分",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ascenders"
+ },
+ "ascending": {
+  "ph": "/ә'sendiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "上升的, 向上的",
+    "def": "moving or going or growing upward"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 遞增",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ascending"
+ },
+ "ascension": {
+  "ph": "/ә'senʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上升, 耶穌昇天",
+    "def": "(Christianity) celebration of the Ascension of Christ into heaven; observed on the 40th day after Easter"
+   }
+  ],
+  "forms": "複數 ascensions"
+ },
+ "ascent": {
+  "ph": "/ә'sent/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上升, 提高, 攀登, 上坡路",
+    "def": "an upward slope or grade (as in a road)"
+   }
+  ],
+  "forms": "複數 ascents"
+ },
+ "ascertain": {
+  "ph": "/.æsә'tein/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "確定, 查明",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 查明, 弄清, 確定",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ascertained｜現在分詞 ascertaining｜過去式 ascertained｜第三人稱單數 ascertains"
+ },
+ "ascertainable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可查明的, 可弄清的",
+    "def": ""
+   }
+  ]
+ },
+ "ascertainment": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弄清, 發現, 確定, 查明",
+    "def": "The act of ascertaining; a reducing to certainty; a"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 查明, 調查確實",
+    "def": ""
+   }
+  ]
+ },
+ "ascetic": {
+  "ph": "/ә'setik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苦行者, 禁慾者, 修道者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "苦行的, 禁慾的",
+    "def": "pertaining to or characteristic of an ascetic or the practice of rigorous self-discipline"
+   }
+  ],
+  "forms": "複數 ascetics"
+ },
+ "asceticism": {
+  "ph": "/ә'setisizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "禁慾主義, 苦行生涯",
+    "def": "the doctrine that through renunciation of worldly pleasures it is possible to achieve a high spiritual or intellectual state"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 制欲主義",
+    "def": ""
+   }
+  ]
+ },
+ "ascii": {
+  "ph": "/'æski/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "美國資訊交換標準碼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 美國標準資訊交換碼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asciis"
+ },
+ "ascites": {
+  "ph": "/ә'saiti:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腹水",
+    "def": "accumulation of serous fluid in peritoneal cavity"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腹水",
+    "def": ""
+   }
+  ]
+ },
+ "ascot": {
+  "ph": "/'æskәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領巾狀領帶；（大寫）英國阿斯科特賽馬會",
+    "def": "a cravat with wide square ends; secured with an ornamental pin"
+   }
+  ]
+ },
+ "ascribe": {
+  "ph": "/ә'skraib/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "歸因於, 歸咎於",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 歸咎於",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ascribed｜現在分詞 ascribing｜第三人稱單數 ascribes｜過去式 ascribed｜複數 ascribes"
+ },
+ "ascribed": {
+  "ph": "/əˈskraibd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（出生等時）隨意取得（或給予）的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "把…歸於, 認為…是由於( ascribe的過去式和過去分詞 ); 認為…具有",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ascribed"
+ },
+ "ascription": {
+  "ph": "/ә'skripʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歸屬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ascriptions"
+ },
+ "ascriptive": {
+  "ph": "/ə'skriptiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可歸因於…的; 涉及原因（或責任）歸屬問題的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ascriptives"
+ },
+ "asda": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斯達（超市名字）",
+    "def": ""
+   }
+  ]
+ },
+ "asea": {
+  "ph": "/ә'si:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "在海上",
+    "def": ""
+   }
+  ]
+ },
+ "asean": {
+  "ph": "/'æsi:ɔn/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "東南亞國家聯盟（東盟）（Association of Southeast Asian Nations）",
+    "def": ""
+   }
+  ]
+ },
+ "aseptic": {
+  "ph": "/æ'septik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "防腐劑",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "無菌的",
+    "def": ""
+   }
+  ]
+ },
+ "aseptically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "無菌地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "清潔地",
+    "def": ""
+   }
+  ]
+ },
+ "asexual": {
+  "ph": "/ei'sekjuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無性的, 無性生殖的",
+    "def": "not having or involving sex"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無性的",
+    "def": ""
+   }
+  ]
+ },
+ "asexually": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無性地；無性生殖地",
+    "def": ""
+   }
+  ]
+ },
+ "ash": {
+  "ph": "/æʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灰, 灰燼",
+    "def": "the residue that remains when something is burned"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 灰分",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ashes"
+ },
+ "ashamed": {
+  "ph": "/ә'ʃeimd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "慚愧的, 羞恥的",
+    "def": "feeling shame or guilt or embarrassment or remorse"
+   }
+  ]
+ },
+ "ashbourne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ashbourne)人名；(英)阿什伯恩",
+    "def": ""
+   }
+  ]
+ },
+ "ashburton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ashburton)人名；(英)阿什伯頓",
+    "def": ""
+   }
+  ]
+ },
+ "ashby": {
+  "ph": "/'æʃbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿什貝階；阿什比（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "ashcroft": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿什克羅夫特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "ashdown": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ashdown)人名；(英)阿什當",
+    "def": ""
+   }
+  ]
+ },
+ "ashe": {
+  "ph": "/æʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿西婭（人名）",
+    "def": "United States tennis player who was the first Black to win United States and English singles championships (1943-1993)"
+   }
+  ]
+ },
+ "ashen": {
+  "ph": "/'æʃәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "由灰燼構成的, 灰色的, 蒼白的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 灰的, 似灰的",
+    "def": ""
+   }
+  ]
+ },
+ "asher": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞瑟（猶太民族的祖先之一, 雅各的第八個兒子）",
+    "def": ""
+   }
+  ]
+ },
+ "ashfield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ashfield)人名；(英、西)阿什菲爾德",
+    "def": ""
+   }
+  ]
+ },
+ "ashford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ashford)人名；(英、西)阿什福德",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "阿什福德",
+    "def": ""
+   }
+  ]
+ },
+ "ashkenazi": {
+  "ph": "/'æʃkə'næzi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德系猶太人",
+    "def": "a Jew of eastern European or German descent"
+   }
+  ]
+ },
+ "ashkenazic": {
+  "ph": "/'æʃkə'næzik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "Ashkenazi的變形",
+    "def": ""
+   }
+  ]
+ },
+ "ashlar": {
+  "ph": "/'æʃlә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 琢石; 方石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ashlars"
+ },
+ "ashley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾希莉（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "ashmore": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安石（英國出資監管企業）",
+    "def": ""
+   }
+  ]
+ },
+ "ashok": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ashok)人名；(尼)阿肖克；(印)阿肖克",
+    "def": ""
+   }
+  ]
+ },
+ "ashore": {
+  "ph": "/ә'ʃɒ:/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向岸, 在岸上",
+    "def": ""
+   }
+  ]
+ },
+ "ashram": {
+  "ph": "/'æʃrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(印度教高僧的)修行的處所,聚會所, 嬉皮群居村",
+    "def": "a place of religious retreat modeled after the Indian ashram"
+   }
+  ],
+  "forms": "複數 ashrams"
+ },
+ "ashton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿什頓（人名）",
+    "def": "British choreographer (1906-1988)"
+   }
+  ]
+ },
+ "ashtray": {
+  "ph": "/'æʃtrei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菸灰缸",
+    "def": "a receptacle for the ash from smokers' cigars or cigarettes"
+   }
+  ],
+  "forms": "複數 ashtrays"
+ },
+ "ashurst": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿什赫斯特（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "ashworth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "雅獅威（美國服裝品牌）",
+    "def": ""
+   }
+  ]
+ },
+ "ashy": {
+  "ph": "/'æʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "灰的, 覆蓋著灰的, 蒼白的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 灰的, 含灰的, 灰色的",
+    "def": ""
+   }
+  ]
+ },
+ "asia": {
+  "ph": "/'eiʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞洲",
+    "def": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civ"
+   }
+  ]
+ },
+ "asian": {
+  "ph": "/'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞洲人",
+    "def": "a native or inhabitant of Asia"
+   },
+   {
+    "pos": "adj.",
+    "zh": "亞洲的, 亞洲人的",
+    "def": "of or relating to or characteristic of Asia or the peoples of Asia or their languages or culture"
+   }
+  ],
+  "forms": "複數 asians"
+ },
+ "asiatic": {
+  "ph": "/,eiʃi'ætik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞洲人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asiatics"
+ },
+ "aside": {
+  "ph": "/ә'said/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小聲說的話, 旁白",
+    "def": "a line spoken by an actor to the audience but not intended for others on the stage"
+   },
+   {
+    "pos": "adv.",
+    "zh": "在一邊, 離開, 另外",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asides"
+ },
+ "aside from": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "除...以外",
+    "def": ""
+   }
+  ]
+ },
+ "asif": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿西夫（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "asinine": {
+  "ph": "/'æsinain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "驢的, 像驢的, 愚蠢的",
+    "def": ""
+   }
+  ]
+ },
+ "ask": {
+  "ph": "/ɑ:sk/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "問, 要求",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "問, 要求, 邀請, 需要",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 asked｜過去分詞 asked｜現在分詞 asking｜第三人稱單數 asks"
+ },
+ "askance": {
+  "ph": "/ә'skæns/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "懷疑地, 斜眼看",
+    "def": ""
+   }
+  ]
+ },
+ "askari": {
+  "ph": "/'ɑ:skɑ:ri, ә'skɑ:ri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(殖民主義統治下非洲土著)民兵(或警察)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 askari"
+ },
+ "aske": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 阿斯克",
+    "def": ""
+   }
+  ],
+  "forms": "複數 askes"
+ },
+ "askew": {
+  "ph": "/ә'skju:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "歪斜的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "歪斜地",
+    "def": ""
+   }
+  ]
+ },
+ "asking": {
+  "ph": "/'ɑ:skiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "請求",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 asking｜複數 askings"
+ },
+ "asking price": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "要價；索價",
+    "def": ""
+   }
+  ]
+ },
+ "aslant": {
+  "ph": "/ә'slænt/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "傾斜地",
+    "def": ""
+   }
+  ]
+ },
+ "asleep": {
+  "ph": "/ә'sli:p/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "睡著的, 長眠的, 麻木的",
+    "def": "in a state of sleep"
+   },
+   {
+    "pos": "adv.",
+    "zh": "熟睡地",
+    "def": ""
+   }
+  ]
+ },
+ "aslef": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）火車司機與司爐聯合會（Associated Society of Locomotive Engineers and Fireman）",
+    "def": ""
+   }
+  ]
+ },
+ "asmara": {
+  "ph": "/æz'mɑ:rә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿斯馬拉[衣索比亞北部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "asocial": {
+  "ph": "/ei'sәuʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不合群的, 不關心他人的, 自私的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 不嘉社交的",
+    "def": ""
+   }
+  ]
+ },
+ "asp": {
+  "ph": "/æsp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山楊, 角蝰",
+    "def": "of southern Europe; similar to but smaller than the adder"
+   },
+   {
+    "pos": "adj.",
+    "zh": "山楊的, 顫抖的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asps"
+ },
+ "asparagus": {
+  "ph": "/ә'spærәgәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘆筍",
+    "def": "plant whose succulent young shoots are cooked and eaten as a vegetable"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 天冬; 天門冬",
+    "def": ""
+   }
+  ]
+ },
+ "aspartame": {
+  "ph": "/әs'pɑ:teim/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 阿司帕坦; 天冬甜素",
+    "def": ""
+   }
+  ]
+ },
+ "aspect": {
+  "ph": "/'æspekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外觀, 方面, 面貌, 方向",
+    "def": "a distinct feature or element in a problem"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 方面, 局面; 外觀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aspects"
+ },
+ "aspen": {
+  "ph": "/'æspәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山楊",
+    "def": "any of several trees of the genus Populus having leaves on flattened stalks so that they flutter in the lightest wind"
+   },
+   {
+    "pos": "adj.",
+    "zh": "山楊的, 顫抖的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aspens"
+ },
+ "aspergillosis": {
+  "ph": "/,æspәdʒi'lәusis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 麴黴病, 麴菌病",
+    "def": ""
+   }
+  ]
+ },
+ "asperity": {
+  "ph": "/æ'speriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粗暴, 嚴酷, 粗糙",
+    "def": "something hard to endure"
+   }
+  ],
+  "forms": "複數 asperities"
+ },
+ "aspersion": {
+  "ph": "/ә'spә:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誹謗, 中傷, 灑水",
+    "def": "a disparaging remark"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 噴灑[法]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aspersions"
+ },
+ "asphalt": {
+  "ph": "/'æsfælt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏油",
+    "def": "mixed asphalt and crushed gravel or sand; used especially for paving but also for roofing"
+   },
+   {
+    "pos": "adj.",
+    "zh": "用柏油鋪成的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "以柏油鋪",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 asphalted｜複數 asphalts｜現在分詞 asphalting｜第三人稱單數 asphalts｜過去分詞 asphalted"
+ },
+ "asphyxia": {
+  "ph": "/æs'fiksiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窒息",
+    "def": "a condition in which insufficient or no oxygen and carbon dioxide are exchanged on a ventilatory basis; caused by choking or drowning or electric shock or poiso"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 窒息; 無脈, 絕脈(舊名)",
+    "def": ""
+   }
+  ]
+ },
+ "asphyxiate": {
+  "ph": "/æs'fiksieit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "窒息",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使窒息",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 asphyxiated｜過去式 asphyxiated｜第三人稱單數 asphyxiates｜現在分詞 asphyxiating"
+ },
+ "asphyxiation": {
+  "ph": "/æs.fiksi'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窒息",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 窒息",
+    "def": ""
+   }
+  ]
+ },
+ "aspic": {
+  "ph": "/'æspik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花色肉凍",
+    "def": "savory jelly based on fish or meat stock used as a mold for meats or vegetables"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 薰衣草",
+    "def": ""
+   }
+  ]
+ },
+ "aspidistra": {
+  "ph": "/.æspi'distrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜘蛛抱蛋",
+    "def": "evergreen perennial with large handsome basal leaves; grown primarily as a foliage houseplant"
+   }
+  ],
+  "forms": "複數 aspidistras"
+ },
+ "aspirant": {
+  "ph": "/ә'spairәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懷抱大志者, 野心家",
+    "def": "an ambitious and aspiring young person"
+   },
+   {
+    "pos": "adj.",
+    "zh": "上進的, 有野心的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aspirants"
+ },
+ "aspirate": {
+  "ph": "/'æspәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "送氣發音, 以/h/音開始讀出, 吸",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "/h/音, 送氣音",
+    "def": "a consonant pronounced with aspiration"
+   },
+   {
+    "pos": "adj.",
+    "zh": "送氣音的, /h/音的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 aspirated｜複數 aspirates｜過去式 aspirated｜現在分詞 aspirating｜第三人稱單數 aspirates"
+ },
+ "aspirated": {
+  "ph": "/'æspәreitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[語]送氣音的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aspirated"
+ },
+ "aspiration": {
+  "ph": "/.æspә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱望, 志向, 渴望",
+    "def": "a will to succeed"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 吸入; 吸[引], 吸引術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aspirations"
+ },
+ "aspirational": {
+  "ph": "/ˌæspəˈreɪʃənl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "志同的, 有抱負的",
+    "def": ""
+   }
+  ]
+ },
+ "aspire": {
+  "ph": "/ә'spaiә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "渴望, 立志於",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aspired｜現在分詞 aspiring｜第三人稱單數 aspires｜過去分詞 aspired"
+ },
+ "aspirin": {
+  "ph": "/'æspәrin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斯匹林",
+    "def": "the acetylated derivative of salicylic acid; used as an analgesic anti-inflammatory drug (trade names Bayer, Empirin, and St. Joseph) usually taken in tablet fo"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 乙醯水楊酸; 阿司匹靈; 鄰乙酸基苯甲酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aspirins"
+ },
+ "aspiring": {
+  "ph": "/ә'spaiәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有抱負的, 有志氣的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 aspiring"
+ },
+ "asprey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Asprey)人名；(英、西)阿斯普雷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aspreys"
+ },
+ "asquith": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Asquith)人名；(德)阿斯奎特；(英)阿斯奎思",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "阿斯奎斯",
+    "def": ""
+   }
+  ]
+ },
+ "ass": {
+  "ph": "/æs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驢, 傻瓜, 笨蛋, 屁股",
+    "def": "a pompous fool"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 模擬模擬系統",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asses｜過去分詞 assed"
+ },
+ "assad": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿薩德（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "assail": {
+  "ph": "/ә'seil/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "攻擊, 質問",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 攻擊, 襲擊, 著手解決",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assailed｜過去式 assailed｜第三人稱單數 assails｜現在分詞 assailing"
+ },
+ "assailant": {
+  "ph": "/ә'seilәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攻擊者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 攻擊者, 行兇者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assailants"
+ },
+ "assam": {
+  "ph": "/ә'sæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿薩姆邦(印度地名)",
+    "def": "state in northeastern India"
+   }
+  ]
+ },
+ "assassin": {
+  "ph": "/ә'sæsin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暗殺者, 刺客",
+    "def": "a murderer (especially one who kills a prominent political figure) who kills by a surprise attack and often is hired to do the deed"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 暗殺者, 行刺者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assassins"
+ },
+ "assassinate": {
+  "ph": "/ә'sæsineit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "暗殺, 行刺",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 暗殺, 行刺, 中傷",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assassinated｜現在分詞 assassinating｜過去式 assassinated｜第三人稱單數 assassinates"
+ },
+ "assassinated": {
+  "ph": "/ə'sæsɪneɪt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "暗殺；行刺",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assassinated"
+ },
+ "assassination": {
+  "ph": "/ә.sæsi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暗殺",
+    "def": "murder of a public figure by surprise attack"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 暗殺, 行刺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assassinations"
+ },
+ "assault": {
+  "ph": "/ә'sɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攻擊, 襲擊",
+    "def": "close fighting during the culmination of a military attack"
+   },
+   {
+    "pos": "vt.",
+    "zh": "襲擊, 攻擊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發動攻擊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assaults｜過去分詞 assaulted｜現在分詞 assaulting｜過去式 assaulted｜第三人稱單數 assaults"
+ },
+ "assaulted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "強姦（assault的過去分詞）；攻擊；襲擊",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assaulted"
+ },
+ "assaultive": {
+  "ph": "/ә'sɔ:ltiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "攻擊, 強擊, 突擊, 衝擊, 襲擊",
+    "def": ""
+   }
+  ]
+ },
+ "assay": {
+  "ph": "/ә'sei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "試驗, 化驗, 分析",
+    "def": "an appraisal of the state of affairs"
+   },
+   {
+    "pos": "vt.",
+    "zh": "化驗, 分析, 評價, 嘗試",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被驗明內含成分",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assays｜過去分詞 assayed｜過去式 assayed｜現在分詞 assaying｜第三人稱單數 assays"
+ },
+ "assayer": {
+  "ph": "/ә'seiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "化驗者, 分析者",
+    "def": "an analyst who assays (performs chemical tests on) metals"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 化驗人, 分析人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assayers"
+ },
+ "assemblage": {
+  "ph": "/ә'semblidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "集合, 裝配, 一群人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 配合, 集合, 集合物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assemblages"
+ },
+ "assemble": {
+  "ph": "/ә'sembl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "集合, 收集, 裝配",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "集合",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 彙編",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assembled｜現在分詞 assembling｜過去式 assembled｜第三人稱單數 assembles"
+ },
+ "assembled": {
+  "ph": "/ә'sembәld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "集合；裝配（assemble的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assembled｜過去式 assembled"
+ },
+ "assembler": {
+  "ph": "/ә'semblә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝配工",
+    "def": "a program to convert assembly language into machine language"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 彙編程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assemblers"
+ },
+ "assembling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 彙編",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 assembling"
+ },
+ "assembly": {
+  "ph": "/ә'sembli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "與會者, 集會, 裝配, 元件",
+    "def": "a group of machine parts that fit together to form a self-contained unit"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 裝配",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assemblies"
+ },
+ "assembly line": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裝配線",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 裝配線, 流水作業線",
+    "def": ""
+   }
+  ]
+ },
+ "assemblyman": {
+  "ph": "/ә'semblimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "議員",
+    "def": "someone who is a member of a legislative assembly"
+   }
+  ],
+  "forms": "複數 assemblymen"
+ },
+ "assemblywoman": {
+  "ph": "/ә'sembli,wjmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女議員",
+    "def": "a woman assemblyman"
+   }
+  ]
+ },
+ "assent": {
+  "ph": "/ә'sent/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "贊成",
+    "def": "agreement with a statement or proposal to do something"
+   },
+   {
+    "pos": "vi.",
+    "zh": "同意",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 assented｜過去分詞 assented｜現在分詞 assenting｜複數 assents｜第三人稱單數 assents"
+ },
+ "assert": {
+  "ph": "/ә'sә:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "主張, 堅稱, 斷言",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 宣稱, 斷言, 維護",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 asserted｜現在分詞 asserting｜第三人稱單數 asserts｜過去分詞 asserted"
+ },
+ "asserted": {
+  "ph": "/ә'sә:tid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聲稱的；宣稱的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 asserted"
+ },
+ "assertion": {
+  "ph": "/ә'sә:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斷言, 主張",
+    "def": "a declaration that is made emphatically (as if no supporting evidence were necessary)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 宣稱, 斷言, 維護",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assertions"
+ },
+ "assertive": {
+  "ph": "/ә'sә:tiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "武斷的, 過分自信的",
+    "def": "aggressively self-assured"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 斷言的",
+    "def": ""
+   }
+  ]
+ },
+ "assertively": {
+  "ph": "/ə'sə:tivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "獨斷地；斷言地",
+    "def": ""
+   }
+  ]
+ },
+ "assertiveness": {
+  "ph": "/ə'sə:tivnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魄力, 自信",
+    "def": "aggressive self-assurance; given to making bold assertions"
+   }
+  ]
+ },
+ "assess": {
+  "ph": "/ә'ses/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "估定, 對...徵稅, 評定",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 估計, 估價, 確定(稅款罰款等)的金額",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assessed｜現在分詞 assessing｜第三人稱單數 assesses｜過去式 assessed"
+ },
+ "assessable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可估價的, 可徵稅的, 可估計的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可估價的, 可估計的, 可評定的",
+    "def": ""
+   }
+  ]
+ },
+ "assessed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對…進行評估（assess過去時形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assessed"
+ },
+ "assessing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "評價, 評估（assess的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 assessing"
+ },
+ "assessment": {
+  "ph": "/ә'sesmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "評估, 估定, 評定的款額",
+    "def": "an amount determined as payable"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 評估",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assessments"
+ },
+ "assessor": {
+  "ph": "/ә'sesә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輔佐人, 顧問, 估稅員",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 財產估價人, 估稅員, 財產損失估價人員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assessors"
+ },
+ "asset": {
+  "ph": "/'æset/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "資產, 有益的東西",
+    "def": "a useful or valuable quality"
+   }
+  ],
+  "forms": "複數 assets"
+ },
+ "asshole": {
+  "ph": "/'æshәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屁眼兒, 肛門；令人討厭的人",
+    "def": "insulting terms of address for people who are stupid or irritating or ridiculous"
+   }
+  ],
+  "forms": "複數 assholes"
+ },
+ "assiduity": {
+  "ph": "/.æsi'dju:әti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勤勉, 刻苦, 殷勤",
+    "def": "great and constant diligence and attention"
+   }
+  ]
+ },
+ "assiduous": {
+  "ph": "/ә'sidjuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "勤勉的, 刻苦的",
+    "def": ""
+   }
+  ]
+ },
+ "assiduously": {
+  "ph": "/ə'sidʒuəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "刻苦地；勤勉地",
+    "def": ""
+   }
+  ]
+ },
+ "assign": {
+  "ph": "/ә'sain/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "分配, 指派, 賦值",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 賦值",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assigned｜現在分詞 assigning｜第三人稱單數 assigns｜過去式 assigned"
+ },
+ "assignable": {
+  "ph": "/ә'sainәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可分配的, 可指定的, 可歸屬的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 可以過戶, 可分配的",
+    "def": ""
+   }
+  ]
+ },
+ "assignation": {
+  "ph": "/,æsi^'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分配, 轉讓, 幽會, (美)約會, 指定, 分派",
+    "def": "a secret rendezvous (especially between lovers)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 賦值, 指定, 分派, 指派, 分配",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assignations"
+ },
+ "assigned": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "已分配的；指定的",
+    "def": "appointed to a post or duty"
+   }
+  ],
+  "forms": "過去分詞 assigned"
+ },
+ "assignee": {
+  "ph": "/,æsi'ni:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "受讓人, 受託者, 代理人",
+    "def": "(law) the party to whom something is assigned (e.g., someone to whom a right or property is legally transferred)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 受讓人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assignees"
+ },
+ "assignment": {
+  "ph": "/ә'sainmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分配, 功課, 任務, 轉讓, 歸因, 陳述",
+    "def": "a duty that you are assigned to perform (especially in the armed forces)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 賦值",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assignments"
+ },
+ "assignments": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分配；作業（assignment的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "assimilable": {
+  "ph": "/ә'similәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可同化的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 能同化的",
+    "def": ""
+   }
+  ]
+ },
+ "assimilate": {
+  "ph": "/ә'simileit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使同化, 吸收, 使相擬, 把...比作",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被吸收, 被同化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assimilated｜現在分詞 assimilating｜過去式 assimilated｜第三人稱單數 assimilates"
+ },
+ "assimilated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "吸收",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assimilated｜過去式 assimilated"
+ },
+ "assimilation": {
+  "ph": "/ә.simi'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同化, 同化作用, 吸收",
+    "def": "the state of being assimilated; people of different backgrounds come to see themselves as part of a larger national family"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 同化; 同化作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assimilations"
+ },
+ "assimilative": {
+  "ph": "/ә'similәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吸收的, 同化的",
+    "def": ""
+   }
+  ]
+ },
+ "assisi": {
+  "ph": "/ə'si:zi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿西西（義大利城鎮名）",
+    "def": ""
+   }
+  ]
+ },
+ "assist": {
+  "ph": "/ә'sist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幫助, 協助",
+    "def": "(sports) the act of enabling another player to make a good play"
+   },
+   {
+    "pos": "vt.",
+    "zh": "幫助, 促進",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "協助, 參加",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assisted｜現在分詞 assisting｜過去式 assisted｜第三人稱單數 assists"
+ },
+ "assistance": {
+  "ph": "/ә'sistәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "協助, 援助",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 援助, 幫助",
+    "def": ""
+   }
+  ]
+ },
+ "assistant": {
+  "ph": "/ә'sistәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "助手, 助理, 助教",
+    "def": "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose"
+   },
+   {
+    "pos": "adj.",
+    "zh": "有幫助的, 輔助的, 助理的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assistants"
+ },
+ "assistantship": {
+  "ph": "/ә'sistәnt-ʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(大學)研究生助教獎學金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assistantships"
+ },
+ "assisted": {
+  "ph": "/əˈsistid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[計]輔助的",
+    "def": "having help; often used as a combining form"
+   },
+   {
+    "pos": "v.",
+    "zh": "幫助, 促進( assist的過去式和過去分詞 ); 為…的助手; 為…當幫手; 輔助",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assisted｜過去式 assisted"
+ },
+ "assisting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 協助罪",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 assisting"
+ },
+ "assistive": {
+  "ph": "/ə'sɪstɪv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "為殘疾人設計的",
+    "def": ""
+   }
+  ]
+ },
+ "assize": {
+  "ph": "/ә'saiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法令, 法定價格",
+    "def": "the regulation of weights and measures of articles offered for sale"
+   }
+  ],
+  "forms": "複數 assizes"
+ },
+ "associate": {
+  "ph": "/ә'sәuʃieit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同伴, 夥伴, 關聯的事物",
+    "def": "a person who joins with others in some activity or endeavor"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使聯合, 使發生聯絡",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "交往",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 關聯",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 associated｜複數 associates｜現在分詞 associating｜過去式 associated｜第三人稱單數 associates"
+ },
+ "associated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聯合的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 關聯的; 結合的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 associated｜過去式 associated"
+ },
+ "associated with": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "與…有關係；與…相聯絡",
+    "def": ""
+   }
+  ]
+ },
+ "associateship": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "為準會員；準社員的職位",
+    "def": "the position of associate (as in an office or academy)"
+   }
+  ]
+ },
+ "association": {
+  "ph": "/ә.sәuʃә'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "協會",
+    "def": "a formal organization of people or groups of people"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 關聯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 associations"
+ },
+ "associational": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聯想的；協會的",
+    "def": "of or relating to associations or associationism"
+   }
+  ]
+ },
+ "associative": {
+  "ph": "/ә'sәuʃjәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聯合的, 結合的, 聯想的, 引起聯合的",
+    "def": "characterized by or causing or resulting from the process of bringing ideas or events together in memory or imagination"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 相聯的, 結合的, 關聯的, 相關的, 聯想的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 associatives"
+ },
+ "assonance": {
+  "ph": "/'æsәunәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "諧音, 準押韻, 半押韻",
+    "def": "the repetition of similar vowels in the stressed syllables of successive words"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 諧音癖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assonances"
+ },
+ "assorted": {
+  "ph": "/ә'sɒ:tid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "各種各樣的, 分類的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 assorted"
+ },
+ "assortment": {
+  "ph": "/ә'sɒ:tmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分類, 各種各樣",
+    "def": "a collection containing a variety of sorts of things"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [遺傳]配列",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assortments"
+ },
+ "asst": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "幫助, 援助（assistant）；助理（assistant）",
+    "def": ""
+   }
+  ]
+ },
+ "assuage": {
+  "ph": "/ә'sweidʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "平息, 緩和, 減輕",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assuaged｜現在分詞 assuaging｜過去式 assuaged｜第三人稱單數 assuages"
+ },
+ "assume": {
+  "ph": "/ә'sju:m/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "假定, 承擔, 呈現",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "裝腔作勢, 僭越",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assumed｜現在分詞 assuming｜過去式 assumed｜第三人稱單數 assumes"
+ },
+ "assumed": {
+  "ph": "/ә'sju:md/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "假裝的, 裝的, 假定的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 設想的, 假定的, 被承擔的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 assumed｜過去分詞 assumed"
+ },
+ "assuming": {
+  "ph": "/ә'sju:miŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傲慢的, 僭越的, 不遜的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 assuming"
+ },
+ "assumption": {
+  "ph": "/ә'sʌmpʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "假定, 自負, 擔任, 假裝",
+    "def": "a hypothesis that is taken for granted"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 假定, 承擔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assumptions"
+ },
+ "assurance": {
+  "ph": "/ә'ʃuәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "保證, 把握, 信心, 保險",
+    "def": "freedom from doubt; belief in yourself and your abilities"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 保證, 擔保, 保險",
+    "def": ""
+   }
+  ],
+  "forms": "複數 assurances"
+ },
+ "assure": {
+  "ph": "/ә'ʃuә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "保證, 使確信, 弄清楚, 擔保",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 確信, 保證, 保障",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 assured｜過去分詞 assured｜第三人稱單數 assures｜現在分詞 assuring"
+ },
+ "assured": {
+  "ph": "/ә'ʃuәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "確定的, 自信的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 被保險人, 被保證者, 投保人",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 assured｜過去式 assured"
+ },
+ "assuredly": {
+  "ph": "/ә'ʃuәridli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "確實地, 無疑地, 確信地",
+    "def": ""
+   }
+  ]
+ },
+ "assyria": {
+  "ph": "/ә'siriә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞述",
+    "def": "an ancient kingdom in northern Mesopotamia which is in present-day Iraq"
+   }
+  ]
+ },
+ "assyrian": {
+  "ph": "/ә'siriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞述的, 亞述人的, 亞述語的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "亞述人",
+    "def": "an inhabitant of ancient Assyria"
+   }
+  ],
+  "forms": "複數 assyrians"
+ },
+ "ast": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "大西洋標準時間（Atlantic Standard Time）",
+    "def": ""
+   }
+  ]
+ },
+ "astaire": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Astaire)人名；(英)阿斯泰爾",
+    "def": "United States dancer and cinema actor noted for his original and graceful tap dancing (1899-1987)"
+   },
+   {
+    "pos": "",
+    "zh": "阿斯泰爾",
+    "def": ""
+   }
+  ]
+ },
+ "astbury": {
+  "ph": "/'æstbəri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[常作定語](英國新塔福德郡產的)阿斯特伯裡式陶器；浮雕陶器",
+    "def": ""
+   }
+  ]
+ },
+ "aster": {
+  "ph": "/'æstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紫苑屬植物",
+    "def": "any of various chiefly fall-blooming herbs of the genus Aster with showy daisylike flowers"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 星體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asters"
+ },
+ "asterisk": {
+  "ph": "/'æstәrisk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星號",
+    "def": "a star-shaped character * used in printing"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 星號, 星號萬用字元",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asterisks｜過去式 asterisked｜現在分詞 asterisking｜第三人稱單數 asterisks｜過去分詞 asterisked"
+ },
+ "asterism": {
+  "ph": "/'æstәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星群, 三星標",
+    "def": "(mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 星點",
+    "def": ""
+   }
+  ]
+ },
+ "astern": {
+  "ph": "/ә'stә:n/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在船尾, 向船尾",
+    "def": ""
+   }
+  ]
+ },
+ "asteroid": {
+  "ph": "/'æstәrɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小行星, 海盤車",
+    "def": "any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits of Mars and Jupiter)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "星狀的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asteroids"
+ },
+ "asteroidal": {
+  "ph": "/.æstә'rɒidl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "星狀的",
+    "def": "of or relating to or resembling an asteroid"
+   }
+  ]
+ },
+ "asthma": {
+  "ph": "/'æsmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "哮喘",
+    "def": "respiratory disorder characterized by wheezing; usually of allergic origin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氣喘",
+    "def": ""
+   }
+  ]
+ },
+ "asthmatic": {
+  "ph": "/æs'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氣喘的, 患氣喘症, 治氣喘有效的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氣喘的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asthmatics"
+ },
+ "astigmatic": {
+  "ph": "/,æsti^'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "散光的, 矯正散光的",
+    "def": "of or relating to a defect in the eye or in a lens caused by a deviation from spherical curvature which prevents light rays from meeting at a common focus and s"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 象散",
+    "def": ""
+   }
+  ]
+ },
+ "astigmatism": {
+  "ph": "/ә'stigmәtizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "散光",
+    "def": "(ophthalmology) impaired eyesight resulting usually from irregular conformation of the cornea; common in nearsighted people"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 像散",
+    "def": ""
+   }
+  ]
+ },
+ "astilbe": {
+  "ph": "/ә'stilbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]落新婦屬植物",
+    "def": "any plant of the genus Astilbe having compound leaves and showy panicles of tiny colorful flowers"
+   }
+  ],
+  "forms": "複數 astilbes"
+ },
+ "astir": {
+  "ph": "/ә'stә:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "活動的, 騷動的, 起床的",
+    "def": ""
+   }
+  ]
+ },
+ "astley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Astley)人名；(英)阿斯特利；(瑞典)阿斯特萊",
+    "def": ""
+   }
+  ]
+ },
+ "aston": {
+  "ph": "/'æstәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斯頓（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "astonish": {
+  "ph": "/ә'stɒniʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使驚訝",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 astonished｜過去分詞 astonished｜第三人稱單數 astonishes｜現在分詞 astonishing"
+ },
+ "astonished": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吃驚的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 astonished｜過去分詞 astonished"
+ },
+ "astonishing": {
+  "ph": "/ә'stɒniʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人驚訝的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 astonishing"
+ },
+ "astonishingly": {
+  "ph": "/ə'stɔniʃiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人驚訝地",
+    "def": ""
+   }
+  ]
+ },
+ "astonishment": {
+  "ph": "/ә'stɒniʃmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驚異, 驚愕, 使人驚異的事物",
+    "def": "the feeling that accompanies something extremely surprising"
+   }
+  ],
+  "forms": "複數 astonishments"
+ },
+ "astor": {
+  "ph": "/'æstə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斯特（男子名）",
+    "def": "British politician (born in the United States) who was the first woman to sit in the British House of Commons (1879-1964)"
+   },
+   {
+    "pos": "abbr.",
+    "zh": "反潛魚雷（antisubmarine torpedo）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 astors"
+ },
+ "astoria": {
+  "ph": "/æs'tɔ:riə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斯托里亞（俄勒岡州西北端的城市）",
+    "def": ""
+   }
+  ]
+ },
+ "astound": {
+  "ph": "/ә'staund/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使驚駭, 使大驚",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 astounding｜過去式 astounded｜過去分詞 astounded｜第三人稱單數 astounds｜複數 astounds"
+ },
+ "astounded": {
+  "ph": "/ə'staundid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使驚愕（astound的過去式和過去分詞）",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "受驚駭的；被震驚的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 astounded｜過去式 astounded"
+ },
+ "astounding": {
+  "ph": "/ә'staundiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人驚駭的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 astounding"
+ },
+ "astoundingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人驚奇地",
+    "def": ""
+   }
+  ]
+ },
+ "astra": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斯特拉（英國伏克斯豪爾）；太陽白",
+    "def": ""
+   }
+  ]
+ },
+ "astragalus": {
+  "ph": "/æ'stægәlәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "距骨, 黃芪屬",
+    "def": "large genus of annual or perennial herbs or shrubs of north temperate regions; largest genus in the family Leguminosae"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 距骨",
+    "def": ""
+   }
+  ]
+ },
+ "astrakhan": {
+  "ph": "/æstrә'kæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斯特拉罕羔皮, 俄國羔皮",
+    "def": "the fur of young lambs"
+   }
+  ]
+ },
+ "astral": {
+  "ph": "/'æstrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "星的, 多星的, 靈魂的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 星體的",
+    "def": ""
+   }
+  ]
+ },
+ "astray": {
+  "ph": "/ә'strei/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "迷途地, 入歧途地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 誤入歧途地, 離開正道地",
+    "def": ""
+   }
+  ]
+ },
+ "astrid": {
+  "ph": "/'æstrid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斯特麗德(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "astride": {
+  "ph": "/ә'straid/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "跨著",
+    "def": ""
+   }
+  ]
+ },
+ "astringent": {
+  "ph": "/ә'strindʒәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "收斂劑",
+    "def": "a drug that causes contraction of body tissues and canals"
+   },
+   {
+    "pos": "adj.",
+    "zh": "收斂性的, 嚴厲的, 澀的",
+    "def": "tending to draw together or constrict soft organic tissue"
+   }
+  ],
+  "forms": "複數 astringents"
+ },
+ "astrobiologist": {
+  "ph": "/,æstrәbaiә'lɔdʒist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "天體生物學者, 太空生物學者",
+    "def": ""
+   }
+  ]
+ },
+ "astrobiology": {
+  "ph": "/.æstrәubai'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天體生物學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 天體生物學",
+    "def": ""
+   }
+  ]
+ },
+ "astrocyte": {
+  "ph": "/'æstrәsait/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 星形[膠質]細胞, 蛛形細胞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 astrocytes"
+ },
+ "astrodome": {
+  "ph": "/'æstrәdәjm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天體觀測窗, 天文航行艙",
+    "def": "a transparent dome on top of an airplane where the navigator can make celestial observations"
+   }
+  ]
+ },
+ "astrolabe": {
+  "ph": "/'æstrәleib/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星盤",
+    "def": "an early form of sextant"
+   }
+  ],
+  "forms": "複數 astrolabes"
+ },
+ "astrologer": {
+  "ph": "/ә'strɒlәdʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "占星家",
+    "def": "someone who predicts the future by the positions of the planets and sun and Moon"
+   }
+  ],
+  "forms": "複數 astrologers"
+ },
+ "astrological": {
+  "ph": "/.æstrә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "占星學的, 占星術的",
+    "def": "relating to or concerned with astrology"
+   }
+  ]
+ },
+ "astrology": {
+  "ph": "/ә'strɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "占星術, 占星學",
+    "def": "a pseudoscience claiming divination by the positions of the planets and sun and moon"
+   }
+  ],
+  "forms": "複數 astrologies"
+ },
+ "astrometric": {
+  "ph": "/,æstrə'metrik, ,æstrə'metrikəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "天體測量的",
+    "def": ""
+   }
+  ]
+ },
+ "astrometry": {
+  "ph": "/æ'strɒmitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天體測量學",
+    "def": "the branch of astronomy that deals with the measurement of the position and motion of celestial bodies"
+   }
+  ]
+ },
+ "astronaut": {
+  "ph": "/'æstrәnɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "太空旅行者, 宇航員",
+    "def": "a person trained to travel in a spacecraft"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 美國太空人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 astronauts｜第三人稱單數 astronauts"
+ },
+ "astronautical": {
+  "ph": "/æstrә'nɒ:tikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "航天的, 宇航的",
+    "def": ""
+   }
+  ]
+ },
+ "astronautics": {
+  "ph": "/.æstrә'nɒ:tiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航天學, 宇宙航行",
+    "def": ""
+   }
+  ]
+ },
+ "astronomer": {
+  "ph": "/ә'strɒnәmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天文學家",
+    "def": "a physicist who studies astronomy"
+   }
+  ],
+  "forms": "複數 astronomers"
+ },
+ "astronomic": {
+  "ph": "/,æstrə'nɔmikəl,-ik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "天文學的；星學的",
+    "def": "relating or belonging to the science of astronomy"
+   }
+  ]
+ },
+ "astronomical": {
+  "ph": "/.æstrә'nɒmikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "天文學的, 龐大的",
+    "def": ""
+   }
+  ]
+ },
+ "astronomically": {
+  "ph": "/,æstrə'nɔmikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "天文學上地；宇航學地；天體地",
+    "def": ""
+   }
+  ]
+ },
+ "astronomy": {
+  "ph": "/ә'strɒnәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天文學",
+    "def": "the branch of physics that studies celestial bodies and the universe as a whole"
+   }
+  ]
+ },
+ "astrophotography": {
+  "ph": "/.æstrәfәu'tɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天體攝影",
+    "def": "The application of photography to the delineation"
+   }
+  ]
+ },
+ "astrophysical": {
+  "ph": "/.æstrә'fizikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "天體物理學的",
+    "def": "of or concerned with astrophysics"
+   }
+  ]
+ },
+ "astrophysicist": {
+  "ph": "/.æstrәu'fizisist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天體物理學家",
+    "def": "an astronomer who studies the physical properties of celestial bodies"
+   }
+  ],
+  "forms": "複數 astrophysicists"
+ },
+ "astrophysics": {
+  "ph": "/.æstrәu'fiziks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天體物理學",
+    "def": "the branch of astronomy concerned with the physical and chemical properties of celestial bodies"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 天體物理; 天體物理學",
+    "def": ""
+   }
+  ]
+ },
+ "asturian": {
+  "ph": "/æ'stjjәriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(西班牙)阿斯圖里亞斯的,阿斯圖里亞斯人的, 阿斯圖里亞斯文化的",
+    "def": "Of or pertaining to Asturias in Spain."
+   },
+   {
+    "pos": "n.",
+    "zh": "阿斯圖里亞斯人, 阿斯圖里亞斯語",
+    "def": "A native of Asturias."
+   }
+  ],
+  "forms": "複數 asturians"
+ },
+ "astute": {
+  "ph": "/ә'stju:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "敏銳的, 狡猾的",
+    "def": ""
+   }
+  ]
+ },
+ "astutely": {
+  "ph": "/əs'tju:tli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "敏捷地；伶俐地",
+    "def": ""
+   }
+  ]
+ },
+ "astuteness": {
+  "ph": "/ә'stju:tnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敏銳, 精明, 狡猾",
+    "def": "the intellectual ability to penetrate deeply into ideas"
+   }
+  ]
+ },
+ "asunder": {
+  "ph": "/ә'sʌndә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "分開, 散, 碎",
+    "def": ""
+   }
+  ]
+ },
+ "aswan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斯旺（埃及一城市）",
+    "def": "an ancient city on the Nile in Egypt; two dams across the Nile have been built nearby"
+   }
+  ]
+ },
+ "asylum": {
+  "ph": "/ә'sailәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "庇護, 收容所",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 養育院",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asylums"
+ },
+ "asymmetric": {
+  "ph": "/æsi'metrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不對稱的, 偏位的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 非對稱的, 不對稱的, 不平衡的",
+    "def": ""
+   }
+  ]
+ },
+ "asymmetrical": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不對稱的, 偏位的",
+    "def": "characterized by asymmetry in the spatial arrangement or placement of parts or components"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 非對稱的, 不對稱的",
+    "def": ""
+   }
+  ]
+ },
+ "asymmetrically": {
+  "ph": "/əsi'metrikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不對稱地（不平衡地）",
+    "def": ""
+   }
+  ]
+ },
+ "asymmetry": {
+  "ph": "/æ'simitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不勻稱, 不對稱",
+    "def": "(mathematics) a lack of symmetry"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 不對稱, 偏位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 asymmetries"
+ },
+ "asymptomatic": {
+  "ph": "/,eisimptә'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無症狀的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無症狀的",
+    "def": ""
+   }
+  ]
+ },
+ "asymptotic": {
+  "ph": "/,æsimp'tɔtik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 漸近的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 漸近線的",
+    "def": ""
+   }
+  ]
+ },
+ "asymptotically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 漸近",
+    "def": ""
+   }
+  ]
+ },
+ "asynchronous": {
+  "ph": "/ei'siŋkrәnәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不同時的, 不同期的, 非同步的",
+    "def": "(digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derive"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 非同步的",
+    "def": ""
+   }
+  ]
+ },
+ "asynchronously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "非同步的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "非同步",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "不同時",
+    "def": ""
+   }
+  ]
+ },
+ "asynchrony": {
+  "ph": "/ei'siŋkrәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不同時性",
+    "def": ""
+   }
+  ]
+ }
+}

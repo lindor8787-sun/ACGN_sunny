@@ -1,0 +1,3232 @@
+{
+ "sl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 模擬語言, 源語言, 系統語言",
+    "def": ""
+   }
+  ]
+ },
+ "slab": {
+  "ph": "/slæb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平板, 厚片",
+    "def": "block consisting of a thick piece of something"
+   },
+   {
+    "pos": "vt.",
+    "zh": "切成厚板, 以平板蓋上",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slabs｜過去式 slabbed"
+ },
+ "slack": {
+  "ph": "/slæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬆弛, 鬆懈, 淡季, 閒散, 家常褲",
+    "def": "dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a sieve"
+   },
+   {
+    "pos": "adj.",
+    "zh": "鬆弛的, 不流暢的, 疏忽的, 無力的, 呆滯的, 軟弱的, 漏水的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "馬虎地, 緩慢地",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "放鬆, 使緩慢",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "鬆懈, 減弱, 鬆弛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slacks｜比較級 slacker｜現在分詞 slacking｜最高級 slackest｜過去式 slacked｜第三人稱單數 slacks｜過去分詞 slacked"
+ },
+ "slacken": {
+  "ph": "/'slækәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使鬆弛, 放鬆, 放慢",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變鬆弛, 減弱, 鬆勁",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slackened｜現在分詞 slackening｜過去分詞 slackened｜第三人稱單數 slackens"
+ },
+ "slackened": {
+  "ph": "/ˈslækənd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）鬆弛( slacken的過去式和過去分詞 ); （使某物）放慢; 鬆懈下來; 變遲緩",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slackened"
+ },
+ "slackening": {
+  "ph": "/ˈslækənɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）鬆弛( slacken的現在分詞 ); （使某物）放慢; 鬆懈下來; 變遲緩",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slackening"
+ },
+ "slacker": {
+  "ph": "/'slækә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懶惰蟲, 逃避兵役者",
+    "def": "a person who shirks his work or duty (especially one who tries to evade military service in wartime)"
+   }
+  ],
+  "forms": "複數 slackers"
+ },
+ "slackly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "鬆弛地；懈怠地；不活躍地",
+    "def": ""
+   }
+  ]
+ },
+ "slackness": {
+  "ph": "/'slæknɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懈怠",
+    "def": ""
+   }
+  ]
+ },
+ "slacks": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寬鬆的褲子, 便褲",
+    "def": "(usually in the plural) pants for casual wear"
+   }
+  ]
+ },
+ "slade": {
+  "ph": "/sleid/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Society of Lithographic Artists,Designers, Engravers,and Process Workers(英國)平版及套色印刷工人工會",
+    "def": ""
+   }
+  ]
+ },
+ "slag": {
+  "ph": "/slæg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熔渣, 礦渣, 無足輕重的人",
+    "def": "the scum formed by oxidation at the surface of molten metals"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使變成熔渣",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變熔渣",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slagging｜複數 slags｜過去式 slagged｜第三人稱單數 slags｜過去分詞 slagged"
+ },
+ "slain": {
+  "ph": "/slein/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "slay的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slains｜過去分詞 slain"
+ },
+ "slake": {
+  "ph": "/sleik/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "消除, 使清涼, 熄滅",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 消, 滅; 消和(石灰); 松, 緩和",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slaking｜過去分詞 slaked｜過去式 slaked｜第三人稱單數 slakes"
+ },
+ "slalom": {
+  "ph": "/'slælәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "障礙滑雪",
+    "def": "a downhill race over a winding course defined by upright poles"
+   }
+  ],
+  "forms": "複數 slaloms｜第三人稱單數 slaloms｜現在分詞 slaloming｜過去式 slalomed｜過去分詞 slalomed"
+ },
+ "slam": {
+  "ph": "/slæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "砰然聲, 猛然, 猛烈的抨擊",
+    "def": "winning all or all but one of the tricks in bridge"
+   },
+   {
+    "pos": "vt.",
+    "zh": "猛然關上, 砰地關上, 猛烈抨擊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "砰地關上, 猛攻",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slammed｜現在分詞 slamming｜過去分詞 slammed｜第三人稱單數 slams"
+ },
+ "slammed": {
+  "ph": "/slæmd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "砰地關上（門或窗）( slam的過去式和過去分詞 ); 用力一放; 使勁一推; 猛勁一摔",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slammed"
+ },
+ "slammer": {
+  "ph": "/'slæmә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 監獄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slammers"
+ },
+ "slamming": {
+  "ph": "/'slæmiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[船舶]砰擊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slamming"
+ },
+ "slander": {
+  "ph": "/'slændә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中傷, 誹謗",
+    "def": "words falsely spoken that damage the reputation of another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "中傷, 誹謗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slanders｜現在分詞 slandering｜過去分詞 slandered｜過去式 slandered｜第三人稱單數 slanders"
+ },
+ "slanderous": {
+  "ph": "/'slændәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中傷性的, 中傷的, 挖苦人的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 誹謗的, 造謠中傷的, 詆譭的",
+    "def": ""
+   }
+  ]
+ },
+ "slang": {
+  "ph": "/slæŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俚語",
+    "def": "informal language consisting of words and expressions that are not considered appropriate for formal occasions; often vituperative or vulgar"
+   },
+   {
+    "pos": "v.",
+    "zh": "辱罵, 用俚語說",
+    "def": "use slang or vulgar language"
+   }
+  ],
+  "forms": "現在分詞 slanging｜複數 slangs｜過去式 slanged｜第三人稱單數 slangs｜過去分詞 slanged"
+ },
+ "slanging": {
+  "ph": "/slæŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俚語；行話",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "俚語的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "用粗話罵",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用俚語說",
+    "def": ""
+   }
+  ]
+ },
+ "slangy": {
+  "ph": "/'slæŋi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "俚語的, 俗話多的",
+    "def": ""
+   }
+  ]
+ },
+ "slant": {
+  "ph": "/slænt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾斜, 斜面, 觀點, 偏見, 歪曲",
+    "def": "a biased way of looking at or presenting something"
+   },
+   {
+    "pos": "adj.",
+    "zh": "傾斜的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)傾斜",
+    "def": "lie obliquely"
+   }
+  ],
+  "forms": "現在分詞 slanting｜過去式 slanted｜過去分詞 slanted｜複數 slants｜第三人稱單數 slants"
+ },
+ "slanted": {
+  "ph": "/ˈslɑ:ntɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有偏見的; 傾斜的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "（使）傾斜, 歪斜( slant的過去式 ); 有傾向性地編寫或報道",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 slanted｜過去式 slanted"
+ },
+ "slanting": {
+  "ph": "/'slɑ:ntiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傾斜的, 歪斜的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slanting"
+ },
+ "slantwise": {
+  "ph": "/'slæntwaiz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傾斜的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "傾斜地",
+    "def": ""
+   }
+  ]
+ },
+ "slap": {
+  "ph": "/slæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摑, 掌擊, 侮辱, 拍擊聲",
+    "def": "a blow from a flat object (as an open hand)"
+   },
+   {
+    "pos": "v.",
+    "zh": "拍擊, 懲罰",
+    "def": "hit with something flat, like a paddle or the open hand"
+   },
+   {
+    "pos": "adv.",
+    "zh": "正面地, 直接地, 突然地",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slapped｜現在分詞 slapping｜過去分詞 slapped｜第三人稱單數 slaps｜複數 slaps"
+ },
+ "slapdash": {
+  "ph": "/'slæpdæʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草率",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "猛烈的, 粗心的",
+    "def": ""
+   }
+  ]
+ },
+ "slapping": {
+  "ph": "/'slæpiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "出奇快的, 巨大的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 掌拍法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slapping"
+ },
+ "slapstick": {
+  "ph": "/'slæpstik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬧劇, 趣劇",
+    "def": "a boisterous comedy with chases and collisions and practical jokes"
+   }
+  ]
+ },
+ "slash": {
+  "ph": "/slæʃ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "猛砍, 亂砍",
+    "def": "cut with sweeping strokes; as with an ax or machete"
+   },
+   {
+    "pos": "n.",
+    "zh": "猛砍, 亂砍, 刪減",
+    "def": "an open tract of land in a forest that is strewn with debris from logging (or fire or wind)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 斜線",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 slashed｜現在分詞 slashing｜過去式 slashed｜第三人稱單數 slashes｜複數 slashes"
+ },
+ "slashed": {
+  "ph": "/slæʃt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "揮砍( slash的過去式和過去分詞 ); 鞭打; 割破; 削減",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 slashed｜過去式 slashed"
+ },
+ "slasher": {
+  "ph": "/'slæʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猛砍者, 亂砍者, 好毆鬥者, 恃強欺弱的人, 刀, 泥刀, 剃刀片, 劍, 漿紗機",
+    "def": "someone who slashes another person"
+   }
+  ],
+  "forms": "複數 slashers"
+ },
+ "slashing": {
+  "ph": "/'slæʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "猛烈的, 苛刻的, 鮮明的, 猛砍的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slashings｜現在分詞 slashing"
+ },
+ "slat": {
+  "ph": "/slæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "條板",
+    "def": "a thin strip (wood or metal)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "劈啪劈啪地碰撞",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用條板製造",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slats｜現在分詞 slatting｜過去式 slatted｜第三人稱單數 slats｜過去分詞 slatted"
+ },
+ "slate": {
+  "ph": "/sleit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "板岩, 頁岩, 提名名單, 人選, 記錄, 石板",
+    "def": "(formerly) a writing tablet made of slate"
+   },
+   {
+    "pos": "adj.",
+    "zh": "石板色的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "鋪石板, 責罵, 痛打",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slates｜過去分詞 slated｜過去式 slated｜第三人稱單數 slates｜現在分詞 slating"
+ },
+ "slated": {
+  "ph": "/ˈsleɪtɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用石板瓦蓋( slate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slated｜過去分詞 slated"
+ },
+ "slater": {
+  "ph": "/'sleitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石板瓦工, 鋪石板者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slaters"
+ },
+ "slather": {
+  "ph": "/'slæðә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "厚厚地塗, 大量使用",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "大量",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slathered｜過去分詞 slathered｜現在分詞 slathering｜第三人稱單數 slathers"
+ },
+ "slatted": {
+  "ph": "/'slætid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裝有板條的,用板條做的,覆有板條的",
+    "def": ""
+   }
+  ]
+ },
+ "slattern": {
+  "ph": "/'slætәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣著不整的女人, 蕩婦",
+    "def": "a dirty untidy woman"
+   },
+   {
+    "pos": "adj.",
+    "zh": "不整潔的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "浪費掉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slatterns"
+ },
+ "slattery": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Slattery)人名；(英)斯萊特里",
+    "def": ""
+   }
+  ]
+ },
+ "slaty": {
+  "ph": "/'sleiti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "石板一樣的, 石板色的",
+    "def": ""
+   }
+  ]
+ },
+ "slaughter": {
+  "ph": "/'slɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "殘殺, 屠殺, 殺戮",
+    "def": "the killing of animals (as for food)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "殘殺, 屠殺, 虧本出售",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 slaughtered｜現在分詞 slaughtering｜過去式 slaughtered｜第三人稱單數 slaughters｜複數 slaughters"
+ },
+ "slaughtered": {
+  "ph": "/ˈslɔ:təd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "屠殺, 殺戮, 屠宰( slaughter的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "slaughterer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屠夫, 屠殺者, 劊子手",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 屠夫, 屠殺者, 劊子手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slaughterers"
+ },
+ "slaughterhouse": {
+  "ph": "/'slɒ:tәhaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屠殺場",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slaughterhouses"
+ },
+ "slaughtering": {
+  "ph": "/'slɔ:tərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "屠殺, 殺戮, 屠宰( slaughter的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slaughterings｜現在分詞 slaughtering"
+ },
+ "slav": {
+  "ph": "/slɑ:v, slæv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "斯拉夫人的；斯拉夫語的",
+    "def": "speaking a Slavic language"
+   }
+  ],
+  "forms": "複數 slavs"
+ },
+ "slave": {
+  "ph": "/sleiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奴隸, 從動裝置, 卑鄙的人",
+    "def": "a person who is owned by someone"
+   },
+   {
+    "pos": "vi.",
+    "zh": "拼命工作",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 從裝置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slaves｜現在分詞 slaving｜過去分詞 slaved｜過去式 slaved｜第三人稱單數 slaves"
+ },
+ "slaveholder": {
+  "ph": "/'sleiv.hәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奴隸所有者",
+    "def": "someone who holds slaves"
+   }
+  ],
+  "forms": "複數 slaveholders"
+ },
+ "slaver": {
+  "ph": "/'sleivә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奴隸商人, 奴隸販賣船, 口水",
+    "def": "a person engaged in slave trade"
+   },
+   {
+    "pos": "vi.",
+    "zh": "垂涎, 淌口水, 奉承",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "淌口水弄髒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slavering｜複數 slavers｜過去式 slavered｜第三人稱單數 slavers｜過去分詞 slavered"
+ },
+ "slavering": {
+  "ph": "/ˈslævərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "流口水( slaver的現在分詞 ); 垂涎, 極想得到",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slavering｜複數 slaverings"
+ },
+ "slavery": {
+  "ph": "/'sleivәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奴隸的身分, 奴隸狀態, 奴隸制度",
+    "def": "the practice of owning slaves"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 奴隸制度, 奴役, 苦役",
+    "def": ""
+   }
+  ]
+ },
+ "slavic": {
+  "ph": "/'slævik, 'slɑ:v-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "斯拉夫的, 斯拉夫人的",
+    "def": ""
+   }
+  ]
+ },
+ "slavish": {
+  "ph": "/'sleiviʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奴隸的, 奴性的, 盲從的",
+    "def": ""
+   }
+  ]
+ },
+ "slavishly": {
+  "ph": "/'sleɪvɪʃlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "奴隸般地, 盲目地",
+    "def": ""
+   }
+  ]
+ },
+ "slavonic": {
+  "ph": "/slә'vɔnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "斯拉夫的, 斯拉夫人的",
+    "def": "of or relating to Slavic languages"
+   }
+  ]
+ },
+ "slaw": {
+  "ph": "/slɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酸捲心菜絲",
+    "def": ""
+   }
+  ]
+ },
+ "slay": {
+  "ph": "/slei/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "殺害, 殘殺",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 slain｜現在分詞 slaying｜第三人稱單數 slays｜複數 slays｜過去式 slew"
+ },
+ "slayer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "殺人者, 兇手, 屠宰者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 殺人者, 兇手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slayers"
+ },
+ "slaying": {
+  "ph": "/sleɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "殺戮。",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "殺死, 宰殺, 殺戮( slay的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slayings"
+ },
+ "sleaze": {
+  "ph": "/sli:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劣等品；卑鄙的人；骯髒；不名譽的狀況",
+    "def": ""
+   }
+  ]
+ },
+ "sleazy": {
+  "ph": "/'sleizi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "質地薄的, 沒有內容的, 低階庸俗的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 sleaziest｜比較級 sleazier"
+ },
+ "sled": {
+  "ph": "/sled/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪撬",
+    "def": "a vehicle mounted on runners and pulled by horses or dogs; for transportation over snow"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用雪撬搬運",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "乘雪撬",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 單一大型貴重磁碟",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sleds｜現在分詞 sledding｜過去式 sledded｜第三人稱單數 sleds｜過去分詞 sledded"
+ },
+ "sledding": {
+  "ph": "/'slediŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乘雪撬",
+    "def": "the sport of riding on a sled or sleigh"
+   }
+  ]
+ },
+ "sledge": {
+  "ph": "/sledʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪橇, 大錘",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用雪橇搬運",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "坐雪橇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sledges｜現在分詞 sledging｜過去分詞 sledged｜過去式 sledged｜第三人稱單數 sleds"
+ },
+ "sledgehammer": {
+  "ph": "/'sledʒ.hæmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大錘, 極有分量的事物",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "強力的, 手下不留情的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "用大錘打, 沉重打擊",
+    "def": "beat with a sledgehammer"
+   }
+  ],
+  "forms": "複數 sledgehammers｜第三人稱單數 sledgehammers｜現在分詞 sledgehammering｜過去式 sledgehammered｜過去分詞 sledgehammered"
+ },
+ "sleek": {
+  "ph": "/sli:k/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光滑的, 油嘴滑舌的, 線條明快的, 圓滑的, 時髦的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使光滑, 掩蓋",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "打扮漂亮, 滑動",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 sleeker｜最高級 sleekest｜現在分詞 sleeking｜第三人稱單數 sleeks｜過去式 sleeked｜過去分詞 sleeked"
+ },
+ "sleekly": {
+  "ph": "/sli:klɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "光滑地, 光澤地",
+    "def": ""
+   }
+  ]
+ },
+ "sleekness": {
+  "ph": "/sli:knəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油滑; 油光發亮; 時髦闊氣; 線條明快",
+    "def": "the quality of being well-groomed and neatly tailored"
+   }
+  ]
+ },
+ "sleep": {
+  "ph": "/sli:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睡眠, 靜止, 昏迷, 麻木, 長眠, 冬眠",
+    "def": "a natural and periodic state of rest during which consciousness of the world is suspended"
+   },
+   {
+    "pos": "vi.",
+    "zh": "睡覺, 睡眠, 靜止",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "睡",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slept｜現在分詞 sleeping｜過去分詞 slept｜第三人稱單數 sleeps"
+ },
+ "sleeper": {
+  "ph": "/'sli:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睡眠者, 枕木, 臥鋪",
+    "def": "a rester who is sleeping"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 睡眠者, 懶人, 死人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sleepers｜過去式 sleepered"
+ },
+ "sleepily": {
+  "ph": "/'sli:pili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "想睡地, 睏倦地",
+    "def": ""
+   }
+  ]
+ },
+ "sleepiness": {
+  "ph": "/'sli:pinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睡意",
+    "def": "a very sleepy state"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瞌睡, 欲睡",
+    "def": ""
+   }
+  ]
+ },
+ "sleeping": {
+  "ph": "/'sli:piŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睡眠",
+    "def": "the state of being asleep"
+   },
+   {
+    "pos": "adj.",
+    "zh": "睡著的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sleeping"
+ },
+ "sleeping bag": {
+  "ph": "/'sli:piŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "睡袋",
+    "def": ""
+   }
+  ]
+ },
+ "sleeping pill": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安眠藥片",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 安眠藥丸",
+    "def": ""
+   }
+  ]
+ },
+ "sleepless": {
+  "ph": "/'sli:plis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不睡眠的, 睡不著的, 不休息的",
+    "def": ""
+   }
+  ]
+ },
+ "sleeplessness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 失眠",
+    "def": ""
+   }
+  ]
+ },
+ "sleepover": {
+  "ph": "/ˈsli:pəʊvə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "就是孩子到別的小朋友家過夜。",
+    "def": "an occasion of spending a night away from home or having a guest spend the night in your home (especially as a party for children)"
+   }
+  ]
+ },
+ "sleepwalk": {
+  "ph": "/'sli:pwɔ:k/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "夢遊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sleepwalking｜過去分詞 sleepwalked｜複數 sleepwalks｜過去式 sleepwalked｜第三人稱單數 sleepwalks"
+ },
+ "sleepwalker": {
+  "ph": "/'sli:pwɒ:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夢遊病者",
+    "def": "someone who walks about in their sleep"
+   }
+  ],
+  "forms": "複數 sleepwalkers"
+ },
+ "sleepwalking": {
+  "ph": "/'sli:pwɒ:kiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夢遊病",
+    "def": "walking by a person who is asleep"
+   }
+  ],
+  "forms": "現在分詞 sleepwalking"
+ },
+ "sleepwear": {
+  "ph": "/'sli:pwєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睡衣褲",
+    "def": ""
+   }
+  ]
+ },
+ "sleepy": {
+  "ph": "/'sli:pi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "睏乏的, 欲睡的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 sleepier｜複數 sleepies"
+ },
+ "sleepyhead": {
+  "ph": "/'sli:pihed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貪睡者, 懶鬼",
+    "def": "a sleepy person"
+   }
+  ]
+ },
+ "sleet": {
+  "ph": "/sli:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雨夾雪",
+    "def": "partially melted snow (or a mixture of rain and snow)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "下雨夾雪",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sleeting｜過去式 sleeted｜第三人稱單數 sleets｜過去分詞 sleeted"
+ },
+ "sleeve": {
+  "ph": "/sli:v/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "袖子, 套管",
+    "def": "the part of a garment that is attached at the armhole and that provides a cloth covering for the arm"
+   },
+   {
+    "pos": "vt.",
+    "zh": "縫上袖子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sleeves｜過去式 sleeved｜現在分詞 sleeving｜過去分詞 sleeved"
+ },
+ "sleeved": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裝有袖子的",
+    "def": "made with sleeves or sleeves especially as specified; often used in combination"
+   }
+  ],
+  "forms": "過去式 sleeved"
+ },
+ "sleeveless": {
+  "ph": "/'sli:vlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無袖的",
+    "def": "having no sleeves"
+   }
+  ]
+ },
+ "sleigh": {
+  "ph": "/slei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪撬",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用雪撬搬運",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "乘雪撬",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sleighing｜複數 sleighs｜過去式 sleighed｜第三人稱單數 sleighs｜過去分詞 sleighed"
+ },
+ "sleight": {
+  "ph": "/slait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技巧, 詭計, 熟練",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sleights"
+ },
+ "slender": {
+  "ph": "/'slendә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "苗條的, 纖弱的, 微少的, 微薄的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 細的, 纖細的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slendering"
+ },
+ "slenderness": {
+  "ph": "/'slɛndɚnɪs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "細長度",
+    "def": ""
+   }
+  ]
+ },
+ "sleuth": {
+  "ph": "/slu:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "警犬, 偵探",
+    "def": "a detective who follows a trail"
+   },
+   {
+    "pos": "vi.",
+    "zh": "做偵探",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sleuths｜現在分詞 sleuthing｜過去式 sleuthed｜第三人稱單數 sleuths｜過去分詞 sleuthed"
+ },
+ "sleuthing": {
+  "ph": "/ˈslu:θɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（非警方人員所做的）調查, 偵察",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sleuthing"
+ },
+ "slew": {
+  "ph": "/slu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沼地, 迴轉, 旋轉, 扭轉, 大量",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使旋轉, 使猛拐, 使側滑",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "迴轉, 扭轉, 側滑, 猛拐",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "slay的過去式",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 slewed｜現在分詞 slewing｜複數 slews｜過去式 slewed｜第三人稱單數 slews"
+ },
+ "slice": {
+  "ph": "/slais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄的切片, 一部分, 菜刀",
+    "def": "a share of something"
+   },
+   {
+    "pos": "vt.",
+    "zh": "切成薄片, 切下",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "切",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 片",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slices｜現在分詞 slicing｜過去式 sliced｜過去分詞 sliced｜第三人稱單數 slices"
+ },
+ "sliced": {
+  "ph": "/slaist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "刨切的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sliced｜過去式 sliced"
+ },
+ "slicer": {
+  "ph": "/'slaisә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "切片機",
+    "def": "a golfer whose shots typically curve right (for right-handed golfers)"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 截剪器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slicers"
+ },
+ "slicing": {
+  "ph": "/'slaisiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 切片, 切斷, 限制, 分片",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slicing"
+ },
+ "slick": {
+  "ph": "/slik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光滑的, 熟練的, 聰明的, 華而不實的, 老套的, 陳腐的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "靈活地, 聰明地",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使光滑, 使漂亮",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "打扮整潔",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "光滑平面, 平滑器, 修光工具",
+    "def": "a magazine printed on good quality paper"
+   }
+  ],
+  "forms": "複數 slicks｜過去式 slicked｜過去分詞 slicked｜比較級 slicker｜現在分詞 slicking｜最高級 slickest｜第三人稱單數 slicks"
+ },
+ "slicked": {
+  "ph": "/slikt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "順利而有效的( slick的過去式和過去分詞 ); 不費力的; 圓滑的; 光滑的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 slicked｜過去式 slicked"
+ },
+ "slicker": {
+  "ph": "/'slikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "防水衣, 雨衣, 騙子",
+    "def": "a person with good manners and stylish clothing"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 抹鏝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slickers"
+ },
+ "slickly": {
+  "ph": "/'slikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "平滑地；靈巧地；熟練地",
+    "def": ""
+   }
+  ]
+ },
+ "slickness": {
+  "ph": "/'sliknis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光滑, 巧妙, 花言巧語",
+    "def": "a slippery smoothness"
+   }
+  ]
+ },
+ "slide": {
+  "ph": "/slaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑, 滑道, 山崩, 雪崩, 幻燈片",
+    "def": "a small flat rectangular piece of glass on which specimens can be mounted for microscopic study"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使滑動, 偷偷放入",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "滑動, 滑落, 不知不覺陷入, 偷偷地走",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slid｜複數 slides｜現在分詞 sliding｜第三人稱單數 slides｜過去分詞 slid"
+ },
+ "slider": {
+  "ph": "/'slaidә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 滑動器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sliders"
+ },
+ "slideshow": {
+  "ph": "/slaid'ʃəu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幻燈片, 幻燈片放映, 播放幻燈片方式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slideshows"
+ },
+ "sliding": {
+  "ph": "/'slaidiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "滑行的, 變化的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 滑動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sliding"
+ },
+ "slight": {
+  "ph": "/slait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕蔑, 怠慢",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "輕微的, 纖細的, 脆弱的, 苗條的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "輕視, 忽略, 怠慢",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 slightest｜比較級 slighter｜複數 slights｜過去分詞 slighted｜過去式 slighted｜現在分詞 slighting｜第三人稱單數 slights"
+ },
+ "slighted": {
+  "ph": "/slaitid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "輕蔑, 忽視, 怠慢( slight的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slighted"
+ },
+ "slightly": {
+  "ph": "/'slaitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "些微地, 苗條地",
+    "def": ""
+   }
+  ]
+ },
+ "sligo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sligo)人名；(英)斯萊戈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sligos"
+ },
+ "slim": {
+  "ph": "/slim/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "瘦的, 苗條的, 微小的, 稀少的, 微薄的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變苗條",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使苗條",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 slimmer｜現在分詞 slimming｜過去分詞 slimmed｜過去式 slimmed｜第三人稱單數 slims｜最高級 slimmest"
+ },
+ "slime": {
+  "ph": "/slaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爛泥, 粘液",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗上泥",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變粘滑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slimes｜過去分詞 slimed｜現在分詞 sliming｜第三人稱單數 slimes｜過去式 slimed"
+ },
+ "slimeball": {
+  "ph": "/ˈslaɪmbɔ:l/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "粘球",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slimeballs"
+ },
+ "slimline": {
+  "ph": "/ˈslɪmlaɪn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "細線電纜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slimlines"
+ },
+ "slimmer": {
+  "ph": "/'slimә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英>(透過節食、運動等)減輕體重者,減肥者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slimmers"
+ },
+ "slimming": {
+  "ph": "/'slimiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "減輕體重, 減肥",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "減輕體重的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slimming"
+ },
+ "slimness": {
+  "ph": "/'slimnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細長；微薄",
+    "def": ""
+   }
+  ]
+ },
+ "slimy": {
+  "ph": "/'slaimi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "泥的, 泥濘的, 粘糊糊的, 討厭的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 slimier｜最高級 slimiest"
+ },
+ "sling": {
+  "ph": "/sliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "投石器, 拋擲, 吊索, 吊鉤",
+    "def": "a highball with liquor and water with sugar and lemon or lime juice"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用投石器投擲, 用吊鉤吊上, 吊起",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slung｜複數 slings｜過去分詞 slung｜現在分詞 slinging｜第三人稱單數 slings"
+ },
+ "slingback": {
+  "ph": "/'sliŋbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(鞋後幫呈帶狀的)露跟女鞋",
+    "def": "a shoe that has a strap that wraps around the heel"
+   }
+  ],
+  "forms": "複數 slingbacks"
+ },
+ "slingshot": {
+  "ph": "/'sliŋʃɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "彈弓",
+    "def": "a plaything consisting of a Y-shaped stick with elastic between the arms; used to propel small stones"
+   }
+  ]
+ },
+ "slink": {
+  "ph": "/sliŋk/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "鬼鬼祟祟地走, (動物)早產",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "早產",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "鬼鬼祟祟的人, 早產的動物",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "早產的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slinking｜第三人稱單數 slinks｜過去式 slinked｜複數 slinks｜過去分詞 slunk"
+ },
+ "slinky": {
+  "ph": "/'slinki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鬼鬼祟祟的, 苗條的",
+    "def": "Thin; lank."
+   }
+  ],
+  "forms": "比較級 slinkier｜最高級 slinkiest"
+ },
+ "slip": {
+  "ph": "/slip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑, 滑行, 事故, 溜, 差錯, 滑臺, 下降, 插條, 後裔, 板條, 瘦長的年輕人",
+    "def": "a minor inadvertent mistake usually observed in speech or writing or in small accidents or memory lapses etc."
+   },
+   {
+    "pos": "vi.",
+    "zh": "滑動, 滑倒, 失足, 溜走, 滑落, 犯錯, 變壞",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使滑動, 滑過, 擺脫, 閃開, 塞入, 從...取接枝",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "滑動的, 滑移的, 活絡的, 有活結的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 序列線介面協議",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slipped｜現在分詞 slipping｜過去分詞 slipped｜複數 slips｜第三人稱單數 slips"
+ },
+ "slipcover": {
+  "ph": "/'slip.kʌvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "封套, 套子, 沙發套",
+    "def": "a removable fitted cloth covering for upholstered furniture"
+   }
+  ],
+  "forms": "複數 slipcovers"
+ },
+ "slipcovered": {
+  "ph": "/'slɪp,kʌvə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙發套；套子；覆蓋物",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "給…加封套",
+    "def": ""
+   }
+  ]
+ },
+ "slipknot": {
+  "ph": "/'slipnɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "活結",
+    "def": "a knot at the end of a cord or rope that can slip along the cord or rope around which it is made"
+   }
+  ]
+ },
+ "slippage": {
+  "ph": "/'slipidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑移, 滑動, 滑程",
+    "def": "a decrease of transmitted power in a mechanical system caused by slipping"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 延誤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slippages"
+ },
+ "slipped": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "打滑的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slipped｜過去分詞 slipped"
+ },
+ "slipper": {
+  "ph": "/'slipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拖鞋, 制輪器",
+    "def": "low footwear that can be slipped on and off easily; usually worn indoors"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用拖鞋打",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slippers｜過去分詞 slippered｜過去式 slippered｜現在分詞 slippering"
+ },
+ "slippered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿著拖鞋的",
+    "def": ""
+   }
+  ]
+ },
+ "slipperiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑溜",
+    "def": ""
+   }
+  ]
+ },
+ "slippery": {
+  "ph": "/'slipәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "滑的, 光滑的, 靠不住的, 圓滑的, 不穩固的",
+    "def": "causing or tending to cause things to slip or slide"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 狡猾的, 不可靠的, 不安定的",
+    "def": ""
+   }
+  ]
+ },
+ "slipping": {
+  "ph": "/'slipiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 不嚴重的價格下跌",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slipping"
+ },
+ "slippy": {
+  "ph": "/'slipi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "快的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 slippier"
+ },
+ "slipshod": {
+  "ph": "/'slipʃɒd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "破爛的, 馬虎的, 潦草的",
+    "def": ""
+   }
+  ]
+ },
+ "slipstream": {
+  "ph": "/'slipstri:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沖流",
+    "def": "the flow of air that is driven backwards by an aircraft propeller"
+   }
+  ],
+  "forms": "過去式 slipstreamed｜現在分詞 slipstreaming"
+ },
+ "slipway": {
+  "ph": "/'slipwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑臺, 船臺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slipways"
+ },
+ "slit": {
+  "ph": "/slit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裂縫, 投幣口, 狹長裂口",
+    "def": "a long narrow opening"
+   },
+   {
+    "pos": "vt.",
+    "zh": "切開, 扯裂, 使有狹縫",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "縱切, 縱裂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slits｜過去分詞 slit｜過去式 slit｜現在分詞 slitting｜第三人稱單數 slits"
+ },
+ "slither": {
+  "ph": "/'sliðә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "不穩地滑動",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使滑動",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slithered｜現在分詞 slithering｜第三人稱單數 slithers｜過去分詞 slithered｜複數 slithers"
+ },
+ "slithering": {
+  "ph": "/ˈslɪðərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（因地面陡峭或溼滑等）跌跌撞撞地溜行( slither的現在分詞 ); 滑行; 蛇行; 爬行",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slithering｜複數 slitherings"
+ },
+ "slithery": {
+  "ph": "/'sliðri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "滑的, 滑溜的",
+    "def": ""
+   }
+  ]
+ },
+ "slitted": {
+  "ph": "/slɪt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "撕裂；使有狹縫",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "裂縫；投幣口",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "縱裂",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slitted"
+ },
+ "sliver": {
+  "ph": "/'slivә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裂片, 薄片, 梳毛",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "切成長片",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "剖開, 分裂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slivers｜現在分詞 slivering｜過去式 slivered｜第三人稱單數 slivers｜過去分詞 slivered"
+ },
+ "slivered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "& vi. 使成薄片（sliver的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "sloan": {
+  "ph": "/slәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯隆（姓氏）；麻省理工學院斯隆商學院",
+    "def": ""
+   }
+  ]
+ },
+ "sloane": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國上流社會中衣著時髦的傳統女子",
+    "def": ""
+   }
+  ]
+ },
+ "slob": {
+  "ph": "/slɒb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泥, 軟泥, 粗俗平庸的人",
+    "def": "a coarse obnoxious person"
+   }
+  ],
+  "forms": "複數 slobs｜過去分詞 slobbed｜現在分詞 slobbing"
+ },
+ "slobber": {
+  "ph": "/'slɒbә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "垂涎, 流口水, 情不自禁地說",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "流口水弄溼, 口齒不清地說, 處事馬虎",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "口水, 涎, 過分動情的話, 語無倫次的話",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slobbering｜過去式 slobbered｜過去分詞 slobbered｜複數 slobbers｜第三人稱單數 slobbers"
+ },
+ "slobbering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 垂涎",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slobbering"
+ },
+ "slobbery": {
+  "ph": "/'slɔbәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淌口水的, 潮溼的, 骯髒的, 泥濘的, 過分傷感的, 感情迸發的, 懶散的",
+    "def": "Wet; sloppy, as land."
+   }
+  ]
+ },
+ "slobodan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Slobodan)人名；(塞、瑞典、馬其)斯洛博丹",
+    "def": ""
+   }
+  ]
+ },
+ "slocombe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "索坎比（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "sloe": {
+  "ph": "/slәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黑刺李",
+    "def": "small sour dark purple fruit of especially the Allegheny plum bush"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 黑刺李",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sloes"
+ },
+ "slog": {
+  "ph": "/slɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猛擊, 苦幹, 跋涉",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "猛擊, 苦幹",
+    "def": "walk heavily and firmly, as when weary, or through mud"
+   }
+  ],
+  "forms": "現在分詞 slogging｜過去式 slogged｜複數 slogs｜過去分詞 slogged｜第三人稱單數 slogs"
+ },
+ "slogan": {
+  "ph": "/'slәugәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吶喊聲, 標語, 口號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slogans｜過去式 sloganned"
+ },
+ "sloganeer": {
+  "ph": "/.slәugә'niә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "使用標語口號",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "標語口號作者",
+    "def": "someone who coins and uses slogans to promote a cause"
+   }
+  ],
+  "forms": "現在分詞 sloganeering｜過去式 sloganeered｜第三人稱單數 sloganeers｜過去分詞 sloganeered"
+ },
+ "sloganeering": {
+  "ph": "/ˌsləʊgəˈnɪərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "大量使用標語口號( sloganeer的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "sloop": {
+  "ph": "/slu:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單桅帆船",
+    "def": "a sailing vessel with a single mast set about one third of the boat's length aft of the bow"
+   }
+  ],
+  "forms": "複數 sloops"
+ },
+ "slop": {
+  "ph": "/slɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外衣, 工作服, 泥漿, 汙水, 過分熱情, 口若懸河",
+    "def": "wet feed (especially for pigs) consisting of mostly kitchen waste mixed with water or skimmed or sour milk"
+   },
+   {
+    "pos": "vi.",
+    "zh": "濺出, 踏著泥濘前進",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使溢位, 使濺出, 弄髒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slopping｜過去式 slopped｜複數 slops｜過去分詞 slopped｜第三人稱單數 slops"
+ },
+ "slope": {
+  "ph": "/slәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾斜, 斜坡, 斜率, 扛槍姿勢",
+    "def": "an elevated geological formation"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使傾斜, 弄斜, 扛",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "傾斜, 走, 逃走",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slopes｜過去式 sloped｜現在分詞 sloping｜第三人稱單數 slopes｜過去分詞 sloped"
+ },
+ "sloped": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傾斜的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sloped"
+ },
+ "sloping": {
+  "ph": "/'slәjpiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成斜坡的, 傾斜的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sloping"
+ },
+ "sloppily": {
+  "ph": "/'slɒpɪlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "馬虎地, 草率地",
+    "def": ""
+   }
+  ]
+ },
+ "sloppiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凌亂；馬虎",
+    "def": "a lack of order and tidiness; not cared for"
+   }
+  ]
+ },
+ "sloppy": {
+  "ph": "/'slɒpi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "泥濘的, 潮溼的, 粗心的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 sloppiest｜比較級 sloppier"
+ },
+ "slosh": {
+  "ph": "/slɒʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泥濘, 濺潑聲",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "走泥濘路, 液體晃動, 濺, 潑",
+    "def": "spill or splash copiously or clumsily"
+   }
+  ],
+  "forms": "現在分詞 sloshing｜過去式 sloshed｜第三人稱單數 sloshes｜過去分詞 sloshed｜複數 sloshes"
+ },
+ "sloshed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喝醉的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sloshed｜過去式 sloshed"
+ },
+ "sloshing": {
+  "ph": "/slɒʃɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "濺, 潑, 潑濺在…上( slosh的現在分詞 ); （尤指錢）大量存在; 涉水而行; （液體）（在容器裡）晃盪作響",
+    "def": ""
+   }
+  ]
+ },
+ "slot": {
+  "ph": "/slɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水溝, 細長孔, 硬幣投幣口, 縫, 狹槽, 狹通道, 位置, 一檔(廣播節目等)",
+    "def": "a position in a grammatical linguistic construction in which a variety of alternative units are interchangeable"
+   },
+   {
+    "pos": "vt.",
+    "zh": "開槽於, 把...納入機構",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 槽; 儲存槽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slots｜過去分詞 slotted｜過去式 slotted｜第三人稱單數 slots｜現在分詞 slotting"
+ },
+ "sloth": {
+  "ph": "/slәuθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "怠惰, 懶惰",
+    "def": "a disinclination to work or exert yourself"
+   }
+  ],
+  "forms": "複數 sloths"
+ },
+ "slothful": {
+  "ph": "/'slәuθful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "怠惰的, 懶惰的",
+    "def": ""
+   }
+  ]
+ },
+ "slouch": {
+  "ph": "/slautʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沒精打采的樣子, 耷拉, 笨人",
+    "def": "an incompetent person; usually used in negative constructions"
+   },
+   {
+    "pos": "vi.",
+    "zh": "沒精打采地走, 耷拉著",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使低垂",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slouched｜現在分詞 slouching｜過去分詞 slouched｜複數 slouches｜第三人稱單數 slouches"
+ },
+ "slouched": {
+  "ph": "/slaʊtʃt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "無精打采地立、坐或行走( slouch的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slouched"
+ },
+ "slouching": {
+  "ph": "/'slautʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒精打采的, 懶散的",
+    "def": ""
+   }
+  ]
+ },
+ "slouchy": {
+  "ph": "/'slautʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒精打采的, 不整齊的",
+    "def": ""
+   }
+  ]
+ },
+ "slough": {
+  "ph": "/slau/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泥沼, 沼澤, 蛻下的皮, 腐肉",
+    "def": "a hollow filled with mud"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使陷入泥沼, 使沉淪, 脫落, 拋棄",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "在泥漿中跋涉, 蛻皮, 脫落",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sloughed｜現在分詞 sloughing｜過去分詞 sloughed｜複數 sloughs｜第三人稱單數 sloughs"
+ },
+ "slovak": {
+  "ph": "/'slәuvæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯洛伐克語",
+    "def": "a native or inhabitant of Slovakia"
+   }
+  ],
+  "forms": "複數 slovaks"
+ },
+ "slovakia": {
+  "ph": "/slәu'vækiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯洛伐克",
+    "def": "a landlocked republic in central Europe; separated from the Czech Republic in 1993"
+   }
+  ]
+ },
+ "slovakian": {
+  "ph": "/slәu'vækiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯洛伐克人[語]",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "斯洛伐克人[語]的",
+    "def": "of or relating to or characteristic of Slovakia or its people or language"
+   }
+  ],
+  "forms": "複數 slovakians"
+ },
+ "sloven": {
+  "ph": "/'slʌvn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懶散的人, 散漫的人",
+    "def": ""
+   }
+  ]
+ },
+ "slovene": {
+  "ph": "/'slәuvi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯洛維尼亞人[語]",
+    "def": "a native of Slovenia"
+   },
+   {
+    "pos": "adj.",
+    "zh": "斯洛維尼亞人[語]的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slovenes"
+ },
+ "slovenia": {
+  "ph": "/slәu'vi:njә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯洛維尼亞",
+    "def": "a mountainous republic in central Europe; formerly part of the Habsburg monarchy and Yugoslavia; achieved independence in 1991"
+   }
+  ]
+ },
+ "slovenian": {
+  "ph": "/slәu'vi:njәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯洛維尼亞人[語]",
+    "def": "a native or inhabitant of Slovenia"
+   },
+   {
+    "pos": "adj.",
+    "zh": "斯洛維尼亞人[語]的",
+    "def": "of or relating to or characteristic of Slovenia or its people or language"
+   }
+  ],
+  "forms": "複數 slovenians"
+ },
+ "slovenliness": {
+  "ph": "/'slʌvnlinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邋遢；馬虎；懶散",
+    "def": "habitual uncleanliness"
+   }
+  ]
+ },
+ "slovenly": {
+  "ph": "/'slʌvәnli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "邋遢的, 不修邊幅的, 不整潔的, 懶散的, 潦草的, 馬虎的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "邋遢地, 不修邊幅地, 不整潔地, 懶散地, 潦草地, 馬虎地",
+    "def": ""
+   }
+  ]
+ },
+ "slow": {
+  "ph": "/slәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "慢的, 緩慢的, 遲緩的, 遲鈍的, 冷漠的, 落後的",
+    "def": "not moving quickly; taking a comparatively long time"
+   },
+   {
+    "pos": "adv.",
+    "zh": "慢地, 遲緩地",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)慢下來",
+    "def": "become slow or slower"
+   }
+  ],
+  "forms": "比較級 slower｜現在分詞 slowing｜過去式 slowed｜過去分詞 slowed｜第三人稱單數 slows｜最高級 slowest"
+ },
+ "slow motion": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "慢動作",
+    "def": ""
+   }
+  ]
+ },
+ "slowdown": {
+  "ph": "/'slәudaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "降低速度, 減速",
+    "def": "the act of slowing down or falling behind"
+   }
+  ],
+  "forms": "複數 slowdowns"
+ },
+ "slower": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 減慢",
+    "def": ""
+   }
+  ]
+ },
+ "slowing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放慢；減速；慢化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slowing｜複數 slowings"
+ },
+ "slowly": {
+  "ph": "/'slәuli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "慢慢地, 遲緩地",
+    "def": ""
+   }
+  ]
+ },
+ "slowness": {
+  "ph": "/'slәunis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緩慢, 遲鈍",
+    "def": "a rate demonstrating an absence of haste or hurry"
+   }
+  ]
+ },
+ "slowpoke": {
+  "ph": "/'slәupәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行動遲緩的人",
+    "def": ""
+   }
+  ]
+ },
+ "slr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 儲存界限暫存器",
+    "def": ""
+   }
+  ]
+ },
+ "slt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 固態邏輯技術",
+    "def": ""
+   }
+  ]
+ },
+ "sludge": {
+  "ph": "/slʌdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟泥, 泥濘",
+    "def": "the precipitate produced by sewage treatment"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 沉澱物; 泥狀沉澱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sludges｜第三人稱單數 sludges｜現在分詞 sludging｜過去式 sludged"
+ },
+ "sludgy": {
+  "ph": "/'slʌdʒi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "泥濘的, 淤泥多的",
+    "def": ""
+   }
+  ]
+ },
+ "slue": {
+  "ph": "/slu:/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)旋轉",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "旋轉",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sluing｜過去式 slued｜第三人稱單數 slues｜過去分詞 slued"
+ },
+ "slug": {
+  "ph": "/slʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼻涕蟲, 刺蛾, 懶漢, 彈丸, 金屬小塊, 重擊",
+    "def": "a unit of mass equal to the mass that accelerates at 1 foot/sec/sec when acted upon by a force of 1 pound; approximately 14.5939 kilograms"
+   },
+   {
+    "pos": "vi.",
+    "zh": "偷懶, 動作遲緩",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "重擊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slugs｜現在分詞 slugging｜過去式 slugged｜過去分詞 slugged｜第三人稱單數 slugs"
+ },
+ "slugfest": {
+  "ph": "/'slʌgfest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "激烈毆鬥",
+    "def": ""
+   }
+  ]
+ },
+ "sluggard": {
+  "ph": "/'slʌgәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偷懶者, 遊手好閒的人, 懶鬼",
+    "def": "an idle slothful person"
+   }
+  ],
+  "forms": "複數 sluggards"
+ },
+ "slugger": {
+  "ph": "/'slʌgә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打擊力強的選手, 重擊者",
+    "def": "a boxer noted for an ability to deliver hard punches"
+   }
+  ],
+  "forms": "複數 sluggers"
+ },
+ "slugging": {
+  "ph": "/'slʌ^iŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用拳的犯規動作, 用前臂的犯規動作",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 節湧; 騰湧",
+    "def": ""
+   }
+  ]
+ },
+ "sluggish": {
+  "ph": "/'slʌgiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偷懶的, 懶惰的, 遲鈍的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 蕭條的, 呆滯的",
+    "def": ""
+   }
+  ]
+ },
+ "sluggishly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "懶怠地；慢吞吞地",
+    "def": ""
+   }
+  ]
+ },
+ "sluggishness": {
+  "ph": "/'slʌɡɪʃnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "不振, 蕭條, 呆滯; 惰性; 滯性; 慣性",
+    "def": ""
+   }
+  ]
+ },
+ "sluice": {
+  "ph": "/slu:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水門, 水閘, 蓄水",
+    "def": "conduit that carries a rapid flow of water controlled by a sluicegate"
+   },
+   {
+    "pos": "vt.",
+    "zh": "洩洪, 沖洗",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "奔流",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sluices｜過去式 sluiced｜現在分詞 sluicing｜過去分詞 sluiced｜第三人稱單數 sluices"
+ },
+ "slum": {
+  "ph": "/slʌm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貧民窟",
+    "def": "a district of a city marked by poverty and inferior living conditions"
+   },
+   {
+    "pos": "vi.",
+    "zh": "訪問貧民區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slums｜現在分詞 slumming｜過去式 slummed｜第三人稱單數 slums｜過去分詞 slummed"
+ },
+ "slumber": {
+  "ph": "/'slʌmbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睡眠, 麻木狀態",
+    "def": "a dormant or quiescent state"
+   },
+   {
+    "pos": "vi.",
+    "zh": "微睡, 靜止, 麻木",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "睡著度過(時間)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 slumbers｜現在分詞 slumbering｜過去式 slumbered｜第三人稱單數 slumbers｜過去分詞 slumbered"
+ },
+ "slumbering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "微睡, 睡眠（slumber的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slumbering"
+ },
+ "slumlord": {
+  "ph": "/'slʌmlɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(平民區)惡劣房東",
+    "def": ""
+   }
+  ]
+ },
+ "slump": {
+  "ph": "/slʌmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴跌, 垂頭彎腰的姿態",
+    "def": "a noticeable deterioration in performance or quality"
+   },
+   {
+    "pos": "vi.",
+    "zh": "猛然掉落, 陷入, 衰落(經濟等)",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slumped｜過去分詞 slumped｜現在分詞 slumping｜複數 slumps｜第三人稱單數 slumps"
+ },
+ "slumping": {
+  "ph": "/s'lʌmpɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "大幅度下降, 暴跌( slump的現在分詞 ); 沉重或突然地落下[倒下]",
+    "def": ""
+   }
+  ]
+ },
+ "slunk": {
+  "ph": "/slʌŋk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "slink的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slunk｜過去分詞 slunk"
+ },
+ "slur": {
+  "ph": "/slә:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連音符, 誹謗, 玷汙, 印刷模糊",
+    "def": "(music) a curved line spanning notes that are to be played legato"
+   },
+   {
+    "pos": "vt.",
+    "zh": "草率地看過, 忽略, 含糊地念",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "模糊不清",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slurred｜複數 slurs｜現在分詞 slurring｜過去分詞 slurred｜第三人稱單數 slurs"
+ },
+ "slurp": {
+  "ph": "/slә:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吃的聲音",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "出聲地吃(或喝)",
+    "def": "eat noisily"
+   }
+  ],
+  "forms": "過去式 slurped｜現在分詞 slurping｜過去分詞 slurped｜複數 slurps｜第三人稱單數 slurps"
+ },
+ "slurpee": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "思樂冰飲料",
+    "def": ""
+   }
+  ]
+ },
+ "slurping": {
+  "ph": "/slə:pɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "啜食( slurp的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slurping｜複數 slurpings"
+ },
+ "slurred": {
+  "ph": "/slə:d/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "含糊地說出( slur的過去式和過去分詞 ); 含糊地發…的聲; 侮辱; 連唱",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 slurred｜過去分詞 slurred"
+ },
+ "slurring": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "型芯粘合法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 slurring"
+ },
+ "slurry": {
+  "ph": "/'slә:ri. 'slʌ-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泥漿；懸浮液",
+    "def": "a suspension of insoluble particles (as plaster of Paris or lime or clay etc.) usually in water"
+   }
+  ],
+  "forms": "複數 slurries｜過去分詞 slurried｜現在分詞 slurrying"
+ },
+ "slush": {
+  "ph": "/slʌʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爛泥, 雪水, 無聊的言情內容, 胡說八道",
+    "def": "partially melted snow"
+   },
+   {
+    "pos": "vt.",
+    "zh": "濺溼, 灌泥漿於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "在雪泥(或泥漿)中走",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 slushed｜現在分詞 slushing｜過去式 slushed｜第三人稱單數 slushes"
+ },
+ "slushy": {
+  "ph": "/'slʌʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "融雪的, 泥濘的, 胡說八道的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 slushier"
+ },
+ "slut": {
+  "ph": "/slʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懶婦, 蕩婦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sluts"
+ },
+ "slutty": {
+  "ph": "/slʌtɪ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淫蕩的",
+    "def": ""
+   }
+  ]
+ },
+ "sly": {
+  "ph": "/slai/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狡猾的, 詭密的, 俏皮的, 偷偷摸摸的",
+    "def": ""
+   }
+  ]
+ },
+ "slyly": {
+  "ph": "/'slaili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "狡猾地, 秘密地, 俏皮地, 偷偷地",
+    "def": ""
+   }
+  ]
+ },
+ "slyness": {
+  "ph": "/'slainis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狡猾；詭秘",
+    "def": ""
+   }
+  ]
+ }
+}

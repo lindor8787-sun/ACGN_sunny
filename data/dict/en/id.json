@@ -1,0 +1,973 @@
+{
+ "i'd": {
+  "ph": "/aɪ'd/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "我願意（等於I would）",
+    "def": ""
+   }
+  ]
+ },
+ "id": {
+  "ph": "/id/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遺傳素質, 本能衝動",
+    "def": "a card or badge used to identify the bearer"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 識別, 識別符號, 專案說明",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ids｜現在分詞 iding"
+ },
+ "ida": {
+  "ph": "/'aidә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 間接資料地址, 互動式資料分析, 智慧資料存取",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 同位素稀釋分析",
+    "def": ""
+   }
+  ]
+ },
+ "idaho": {
+  "ph": "/'aidәhәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛達荷州",
+    "def": "a state in the Rocky Mountains"
+   }
+  ]
+ },
+ "idb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "illicit diamond buying <南非>違法購買金剛石; intercept during burning 在燒期間擷取, 截斷燃燒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 idbs"
+ },
+ "idc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 低差別編碼",
+    "def": ""
+   }
+  ]
+ },
+ "ide": {
+  "ph": "/aid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "積體電路裝置",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 積體電路裝置, 整合式驅動器電子裝置介面",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ides｜第三人稱單數 ides"
+ },
+ "idea": {
+  "ph": "/ai'diә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主意, 辦法, 理想, 思想, 概念, 意見",
+    "def": "the content of cognition; the main thing you are thinking about"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 觀念, 思想",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ideas"
+ },
+ "ideal": {
+  "ph": "/ai'diәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "理想, 典範, 觀念, 思想, 最後目標",
+    "def": "the idea of something that is perfect; something that one hopes to attain"
+   },
+   {
+    "pos": "adj.",
+    "zh": "理想的, 完美的, 空想的, 觀念的, 唯心論的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ideals"
+ },
+ "idealisation": {
+  "ph": "/aɪdɪəlaɪ'zeɪʃən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "理想化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 idealisations"
+ },
+ "idealise": {
+  "ph": "/ai'diәlaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "vt. 使理想化, 使觀念化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 idealised｜現在分詞 idealising"
+ },
+ "idealised": {
+  "ph": "/ai'diəlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "（英）把…理想化（等於idealize）",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "形成理想；理想化地表現",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 idealised｜過去式 idealised"
+ },
+ "idealism": {
+  "ph": "/ai'diәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唯心主義, 觀念論, 唯心論, 理想主義",
+    "def": "(philosophy) the philosophical theory that ideas are the only reality"
+   }
+  ],
+  "forms": "複數 idealisms"
+ },
+ "idealist": {
+  "ph": "/ai'diәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "理想主義者, 唯心主義者",
+    "def": "someone guided more by ideals than by practical considerations"
+   },
+   {
+    "pos": "adj.",
+    "zh": "唯心論的, 理想主義的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 idealists"
+ },
+ "idealistic": {
+  "ph": "/ai'diәlistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "理想主義的, 唯心論的, 唯心主義的, 唯心主義者的",
+    "def": ""
+   }
+  ]
+ },
+ "idealistically": {
+  "ph": "/ˌaɪdɪə'lɪstɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "理想上地, 不切實際地",
+    "def": ""
+   }
+  ]
+ },
+ "idealization": {
+  "ph": "/ai.diәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "理想化, 理想化事物",
+    "def": "a portrayal of something as ideal"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 觀念化, 理想化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 idealizations"
+ },
+ "idealize": {
+  "ph": "/ai'diәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使理想化",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "理想化, 形成思想, 描述理想",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 idealized｜過去分詞 idealized｜第三人稱單數 idealizes｜現在分詞 idealizing"
+ },
+ "idealized": {
+  "ph": "/aɪ'diəl,aɪz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "理想化的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 idealized"
+ },
+ "ideally": {
+  "ph": "/ai'diәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "完美地, 理想地",
+    "def": ""
+   }
+  ]
+ },
+ "ideas": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "工業設計優秀獎",
+    "def": ""
+   }
+  ]
+ },
+ "ideation": {
+  "ph": "/,aidi'eiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 觀念作用, 思想作用",
+    "def": ""
+   }
+  ]
+ },
+ "ideational": {
+  "ph": "/,aidi'eiʃәnәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 觀念[作用]的, 思想[作用]的",
+    "def": ""
+   }
+  ]
+ },
+ "idem": {
+  "ph": "/'aidem/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同著者的, 同前的, 同上的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 同上, 同前",
+    "def": ""
+   }
+  ]
+ },
+ "identical": {
+  "ph": "/ai'dentikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同一的, 恆等的, 完全相同的",
+    "def": "(of twins) derived from a single egg or ovum"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 同一的, 同等的",
+    "def": ""
+   }
+  ]
+ },
+ "identically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "同一, 同樣",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 永恆地",
+    "def": ""
+   }
+  ]
+ },
+ "identifiable": {
+  "ph": "/ai'dentifaiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可辨認的",
+    "def": "capable of being identified"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可證明為同一的, 可以辦清的",
+    "def": ""
+   }
+  ]
+ },
+ "identifiably": {
+  "ph": "/aɪ'dentɪfaɪəblɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可辨認地",
+    "def": ""
+   }
+  ]
+ },
+ "identification": {
+  "ph": "/ai.dentifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "識別, 身份證明, 認同",
+    "def": "evidence of identity; something that identifies a person or thing"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鑑定; 鑑別; 鑑別法; 認證",
+    "def": ""
+   }
+  ],
+  "forms": "複數 identifications"
+ },
+ "identified": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被認同者；經鑑定的；被識別的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 identified｜過去式 identified"
+ },
+ "identifier": {
+  "ph": "/ai'dentifaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檢驗人, 識別符號",
+    "def": "a symbol that establishes the identity of the one bearing it"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 使用者識別符號, 使用者ID",
+    "def": ""
+   }
+  ],
+  "forms": "複數 identifiers"
+ },
+ "identifies": {
+  "ph": "/aiˈdentifaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "認出( identify的第三人稱單數 ); 支援; 確認; 辨認",
+    "def": ""
+   }
+  ]
+ },
+ "identify": {
+  "ph": "/ai'dentifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "識別, 認為...等同於, 確定, 使參與",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "一致, 認同",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 identified｜現在分詞 identifying｜第三人稱單數 identifies｜過去式 identified"
+ },
+ "identifying": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "識別, 標識；標識關係",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 identifying"
+ },
+ "identikit": {
+  "ph": "/ai'dentikit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 拼圖認人",
+    "def": ""
+   }
+  ]
+ },
+ "identities": {
+  "ph": "/aiˈdentitiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "身份( identity的名詞複數 ); 同一性; 個性; 同一人",
+    "def": ""
+   }
+  ]
+ },
+ "identity": {
+  "ph": "/ai'dentiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "身份, 相同, 一致, 特性, 恆等式",
+    "def": "the distinct personality of an individual regarded as a persisting entity"
+   },
+   {
+    "pos": "",
+    "zh": "[計] (打)標記, 標識",
+    "def": ""
+   }
+  ],
+  "forms": "複數 identities"
+ },
+ "identity card": {
+  "ph": "/aiˈdentiti kɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "身份證",
+    "def": ""
+   }
+  ]
+ },
+ "ideogram": {
+  "ph": "/'idiә^ræm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表意文字",
+    "def": "a graphic character that indicates the meaning of a thing without indicating the sounds used to say it"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 表意文字",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ideograms｜第三人稱單數 ideograms"
+ },
+ "ideograph": {
+  "ph": "/'idiә^rɑ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表意文字",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ideographs"
+ },
+ "ideographic": {
+  "ph": "/,idiәu'^ræfik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 表意的",
+    "def": ""
+   }
+  ]
+ },
+ "ideological": {
+  "ph": "/.aidiә'lɒdʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "意識形態的, 空想的",
+    "def": "of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 思想的, 思想上的, 意識形態的",
+    "def": ""
+   }
+  ]
+ },
+ "ideologically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "思想上, 思想體系, 意識形態, 觀念形態",
+    "def": ""
+   }
+  ]
+ },
+ "ideologist": {
+  "ph": "/.aidi'ɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "思想理論家",
+    "def": "an advocate of some ideology"
+   }
+  ],
+  "forms": "複數 ideologists"
+ },
+ "ideologue": {
+  "ph": "/'aidi:әulɔ^/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "理論家, 思想家,空想家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ideologues"
+ },
+ "ideology": {
+  "ph": "/.aidi'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "思想體系, 意識形態, 觀念學, 空論",
+    "def": "imaginary or visionary theorization"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 觀念學, 觀念形態",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ideologies"
+ },
+ "idi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "以色列鑽石協會（Israeli Diamond Industry）；綜合控制直接點火（Integrated Direct Ignition）；初始域識別符號（Initial Domain Identifier）；美國國際器件公司",
+    "def": ""
+   }
+  ]
+ },
+ "idiocy": {
+  "ph": "/'idiәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白痴, 極端愚蠢",
+    "def": "extreme mental retardation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 白痴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 idiocies"
+ },
+ "idiographic": {
+  "ph": "/,idiә'^ræfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "個人簽名的, 商標的, 獨特的, 帶有獨一無二的特點的",
+    "def": "relating to or involving the study of individuals"
+   }
+  ]
+ },
+ "idiolect": {
+  "ph": "/'idiәulekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "個人言語方式",
+    "def": "the language or speech of one individual at a particular period in life"
+   }
+  ],
+  "forms": "複數 idiolects"
+ },
+ "idiom": {
+  "ph": "/'idiәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "習語, 成語, 慣用語法, 方言",
+    "def": "an expression whose meanings cannot be inferred from the meanings of the words that make it up"
+   }
+  ],
+  "forms": "複數 idioms"
+ },
+ "idiomatic": {
+  "ph": "/.idiә'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "符合語言習慣的, 慣用的, 有許多習語的",
+    "def": "of or relating to or conforming to idiom"
+   }
+  ]
+ },
+ "idiopathic": {
+  "ph": "/,idiә'pæθik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自發的, 原發的, 特發的",
+    "def": "(of diseases) arising from an unknown cause"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 自發的, 特發的",
+    "def": ""
+   }
+  ]
+ },
+ "idiosyncrasy": {
+  "ph": "/.idiә'siŋkrәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣質, 特性, 風格",
+    "def": "a behavioral attribute that is distinctive and peculiar to an individual"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 特異反應; 特異性體質",
+    "def": ""
+   }
+  ],
+  "forms": "複數 idiosyncrasies"
+ },
+ "idiosyncratic": {
+  "ph": "/.idiәsiŋ'krætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "特質的, 異質的, 特殊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 特[異反]應性的, 特異體質的",
+    "def": ""
+   }
+  ]
+ },
+ "idiosyncratically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "獨特地",
+    "def": ""
+   }
+  ]
+ },
+ "idiot": {
+  "ph": "/'idiәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白痴, 極蠢之人",
+    "def": "a person of subnormal intelligence"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 白痴者, 痴子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 idiots"
+ },
+ "idiotic": {
+  "ph": "/.idi'ɒtik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "白痴的, 愚蠢的, 呆頭呆腦的",
+    "def": ""
+   }
+  ]
+ },
+ "idiotically": {
+  "ph": "/idi'ɔtikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "白痴地",
+    "def": ""
+   }
+  ]
+ },
+ "idle": {
+  "ph": "/'aidl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懶惰的, 閒散的, 停頓的, 空閒的, 無用的",
+    "def": "not in action or at work"
+   },
+   {
+    "pos": "vi.",
+    "zh": "無所事事, 閒散, 浪費, 空轉",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "虛度, 使閒散, 使空轉",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "空轉, 空閒時間",
+    "def": "the state of an engine or other mechanism that is idling"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 空閒時間",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 idling｜過去式 idled｜過去分詞 idled｜第三人稱單數 idles"
+ },
+ "idled": {
+  "ph": "/ˈaidld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "虛度( idle的過去式和過去分詞 ); 空轉; 掛空擋; 未熄火",
+    "def": ""
+   }
+  ]
+ },
+ "idleness": {
+  "ph": "/'aidlnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懶惰, 閒散, 失業",
+    "def": "having no employment"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 空載",
+    "def": ""
+   }
+  ]
+ },
+ "idler": {
+  "ph": "/'aidlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懶惰者, 遊手好閒的人, 惰輪",
+    "def": "person who does no work"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 惰輪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 idlers"
+ },
+ "idling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 空載, 無載",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 空運轉",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 idling"
+ },
+ "idly": {
+  "ph": "/'aidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "懶惰地, 空閒地",
+    "def": ""
+   }
+  ]
+ },
+ "idol": {
+  "ph": "/'aidәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偶像, 崇拜物, 寵兒, 幻象, 謬論",
+    "def": "a material effigy that is worshipped"
+   }
+  ],
+  "forms": "複數 idols"
+ },
+ "idolater": {
+  "ph": "/ai'dɒlәtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偶像崇拜者, 崇拜者, 皈依者",
+    "def": "a person who worships idols"
+   }
+  ]
+ },
+ "idolatrize": {
+  "ph": "/ai'dɔlәtraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把…奉為偶像；盲目崇拜",
+    "def": ""
+   }
+  ]
+ },
+ "idolatrous": {
+  "ph": "/ai'dɒlәtrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "崇拜偶像的, 盲目崇拜的",
+    "def": "relating to or practicing idolatry"
+   }
+  ]
+ },
+ "idolatry": {
+  "ph": "/ai'dɒlәtri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偶像崇拜, 邪神崇拜, 盲目崇拜",
+    "def": "religious zeal; the willingness to serve God"
+   }
+  ]
+ },
+ "idolise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "vi. 把...當偶像崇拜, 崇拜偶像, 過度崇拜, 偶像化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 idolised｜過去分詞 idolised｜現在分詞 idolising｜第三人稱單數 idolises｜複數 idolises"
+ },
+ "idolization": {
+  "ph": "/.aidәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偶像化, 盲目崇拜",
+    "def": "the act of worshiping blindly and to excess"
+   }
+  ]
+ },
+ "idolize": {
+  "ph": "/'aidәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把...當偶像崇拜, 極端崇拜, 醉心於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "崇拜偶像",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 idolized｜過去分詞 idolized｜現在分詞 idolizing｜第三人稱單數 idolizes"
+ },
+ "idris": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Idris)人名；(英、西、哈薩、烏茲、吉爾、塔吉、阿拉伯、烏幹)伊德里斯",
+    "def": ""
+   }
+  ]
+ },
+ "idyll": {
+  "ph": "/'idil, 'aidil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敘事詩, 田園景色, 田園詩, 田園樂曲, 牧歌",
+    "def": "an episode of such pastoral or romantic charm as to qualify as the subject of a poetic idyll"
+   }
+  ],
+  "forms": "複數 idylls"
+ },
+ "idyllic": {
+  "ph": "/ai'dilik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "田園詩的, 牧歌的, 悠閒的",
+    "def": ""
+   }
+  ]
+ },
+ "idyllically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "idyllic的變形",
+    "def": ""
+   }
+  ]
+ }
+}

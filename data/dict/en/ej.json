@@ -1,0 +1,148 @@
+{
+ "ej": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電噴射穿孔",
+    "def": ""
+   }
+  ]
+ },
+ "ejaculate": {
+  "ph": "/i'dʒækjuleit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "突然說出, 射出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "射出, 射精",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "精液",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ejaculated｜過去分詞 ejaculated｜現在分詞 ejaculating｜複數 ejaculates｜第三人稱單數 ejaculates"
+ },
+ "ejaculation": {
+  "ph": "/i.dʒækju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突然說出, 射出, 射精",
+    "def": "an abrupt emphatic exclamation expressing emotion"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 射精",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ejaculations"
+ },
+ "ejaculatory": {
+  "ph": "/i'dʒækjulәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "突然喊叫的, 感嘆的, 射出用的",
+    "def": "Casting or throwing out; fitted to eject; as,"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 射精的",
+    "def": ""
+   }
+  ]
+ },
+ "eject": {
+  "ph": "/i'dʒekt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "逐放, 放逐, 噴射",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 排出",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ejected｜過去式 ejected｜現在分詞 ejecting｜第三人稱單數 ejects"
+ },
+ "ejecta": {
+  "ph": "/i'dʒektә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噴出物, 渣, 廢物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排出物",
+    "def": ""
+   }
+  ]
+ },
+ "ejected": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "射出的；被放出的；被驅逐的",
+    "def": ""
+   }
+  ]
+ },
+ "ejection": {
+  "ph": "/i'dʒekʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驅逐, 噴出, 排出物",
+    "def": "the act of forcing out someone or something"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 排出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ejections"
+ },
+ "ejector": {
+  "ph": "/i'dʒektә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驅逐者, 排出器, 放出器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 噴射泵; 噴射器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ejectors"
+ },
+ "ejido": {
+  "ph": "/e'hi:ðәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(墨西哥的)合作農場",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ejidos"
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "oi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "操作說明",
+    "def": ""
+   }
+  ]
+ },
+ "oik": {
+  "ph": "/ɔɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[英][口]鄉巴佬, 蠢貨, 粗人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oiks"
+ },
+ "oil": {
+  "ph": "/ɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油, 石油, 油畫顏料",
+    "def": "a slippery or viscous liquid or liquefiable substance not miscible with water"
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗油於, 使融化成油狀, 加油於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "加燃油, 融化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oils｜過去式 oiled｜現在分詞 oiling｜過去分詞 oiled｜第三人稱單數 oils"
+ },
+ "oil slick": {
+  "ph": "/ɔil slik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "浮油; 漂浮在水面上的油膜",
+    "def": ""
+   }
+  ]
+ },
+ "oil tanker": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "油輪",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 油輪, 油罐車, 加油非機",
+    "def": ""
+   }
+  ]
+ },
+ "oil well": {
+  "ph": "/ɔil wel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油井",
+    "def": ""
+   }
+  ]
+ },
+ "oilcloth": {
+  "ph": "/'ɒilklɒθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油布, 油地氈",
+    "def": "cloth treated on one side with a drying oil or synthetic resin"
+   }
+  ]
+ },
+ "oiled": {
+  "ph": "/ɒild/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "塗油的, 用油防水的, 浸油的",
+    "def": "treated with oil"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 塗油的, 擦油",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 oiled｜過去分詞 oiled"
+ },
+ "oiler": {
+  "ph": "/'ɒilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油商, 加油工, 塗油者, 注油壺",
+    "def": "a worker who oils engines or machinery"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 加油器; 加油者",
+    "def": ""
+   }
+  ]
+ },
+ "oilfield": {
+  "ph": "/ˈɔɪlfi:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油田",
+    "def": "a region rich in petroleum deposits (especially one with producing oil wells)"
+   }
+  ],
+  "forms": "複數 oilfields"
+ },
+ "oiliness": {
+  "ph": "/'ɒilinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油質, 滑溜, 圓滑, 浸油",
+    "def": ""
+   }
+  ]
+ },
+ "oilman": {
+  "ph": "/'ɒilmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石油工人, 石油商",
+    "def": "a person who owns or operates oil wells"
+   }
+  ],
+  "forms": "複數 oilmen"
+ },
+ "oilseed": {
+  "ph": "/'ɔilsi:d/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 油籽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oilseeds｜第三人稱單數 oilseeds"
+ },
+ "oilskin": {
+  "ph": "/'ɔilskin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油布, 油布雨衣",
+    "def": "a macintosh made from cotton fabric treated with oil and pigment to make it waterproof"
+   }
+  ],
+  "forms": "複數 oilskins｜第三人稱單數 oilskins"
+ },
+ "oily": {
+  "ph": "/'ɒili/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "油的, 油滑的, 油嘴的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 油的; 含油的; 油性的; 油質的; 多油的; 油膩的; 油滑的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oilies｜比較級 oilier｜最高級 oiliest"
+ },
+ "oink": {
+  "ph": "/ɒiŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豬叫聲, 呼嚕聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 oinking｜過去式 oinked｜第三人稱單數 oinks｜過去分詞 oinked｜複數 oinks"
+ },
+ "ointment": {
+  "ph": "/'ɒintmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟膏, 油膏",
+    "def": "semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 軟膏; 藥膏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ointments"
+ }
+}

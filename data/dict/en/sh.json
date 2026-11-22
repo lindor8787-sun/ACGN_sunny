@@ -1,0 +1,6865 @@
+{
+ "sh": {
+  "ph": "/ʃ/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "噓",
+    "def": ""
+   }
+  ]
+ },
+ "shabbily": {
+  "ph": "/'ʃæbili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "衣衫襤褸地, 不體面地, 卑鄙地",
+    "def": ""
+   }
+  ]
+ },
+ "shabbiness": {
+  "ph": "/'ʃæbinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣衫襤褸, 吝嗇, 卑鄙",
+    "def": "a lack of elegance as a consequence of wearing threadbare or dirty clothing"
+   }
+  ]
+ },
+ "shabby": {
+  "ph": "/'ʃæbi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "衣衫襤褸的, 低劣的, 破舊的, 吝嗇的, 卑鄙的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 shabbier｜最高級 shabbiest"
+ },
+ "shack": {
+  "ph": "/ʃæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陋屋, 棚屋",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "居住, 暫住",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shacks｜過去分詞 shacked｜過去式 shacked｜現在分詞 shacking｜第三人稱單數 shacks"
+ },
+ "shackle": {
+  "ph": "/'ʃækl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桎梏, 束縛物",
+    "def": "a restraint that confines or restricts freedom (especially something used to tie down or restrain a prisoner)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加枷鎖, 束縛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shackles｜過去分詞 shackled｜第三人稱單數 shackles｜現在分詞 shackling｜過去式 shackled"
+ },
+ "shackled": {
+  "ph": "/ˈʃækəld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給（某人）帶上手銬或腳鐐( shackle的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "shackleton": {
+  "ph": "/'ʃækltәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "沙克爾頓(①姓氏 ②Sir Ernest Henry, 1874-1922, 英國南極探險家)",
+    "def": ""
+   }
+  ]
+ },
+ "shad": {
+  "ph": "/ʃæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西鯡",
+    "def": "bony flesh of herring-like fish usually caught during their migration to fresh water for spawning; especially of Atlantic coast"
+   }
+  ],
+  "forms": "複數 shads"
+ },
+ "shade": {
+  "ph": "/ʃeid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蔭, 陰暗, 遮光物, 燈罩, 簾, 濃淡, 微量, 底紋",
+    "def": "relative darkness caused by light rays being intercepted by an opaque body"
+   },
+   {
+    "pos": "vi.",
+    "zh": "漸變",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使陰暗, 使漸變, 遮蔽, 微減",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 底紋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shades｜現在分詞 shading｜過去分詞 shaded｜過去式 shaded｜第三人稱單數 shades"
+ },
+ "shaded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "廕庇的；色彩較暗的",
+    "def": "protected from heat and light with shade or shadow"
+   }
+  ],
+  "forms": "過去分詞 shaded｜過去式 shaded"
+ },
+ "shadeless": {
+  "ph": "/'ʃeidlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有陰影的",
+    "def": "Being without shade; not shaded."
+   }
+  ]
+ },
+ "shading": {
+  "ph": "/'ʃeidiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "留下陰影, 描影法, 明暗法, 細微變化",
+    "def": "graded markings that indicate light or shaded areas in a drawing or painting"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 底紋",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shading｜複數 shadings"
+ },
+ "shadow": {
+  "ph": "/'ʃædәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陰影, 蔭, 影子, 影像, 陰暗, 幽靈, 少許, 隱蔽處, 庇護",
+    "def": "shade within clear boundaries"
+   },
+   {
+    "pos": "vt.",
+    "zh": "遮蔽, 使朦朧, 預示, 尾隨",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "漸變, 變陰暗",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 陰影",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shadowed｜現在分詞 shadowing｜過去式 shadowed｜複數 shadows｜第三人稱單數 shadows"
+ },
+ "shadowed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "附有陰影",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shadowed｜過去式 shadowed"
+ },
+ "shadowless": {
+  "ph": "/'ʃædәulis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有影子的",
+    "def": "Having no shadow."
+   }
+  ]
+ },
+ "shadowy": {
+  "ph": "/'ʃædәui/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有影的, 暗黑的, 朦朧的, 虛幻的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 shadowier"
+ },
+ "shady": {
+  "ph": "/'ʃeidi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蔭涼的, 成蔭的, 陰暗的, 隱蔽的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 成問題的, 令人懷疑的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 shadier｜最高級 shadiest"
+ },
+ "shaffer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "謝弗（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "shaft": {
+  "ph": "/ʃæft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軸, 箭桿, 矛, 礦井",
+    "def": "a line that forms the length of an arrow pointer"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝杆於, 利用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shafts｜現在分詞 shafting｜過去式 shafted｜過去分詞 shafted｜第三人稱單數 shafts"
+ },
+ "shafted": {
+  "ph": "/'ʃɑ:ftɪd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "有箭桿的, 有柄的, 有羽軸的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shafted"
+ },
+ "shaftesbury": {
+  "ph": "/'ʃɑ:ftsbәri/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "沙夫茨伯裡(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "shag": {
+  "ph": "/ʃæg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粗毛, 蓬亂一團",
+    "def": "a strong coarse tobacco that has been shredded"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使蓬鬆, 使雜亂",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "蓬鬆",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shagging｜複數 shags｜過去式 shagged｜過去分詞 shagged｜第三人稱單數 shags"
+ },
+ "shaggy": {
+  "ph": "/'ʃægi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "毛髮蓬亂的, 粗濃的, 草木叢生的",
+    "def": ""
+   }
+  ]
+ },
+ "shah": {
+  "ph": "/ʃɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙(伊朗國王的稱號)",
+    "def": "title for the former hereditary monarch of Iran"
+   }
+  ],
+  "forms": "複數 shahs"
+ },
+ "shahid": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舍希德（阿拉伯語音譯, 意為“殉教者”）",
+    "def": ""
+   }
+  ]
+ },
+ "shai": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shai)人名；(日)舍夷(姓)；(中)勢(廣東話·威妥瑪)；(以)沙伊",
+    "def": ""
+   }
+  ]
+ },
+ "shaikh": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酋長；族長",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shaikhs"
+ },
+ "shake": {
+  "ph": "/ʃeik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "搖動, 震動",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "搖動, 動搖, 使震動, 揮舞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "震動, 發抖, 動搖",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shook｜現在分詞 shaking｜過去分詞 shaken｜第三人稱單數 shakes｜複數 shakes"
+ },
+ "shake-up": {
+  "ph": "/'ʃeik'ʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動搖, 騷動, 革新, 振作, 劇變, 權宜之計",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shake-ups"
+ },
+ "shakedown": {
+  "ph": "/'ʃeikdaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "便床, 整頓, 調整",
+    "def": "initial adjustments to improve the functioning or the efficiency and to bring to a more satisfactory state"
+   },
+   {
+    "pos": "adj.",
+    "zh": "試航的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shakedowns"
+ },
+ "shaken": {
+  "ph": "/'ʃeikәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "shake的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shaken"
+ },
+ "shakeout": {
+  "ph": "/'ʃeik,aut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕度經濟衰退,股票市場震動",
+    "def": "an economic condition that results in the elimination of marginally financed participants in an industry"
+   }
+  ]
+ },
+ "shaker": {
+  "ph": "/'ʃeikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "搖動者, 搖動器, 混和器",
+    "def": "a person who wields power and influence"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 篩選",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shakers"
+ },
+ "shakespeare": {
+  "ph": "/'ʃeik.spiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莎士比亞",
+    "def": "English poet and dramatist considered one of the greatest English writers (1564-1616)"
+   }
+  ]
+ },
+ "shakespearean": {
+  "ph": "/ʃeik'spiәriәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "莎士比亞(Shakespeare)的",
+    "def": ""
+   }
+  ]
+ },
+ "shakespearian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "莎士比亞(Shakespeare)的",
+    "def": ""
+   }
+  ]
+ },
+ "shakily": {
+  "ph": "/'ʃeikili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "顫抖著, 搖動著, 不可靠地",
+    "def": ""
+   }
+  ]
+ },
+ "shakiness": {
+  "ph": "/'ʃeikinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "震動, 顫抖, 動搖",
+    "def": "the quality of being unstable and insecure"
+   }
+  ]
+ },
+ "shaking": {
+  "ph": "/'ʃeikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "搖動, 揮動",
+    "def": "the act of causing something to move up and down (or back and forth) with quick movements"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 震動法(一種按摩法); 搖動, 振盪",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shaking｜複數 shakings"
+ },
+ "shaky": {
+  "ph": "/'ʃeiki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "震動的, 搖晃的, 動搖的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 shakier｜最高級 shakiest"
+ },
+ "shale": {
+  "ph": "/ʃeil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頁岩",
+    "def": "a sedimentary rock formed by the deposition of successive layers of clay"
+   }
+  ],
+  "forms": "複數 shales"
+ },
+ "shall": {
+  "ph": "/ʃæl/",
+  "senses": [
+   {
+    "pos": "aux.",
+    "zh": "將",
+    "def": ""
+   }
+  ]
+ },
+ "shallop": {
+  "ph": "/'ʃælәp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小舟, 輕舟",
+    "def": "A boat."
+   }
+  ]
+ },
+ "shallot": {
+  "ph": "/ʃә'lɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蔥",
+    "def": "aggregate bulb of the multiplier onion"
+   }
+  ],
+  "forms": "複數 shallots"
+ },
+ "shallow": {
+  "ph": "/'ʃælәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水淺的地方, 淺灘",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "淺的, 膚淺的",
+    "def": "lacking physical depth; having little spatial extension downward or inward from an outer surface or backward or outward from a center"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)變淺",
+    "def": "make shallow"
+   }
+  ],
+  "forms": "複數 shallows｜比較級 shallower｜最高級 shallowest｜過去式 shallowed｜現在分詞 shallowing｜第三人稱單數 shallows｜過去分詞 shallowed"
+ },
+ "shallowly": {
+  "ph": "/ˈʃæləʊlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "淺淺地; 不深地; 膚淺地; 淺薄地",
+    "def": ""
+   }
+  ]
+ },
+ "shallowness": {
+  "ph": "/'ʃæləunis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淺；膚淺",
+    "def": "the quality of lacking physical depth"
+   }
+  ]
+ },
+ "shallows": {
+  "ph": "/ˈʃæləʊz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（河、湖、海的）淺灘; 海塗; 灘塗",
+    "def": ""
+   }
+  ]
+ },
+ "shalt": {
+  "ph": "/ʃælt;ʃәlt;ʃilt/",
+  "senses": [
+   {
+    "pos": "vbl.",
+    "zh": "shall的第二人稱單數現在式",
+    "def": ""
+   }
+  ]
+ },
+ "sham": {
+  "ph": "/ʃæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "假, 贗品, 騙子, 哄騙",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "假的, 偽造的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "假裝, 冒充",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "裝假",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shams｜現在分詞 shamming｜過去式 shammed｜第三人稱單數 shams｜過去分詞 shammed"
+ },
+ "shaman": {
+  "ph": "/'ʃæmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薩滿教巫醫",
+    "def": "in societies practicing shamanism: one acting as a medium between the visible and spirit worlds; practices sorcery for healing or divination"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 巫師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shamen"
+ },
+ "shamanic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "薩滿教僧的",
+    "def": "Of or pertaining to Shamanism."
+   }
+  ]
+ },
+ "shamanism": {
+  "ph": "/'ʃæmәnizәm,'ʃɑ:-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 宗教性激動",
+    "def": ""
+   }
+  ]
+ },
+ "shamanistic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "shamanism的變形",
+    "def": ""
+   }
+  ]
+ },
+ "shamble": {
+  "ph": "/'ʃæmbl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "蹣跚地走, 搖搖晃晃地走, 搖晃不穩",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "蹣跚",
+    "def": "walking with a slow dragging motion without lifting your feet"
+   }
+  ],
+  "forms": "過去式 shambled｜現在分詞 shambling｜第三人稱單數 shambles｜過去分詞 shambled"
+ },
+ "shambles": {
+  "ph": "/'ʃæmblz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肉店, 屠宰場, 混亂, 廢墟",
+    "def": "a condition of great disorder"
+   }
+  ]
+ },
+ "shambling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蹣跚的, 拖沓的, 呆滯的, 死氣沉沉的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shambling"
+ },
+ "shambolic": {
+  "ph": "/ʃæm'bɒlik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大混亂的",
+    "def": "(British slang) disorderly or chaotic"
+   }
+  ]
+ },
+ "shame": {
+  "ph": "/ʃeim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羞恥, 羞愧, 恥辱",
+    "def": "a painful emotion resulting from an awareness of inadequacy or guilt"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使羞愧, 侮辱",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shamed｜第三人稱單數 shames｜過去式 shamed｜現在分詞 shaming｜複數 shames"
+ },
+ "shamed": {
+  "ph": "/ʃeimd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使蒙羞( shame的過去式和過去分詞 ); 玷辱; 使感到羞愧; 使相形見絀",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shamed"
+ },
+ "shamefaced": {
+  "ph": "/'ʃeimfeist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "害羞的, 謙遜的, 不惹眼的, 羞恥的",
+    "def": ""
+   }
+  ]
+ },
+ "shamefacedly": {
+  "ph": "/ˌʃeɪm'feɪsɪdlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "羞愧地, 羞怯地",
+    "def": ""
+   }
+  ]
+ },
+ "shameful": {
+  "ph": "/'ʃeimful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可恥的, 丟臉的, 不道德的, 淫猥的, 猥褻的, 不體面的",
+    "def": ""
+   }
+  ]
+ },
+ "shamefully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不體面地；可恥地",
+    "def": ""
+   }
+  ]
+ },
+ "shameless": {
+  "ph": "/'ʃeimlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不知羞恥的",
+    "def": ""
+   }
+  ]
+ },
+ "shamelessly": {
+  "ph": "/'ʃeimlisli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不知羞恥地",
+    "def": ""
+   }
+  ]
+ },
+ "shamelessness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "無恥",
+    "def": ""
+   }
+  ]
+ },
+ "shaming": {
+  "ph": "/ˈʃeɪmɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使蒙羞( shame的現在分詞 ); 玷辱; 使感到羞愧; 使相形見絀",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shaming"
+ },
+ "shamir": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "沙米爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "shampoo": {
+  "ph": "/ʃæm'pu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗頭, 洗髮劑",
+    "def": "cleansing agent consisting of soaps or detergents used for washing the hair"
+   },
+   {
+    "pos": "vt.",
+    "zh": "洗頭, 洗髮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shampoos｜現在分詞 shampooing｜過去式 shampooed｜第三人稱單數 shampoos｜過去分詞 shampooed"
+ },
+ "shamrock": {
+  "ph": "/'ʃæmrɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天藍, 三葉草",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shamrocks"
+ },
+ "shan": {
+  "ph": "/ʃɑ:n, ʃæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撣人, 撣族（居住在東南亞一帶）；撣邦（前緬甸聯邦的成員國之一）",
+    "def": ""
+   }
+  ]
+ },
+ "shanahan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shanahan)人名；(英)沙納漢",
+    "def": ""
+   }
+  ]
+ },
+ "shand": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shand)人名；(英)尚德",
+    "def": ""
+   }
+  ]
+ },
+ "shandy": {
+  "ph": "/'ʃændi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攙薑汁的啤酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shandies"
+ },
+ "shane": {
+  "ph": "/ʃein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謝恩（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "shanghai": {
+  "ph": "/'ʃæŋhai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上海, 浦東雞",
+    "def": "the largest city of China; located in the east on the Pacific; one of the largest ports in the world"
+   },
+   {
+    "pos": "adj.",
+    "zh": "上海的, 上海時行的, 上海風格的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "拐騙, 脅迫",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shanghaiing｜過去式 shanghaied｜第三人稱單數 shanghais｜過去分詞 shanghaied"
+ },
+ "shank": {
+  "ph": "/ʃæŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脛, 腿骨, 杆, 柄",
+    "def": "a cut of meat (beef or veal or mutton or lamb) from the upper part of the leg"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用鐵球棒末端擊球",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "花從病梗上枯萎脫落",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shanks｜過去分詞 shanked｜過去式 shanked｜現在分詞 shanking｜第三人稱單數 shanks"
+ },
+ "shankar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shankar)人名；(印、尼、蘇里)尚卡爾",
+    "def": "Indian sitar player who popularized classical Indian music in the West (born in 1920)"
+   },
+   {
+    "pos": "",
+    "zh": "尚卡",
+    "def": ""
+   }
+  ]
+ },
+ "shannon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 夏農",
+    "def": ""
+   }
+  ]
+ },
+ "shanti": {
+  "ph": "/'ʃɑ:nti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亮麗人生（專輯名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shanti"
+ },
+ "shanty": {
+  "ph": "/'ʃænti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "棚屋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shanties"
+ },
+ "shantytown": {
+  "ph": "/'ʃæntitaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "棚戶區",
+    "def": "a city district inhabited by people living in huts and shanties"
+   }
+  ],
+  "forms": "複數 shantytowns"
+ },
+ "shap": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "世鵬科技電子",
+    "def": ""
+   }
+  ]
+ },
+ "shape": {
+  "ph": "/ʃeip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "形狀, 形態, 外形, 形式, 身材",
+    "def": "any spatial attributes (especially as defined by outline)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "定形, 使成形, 塑造, 計劃, 使符合",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成形, 形成, 成長",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 形狀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shapes｜過去分詞 shaped｜現在分詞 shaping｜過去式 shaped｜第三人稱單數 shapes"
+ },
+ "shaped": {
+  "ph": "/ʃeipt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成某種形狀的, 製成一定形狀的, 有某種形狀的, 合適的, 計劃好的, 有目標的",
+    "def": "having the shape of"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 具形的, 形似的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shaped｜過去式 shaped"
+ },
+ "shapeless": {
+  "ph": "/'ʃeiplis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無形狀的, 不定形的, 破相的, 不象樣的, 不勻稱的",
+    "def": ""
+   }
+  ]
+ },
+ "shapely": {
+  "ph": "/'ʃeipli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "樣子好的, 定形的, 形狀美好的",
+    "def": "having a well-proportioned and pleasing shape"
+   }
+  ],
+  "forms": "最高級 shapeliest"
+ },
+ "shaper": {
+  "ph": "/'ʃeipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成形機, 牛頭刨床, 造型者, 塑造者",
+    "def": "a machine tool for shaping metal or wood"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 脈衝整形器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shapers"
+ },
+ "shaping": {
+  "ph": "/'ʃeipiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成形, 塑造",
+    "def": "any process serving to define the shape of something"
+   },
+   {
+    "pos": "adj.",
+    "zh": "成形的, 塑造的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 整形",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shaping｜複數 shapings"
+ },
+ "shapiro": {
+  "ph": "/ʃә'pirәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夏皮羅（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "shard": {
+  "ph": "/ʃɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陶瓷碎片, 鞘翅, 薄硬殼",
+    "def": "a broken piece of a brittle artifact"
+   }
+  ],
+  "forms": "複數 shards"
+ },
+ "share": {
+  "ph": "/ʃєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "部分, 參與, 一份, 參股, 份額",
+    "def": "assets belonging to or due to or contributed by an individual person or group"
+   },
+   {
+    "pos": "vt.",
+    "zh": "均分, 分擔, 分享, 分配, 共有",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "分享",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 共享; DOS外部命令:在網路或多工系統中提供檔案共享",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "檔案鎖定及檢測磁碟更動和對超過32MB硬碟分割槽的支援",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shares｜過去分詞 shared｜現在分詞 sharing｜過去式 shared｜第三人稱單數 shares"
+ },
+ "share index": {
+  "ph": "/ʃɛə ˈindeks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "股票指數",
+    "def": ""
+   }
+  ]
+ },
+ "sharecropper": {
+  "ph": "/'ʃєә.krɒpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小佃農",
+    "def": "small farmers and tenants"
+   }
+  ],
+  "forms": "複數 sharecroppers"
+ },
+ "sharecropping": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(sharecrop 的現在分詞) vt. 收益分成耕種",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "收益分成耕種",
+    "def": ""
+   }
+  ]
+ },
+ "shared": {
+  "ph": "/ʃεәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "共享的",
+    "def": "have in common; held or experienced in common"
+   }
+  ],
+  "forms": "過去分詞 shared｜過去式 shared"
+ },
+ "shareholder": {
+  "ph": "/'ʃєә.hәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "股東",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 股東, 股票持有人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shareholders"
+ },
+ "shareholding": {
+  "ph": "/'ʃεә.hәuldiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "股權",
+    "def": "a holding in the form of shares of corporations"
+   }
+  ],
+  "forms": "複數 shareholdings"
+ },
+ "shareowner": {
+  "ph": "/'ʃeəəʊnər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "股東, 股票持有人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shareowners"
+ },
+ "sharer": {
+  "ph": "/'ʃєәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分配者, 共同收受者, 參與者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 共享者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sharers"
+ },
+ "shareware": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 試用軟體",
+    "def": ""
+   }
+  ]
+ },
+ "sharia": {
+  "ph": "/ʃә'ri:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊斯蘭教教法",
+    "def": ""
+   }
+  ]
+ },
+ "sharif": {
+  "ph": "/ʃɑ:'ri:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙里夫(m.)",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "=sherif",
+    "def": ""
+   }
+  ]
+ },
+ "sharing": {
+  "ph": "/'ʃeәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 共享, 公用",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sharing｜複數 sharings"
+ },
+ "sharjah": {
+  "ph": "/'ʃɑ:dʒə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙迦",
+    "def": ""
+   }
+  ]
+ },
+ "shark": {
+  "ph": "/ʃɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鯊魚, 騙子",
+    "def": "any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales"
+   },
+   {
+    "pos": "v.",
+    "zh": "詐騙",
+    "def": "play the shark; act with trickery"
+   }
+  ],
+  "forms": "複數 sharks｜現在分詞 sharking｜過去式 sharked｜第三人稱單數 sharks｜過去分詞 sharked"
+ },
+ "sharkey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sharkey)人名；(英)夏基",
+    "def": ""
+   }
+  ]
+ },
+ "sharkskin": {
+  "ph": "/'ʃɑ:kskin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鯊魚皮, 鯊皮革",
+    "def": "a smooth crisp fabric"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鯊皮樣皮膚",
+    "def": ""
+   }
+  ]
+ },
+ "sharma": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙瑪（印度和巴基斯坦地區的姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "sharman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sharman)人名；(英)沙曼",
+    "def": ""
+   }
+  ]
+ },
+ "sharon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莎倫（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "sharp": {
+  "ph": "/ʃɑ:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "半升音調, 利刃, 騙子",
+    "def": "a musical notation indicating one half step higher than the note named"
+   },
+   {
+    "pos": "adj.",
+    "zh": "鋒利的, 明顯的, 敏銳的, 急劇的, 尖刻的, 嚴厲的, 刺耳的, 精明的",
+    "def": "keenly and painfully felt; as if caused by a sharp edge or point"
+   },
+   {
+    "pos": "adv.",
+    "zh": "銳利地, 急速地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sharps"
+ },
+ "sharpe": {
+  "ph": "/'ʃa:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夏普指數；夏普指標；夏普（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 sharper｜最高級 sharpest"
+ },
+ "sharpen": {
+  "ph": "/'ʃɑ:pn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使尖銳, 使敏捷, 加重, 削尖",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "尖銳化, 變鋒利",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sharpened｜現在分詞 sharpening｜過去式 sharpened｜第三人稱單數 sharpens"
+ },
+ "sharpened": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尖銳的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sharpened｜過去式 sharpened"
+ },
+ "sharpener": {
+  "ph": "/'ʃɑ:pnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "研磨者, 卷筆刀, 研磨工具",
+    "def": "any implement that is used to make something (an edge or a point) sharper"
+   }
+  ],
+  "forms": "複數 sharpeners"
+ },
+ "sharpening": {
+  "ph": "/'ʃɑ:pәniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "加強；刻石；削尖；銳磨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sharpening｜複數 sharpenings"
+ },
+ "sharpie": {
+  "ph": "/'ʃɑ:pi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騙子, 非常機靈的人, 狡詐精明的人, 時髦人物",
+    "def": "a pen with indelible ink that will write on any surface"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 騙子, 狡猾的人",
+    "def": ""
+   }
+  ]
+ },
+ "sharpish": {
+  "ph": "/ˈʃɑ:pɪʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "& adv. 相當銳利的（地）",
+    "def": ""
+   }
+  ]
+ },
+ "sharples": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sharples)人名；(英)沙普爾斯",
+    "def": ""
+   }
+  ]
+ },
+ "sharply": {
+  "ph": "/'ʃɑ:pli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "銳利地, 嚴厲地, 厲害地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 劇烈地",
+    "def": ""
+   }
+  ]
+ },
+ "sharpness": {
+  "ph": "/'ʃɑ:pnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銳利, 嚴厲, 疾速",
+    "def": "the quality of being keenly and painfully felt"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 清晰度",
+    "def": ""
+   }
+  ]
+ },
+ "sharpshooter": {
+  "ph": "/'ʃɑ:pʃu:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "射擊名手, 神槍手, 奸商",
+    "def": "an athlete noted for accurate aim"
+   }
+  ],
+  "forms": "複數 sharpshooters"
+ },
+ "shat": {
+  "ph": "/ʃæt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "大便, 拉屎( shit的過去式和過去分詞 ); 拉屎弄髒（某物）; 取笑; 欺騙",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shat"
+ },
+ "shatter": {
+  "ph": "/'ʃætә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碎片, 粉碎, 落葉, 噴灑",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "打碎, 使散開, 粉碎, 破壞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "粉碎, 損壞, 脫落",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shattered｜過去式 shattered｜現在分詞 shattering｜第三人稱單數 shatters"
+ },
+ "shattered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "極度疲勞的；破碎的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shattered｜過去式 shattered"
+ },
+ "shattering": {
+  "ph": "/'ʃætәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人震驚的；令人極度疲勞的；破碎的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shattering"
+ },
+ "shatteringly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "破碎地（shatter現在分詞的副詞形式）; 令人震驚地",
+    "def": ""
+   }
+  ]
+ },
+ "shatterproof": {
+  "ph": "/'ʃætәpru:f/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "防碎的",
+    "def": ""
+   }
+  ]
+ },
+ "shaun": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肖恩（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "shave": {
+  "ph": "/ʃeiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修面, 刮鬍子, 倖免, 剃刀",
+    "def": "the act of removing hair with a razor"
+   },
+   {
+    "pos": "vt.",
+    "zh": "修面, 剃, 修剪, 掠過",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "刮臉, 勉強透過",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shaved｜現在分詞 shaving｜過去式 shaved｜第三人稱單數 shaves｜複數 shaves"
+ },
+ "shaved": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "shave的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shaved｜過去式 shaved"
+ },
+ "shaven": {
+  "ph": "/'ʃeivn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "修過臉的, 修剪過的, 削髮的",
+    "def": "having the beard or hair cut off close to the skin"
+   },
+   {
+    "pos": "",
+    "zh": "shave的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shaven"
+ },
+ "shaver": {
+  "ph": "/'ʃeivә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修面的人, 電動剃刀, 刨刀, 殺價買進期票的人, 善於討價還價的人",
+    "def": "an adult male who shaves"
+   }
+  ],
+  "forms": "複數 shavers"
+ },
+ "shaving": {
+  "ph": "/'ʃeiviŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄片, 修鬍鬚, 削",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 刮屑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shavings｜現在分詞 shaving"
+ },
+ "shavings": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刨花；剃鬚（shaving的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "shaw": {
+  "ph": "/ʃɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雜木林",
+    "def": "United States clarinetist and leader of a swing band (1910-2004)"
+   }
+  ],
+  "forms": "複數 shaws｜第三人稱單數 shaws"
+ },
+ "shawcross": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shawcross)人名；(英)肖克羅斯",
+    "def": ""
+   }
+  ]
+ },
+ "shawl": {
+  "ph": "/ʃɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "披肩, 圍巾",
+    "def": "cloak consisting of an oblong piece of cloth used to cover the head and shoulders"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用披肩裹",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shawls｜過去式 shawled"
+ },
+ "shawn": {
+  "ph": "/ʃɔ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肖恩（男子、女子名）",
+    "def": "United States dancer and choreographer who collaborated with Ruth Saint Denis (1891-1972)"
+   }
+  ]
+ },
+ "she": {
+  "ph": "/ʃi:/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "她",
+    "def": ""
+   }
+  ]
+ },
+ "she'd": {
+  "ph": "/ʃi:d/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "she had 她已經; she would 她可以",
+    "def": ""
+   }
+  ]
+ },
+ "she's": {
+  "ph": "/ʃi:z/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "she has 她（已經）; she is 她是",
+    "def": ""
+   }
+  ]
+ },
+ "shea": {
+  "ph": "/ʃi:. ʃiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]非洲酪脂樹",
+    "def": ""
+   }
+  ]
+ },
+ "sheaf": {
+  "ph": "/ʃi:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "束, 捆, 扎",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "捆, 束",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sheaves"
+ },
+ "shear": {
+  "ph": "/ʃiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修剪, 剪下的東西, 大剪刀, 切變, 剪下機, 切",
+    "def": "(physics) a deformation of an object in which parallel planes remain parallel but are shifted in a direction parallel to themselves"
+   },
+   {
+    "pos": "vt.",
+    "zh": "修剪, 割, 剝奪, 橫越, 削剪",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "剪, 修剪, 剪羊毛, 切斷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shears｜過去分詞 shorn｜現在分詞 shearing｜過去式 sheared｜第三人稱單數 shears"
+ },
+ "sheared": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "shear的過去式和過去分詞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 剪下; 剪下",
+    "def": ""
+   }
+  ]
+ },
+ "shearer": {
+  "ph": "/'ʃiәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剪下者, 剪羊毛者, 剪刀工人, 剪下機, 剪床",
+    "def": "Scottish ballet dancer and actress (born in 1926)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 剪下機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shearers"
+ },
+ "shearing": {
+  "ph": "/'ʃiәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剪羊毛, 剪取的羊毛",
+    "def": "removing by cutting off or clipping"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 剪下, 剪割",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shearing｜複數 shearings"
+ },
+ "shearling": {
+  "ph": "/'ʃiәliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剪過一次毛的羊",
+    "def": "A sheep but once sheared."
+   },
+   {
+    "pos": "",
+    "zh": "[化] 剪毛綿羊革",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shearlings｜現在分詞 shearling"
+ },
+ "shearman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shearman)人名；(英)希爾曼",
+    "def": "One whose occupation is to shear cloth."
+   }
+  ],
+  "forms": "複數 shearmen"
+ },
+ "shearwater": {
+  "ph": "/'ʃiә.wɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剪嘴鷗",
+    "def": "long-winged oceanic bird that in flight skims close to the waves"
+   }
+  ],
+  "forms": "複數 shearwaters"
+ },
+ "sheath": {
+  "ph": "/ʃi:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞘, 葉鞘, 翅鞘",
+    "def": "a protective covering (as for a knife or sword)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 護套",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sheaths"
+ },
+ "sheathe": {
+  "ph": "/ʃi:ð/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "插入鞘, 覆蓋",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sheathed｜過去式 sheathed｜第三人稱單數 sheathes｜現在分詞 sheathing"
+ },
+ "sheathed": {
+  "ph": "/ʃi:θt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "雕塑像下半身包在鞘中的, 覆蓋的, 鎧裝的, 裝鞘了的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sheathed"
+ },
+ "sheathing": {
+  "ph": "/'ʃi:ðiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "入鞘, 外層覆蓋, 護套, 外包物, 蓋板, 夾襯板, 覆材",
+    "def": "protective covering consisting, for example, of a layer of boards applied to the studs and joists of a building to strengthen it and serve as a foundation for a"
+   }
+  ]
+ },
+ "sheba": {
+  "ph": "/'ʃi:bә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "Queen of ~ (基督教《聖經》中朝覲所羅門王以測其智慧的) 示巴女王",
+    "def": ""
+   }
+  ]
+ },
+ "shebang": {
+  "ph": "/ʃi'bæŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "事情, 工作, 陋屋, 住所",
+    "def": "an entire system; used in the phrase `the whole shebang'"
+   }
+  ]
+ },
+ "shed": {
+  "ph": "/ʃed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "車棚, 小屋, 脫落之物, 分水嶺",
+    "def": "an outbuilding with a single story; used for shelter or storage"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使流出, 放射, 脫落, 散發, 擺脫",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "流出, 散佈, 脫落",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sheds｜過去分詞 shed｜現在分詞 shedding｜過去式 shed｜第三人稱單數 sheds"
+ },
+ "shedding": {
+  "ph": "/'ʃediŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脫落, 蛻落, 蛻落物, 流出, 散發, 梭口, 梭道",
+    "def": "the process whereby something is shed"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 脫落",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shedding｜複數 sheddings"
+ },
+ "sheehan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sheehan)人名；(英)希恩",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "希恩",
+    "def": ""
+   }
+  ]
+ },
+ "sheen": {
+  "ph": "/ʃi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光輝, 光彩, 光澤",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "光輝的, 發光的, 有光澤的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發出光澤",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sheened｜過去分詞 sheened｜複數 sheens｜現在分詞 sheening"
+ },
+ "sheena": {
+  "ph": "/'ʃi:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希娜(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "sheep": {
+  "ph": "/ʃi:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羊, 膽小者",
+    "def": "woolly usually horned ruminant mammal related to the goat"
+   }
+  ],
+  "forms": "複數 sheeps"
+ },
+ "sheepdog": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牧羊狗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sheepdogs｜第三人稱單數 sheepdogs"
+ },
+ "sheepfold": {
+  "ph": "/'ʃi:pfәuld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羊圈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sheepfolds"
+ },
+ "sheepherder": {
+  "ph": "/'ʃi:phә:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牧羊人",
+    "def": "a herder of sheep (on an open range); someone who keeps the sheep together in a flock"
+   }
+  ]
+ },
+ "sheepish": {
+  "ph": "/'ʃi:piʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懦弱的, 羞怯的",
+    "def": ""
+   }
+  ]
+ },
+ "sheepishly": {
+  "ph": "/'ʃi:pɪʃlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "怯懦地, 羞怯地; 愚蠢地",
+    "def": ""
+   }
+  ]
+ },
+ "sheepshead": {
+  "ph": "/'ʃi:pshed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羊頭, 蠢人",
+    "def": "large (up to 20 lbs) food fish of the eastern coast of the United States and Mexico"
+   }
+  ]
+ },
+ "sheepskin": {
+  "ph": "/'ʃi:pskin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綿羊毛皮, 羊皮襖, 羊皮紙, 羊皮革, 羊皮毯, (寫在羊皮紙上的)檔案, 畢業文憑",
+    "def": "tanned skin of a sheep with the fleece left on; used for clothing"
+   }
+  ],
+  "forms": "複數 sheepskins"
+ },
+ "sheer": {
+  "ph": "/ʃiә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絕對的, 全然的, 純粹的, 透明的, 峻峭的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "偏轉, 偏航",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使急轉向, 使偏航",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "完全, 全然, 峻峭",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "偏航",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sheers｜過去式 sheered｜現在分詞 sheering｜第三人稱單數 sheers｜過去分詞 sheered"
+ },
+ "sheerly": {
+  "ph": "/'ʃiәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "全然地, 完全地",
+    "def": "At once; absolutely."
+   }
+  ]
+ },
+ "sheerness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "透迷；透明薄織物",
+    "def": ""
+   }
+  ]
+ },
+ "sheet": {
+  "ph": "/ʃi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床單, 張, 紙張, 印刷品, 裹屍布, 薄片",
+    "def": "any broad thin expanse or surface"
+   },
+   {
+    "pos": "vt.",
+    "zh": "蓋上被單, 遍佈",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "大片落下",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "片狀的, 成薄片的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 工作表",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sheets｜過去分詞 sheeted｜過去式 sheeted｜現在分詞 sheeting｜第三人稱單數 sheets"
+ },
+ "sheeting": {
+  "ph": "/'ʃi:tiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鋪被單, 覆蓋, 被單料子, 闊幅平布, 薄膜, 壓片, 擋板, 板柵, 護牆板, 護堤板",
+    "def": "fabric from which bed sheets are made"
+   }
+  ],
+  "forms": "現在分詞 sheeting"
+ },
+ "sheetrock": {
+  "ph": "/'ʃi:trɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(建築用)石膏灰膠紙夾板",
+    "def": "a kind of plasterboard"
+   }
+  ]
+ },
+ "sheff": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "設菲爾德（Sheffield的縮寫）",
+    "def": ""
+   }
+  ]
+ },
+ "sheffield": {
+  "ph": "/'ʃefi:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謝菲爾德（英國城市）",
+    "def": "a steel manufacturing city in northern England famous for its cutlery industry"
+   }
+  ]
+ },
+ "sheik": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酋長, 王子, 村長, 族長, 教長, 導師, 有威信的丈夫",
+    "def": "the leader of an Arab village or family"
+   }
+  ],
+  "forms": "複數 sheiks"
+ },
+ "sheikdom": {
+  "ph": "/'ʃeɪkdəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（阿拉伯）酋長統轄的領土, 酋長國",
+    "def": "the domain ruled by a sheik"
+   }
+  ],
+  "forms": "複數 sheikdoms"
+ },
+ "sheikh": {
+  "ph": "/ʃeik, ʃi:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酋長, 王子, 村長, 族長, 教長, 導師, 有威信的丈夫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sheikhs"
+ },
+ "sheila": {
+  "ph": "/'ʃi:lә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "姑娘, 小姐",
+    "def": ""
+   }
+  ]
+ },
+ "shekel": {
+  "ph": "/'ʃekl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錢, 財富, 硬幣",
+    "def": "the basic unit of money in Israel"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 以色列幣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shekels"
+ },
+ "shekhar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shekhar)人名；(印)謝卡爾",
+    "def": ""
+   }
+  ]
+ },
+ "shelagh": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shelagh)人名；(英)希拉",
+    "def": ""
+   }
+  ]
+ },
+ "shelbourne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shelbourne)人名；(英)謝爾本",
+    "def": ""
+   }
+  ]
+ },
+ "sheldon": {
+  "ph": "/'ʃeldәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謝爾登（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "sheldrake": {
+  "ph": "/'ʃeldreik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻鴨",
+    "def": "Old World gooselike duck slightly larger than a mallard with variegated mostly black-and-white plumage and a red bill"
+   }
+  ]
+ },
+ "shelduck": {
+  "ph": "/'ʃeldʌk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雌麻鴨",
+    "def": "female sheldrake"
+   }
+  ],
+  "forms": "複數 shelducks"
+ },
+ "shelf": {
+  "ph": "/ʃelf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "架子, 擱板",
+    "def": "a support that consists of a horizontal surface for holding objects"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 架子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shelves"
+ },
+ "shelford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shelford)人名；(英)謝爾福德",
+    "def": ""
+   }
+  ]
+ },
+ "shell": {
+  "ph": "/ʃel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝殼, 殼, 外形, 炮彈",
+    "def": "ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun"
+   },
+   {
+    "pos": "vt.",
+    "zh": "去殼, 脫落, 炮轟",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "剝落, 脫殼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 外殼; DOS內部命令:指定命令列處理程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shells｜現在分詞 shelling｜過去分詞 shelled｜過去式 shelled｜第三人稱單數 shells"
+ },
+ "shellac": {
+  "ph": "/ʃә'læk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蟲膠",
+    "def": "lac purified by heating and filtering; usually in thin orange or yellow flakes but sometimes bleached white"
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗上蟲膠, 以蟲膠處理, 毆打",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shellacking｜過去式 shellacked｜第三人稱單數 shellacs｜過去分詞 shellacked"
+ },
+ "shellacked": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "打敗",
+    "def": ""
+   }
+  ]
+ },
+ "shelled": {
+  "ph": "/ʃeld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "帶殼的；去殼的",
+    "def": "of animals or fruits that have a shell"
+   }
+  ],
+  "forms": "過去式 shelled｜過去分詞 shelled"
+ },
+ "shelley": {
+  "ph": "/'ʃeli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謝莉（女子名）",
+    "def": "English writer who created Frankenstein's monster and married Percy Bysshe Shelley (1797-1851)"
+   }
+  ]
+ },
+ "shellfire": {
+  "ph": "/'ʃelfaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "炮火",
+    "def": "shooting artillery shells"
+   }
+  ]
+ },
+ "shellfish": {
+  "ph": "/'ʃelfiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝, 甲殼類水生物",
+    "def": "meat of edible aquatic invertebrate with a shell (especially a mollusk or crustacean)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 牡蠣",
+    "def": ""
+   }
+  ]
+ },
+ "shelling": {
+  "ph": "/'ʃeliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "去殼, 穀殼, 貝殼的採集, 炮轟",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shelling"
+ },
+ "shelly": {
+  "ph": "/'ʃeli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多殼的, 殼一般的, 有殼的",
+    "def": "Abounding with shells; consisting of shells, or of a shell."
+   }
+  ]
+ },
+ "shelter": {
+  "ph": "/'ʃeltә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "庇護所, 避難所, 庇護, 隱蔽處, 掩蔽",
+    "def": "a structure that provides privacy and protection from danger"
+   },
+   {
+    "pos": "vt.",
+    "zh": "庇護, 保護, 隱匿",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "躲避",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shelters｜現在分詞 sheltering｜過去分詞 sheltered｜過去式 sheltered｜第三人稱單數 shelters"
+ },
+ "sheltered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受庇護的, 受保護的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sheltered｜過去式 sheltered"
+ },
+ "sheltering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "掩蔽（shelter的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sheltering"
+ },
+ "shelton": {
+  "ph": "/'ʃeltәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謝爾頓(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "shelve": {
+  "ph": "/ʃelv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "放置架子上, 擱置",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "漸漸傾斜",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shelved｜現在分詞 shelving｜過去式 shelved｜第三人稱單數 shelves｜複數 shelves"
+ },
+ "shelved": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "擱置的；廢置不用的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shelved｜過去式 shelved"
+ },
+ "shelving": {
+  "ph": "/'ʃelviŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一組擱板, 擱板材料, 傾斜, 傾斜度, 斜坡",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shelving"
+ },
+ "shenanigan": {
+  "ph": "/ʃә'næni^әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬼把戲, 詭計, 淘氣, 惡作劇, 胡鬧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shenanigans"
+ },
+ "shenanigans": {
+  "ph": "/ʃɪˈnænɪgənz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（尤指可笑、有趣的）惡作劇, 詭計, 鬼把戲",
+    "def": ""
+   }
+  ]
+ },
+ "sheng": {
+  "ph": "/ʃeŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笙（中國的一種民族樂器）",
+    "def": ""
+   }
+  ]
+ },
+ "shep": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "老年收縮期高血壓研究（Systolic Hypertension in the Elderly Program）",
+    "def": ""
+   }
+  ]
+ },
+ "shepard": {
+  "ph": "/'ʃepəd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謝潑德（人名）",
+    "def": "United States author of surrealistic allegorical plays (born in 1943)"
+   }
+  ]
+ },
+ "shephard": {
+  "ph": "/'ʃepәd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "謝潑德(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "shepherd": {
+  "ph": "/'ʃepәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牧羊人, 牧羊犬, 牧師, 保護者",
+    "def": "a clergyman who watches over a group of people"
+   },
+   {
+    "pos": "vt.",
+    "zh": "看守, 領導, 指導, 牧羊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shepherds｜過去式 shepherded｜過去分詞 shepherded｜現在分詞 shepherding｜第三人稱單數 shepherds"
+ },
+ "shepherdess": {
+  "ph": "/'ʃepәdis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "牧羊女",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shepherdesses｜過去分詞 shepherdessed"
+ },
+ "shepherds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牧羊人；牧人（shepherd的複數）；牧師",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "帶領（shepherd的三單形式）；放牧；照看",
+    "def": ""
+   }
+  ]
+ },
+ "sheppard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謝潑德（姓氏）；雪柏街（位於加拿大多倫多市）",
+    "def": ""
+   }
+  ]
+ },
+ "sher": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "謝爾（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shers"
+ },
+ "sheraton": {
+  "ph": "/'ʃerәt(ә)n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(英國細木工)謝拉頓傢俱式樣",
+    "def": "a furniture style that originated in England around 1800; simple in design with straight lines and classical ornamentation"
+   },
+   {
+    "pos": "adj.",
+    "zh": "謝拉頓風格的, 謝拉頓式的",
+    "def": ""
+   }
+  ]
+ },
+ "sherbet": {
+  "ph": "/'ʃә:bәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(英)冰凍果子露, 果汁粉, 果汁飲料, (美)果汁冰糕",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sherbets"
+ },
+ "sherd": {
+  "ph": "/ʃәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(瓷)碎片, 破片",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sherds"
+ },
+ "sheridan": {
+  "ph": "/'ʃeridn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謝里丹(m.)",
+    "def": "Irish playwright remembered for his satirical comedies of manners (1751-1816)"
+   }
+  ]
+ },
+ "sherif": {
+  "ph": "/ʃә'ri:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(阿拉伯國家的)王子, 首領, 酋長",
+    "def": "A member of an Arab princely family descended from Mohammed"
+   }
+  ]
+ },
+ "sheriff": {
+  "ph": "/'ʃerif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "郡治安官, 縣治安官",
+    "def": "the principal law-enforcement officer in a county"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 司法行政官, 郡長, 執行吏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sheriffs"
+ },
+ "sherlock": {
+  "ph": "/'ʃә:lɔk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 私家偵探",
+    "def": ""
+   }
+  ]
+ },
+ "sherman": {
+  "ph": "/'ʃә:mәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謝爾曼（男子名）",
+    "def": "United States general who was commander of all Union troops in the West; he captured Atlanta and led a destructive march to the sea that cut the Confederacy in "
+   }
+  ]
+ },
+ "sheron": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sheron)人名；(英)謝倫",
+    "def": ""
+   }
+  ]
+ },
+ "sherpa": {
+  "ph": "/'ʃә:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夏爾巴人（西藏的一個種族）",
+    "def": "a member of the Himalayan people living in Nepal and Tibet who are famous for their skill as mountaineers"
+   }
+  ],
+  "forms": "複數 sherpas"
+ },
+ "sherrin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sherrin)人名；(英)謝林",
+    "def": ""
+   }
+  ]
+ },
+ "sherry": {
+  "ph": "/'ʃeri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪利酒, 葡萄酒",
+    "def": "dry to sweet amber wine from the Jerez region of southern Spain or similar wines produced elsewhere; usually drunk as an aperitif"
+   }
+  ],
+  "forms": "複數 sherries"
+ },
+ "sherwin": {
+  "ph": "/'ʃә:win/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "舍溫(姓氏, 男子名)",
+    "def": ""
+   }
+  ]
+ },
+ "sherwood": {
+  "ph": "/'ʃә:wud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舍伍德（姓氏, 男子名）",
+    "def": "United States playwright (1896-1955)"
+   }
+  ]
+ },
+ "shetland": {
+  "ph": "/'ʃetlәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "設得蘭群島(英國蘇格蘭東北部一郡)",
+    "def": "an archipelago of about 100 islands in the North Atlantic off the north coast of Scotland"
+   }
+  ]
+ },
+ "shetlanders": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(shetlander 的複數) 設得蘭(郡)(蘇格蘭舊郡)；= Shetland Islands",
+    "def": ""
+   }
+  ]
+ },
+ "shevardnadze": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shevardnadze)人名；(格魯)謝瓦爾德納澤",
+    "def": ""
+   }
+  ]
+ },
+ "shew": {
+  "ph": "/ʃәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表示, 展覽, 炫耀, 外觀, 假裝",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "出示, 指示, 引導, 說明, 顯示, 展出, 放映",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shewn｜現在分詞 shewing｜過去式 shewed｜第三人稱單數 shews｜複數 shews"
+ },
+ "shh": {
+  "ph": "/ʃ/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "噓, 安靜一點, shew [古]show",
+    "def": ""
+   }
+  ]
+ },
+ "shi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "三星重工（Samsung Heavy Industries）；日本芝蒲電氣公司",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shi"
+ },
+ "shia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "什葉；什葉派（等於Shiah）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shias"
+ },
+ "shiatsu": {
+  "ph": "/ʃiˈætsu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<日>指壓, 指壓按摩療法",
+    "def": ""
+   }
+  ]
+ },
+ "shibboleth": {
+  "ph": "/'ʃibәleθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暗語, 暗號, 口令, 口號, 行話, 術語, 習俗, 習慣, 陳詞濫調, 過時的信仰",
+    "def": "a manner of speaking that is distinctive of a particular group of people"
+   }
+  ],
+  "forms": "第三人稱單數 shibboleth｜複數 shibboleths"
+ },
+ "shiel": {
+  "ph": "/ʃiːl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shiel)人名；(英)希爾",
+    "def": "A sheeling."
+   },
+   {
+    "pos": "",
+    "zh": "希爾（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shiels"
+ },
+ "shield": {
+  "ph": "/'ʃi:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盾, 防衛物, 保護者, 遮蔽",
+    "def": "a protective covering or structure"
+   },
+   {
+    "pos": "vt.",
+    "zh": "保護, 遮蔽, 遮蔽, 庇護, 擋開, 避開",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "起保護作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shields｜現在分詞 shielding｜過去分詞 shielded｜第三人稱單數 shields｜過去式 shielded"
+ },
+ "shielded": {
+  "ph": "/'ʃi:ldid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "隔離的；遮蔽了的；防護的；鎧裝的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shielded｜過去分詞 shielded"
+ },
+ "shielding": {
+  "ph": "/'ʃi:ldiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 螢幕, 掩蓋, 隔離",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 遮蔽",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shielding"
+ },
+ "shields": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盾, 防衛物（shield的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "shift": {
+  "ph": "/ʃift/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "變化, 移動, 輪班, 手段, 應急辦法, 移位",
+    "def": "an event in which something is displaced without rotation"
+   },
+   {
+    "pos": "vt.",
+    "zh": "替換, 轉移, 改變, 推卸, 變速",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "轉換, 移動, 轉變, 推託, 變速",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] DOS內部命令:該命令可將批處理引數向左移動一個位置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shifts｜過去分詞 shifted｜過去式 shifted｜現在分詞 shifting｜第三人稱單數 shifts"
+ },
+ "shifted": {
+  "ph": "/ʃiftid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "改變( shift的過去式和過去分詞 ); 去掉; 擺脫掉; 換擋",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shifted｜過去式 shifted"
+ },
+ "shifter": {
+  "ph": "/'ʃiftә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "搬移東西者, 迴避論點者, 領班, 輔助工, 移動裝置, 開關",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 移頭器; 移位器; 移帶器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shifters"
+ },
+ "shiftiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奸詐",
+    "def": ""
+   }
+  ]
+ },
+ "shifting": {
+  "ph": "/'ʃiftiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 移位, 移位操作",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shifting｜複數 shiftings"
+ },
+ "shiftless": {
+  "ph": "/'ʃiftlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無計謀的, 偷懶的, 不中用的, 無能的",
+    "def": ""
+   }
+  ]
+ },
+ "shiftwork": {
+  "ph": "/'ʃɪftwɜ:k/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "輪班工作",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shiftworking"
+ },
+ "shifty": {
+  "ph": "/'ʃifti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "變化的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 善於應變的, 多策略的, 詭詐的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 shiftier"
+ },
+ "shigella": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 志賀氏菌屬",
+    "def": ""
+   }
+  ]
+ },
+ "shigellosis": {
+  "ph": "/,ʃi^ә'lәusis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 志賀氏菌病, 志賀氏菌痢疾",
+    "def": ""
+   }
+  ]
+ },
+ "shih": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shih)人名；(東南亞國家華語)施",
+    "def": ""
+   }
+  ]
+ },
+ "shiitake": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "香菇；香蕈",
+    "def": ""
+   }
+  ]
+ },
+ "shiite": {
+  "ph": "/'ʃi:ait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "什葉派教徒",
+    "def": "a member of the branch of Islam that regards Ali as the legitimate successor to Mohammed and rejects the first three caliphs"
+   }
+  ],
+  "forms": "複數 shiites"
+ },
+ "shiksa": {
+  "ph": "/'ʃɪksə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<貶>非猶太姑娘； 不遵守猶太教規的猶太姑娘",
+    "def": "a derogatory term used by Jews to refer to non-Jewish women"
+   }
+  ],
+  "forms": "複數 shiksas"
+ },
+ "shill": {
+  "ph": "/ʃil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小販的同夥, 賭棍的黨羽",
+    "def": "a decoy who acts as an enthusiastic customer in order to stimulate the participation of others"
+   }
+  ]
+ },
+ "shillelagh": {
+  "ph": "/ʃi'leilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橡木棍",
+    "def": "a cudgel made of hardwood (usually oak or blackthorn)"
+   }
+  ],
+  "forms": "複數 shillelaghs"
+ },
+ "shilling": {
+  "ph": "/'ʃiliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "先令",
+    "def": "an English coin worth one twentieth of a pound"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 先令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shillings"
+ },
+ "shim": {
+  "ph": "/ʃim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "填片, 萬能開鎖片",
+    "def": "a thin wedge of material (wood or metal or stone) for driving into crevices"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用填片填",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shims｜過去分詞 shimmed｜現在分詞 shimming｜過去式 shimmed｜第三人稱單數 shims"
+ },
+ "shimmer": {
+  "ph": "/'ʃimә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "微光, 閃光",
+    "def": "a weak and tremulous light"
+   },
+   {
+    "pos": "vi.",
+    "zh": "閃爍",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使閃爍",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shimmered｜複數 shimmers｜第三人稱單數 shimmers｜現在分詞 shimmering｜過去分詞 shimmered"
+ },
+ "shimmering": {
+  "ph": "/'ʃɪmərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "閃閃發光, 發微光( shimmer的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shimmering"
+ },
+ "shimmery": {
+  "ph": "/'ʃimәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "微微發亮的",
+    "def": ""
+   }
+  ]
+ },
+ "shimmy": {
+  "ph": "/'ʃimi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(非正式)女式襯衣, (美)不正常振動",
+    "def": "an abnormal wobble in a motor vehicle (especially in the front wheels)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "(美)搖晃, 振動, 顫動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shimmying｜過去式 shimmied｜過去分詞 shimmied｜複數 shimmies｜第三人稱單數 shimmies"
+ },
+ "shimon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shimon)人名；(日)施門(名)；(塞、以)希蒙",
+    "def": ""
+   }
+  ]
+ },
+ "shin": {
+  "ph": "/ʃin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脛骨",
+    "def": "the front part of the human leg between the knee and the ankle"
+   },
+   {
+    "pos": "v.",
+    "zh": "攀, 爬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shins｜現在分詞 shinning｜過去式 shinned｜第三人稱單數 shins｜過去分詞 shinned"
+ },
+ "shinbone": {
+  "ph": "/'ʃinbәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脛骨",
+    "def": ""
+   }
+  ]
+ },
+ "shindig": {
+  "ph": "/'ʃindig/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喧譁, 盛大舞會",
+    "def": "a large and noisy party of people"
+   }
+  ],
+  "forms": "複數 shindigs"
+ },
+ "shine": {
+  "ph": "/ʃain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光澤, 陽光",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使發光",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "照耀, 發光, 發亮",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shone｜現在分詞 shining｜第三人稱單數 shines｜過去分詞 shone"
+ },
+ "shined": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "shine的過去式和過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "shiner": {
+  "ph": "/'ʃainә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出色的人, 發亮物, 發光體, (英)(非正式)錢幣, (英)(非正式)金錢",
+    "def": "a swollen bruise caused by a blow to the eye"
+   }
+  ],
+  "forms": "複數 shiners"
+ },
+ "shingle": {
+  "ph": "/'ʃiŋgl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牆面板, 小招牌",
+    "def": "building material used as siding or roofing"
+   }
+  ],
+  "forms": "過去式 shingled｜過去分詞 shingled｜現在分詞 shingling｜第三人稱單數 shingles"
+ },
+ "shingled": {
+  "ph": "/ˈʃɪngld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蓋木瓦的; 貼有牆面板的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "用木瓦蓋(shingle的過去式和過去分詞形式)",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shingled"
+ },
+ "shingles": {
+  "ph": "/'ʃiŋ^lz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶狀皰疹",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 帶狀皰疹",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shingles"
+ },
+ "shining": {
+  "ph": "/'ʃainiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光亮的, 華麗的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shining"
+ },
+ "shinny": {
+  "ph": "/'ʃini/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "攀, 爬",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shinnying｜過去式 shinnied｜第三人稱單數 shinnies｜過去分詞 shinnied"
+ },
+ "shinwell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shinwell)人名；(英)欣韋爾",
+    "def": ""
+   }
+  ]
+ },
+ "shiny": {
+  "ph": "/'ʃaini/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有光澤的, 發光的, 輝煌的, 磨光的, 磨損的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 shinier｜最高級 shiniest"
+ },
+ "ship": {
+  "ph": "/ʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船, 艦",
+    "def": "a vessel that carries passengers or freight"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以船運送, 裝船, 運送",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "上船, 乘船",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ships｜過去分詞 shipped｜現在分詞 shipping｜過去式 shipped｜第三人稱單數 ships"
+ },
+ "shipboard": {
+  "ph": "/'ʃipbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舷側, 船",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "船用的",
+    "def": ""
+   }
+  ]
+ },
+ "shipbuilder": {
+  "ph": "/'ʃipbildә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "造船專家, 造船工程師",
+    "def": "a person who builds ships as a business"
+   }
+  ],
+  "forms": "複數 shipbuilders｜第三人稱單數 shipbuilders"
+ },
+ "shipbuilders": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "造船業主, 造船工程師, 造船公司( shipbuilder的複數形式 )",
+    "def": "a carpenter who helps build and launch wooden vessels"
+   }
+  ]
+ },
+ "shipbuilding": {
+  "ph": "/'ʃipbildiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "造船",
+    "def": "the construction of ships"
+   }
+  ],
+  "forms": "現在分詞 shipbuilding"
+ },
+ "shipley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "希普利（人名）（英國城市）",
+    "def": ""
+   }
+  ]
+ },
+ "shipload": {
+  "ph": "/'ʃiplәud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船貨, 大量",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 船貨, 船雙運載量, 大量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shiploads"
+ },
+ "shipman": {
+  "ph": "/'ʃipmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船員, 水手, 船長",
+    "def": "A seaman, or sailor."
+   }
+  ],
+  "forms": "複數 shipmen"
+ },
+ "shipmaster": {
+  "ph": "/'ʃip.mɑ:stә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船長",
+    "def": "The captain, master, or commander of a ship."
+   },
+   {
+    "pos": "",
+    "zh": "[法] 船長",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shipmasters"
+ },
+ "shipmate": {
+  "ph": "/'ʃipmeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同船水手",
+    "def": "an associate on the same ship with you"
+   }
+  ],
+  "forms": "複數 shipmates"
+ },
+ "shipment": {
+  "ph": "/'ʃipmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝船, 出貨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 運送, 運送(寄出)貨物, 裝載",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shipments"
+ },
+ "shipowner": {
+  "ph": "/'ʃipәunә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船主",
+    "def": "someone who owns a ship or a share in a ship"
+   }
+  ],
+  "forms": "複數 shipowners"
+ },
+ "shipper": {
+  "ph": "/'ʃipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "託運人, 發貨人",
+    "def": "someone who ships goods"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 貨主, 運貨者, 裝貨人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shippers"
+ },
+ "shipping": {
+  "ph": "/'ʃipiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝運, 航行, 船舶, 船舶噸數",
+    "def": "conveyance provided by the ships belonging to one country or industry"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 裝運, 運送, 海運",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shipping｜複數 shippings"
+ },
+ "shipshape": {
+  "ph": "/'ʃipʃeip/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "整潔乾淨的, 整整齊齊的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "整潔地, 整齊地",
+    "def": ""
+   }
+  ]
+ },
+ "shipworm": {
+  "ph": "/'ʃipwә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船蛆",
+    "def": "wormlike marine bivalve that bores into wooden piers and ships by means of drill-like shells"
+   }
+  ]
+ },
+ "shipwreck": {
+  "ph": "/'ʃiprek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遇難船, 海難",
+    "def": "a wrecked ship (or a part of one)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "遇海難, 毀滅, 使失事",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shipwrecks｜過去分詞 shipwrecked｜過去式 shipwrecked｜現在分詞 shipwrecking｜第三人稱單數 shipwrecks"
+ },
+ "shipwrecked": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海灘, 海難；失事",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shipwrecked"
+ },
+ "shipwright": {
+  "ph": "/'ʃiprait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "造船木匠",
+    "def": "a carpenter who helps build and launch wooden vessels"
+   }
+  ],
+  "forms": "複數 shipwrights"
+ },
+ "shipyard": {
+  "ph": "/'ʃipjɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "造船廠",
+    "def": "a workplace where ships are built or repaired"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 船塢, 造船廠, 修船廠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shipyards"
+ },
+ "shiraz": {
+  "ph": "/ʃiә'rɑ:z/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "設拉子[伊朗西南部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "shire": {
+  "ph": "/'ʃaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "郡",
+    "def": "a former administrative district of England; equivalent to a county"
+   }
+  ],
+  "forms": "複數 shires"
+ },
+ "shirk": {
+  "ph": "/ʃә:k/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "溜掉, 逃避, 推卸",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "逃避",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shirking｜過去分詞 shirked｜過去式 shirked｜第三人稱單數 shirks"
+ },
+ "shirley": {
+  "ph": "/'ʃә:li/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪莉（女子名）",
+    "def": "The bullfinch."
+   }
+  ]
+ },
+ "shirt": {
+  "ph": "/ʃә:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "襯衫, 內衣, 汗衫",
+    "def": "a garment worn on the upper half of the body"
+   }
+  ],
+  "forms": "複數 shirts"
+ },
+ "shirtdress": {
+  "ph": "/'ʃ\\\\\\\\:tdres/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(上身像襯衫的)襯衣式連衣裙",
+    "def": "a dress that is tailored like a shirt and has buttons all the way down the front"
+   }
+  ]
+ },
+ "shirtfront": {
+  "ph": "/'ʃә:tfrʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胸衣",
+    "def": "the front of a shirt (usually the part not covered by a jacket)"
+   }
+  ],
+  "forms": "複數 shirtfronts"
+ },
+ "shirtless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "赤膊的；無上裝的",
+    "def": "Not having or wearing a shirt."
+   }
+  ]
+ },
+ "shirtsleeve": {
+  "ph": "/ˈʃɜ:tsli:v/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "襯衫的袖子",
+    "def": "the sleeve of a shirt"
+   }
+  ],
+  "forms": "複數 shirtsleeves｜過去式 shirtsleeved"
+ },
+ "shirttail": {
+  "ph": "/'ʃә:tteil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "襯衣下襬, 社論欄",
+    "def": "a brief addendum at the end of a newspaper article"
+   },
+   {
+    "pos": "adj.",
+    "zh": "幼小的, 遠房的",
+    "def": ""
+   }
+  ]
+ },
+ "shirtwaist": {
+  "ph": "/'ʃә:tweist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仿男式女襯衫",
+    "def": "a blouse with buttons down the front"
+   }
+  ]
+ },
+ "shirty": {
+  "ph": "/'ʃә:ti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<英俚>心情壞的, 發怒的",
+    "def": ""
+   }
+  ]
+ },
+ "shit": {
+  "ph": "/ʃit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "拉屎",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "欺騙, 在...拉屎",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "糞, 屎",
+    "def": "a coarse term for defecation"
+   },
+   {
+    "pos": "interj.",
+    "zh": "狗屁",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shitted｜過去式 shitted｜現在分詞 shitting｜複數 shits｜第三人稱單數 shits"
+ },
+ "shite": {
+  "ph": "/'ʃait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[戲謔語, 委婉語]屎；糞便",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shites"
+ },
+ "shithead": {
+  "ph": "/'ʃɪthed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笨蛋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shitheads"
+ },
+ "shithouse": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "廁所；衛生間",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shithouses"
+ },
+ "shitless": {
+  "ph": "/'ʃitlis/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "<俚><粗>極度,非常",
+    "def": ""
+   }
+  ]
+ },
+ "shitter": {
+  "ph": "/'ʃitə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廁所；坐桶；[美國英語]馬",
+    "def": ""
+   }
+  ]
+ },
+ "shitty": {
+  "ph": "/'ʃiti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "劣等的, 較差的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 shittiest"
+ },
+ "shiv": {
+  "ph": "/ʃiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刀, 剃刀",
+    "def": "a knife used as a weapon"
+   }
+  ],
+  "forms": "複數 shivs"
+ },
+ "shiva": {
+  "ph": "/'ʃi:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "七日服喪期",
+    "def": "(Judaism) a period of seven days of mourning after the death of close relative"
+   }
+  ]
+ },
+ "shiver": {
+  "ph": "/'ʃivә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "顫抖, 哆嗦, 被打碎",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使迎風飄動, 粉碎",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "戰慄, 碎塊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shivered｜現在分詞 shivering｜複數 shivers｜第三人稱單數 shivers｜過去分詞 shivered"
+ },
+ "shivering": {
+  "ph": "/'ʃivәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發抖, 打碎",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 戰慄",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shivering"
+ },
+ "shivery": {
+  "ph": "/'ʃivәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顫抖的, 令人悚然的, 寒冷的, 易碎的",
+    "def": ""
+   }
+  ]
+ },
+ "sho": {
+  "ph": "/ʃәu/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "超高輸出（Super High Output）；繼發性肥大性骨關節病（secondary hypertrophic osteoarthropathy）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shos"
+ },
+ "shoal": {
+  "ph": "/ʃәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淺水, 淺灘, 沙洲, 魚群, 暗礁, 潛在危險",
+    "def": "a sandbank in a stretch of water that is visible at low tide"
+   },
+   {
+    "pos": "adj.",
+    "zh": "淺的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "魚成群而遊, 變淺",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使變淺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shoals｜現在分詞 shoaling｜過去式 shoaled｜過去分詞 shoaled｜第三人稱單數 shoals"
+ },
+ "shoals": {
+  "ph": "/ʃəʊlz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淺灘( shoal的名詞複數 ); 沙洲; 魚群; 大量",
+    "def": ""
+   }
+  ]
+ },
+ "shoat": {
+  "ph": "/ʃәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小豬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shoats"
+ },
+ "shock": {
+  "ph": "/ʃɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "震動, 衝突, 震驚, 衝擊, 突擊, 禾束堆, 休克, 長毛狗",
+    "def": "the violent interaction of individuals or groups entering into combat"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使震動, 使休克, 使受電擊, 震驚得",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "震動, 嚇人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "蓬亂濃密的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shocked｜複數 shocks｜過去分詞 shocked｜第三人稱單數 shocks｜現在分詞 shocking"
+ },
+ "shock wave": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "衝擊波",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 衝擊波; 激波",
+    "def": ""
+   }
+  ]
+ },
+ "shocked": {
+  "ph": "/ʃɔkt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "震撼的；震驚的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shocked｜過去分詞 shocked"
+ },
+ "shocker": {
+  "ph": "/'ʃɔkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "令人震驚的東西, 令人震驚的人, 令人憤慨的人, 令人厭惡的人",
+    "def": "a shockingly bad person"
+   }
+  ],
+  "forms": "複數 shockers"
+ },
+ "shocking": {
+  "ph": "/'ʃɒkiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人震驚的, 極壞的, 不正當的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shocking"
+ },
+ "shockingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人震驚地, 極糟地, 極度地, 極厲害地",
+    "def": ""
+   }
+  ]
+ },
+ "shockwave": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "震盪波；爆震波；衝擊波",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shockwaves"
+ },
+ "shod": {
+  "ph": "/ʃɔd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "shoe的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shodding｜過去分詞 shod｜過去式 shod"
+ },
+ "shoddily": {
+  "ph": "/'ʃɔdili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "惡劣地",
+    "def": ""
+   }
+  ]
+ },
+ "shoddiness": {
+  "ph": "/'ʃɔdinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劣質；粗製濫造",
+    "def": "the quality of being cheaply imitative of something better"
+   }
+  ]
+ },
+ "shoddy": {
+  "ph": "/'ʃɒdi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用長彈毛做的, 以次充好的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "長彈毛, 軟再生毛, 贗品",
+    "def": "reclaimed wool fiber"
+   }
+  ],
+  "forms": "最高級 shoddiest｜比較級 shoddier"
+ },
+ "shoe": {
+  "ph": "/ʃu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋, 靴, 外胎",
+    "def": "footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...穿鞋, 為馬釘蹄鐵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shoes｜過去分詞 shod｜現在分詞 shoeing｜過去式 shod｜第三人稱單數 shoes"
+ },
+ "shoebox": {
+  "ph": "/ˈʃu:bɒks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "鞋盒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shoeboxes"
+ },
+ "shoehorn": {
+  "ph": "/'ʃu:hɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋拔",
+    "def": "a device used for easing the foot into a shoe"
+   },
+   {
+    "pos": "vt.",
+    "zh": "硬塞進",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shoehorned｜過去式 shoehorned｜現在分詞 shoehorning｜第三人稱單數 shoehorns｜複數 shoehorns"
+ },
+ "shoelace": {
+  "ph": "/'ʃu:leis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋帶",
+    "def": "a lace used for fastening shoes"
+   }
+  ],
+  "forms": "複數 shoelaces｜第三人稱單數 shoelaces｜過去式 shoelaced"
+ },
+ "shoeless": {
+  "ph": "/'ʃu:lis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不穿鞋的, 赤腳的, 沒有鞋的",
+    "def": ""
+   }
+  ]
+ },
+ "shoemaker": {
+  "ph": "/'ʃu:.meikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋店營業員, 皮鞋匠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shoemakers"
+ },
+ "shoes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋子（shoe的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "shoeshine": {
+  "ph": "/'ʃu:ʃain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擦亮的皮鞋面, 擦皮鞋",
+    "def": "a shiny finish put on shoes with polish and buffing"
+   }
+  ],
+  "forms": "現在分詞 shoeshining｜複數 shoeshines"
+ },
+ "shoestring": {
+  "ph": "/'ʃu:striŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋帶, 小額資本",
+    "def": "a small amount of money"
+   }
+  ],
+  "forms": "複數 shoestrings"
+ },
+ "shofar": {
+  "ph": "/'ʃәufɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羊角號",
+    "def": "an ancient musical horn made from the horn of a ram; used in ancient times by the Israelites to sound a warning or a summons; used in synagogues today on solemn"
+   }
+  ]
+ },
+ "shogun": {
+  "ph": "/'ʃәu,^u:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<日>幕府時代的將軍",
+    "def": "a hereditary military dictator of Japan; the shoguns ruled Japan until the revolution of 1867-68"
+   }
+  ],
+  "forms": "複數 shoguns"
+ },
+ "shoji": {
+  "ph": "/'ʃәudʒi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "障子（本房屋用的紙糊木框, 等於shoji screen）",
+    "def": "a translucent screen made of a wooden frame covered with rice paper"
+   }
+  ],
+  "forms": "複數 shoji"
+ },
+ "shona": {
+  "ph": "/'ʃәunɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(pl.Shona, Shonas)修納人(羅得西亞與鄰近的莫三比克的農民)",
+    "def": ""
+   }
+  ]
+ },
+ "shoo": {
+  "ph": "/ʃu:/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "噓(趕鳥時所發聲音)",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "發出噓聲趕",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shooing｜複數 shoos｜過去式 shooed｜第三人稱單數 shoos｜過去分詞 shooed"
+ },
+ "shoot": {
+  "ph": "/ʃu:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "射擊, 狩獵, 芽, 射傷, 發射, 發芽, 急流, 推力, 攝影, 急送, 滑運道, 浪費",
+    "def": "a new branch"
+   },
+   {
+    "pos": "vt.",
+    "zh": "射擊, 射中, 損毀, 拍攝, 噴出, 投射, 揮出, 飛速行進, 揮霍, 給...注射",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "射出, 射擊, 發出, 拍電影, 射門, 發芽",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shot｜過去式 shot｜現在分詞 shooting｜複數 shoots｜第三人稱單數 shoots"
+ },
+ "shoot-out": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "槍戰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shoot-outs"
+ },
+ "shootaround": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "投籃訓練",
+    "def": ""
+   }
+  ]
+ },
+ "shooter": {
+  "ph": "/'ʃu:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "射手, 狩獵者, 手槍",
+    "def": "a gambler who throws dice in the game of craps"
+   }
+  ],
+  "forms": "複數 shooters"
+ },
+ "shooting": {
+  "ph": "/'ʃu:tiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發射, 獵場, 射擊",
+    "def": "the act of firing a projectile"
+   }
+  ],
+  "forms": "現在分詞 shooting｜複數 shootings"
+ },
+ "shootout": {
+  "ph": "/'ʃʊtɚʊt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "交火; 點球大戰; 槍戰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shootouts"
+ },
+ "shop": {
+  "ph": "/ʃɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "商店, 工廠, 車間",
+    "def": "a mercantile establishment for the retail sale of goods or services"
+   },
+   {
+    "pos": "vi.",
+    "zh": "購物, 到處尋找",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "選購",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shops｜現在分詞 shopping｜過去式 shopped｜第三人稱單數 shops｜過去分詞 shopped"
+ },
+ "shop assistant": {
+  "ph": "/ʃɔp əˈsistənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "店員",
+    "def": ""
+   }
+  ]
+ },
+ "shopaholic": {
+  "ph": "/ˌʃɒpəˈhɒlɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "購物狂",
+    "def": "a compulsive shopper"
+   }
+  ],
+  "forms": "複數 shopaholics"
+ },
+ "shopfront": {
+  "ph": "/'ʃɔpfrʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "店面, 店堂",
+    "def": "the front side of a store facing the street; usually contains display windows"
+   }
+  ],
+  "forms": "複數 shopfronts"
+ },
+ "shopgirl": {
+  "ph": "/'ʃɒpgә:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女店員",
+    "def": "A girl employed in a shop."
+   }
+  ],
+  "forms": "複數 shopgirls"
+ },
+ "shopkeeper": {
+  "ph": "/'ʃɒp.ki:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "零售商, 店主, 老闆",
+    "def": "a merchant who owns or manages a shop"
+   }
+  ],
+  "forms": "複數 shopkeepers"
+ },
+ "shoplift": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "vt. 入店偷竊商品",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shoplifting｜過去分詞 shoplifted｜過去式 shoplifted｜第三人稱單數 shoplifts"
+ },
+ "shoplifter": {
+  "ph": "/'ʃɒp.liftә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "商店扒手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shoplifters"
+ },
+ "shoplifting": {
+  "ph": "/'ʃɒp.liftiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "入店行竊",
+    "def": "the act of stealing goods that are on display in a store"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 冒充顧客進入商店行竊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shoplifting"
+ },
+ "shoppe": {
+  "ph": "/ʃɔp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "商店,專櫃",
+    "def": ""
+   }
+  ]
+ },
+ "shopper": {
+  "ph": "/'ʃɒpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "購物者",
+    "def": "someone who visits stores in search of articles to buy"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 顧客, 購物的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shoppers"
+ },
+ "shopping": {
+  "ph": "/'ʃɒpiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "買東西, 購物",
+    "def": "searching for or buying goods or services"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 購物, 買東西",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shopping"
+ },
+ "shopping centre": {
+  "ph": "/ˈʃɔpɪŋ ˈsentə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "商業區; 購物中心",
+    "def": ""
+   }
+  ]
+ },
+ "shopping list": {
+  "ph": "/ˈʃɔpɪŋ list/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "購物清單",
+    "def": ""
+   }
+  ]
+ },
+ "shopping mall": {
+  "ph": "/ˈʃɔpɪŋ mɔ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大型購物中心",
+    "def": ""
+   }
+  ]
+ },
+ "shopworker": {
+  "ph": "/'ʃɔp,w\\\\\\\\:kә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "店員, 工人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shopworkers"
+ },
+ "shopworn": {
+  "ph": "/'ʃɒpwә:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陳舊的",
+    "def": ""
+   }
+  ]
+ },
+ "shore": {
+  "ph": "/ʃɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海岸, 海濱, 斜撐柱",
+    "def": "the land along the edge of a body of water"
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...送上岸, 支撐, 支援",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shores｜現在分詞 shoring｜過去分詞 shored｜過去式 shored｜第三人稱單數 shores"
+ },
+ "shorebird": {
+  "ph": "/'ʃɔ:bɜ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[鳥類]岸禽類鳥；沙禽, 水鳥（尤指鴴目類鳥）",
+    "def": "any of numerous wading birds that frequent mostly seashores and estuaries"
+   }
+  ]
+ },
+ "shoreditch": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "肖迪奇（地名, 英國倫敦的一個地區）",
+    "def": ""
+   }
+  ]
+ },
+ "shorefront": {
+  "ph": "/'ʃɔ:frʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(海邊、河邊、湖邊等的)沿岸陸地",
+    "def": ""
+   }
+  ]
+ },
+ "shoreham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "肖勒姆",
+    "def": ""
+   }
+  ]
+ },
+ "shoreline": {
+  "ph": "/'ʃɒ:lain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海岸線",
+    "def": "a boundary line between land and water"
+   }
+  ],
+  "forms": "複數 shorelines"
+ },
+ "shoreward": {
+  "ph": "/'ʃɒ:wәd/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向岸, 朝岸, 朝向陸地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "向岸的",
+    "def": ""
+   }
+  ]
+ },
+ "shorewards": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向海岸",
+    "def": ""
+   }
+  ]
+ },
+ "shorn": {
+  "ph": "/ʃɔ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "shear的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shorned"
+ },
+ "short": {
+  "ph": "/ʃɒ:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "短的, 近的, 矮的, 短期的, 簡短的, 少量的",
+    "def": "primarily temporal sense; indicating or being or seeming to be limited in duration"
+   },
+   {
+    "pos": "adv.",
+    "zh": "簡短地, 突然",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "扼要, 短片, 缺乏",
+    "def": "the location on a baseball field where the shortstop is stationed"
+   },
+   {
+    "pos": "vt.",
+    "zh": "故意少給, 使短路",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 shorter｜最高級 shortest｜現在分詞 shorting｜過去式 shorted｜第三人稱單數 shorts｜過去分詞 shorted"
+ },
+ "short cut": {
+  "ph": "/ʃɔ:t kʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "近路, 捷徑",
+    "def": ""
+   }
+  ]
+ },
+ "short story": {
+  "ph": "/ʃɔ:t ˈstɔ:ri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短篇小說",
+    "def": ""
+   }
+  ]
+ },
+ "short-lived": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "短命的, 短暫的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 短暫的",
+    "def": ""
+   }
+  ]
+ },
+ "short-range": {
+  "ph": "/'ʃɔ:t'reindʒ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "短射程的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 短射程的",
+    "def": ""
+   }
+  ]
+ },
+ "short-sighted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(英)近視的, 眼光短淺的, 目光短淺的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 近視的",
+    "def": ""
+   }
+  ]
+ },
+ "shortage": {
+  "ph": "/'ʃɒ:tidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不足, 缺乏",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 缺額",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shortages"
+ },
+ "shortbread": {
+  "ph": "/'ʃɒ:tbred/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白脫甜酥餅",
+    "def": "very rich thick butter cookie"
+   }
+  ]
+ },
+ "shortcake": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(英)厚的奶油酥餅, (美)脆餅, 水果松糕, 鬆餅",
+    "def": "very short biscuit dough baked as individual biscuits or a round loaf; served with sweetened fruit and usually whipped cream"
+   }
+  ]
+ },
+ "shortcoming": {
+  "ph": "/'ʃɒ:t'kʌmiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "缺點, 短處",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shortcomings"
+ },
+ "shortcrust": {
+  "ph": "/ʃɔ:tk'rʌst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酥皮糕點",
+    "def": ""
+   }
+  ]
+ },
+ "shortcut": {
+  "ph": "/'ʃɒ:tkʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捷徑, 最短路線",
+    "def": "a route shorter than the usual one"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 快捷方式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shortcuts"
+ },
+ "shorten": {
+  "ph": "/'ʃɒ:tn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "弄短, 縮短, 減少",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "縮小, 變短",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shortened｜現在分詞 shortening｜第三人稱單數 shortens｜過去式 shortened"
+ },
+ "shortened": {
+  "ph": "/ˈʃɔ:tnd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "弄短, 縮短( shorten的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shortened｜過去式 shortened"
+ },
+ "shortening": {
+  "ph": "/'ʃɔ:tniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縮短, 使糕餅鬆脆的油",
+    "def": "fat such as butter or lard used in baked goods"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 起酥油",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shortening｜複數 shortenings"
+ },
+ "shortfall": {
+  "ph": "/'ʃɒ:tfɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不足, 不足量",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 缺少, 不足, 虧艙運費",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shortfalls"
+ },
+ "shortgrass": {
+  "ph": "/'ʃɔ:t^rɑ:s; -^ræs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矮草,短禾草",
+    "def": "any of various grasses that are short and can tolerate drought conditions; common on the dry upland plains just east of the Rocky Mountains"
+   }
+  ]
+ },
+ "shorthand": {
+  "ph": "/'ʃɒ:thænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "速記",
+    "def": "a method of writing rapidly"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 速記法, 速記, 記錄文字",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shorthanded"
+ },
+ "shorthorn": {
+  "ph": "/'ʃɒ:thɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短角牛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shorthorns｜第三人稱單數 shorthorns"
+ },
+ "shortish": {
+  "ph": "/'ʃɒ:tiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相當短的",
+    "def": ""
+   }
+  ]
+ },
+ "shortlist": {
+  "ph": "/'ʃɔ:tlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英>供最後挑選(或考慮)用的候選人名單",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shortlisted｜過去式 shortlisted｜複數 shortlists｜現在分詞 shortlisting｜第三人稱單數 shortlists"
+ },
+ "shortlisted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "篩選後的（候選人名單）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shortlisted"
+ },
+ "shortlived": {
+  "ph": "/'ʃɔ:t'livd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "短命的；短暫的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shortlived"
+ },
+ "shortly": {
+  "ph": "/'ʃɒ:tli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不久, 簡短, 唐突地",
+    "def": ""
+   }
+  ]
+ },
+ "shortness": {
+  "ph": "/'ʃɒ:tnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短小, 簡略, 不足",
+    "def": "the property of being of short spatial extent"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 脆性; 藍脆性; 冷脆性",
+    "def": ""
+   }
+  ]
+ },
+ "shorts": {
+  "ph": "/ʃɔ:ts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短褲, (美)男人的短襯褲",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 空頭戶, 空頭, 短期債券",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shorts"
+ },
+ "shortsighted": {
+  "ph": "/'ʃɒ:t'saitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "近視的, 目光短淺的, 缺乏想像力的",
+    "def": ""
+   }
+  ]
+ },
+ "shortsightedness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 近視",
+    "def": ""
+   }
+  ]
+ },
+ "shortstop": {
+  "ph": "/'ʃɒ:tstɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "游擊手, 停顯液",
+    "def": "(baseball) the person who plays the shortstop position"
+   }
+  ]
+ },
+ "shortwave": {
+  "ph": "/'ʃɒ:tweiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短波",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用短波發射",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shortwaves"
+ },
+ "shorty": {
+  "ph": "/'ʃɒ:ti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矮個子, 特別短的東西",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shorties"
+ },
+ "shostakovich": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "肖斯塔科維奇（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "shot": {
+  "ph": "/ʃɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發射, 炮彈, 射擊, 射手, 投籃, 射門, 子彈, 射程, 拍攝, 注射",
+    "def": "a solid missile discharged from a firearm"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝彈, 使成顆粒狀",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "雜色的, 交織著的, 滲透的, 點焊的, 破舊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "shoot的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shots"
+ },
+ "shotgun": {
+  "ph": "/'ʃɒtgʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "散彈獵槍, 媒人",
+    "def": "firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges"
+   },
+   {
+    "pos": "v.",
+    "zh": "用獵槍射擊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shotguns"
+ },
+ "shotshell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[體]散彈槍彈",
+    "def": ""
+   }
+  ]
+ },
+ "should": {
+  "ph": "/ʃud/",
+  "senses": [
+   {
+    "pos": "aux.",
+    "zh": "應該, 將要",
+    "def": ""
+   }
+  ]
+ },
+ "shoulder": {
+  "ph": "/'ʃәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肩, 肩膀, 衣肩",
+    "def": "the part of the body between the neck and the upper arm"
+   },
+   {
+    "pos": "vt.",
+    "zh": "肩負, 負擔, 擔任",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "用肩推擠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shoulders｜過去式 shouldered｜現在分詞 shouldering｜過去分詞 shouldered｜第三人稱單數 shoulders"
+ },
+ "shouldered": {
+  "ph": "/'ʃәuldәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "帶凸肩的；肩膀…的（用以構成複合詞）",
+    "def": "having shoulders or shoulders as specified; usually used as a combining form"
+   }
+  ],
+  "forms": "過去式 shouldered"
+ },
+ "shouldn't": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "不該, 不可, 必須不, 不應該, 不應當, 可能不, 可以不, 竟然不, 竟然會不",
+    "def": ""
+   }
+  ]
+ },
+ "shout": {
+  "ph": "/ʃaut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呼喊, 喊聲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "呼喊, 喊叫, 嚷",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "高喊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shouted｜現在分詞 shouting｜複數 shouts｜第三人稱單數 shouts｜過去分詞 shouted"
+ },
+ "shouted": {
+  "ph": "/'ʃaʊtɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "呼, 喊, 叫( shout的過去式和過去分詞 ); 大聲講",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shouted｜過去式 shouted"
+ },
+ "shouter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高呼者, 喊叫者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shouters"
+ },
+ "shouting": {
+  "ph": "/'ʃajtiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呼喊, 喊話",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shouting"
+ },
+ "shove": {
+  "ph": "/ʃʌv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "推, 擠",
+    "def": "the act of shoving (giving a push to someone or something)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "推擠, 猛推, 強使",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "推",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shoved｜現在分詞 shoving｜過去分詞 shoved｜第三人稱單數 shoves｜複數 shoves"
+ },
+ "shovel": {
+  "ph": "/'ʃʌvl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鏟, 鐵鏟",
+    "def": "a hand tool for lifting loose material; consists of a curved container or scoop and a handle"
+   },
+   {
+    "pos": "v.",
+    "zh": "鏟",
+    "def": "dig with or as if with a shovel"
+   }
+  ],
+  "forms": "複數 shovels｜現在分詞 shovelling｜過去式 shovelled｜過去分詞 shovelled｜第三人稱單數 shovels"
+ },
+ "shoveled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "鏟, 剷出（shovel的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "shoveler": {
+  "ph": "/'ʃʌvəlә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用鏟者, 挖土機駕駛員",
+    "def": "a worker who shovels"
+   }
+  ],
+  "forms": "複數 shovelers"
+ },
+ "shovelful": {
+  "ph": "/'ʃʌvəlfjl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滿鏟, 一鏟的量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shovelfuls"
+ },
+ "shoving": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "推開, 擠漿（shove的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shoving"
+ },
+ "show": {
+  "ph": "/ʃәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顯示, 表現, 展覽, 賣弄, 炫耀, 外觀, 演出, 洋相",
+    "def": "the act of publicly exhibiting or entertaining"
+   },
+   {
+    "pos": "vt.",
+    "zh": "表示, 顯示, 展現, 陳列, 演出, 表明, 指出, 帶領",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "露面, 顯現, 演出",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 顯示",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shown｜過去式 showed｜第三人稱單數 shows｜現在分詞 showing｜複數 shows"
+ },
+ "show business": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "娛樂業",
+    "def": ""
+   }
+  ]
+ },
+ "show jumping": {
+  "ph": "/ʃəu ˈdʒʌmpiŋ/",
+  "senses": [
+   {
+    "pos": "un.",
+    "zh": "超越障礙比賽",
+    "def": ""
+   }
+  ]
+ },
+ "show-off": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賣弄, 炫耀, 愛炫耀的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 show-offs"
+ },
+ "showbiz": {
+  "ph": "/.ʃәubiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "娛樂界；娛樂性行業",
+    "def": ""
+   }
+  ]
+ },
+ "showboat": {
+  "ph": "/'ʃәubәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演戲船",
+    "def": "a river steamboat on which theatrical performances could be given (especially on the Mississippi River)"
+   }
+  ]
+ },
+ "showboating": {
+  "ph": "/'ʃəʊbəʊt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演戲用大船, 水上巡迴舞臺",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": ", vi. [口語]炫耀, 賣弄：",
+    "def": ""
+   }
+  ]
+ },
+ "showbusiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "演藝業; 娛樂業",
+    "def": ""
+   }
+  ]
+ },
+ "showcase": {
+  "ph": "/'ʃәukeis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陳列櫥",
+    "def": "a setting in which something can be displayed to best effect"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 商品陳列所, 貨物陳列架",
+    "def": ""
+   }
+  ],
+  "forms": "複數 showcases｜現在分詞 showcasing｜過去分詞 showcased｜過去式 showcased"
+ },
+ "showdown": {
+  "ph": "/'ʃәudaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攤牌, 暴露, 緊要關頭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 showdowns"
+ },
+ "shower": {
+  "ph": "/'ʃauә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陣雨, 淋浴, 一陣, 展出者, 顯示者",
+    "def": "a plumbing fixture that sprays water over you"
+   },
+   {
+    "pos": "vi.",
+    "zh": "淋浴, 下陣雨",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "淋溼, 傾注",
+    "def": ""
+   }
+  ],
+  "forms": "複數 showers｜過去分詞 showered｜過去式 showered｜現在分詞 showering｜第三人稱單數 showers"
+ },
+ "showerhead": {
+  "ph": "/'ʃaʊəhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淋噴頭, 蓮蓬頭",
+    "def": "a perforated nozzle that showers water on a bather"
+   }
+  ],
+  "forms": "複數 showerheads"
+ },
+ "showering": {
+  "ph": "/ˈʃauərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "下陣雨( shower的現在分詞 ); 似陣雨般降落; 灑落; 紛紛降落",
+    "def": ""
+   }
+  ],
+  "forms": "複數 showerings｜現在分詞 showering"
+ },
+ "showery": {
+  "ph": "/'ʃauәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陣雨的",
+    "def": ""
+   }
+  ]
+ },
+ "showgirl": {
+  "ph": "/'ʃәj^\\\\\\\\:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣告女郎；歌舞女郎",
+    "def": ""
+   }
+  ],
+  "forms": "複數 showgirls"
+ },
+ "showground": {
+  "ph": "/'ʃәj^rajnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "展覽場地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 showgrounds"
+ },
+ "showier": {
+  "ph": "/ˈʃəʊi:ə/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "引人注目的( showy的比較級 ); 過分裝飾的, 太華麗的",
+    "def": ""
+   }
+  ]
+ },
+ "showiest": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "引人注目的( showy的最高階 ); 過分裝飾的, 太華麗的",
+    "def": ""
+   }
+  ]
+ },
+ "showing": {
+  "ph": "/'ʃәuiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顯示, 陳列, 展覽, 成績, 表現, 表演, 誇耀, 陳述, 敘述, 外表, 跡象",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 showing｜複數 showings"
+ },
+ "showjumping": {
+  "ph": "/ˈʃəʊdʒʌmpɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超越障礙馬術比賽",
+    "def": "riding horses in competitions over set courses to demonstrate skill in jumping over obstacles"
+   }
+  ],
+  "forms": "現在分詞 showjumping"
+ },
+ "showman": {
+  "ph": "/'ʃәumәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演出主持人, 玩雜耍的人",
+    "def": "a person skilled at making effective presentations"
+   }
+  ],
+  "forms": "複數 showmen"
+ },
+ "showmanship": {
+  "ph": "/'ʃәjmәnʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安排演出的竅門, 吸引觀眾的竅門, 經營術, 招徠生意的手腕",
+    "def": "the ability to present something (especially theatrical shows) in an attractive manner"
+   }
+  ]
+ },
+ "showpiece": {
+  "ph": "/'ʃәupi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "展出品, 樣品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 showpieces"
+ },
+ "showplace": {
+  "ph": "/'ʃәupleis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "名勝地, 劇院",
+    "def": "a place that is frequently exhibited and visited for its historical interest or natural beauty"
+   }
+  ]
+ },
+ "showroom": {
+  "ph": "/'ʃәuru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陳列室",
+    "def": "an area where merchandise (such as cars) can be displayed"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 樣品間, 陳列室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 showrooms"
+ },
+ "showstopper": {
+  "ph": "/'ʃәu.stɒpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被熱烈掌聲打斷的表演",
+    "def": ""
+   }
+  ]
+ },
+ "showtime": {
+  "ph": "/'ʃәutaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好戲上演；（電視等的）節目播放時間",
+    "def": ""
+   }
+  ]
+ },
+ "showy": {
+  "ph": "/'ʃәui/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "豔麗的, 炫耀的",
+    "def": ""
+   }
+  ]
+ },
+ "shrapnel": {
+  "ph": "/'ʃræpnәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "零錢, 榴霰彈, 彈片",
+    "def": "shell containing lead pellets that explodes in flight"
+   }
+  ]
+ },
+ "shred": {
+  "ph": "/ʃred/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碎布條, 細片, 少量",
+    "def": "a tiny or scarcely detectable amount"
+   },
+   {
+    "pos": "v.",
+    "zh": "撕碎",
+    "def": "tear into shreds"
+   }
+  ],
+  "forms": "複數 shreds｜現在分詞 shredding｜過去分詞 shredded｜過去式 shredded｜第三人稱單數 shreds"
+ },
+ "shredded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "shred的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shredded｜過去式 shredded"
+ },
+ "shredder": {
+  "ph": "/'ʃredә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "切菜器, 碎紙機",
+    "def": "a device that shreds documents (usually in order to prevent the wrong people from reading them)"
+   }
+  ],
+  "forms": "複數 shredders"
+ },
+ "shredding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "撕裂（shred的ing形式）",
+    "def": ""
+   }
+  ]
+ },
+ "shrew": {
+  "ph": "/ʃru:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潑婦",
+    "def": "a scolding nagging bad-tempered woman"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 捍婦, 潑婦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shrews"
+ },
+ "shrewd": {
+  "ph": "/ʃru:d/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精明的, 銳利的, 劇烈的, 機靈的, 厲害的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 shrewder｜最高級 shrewdest"
+ },
+ "shrewdly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "精明幹練地；機靈地；刁鑽地",
+    "def": ""
+   }
+  ]
+ },
+ "shrewdness": {
+  "ph": "/ʃru:dnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "機靈",
+    "def": ""
+   }
+  ]
+ },
+ "shrewish": {
+  "ph": "/'ʃru:iʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "潑婦一樣的, 脾氣暴躁的",
+    "def": ""
+   }
+  ]
+ },
+ "shrewsbury": {
+  "ph": "/'ʃrәjzbəri, 'ʃru:z-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "什魯斯伯裡[英國英格蘭西部城市](即薩洛普)",
+    "def": ""
+   }
+  ]
+ },
+ "shriek": {
+  "ph": "/ʃri:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尖銳的響聲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "尖叫, 發尖聲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "尖聲發出",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shrieked｜現在分詞 shrieking｜複數 shrieks｜第三人稱單數 shrieks｜過去分詞 shrieked"
+ },
+ "shrieking": {
+  "ph": "/ʃri:kɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "尖叫( shriek的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shrieking｜複數 shriekings"
+ },
+ "shrift": {
+  "ph": "/ʃrift/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懺悔, 臨終懺悔, 招認, 承認",
+    "def": "the act of being shriven"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 懺悔, 赦免, 臨終懺悔",
+    "def": ""
+   }
+  ]
+ },
+ "shrike": {
+  "ph": "/ʃraik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯勞鳥",
+    "def": "any of numerous Old World birds having a strong hooked bill that feed on smaller animals"
+   }
+  ]
+ },
+ "shrill": {
+  "ph": "/ʃril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尖聲",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "尖銳的, 刺耳的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "尖聲說出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發出刺耳聲",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 shriller｜第三人稱單數 shrills｜最高級 shrillest｜現在分詞 shrilling｜過去式 shrilled｜過去分詞 shrilled"
+ },
+ "shrillness": {
+  "ph": "/ʃrɪlnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尖銳刺耳",
+    "def": "the quality of being sharp or harsh to the senses"
+   }
+  ]
+ },
+ "shrilly": {
+  "ph": "/'ʃrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "尖聲地, 刺耳地",
+    "def": ""
+   }
+  ]
+ },
+ "shrimp": {
+  "ph": "/ʃrimp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蝦, 小蝦, 矮子",
+    "def": "small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are edible"
+   },
+   {
+    "pos": "vi.",
+    "zh": "捕小蝦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shrimps｜現在分詞 shrimping｜過去式 shrimped｜第三人稱單數 shrimps｜過去分詞 shrimped"
+ },
+ "shrimper": {
+  "ph": "/'ʃrɪmpə(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "捕蝦者[器]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shrimpers"
+ },
+ "shrimping": {
+  "ph": "/ˈʃrɪmpɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "捕蝦",
+    "def": ""
+   }
+  ]
+ },
+ "shrine": {
+  "ph": "/ʃrain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖地, 神龕, 廟",
+    "def": "a place of worship hallowed by association with some sacred thing or person"
+   },
+   {
+    "pos": "vt.",
+    "zh": "將...置於神龕內",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shrines｜現在分詞 shrining｜過去式 shrined｜第三人稱單數 shrines｜過去分詞 shrined"
+ },
+ "shrink": {
+  "ph": "/ʃriŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "收縮, 萎縮, 迴避",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "收縮, 退縮, 萎縮, 縮小, 迴避",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使收縮, 使縮小",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shrank｜過去分詞 shrunk｜現在分詞 shrinking｜第三人稱單數 shrinks｜複數 shrinks"
+ },
+ "shrinkage": {
+  "ph": "/'ʃriŋkidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "收縮, 收縮量, 減低",
+    "def": "the amount by which something shrinks"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 起皺; 收縮; 收縮量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shrinkages"
+ },
+ "shrinking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 皺縮",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shrinking"
+ },
+ "shrivel": {
+  "ph": "/'ʃrivl/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)起皺紋, (使)枯萎, (使)束手無策",
+    "def": "wither, as with a loss of moisture"
+   }
+  ],
+  "forms": "過去式 shrivelled｜過去分詞 shrivelled｜現在分詞 shrivelling｜第三人稱單數 shrivels｜複數 shrivels"
+ },
+ "shriveled": {
+  "ph": "/'ʃrɪvəld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（因熱力, 嚴寒、乾燥、年老等而）枯萎, 皺縮( shrivel的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "shrivelled": {
+  "ph": "/ˈʃrɪvəld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（因熱力, 嚴寒、乾燥、年老等而）枯萎, 皺縮( shrivel的過去式和過去分詞 ); 癟; 乾巴; 乾癟",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shrivelled｜過去分詞 shrivelled"
+ },
+ "shriver": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shriver)人名；(英)施賴弗",
+    "def": "One who shrives; a confessor."
+   }
+  ]
+ },
+ "shropshire": {
+  "ph": "/'ʃrɔpʃiә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(黑頭黑腳白毛無角)肉用羊, 薩羅普羊",
+    "def": ""
+   }
+  ]
+ },
+ "shroud": {
+  "ph": "/ʃraud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屍衣, 壽衣, 覆蓋物, (船的)橫桅索",
+    "def": "a line that suspends the harness from the canopy of a parachute"
+   },
+   {
+    "pos": "vt.",
+    "zh": "包以屍衣, 遮蔽, 隱藏, 覆蓋",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shrouded｜複數 shrouds｜現在分詞 shrouding｜過去式 shrouded｜第三人稱單數 shrouds"
+ },
+ "shrouded": {
+  "ph": "/ʃraudid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "隱瞞( shroud的過去式和過去分詞 ); 保密",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shrouded"
+ },
+ "shrove": {
+  "ph": "/ʃrәuv/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "shrive的過去式",
+    "def": ""
+   }
+  ]
+ },
+ "shrub": {
+  "ph": "/ʃrʌb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矮樹, 灌木, 果汁甜酒",
+    "def": "a low woody perennial plant usually having several major stems"
+   }
+  ],
+  "forms": "複數 shrubs"
+ },
+ "shrubbery": {
+  "ph": "/'ʃrʌbәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灌木, 灌木林",
+    "def": "an area where a number of shrubs are planted"
+   }
+  ],
+  "forms": "複數 shrubberies"
+ },
+ "shrubby": {
+  "ph": "/'ʃrʌbi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "灌木的, 灌木一般的, 灌木繁茂的",
+    "def": "of or relating to or resembling a shrub"
+   }
+  ]
+ },
+ "shrug": {
+  "ph": "/ʃrʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聳肩",
+    "def": "a gesture involving the shoulders"
+   },
+   {
+    "pos": "v.",
+    "zh": "聳肩",
+    "def": "raise one's shoulders to indicate indifference or resignation"
+   }
+  ],
+  "forms": "過去式 shrugged｜現在分詞 shrugging｜第三人稱單數 shrugs｜過去分詞 shrugged｜複數 shrugs"
+ },
+ "shrunken": {
+  "ph": "/'ʃrʌnkәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "縮小的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "shrink的過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "shtetl": {
+  "ph": "/'ʃtetl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<意第緒> n.(尤指第二次世界大戰前東歐的)猶太人小村(或小鎮)",
+    "def": ""
+   }
+  ]
+ },
+ "shtick": {
+  "ph": "/ʃtik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑稽場面, 特色",
+    "def": ""
+   }
+  ]
+ },
+ "shuck": {
+  "ph": "/ʃʌk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "殼, 外皮, 牡蠣殼",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "剝去, 脫去",
+    "def": "remove from the shell"
+   }
+  ],
+  "forms": "過去分詞 shucked｜現在分詞 shucking｜過去式 shucked｜第三人稱單數 shucks"
+ },
+ "shucked": {
+  "ph": "/ʃʌkt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "剝殼, 剝外皮, 脫去( shuck的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "shucks": {
+  "ph": "/ʃʌks/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "呸(表示不滿或失望), 那有這回事",
+    "def": ""
+   }
+  ]
+ },
+ "shudder": {
+  "ph": "/'ʃʌdә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戰慄, 發抖",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "戰慄, 發抖",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shuddered｜現在分詞 shuddering｜複數 shudders｜第三人稱單數 shudders｜過去分詞 shuddered"
+ },
+ "shuddering": {
+  "ph": "/'ʃʌdərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "戰慄( shudder的現在分詞 ); 發抖; （機器、車輛等）突然震動; 顫動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shudderings｜現在分詞 shuddering"
+ },
+ "shuffle": {
+  "ph": "/'ʃʌfl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拖著腳走, 曳步, 混亂, 矇混, 洗紙牌",
+    "def": "the act of mixing cards haphazardly"
+   },
+   {
+    "pos": "v.",
+    "zh": "拖曳, 馬虎地做, 笨手笨腳地穿(脫)衣, 推諉, 洗牌",
+    "def": "walk by dragging one's feet"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 混洗",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shuffled｜現在分詞 shuffling｜過去分詞 shuffled｜第三人稱單數 shuffles｜複數 shuffles"
+ },
+ "shuffleboard": {
+  "ph": "/'ʃʌflbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "推圓盤遊戲",
+    "def": "a game in which players use long sticks to shove wooden disks onto the scoring area marked on a smooth surface"
+   }
+  ]
+ },
+ "shuffled": {
+  "ph": "/ˈʃʌfəld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "洗（紙牌）( shuffle的過去式和過去分詞 ); 拖著腳步走; 粗心地做; 擺脫塵世的煩惱",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shuffled｜過去式 shuffled"
+ },
+ "shuffling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 支唔的, 含混的, 可疑的:躲躲閃閃的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shuffling｜複數 shufflings"
+ },
+ "shul": {
+  "ph": "/ʃu:l, ʃjl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<意第緒> n.= synagogue",
+    "def": ""
+   }
+  ]
+ },
+ "shulman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shulman)人名；(英、俄)舒爾曼",
+    "def": ""
+   }
+  ]
+ },
+ "shultz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shultz)人名；(英)舒爾茨",
+    "def": ""
+   }
+  ]
+ },
+ "shun": {
+  "ph": "/ʃʌn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "避開, 規避, 避免",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shunned｜過去式 shunned｜現在分詞 shunning｜第三人稱單數 shuns"
+ },
+ "shunned": {
+  "ph": "/ʃʌnd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "避開, 迴避, 避免( shun的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shunned｜過去式 shunned"
+ },
+ "shunt": {
+  "ph": "/ʃʌnt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使轉軌, 使分流, 迴避討論, 推延",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "轉向一邊, 轉軌, 往返",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "轉軌, 分流",
+    "def": "a passage by which a bodily fluid (especially blood) is diverted from one channel to another"
+   }
+  ],
+  "forms": "過去分詞 shunted｜現在分詞 shunting｜過去式 shunted｜複數 shunts｜第三人稱單數 shunts"
+ },
+ "shunter": {
+  "ph": "/'ʃʌntә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扳道員, 能幹的組織者",
+    "def": "a small locomotive used to move cars around but not to make trips"
+   }
+  ],
+  "forms": "複數 shunters"
+ },
+ "shunting": {
+  "ph": "/'ʃʌntiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電]分流",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shunting｜複數 shuntings"
+ },
+ "shush": {
+  "ph": "/ʃʌʃ/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "噓",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "噓聲",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shushed｜現在分詞 shushing｜過去分詞 shushed｜複數 shushes｜第三人稱單數 shushes"
+ },
+ "shut": {
+  "ph": "/ʃʌʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關閉",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "關上, 閉起, 幽禁, 合攏, 軋住",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "關上, 停止營業",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 shut｜過去式 shut｜現在分詞 shutting｜第三人稱單數 shuts"
+ },
+ "shutdown": {
+  "ph": "/'ʃʌtdaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關門, 停工, 停機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 停工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shutdowns"
+ },
+ "shute": {
+  "ph": "/ʃu:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經線；緯紗；斜道",
+    "def": "English writer who settled in Norway after World War II (1899-1960)"
+   }
+  ],
+  "forms": "複數 shutes"
+ },
+ "shutoff": {
+  "ph": "/'ʃʌtɒ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關閉器(如閥、開關), 遮斷, 停止",
+    "def": ""
+   }
+  ]
+ },
+ "shutout": {
+  "ph": "/'ʃʌtaut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關廠, 停業, 被關在外面的人, 不讓對方得分",
+    "def": "a defeat in a game where one side fails to score"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 退關, 閉廠, 停業",
+    "def": ""
+   }
+  ]
+ },
+ "shutt": {
+  "ph": "/ʃʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<方>[魚]茴魚(亦作 shut)",
+    "def": ""
+   }
+  ]
+ },
+ "shutter": {
+  "ph": "/'ʃʌtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "百葉窗, 關閉物, 照相機快門, 關閉者",
+    "def": "a mechanical device on a camera that opens and closes to control the time of a photographic exposure"
+   },
+   {
+    "pos": "vt.",
+    "zh": "為...裝百葉窗, 以百葉窗遮閉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shutters｜現在分詞 shuttering｜過去式 shuttered｜第三人稱單數 shutters｜過去分詞 shuttered"
+ },
+ "shutterbug": {
+  "ph": "/'ʃʌtәbʌ^/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攝影愛好者, 攝影迷",
+    "def": "a photography enthusiast"
+   }
+  ]
+ },
+ "shuttered": {
+  "ph": "/ˈʃʌtəd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "關上百葉窗的; 裝有百葉窗的",
+    "def": "provided with shutters or shutters as specified; often used in combination"
+   }
+  ]
+ },
+ "shuttering": {
+  "ph": "/'ʃʌtәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "模板[殼]",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 shuttering"
+ },
+ "shuttle": {
+  "ph": "/'ʃʌtl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穿梭, 梭子, 往返移動之物",
+    "def": "public transport that consists of a bus or train or airplane that plies back and forth between two points"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)穿梭移動, 往返運送",
+    "def": "travel back and forth between two points"
+   }
+  ],
+  "forms": "複數 shuttles｜現在分詞 shuttling｜過去式 shuttled｜過去分詞 shuttled｜第三人稱單數 shuttles"
+ },
+ "shuttlecock": {
+  "ph": "/'ʃʌtlkɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羽毛球, 一來一回的事物(如爭論)",
+    "def": "badminton equipment consisting of a ball of cork or rubber with a crown of feathers"
+   },
+   {
+    "pos": "vt.",
+    "zh": "往返遞送",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "往返移動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shuttlecocks｜過去分詞 shuttlecocked｜現在分詞 shuttlecocking｜過去式 shuttlecocked｜第三人稱單數 shuttlecocks"
+ },
+ "shuttleworth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Shuttleworth)人名；(英)沙特爾沃思",
+    "def": ""
+   }
+  ]
+ },
+ "shy": {
+  "ph": "/ʃai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驚跳, 驚避",
+    "def": "a quick throw"
+   },
+   {
+    "pos": "adj.",
+    "zh": "膽怯的, 畏縮的, 遲疑的, 羞怯的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "驚退, 亂投, 亂擲, 厭惡, 避開",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "亂投, 亂擲",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 shied｜過去分詞 shied｜現在分詞 shying｜第三人稱單數 shies｜比較級 shyer｜最高級 shyest"
+ },
+ "shylock": {
+  "ph": "/'ʃailɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(喻)敲詐勒索的放債者, 冷酷無情的商人, 冷酷無情的人, 夏洛克",
+    "def": "a merciless usurer in a play by Shakespeare"
+   }
+  ]
+ },
+ "shyly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "害羞地；羞怯地；膽怯地；小心地",
+    "def": ""
+   }
+  ]
+ },
+ "shyness": {
+  "ph": "/'ʃainis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羞怯, 膽怯",
+    "def": "a feeling of fear of embarrassment"
+   }
+  ]
+ },
+ "shyster": {
+  "ph": "/'ʃaistә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訟棍",
+    "def": "a person (especially a lawyer or politician) who uses unscrupulous or unethical methods"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 奸詐的律師, 訟棍, 不擇手段的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 shysters"
+ }
+}

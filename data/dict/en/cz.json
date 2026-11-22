@@ -1,0 +1,91 @@
+{
+ "czar": {
+  "ph": "/zɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙皇",
+    "def": "a male monarch or emperor (especially of Russia prior to 1917)"
+   }
+  ],
+  "forms": "複數 czars"
+ },
+ "czarina": {
+  "ph": "/zɑ:'ri:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙皇皇后, 女沙皇",
+    "def": "the wife or widow of a czar"
+   }
+  ]
+ },
+ "czarist": {
+  "ph": "/'zɑ:rist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙皇追隨者, 擁護獨裁政治者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "沙皇的",
+    "def": "of or relating to or characteristic of a czar"
+   }
+  ]
+ },
+ "czech": {
+  "ph": "/tʃek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捷克人, 捷克語",
+    "def": "a native of inhabitant of the Czech Republic"
+   },
+   {
+    "pos": "adj.",
+    "zh": "捷克的, 捷克語的, 捷克人的",
+    "def": "of or relating to Czechoslovakia or its people or their language"
+   }
+  ],
+  "forms": "複數 czechs｜過去式 czeched"
+ },
+ "czechoslovak": {
+  "ph": "/'tʃekәu'slәuvæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捷克斯洛伐克人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "捷克斯洛伐克的, 捷克斯洛伐克人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 czechoslovaks"
+ },
+ "czechoslovakia": {
+  "ph": "/.tʃekәuslәu'vækiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(前)捷克斯洛伐克",
+    "def": "a former republic in central Europe; divided into Czech Republic and Slovakia in 1993"
+   }
+  ]
+ },
+ "czechoslovakian": {
+  "ph": "/'tʃekәuslәu'vækiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "捷克斯洛伐克的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 czechoslovakians"
+ }
+}

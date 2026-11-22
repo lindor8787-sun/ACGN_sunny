@@ -1,0 +1,11 @@
+{
+ "built": "2026-11-22",
+ "en_entries": 59136,
+ "en_files": 580,
+ "ja_entries": 50758,
+ "ja_files": 64,
+ "licenses": {
+  "ECDICT": "MIT License — https://github.com/skywind3000/ECDICT",
+  "JMdict": "EDRDG License / CC BY-SA 4.0 — https://www.edrdg.org/edrdg/licence.html （經 scriptin/jmdict-simplified 轉換）"
+ }
+}

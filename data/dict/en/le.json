@@ -1,0 +1,4903 @@
+{
+ "le": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 小於或等於",
+    "def": ""
+   }
+  ]
+ },
+ "lea": {
+  "ph": "/li:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草地",
+    "def": "a unit of length of thread or yarn"
+   }
+  ]
+ },
+ "leach": {
+  "ph": "/li:tʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "過濾, 萃取",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "濾掉",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "過濾, 過濾器, 瀝出物",
+    "def": "the process of leaching"
+   }
+  ],
+  "forms": "現在分詞 leaching｜過去分詞 leached｜過去式 leached｜第三人稱單數 leaches"
+ },
+ "leachate": {
+  "ph": "/'li:tʃeit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 瀝濾液",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leachates"
+ },
+ "leaching": {
+  "ph": "/'li:tʃiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 浸提, 浸析",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 浸取; 浸提; 瀝濾; 瀝取; 液固萃取",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leaching"
+ },
+ "lead": {
+  "ph": "/li:d. led/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉛, 鉛條, 領導, 超前量, 領引, 榜樣, 主角, 導線",
+    "def": "an advantage held by a competitor in a race"
+   },
+   {
+    "pos": "vt.",
+    "zh": "引導, 帶領, 領導, 指揮, 致使, 加鉛於, 用鉛包",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "領導, 帶頭, 導致, 用測深錘測深, 被鉛覆蓋",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "帶頭的, 最重要的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 led｜過去分詞 led｜現在分詞 leading｜第三人稱單數 leads｜複數 leads"
+ },
+ "lead singer": {
+  "ph": "/li:d ˈsɪŋə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主唱, 領唱",
+    "def": ""
+   }
+  ]
+ },
+ "leaded": {
+  "ph": "/'ledid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "加鉛的",
+    "def": "treated or mixed with lead"
+   }
+  ]
+ },
+ "leaden": {
+  "ph": "/'ledn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鉛製的, 呆滯的, 鉛灰色的, 沉悶的",
+    "def": "made of lead"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 鉛的, 鉛包的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leadening"
+ },
+ "leadenhall": {
+  "ph": "/'lednhɔ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "倫敦肉類市場",
+    "def": ""
+   }
+  ]
+ },
+ "leader": {
+  "ph": "/'li:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領導者, 社論, 指揮, 領袖, 領唱者, 前導字元",
+    "def": "a person who rules or guides or inspires others"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 前導字元",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leaders"
+ },
+ "leaderboard": {
+  "ph": "/'li:dərbɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（尤指高爾夫錦標賽的）選手積分榜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leaderboards"
+ },
+ "leaderless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無領袖的, 無領導的",
+    "def": ""
+   }
+  ]
+ },
+ "leadership": {
+  "ph": "/'li:dәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領導能力, 領導階層",
+    "def": "the activity of leading"
+   }
+  ],
+  "forms": "複數 leaderships"
+ },
+ "leading": {
+  "ph": "/'li:diŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領導, 指揮, 神示, 鉛板",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "領導的, 主要的, 在前的",
+    "def": "going or proceeding or going in advance; showing the way"
+   }
+  ],
+  "forms": "現在分詞 leading"
+ },
+ "leading article": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "主要文章",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 吸引顧客的特別廉價商品",
+    "def": ""
+   }
+  ]
+ },
+ "leadoff": {
+  "ph": "/'li:dɒf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開始, 著手, 第一拳",
+    "def": ""
+   }
+  ]
+ },
+ "leaf": {
+  "ph": "/li:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葉, 樹葉, 花瓣, 頁",
+    "def": "the main organ of photosynthesis and transpiration in higher plants"
+   },
+   {
+    "pos": "vi.",
+    "zh": "生葉, 翻書頁",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "在...上長葉, 翻...的頁",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leaves｜現在分詞 leafing｜過去式 leafed｜第三人稱單數 leafs｜過去分詞 leafed"
+ },
+ "leafed": {
+  "ph": "/lift/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有葉的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 leafed｜過去式 leafed"
+ },
+ "leafhopper": {
+  "ph": "/'li:f,hɔpә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[昆]葉蟬",
+    "def": "small leaping insect that sucks the juices of plants"
+   }
+  ],
+  "forms": "複數 leafhoppers"
+ },
+ "leafless": {
+  "ph": "/'li:flis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無葉的",
+    "def": "having no leaves"
+   }
+  ]
+ },
+ "leaflet": {
+  "ph": "/'li:flit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小葉, 傳單",
+    "def": "part of a compound leaf"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 小葉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leaflets"
+ },
+ "leafy": {
+  "ph": "/'li:fi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "葉茂盛的, 多葉的, 葉狀的",
+    "def": "having or covered with leaves"
+   }
+  ],
+  "forms": "比較級 leafier"
+ },
+ "league": {
+  "ph": "/li:g/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同盟, 聯盟, 盟約",
+    "def": "an association of sports teams that organizes matches for its members"
+   },
+   {
+    "pos": "v.",
+    "zh": "組聯盟, (使)加盟",
+    "def": "unite to form a league"
+   }
+  ],
+  "forms": "複數 leagues｜現在分詞 leaguing｜過去式 leagued｜第三人稱單數 leagues｜過去分詞 leagued"
+ },
+ "leaguer": {
+  "ph": "/'li:gә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圍攻, 盟員",
+    "def": "The camp of a besieging army; a camp in general."
+   },
+   {
+    "pos": "vt.",
+    "zh": "圍攻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leaguers"
+ },
+ "leah": {
+  "ph": "/liә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利亞(<<聖經>>故事人物)",
+    "def": ""
+   }
+  ]
+ },
+ "leak": {
+  "ph": "/li:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漏洞, 漏處, 漏出, 洩漏",
+    "def": "an accidental hole that allows something (fluid or light etc.) to enter or escape"
+   },
+   {
+    "pos": "vi.",
+    "zh": "漏, 洩漏",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使滲漏",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 leaked｜複數 leaks｜現在分詞 leaking｜過去式 leaked｜第三人稱單數 leaks"
+ },
+ "leakage": {
+  "ph": "/'li:kidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漏, 漏出物, 洩漏",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 漏電; 漏水; 漏氣; 滲漏; 漏失量; 漏出量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leakages"
+ },
+ "leaked": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vbl.",
+    "zh": "漏的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 leaked｜過去式 leaked"
+ },
+ "leaker": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 漏水鑄件, 漏箱",
+    "def": ""
+   }
+  ]
+ },
+ "leakey": {
+  "ph": "/'li:ki:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "李基（姓氏）",
+    "def": "English paleontologist (son of Louis Leakey and Mary Leakey) who continued the work of his parents; he was appointed director of a wildlife preserve in Kenya bu"
+   }
+  ]
+ },
+ "leaking": {
+  "ph": "/'li:kiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 漏, 漏洩",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leaking｜複數 leakings"
+ },
+ "leaky": {
+  "ph": "/'li:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有漏洞的, 易洩漏秘密的, 愛哭的",
+    "def": "permitting the unwanted passage of fluids or gases"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 漏的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 leakiest"
+ },
+ "leal": {
+  "ph": "/li:l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "忠實的, 誠實的",
+    "def": ""
+   }
+  ]
+ },
+ "leamington": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leamington)人名；(英)利明頓",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "利明頓",
+    "def": ""
+   }
+  ]
+ },
+ "lean": {
+  "ph": "/li:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘦肉, 傾斜, 傾斜度",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "瘦的, 貧乏的, 歉收的",
+    "def": "lacking in mineral content or combustible material"
+   },
+   {
+    "pos": "vi.",
+    "zh": "倚靠, 傾斜, 依賴",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使傾斜",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 leaned｜現在分詞 leaning｜第三人稱單數 leans｜比較級 leaner｜過去分詞 leaned"
+ },
+ "leander": {
+  "ph": "/li: 'ændә( r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利安得（希臘傳說中海洛的情人）",
+    "def": "(Greek mythology) a youth beloved of Hero who drowned in a storm in the Hellespont on one of his nightly visits to see her"
+   }
+  ],
+  "forms": "第三人稱單數 leanders"
+ },
+ "leaning": {
+  "ph": "/'li:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾斜, 傾向, 愛好",
+    "def": "an inclination to do something"
+   }
+  ],
+  "forms": "複數 leanings｜現在分詞 leaning"
+ },
+ "leanne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "琳恩（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "leanness": {
+  "ph": "/'li:nnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貧瘠, 無脂肪, 貧弱",
+    "def": "the property of having little body fat"
+   }
+  ]
+ },
+ "leap": {
+  "ph": "/li:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跳躍, 劇增, 急變, 被越過之物",
+    "def": "a light, self-propelled movement upwards or forwards"
+   },
+   {
+    "pos": "vi.",
+    "zh": "跳躍, 突然經過",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "躍過, 使躍過",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 leapt｜現在分詞 leaping｜複數 leaps｜第三人稱單數 leaps｜過去分詞 leapt"
+ },
+ "leaper": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跳躍者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leapers"
+ },
+ "leapfrog": {
+  "ph": "/'li:pfrɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跳背遊戲, 競相提高",
+    "def": "advancing as if in the child's game, by leaping over obstacles or competitors"
+   },
+   {
+    "pos": "vi.",
+    "zh": "跳背, 交替前進",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "躍過",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leapfrogging｜過去式 leapfrogged｜第三人稱單數 leapfrogs｜複數 leapfrogs｜過去分詞 leapfrogged"
+ },
+ "leaping": {
+  "ph": "/'li:piŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "跳躍的, 跳躍而行的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leaping"
+ },
+ "lear": {
+  "ph": "/liә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "李爾",
+    "def": "British artist and writer of nonsense verse (1812-1888)"
+   }
+  ],
+  "forms": "現在分詞 learing"
+ },
+ "learn": {
+  "ph": "/lә:n/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "學習；認識到；得知",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 learned｜現在分詞 learning｜過去式 learned｜第三人稱單數 learns"
+ },
+ "learnable": {
+  "ph": "/'l\\\\\\\\:nәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可學會的, 可習得的",
+    "def": "Such as can be learned."
+   }
+  ]
+ },
+ "learned": {
+  "ph": "/'lә:nid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有學問的, 學術上的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "learn的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 learned｜過去分詞 learned"
+ },
+ "learner": {
+  "ph": "/'lә:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學習者, 初學者",
+    "def": "someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs"
+   }
+  ],
+  "forms": "複數 learners"
+ },
+ "learning": {
+  "ph": "/'lә:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學問, 學識, 學習",
+    "def": "the cognitive process of acquiring skill or knowledge"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 學習",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 learning"
+ },
+ "leary": {
+  "ph": "/'liәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "猜疑的（等於leery）",
+    "def": ""
+   }
+  ]
+ },
+ "lease": {
+  "ph": "/li:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "租約, 租期, 租",
+    "def": "property that is leased or rented out or let"
+   },
+   {
+    "pos": "vt.",
+    "zh": "出租, 租出, 租得",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leases｜過去分詞 leased｜現在分詞 leasing｜過去式 leased｜第三人稱單數 leases"
+ },
+ "leased": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 租用的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 leased｜過去分詞 leased"
+ },
+ "leasehold": {
+  "ph": "/'li:shәuld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "租賃的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "租賃權, 租賃",
+    "def": "land or property held under a lease"
+   }
+  ],
+  "forms": "複數 leaseholds｜現在分詞 leaseholding"
+ },
+ "leaseholder": {
+  "ph": "/'li:shәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "租賃人",
+    "def": "a tenant who holds a lease"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 租借人, 承租人, 租地人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leaseholders"
+ },
+ "leash": {
+  "ph": "/li:ʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(拴狗頸的)皮帶",
+    "def": "restraint consisting of a rope (or light chain) used to restrain an animal"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以皮帶束縛, 束縛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leashes｜過去式 leashed｜過去分詞 leashed｜現在分詞 leashing｜第三人稱單數 leashes"
+ },
+ "leashed": {
+  "ph": "/liːʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "皮帶；束縛",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "束縛；用皮帶綁住",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 leashed"
+ },
+ "leasing": {
+  "ph": "/'li:siŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說謊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leasing｜複數 leasings"
+ },
+ "least": {
+  "ph": "/li:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "最少, 最小, 最小限度",
+    "def": "something that is of no importance"
+   },
+   {
+    "pos": "adj.",
+    "zh": "最少的, 最小的",
+    "def": "the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree"
+   },
+   {
+    "pos": "adv.",
+    "zh": "最小, 最少",
+    "def": ""
+   }
+  ]
+ },
+ "leather": {
+  "ph": "/'leðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "皮革, 皮製品, 馬鐙的皮帶",
+    "def": "an animal skin made smooth and flexible by removing the hair and then tanning"
+   },
+   {
+    "pos": "vt.",
+    "zh": "覆以皮革, 鞭苔, 抽打",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "皮革的, 皮製的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leathers｜現在分詞 leathering｜過去式 leathered｜第三人稱單數 leathers｜過去分詞 leathered"
+ },
+ "leatherback": {
+  "ph": "/'leðәbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "稜皮龜",
+    "def": ""
+   }
+  ]
+ },
+ "leatherbound": {
+  "ph": "/leðər'baʊnd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "皮面精裝的",
+    "def": ""
+   }
+  ]
+ },
+ "leathered": {
+  "ph": "/'leðə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "皮革；皮革製品",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用皮革包蓋；抽打",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "皮的；皮革制的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Leather)人名；(英)萊瑟",
+    "def": ""
+   }
+  ]
+ },
+ "leatherette": {
+  "ph": "/,leðә'ret/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人造革",
+    "def": "fabric made to look like leather"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 人造革",
+    "def": ""
+   }
+  ]
+ },
+ "leatherhead": {
+  "ph": "/'leðәhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呆頭, 更夫",
+    "def": "The friar bird."
+   }
+  ]
+ },
+ "leathery": {
+  "ph": "/'leðәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "皮似的, 皮質的, 皮般吞堅韌的",
+    "def": ""
+   }
+  ]
+ },
+ "leave": {
+  "ph": "/li:v/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "許可, 告別, 請假, 休假",
+    "def": "the period of time during which you are absent from work or duty"
+   },
+   {
+    "pos": "vt.",
+    "zh": "離開, 剩下, 遺忘, 委託, 丟棄",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "出發, 離開, 生葉",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 left｜過去式 left｜現在分詞 leaving｜第三人稱單數 leaves｜複數 leaves"
+ },
+ "leave out": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "省去, 遺漏, 不考慮",
+    "def": ""
+   }
+  ]
+ },
+ "leaved": {
+  "ph": "/li:vd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有葉的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 leaved"
+ },
+ "leaven": {
+  "ph": "/'levn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酵母, 促使漸變的因素",
+    "def": "a substance used to produce fermentation in dough or a liquid"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使發酵, 漸變",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 leavened｜過去分詞 leavened｜現在分詞 leavening｜第三人稱單數 leavens"
+ },
+ "leavened": {
+  "ph": "/ˈlevənd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "加酵母的",
+    "def": "made light by aerating, as with yeast or baking powder; often used as a combining form"
+   },
+   {
+    "pos": "v.",
+    "zh": "使（麵糰）發酵( leaven的過去式和過去分詞 ); 在…中摻入改變的因素",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 leavened"
+ },
+ "leavening": {
+  "ph": "/'levniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發酵, 發酵劑, 引起漸變的因素, 影響, 氣味, 色彩",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 發酵, 使發酵",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leavening"
+ },
+ "leaver": {
+  "ph": "/'li:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "離開者（常指學校畢業生）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leavers"
+ },
+ "leaving": {
+  "ph": "/'li:viŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "離開；殘餘；渣滓",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leaving｜複數 leavings"
+ },
+ "leavis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leavis)人名；(英)利維斯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "利維斯",
+    "def": ""
+   }
+  ]
+ },
+ "lebanese": {
+  "ph": "/,lebә'ni:z/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "黎巴嫩的",
+    "def": "of or relating to or characteristic of Lebanon or its people"
+   }
+  ]
+ },
+ "lebanon": {
+  "ph": "/'lebәnәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黎巴嫩",
+    "def": "an Asian republic at east end of Mediterranean"
+   }
+  ]
+ },
+ "lebensraum": {
+  "ph": "/'leibәns,raum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<德> (納粹份子提出的)生存空間(指國土以外可控制的領土和屬地)",
+    "def": ""
+   }
+  ]
+ },
+ "lec": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "lunar equipment conveyor 月球裝備傳送器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lecs"
+ },
+ "lech": {
+  "ph": "/letʃ/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "好色",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "肉慾, 好色之徒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leching"
+ },
+ "lecher": {
+  "ph": "/'letʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好色之徒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lechers"
+ },
+ "lecherous": {
+  "ph": "/'letʃәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好色的, 引起淫慾的, 縱慾的, 淫蕩的",
+    "def": ""
+   }
+  ]
+ },
+ "lechery": {
+  "ph": "/'letʃәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好色",
+    "def": "unrestrained indulgence in sexual activity"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 淫蕩, 淫蕩行為",
+    "def": ""
+   }
+  ]
+ },
+ "lecithin": {
+  "ph": "/'lesiθin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卵磷脂",
+    "def": "a yellow phospholipid essential for the metabolism of fats; found in egg yolk and in many plant and animal cells; used commercially as an emulsifier"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 卵磷脂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lecithins"
+ },
+ "leclerc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leclerc)人名；(法)勒克萊爾",
+    "def": ""
+   }
+  ]
+ },
+ "leconte": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leconte)人名；(法)勒孔特",
+    "def": ""
+   }
+  ]
+ },
+ "lecter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊克特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "lectern": {
+  "ph": "/'lektә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誦經臺",
+    "def": "desk or stand with a slanted top used to hold a text at the proper height for a lecturer"
+   }
+  ],
+  "forms": "複數 lecterns"
+ },
+ "lectionary": {
+  "ph": "/'lekʃәnәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖經選句集",
+    "def": "A book, or a list, of lections, for reading in divine"
+   }
+  ]
+ },
+ "lector": {
+  "ph": "/'lektә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "讀經者, 講師",
+    "def": "someone who reads the lessons in a church service; someone ordained in a minor order of the Roman Catholic Church"
+   }
+  ],
+  "forms": "複數 lectors"
+ },
+ "lecture": {
+  "ph": "/'lektʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演講, 譴責, 講稿",
+    "def": "a speech that is open to the public"
+   },
+   {
+    "pos": "vt.",
+    "zh": "演講, 訓誡, 說教",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "講演",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lectures｜現在分詞 lecturing｜過去式 lectured｜過去分詞 lectured｜第三人稱單數 lectures"
+ },
+ "lecturer": {
+  "ph": "/'lektʃәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演講者, 講師",
+    "def": "someone who lectures professionally"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 講演人, 講課人, 講師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lecturers"
+ },
+ "lectureship": {
+  "ph": "/'letʃәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "講師職務",
+    "def": "the post of lecturer"
+   }
+  ],
+  "forms": "複數 lectureships"
+ },
+ "lecturing": {
+  "ph": "/ˈlektʃərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（向…）演講, （給…）講課( lecture的現在分詞 ); 責備; 教訓; （尤指惱人地）指責",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lecturing"
+ },
+ "led": {
+  "ph": "/led/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "lead的過去式和過去分詞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 發光二極體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leds"
+ },
+ "lederer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lederer)人名；(匈、捷、德)萊德雷爾；(法)勒德雷爾；(英)萊德勒",
+    "def": ""
+   }
+  ]
+ },
+ "lederhosen": {
+  "ph": "/'leidә,hәuzәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "皮短褲",
+    "def": "leather shorts often worn with suspenders; worn especially by men and boys in Bavaria"
+   }
+  ],
+  "forms": "複數 lederhosen"
+ },
+ "ledge": {
+  "ph": "/ledʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突出部分, 暗礁, 礦層",
+    "def": "a projecting ridge on a mountain or submerged under water"
+   }
+  ],
+  "forms": "複數 ledges｜過去式 ledged"
+ },
+ "ledger": {
+  "ph": "/'ledʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分類帳, 分戶總帳, 蓋墓石板, 橫木",
+    "def": "a record in which commercial accounts are recorded"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 分戶帳, 分類帳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ledgers｜過去式 ledgered｜現在分詞 ledgering"
+ },
+ "leds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "lateral-energy density slope 橫向能量密度傾斜",
+    "def": ""
+   }
+  ]
+ },
+ "lee": {
+  "ph": "/li:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "背風處, 避風處, 下風處, 保護, 庇護",
+    "def": "United States filmmaker whose works explore the richness of black culture in America (born in 1957)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "避風的, 背風的, 下風的, 保護的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lees"
+ },
+ "leech": {
+  "ph": "/li:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水蛭, 吸血鬼, 榨取他人利益的人",
+    "def": "carnivorous or bloodsucking aquatic or terrestrial worms typically having a sucker at each end"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以水蛭吸血",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "依附並榨取別人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leeches｜現在分詞 leeching｜過去分詞 leeched｜過去式 leeched｜第三人稱單數 leeches"
+ },
+ "leed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 低能電子衍射",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leeds｜第三人稱單數 leeds"
+ },
+ "leeds": {
+  "ph": "/li:dz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利茲市（英國城市名）",
+    "def": "a city on the River Aire in West Yorkshire in northern England; a center of the clothing industry"
+   }
+  ]
+ },
+ "leek": {
+  "ph": "/li:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韭",
+    "def": "plant having a large slender white bulb and flat overlapping dark green leaves; used in cooking; believed derived from the wild Allium ampeloprasum"
+   }
+  ],
+  "forms": "複數 leeks"
+ },
+ "leeming": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leeming)人名；(英)利明",
+    "def": ""
+   }
+  ]
+ },
+ "leer": {
+  "ph": "/liә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "秋波, 媚眼, 惡意的瞥視",
+    "def": "a suggestive or sneering look or grin"
+   },
+   {
+    "pos": "vi.",
+    "zh": "送秋波, 拋媚眼, 斜睨",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 leered｜現在分詞 leering｜複數 leers｜過去式 leered｜第三人稱單數 leers"
+ },
+ "leering": {
+  "ph": "/lɪərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "斜眼看, 飛媚眼( leer的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leering"
+ },
+ "leery": {
+  "ph": "/'liәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "機敏的, 猜疑的, 狡猾的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leeries"
+ },
+ "leese": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人、蘇格蘭人姓氏] 利斯 Lees的變體; [地名] [德國] 萊瑟",
+    "def": ""
+   }
+  ]
+ },
+ "leeward": {
+  "ph": "/'li:wә:d/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "下風的, 在下風的",
+    "def": "on the side away from the wind"
+   },
+   {
+    "pos": "adv.",
+    "zh": "在下風, 在下風方向",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "下風, 背風",
+    "def": "the direction in which the wind is blowing"
+   }
+  ]
+ },
+ "leeway": {
+  "ph": "/'li:wei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風壓差, 風壓角, 可容許的誤差, 餘地",
+    "def": "(of a ship or plane) sideways drift"
+   }
+  ]
+ },
+ "lefebvre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "列斐伏爾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lefebvres"
+ },
+ "lefevre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lefevre)人名；(英)勒費夫爾",
+    "def": ""
+   }
+  ]
+ },
+ "left": {
+  "ph": "/left/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "左邊的, 左傾的, 左側的, 左派的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在左面",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "左, 左面, 左派",
+    "def": "location near or direction toward the left side; i.e. the side to the north when a person or object faces east"
+   },
+   {
+    "pos": "",
+    "zh": "leave的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 left｜過去式 left"
+ },
+ "left-hand": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "左側的, 左手的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 左手方, 左側的",
+    "def": ""
+   }
+  ]
+ },
+ "left-handed": {
+  "ph": "/'left'hændid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "左撇的, 用左手的, 笨拙的",
+    "def": "using or intended for the left hand"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 善用左手的, 左利的",
+    "def": ""
+   }
+  ]
+ },
+ "left-wing": {
+  "ph": "/'leftwiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "左派的, 左翼的",
+    "def": ""
+   }
+  ]
+ },
+ "leftfield": {
+  "ph": "/'left,fiːld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[美國英語]；活動中心之外的對方",
+    "def": ""
+   }
+  ]
+ },
+ "leftish": {
+  "ph": "/'leftɪʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "左派的, 左傾的",
+    "def": ""
+   }
+  ]
+ },
+ "leftism": {
+  "ph": "/'leftizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "左派觀點, 在傾行為",
+    "def": "the ideology of the political left; belief in or support of the tenets of the political left"
+   }
+  ]
+ },
+ "leftist": {
+  "ph": "/'leftist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "左翼的人, 左派",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "左派的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leftists"
+ },
+ "leftmost": {
+  "ph": "/'leftmәust/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最左邊的",
+    "def": ""
+   }
+  ]
+ },
+ "leftover": {
+  "ph": "/'leftәuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剩貨, 殘留物, 剩飯",
+    "def": "a small part or portion that remains after the main part no longer exists"
+   },
+   {
+    "pos": "adj.",
+    "zh": "殘餘的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leftovers"
+ },
+ "leftward": {
+  "ph": "/'leftwәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "左方的, 左側的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在左方, 在左手",
+    "def": "Toward or on the left side."
+   }
+  ]
+ },
+ "leftwards": {
+  "ph": "/'leftwәdz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在左邊, 向左邊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 向左的",
+    "def": ""
+   }
+  ]
+ },
+ "lefty": {
+  "ph": "/'lefti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "左撇子, 左翼分子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lefties"
+ },
+ "leg": {
+  "ph": "/leg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腿, 假腿, 路程",
+    "def": "a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle"
+   },
+   {
+    "pos": "vi.",
+    "zh": "走, 跑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legs"
+ },
+ "legacy": {
+  "ph": "/'legәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祖先傳下來之物, 遺贈物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 遺產, 遺贈物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legacies"
+ },
+ "legal": {
+  "ph": "/'li:gәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "法律的, 法定的, 合法的",
+    "def": "established by or founded upon law or official or accepted rules"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 法定權利; 法律(上)的, 合法的",
+    "def": ""
+   }
+  ]
+ },
+ "legal aid": {
+  "ph": "/ˈli:ɡəl eid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法律援助（指對無錢聘請律師或進行訴訟者給予的經濟援助）",
+    "def": ""
+   }
+  ]
+ },
+ "legalese": {
+  "ph": "/,li:^ә'li:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法律措辭, 法律術語",
+    "def": "a style that uses the abstruse technical vocabulary of the law"
+   }
+  ]
+ },
+ "legalisation": {
+  "ph": "/ˌli:gəlaɪ'zeɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合法化, 法律上認可",
+    "def": ""
+   }
+  ]
+ },
+ "legalise": {
+  "ph": "/'li:^әlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使合法化, 使成為法定, 法律上認可",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 legalised｜現在分詞 legalising｜過去式 legalised"
+ },
+ "legalised": {
+  "ph": "/'li:ɡəlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使合法化（等於legalize）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 legalised"
+ },
+ "legalism": {
+  "ph": "/'li:^әlizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文牘主義",
+    "def": "strict conformity to the letter of the law rather than its spirit"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 條文主義, 墨守法律條文, 合法主義",
+    "def": ""
+   }
+  ]
+ },
+ "legalistic": {
+  "ph": "/.li:gә'listik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尊重法律的",
+    "def": ""
+   }
+  ]
+ },
+ "legality": {
+  "ph": "/li:'gæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合法, 正當",
+    "def": "lawfulness by virtue of conformity to a legal statute"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 合法性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legalities"
+ },
+ "legalization": {
+  "ph": "/.li:gәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合法化, 法律認可",
+    "def": "the act of making lawful"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 立法, 合法化",
+    "def": ""
+   }
+  ]
+ },
+ "legalize": {
+  "ph": "/'li:gәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "法律上認為正當, 使合法化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 使合法化, 法律上認可, 使符法律",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 legalized｜過去式 legalized｜現在分詞 legalizing｜第三人稱單數 legalizes"
+ },
+ "legalized": {
+  "ph": "/'li:ɡәlaizd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "合法的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 legalized｜過去分詞 legalized"
+ },
+ "legally": {
+  "ph": "/'li:gәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "法律上, 合法地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 法律上, 合法地, 法定地",
+    "def": ""
+   }
+  ]
+ },
+ "legate": {
+  "ph": "/li'geit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "當做遺產讓與",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "羅馬教皇使節, 特使, 使節, 使者",
+    "def": "a member of a legation"
+   }
+  ],
+  "forms": "複數 legates｜過去式 legated"
+ },
+ "legatee": {
+  "ph": "/.legә'ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遺產受贈人",
+    "def": "someone to whom a legacy is bequeathed"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 遺產承受人, 受遺贈者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legatees"
+ },
+ "legation": {
+  "ph": "/li'geiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使者的派遣",
+    "def": "the post or office of legate"
+   }
+  ],
+  "forms": "複數 legations"
+ },
+ "legato": {
+  "ph": "/lә'ɡɑ:tәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "連奏的",
+    "def": "(music) without breaks between notes; smooth and connected"
+   }
+  ]
+ },
+ "legend": {
+  "ph": "/'ledʒәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傳說, 傳奇文學, 圖例",
+    "def": "a story about mythical or supernatural beings or events"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 圖例",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legends"
+ },
+ "legendarily": {
+  "ph": "/ledʒənd'rɪlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "傳奇性地, 傳奇似地",
+    "def": ""
+   }
+  ]
+ },
+ "legendary": {
+  "ph": "/'ledʒәndәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傳說的, 傳奇中說的, 傳奇般的, 傳說中的, 著名的",
+    "def": ""
+   }
+  ]
+ },
+ "leger": {
+  "ph": "/'ledʒә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "底餌；分類帳（等於ledger）",
+    "def": "French painter who was an early cubist (1881-1955)"
+   }
+  ],
+  "forms": "現在分詞 legering｜過去式 legered｜複數 legers"
+ },
+ "legerdemain": {
+  "ph": "/.ledʒәdә'mein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戲法, 騙術, 詭辯",
+    "def": ""
+   }
+  ]
+ },
+ "legge": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊格（英格蘭人姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "legged": {
+  "ph": "/'le^id, le^d/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有...腿的",
+    "def": "having legs of a specified kind or number"
+   }
+  ]
+ },
+ "legging": {
+  "ph": "/'legiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綁腿, 裹腿",
+    "def": "a garment covering the leg (usually extending from the knee to the ankle)"
+   }
+  ],
+  "forms": "複數 leggings｜現在分詞 legging"
+ },
+ "leggings": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "護脛, 護腿",
+    "def": ""
+   }
+  ]
+ },
+ "leggy": {
+  "ph": "/'legi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "長腿的, 腿細長的, 莖長的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leggys｜比較級 leggier"
+ },
+ "leghorn": {
+  "ph": "/'leghɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麥稈編制的帽子, 來航雞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leghorns"
+ },
+ "legibility": {
+  "ph": "/.ledʒi'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "易讀性, 易識別",
+    "def": "a quality of writing (print or handwriting) that can be easily read"
+   }
+  ]
+ },
+ "legible": {
+  "ph": "/'ledʒәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "清晰的, 易讀的",
+    "def": "(of handwriting, print, etc.) capable of being read or deciphered"
+   }
+  ]
+ },
+ "legibly": {
+  "ph": "/'ledʒәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "易讀地, 明瞭地",
+    "def": ""
+   }
+  ]
+ },
+ "legion": {
+  "ph": "/'li:dʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍團, 軍隊, 眾多的人",
+    "def": "association of ex-servicemen"
+   }
+  ],
+  "forms": "複數 legions"
+ },
+ "legionary": {
+  "ph": "/'li:dʒәnәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "軍團的, 軍隊的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "軍團士兵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legionaries"
+ },
+ "legionnaire": {
+  "ph": "/li:dʒi'neә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國退伍軍人協會會員,軍團計程車兵",
+    "def": "a member of the American Legion"
+   }
+  ],
+  "forms": "複數 legionnaires"
+ },
+ "legislate": {
+  "ph": "/'ledʒisleit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "制定法律",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用立法規定",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 legislating｜過去分詞 legislated｜過去式 legislated｜第三人稱單數 legislates"
+ },
+ "legislated": {
+  "ph": "/ˈledʒɪˌsleɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "立法, 制定法律( legislate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "legislation": {
+  "ph": "/.ledʒis'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立法, 法律",
+    "def": "law enacted by a legislative body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 立法, 法規",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legislations"
+ },
+ "legislative": {
+  "ph": "/'ledʒislәtiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立法機構",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "立法的, 有立法權的",
+    "def": "relating to a legislature or composed of members of a legislature"
+   }
+  ]
+ },
+ "legislatively": {
+  "ph": "/'ledʒɪslətɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "立法地",
+    "def": ""
+   }
+  ]
+ },
+ "legislator": {
+  "ph": "/'ledʒisleitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立法者, 立法官, 立法委員",
+    "def": "someone who makes or enacts laws"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 立法者, 立法機關成員, 立法委員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legislators"
+ },
+ "legislature": {
+  "ph": "/'ledʒisleitʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立法機關, 議會, 立法院",
+    "def": "persons who make or amend or repeal laws"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 立法機構, 立法機關",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legislatures"
+ },
+ "legit": {
+  "ph": "/l ә'dʒit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "合法的, 正統的, 守法的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legits"
+ },
+ "legitimacy": {
+  "ph": "/li'dʒitimәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合法, 正統, 正當",
+    "def": "lawfulness by virtue of being authorized or in accordance with law"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 合法性, 正統性, 婚生",
+    "def": ""
+   }
+  ]
+ },
+ "legitimate": {
+  "ph": "/li'dʒitimәt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "合法的, 正當的, 婚生的",
+    "def": "of marriages and offspring; recognized as lawful"
+   },
+   {
+    "pos": "vt.",
+    "zh": "認為正當, 立為嫡嗣, 使合法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 legitimating｜過去式 legitimated｜第三人稱單數 legitimates｜過去分詞 legitimated"
+ },
+ "legitimately": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "正當地；合理地",
+    "def": ""
+   }
+  ]
+ },
+ "legitimating": {
+  "ph": "/liˈdʒitimitɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "合情合理的( legitimate的現在分詞 ); 合法的; 法律認可的; 法定的",
+    "def": ""
+   }
+  ]
+ },
+ "legitimation": {
+  "ph": "/li.dʒiti'meiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合法化, 認為嫡出",
+    "def": "the act of rendering a person legitimate"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 使合法, 合法化, 正統化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legitimations"
+ },
+ "legitimise": {
+  "ph": "/li'dʒitimaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "<主英> = legitimize",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 legitimises｜過去分詞 legitimised｜現在分詞 legitimising｜過去式 legitimised"
+ },
+ "legitimization": {
+  "ph": "/lɪdʒɪtɪmaɪ'zeɪʃn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合法化, 認為正當",
+    "def": ""
+   }
+  ]
+ },
+ "legitimize": {
+  "ph": "/li'dʒitimaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使…合法；立為嫡嗣",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 legitimized｜過去式 legitimized｜第三人稱單數 legitimizes｜現在分詞 legitimizing"
+ },
+ "legitimized": {
+  "ph": "/liˈdʒitimaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使合法, 給…以合法地位( legitimize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "legitimizing": {
+  "ph": "/liˈdʒitimaizɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使合法, 給…以合法地位( legitimize的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 legitimizing"
+ },
+ "legless": {
+  "ph": "/ˈlegləs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無腿的",
+    "def": "not having legs"
+   }
+  ]
+ },
+ "lego": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樂高積木（商標名）",
+    "def": "(trademark) a child's plastic construction set for making mechanical models"
+   }
+  ],
+  "forms": "複數 legos"
+ },
+ "legroom": {
+  "ph": "/'le^ru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放腳空間, 踏腳處",
+    "def": ""
+   }
+  ]
+ },
+ "legume": {
+  "ph": "/'legju:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豆類, 豆莢",
+    "def": "an erect or climbing bean or pea plant of the family Leguminosae"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 豆, [豆]莢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 legumes｜第三人稱單數 legumes"
+ },
+ "leguminous": {
+  "ph": "/le'gju:minәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "豆的, 類似豆科植物的, 豆科的",
+    "def": "relating to or consisting of legumes"
+   }
+  ]
+ },
+ "legwork": {
+  "ph": "/'le^w\\\\\\\\:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<口>外出蒐集情況的工作(如新聞採訪,案件調查等)",
+    "def": ""
+   }
+  ]
+ },
+ "lehman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雷曼（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "lehmann": {
+  "ph": "/'leimәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊曼(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "lehua": {
+  "ph": "/l ei'hu:ɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植] <夏威夷> 桃金娘花",
+    "def": ""
+   }
+  ]
+ },
+ "lei": {
+  "ph": "/'leii:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花環",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lei"
+ },
+ "leibnitz": {
+  "ph": "/'laibnits/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊布尼茲",
+    "def": ""
+   }
+  ]
+ },
+ "leibniz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊布尼茲（人名）",
+    "def": "German philosopher and mathematician who thought of the universe as consisting of independent monads and who devised a system of the calculus independent of New"
+   }
+  ]
+ },
+ "leicester": {
+  "ph": "/'lestә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊斯特(英國城市)",
+    "def": ""
+   }
+  ]
+ },
+ "leicestershire": {
+  "ph": "/'lestәʃә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國愛爾蘭東部的郡",
+    "def": "a largely agricultural county in central England"
+   }
+  ]
+ },
+ "leics": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Leicestershire",
+    "def": ""
+   }
+  ]
+ },
+ "leiden": {
+  "ph": "/'laidən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊頓市（荷蘭西部城市）；萊頓（大學名稱）",
+    "def": "a city in the western Netherlands; residence of the Pilgrim Fathers for 11 years before they sailed for America in 1620"
+   }
+  ]
+ },
+ "leigh": {
+  "ph": "/l i:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利（男子名, 等於Lee）",
+    "def": "English film actress (1913-1967)"
+   }
+  ],
+  "forms": "複數 leighs"
+ },
+ "leighton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雷頓（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "leila": {
+  "ph": "/'li:lә,'lailә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利拉（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "leinster": {
+  "ph": "/'lenstә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "倫斯特省[愛爾蘭共和國省名]",
+    "def": ""
+   }
+  ]
+ },
+ "leipzig": {
+  "ph": "/'laipzi^/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊比錫城",
+    "def": "a city in southeastern Germany famous for fairs; formerly a music and publishing center"
+   }
+  ]
+ },
+ "leishmaniasis": {
+  "ph": "/,liʃmә'naiәsis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 利什曼病",
+    "def": ""
+   }
+  ]
+ },
+ "leisure": {
+  "ph": "/'li:ʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空閒, 閒暇, 悠閒",
+    "def": "time available for ease and relaxation"
+   },
+   {
+    "pos": "adj.",
+    "zh": "空閒的, 有閒的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 leisured"
+ },
+ "leisure centre": {
+  "ph": "/ˈleʒə ˈsentə/",
+  "senses": [
+   {
+    "pos": "na.",
+    "zh": "娛樂中心",
+    "def": ""
+   }
+  ]
+ },
+ "leisured": {
+  "ph": "/'leʒәd; 'li:ʒәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有許多空閒時間的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 leisured｜過去分詞 leisured"
+ },
+ "leisureliness": {
+  "ph": "/'li:ʒәlinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "悠然, 從容",
+    "def": "slowness by virtue of being leisurely"
+   }
+  ]
+ },
+ "leisurely": {
+  "ph": "/'li:ʒәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "悠閒的, 從容的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "從容地, 悠閒地",
+    "def": ""
+   }
+  ]
+ },
+ "leisurewear": {
+  "ph": "/ˈleʒəweə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "休閒服",
+    "def": ""
+   }
+  ]
+ },
+ "leitch": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leitch)人名；(英)利奇",
+    "def": ""
+   }
+  ]
+ },
+ "leith": {
+  "ph": "/l i:θ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利思(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "leitmotif": {
+  "ph": "/'laitmәjti:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主樂調, 樂旨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leitmotifs"
+ },
+ "leitmotiv": {
+  "ph": "/laɪt'məʊtɪv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主旨, 中心思想",
+    "def": "a melodic phrase that accompanies the reappearance of a person or situation (as in Wagner's operas)"
+   }
+  ]
+ },
+ "lek": {
+  "ph": "/lek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列克(阿爾巴尼亞貨幣單位)",
+    "def": "the basic unit of money in Albania"
+   }
+  ],
+  "forms": "複數 leks｜現在分詞 lekking"
+ },
+ "leland": {
+  "ph": "/'li:lәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利蘭（男子姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "leman": {
+  "ph": "/'lemәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊曼(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "lemma": {
+  "ph": "/'lemә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輔助定理, 論點, 引理",
+    "def": "a subsidiary proposition that is assumed to be true in order to prove another proposition"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膜, 衣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lemmas"
+ },
+ "lemming": {
+  "ph": "/'lemiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅鼠",
+    "def": "any of various short-tailed furry-footed rodents of circumpolar distribution"
+   }
+  ],
+  "forms": "複數 lemmings"
+ },
+ "lemmon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊蒙（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "lemon": {
+  "ph": "/'lemәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檸檬, 檸檬樹, 檸檬色",
+    "def": "yellow oval fruit with juicy acidic flesh"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 檸檬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lemons"
+ },
+ "lemonade": {
+  "ph": "/.lemә'neid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檸檬水",
+    "def": "sweetened beverage of diluted lemon juice"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 檸檬水",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lemonades"
+ },
+ "lemongrass": {
+  "ph": "/'lemәn^rɑ:s;-^ræs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檸檬香草",
+    "def": "an aromatic oil that smells like lemon and is widely used in Asian cooking and in perfumes and medicines"
+   }
+  ]
+ },
+ "lemony": {
+  "ph": "/'lemәni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "檸檬的",
+    "def": ""
+   }
+  ]
+ },
+ "lemur": {
+  "ph": "/'li:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狐猴",
+    "def": "large-eyed arboreal prosimian having foxy faces and long furry tails"
+   }
+  ],
+  "forms": "複數 lemurs｜第三人稱單數 lemurs"
+ },
+ "len": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "倫恩（男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lening"
+ },
+ "lena": {
+  "ph": "/'li:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉娜（女子名, 等於Helena）；勒拿河（西伯利亞中部河流）",
+    "def": "a Russian river in Siberia; flows northward into the Laptev Sea"
+   }
+  ]
+ },
+ "lend": {
+  "ph": "/lend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "借, 貸款給, 增添, 提供, 出租",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "貸款",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lent｜第三人稱單數 lends｜過去分詞 lent｜現在分詞 lending"
+ },
+ "lender": {
+  "ph": "/'lendә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出借人, 貸方",
+    "def": "someone who lends money or gives credit in business matters"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 出借者, 貸方, 貸款人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lenders"
+ },
+ "lending": {
+  "ph": "/'lendiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出借, 出借物",
+    "def": "disposing of money or property with the expectation that the same thing (or an equivalent) will be returned"
+   },
+   {
+    "pos": "adj.",
+    "zh": "出借",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lending｜複數 lendings"
+ },
+ "lending rate": {
+  "ph": "/ˈlendiŋ reit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貸款利率; 借款利率",
+    "def": ""
+   }
+  ]
+ },
+ "lendl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lendl)人名；(德、匈、捷)倫德爾",
+    "def": "United States tennis player (born in Czechoslovakia) who won several singles championships; in 1992 he became a United States citizen (born in 1960)"
+   }
+  ]
+ },
+ "leng": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "冷（漢語拼音）",
+    "def": ""
+   }
+  ]
+ },
+ "length": {
+  "ph": "/leŋθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長度, 長, 期間, 一段",
+    "def": "the linear extent in space from one end to the other; the longest dimension of something that is fixed in place"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 記錄長度; 塊長; 字長",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lengths"
+ },
+ "lengthen": {
+  "ph": "/'leŋθәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "加長, 使延長",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變長",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lengthening｜過去式 lengthened｜過去分詞 lengthened｜第三人稱單數 lengthens"
+ },
+ "lengthened": {
+  "ph": "/ˈleŋkθənd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（時間或空間）延長, 伸長( lengthen的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lengthened｜過去分詞 lengthened"
+ },
+ "lengthening": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 長度屬性",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lengthening"
+ },
+ "lengthways": {
+  "ph": "/'leŋθweiz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "縱向",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 長, 豎",
+    "def": ""
+   }
+  ]
+ },
+ "lengthwise": {
+  "ph": "/'leŋθwaiz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "縱長的",
+    "def": "running or extending in the direction of the length of a thing"
+   },
+   {
+    "pos": "adv.",
+    "zh": "縱長地",
+    "def": ""
+   }
+  ]
+ },
+ "lengthy": {
+  "ph": "/'leŋθi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冗長的, 漫長的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 lengthier｜最高級 lengthiest"
+ },
+ "leniency": {
+  "ph": "/'li:njәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寬大, 溫和, 慈悲為懷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 寬大, 寬恕, 仁慈",
+    "def": ""
+   }
+  ]
+ },
+ "lenient": {
+  "ph": "/'li:njәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "寬大的, 溫和的, 慈悲為懷的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 寬大的, 仁慈的",
+    "def": ""
+   }
+  ]
+ },
+ "leniently": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "溫和地；寬大地",
+    "def": ""
+   }
+  ]
+ },
+ "lenin": {
+  "ph": "/'lenin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列寧（俄國無產階級革命領袖）",
+    "def": "Russian founder of the Bolsheviks and leader of the Russian Revolution and first head of the USSR (1870-1924)"
+   }
+  ]
+ },
+ "leningrad": {
+  "ph": "/'lenin^ræd, -^rɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列寧格勒(前蘇聯西北部港市)",
+    "def": ""
+   }
+  ]
+ },
+ "leninism": {
+  "ph": "/'leninizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列寧主義",
+    "def": "the political and economic theories of Lenin which provided the guiding doctrine of the Soviet Union; the modification of Marxism by Lenin stressed that imperia"
+   }
+  ]
+ },
+ "leninist": {
+  "ph": "/'leninist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列寧主義者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "列寧主義者的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leninists"
+ },
+ "lennie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lennie)人名；(意、西)倫涅；(英)倫尼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "倫尼",
+    "def": ""
+   }
+  ]
+ },
+ "lennon": {
+  "ph": "/'lennən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列儂（男子名）",
+    "def": "English rock star and guitarist and songwriter who with Paul McCartney wrote most of the music for the Beatles (1940-1980)"
+   }
+  ]
+ },
+ "lennox": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "倫諾克斯（人名、地名）",
+    "def": ""
+   }
+  ]
+ },
+ "lenny": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連尼傳（電影名）",
+    "def": ""
+   }
+  ]
+ },
+ "lens": {
+  "ph": "/lenz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "透鏡, 鏡頭, 鏡片, 晶狀體",
+    "def": "a transparent optical device used to converge or diverge transmitted light and to form images"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...攝影",
+    "def": ""
+   }
+  ]
+ },
+ "lense": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lense)人名；(德)倫澤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lenses｜現在分詞 lensing｜過去式 lensed"
+ },
+ "lensing": {
+  "ph": "/'lenzɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "透鏡化",
+    "def": ""
+   }
+  ]
+ },
+ "lensman": {
+  "ph": "/'lenzmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攝影師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lensmen"
+ },
+ "lent": {
+  "ph": "/lent/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "lend的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lent｜複數 lents"
+ },
+ "lenten": {
+  "ph": "/'lentәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大齋節的, 大齋節期間的, 不豐盛的",
+    "def": "of or relating to or suitable for Lent"
+   }
+  ]
+ },
+ "lenticular": {
+  "ph": "/len'tikjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "透鏡的, 扁豆似的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 豆狀核的, 晶狀體的, 透鏡狀的, 透鏡的",
+    "def": ""
+   }
+  ]
+ },
+ "lentil": {
+  "ph": "/'lentil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兵豆",
+    "def": "round flat seed of the lentil plant used for food"
+   }
+  ],
+  "forms": "複數 lentils｜第三人稱單數 lentils"
+ },
+ "lentils": {
+  "ph": "/ˈlentəlz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小扁豆( lentil的名詞複數 ); 小扁豆植株",
+    "def": ""
+   }
+  ]
+ },
+ "lenton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lenton)人名；(英)倫頓",
+    "def": ""
+   }
+  ]
+ },
+ "leo": {
+  "ph": "/'li:ou/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獅子, 獅子座",
+    "def": "(astrology) a person who is born while the sun is in Leo"
+   }
+  ],
+  "forms": "複數 leos"
+ },
+ "leominster": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leominster)人名；(英)萊姆斯特",
+    "def": ""
+   }
+  ]
+ },
+ "leon": {
+  "ph": "/'li(:)әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利昂（男子名, 等於Leo）",
+    "def": "a historical area and former kingdom in northwestern Spain"
+   }
+  ]
+ },
+ "leonard": {
+  "ph": "/'lenәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "倫納德（男子名）",
+    "def": "United States writer of thrillers (born in 1925)"
+   }
+  ]
+ },
+ "leonardo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "李奧納多（姓氏）",
+    "def": "Italian painter and sculptor and engineer and scientist and architect; the most versatile genius of the Italian Renaissance (1452-1519)"
+   }
+  ]
+ },
+ "leonards": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leonards)人名；(德、瑞典)萊昂納茨",
+    "def": ""
+   }
+  ]
+ },
+ "leone": {
+  "ph": "/li:'әun/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 里昂",
+    "def": ""
+   }
+  ]
+ },
+ "leonid": {
+  "ph": "/'li:әunid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獅子座流星",
+    "def": "One of the shooting stars which constitute the star shower"
+   }
+  ]
+ },
+ "leonie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leonie)人名；(英)利奧妮；(德)萊奧妮",
+    "def": ""
+   }
+  ]
+ },
+ "leonine": {
+  "ph": "/'li:әnain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "獅子的, 獅子般的",
+    "def": "of or characteristic of or resembling a lion"
+   }
+  ]
+ },
+ "leonora": {
+  "ph": "/,li(:)ә'nɔ:rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利奧諾拉(Eleanor的異體)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "leonore": {
+  "ph": "/'li:әnɔ:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利奧諾(Eleanor的異體)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "leopard": {
+  "ph": "/'lepәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豹, 美洲豹",
+    "def": "the pelt of a leopard"
+   }
+  ],
+  "forms": "複數 leopards"
+ },
+ "leopold": {
+  "ph": "/'li:әpәjld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利奧波德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "leotard": {
+  "ph": "/'li:әutɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊身衣",
+    "def": "a tight-fitting garment of stretchy material that covers the body from the shoulders to the thighs (and may have long sleeves or legs reaching down to the ankle"
+   }
+  ],
+  "forms": "複數 leotards"
+ },
+ "lep": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "lepton 輕子; lepton (collective terra embracing anti-neutrino, electron, neutrino, photon, positron) 輕子（包括反微中子, 電子, 微中子, 光子, 正電子的集合名詞）; lowest effective power 最低有效功率",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leps｜現在分詞 lepping"
+ },
+ "leper": {
+  "ph": "/'lepә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻瘋病患者, 受蔑視的人",
+    "def": "a person afflicted with leprosy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 麻風病人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lepers"
+ },
+ "lepidopterist": {
+  "ph": "/.lepi'dɒptәrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鱗翅目昆蟲學者",
+    "def": "an entomologist who specializes in the collection and study of butterflies and moths"
+   }
+  ],
+  "forms": "複數 lepidopterists"
+ },
+ "lepine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lepine)人名；(英)勒平；(西)萊皮內",
+    "def": ""
+   }
+  ]
+ },
+ "leppard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leppard)人名；(英)萊帕德",
+    "def": ""
+   }
+  ]
+ },
+ "leprechaun": {
+  "ph": "/'leprәkɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矮妖精",
+    "def": "a mischievous elf in Irish folklore"
+   }
+  ],
+  "forms": "複數 leprechauns｜第三人稱單數 leprechauns"
+ },
+ "leprosy": {
+  "ph": "/'leprәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻瘋病, 腐敗",
+    "def": "chronic granulomatous communicable disease occurring in tropical and subtropical regions; characterized by inflamed nodules beneath the skin and wasting of body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 麻風",
+    "def": ""
+   }
+  ]
+ },
+ "leprous": {
+  "ph": "/'leprәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "麻瘋病的, 患麻瘋病的, 鱗狀的",
+    "def": "relating to or resembling or having leprosy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 麻風的",
+    "def": ""
+   }
+  ]
+ },
+ "leptin": {
+  "ph": "/'lepˌtɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘦蛋白",
+    "def": ""
+   }
+  ]
+ },
+ "lepton": {
+  "ph": "/'leptɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕子, 雷普頓(希臘貨幣單位)",
+    "def": "100 lepta equal 1 drachma in Greece"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 輕子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leptons"
+ },
+ "leptospirosis": {
+  "ph": "/,leptәuspai'rәusis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 鉤端螺旋體病",
+    "def": ""
+   }
+  ]
+ },
+ "lerner": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lerner)人名；(英)勒納；(德、匈、羅、捷、俄)萊納；(西)萊內爾",
+    "def": "United States lyricist who collaborated on musicals with Frederick Loewe (1918-1986)"
+   }
+  ]
+ },
+ "leroy": {
+  "ph": "/'lerɔi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勒羅伊（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "les": {
+  "ph": "/lei/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "發射脫離系統（Launch Escape System）",
+    "def": ""
+   }
+  ]
+ },
+ "lesbian": {
+  "ph": "/'lezbiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "女同性戀的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "女同性戀者",
+    "def": "a female homosexual"
+   }
+  ],
+  "forms": "複數 lesbians"
+ },
+ "lesbianism": {
+  "ph": "/'lezbiәnizəm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 女子同性戀愛的",
+    "def": ""
+   }
+  ]
+ },
+ "lesbo": {
+  "ph": "/'lesbәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<口>=Lesbian",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lesbos"
+ },
+ "lesion": {
+  "ph": "/'li:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "損害, 身體上的傷害",
+    "def": "any localized abnormal structural change in a bodily part"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 損害",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lesions｜過去分詞 lesioned｜現在分詞 lesioning｜過去式 lesioned"
+ },
+ "lesley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊斯利（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "leslie": {
+  "ph": "/'lezli, 'lisli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊斯利（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "lesotho": {
+  "ph": "/li'su:tu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賴索托(非洲南部一王國, 首都Maseru)",
+    "def": "a landlocked constitutional monarchy in southern Africa; achieved independence from the United Kingdom in 1966"
+   }
+  ]
+ },
+ "less": {
+  "ph": "/les/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "較少, 較小",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "少的, 小的",
+    "def": "(comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree"
+   },
+   {
+    "pos": "adv.",
+    "zh": "較少, 較小, 較差",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 最低成本估算與排程法",
+    "def": ""
+   }
+  ]
+ },
+ "lessee": {
+  "ph": "/le'si:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "承租人, 租地人, 租屋人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 承租人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lessees"
+ },
+ "lessen": {
+  "ph": "/'lesn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "減少, 縮小, 減輕",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變小",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 lessened｜過去式 lessened｜現在分詞 lessening｜第三人稱單數 lessens"
+ },
+ "lessened": {
+  "ph": "/'lesnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "減少的, 減弱的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "變少( lessen的過去式和過去分詞 ); 減少（某事物）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lessened"
+ },
+ "lessening": {
+  "ph": "/'lesәniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "減輕, 減少；變小",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lessening"
+ },
+ "lesser": {
+  "ph": "/'lesә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "較少的, 較小的, 次要的",
+    "def": "of less size or importance"
+   }
+  ]
+ },
+ "lessing": {
+  "ph": "/'lesiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊辛(Gotthold Ephraim, 1729-1781, 德國詩人, 批評家及戲劇家)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lessing"
+ },
+ "lesson": {
+  "ph": "/'lesn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "課, 課業, 教訓",
+    "def": "a unit of instruction"
+   }
+  ],
+  "forms": "複數 lessons"
+ },
+ "lessons": {
+  "ph": "/ˈlesənz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "功課( lesson的名詞複數 ); 課程; 教訓; 一堂課",
+    "def": ""
+   }
+  ]
+ },
+ "lessor": {
+  "ph": "/le'sɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出租人",
+    "def": "someone who grants a lease"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 出租人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lessors"
+ },
+ "lest": {
+  "ph": "/lest/",
+  "senses": [
+   {
+    "pos": "conj.",
+    "zh": "以免, 唯恐, 免得",
+    "def": ""
+   }
+  ]
+ },
+ "lester": {
+  "ph": "/'lestә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊斯特（男子名）；喻指顯赫的人",
+    "def": ""
+   }
+  ]
+ },
+ "let": {
+  "ph": "/let/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "讓, 假設, 出租, 排放, 妨礙",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "出租, 被承包",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "出租屋, 障礙",
+    "def": "a serve that strikes the net before falling into the receiver's court; the ball must be served again"
+   }
+  ],
+  "forms": "現在分詞 letting｜過去分詞 let｜過去式 let｜第三人稱單數 lets"
+ },
+ "let's": {
+  "ph": "/lets/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "let us 讓我們",
+    "def": ""
+   }
+  ]
+ },
+ "letchworth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Letchworth)人名；(英)萊奇沃思",
+    "def": ""
+   }
+  ]
+ },
+ "letdown": {
+  "ph": "/'letdaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "減低, 減退, 鬆弛, 失望",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 調漆",
+    "def": ""
+   }
+  ]
+ },
+ "lethal": {
+  "ph": "/'li:θәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "致命的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "致死因子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lethals"
+ },
+ "lethality": {
+  "ph": "/li'θæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "致死性",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 致死率",
+    "def": ""
+   }
+  ]
+ },
+ "lethally": {
+  "ph": "/'li:θəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "致命地; 危害地; 極具威脅地",
+    "def": ""
+   }
+  ]
+ },
+ "lethargic": {
+  "ph": "/le'θɑ:dʒik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "昏睡的, 無生氣的, 泠漠的, 冷淡的",
+    "def": "deficient in alertness or activity"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 昏睡的, 嗜眠的",
+    "def": ""
+   }
+  ]
+ },
+ "lethargically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "昏睡地；遲鈍地",
+    "def": ""
+   }
+  ]
+ },
+ "lethargy": {
+  "ph": "/'leθәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "昏睡, 瞌睡, 無力氣",
+    "def": "a state of comatose torpor (as found in sleeping sickness)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 昏睡, 嗜眠",
+    "def": ""
+   }
+  ]
+ },
+ "lett": {
+  "ph": "/let/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列託人, 列託語",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 letts｜複數 letts"
+ },
+ "letter": {
+  "ph": "/'letә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "信, 字母, 證書, 字面意義, 鉛字, 學問, 出租人",
+    "def": "a written message addressed to a person or organization"
+   },
+   {
+    "pos": "vt.",
+    "zh": "寫字母於, 在...上刻字母, 用字母標明",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "寫印刷體字",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 字母",
+    "def": ""
+   }
+  ],
+  "forms": "複數 letters｜過去式 lettered｜現在分詞 lettering｜第三人稱單數 letters｜過去分詞 lettered"
+ },
+ "letterbox": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "郵筒, 郵箱, 投信口, 信箱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 letterboxes"
+ },
+ "lettered": {
+  "ph": "/'letәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "標有字母的, 有學問的, 有文化修養的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lettered"
+ },
+ "letterhead": {
+  "ph": "/'letәhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "信箋上方的印刷文字, 印有抬頭的信箋",
+    "def": "a sheet of stationery with name and address of the organization printed at the top"
+   }
+  ],
+  "forms": "複數 letterheads｜現在分詞 letterheading"
+ },
+ "lettering": {
+  "ph": "/'letәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寫字, 印字, 刻字",
+    "def": ""
+   }
+  ],
+  "forms": "複數 letterings"
+ },
+ "letterman": {
+  "ph": "/'letәmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(得獎的)運動員",
+    "def": "an athlete who has earned a letter in a school sport"
+   }
+  ]
+ },
+ "letterpress": {
+  "ph": "/'letәpres/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文字部分, 正文, 書信影印器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 活版印刷",
+    "def": ""
+   }
+  ]
+ },
+ "letting": {
+  "ph": "/'letiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 租金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lettings｜現在分詞 letting"
+ },
+ "lettuce": {
+  "ph": "/'letis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萵苣, 生菜, 紙幣",
+    "def": "any of various plants of the genus Lactuca"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 萵苣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lettuces"
+ },
+ "leuchars": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "盧赫斯（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "leucine": {
+  "ph": "/'lu:si:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白氨酸",
+    "def": "a white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 亮氨酸; 白氨酸; 異己氨酸",
+    "def": ""
+   }
+  ]
+ },
+ "leucocyte": {
+  "ph": "/'lu:kәsait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白血球",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 白細胞; 白血球",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leucocytes"
+ },
+ "leukaemia": {
+  "ph": "/lu:'ki:miә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白血病",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leukaemias"
+ },
+ "leukemia": {
+  "ph": "/lju:'ki:miә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白血病, 白血球過多症",
+    "def": "malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 白血病",
+    "def": ""
+   }
+  ]
+ },
+ "leukemic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "白血病, 白血球過多症",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 白血病的",
+    "def": ""
+   }
+  ]
+ },
+ "leukocyte": {
+  "ph": "/'lju:kәsait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白血球",
+    "def": "blood cells that engulf and digest bacteria and fungi; an important part of the body's defense system"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 白細胞(舊名白血球)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leukocytes"
+ },
+ "leukocytosis": {
+  "ph": "/,lju:kәsai'tәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白細胞增多, 白血球增多",
+    "def": "an abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 白細胞增多",
+    "def": ""
+   }
+  ]
+ },
+ "leukotriene": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 白三烯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leukotrienes"
+ },
+ "lev": {
+  "ph": "/lef/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列弗（保加利亞的貨幣單位）",
+    "def": "the basic unit of money in Bulgaria"
+   }
+  ],
+  "forms": "複數 levs"
+ },
+ "levant": {
+  "ph": "/li'vænt/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "躲債",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 逃亡, 躲避, 躲債",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 levanting｜過去式 levanted｜第三人稱單數 levants｜過去分詞 levanted"
+ },
+ "levantine": {
+  "ph": "/'levәntain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地中海東部的, 地中海東部人的",
+    "def": "of or relating to the Levant or its inhabitants"
+   },
+   {
+    "pos": "n.",
+    "zh": "地中海東部人",
+    "def": "(formerly) a native or inhabitant of the Levant"
+   }
+  ]
+ },
+ "levator": {
+  "ph": "/li'veitә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 提肌",
+    "def": ""
+   }
+  ],
+  "forms": "複數 levators"
+ },
+ "levee": {
+  "ph": "/'levi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "早朝, 大堤",
+    "def": "a formal reception of visitors or guests (as at a royal court)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "為...築堤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 levees"
+ },
+ "level": {
+  "ph": "/'levl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水平, 水準, 平地",
+    "def": "height above ground"
+   },
+   {
+    "pos": "adj.",
+    "zh": "同高的, 平坦的, 齊平的, 水平的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "弄平, 夷平, 使同等, 瞄準, 對準",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變平, 拉平",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 級別",
+    "def": ""
+   }
+  ],
+  "forms": "複數 levels｜過去分詞 levelled｜過去式 levelled｜現在分詞 levelling｜第三人稱單數 levels"
+ },
+ "leveled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "經調整的",
+    "def": ""
+   }
+  ]
+ },
+ "leveler": {
+  "ph": "/'levәlә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 校平器",
+    "def": ""
+   }
+  ]
+ },
+ "levelheaded": {
+  "ph": "/'levәl'hedid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穩健的, 頭腦冷靜的；明智的",
+    "def": ""
+   }
+  ]
+ },
+ "leveling": {
+  "ph": "/'levәliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水準測量",
+    "def": ""
+   }
+  ]
+ },
+ "levelled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使同等（level的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 levelled"
+ },
+ "leveller": {
+  "ph": "/'levәlә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 校平器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 levellers"
+ },
+ "levelling": {
+  "ph": "/'levәliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水準測量, 整平, 測平",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 使均勻, 校平, 平整, 調整",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 levelling"
+ },
+ "levelly": {
+  "ph": "/ˈlevəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "水準地, 不動心地",
+    "def": "In an even or level manner."
+   }
+  ]
+ },
+ "levels": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "色階調整；控制色階；水平, 標準（level複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "leven": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利文湖（英國蘇格蘭東部湖泊）",
+    "def": "Lightning."
+   }
+  ]
+ },
+ "levene": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列文（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "lever": {
+  "ph": "/'levә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "槓桿, 似槓桿之工具",
+    "def": "a rigid bar pivoted about a fulcrum"
+   },
+   {
+    "pos": "vt.",
+    "zh": "撬開",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "使用槓桿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 levers｜過去式 levered｜現在分詞 levering｜過去分詞 levered｜第三人稱單數 levers"
+ },
+ "leverage": {
+  "ph": "/'levәridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "槓桿作用, 槓桿裝置, 槓桿效率",
+    "def": "the mechanical advantage gained by being in a position to use a lever"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 槓桿率",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 leveraging｜過去分詞 leveraged｜複數 leverages｜過去式 leveraged｜第三人稱單數 leverages"
+ },
+ "leveraged": {
+  "ph": "/ˈli:vəridʒd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "促使…改變( leverage的過去式和過去分詞 ); [美國英語]槓桿式投機, （使）舉債經營, （使）利用貸款進行投機",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 leveraged"
+ },
+ "leveraging": {
+  "ph": "/ˈli:vəridʒɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "促使…改變( leverage的現在分詞 ); [美國英語]槓桿式投機, （使）舉債經營, （使）利用貸款進行投機",
+    "def": ""
+   }
+  ]
+ },
+ "leverhulme": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leverhulme)人名；(英)利弗休姆",
+    "def": ""
+   }
+  ]
+ },
+ "levi": {
+  "ph": "/'li:vai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利瓦伊（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "leviathan": {
+  "ph": "/li'vaiәθәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海中怪獸, 巨輪",
+    "def": "the largest or most massive thing of its kind"
+   }
+  ],
+  "forms": "複數 leviathans"
+ },
+ "levin": {
+  "ph": "/'levin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閃電",
+    "def": "Lightning."
+   }
+  ],
+  "forms": "複數 levins"
+ },
+ "levine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊文（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "levinson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Levinson)人名；(俄、瑞典)萊溫松；(英)萊文森；(法)勒萬松",
+    "def": ""
+   }
+  ]
+ },
+ "levitate": {
+  "ph": "/'leviteit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)輕輕浮起, (使)飄浮空中",
+    "def": "cause to rise in the air and float, as if in defiance of gravity"
+   }
+  ],
+  "forms": "現在分詞 levitating｜第三人稱單數 levitates｜過去分詞 levitated｜過去式 levitated"
+ },
+ "levitating": {
+  "ph": "/'levɪteɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）升空, （使）漂浮( levitate的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "levitation": {
+  "ph": "/,levi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 懸浮",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 飄浮感",
+    "def": ""
+   }
+  ]
+ },
+ "leviticus": {
+  "ph": "/li'vitikәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<<利未記>>(<<聖經>>的一部分)",
+    "def": "the third book of the Old Testament; contains Levitical law and ritual precedents"
+   }
+  ]
+ },
+ "levitt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊維特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "levity": {
+  "ph": "/'levәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕率, 輕浮, 不穩定",
+    "def": "feeling an inappropriate lack of seriousness"
+   }
+  ]
+ },
+ "levy": {
+  "ph": "/'levi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "稅款, 所徵的人數, 徵收",
+    "def": "a charge imposed and collected"
+   },
+   {
+    "pos": "vi.",
+    "zh": "徵稅, 課稅",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "徵收, 強求, 召集",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 levied｜複數 levies｜現在分詞 levying｜過去式 levied｜第三人稱單數 levies"
+ },
+ "levying": {
+  "ph": "/ˈli:viŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "徵（兵）( levy的現在分詞 ); 索取; 發動（戰爭）; 徵稅",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 levying"
+ },
+ "lew": {
+  "ph": "/lu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盧（等於Louis, 男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lews"
+ },
+ "lewd": {
+  "ph": "/lu:d/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淫蕩的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 淫蕩的, 猥褻的",
+    "def": ""
+   }
+  ]
+ },
+ "lewdly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "淫蕩地",
+    "def": ""
+   }
+  ]
+ },
+ "lewdness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 淫亂的, 公開姘居",
+    "def": ""
+   }
+  ]
+ },
+ "lewes": {
+  "ph": "/'lu(:)is/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "劉易斯[英國英格蘭東南部城市](東蘇塞克斯郡首府)",
+    "def": ""
+   }
+  ]
+ },
+ "lewin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "勒溫（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "lewis": {
+  "ph": "/'lu:is/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吊楔",
+    "def": "United States rock star singer and pianist (born in 1935)"
+   }
+  ]
+ },
+ "lewisham": {
+  "ph": "/'lu（:）iʃəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劉易舍姆（英國倫敦的一個區）",
+    "def": ""
+   }
+  ]
+ },
+ "lex": {
+  "ph": "/leks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 法, 法律, 法律實體",
+    "def": ""
+   }
+  ]
+ },
+ "lexical": {
+  "ph": "/'leksikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "字典的, 詞彙的",
+    "def": "of or relating to words"
+   }
+  ]
+ },
+ "lexically": {
+  "ph": "/'leksikəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "詞彙方面；字典地",
+    "def": ""
+   }
+  ]
+ },
+ "lexicographer": {
+  "ph": "/.leksi'kɒgrәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辭典編纂者",
+    "def": "a compiler or writer of a dictionary; a student of the lexical component of language"
+   }
+  ],
+  "forms": "複數 lexicographers"
+ },
+ "lexicography": {
+  "ph": "/.leksi'kɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辭典編纂",
+    "def": "the act of writing dictionaries"
+   }
+  ]
+ },
+ "lexicon": {
+  "ph": "/'leksikәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詞彙, 詞典, 辭典",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 辭典",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lexicons"
+ },
+ "lexington": {
+  "ph": "/'leksiŋtәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列剋星敦市（位於美國肯塔基州）",
+    "def": "town in eastern Massachusetts near Boston where the first battle of the American Revolution was fought"
+   }
+  ]
+ },
+ "lexis": {
+  "ph": "/'leksәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詞, 詞彙",
+    "def": "all of the words in a language; all word forms having meaning or grammatical function"
+   }
+  ]
+ },
+ "ley": {
+  "ph": "/lei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草地, 輪作草地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 廢皂鹼水",
+    "def": ""
+   }
+  ],
+  "forms": "複數 leys"
+ },
+ "leyden": {
+  "ph": "/'laidn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊頓(荷蘭都市)",
+    "def": ""
+   }
+  ]
+ },
+ "leyland": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Leyland)人名；(英、法)萊蘭",
+    "def": ""
+   }
+  ]
+ },
+ "leys": {
+  "ph": "/lei; li:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "lea的變體",
+    "def": ""
+   }
+  ]
+ },
+ "leyton": {
+  "ph": "/'leitən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雷敦（英國以前的城市）；萊頓（男子名）",
+    "def": ""
+   }
+  ]
+ }
+}

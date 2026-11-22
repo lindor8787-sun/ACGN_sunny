@@ -1,0 +1,9254 @@
+{
+ "su": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可選部件",
+    "def": ""
+   }
+  ]
+ },
+ "suasion": {
+  "ph": "/'sweiʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說服, 勸告",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 勸告, 勸說",
+    "def": ""
+   }
+  ]
+ },
+ "suave": {
+  "ph": "/swɑ:v/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "柔和的, 溫和的, 文雅的",
+    "def": ""
+   }
+  ]
+ },
+ "suavely": {
+  "ph": "/'sweivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "溫文爾雅地；柔和地；討好地",
+    "def": ""
+   }
+  ]
+ },
+ "sub": {
+  "ph": "/sʌb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "補充人員, 部下, 潛水艇, 膠層, 訂戶, 傻子",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "附屬的, 次級的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "替代, 轉包",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "替代",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 子程式, 使用者, 代替, 減法器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subs｜現在分詞 subbing｜過去式 subbed｜過去分詞 subbed｜第三人稱單數 subs"
+ },
+ "subaltern": {
+  "ph": "/sәb'ɒ:ltәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "部下, 中尉",
+    "def": "a British commissioned army officer below the rank of captain"
+   },
+   {
+    "pos": "adj.",
+    "zh": "下級的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subalterns"
+ },
+ "subarachnoid": {
+  "ph": "/,sʌbә'ræknɔid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 蛛網膜下的",
+    "def": ""
+   }
+  ]
+ },
+ "subarctic": {
+  "ph": "/.sʌb'ɑ:ktik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "靠近北極的, 亞北極的",
+    "def": "of or relating to latitudes just south of the Arctic Circle"
+   }
+  ]
+ },
+ "subaru": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "富士重工；斯巴魯（富士斯巴魯汽車）",
+    "def": ""
+   }
+  ]
+ },
+ "subassembly": {
+  "ph": "/.sʌbә'sembli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "部件, 區域性裝配",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 副裝配",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subassemblies"
+ },
+ "subatomic": {
+  "ph": "/'sʌbә'tɔmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遜原子的, 原子內的, 比原子更小的",
+    "def": "of or relating to constituents of the atom or forces within the atom"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 亞原子的",
+    "def": ""
+   }
+  ]
+ },
+ "subcategory": {
+  "ph": "/'sʌb'kæti^әri/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 子類, 子範疇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subcategories"
+ },
+ "subchapter": {
+  "ph": "/'sʌbtʃæptə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（尤指法律檔案等的）分章；分節",
+    "def": ""
+   }
+  ]
+ },
+ "subclass": {
+  "ph": "/'sʌbklɑ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞綱, 子集",
+    "def": "(biology) a taxonomic category below a class and above an order"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 亞綱(生物分類)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subclasses｜第三人稱單數 subclasses"
+ },
+ "subclavian": {
+  "ph": "/'sʌb'kleiviәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鎖骨下的",
+    "def": "situated beneath the clavicle"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鎖骨下的",
+    "def": ""
+   }
+  ]
+ },
+ "subclinical": {
+  "ph": "/sʌb'klinikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無臨床症狀的, 輕度不正常的, 症狀不明顯的, 亞臨床的",
+    "def": "relating to the stage in the development of a disease before the symptoms are observed"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 臨床症狀不顯的, 亞臨床的",
+    "def": ""
+   }
+  ]
+ },
+ "subcommittee": {
+  "ph": "/'sʌbkә.miti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小組委員會",
+    "def": "a subset of committee members organized for a specific purpose"
+   }
+  ],
+  "forms": "複數 subcommittees"
+ },
+ "subcompact": {
+  "ph": "/'sʌb'kɔmpækt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超小型汽車",
+    "def": "a car smaller than a compact car"
+   }
+  ]
+ },
+ "subconscious": {
+  "ph": "/.sʌb'kɒnʃәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潛在意識, 下意識",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "下意識的, 潛意識的",
+    "def": ""
+   }
+  ]
+ },
+ "subconsciously": {
+  "ph": "/ˌsʌb'kɒnʃəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "潛意識地",
+    "def": ""
+   }
+  ]
+ },
+ "subcontinent": {
+  "ph": "/sʌb'kɒntinәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "次大陸",
+    "def": "a large and distinctive landmass (as India or Greenland) that is a distinct part of some continent"
+   }
+  ]
+ },
+ "subcontinental": {
+  "ph": "/sʌbkɒntɪ'nentl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "次大陸的",
+    "def": ""
+   }
+  ]
+ },
+ "subcontract": {
+  "ph": "/sʌb'kɒntrækt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉包合同, 分包合同",
+    "def": "a contract assigning to another party some obligations of a prior contract"
+   },
+   {
+    "pos": "v.",
+    "zh": "轉包",
+    "def": "arranged for contracted work to be done by others"
+   }
+  ],
+  "forms": "現在分詞 subcontracting｜過去分詞 subcontracted｜過去式 subcontracted｜複數 subcontracts｜第三人稱單數 subcontracts"
+ },
+ "subcontracting": {
+  "ph": "/sʌb'kəntræktɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分包, 轉包",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "（將大工程）轉包, 分包( subcontract的現在分詞 ); 制定[履行]轉包",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 subcontracting"
+ },
+ "subcontractor": {
+  "ph": "/,sʌbkәn'træktә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉包工作的承包者, 分包者, 轉包人",
+    "def": "someone who enters into a subcontract with the primary contractor"
+   }
+  ],
+  "forms": "複數 subcontractors"
+ },
+ "subcortical": {
+  "ph": "/'sʌb'kɔ:tikәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 皮質下的, 皮層下的",
+    "def": ""
+   }
+  ]
+ },
+ "subcritical": {
+  "ph": "/sʌb'kritikl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "近乎危急的",
+    "def": ""
+   }
+  ]
+ },
+ "subcultural": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]亞文化",
+    "def": ""
+   }
+  ]
+ },
+ "subculture": {
+  "ph": "/'sʌb,kʌltʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "再次培養, 亞文化群",
+    "def": "a social group within a national culture that has distinctive patterns of behavior and beliefs"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 次代培養物, 次培養物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subcultures｜第三人稱單數 subcultures｜過去分詞 subcultured"
+ },
+ "subcutaneous": {
+  "ph": "/.sʌbkju:'teiniәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "皮下的, 皮下用的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 皮下的",
+    "def": ""
+   }
+  ]
+ },
+ "subdiscipline": {
+  "ph": "/'sʌb'disiplin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學科的分支",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subdisciplines"
+ },
+ "subdivide": {
+  "ph": "/'sʌbdi'vaid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "vi. (把...)再分, (把...)細分",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 再分, 細分",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subdivided｜現在分詞 subdividing｜過去式 subdivided｜第三人稱單數 subdivides"
+ },
+ "subdivided": {
+  "ph": "/ˌsʌbdɪˈvaɪdid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "再分, 細分( subdivide的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subdivided｜過去式 subdivided"
+ },
+ "subdivision": {
+  "ph": "/.sʌbdi'viʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細分, 分部",
+    "def": "an area composed of subdivided lots"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 再分; 亞門",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subdivisions"
+ },
+ "subduct": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "減去, 拿掉",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 下轉",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subducted｜過去式 subducted｜現在分詞 subducting"
+ },
+ "subduction": {
+  "ph": "/sʌb'dʌkʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 下轉, 眼球下轉",
+    "def": ""
+   }
+  ]
+ },
+ "subdue": {
+  "ph": "/sәb'dju:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使服從, 壓制, 減弱, 抑制, 剋制",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subdued｜現在分詞 subduing｜過去式 subdued｜第三人稱單數 subdues"
+ },
+ "subdued": {
+  "ph": "/sәb'dju:d/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "屈服的, 被抑制的, 減弱的, 柔和的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subdued｜過去式 subdued"
+ },
+ "subdural": {
+  "ph": "/sʌb'djjәrәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 硬膜下的",
+    "def": ""
+   }
+  ]
+ },
+ "subfamily": {
+  "ph": "/sʌb'fæmili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞科",
+    "def": "(biology) a taxonomic category below a family"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 亞科",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subfamilies"
+ },
+ "subfield": {
+  "ph": "/'sʌbfi:ld/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 子欄位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subfields"
+ },
+ "subfloor": {
+  "ph": "/'sʌb,flɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "底層地板",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subfloors"
+ },
+ "subgenre": {
+  "ph": "/'sʌb,dʒeŋrə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "亞種；亞美",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subgenres"
+ },
+ "subglottic": {
+  "ph": "/sʌbɡ'lɒtɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]聲門下的",
+    "def": ""
+   }
+  ]
+ },
+ "subgroup": {
+  "ph": "/'sʌbgru:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小群, 隸屬的小組織, 子群",
+    "def": "a distinct and often subordinate group within a group"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 族; 族週期表; 副族(指週期表中B族); 子群; 亞群(生物分類); 族(數)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subgroups｜現在分詞 subgrouping"
+ },
+ "subhead": {
+  "ph": "/'sʌbhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小標題, 副標題",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 subheading｜複數 subheads"
+ },
+ "subheading": {
+  "ph": "/'sʌb.hediŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副標題",
+    "def": "a heading of a subdivision of a text"
+   }
+  ],
+  "forms": "複數 subheadings"
+ },
+ "subhuman": {
+  "ph": "/.sʌb'hju:mәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "近似人類的, 類人的",
+    "def": "less than human or not worthy of a human being"
+   }
+  ]
+ },
+ "subject": {
+  "ph": "/'sʌbdʒekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "科目, 主題, 臣民, 主語, 題目, (事物的)經受者, 學科, 受治療者, 原因, 理由",
+    "def": "the subject matter of a conversation or discussion"
+   },
+   {
+    "pos": "adj.",
+    "zh": "服從的, 易患...的, 隸屬的, 受支配的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在...條件下",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使隸屬, 使受到",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 主題, 主體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subjects｜過去分詞 subjected｜現在分詞 subjecting｜過去式 subjected｜第三人稱單數 subjects"
+ },
+ "subject matter": {
+  "ph": "/ˈsʌbdʒikt ˈmætə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主題, 論題; 創作的題材, 素材",
+    "def": ""
+   }
+  ]
+ },
+ "subjected": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使從屬；受…影響；使遭受（subject的過去分詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "subjection": {
+  "ph": "/sәb'dʒekʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "征服, 服從, 隸屬",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 隸屬, 服從, 屈從",
+    "def": ""
+   }
+  ]
+ },
+ "subjective": {
+  "ph": "/sәb'dʒektiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "主觀的, 個人的",
+    "def": "taking place within the mind and modified by individual bias"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 主觀的, 自覺的",
+    "def": ""
+   }
+  ]
+ },
+ "subjectively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "主觀地；臆想地；[心]內省地",
+    "def": ""
+   }
+  ]
+ },
+ "subjectivism": {
+  "ph": "/sәb'dʒektivizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主觀主義",
+    "def": "(philosophy) the doctrine that knowledge and value are dependent on and limited by your subjective experience"
+   }
+  ]
+ },
+ "subjectivist": {
+  "ph": "/sәb'dʒektivist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主觀主義者",
+    "def": "a person who subscribes to subjectivism"
+   },
+   {
+    "pos": "adj.",
+    "zh": "主觀主義的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subjectivists"
+ },
+ "subjectivity": {
+  "ph": "/,sʌbdʒek'tivәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主觀, 主觀性",
+    "def": "judgment based on individual personal impressions and feelings and opinions rather than external facts"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 主觀性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subjectivities"
+ },
+ "subjects": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主題；被試者；學科；科目（subject的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "subjugate": {
+  "ph": "/'sʌbdʒugeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "征服, 使服從, 抑制, 剋制",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subjugated｜現在分詞 subjugating｜過去式 subjugated｜第三人稱單數 subjugates"
+ },
+ "subjugated": {
+  "ph": "/ˈsʌbdʒəˌgeɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "征服, 降伏( subjugate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subjugated｜過去式 subjugated"
+ },
+ "subjugation": {
+  "ph": "/.sʌbdʒu'geiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "征服, 鎮壓, 平息",
+    "def": "forced submission to control by others"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 征服, 鎮壓, 剋制",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subjugations"
+ },
+ "subjunctive": {
+  "ph": "/sәb'dʒʌŋktiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "假設法",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "假設法的, 虛擬語氣的",
+    "def": "relating to a mood of verbs"
+   }
+  ],
+  "forms": "複數 subjunctives"
+ },
+ "sublease": {
+  "ph": "/'sʌbli:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉租",
+    "def": "a lease from one lessee to another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "轉租, 分租",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subleases｜過去式 subleased｜過去分詞 subleased｜現在分詞 subleasing｜第三人稱單數 subleases"
+ },
+ "sublet": {
+  "ph": "/.sʌb'let/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "轉租",
+    "def": "lease or rent all or part of (a leased or rented property) to another person"
+   },
+   {
+    "pos": "n.",
+    "zh": "轉租的房屋",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sublet｜過去式 sublet｜現在分詞 subletting｜複數 sublets｜第三人稱單數 sublets"
+ },
+ "sublimate": {
+  "ph": "/'sʌblimeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使昇華, 使高尚",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "昇華, 純化",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "純淨化的, 高尚的, 理想化的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "昇華物",
+    "def": "the product of vaporization of a solid"
+   }
+  ],
+  "forms": "過去式 sublimated｜複數 sublimates｜過去分詞 sublimated｜現在分詞 sublimating｜第三人稱單數 sublimates"
+ },
+ "sublimated": {
+  "ph": "/sʌb'lɪmeɪtɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使某物質）昇華( sublimate的過去式和過去分詞 ); 使淨化; 純化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sublimated"
+ },
+ "sublimation": {
+  "ph": "/.sʌbli'meiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淨化, 昇華作用, 高尚化",
+    "def": "(chemistry) a change directly from the solid to the gaseous state without becoming liquid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 昇華",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sublimations"
+ },
+ "sublime": {
+  "ph": "/sә'blaim/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高尚的, 壯觀的, 卓越的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "提高, (使)變高尚, (使)純化, (使)昇華",
+    "def": "vaporize and then condense right back again"
+   },
+   {
+    "pos": "n.",
+    "zh": "莊嚴, 崇高, 頂點",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 sublimest｜過去式 sublimed｜複數 sublimes｜現在分詞 subliming｜第三人稱單數 sublimes｜過去分詞 sublimed"
+ },
+ "sublimely": {
+  "ph": "/sə'blaɪmlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "高尚地, 卓越地",
+    "def": ""
+   }
+  ]
+ },
+ "subliminal": {
+  "ph": "/sʌb'liminl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "下意識的, 潛在意識的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 閾下的, 限下的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subliminals"
+ },
+ "subliminally": {
+  "ph": "/sʌb'liminəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "下意識地",
+    "def": ""
+   }
+  ]
+ },
+ "sublimity": {
+  "ph": "/sʌb'limiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莊嚴, 崇高, 高尚",
+    "def": "nobility in thought or feeling or style"
+   }
+  ],
+  "forms": "複數 sublimities"
+ },
+ "sublingual": {
+  "ph": "/sʌb'liŋgwәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "舌下的, 舌下腺的",
+    "def": "beneath the tongue"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 舌下的",
+    "def": ""
+   }
+  ]
+ },
+ "subluxation": {
+  "ph": "/,sʌblʌk'seiʃən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 不全脫位, 半脫位",
+    "def": ""
+   }
+  ]
+ },
+ "submachine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 子機",
+    "def": ""
+   }
+  ]
+ },
+ "submandibular": {
+  "ph": "/,sʌbmæn'dibjjlә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 下頜下的",
+    "def": ""
+   }
+  ]
+ },
+ "submarine": {
+  "ph": "/'sʌbmәri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潛水艇, 海底生物",
+    "def": "a submersible warship usually armed with torpedoes"
+   },
+   {
+    "pos": "adj.",
+    "zh": "海中的, 生長在海中的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用潛水艇攻擊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "在下疾行, 在下滑動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 submarines｜現在分詞 submarining｜過去式 submarined｜第三人稱單數 submarines｜過去分詞 submarined"
+ },
+ "submariner": {
+  "ph": "/'sʌbmәri:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潛水艇乘員",
+    "def": "a member of the crew of a submarine"
+   }
+  ],
+  "forms": "複數 submariners"
+ },
+ "submatrix": {
+  "ph": "/sʌb'meitriks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 子矩陣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 submatrices"
+ },
+ "submaximal": {
+  "ph": "/səb'mæksɪml/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]次於最大的",
+    "def": ""
+   }
+  ]
+ },
+ "submenu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 子選單, 子選單; DOS內部命令:在啟動選單中建立子選單",
+    "def": ""
+   }
+  ]
+ },
+ "submerge": {
+  "ph": "/sәb'mә:dʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使浸水, 使陷入, 淹沒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "潛入水中",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 submerged｜現在分詞 submerging｜過去式 submerged｜第三人稱單數 submerges｜複數 submerges"
+ },
+ "submerged": {
+  "ph": "/sәb'mә:dʒd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "水下的, 在水中的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 submerged"
+ },
+ "submergence": {
+  "ph": "/sәb'mә:dʒәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下沉, 下潛, 淹沒",
+    "def": "sinking until covered completely with water"
+   }
+  ]
+ },
+ "submersed": {
+  "ph": "/sәb'mә:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生長水中的",
+    "def": ""
+   }
+  ]
+ },
+ "submersible": {
+  "ph": "/sәb'mә:sәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能沉入水中的, 能潛水的",
+    "def": "capable of being immersed in water or functioning while submerged"
+   }
+  ],
+  "forms": "複數 submersibles"
+ },
+ "submersion": {
+  "ph": "/sʌb'mә:ʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 浸沒, 浸入",
+    "def": ""
+   }
+  ]
+ },
+ "submicroscopic": {
+  "ph": "/,sʌbmaikrә'skɔpik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞微觀的, 普通顯微鏡下看不出的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 亞微觀的, 亞顯微的",
+    "def": ""
+   }
+  ]
+ },
+ "submillimeter": {
+  "ph": "/sʌb'mɪlɪmi:tə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "亞毫米",
+    "def": ""
+   }
+  ]
+ },
+ "submission": {
+  "ph": "/sәb'miʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屈服, 服從, 謙恭, 呈遞, 提交, 意見",
+    "def": "something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competit"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 提交, 提出, 提交公斷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 submissions"
+ },
+ "submissive": {
+  "ph": "/sәb'misiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "服從的, 順從的",
+    "def": "inclined or willing to submit to orders or wishes of others or showing such inclination"
+   }
+  ],
+  "forms": "複數 submissives"
+ },
+ "submissively": {
+  "ph": "/səb'mɪsɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "順從地, 服從地",
+    "def": ""
+   }
+  ]
+ },
+ "submissiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柔順；服從",
+    "def": "the trait of being willing to yield to the will of another person or a superior force etc."
+   }
+  ]
+ },
+ "submit": {
+  "ph": "/sәb'mit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使服從, 使受到, 委託, 提交, 認為",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "屈服, 服從",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 submitted｜過去式 submitted｜現在分詞 submitting｜第三人稱單數 submits"
+ },
+ "submittal": {
+  "ph": "/sәb'mitl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 建議",
+    "def": ""
+   }
+  ]
+ },
+ "submitted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "遞交；主張；屈服（submit的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 submitted｜過去式 submitted"
+ },
+ "subnational": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "低於國家的/地方的",
+    "def": ""
+   }
+  ]
+ },
+ "subnormal": {
+  "ph": "/.sʌb'nɒ:ml/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "低於正常的, 普通以下的, 低能的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 低常的, 正常下的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subnormals"
+ },
+ "subnotebook": {
+  "ph": "/sʌb'nəutbu:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小型膝上型電腦",
+    "def": ""
+   }
+  ]
+ },
+ "suboptimal": {
+  "ph": "/'sʌb'ɔptimәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 次最優的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 最適度下的",
+    "def": ""
+   }
+  ]
+ },
+ "suborbital": {
+  "ph": "/sʌb'ɔ:bitl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "眼眶下面的, 眼睛下面的, 不滿軌道一整圈的",
+    "def": "having or involving a trajectory of less than one orbit"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 眶下的",
+    "def": ""
+   }
+  ]
+ },
+ "subordinate": {
+  "ph": "/sә'bɒ:dnit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屬下, 附屬物",
+    "def": "an assistant subject to the authority or control of another"
+   },
+   {
+    "pos": "adj.",
+    "zh": "下級的, 次要的, 附屬的",
+    "def": "lower in rank or importance"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使居下位, 使服從",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subordinates｜過去分詞 subordinated｜過去式 subordinated｜現在分詞 subordinating｜第三人稱單數 subordinates"
+ },
+ "subordinated": {
+  "ph": "/sə'bɔ:dɪneɪtɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "從屬( subordinate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 subordinated"
+ },
+ "subordination": {
+  "ph": "/sә.bɒ:di'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下級地位, 隸屬, 第二位",
+    "def": "the state of being subordinate to something"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 附屬, 從屬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subordinations"
+ },
+ "suborn": {
+  "ph": "/sʌ'bɒ:n/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使作偽證, 唆使, 慫恿, 收買",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suborned｜過去式 suborned｜現在分詞 suborning｜第三人稱單數 suborns"
+ },
+ "subornation": {
+  "ph": "/,sʌbɔ:'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "收買",
+    "def": "underhandedly or improperly inducing someone to do something improper or unlawful"
+   }
+  ]
+ },
+ "subpart": {
+  "ph": "/sʌb'pɑ:t/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計][VA/ST]元件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subparts"
+ },
+ "subperiosteal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 骨膜下的",
+    "def": ""
+   }
+  ]
+ },
+ "subplot": {
+  "ph": "/'sʌbplɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陪襯情節, 次要情節",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subplots"
+ },
+ "subpoena": {
+  "ph": "/sәb'pi:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傳票",
+    "def": "a writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court"
+   },
+   {
+    "pos": "vt.",
+    "zh": "傳審, 傳喚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subpoenas｜過去分詞 subpoenaed｜過去式 subpoenaed｜現在分詞 subpoenaing｜第三人稱單數 subpoenas"
+ },
+ "subpoenaed": {
+  "ph": "/səˈpi:nəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "<律>（用傳票）傳喚（某人）( subpoena的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 subpoenaed"
+ },
+ "subpopulation": {
+  "ph": "/'sʌb,pɔpjj'leiʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(從其他人口分出或構成總人口的)分組人口",
+    "def": "a population that is part of a larger population"
+   }
+  ],
+  "forms": "複數 subpopulations"
+ },
+ "subprime": {
+  "ph": "/ˌsʌb'praɪm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "準一流的, 近乎頭等的; 準最低貸款利率的",
+    "def": ""
+   }
+  ]
+ },
+ "subregion": {
+  "ph": "/'sʌb.ri:dʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subregions"
+ },
+ "subregional": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "亞區",
+    "def": ""
+   }
+  ]
+ },
+ "subretinal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 視網膜下的",
+    "def": ""
+   }
+  ]
+ },
+ "subroutine": {
+  "ph": "/'sʌbru:.ti:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "子程式",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 子程式; 子例行程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subroutines"
+ },
+ "subsample": {
+  "ph": "/'sʌb,sɑ:mpl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 次級樣本, 子樣本",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subsamples"
+ },
+ "subscale": {
+  "ph": "/'sʌb,skeil/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "內部[擴散]氧化物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subscales"
+ },
+ "subscore": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "分項分數",
+    "def": ""
+   }
+  ]
+ },
+ "subscribe": {
+  "ph": "/sәb'skraib/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "捐獻, 簽署",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "贊成, 同意, 捐款, 預訂, 認購",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 訂閱",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subscribed｜現在分詞 subscribing｜過去式 subscribed｜第三人稱單數 subscribes"
+ },
+ "subscriber": {
+  "ph": "/sʌbs'kraibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "簽署者, 捐獻者, 訂戶",
+    "def": "someone who expresses strong approval"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 定戶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subscribers"
+ },
+ "subscript": {
+  "ph": "/'sʌbskript/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "下標的, 寫在底下的",
+    "def": "written or printed below and to one side of another character"
+   },
+   {
+    "pos": "n.",
+    "zh": "下標",
+    "def": "a character or symbol set or printed or written beneath or slightly below and to the side of another character"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 下標",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subscripts"
+ },
+ "subscription": {
+  "ph": "/sәb'skripʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捐獻, 訂金, 訂閱, 簽署, 同意",
+    "def": "a payment for consecutive issues of a newspaper or magazine for a given period of time"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 訂購",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subscriptions"
+ },
+ "subsea": {
+  "ph": "/sʌb'si:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "海底的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在海底",
+    "def": ""
+   }
+  ]
+ },
+ "subsection": {
+  "ph": "/'sʌb.sekʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分部, 分割槽, 分支",
+    "def": "a section of a section; a part of a part; i.e., a part of something already divided"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 分部, 分段, 小小組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subsections"
+ },
+ "subsector": {
+  "ph": "/sʌb'sektə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "子截口",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subsectors"
+ },
+ "subsequent": {
+  "ph": "/'sʌbsikwәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "後來的, 接下去的",
+    "def": "following in time or order"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 後來的",
+    "def": ""
+   }
+  ]
+ },
+ "subsequently": {
+  "ph": "/'sʌbsikwәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "後來, 隨後",
+    "def": ""
+   }
+  ]
+ },
+ "subserve": {
+  "ph": "/sәb'sә:v/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對...有用, 對...有幫助, 對...有益, 促進",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subserved｜現在分詞 subserving｜第三人稱單數 subserves｜過去式 subserved"
+ },
+ "subservience": {
+  "ph": "/sәb's\\\\\\\\:viәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輔助性, 從屬性, 有幫助, 有用, 奉承, 奴性, 諂媚",
+    "def": "the condition of being something that is useful in reaching an end or carrying out a plan"
+   }
+  ]
+ },
+ "subservient": {
+  "ph": "/sәb'sә:viәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有幫助的, 有用的, 奉承的",
+    "def": ""
+   }
+  ]
+ },
+ "subset": {
+  "ph": "/'sʌbset/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "子集",
+    "def": "a set whose members are members of another set; a set contained within another set"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 子集; 子裝置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subsets｜過去分詞 subsetted"
+ },
+ "subside": {
+  "ph": "/sәb'said/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "沉澱, 沉降, 平息",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 subsided｜過去分詞 subsided｜第三人稱單數 subsides｜現在分詞 subsiding"
+ },
+ "subsided": {
+  "ph": "/səbˈsaidid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（土地）下陷（因在地下采礦）( subside的過去式和過去分詞 ); 減弱; 下降至較低或正常水平; 一下子坐在椅子等上",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 subsided｜過去分詞 subsided"
+ },
+ "subsidence": {
+  "ph": "/sәb'saidәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉澱, 下沉, 陷沒",
+    "def": ""
+   }
+  ]
+ },
+ "subsidiarity": {
+  "ph": "/səbˌsɪdiˈærɪti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "權力自主原則, 權力下放原則（允許成員針對影響自身的問題自作主張）",
+    "def": ""
+   }
+  ]
+ },
+ "subsidiary": {
+  "ph": "/sәb'sidiәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "子公司, 附件, 輔助者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "輔助的, 次要的, 津貼的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subsidiaries"
+ },
+ "subsiding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下沉",
+    "def": ""
+   }
+  ]
+ },
+ "subsidise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "給...補助金, 津貼, 資助",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subsidised｜現在分詞 subsidising｜第三人稱單數 subsidises｜過去式 subsidised"
+ },
+ "subsidised": {
+  "ph": "/'sʌbsɪdaɪz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "消退；下沉；平息",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "資助（等於subsidize）；給...補助金",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subsidised｜過去式 subsidised"
+ },
+ "subsidization": {
+  "ph": "/.sʌbsidai'zeiʃәn. -di'zei-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "補助；提供津貼；獎金",
+    "def": "money (or other benefits) obtained as a subsidy"
+   }
+  ]
+ },
+ "subsidize": {
+  "ph": "/'sʌbsidaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "補助, 資助, 賄賂",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 資助, 津貼, 給...補助金",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subsidized｜過去式 subsidized｜現在分詞 subsidizing｜第三人稱單數 subsidizes"
+ },
+ "subsidized": {
+  "ph": "/ˈsʌbsidaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給…津貼或補貼, 資助或補助…( subsidize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 subsidized｜過去分詞 subsidized"
+ },
+ "subsidizing": {
+  "ph": "/ˈsʌbsidaizɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給…津貼或補貼, 資助或補助…( subsidize的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 subsidizing"
+ },
+ "subsidy": {
+  "ph": "/'sʌbsidi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "補助金, 津貼",
+    "def": "a grant paid by a government to an enterprise that benefits the public"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 補助金, 津貼, 補貼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subsidies"
+ },
+ "subsist": {
+  "ph": "/sәb'sist/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "供給食物, 供養",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "生存, 存在",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 subsisting｜第三人稱單數 subsists｜過去分詞 subsisted｜過去式 subsisted"
+ },
+ "subsistence": {
+  "ph": "/sәb'sistәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生存, 生活",
+    "def": "minimal (or marginal) resources for subsisting"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生存",
+    "def": ""
+   }
+  ]
+ },
+ "subsoil": {
+  "ph": "/'sʌbsɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下層土, 底土",
+    "def": "the layer of soil between the topsoil and bedrock"
+   },
+   {
+    "pos": "vt.",
+    "zh": "掘起...的底土",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subsoils｜現在分詞 subsoiling"
+ },
+ "subsonic": {
+  "ph": "/sʌb'sɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "比音速稍慢的, 次音速的",
+    "def": "(of speed) less than that of sound in a designated medium"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 聽域下的",
+    "def": ""
+   }
+  ]
+ },
+ "subspace": {
+  "ph": "/'sʌb,speis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 子空間",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 子空間",
+    "def": ""
+   }
+  ]
+ },
+ "subspecialty": {
+  "ph": "/.sʌb'speʃәlti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分專業, 分科",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subspecialties"
+ },
+ "subspecies": {
+  "ph": "/'sʌb.spi:ʃi:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞種",
+    "def": "(biology) a taxonomic group that is a division of a species; usually arises as a consequence of geographical isolation within a species"
+   }
+  ]
+ },
+ "substance": {
+  "ph": "/'sʌbstәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物質, 實質, 主旨, 資產, 本質, 牢固",
+    "def": "the real physical matter of which a person or thing consists"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 物質",
+    "def": ""
+   }
+  ],
+  "forms": "複數 substances"
+ },
+ "substandard": {
+  "ph": "/.sʌb'stændәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "標準以下的, 不合規格的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 低於定額的",
+    "def": ""
+   }
+  ]
+ },
+ "substantial": {
+  "ph": "/sәb'stænʃәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重要材料(或事物), 有實際價值的東西",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "實質上的, 物質的, 有內容的, 結實的",
+    "def": "having substance or capable of being treated as fact; not imaginary"
+   }
+  ]
+ },
+ "substantiality": {
+  "ph": "/sәb.stænʃi'æliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實質性, 實在性, 實體",
+    "def": "the quality of being substantial or having substance"
+   }
+  ]
+ },
+ "substantially": {
+  "ph": "/sәb'stænʃәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "實質上, 本質上, 大體上",
+    "def": ""
+   }
+  ]
+ },
+ "substantiate": {
+  "ph": "/sәb'stænʃieit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使實體化, 證實",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 確證",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 substantiated｜現在分詞 substantiating｜過去式 substantiated｜第三人稱單數 substantiates"
+ },
+ "substantiated": {
+  "ph": "/səbˈstænʃi:ˌeɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用事實支援（某主張、說法等）, 證明, 證實( substantiate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 substantiated"
+ },
+ "substantiation": {
+  "ph": "/sәb.stænʃi'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實體化, 證實, 證明",
+    "def": ""
+   }
+  ]
+ },
+ "substantive": {
+  "ph": "/'sʌbstәntiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "表示實在的, 有實質的, 獨立存在的, 大量的, 重大的, 堅實的, 名詞的",
+    "def": "defining rights and duties as opposed to giving the rules by which rights and duties are established"
+   },
+   {
+    "pos": "n.",
+    "zh": "名詞性實詞, 名詞",
+    "def": "any word or group of words functioning as a noun"
+   }
+  ],
+  "forms": "複數 substantives"
+ },
+ "substantively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "實質上",
+    "def": "In a substantive manner; in substance;"
+   }
+  ]
+ },
+ "substation": {
+  "ph": "/'sʌbsteiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分局, 分臺, 分所",
+    "def": "a subsidiary station where electricity is transformed for distribution by a low-voltage network"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 變電廠",
+    "def": ""
+   }
+  ]
+ },
+ "substitutability": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可代換性, 可置換性",
+    "def": ""
+   }
+  ]
+ },
+ "substitutable": {
+  "ph": "/'sʌbstitju: tәbl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可替換的, 可代替的",
+    "def": ""
+   }
+  ]
+ },
+ "substitute": {
+  "ph": "/'sʌbstitju:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代理, 代理人, 代用品, 代替者, 代替物",
+    "def": "a person or thing that takes or can take the place of another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "代替",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "替代, 取代, 代用",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "代替的, 代用的, 代用品的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 置換; 替代",
+    "def": ""
+   }
+  ],
+  "forms": "複數 substitutes｜過去分詞 substituted｜現在分詞 substituting｜過去式 substituted｜第三人稱單數 substitutes"
+ },
+ "substituted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "取代的, 代替的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 substituted"
+ },
+ "substitution": {
+  "ph": "/.sʌbsti'tju:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代替, 替換, 代替物",
+    "def": "an event in which one thing is substituted for another"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 置換",
+    "def": ""
+   }
+  ],
+  "forms": "複數 substitutions"
+ },
+ "substitutionary": {
+  "ph": "/,sʌbsti'tju:ʃənәri/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 同substitutional",
+    "def": ""
+   }
+  ]
+ },
+ "substitutive": {
+  "ph": "/'sʌbstitju:tiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "代替的, 代用的, 可取代的",
+    "def": "Tending to afford or furnish a substitute; making"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 取代的, 置換的",
+    "def": ""
+   }
+  ]
+ },
+ "substrate": {
+  "ph": "/'sʌbstreit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "底層, 地層, 襯底, 基底, 基質, 酶作用物, 酶解物",
+    "def": "the substance that is acted upon by an enzyme or ferment"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 襯底; 基片",
+    "def": ""
+   }
+  ],
+  "forms": "複數 substrates"
+ },
+ "substratum": {
+  "ph": "/'sʌb'strɑ:tәm, 'sʌb'streitәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "基礎, 根據, 下層, 基層, 基質, 培養基, 膠層",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 基底",
+    "def": ""
+   }
+  ]
+ },
+ "substructure": {
+  "ph": "/'sʌbstrʌktʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下部結構, 路基, 基礎",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 子結構; 底部結構",
+    "def": ""
+   }
+  ],
+  "forms": "複數 substructures"
+ },
+ "subsume": {
+  "ph": "/sʌb'sju:m/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把...歸入, 把...納入, 把...列入某一類, 把...歸類",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subsumed｜過去式 subsumed｜第三人稱單數 subsumes｜現在分詞 subsuming｜複數 subsumes"
+ },
+ "subsumption": {
+  "ph": "/sʌb'sʌmpʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "包含, 歸類, 包括, 小前題",
+    "def": "incorporating something under a more general category"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 包孕",
+    "def": ""
+   }
+  ]
+ },
+ "subsurface": {
+  "ph": "/'sʌb'sә:fis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "表面下的",
+    "def": "beneath the surface"
+   }
+  ]
+ },
+ "subsystem": {
+  "ph": "/'sʌb.sistәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輔助系統, 子系統",
+    "def": "a system that is part of some larger system"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 子系統",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subsystems"
+ },
+ "subtend": {
+  "ph": "/sәb'tend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 subtended｜第三人稱單數 subtends｜過去分詞 subtended｜現在分詞 subtending"
+ },
+ "subterfuge": {
+  "ph": "/'sʌbtәfju:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遁辭, 藉口, 託辭",
+    "def": "something intended to misrepresent the true nature of an activity"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 遁詞, 託詞, 藉口",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subterfuges"
+ },
+ "subterranean": {
+  "ph": "/.sʌbtә'reinjәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地下的, 秘密的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "地下室, 地下工作者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subterraneans"
+ },
+ "subtest": {
+  "ph": "/sʌb'test/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "子測驗(程式教學用語)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subtests"
+ },
+ "subtext": {
+  "ph": "/sʌb'tekst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潛在的意思, 潛臺詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subtexts"
+ },
+ "subtheme": {
+  "ph": "/sʌb'θi:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分專題",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subthemes"
+ },
+ "subtitle": {
+  "ph": "/'sʌb.taitl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副標題",
+    "def": "translation of foreign dialogue of a movie or TV program; usually displayed at the bottom of the screen"
+   }
+  ],
+  "forms": "複數 subtitles｜過去式 subtitled｜過去分詞 subtitled｜現在分詞 subtitling｜第三人稱單數 subtitles"
+ },
+ "subtitled": {
+  "ph": "/ˈsʌbˌtaitld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有[加]副標題的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subtitled｜過去式 subtitled"
+ },
+ "subtitles": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說明字幕, 印在外國影片上的對白翻譯字幕, 譯文對白字幕",
+    "def": ""
+   }
+  ]
+ },
+ "subtle": {
+  "ph": "/'sʌtl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "敏銳的, 精細的, 狡猾的, 稀薄的, 靈巧的, 微妙的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 銳敏的; 精細的",
+    "def": ""
+   }
+  ]
+ },
+ "subtlety": {
+  "ph": "/'sʌtlti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "微妙, 精明",
+    "def": "the quality of being difficult to detect or analyze"
+   }
+  ],
+  "forms": "複數 subtleties"
+ },
+ "subtly": {
+  "ph": "/'sʌtli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "敏銳地, 巧妙地, 精細地",
+    "def": ""
+   }
+  ]
+ },
+ "subtopic": {
+  "ph": "/'sʌb.tɔpik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副主題；小標題",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subtopics"
+ },
+ "subtotal": {
+  "ph": "/'sʌbtәutl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小計",
+    "def": "the sum of part of a group of numbers"
+   },
+   {
+    "pos": "vt.",
+    "zh": "小計",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "求...部分和, 小計",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "幾乎全部的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 分類彙總",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subtotals"
+ },
+ "subtract": {
+  "ph": "/sәb'trækt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "減去, 扣掉, 減少",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "做減法",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 減",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 subtracting｜過去分詞 subtracted｜過去式 subtracted｜第三人稱單數 subtracts"
+ },
+ "subtraction": {
+  "ph": "/sәb'trækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "減少",
+    "def": "an arithmetic operation in which the difference between two numbers is calculated"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 減法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subtractions"
+ },
+ "subtractive": {
+  "ph": "/sәb'træktiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "減去的, 有負號的, 負的",
+    "def": "constituting or involving subtraction"
+   }
+  ]
+ },
+ "subtropical": {
+  "ph": "/sʌb'trɒpikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞熱帶的",
+    "def": "of or relating to or characteristic of conditions in the subtropics"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 亞熱帶的",
+    "def": ""
+   }
+  ]
+ },
+ "subtropics": {
+  "ph": "/sʌb'trɒpiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞熱帶",
+    "def": "regions adjacent to the tropics"
+   }
+  ]
+ },
+ "subtype": {
+  "ph": "/'sʌbtaip/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 圖表型別",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subtypes｜第三人稱單數 subtypes"
+ },
+ "subunit": {
+  "ph": "/sʌb'ju:nit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 子單元, 子單位",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 亞基",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subunits｜第三人稱單數 subunits"
+ },
+ "suburb": {
+  "ph": "/'sʌbә:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "市郊住宅區, 郊區, 邊緣",
+    "def": "a residential district located on the outskirts of a city"
+   }
+  ],
+  "forms": "複數 suburbs"
+ },
+ "suburban": {
+  "ph": "/sә'bә:bәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "郊外的, 郊區的, (貶)偏狹的, 土氣的, 見識不廣的",
+    "def": "relating to or characteristic of or situated in suburbs"
+   },
+   {
+    "pos": "n.",
+    "zh": "郊區居民",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suburbans"
+ },
+ "suburbanite": {
+  "ph": "/sә'bә:bәnait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "郊區居民",
+    "def": "a resident of a suburb"
+   }
+  ],
+  "forms": "複數 suburbanites"
+ },
+ "suburbanization": {
+  "ph": "/sә.bә:bәnai'zeiʃәn. ni'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "市郊化, 郊區化；近郊化",
+    "def": ""
+   }
+  ]
+ },
+ "suburbia": {
+  "ph": "/sә'bә:biә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "都市的郊區, 郊區居民, 郊區居民所特有的風俗習慣",
+    "def": "suburbanites considered as a cultural class or subculture"
+   }
+  ],
+  "forms": "複數 suburbias"
+ },
+ "subvention": {
+  "ph": "/sәb'venʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "補助金, 津貼, 援助",
+    "def": "grant of financial aid as from a government to an educational institution"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 補助金, 津貼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subventions"
+ },
+ "subversion": {
+  "ph": "/sәb'vә:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顛覆, 打倒, 破壞",
+    "def": "the act of subverting; as overthrowing or destroying a legally constituted government"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 顛覆, 死亡, 敗壞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subversions"
+ },
+ "subversive": {
+  "ph": "/sәb'vә:siv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "從事顛覆的, 破壞性的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "破壞分子, 顛覆分子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subversives"
+ },
+ "subversively": {
+  "ph": "/sʌb'və:sivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "顛覆性地；破壞性地",
+    "def": ""
+   }
+  ]
+ },
+ "subvert": {
+  "ph": "/sәb'vә:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "推翻, 顛覆, 毀滅",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 顛覆, 推翻, 減亡",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 subverted｜現在分詞 subverting｜第三人稱單數 subverts｜過去式 subverted"
+ },
+ "subverted": {
+  "ph": "/səbˈvɜ:tid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "顛覆, 破壞（政治制度、宗教信仰等）( subvert的過去式和過去分詞 ); 使（某人）道德敗壞或不忠",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 subverted"
+ },
+ "subway": {
+  "ph": "/'sʌbwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地鐵, 地道",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "乘地鐵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subways"
+ },
+ "subwoofer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（擴音器的）低音炮, 低音音箱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 subwoofers"
+ },
+ "succeed": {
+  "ph": "/sәk'si:d/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "成功, 繼承, 繼續",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "繼承, 接替",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 succeeded｜過去式 succeeded｜第三人稱單數 succeeds｜現在分詞 succeeding"
+ },
+ "succeeding": {
+  "ph": "/sәk'si:diŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "隨後的, 以後的",
+    "def": "coming after or following"
+   }
+  ],
+  "forms": "現在分詞 succeeding"
+ },
+ "success": {
+  "ph": "/sәk'ses/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成功, 成就, 勝利",
+    "def": "an event that accomplishes its intended purpose"
+   }
+  ],
+  "forms": "複數 successes"
+ },
+ "success story": {
+  "ph": "/səkˈses ˈstɔ:ri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一個人的成名史; 發跡史, 大獲成功之事例",
+    "def": ""
+   }
+  ]
+ },
+ "successful": {
+  "ph": "/sәk'sesful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成功的, 一帆風順的, 順利的",
+    "def": "having succeeded or being marked by a favorable outcome"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 成功的",
+    "def": ""
+   }
+  ]
+ },
+ "successfully": {
+  "ph": "/sәk'sesfjli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "成功, 結果良好, 有成就",
+    "def": ""
+   }
+  ]
+ },
+ "succession": {
+  "ph": "/sәk'seʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連續, 繼承權, 繼位, 演替, 地層次序",
+    "def": "a group of people or things arranged or following in order"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 繼承, 繼承權, 繼位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 successions"
+ },
+ "successional": {
+  "ph": "/sәk'seʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "接連的, 連續性的",
+    "def": "Of or pertaining to a succession; existing in a"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 繼續的, 連續的, 繼承的",
+    "def": ""
+   }
+  ]
+ },
+ "successive": {
+  "ph": "/sәk'sesiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "繼承的, 連續的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 接續承運人; 連續的",
+    "def": ""
+   }
+  ]
+ },
+ "successively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "接連著地；相繼地",
+    "def": ""
+   }
+  ]
+ },
+ "successor": {
+  "ph": "/sәk'sesә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "繼承者, 接任者",
+    "def": "a person who follows next in order"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 後繼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 successors"
+ },
+ "succinct": {
+  "ph": "/sәk'siŋkt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "簡潔的, 緊縮的",
+    "def": ""
+   }
+  ]
+ },
+ "succinctly": {
+  "ph": "/sək'sɪŋktlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "簡潔地; 簡潔地, 簡便地",
+    "def": ""
+   }
+  ]
+ },
+ "succinylcholine": {
+  "ph": "/,sʌksinil'kәjli:n, -'kɔ-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 丁二醯膽礆, 琥珀醯膽礆",
+    "def": ""
+   }
+  ]
+ },
+ "succor": {
+  "ph": "/'sʌkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救援, 援助者",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "救援, 援助",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 succoring｜過去式 succored｜第三人稱單數 succors｜過去分詞 succored｜複數 succors"
+ },
+ "succotash": {
+  "ph": "/'sʌkәtæʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "青玉米粒煮利馬豆",
+    "def": "fresh corn and lima beans with butter or cream"
+   }
+  ]
+ },
+ "succour": {
+  "ph": "/'sʌkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "解救, 援助者",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "解救, 援助",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 succoured｜複數 succours｜過去分詞 succoured｜現在分詞 succouring｜第三人稱單數 succours"
+ },
+ "succubus": {
+  "ph": "/'sʌkjubәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女妖, 魔鬼, 妓女",
+    "def": "a female demon believed to have sexual intercourse with sleeping men"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 男夢魔, 男魘魔",
+    "def": ""
+   }
+  ]
+ },
+ "succulence": {
+  "ph": "/'sʌkjulәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多汁, 青飼料",
+    "def": "a juicy appetizingness"
+   }
+  ]
+ },
+ "succulent": {
+  "ph": "/'sʌkjulәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多汁的, 多水分的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 多汁的(植物)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 succulents"
+ },
+ "succumb": {
+  "ph": "/sә'kʌm/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "屈從, 屈服, 死",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 succumbed｜過去分詞 succumbed｜現在分詞 succumbing｜第三人稱單數 succumbs"
+ },
+ "such": {
+  "ph": "/sʌtʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "如此的, 這樣的",
+    "def": ""
+   }
+  ]
+ },
+ "such as": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "例如..., 像這種的",
+    "def": ""
+   }
+  ]
+ },
+ "suchlike": {
+  "ph": "/'sʌtʃlaik/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "這一類的人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "那樣的, 類似的, 同樣的, 這樣的, 那種的",
+    "def": ""
+   }
+  ]
+ },
+ "suck": {
+  "ph": "/sʌk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "吸, 吮, 吸入, 吮吸, 吸收",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "吸, 吸奶",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "吸, 吸入, 吮吸",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sucking｜過去分詞 sucked｜過去式 sucked｜第三人稱單數 sucks｜複數 sucks"
+ },
+ "sucker": {
+  "ph": "/'sʌkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳兒, 吸管",
+    "def": "a shoot arising from a plant's roots"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 吸盤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suckers｜過去分詞 suckered｜現在分詞 suckering｜過去式 suckered"
+ },
+ "sucking": {
+  "ph": "/'sʌkiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吸奶的, 授乳的, 尚未斷奶的, 乳臭未乾的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 吮, 吸; 吮的, 吮乳的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sucking"
+ },
+ "suckle": {
+  "ph": "/'sʌkl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "哺乳, 養育, 吮吸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 哺乳",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 suckling｜過去式 suckled｜第三人稱單數 suckles｜過去分詞 suckled｜複數 suckles"
+ },
+ "suckler": {
+  "ph": "/'sʌklər/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "哺乳動物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sucklers"
+ },
+ "suckling": {
+  "ph": "/'sʌkliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳兒, 乳臭未乾的小子",
+    "def": "English poet and courtier (1609-1642)"
+   }
+  ],
+  "forms": "現在分詞 suckling｜複數 sucklings"
+ },
+ "sucky": {
+  "ph": "/'sʌki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[俚語]令人不快的, 讓人討厭的",
+    "def": ""
+   }
+  ]
+ },
+ "sucralose": {
+  "ph": "/'su:krələʊs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "三氯蔗糖",
+    "def": ""
+   }
+  ]
+ },
+ "sucrose": {
+  "ph": "/'sju:krәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蔗糖",
+    "def": "a complex carbohydrate found in many plants and used as a sweetening agent"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 蔗二糖(即蔗糖)",
+    "def": ""
+   }
+  ]
+ },
+ "suction": {
+  "ph": "/'sʌkʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸, 吸入, 吸上, 吸引, 吸力",
+    "def": "a force over an area produced by a pressure difference"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 吸氣; 吸入",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suctioned｜現在分詞 suctioning｜複數 suctions｜過去式 suctioned｜第三人稱單數 suctions"
+ },
+ "sud": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "突然意外死亡（sudden unexpected）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suds｜第三人稱單數 suds"
+ },
+ "sudan": {
+  "ph": "/su:'dæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇丹",
+    "def": "a republic in northeastern Africa on the Red Sea; achieved independence from Egypt and the United Kingdom in 1956"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 苯偶氮間苯二酚; 蘇丹",
+    "def": ""
+   }
+  ]
+ },
+ "sudanese": {
+  "ph": "/su:dә'ni:z/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蘇丹的, 蘇丹人的",
+    "def": "of or relating to or characteristic of the African Republic of the Sudan or its people"
+   },
+   {
+    "pos": "n.",
+    "zh": "蘇丹人",
+    "def": "a native or inhabitant of Sudan"
+   }
+  ]
+ },
+ "sudbury": {
+  "ph": "/'sʌdbəri/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "薩德伯裡[加拿大南部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "sudden": {
+  "ph": "/'sʌdn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突然, 忽然",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "突然的, 意外的, 快速的",
+    "def": "happening without warning or in a short space of time"
+   }
+  ]
+ },
+ "sudden death": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "暴死, 突然死亡法",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 猝死",
+    "def": ""
+   }
+  ]
+ },
+ "suddenly": {
+  "ph": "/'sʌdәnli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "突然, 意外, 忽然, 迅速, 即席作成, 即刻, 急速",
+    "def": ""
+   }
+  ]
+ },
+ "suddenness": {
+  "ph": "/'sʌdnnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "意外, 突然",
+    "def": ""
+   }
+  ]
+ },
+ "sudetenland": {
+  "ph": "/su:'deitənlænd, zu:'deitənlɑ:nt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇臺德區(在捷克斯洛伐克西北部)",
+    "def": ""
+   }
+  ]
+ },
+ "sudsy": {
+  "ph": "/'sʌdzi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "肥皂一般的, 起著泡沫的",
+    "def": ""
+   }
+  ]
+ },
+ "sue": {
+  "ph": "/su:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "控告, 起訴, 請求",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "提出訴訟, 提出請求",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sued｜現在分詞 suing｜過去式 sued｜第三人稱單數 sues"
+ },
+ "suede": {
+  "ph": "/sweid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小山羊皮, 起毛皮革, 表面粗糙的軟皮革, 麂皮",
+    "def": "leather with a napped surface"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 絨面革",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suedes"
+ },
+ "suet": {
+  "ph": "/'su:it/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛脂, 羊脂, 板油",
+    "def": "hard fat around the kidneys and loins in beef and sheep"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 獸脂, 牛羊脂",
+    "def": ""
+   }
+  ]
+ },
+ "suez": {
+  "ph": "/'sju(:)iz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇伊士",
+    "def": "a city in northeastern Egypt at the head of the Gulf of Suez and at the southern end of the Suez Canal"
+   }
+  ]
+ },
+ "suffer": {
+  "ph": "/'sʌfә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "遭受, 經歷, 忍受",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "受痛苦, 受損害",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suffered｜過去式 suffered｜現在分詞 suffering｜第三人稱單數 suffers"
+ },
+ "sufferance": {
+  "ph": "/'sʌfәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "容許, 預設, 默許",
+    "def": "patient endurance especially of pain or distress"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 容許, 容忍",
+    "def": ""
+   }
+  ]
+ },
+ "sufferer": {
+  "ph": "/'sʌfәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "受難者, 被害者, 患者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 受害者, 受難者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sufferers"
+ },
+ "suffering": {
+  "ph": "/'sʌfәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苦難, 受苦",
+    "def": "misery resulting from affliction"
+   }
+  ],
+  "forms": "現在分詞 suffering｜複數 sufferings"
+ },
+ "suffice": {
+  "ph": "/sә'fais/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "足夠, 有能力",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "滿足",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 suffices｜過去式 sufficed｜過去分詞 sufficed｜現在分詞 sufficing"
+ },
+ "sufficiency": {
+  "ph": "/sә'fiʃәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "充足, 充分的數量, 自負",
+    "def": "sufficient resources to provide comfort and meet obligations"
+   }
+  ]
+ },
+ "sufficient": {
+  "ph": "/sә'fiʃәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "充分的, 足夠的",
+    "def": "of a quantity that can fulfill a need or requirement but without being abundant"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 充分的, 足夠的",
+    "def": ""
+   }
+  ]
+ },
+ "sufficiently": {
+  "ph": "/sә'fiʃәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "足夠, 充分",
+    "def": ""
+   }
+  ]
+ },
+ "suffix": {
+  "ph": "/'sʌfiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "字尾, 下標",
+    "def": "an affix that is added at the end of the word"
+   },
+   {
+    "pos": "vt.",
+    "zh": "添字尾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 字尾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suffixes｜過去分詞 suffixed｜過去式 suffixed｜現在分詞 suffixing｜第三人稱單數 suffixes"
+ },
+ "suffocate": {
+  "ph": "/'sʌfәkeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使窒息, 噎住, 悶熄",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "悶死, 窒息, 受阻",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 suffocating｜過去分詞 suffocated｜過去式 suffocated｜第三人稱單數 suffocates"
+ },
+ "suffocating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 窒息性的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 suffocating"
+ },
+ "suffocation": {
+  "ph": "/.sʌfә'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窒息",
+    "def": "killing by depriving of oxygen"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 窒息",
+    "def": ""
+   }
+  ]
+ },
+ "suffolk": {
+  "ph": "/'sʌfәk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薩福克（英國東部一郡）；薩克福馬；薩福克羊",
+    "def": ""
+   }
+  ]
+ },
+ "suffragan": {
+  "ph": "/'sʌfrәgәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副監督, 副主教",
+    "def": "an assistant or subordinate bishop of a diocese"
+   },
+   {
+    "pos": "adj.",
+    "zh": "輔佐的, 副的, 副監督的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suffragans"
+ },
+ "suffrage": {
+  "ph": "/'sʌfridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "投票, 選舉權, 參政權, 代禱",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 選舉權, 投票權, 參政權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suffrages"
+ },
+ "suffragette": {
+  "ph": "/.sʌfrә'dʒet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婦女參政權論者",
+    "def": "a woman advocate of women's right to vote (especially a militant advocate in the United Kingdom at the beginning of the 20th century)"
+   }
+  ],
+  "forms": "複數 suffragettes"
+ },
+ "suffragist": {
+  "ph": "/'sʌfrәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "參政權擴大論者, 婦女參政權論者",
+    "def": "an advocate of the extension of voting rights (especially to women)"
+   }
+  ],
+  "forms": "複數 suffragists"
+ },
+ "suffuse": {
+  "ph": "/sә'fju:z/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "遍佈, 瀰漫, 充滿",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suffused｜過去式 suffused｜第三人稱單數 suffuses｜現在分詞 suffusing｜複數 suffuses"
+ },
+ "suffused": {
+  "ph": "/səf'ju:zd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（指顏色、水氣等）瀰漫於, 佈滿( suffuse的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suffused"
+ },
+ "sugar": {
+  "ph": "/'ʃugә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糖, 糖塊, 甜言蜜語",
+    "def": "a white crystalline carbohydrate used as a sweetener and preservative"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加糖於, 使甜蜜, 粉飾, 美化",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "製成糖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sugars｜現在分詞 sugaring｜過去式 sugared｜第三人稱單數 sugars｜過去分詞 sugared"
+ },
+ "sugarcane": {
+  "ph": "/'ʃugәkein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甘蔗, 糖蔗",
+    "def": "juicy canes whose sap is a source of molasses and commercial sugar; fresh canes are sometimes chewed for the juice"
+   }
+  ]
+ },
+ "sugared": {
+  "ph": "/'ʃuɡәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "加了糖的；甜蜜的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sugared"
+ },
+ "sugarless": {
+  "ph": "/'ʃj^әlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無糖的, 不含糖的",
+    "def": "not containing sugar"
+   }
+  ]
+ },
+ "sugarplum": {
+  "ph": "/'ʃugәplæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小糖果, 甜言蜜語, 甜頭",
+    "def": "any of various small sugary candies"
+   }
+  ]
+ },
+ "sugary": {
+  "ph": "/'ʃugәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "含糖的, 糖一般的, 甜的",
+    "def": "containing sugar"
+   }
+  ],
+  "forms": "最高級 sugariest"
+ },
+ "sugden": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sugden)人名；(英)薩格登",
+    "def": ""
+   }
+  ]
+ },
+ "suggest": {
+  "ph": "/sәg'dʒest/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "提議, 建議, 促成, 暗示, 啟發, 使人想起",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 建議, 提出, 提議",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 suggests｜過去分詞 suggested｜過去式 suggested｜現在分詞 suggesting"
+ },
+ "suggested": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "建議的；暗示的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suggested｜過去式 suggested"
+ },
+ "suggestibility": {
+  "ph": "/sә.dʒestә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "易受影響, 易受暗示性",
+    "def": "susceptibility or responsiveness to suggestion"
+   }
+  ]
+ },
+ "suggestible": {
+  "ph": "/sә'dʒestәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易受影響的, 可提議的, 容易受暗示的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 易暗示的",
+    "def": ""
+   }
+  ]
+ },
+ "suggestion": {
+  "ph": "/sә'dʒestʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提議, 意見",
+    "def": "an idea that is suggested"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 暗示",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suggestions"
+ },
+ "suggestions": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "民眾意見箱；員工意見箱",
+    "def": ""
+   }
+  ]
+ },
+ "suggestive": {
+  "ph": "/sә'dʒestiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "提示性的, 影射的, 暗示的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 暗示的",
+    "def": ""
+   }
+  ]
+ },
+ "suggestively": {
+  "ph": "/sə'dʒestivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "提示地；引起聯想地；暗示地",
+    "def": ""
+   }
+  ]
+ },
+ "suggestiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "啟發性暗示性",
+    "def": ""
+   }
+  ]
+ },
+ "suharto": {
+  "ph": "/su'hɑ:təu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇哈托（人名）",
+    "def": "Indonesian statesman who seized power from Sukarno in 1967 (born in 1921)"
+   }
+  ]
+ },
+ "suicidal": {
+  "ph": "/sjui'saidәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自殺的, 自殺性的, 自我毀滅的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 自殺的",
+    "def": ""
+   }
+  ]
+ },
+ "suicidally": {
+  "ph": "/ˌsju:ɪ'saɪdəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "自殺性地, 毀滅性地",
+    "def": ""
+   }
+  ]
+ },
+ "suicide": {
+  "ph": "/'sjuisaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自殺, 自殺者",
+    "def": "the act of killing yourself"
+   },
+   {
+    "pos": "v.",
+    "zh": "自殺",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "自殺的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suicides"
+ },
+ "suis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "上海協和雙語尚音學校國際部（Shanghai United International School Shang Yin Campus）",
+    "def": ""
+   }
+  ]
+ },
+ "suisse": {
+  "ph": "/swi:s/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<法> = Switzerland",
+    "def": ""
+   }
+  ]
+ },
+ "suit": {
+  "ph": "/sju:t. su:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "套裝, 訴訟, 請求, 起訴, 套, 組",
+    "def": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color"
+   },
+   {
+    "pos": "vt.",
+    "zh": "適合, 使適應",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "合適, 相稱",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suited｜第三人稱單數 suits｜複數 suits｜過去式 suited｜現在分詞 suiting"
+ },
+ "suitability": {
+  "ph": "/.sju:tә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適合, 適當",
+    "def": "the quality of having the properties that are right for a specific purpose"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 適合性, 適應性",
+    "def": ""
+   }
+  ]
+ },
+ "suitable": {
+  "ph": "/'sju:tәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適當的, 相配的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 合適的, 適宜的, 適當的",
+    "def": ""
+   }
+  ]
+ },
+ "suitably": {
+  "ph": "/'sju:tәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "合適地, 適當地, 相配地",
+    "def": ""
+   }
+  ]
+ },
+ "suitcase": {
+  "ph": "/'sju:tkeis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手提箱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suitcases"
+ },
+ "suite": {
+  "ph": "/swi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隨員, 套房, (一)組, (一)套, 組曲, 繼之而來的事",
+    "def": "a musical composition of several movements only loosely connected"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 程式組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suites"
+ },
+ "suited": {
+  "ph": "/'sju:tid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適合的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suited｜過去式 suited"
+ },
+ "suiter": {
+  "ph": "/s'wi:tər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放…套衣服的小提箱",
+    "def": ""
+   }
+  ]
+ },
+ "suiting": {
+  "ph": "/'sju:tiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西服料",
+    "def": "a fabric used for suits"
+   }
+  ],
+  "forms": "現在分詞 suiting｜複數 suitings"
+ },
+ "suitor": {
+  "ph": "/'sju:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "起訴者, 請願者, 求婚者",
+    "def": "a man who courts a woman"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 起訴人, 原告, 求婚者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suitors"
+ },
+ "sukarno": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sukarno)人名；(印尼)蘇加諾",
+    "def": "Indonesian statesman who obtained the independence of Indonesia from the Netherlands in 1949 and served as president until ousted by Suharto in a coup d'etat (1"
+   },
+   {
+    "pos": "",
+    "zh": "蘇加諾",
+    "def": ""
+   }
+  ]
+ },
+ "sukey": {
+  "ph": "/'su:ki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<方>茶水壺(亦作suke)",
+    "def": ""
+   }
+  ]
+ },
+ "sulcus": {
+  "ph": "/'sʌlkәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 溝",
+    "def": ""
+   }
+  ]
+ },
+ "suleiman": {
+  "ph": "/'su:ləmɑ:n; ,su:lei'mɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇萊曼（奧斯曼帝國的建立者）",
+    "def": ""
+   }
+  ]
+ },
+ "suleyman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Suleyman)人名；(阿拉伯)蘇萊曼",
+    "def": ""
+   }
+  ]
+ },
+ "sulfa": {
+  "ph": "/'sʌlfә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "磺胺的",
+    "def": ""
+   }
+  ]
+ },
+ "sulfate": {
+  "ph": "/'sʌlfeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硫酸鹽, 硫酸脂",
+    "def": "a salt or ester of sulphuric acid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 硫酸鹽; 硫酸鹽或酯、根",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sulfated｜複數 sulfates｜現在分詞 sulfating｜第三人稱單數 sulfates｜過去分詞 sulfated"
+ },
+ "sulfide": {
+  "ph": "/'sʌlfaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硫化物",
+    "def": "a compound of sulphur and some other element that is more electropositive"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 硫化物",
+    "def": ""
+   }
+  ]
+ },
+ "sulfite": {
+  "ph": "/'sʌlfait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞硫酸鹽",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 亞硫酸鹽; 亞硫酸鹽或酯、根",
+    "def": ""
+   }
+  ]
+ },
+ "sulfur": {
+  "ph": "/'sʌlfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硫, 硫磺",
+    "def": "an abundant tasteless odorless multivalent nonmetallic element; best known in yellow crystals; occurs in many sulphide and sulphate minerals and even in native "
+   },
+   {
+    "pos": "vt.",
+    "zh": "用硫磺處理",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sulfuring｜過去式 sulfured｜第三人稱單數 sulfurs｜過去分詞 sulfured"
+ },
+ "sulfuric": {
+  "ph": "/sʌl'fjuәrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "硫磺的；含多量硫磺的；含（六價）硫的",
+    "def": ""
+   }
+  ]
+ },
+ "sulfurous": {
+  "ph": "/'sʌlfәrәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 亞硫的",
+    "def": ""
+   }
+  ]
+ },
+ "sulk": {
+  "ph": "/sʌlk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬧情緒, 悶悶不樂",
+    "def": "a mood or display of sullen aloofness or withdrawal"
+   },
+   {
+    "pos": "vi.",
+    "zh": "不高興, 悶悶不樂, 不悅, 生氣, 慍怒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sulking｜過去式 sulked｜複數 sulks｜第三人稱單數 sulks｜過去分詞 sulked"
+ },
+ "sulkily": {
+  "ph": "/'sʌlkili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "乖戾地, 悻悻然, 悶悶不樂地",
+    "def": ""
+   }
+  ]
+ },
+ "sulking": {
+  "ph": "/sʌlkɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "生悶氣, 慍怒( sulk的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sulking"
+ },
+ "sulky": {
+  "ph": "/'sʌlki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生氣的, 陰沉的",
+    "def": ""
+   }
+  ]
+ },
+ "sullen": {
+  "ph": "/'sʌlәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "慍怒的, 沉悶的, 陰沉的",
+    "def": ""
+   }
+  ]
+ },
+ "sullenly": {
+  "ph": "/'sʌlənlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不高興地, 繃著臉, 憂鬱地",
+    "def": ""
+   }
+  ]
+ },
+ "sullenness": {
+  "ph": "/'sʌlənnis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "慍怒, 悶悶不樂, （天氣等）陰沉",
+    "def": ""
+   }
+  ]
+ },
+ "sullied": {
+  "ph": "/ˈsʌli:d/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "玷汙, 破壞名聲( sully的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "sullivan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙利文, 蘇利文（人名）",
+    "def": "United States architect known for his steel framed skyscrapers and for coining the phrase `form follows function' (1856-1924)"
+   }
+  ]
+ },
+ "sully": {
+  "ph": "/'sʌli/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "玷汙, 弄髒",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "汙點, 髒汙",
+    "def": "United States painter (born in England) of portraits and historical scenes (1783-1872)"
+   }
+  ],
+  "forms": "過去分詞 sullied｜過去式 sullied｜現在分詞 sullying｜第三人稱單數 sullies"
+ },
+ "sulphasalazine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]柳氮磺胺吡啶, 水楊酸偶氮磺胺吡啶[磺胺類抗菌藥]",
+    "def": ""
+   }
+  ]
+ },
+ "sulphate": {
+  "ph": "/'sʌlfeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硫酸鹽, 硫酸酯",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "硫酸鹽化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sulphates｜過去式 sulphated｜過去分詞 sulphated"
+ },
+ "sulphide": {
+  "ph": "/'sʌlfaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硫化物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 硫化物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sulphides"
+ },
+ "sulphur": {
+  "ph": "/'sʌlfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硫, 硫磺",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 硫",
+    "def": ""
+   }
+  ]
+ },
+ "sulphuric": {
+  "ph": "/sʌl'fjuәrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "硫的",
+    "def": "of or relating to or containing sulfur"
+   }
+  ]
+ },
+ "sulphurous": {
+  "ph": "/'sʌlfәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞硫的, 惡毒的, 褻瀆的, 兇狠的",
+    "def": ""
+   }
+  ]
+ },
+ "sultan": {
+  "ph": "/'sʌltn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇丹(某些伊斯蘭國家統治者的稱號)",
+    "def": "the ruler of a Muslim country (especially of the former Ottoman Empire)"
+   }
+  ],
+  "forms": "複數 sultans"
+ },
+ "sultana": {
+  "ph": "/sʌl'tɑ:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無核小葡萄乾",
+    "def": "pale yellow seedless grape used for raisins and wine"
+   }
+  ],
+  "forms": "複數 sultanas"
+ },
+ "sultanate": {
+  "ph": "/'sʌltәnit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇丹的職務, 蘇丹統治的領土",
+    "def": "country or territory ruled by a sultan"
+   }
+  ],
+  "forms": "複數 sultanates"
+ },
+ "sultry": {
+  "ph": "/'sʌltri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "悶熱的, 粗暴的, 放蕩的, 激烈的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 sultriest"
+ },
+ "sum": {
+  "ph": "/sʌm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "總數, 總和, 金額, 概要, 頂點",
+    "def": "a quantity of money"
+   },
+   {
+    "pos": "vt.",
+    "zh": "總計, 概括",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "合計",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 系統實用程式和維護",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sums｜第三人稱單數 sums｜過去分詞 summed｜過去式 summed｜現在分詞 summing"
+ },
+ "sumac": {
+  "ph": "/'su:mæk, 'ʃu:-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 漆樹[屬植物]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sumacs"
+ },
+ "sumatra": {
+  "ph": "/su'mɑ:trә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇門答臘島（印尼西部的大島）",
+    "def": "a mountainous island in western Indonesia"
+   }
+  ]
+ },
+ "sumatran": {
+  "ph": "/su'mɑ:trәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇門答臘人, 蘇門答臘之印尼語",
+    "def": "a native or inhabitant of Sumatra"
+   },
+   {
+    "pos": "adj.",
+    "zh": "蘇門答臘島(人)的",
+    "def": "of or relating to the island of Sumatra or its inhabitants"
+   }
+  ]
+ },
+ "sumerian": {
+  "ph": "/su:'miәriәn, -'mer-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閃族人[語]",
+    "def": "a member of a people who inhabited ancient Sumer"
+   },
+   {
+    "pos": "adj.",
+    "zh": "閃族人[語]的",
+    "def": "of or relating to ancient Sumer or its inhabitants"
+   }
+  ],
+  "forms": "複數 sumerians"
+ },
+ "sumitomo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "住友商事（財富500強公司之一）",
+    "def": ""
+   }
+  ]
+ },
+ "summa": {
+  "ph": "/'sumә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "總結, 總結性論文",
+    "def": ""
+   }
+  ]
+ },
+ "summarily": {
+  "ph": "/'sʌmәrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "概要地, 概略地, 立刻",
+    "def": ""
+   }
+  ]
+ },
+ "summarise": {
+  "ph": "/'sʌmәraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "概括, 總結, 摘要, 概述",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 summarised｜第三人稱單數 summarises｜過去式 summarised｜現在分詞 summarising"
+ },
+ "summarised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "概述的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "總結的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 summarised｜過去式 summarised"
+ },
+ "summarization": {
+  "ph": "/.sʌmәrai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摘要, 概要",
+    "def": "the act of preparing a summary (or an instance thereof); stating briefly and succinctly"
+   }
+  ]
+ },
+ "summarize": {
+  "ph": "/'sʌmәraiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "概述, 總結",
+    "def": "be a summary of"
+   }
+  ],
+  "forms": "過去分詞 summarized｜第三人稱單數 summarizes｜現在分詞 summarizing｜過去式 summarized"
+ },
+ "summarized": {
+  "ph": "/ˈsʌməraizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "總結, 概述( summarize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 summarized｜過去式 summarized"
+ },
+ "summarizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 求和, 總計, 彙總",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 彙總",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 summarizing"
+ },
+ "summary": {
+  "ph": "/'sʌmәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摘要, 概要",
+    "def": "a brief statement that presents the main points in a concise form"
+   },
+   {
+    "pos": "adj.",
+    "zh": "摘要的, 簡略的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 摘要; 概要",
+    "def": ""
+   }
+  ],
+  "forms": "複數 summaries"
+ },
+ "summat": {
+  "ph": "/ˈsʌmət/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "<英><方>某事, 某物, 某東西",
+    "def": ""
+   }
+  ]
+ },
+ "summation": {
+  "ph": "/sʌ'meiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "總和, 和, 合計",
+    "def": "a concluding summary (as in presenting a case before a law court)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 總和, 總合",
+    "def": ""
+   }
+  ],
+  "forms": "複數 summations"
+ },
+ "summative": {
+  "ph": "/'sʌmətɪv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "總結性；總結的",
+    "def": ""
+   }
+  ]
+ },
+ "summed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "總計, 概括, 總結（sum的過去時和過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "summer": {
+  "ph": "/'sʌmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夏季, 全盛時期",
+    "def": "the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox"
+   },
+   {
+    "pos": "vi.",
+    "zh": "避暑, 過夏天",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 加法器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 summers｜現在分詞 summering｜過去式 summered｜第三人稱單數 summers｜過去分詞 summered"
+ },
+ "summer time": {
+  "ph": "/ˈsʌmə taim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夏令時; 暑季; 夏時制",
+    "def": ""
+   }
+  ]
+ },
+ "summerfield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Summerfield)人名；(英)薩默菲爾德",
+    "def": ""
+   }
+  ]
+ },
+ "summerhouse": {
+  "ph": "/'sʌmәhaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "涼亭, 亭子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 summerhouses"
+ },
+ "summers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薩莫斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "summerson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Summerson)人名；(英)薩默森",
+    "def": ""
+   }
+  ]
+ },
+ "summertime": {
+  "ph": "/'sʌmәtaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "全盛時期, 夏季",
+    "def": ""
+   }
+  ]
+ },
+ "summery": {
+  "ph": "/'sʌmәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "夏的, 夏天似的",
+    "def": "belonging to or characteristic of or occurring in summer"
+   }
+  ]
+ },
+ "summing": {
+  "ph": "/'sʌmiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 求和",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 summing"
+ },
+ "summing-up": {
+  "ph": "/'sʌmiŋ'ʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "總結, 結論, 評估",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 證據概述, 總結, 結論",
+    "def": ""
+   }
+  ]
+ },
+ "summit": {
+  "ph": "/'sʌmit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頂點, 最高階層, 最高階會議",
+    "def": "a meeting of heads of governments"
+   },
+   {
+    "pos": "adj.",
+    "zh": "政府首腦的, 最高階的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 summits"
+ },
+ "summiteer": {
+  "ph": "/,sʌmi'tiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "最高階會議參加者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 summiteers"
+ },
+ "summitry": {
+  "ph": "/'sʌmitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "最高階會議的舉行",
+    "def": ""
+   }
+  ]
+ },
+ "summon": {
+  "ph": "/'sʌmәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "召喚, 召集, 號召, 振奮, 喚起, 鼓起",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 傳喚, 傳訊",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 summoned｜過去式 summoned｜現在分詞 summoning｜第三人稱單數 summons"
+ },
+ "summoning": {
+  "ph": "/ˈsʌmənɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "傳喚( summon的現在分詞 ); 召喚; 傳訊（出庭）; 鼓起（勇氣）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 summoning｜複數 summonings"
+ },
+ "summons": {
+  "ph": "/'sʌmәnz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "召喚, 傳喚, 召集, 傳票",
+    "def": "an order to appear in person at a given place and time"
+   },
+   {
+    "pos": "vt.",
+    "zh": "傳喚, 喚出, 傳到",
+    "def": ""
+   }
+  ],
+  "forms": "複數 summonses｜現在分詞 summoning｜過去式 summoned｜第三人稱單數 summons｜過去分詞 summoned"
+ },
+ "sumner": {
+  "ph": "/'sʌmnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薩姆納（男子名）",
+    "def": "United States sociologist (1840-1910)"
+   }
+  ]
+ },
+ "sumo": {
+  "ph": "/'sju:mәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（日）相撲",
+    "def": "a Japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground"
+   }
+  ]
+ },
+ "sump": {
+  "ph": "/sʌmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汙水坑, 水坑, 機油箱",
+    "def": "an oil reservoir in an internal combustion engine"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 汙水槽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sumps"
+ },
+ "sumpter": {
+  "ph": "/'sʌmptә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "趕馱馬的人, 馱獸",
+    "def": ""
+   }
+  ]
+ },
+ "sumptuary": {
+  "ph": "/'sʌmptʃuәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "限制個人費用的, 禁止奢侈的",
+    "def": ""
+   }
+  ]
+ },
+ "sumptuous": {
+  "ph": "/'sʌmptʃuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奢侈的, 華麗的",
+    "def": ""
+   }
+  ]
+ },
+ "sumptuously": {
+  "ph": "/'sʌmptʃʊəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "奢侈地, 豪華地",
+    "def": ""
+   }
+  ]
+ },
+ "sun": {
+  "ph": "/sʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "太陽, 日, 日光, 陽光",
+    "def": "the star that is the source of light and heat for the planets in the solar system"
+   },
+   {
+    "pos": "vt.",
+    "zh": "曬",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "曬太陽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suns｜現在分詞 sunning｜過去式 sunned｜第三人稱單數 suns｜過去分詞 sunned"
+ },
+ "sunbathe": {
+  "ph": "/'sʌnbeið/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日光浴",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sunbathed｜第三人稱單數 sunbathes｜過去分詞 sunbathed｜現在分詞 sunbathing"
+ },
+ "sunbather": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日光浴者；曬太陽的人",
+    "def": "someone who basks in the sunshine in order to get a suntan"
+   }
+  ],
+  "forms": "複數 sunbathers"
+ },
+ "sunbathing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日光浴",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sunbathing"
+ },
+ "sunbeam": {
+  "ph": "/'sʌnbi:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陽光",
+    "def": "a ray of sunlight"
+   }
+  ],
+  "forms": "複數 sunbeams"
+ },
+ "sunbed": {
+  "ph": "/ˈsʌnbed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（人躺在上面照紫外線太陽燈的）太陽燈浴浴床",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sunbeds"
+ },
+ "sunbelt": {
+  "ph": "/'sʌnbelt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陽光地帶（美國南部地區）",
+    "def": "states in the south and southwest that have a warm climate and tend to be politically conservative"
+   }
+  ]
+ },
+ "sunbird": {
+  "ph": "/'sʌnbә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "太陽鳥",
+    "def": "Any one of numerous species of small brilliantly colored"
+   }
+  ],
+  "forms": "複數 sunbirds"
+ },
+ "sunblock": {
+  "ph": "/ˈsʌnblɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "防曬霜, 紫外線防護霜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sunblocks"
+ },
+ "sunburn": {
+  "ph": "/'sʌnbә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日炙, 曬斑, 曬焦, 曬黑",
+    "def": "redness of the skin caused by exposure to the rays of the sun"
+   },
+   {
+    "pos": "vt.",
+    "zh": "vi. (使)曬黑, (使)曬得退色, (使)曬焦",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sunburned｜現在分詞 sunburning｜過去式 sunburned｜複數 sunburns"
+ },
+ "sunburned": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "曬黑的, 有曬斑的, 日炙的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sunburned"
+ },
+ "sunburnt": {
+  "ph": "/'sʌnb\\\\\\\\:nt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "曬黑的, 有曬斑的, 日炙的",
+    "def": ""
+   }
+  ]
+ },
+ "sunburst": {
+  "ph": "/'sʌnbә:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陽光突現",
+    "def": "a sudden emergence of the sun from behind clouds"
+   }
+  ],
+  "forms": "複數 sunbursts"
+ },
+ "sunbury": {
+  "ph": "/'sʌnbəri; -bεəri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "森伯裡（美國賓夕法尼亞州中東部一座城市）",
+    "def": ""
+   }
+  ]
+ },
+ "sunchoke": {
+  "ph": "/'sʌntʃəuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "=Jerusalem artichoke",
+    "def": ""
+   }
+  ]
+ },
+ "sundae": {
+  "ph": "/'sʌndi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖代冰淇淋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sundaes"
+ },
+ "sundance": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "太陽舞（車名）；日之舞（歌曲名）；聖丹斯（電影節名）；聖得西（服裝品牌名）",
+    "def": ""
+   }
+  ]
+ },
+ "sunday": {
+  "ph": "/'sʌndi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星期日",
+    "def": "first day of the week; observed as a day of rest and worship by most Christians"
+   },
+   {
+    "pos": "adj.",
+    "zh": "星期日的, 業餘的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "度星期日",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sundays"
+ },
+ "sunday school": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "主日學校, 主日學校的師生",
+    "def": ""
+   }
+  ]
+ },
+ "sundeck": {
+  "ph": "/'sʌndek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "客輪的上層甲板, 建築物或游泳池等的日光浴處所",
+    "def": ""
+   }
+  ]
+ },
+ "sunder": {
+  "ph": "/'sʌndә/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "切開, 分離",
+    "def": "break apart or in two, using violence"
+   }
+  ],
+  "forms": "過去分詞 sundered｜現在分詞 sundering｜過去式 sundered｜第三人稱單數 sunders"
+ },
+ "sunderland": {
+  "ph": "/'sʌndәlәnd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "森德蘭[英國英格蘭東北部港市](或譯散德蘭)",
+    "def": ""
+   }
+  ]
+ },
+ "sundew": {
+  "ph": "/'sʌndju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茅膏菜",
+    "def": "any of various bog plants of the genus Drosera having leaves covered with sticky hairs that trap and digest insects; cosmopolitan in distribution"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 茅膏菜[屬植物]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sundews"
+ },
+ "sundial": {
+  "ph": "/'sʌndaiәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日規, 日晷",
+    "def": "timepiece that indicates the daylight hours by the shadow that the gnomon casts on a calibrated dial"
+   }
+  ],
+  "forms": "複數 sundials"
+ },
+ "sundown": {
+  "ph": "/'sʌndaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日落, 闊邊女帽",
+    "def": ""
+   }
+  ]
+ },
+ "sundress": {
+  "ph": "/'sʌn,dres/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "太陽裙,背心裙",
+    "def": "a light loose sleeveless summer dress with a wide neckline and thin shoulder straps that expose the arms and shoulders"
+   }
+  ],
+  "forms": "複數 sundresses"
+ },
+ "sundry": {
+  "ph": "/'sʌndri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "各式各樣的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 雜的, 各種, 各式各樣的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sundries"
+ },
+ "sunfish": {
+  "ph": "/'sʌnfiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "翻車魚, 太陽魚",
+    "def": "the lean flesh of any of numerous American perch-like fishes of the family Centrarchidae"
+   }
+  ],
+  "forms": "過去式 sunfished｜複數 sunfishes"
+ },
+ "sunflower": {
+  "ph": "/'sʌnflauә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "向日葵",
+    "def": "any plant of the genus Helianthus having large flower heads with dark disk florets and showy yellow rays"
+   }
+  ],
+  "forms": "複數 sunflowers"
+ },
+ "sung": {
+  "ph": "/sʌŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "sing的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sung"
+ },
+ "sunglass": {
+  "ph": "/'sʌnglæs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凸透鏡, 太陽眼鏡",
+    "def": "a convex lens that focuses the rays of the sun; used to start a fire"
+   }
+  ],
+  "forms": "複數 sunglasses"
+ },
+ "sunglasses": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "太陽鏡, 墨鏡, 太陽眼鏡",
+    "def": "spectacles that are darkened or polarized to protect the eyes from the glare of the sun"
+   }
+  ]
+ },
+ "sunhat": {
+  "ph": "/sʌn'hæt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "遮陽帽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sunhats"
+ },
+ "sunil": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇尼爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "sunk": {
+  "ph": "/sʌŋk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "凹陷的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "sink的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sunk"
+ },
+ "sunken": {
+  "ph": "/'sʌŋkәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沉沒的, 下凹的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "sink的過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "sunless": {
+  "ph": "/'sʌnlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陽光照射不到的, 陰暗的",
+    "def": ""
+   }
+  ]
+ },
+ "sunlight": {
+  "ph": "/'sʌnlait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日光",
+    "def": "the rays of the sun"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 日光, 太陽光",
+    "def": ""
+   }
+  ]
+ },
+ "sunlit": {
+  "ph": "/'sʌnlit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陽光照射的",
+    "def": ""
+   }
+  ]
+ },
+ "sunni": {
+  "ph": "/'suni:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "〈伊斯蘭〉遜尼派教徒",
+    "def": "one of the two main branches of orthodox Islam"
+   }
+  ],
+  "forms": "複數 sunnis"
+ },
+ "sunny": {
+  "ph": "/'sʌni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陽光充足的, 樂觀的, 快樂的, 像太陽的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 sunnier｜最高級 sunniest｜複數 sunnies"
+ },
+ "sunporch": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日光室",
+    "def": ""
+   }
+  ]
+ },
+ "sunrise": {
+  "ph": "/'sʌnraiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日出, 黎明, 拂曉",
+    "def": "atmospheric phenomena accompanying the daily appearance of the sun"
+   }
+  ],
+  "forms": "複數 sunrises"
+ },
+ "sunroof": {
+  "ph": "/'sʌnru:f. -ruf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汽車頂上可開啟的遮陽篷頂",
+    "def": "an automobile roof having a sliding or raisable panel"
+   }
+  ],
+  "forms": "複數 sunroofs"
+ },
+ "sunroom": {
+  "ph": "/'sʌnru(:)m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(=sun parlor)日光浴室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sunrooms"
+ },
+ "sunscreen": {
+  "ph": "/'sʌnskri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(防曬油中的)遮光劑",
+    "def": "a cream spread on the skin; contains a chemical (as PABA) to filter out ultraviolet light and so protect from sunburn"
+   }
+  ],
+  "forms": "複數 sunscreens｜現在分詞 sunscreening"
+ },
+ "sunset": {
+  "ph": "/'sʌnset/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日落, 晚年",
+    "def": "the time in the evening at which the sun begins to fall below the horizon"
+   }
+  ],
+  "forms": "複數 sunsets"
+ },
+ "sunshade": {
+  "ph": "/'sʌnʃeid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遮陽傘, 天棚, 帽遮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sunshades"
+ },
+ "sunshine": {
+  "ph": "/'sʌnʃain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陽光, 光明, 晴天",
+    "def": ""
+   }
+  ]
+ },
+ "sunshiny": {
+  "ph": "/'sʌnʃaini/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陽光照耀的, 向陽極好的, 晴朗的",
+    "def": "Bright with the rays of the sun; clear, warm, or"
+   }
+  ]
+ },
+ "sunspot": {
+  "ph": "/'sʌnspɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "太陽黑子, 雀斑",
+    "def": "a cooler darker spot appearing periodically on the sun's photosphere; associated with a strong magnetic field"
+   }
+  ],
+  "forms": "複數 sunspots"
+ },
+ "sunstroke": {
+  "ph": "/'sʌnstrәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中暑",
+    "def": "sudden prostration due to exposure to the sun or excessive heat"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 日射病, 中暑",
+    "def": ""
+   }
+  ]
+ },
+ "suntan": {
+  "ph": "/'sʌntæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "曬黑, 土黃色軍服",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 suntanned｜複數 suntans｜現在分詞 suntanning｜過去分詞 suntanned"
+ },
+ "suntanned": {
+  "ph": "/'sʌntænd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "給太陽曬黑的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suntanned｜過去式 suntanned"
+ },
+ "sunup": {
+  "ph": "/'sʌnʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日出",
+    "def": ""
+   }
+  ]
+ },
+ "sunward": {
+  "ph": "/'sʌnwәd/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "朝著太陽",
+    "def": "Toward the sun."
+   }
+  ]
+ },
+ "sunyata": {
+  "ph": "/sən'jɑ:tə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[佛]空",
+    "def": ""
+   }
+  ]
+ },
+ "sup": {
+  "ph": "/sʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一口",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "啜, 呷",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "啜飲, 進晚餐",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 supping｜過去式 supped｜過去分詞 supped｜第三人稱單數 sups"
+ },
+ "super": {
+  "ph": "/'sju:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跑龍套角色, 冗員, 特級品, 特大號, 管理人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "上等的, 特大的, 超級的, 極好的, 十分的, 過分的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "非常",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supers"
+ },
+ "superabundance": {
+  "ph": "/.sju:pәrә'bʌndәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多餘, 過多, 剩餘",
+    "def": ""
+   }
+  ]
+ },
+ "superalloy": {
+  "ph": "/,sju:pә'ælɔi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 高溫合金; 超合金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superalloys"
+ },
+ "superannuated": {
+  "ph": "/sju:pә'rænjueitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "年老退休的, 老朽的, 體弱退休的, 領養老金的, 過時的, 太舊的, 廢棄的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 superannuated"
+ },
+ "superannuation": {
+  "ph": "/,sju:pә,rænju'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "年老退休, 退職, 體弱退休, 淘汰, 廢棄, 退休金",
+    "def": "the act of discharging someone because of age (especially to cause someone to retire from service on a pension)"
+   }
+  ]
+ },
+ "superb": {
+  "ph": "/sju'pә:b/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "極度的, 華麗的, 極好的",
+    "def": ""
+   }
+  ]
+ },
+ "superbly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "雄偉地；壯麗地；上等地；莊重地",
+    "def": ""
+   }
+  ]
+ },
+ "superbug": {
+  "ph": "/ˈsu:pəbʌg/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "超級細菌",
+    "def": ""
+   }
+  ]
+ },
+ "supercalc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "表格處理軟體",
+    "def": ""
+   }
+  ]
+ },
+ "supercar": {
+  "ph": "/'sjuːpəkɑː/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級跑車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supercars"
+ },
+ "supercede": {
+  "ph": "/,sju:pә'si:d/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "代替, 取代, 接替, 緊接著...而到來, [律]延期",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "推遲行動",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 superceded｜現在分詞 superceding｜第三人稱單數 supercedes｜過去式 superceded"
+ },
+ "supercenter": {
+  "ph": "/'sju:pә,sentә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>(尤指郊區的)大商店區,特大購物中心",
+    "def": ""
+   }
+  ]
+ },
+ "supercharge": {
+  "ph": "/'sju:pәtʃɑ:dʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對...增壓, 使超負荷, 使過度, 使過分",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 增壓器",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 supercharging｜過去式 supercharged｜第三人稱單數 supercharges｜過去分詞 supercharged"
+ },
+ "supercharged": {
+  "ph": "/ˈsu:pətʃɑ:dʒd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超動力的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "對…增壓( supercharge的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "supercharger": {
+  "ph": "/'sju:pә.tʃɑ:dʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "增壓器",
+    "def": "compressor that forces increased oxygen into the cylinders of an internal-combustion engine"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 增壓器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superchargers"
+ },
+ "supercilious": {
+  "ph": "/.sju:pә'siliәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傲慢的, 自大的, 目空一切的",
+    "def": ""
+   }
+  ]
+ },
+ "supercluster": {
+  "ph": "/'sju:pә,klʌstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[天]超星系團",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superclusters"
+ },
+ "supercollider": {
+  "ph": "/su:pərkə'laɪdər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級超導對撞機",
+    "def": ""
+   }
+  ]
+ },
+ "supercomputer": {
+  "ph": "/,sju:pәkәm'pju:tә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 巨型計算機, 巨型機, 超級計算機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supercomputers"
+ },
+ "supercomputing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 超級計算",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 supercomputing"
+ },
+ "superconducting": {
+  "ph": "/,sju:pәkәn'dʌktiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超導的, 超導電的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 超導",
+    "def": ""
+   }
+  ]
+ },
+ "superconductive": {
+  "ph": "/.sju:pәkәn'dʌktiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超導現象的, 超導的",
+    "def": ""
+   }
+  ]
+ },
+ "superconductivity": {
+  "ph": "/su:pәkɔndʌk'tiviti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超導性, 超導電性",
+    "def": "the disappearance of electrical resistance at very low temperatures"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 超導性",
+    "def": ""
+   }
+  ]
+ },
+ "superconductor": {
+  "ph": "/,sju:pәkәn'dʌktә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超導體, 超導電體",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 超導體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superconductors"
+ },
+ "supercontinent": {
+  "ph": "/,sju:pә'kɔntinәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[地]超大陸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supercontinents"
+ },
+ "supercooled": {
+  "ph": "/su:pər'ku:ld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "過度冷卻( supercool的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 supercooled"
+ },
+ "supercritical": {
+  "ph": "/,sju:pә'kritikәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 上監界的, 超監界的",
+    "def": ""
+   }
+  ]
+ },
+ "superego": {
+  "ph": "/.sju:pәr'i:gәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超自我",
+    "def": "(psychoanalysis) that part of the unconscious mind that acts as a conscience"
+   }
+  ],
+  "forms": "複數 superegos"
+ },
+ "superficial": {
+  "ph": "/.sju:pә'fiʃәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表面, 外表",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "表面的, 膚淺的, 面積的",
+    "def": "concerned with or comprehending only what is apparent or obvious; not deep or penetrating emotionally or intellectually"
+   }
+  ]
+ },
+ "superficiality": {
+  "ph": "/,sju:pәfiʃi'æliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表面性的事物, 膚淺, 淺薄",
+    "def": "lack of depth of knowledge or thought or feeling"
+   }
+  ],
+  "forms": "複數 superficialities"
+ },
+ "superficially": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "表面, 表面性, 淺層, 不深, 表皮, (貶)膚淺, 一知半解, 淺薄, 平方, 浮面",
+    "def": ""
+   }
+  ]
+ },
+ "superfine": {
+  "ph": "/.sju:pә'fain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過細的, 微細的, 極好的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 最上的, 最細的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superfines"
+ },
+ "superfluid": {
+  "ph": "/'sju:pә.flu:id/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超流體",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 超流體",
+    "def": ""
+   }
+  ]
+ },
+ "superfluidity": {
+  "ph": "/,sju:pәflu-'iditi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 超流動性",
+    "def": ""
+   }
+  ]
+ },
+ "superfluity": {
+  "ph": "/,sju:pә'fluiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多餘, 過剩, 多餘物, 過剩品, 奢侈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superfluities"
+ },
+ "superfluous": {
+  "ph": "/sju'pә:fluәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多餘的, 過剩的",
+    "def": ""
+   }
+  ]
+ },
+ "superfund": {
+  "ph": "/'sju:pəfʌnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級基金",
+    "def": ""
+   }
+  ]
+ },
+ "supergiant": {
+  "ph": "/'sju:pә,dʒaiәnt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "特大的, 超巨型的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supergiants"
+ },
+ "superglue": {
+  "ph": "/ˈsu:pəglu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超強力膠水",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 superglued｜過去分詞 superglued｜複數 superglues"
+ },
+ "supergroup": {
+  "ph": "/'sju:pә,^ru:p/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 超群",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supergroups"
+ },
+ "superheat": {
+  "ph": "/.sju:pә'hi:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使過熱",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "過熱",
+    "def": "The increase of temperature communicated to steam by"
+   }
+  ],
+  "forms": "過去分詞 superheated｜過去式 superheated"
+ },
+ "superheated": {
+  "ph": "/ˌsu:pəˈhi:tɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使過熱( superheat的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 superheated"
+ },
+ "superhero": {
+  "ph": "/'sju:pә,hiәrәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級英雄",
+    "def": ""
+   }
+  ]
+ },
+ "superhighway": {
+  "ph": "/.sju:pә'haiwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級高速公路",
+    "def": "an extensive electronic network (such as the internet) used for the rapid transfer of sound and video and graphics in digital form"
+   }
+  ],
+  "forms": "複數 superhighways"
+ },
+ "superhuman": {
+  "ph": "/.sju:pә'hju:mәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超人的, 人類能力所不能及的",
+    "def": "above or beyond the human or demanding more than human power or endurance"
+   }
+  ],
+  "forms": "複數 superhumans"
+ },
+ "superimpose": {
+  "ph": "/'sju:pәrim'pәuz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把(一物)放在另一物的上面, 添上, 附加, 加上, 新增",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] , 重疊, 疊加",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 superimposed｜過去式 superimposed｜現在分詞 superimposing｜第三人稱單數 superimposes"
+ },
+ "superimposed": {
+  "ph": "/,sju:pәrim'pәuzd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "成階層的, 有層理的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 superimposed｜過去式 superimposed"
+ },
+ "superimposition": {
+  "ph": "/'sju:pәr,impә'ziʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重迭, 添上, 附加, 加上",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superimpositions"
+ },
+ "superintend": {
+  "ph": "/.sju:pәrin'tend/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "指揮, 管理, 監督",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 superintending｜過去式 superintended｜過去分詞 superintended｜第三人稱單數 superintends"
+ },
+ "superintendency": {
+  "ph": "/,sju:pәrin'tendәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "監督者的地位",
+    "def": "The act of superintending; superintendence."
+   },
+   {
+    "pos": "",
+    "zh": "[法] 主管人的職位",
+    "def": ""
+   }
+  ]
+ },
+ "superintendent": {
+  "ph": "/,sju:pәrin'tendәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "監督人, 主管人, 主日學校校長",
+    "def": "a caretaker for an apartment house; represents the owner as janitor and rent collector"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 監督人, 主管人(部門)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superintendents"
+ },
+ "superior": {
+  "ph": "/sju:'piәriә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長者, 佔優勢的人, 上級",
+    "def": "one of greater rank or station or quality"
+   },
+   {
+    "pos": "adj.",
+    "zh": "上級的, 出眾的, 高傲的",
+    "def": "of high or superior quality or performance"
+   }
+  ],
+  "forms": "複數 superiors"
+ },
+ "superiority": {
+  "ph": "/sju:.piәri'ɒriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優越, 高傲",
+    "def": "the quality of being superior"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 優越性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superiorities"
+ },
+ "superiorly": {
+  "ph": "/sju:'piәriәli, sә-/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "卓越地, 超越其他地",
+    "def": "In a superior position or manner."
+   }
+  ]
+ },
+ "superlative": {
+  "ph": "/sju:'pә:lәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最上的, 無比的, 過度的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "最好的人(物), 最高程度, 最高階",
+    "def": "an exaggerated expression (usually of praise)"
+   }
+  ],
+  "forms": "複數 superlatives"
+ },
+ "superluminal": {
+  "ph": "/,sju:pә'lju:minәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超光速的",
+    "def": ""
+   }
+  ]
+ },
+ "supermajority": {
+  "ph": "/,sju:pəmə'dʒɔriti, -,dʒɔ:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "絕對多數制",
+    "def": ""
+   }
+  ]
+ },
+ "superman": {
+  "ph": "/'sju:pәmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "具有超人能力的人, 超人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supermen"
+ },
+ "supermarket": {
+  "ph": "/'sju:pәmɑ:kit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級市場",
+    "def": "a large self-service grocery store selling groceries and dairy products and household goods"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 超級市場, 自助售貨商店",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supermarkets"
+ },
+ "supermax": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超最大值；速伯瑪公司（經銷及出口膠乳手套的公司）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supermaxes"
+ },
+ "supermodel": {
+  "ph": "/ˈsu:pəmɒdl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級名模",
+    "def": "a fashion model who has attained the status of a celebrity"
+   }
+  ],
+  "forms": "複數 supermodels"
+ },
+ "supernal": {
+  "ph": "/sju:'pә:nl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "天上的, 非凡的, 神聖的",
+    "def": "being or coming from on high"
+   }
+  ]
+ },
+ "supernatant": {
+  "ph": "/.sju:pә'neitәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "浮在表面的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [浮於]上層的, 上層清液",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supernatants"
+ },
+ "supernatural": {
+  "ph": "/.sju:pә'nætʃәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超自然的, 神奇的",
+    "def": "not existing in nature or subject to explanation according to natural laws; not physical or material"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 超自然的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supernaturals"
+ },
+ "supernaturalism": {
+  "ph": "/,sju:pә'nætʃәrәlizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超自然性, 超自然主義",
+    "def": "a belief in forces beyond ordinary human understanding"
+   }
+  ]
+ },
+ "supernaturally": {
+  "ph": "/ˌsju:pə'nætʃrəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "超自然地",
+    "def": ""
+   }
+  ]
+ },
+ "supernormal": {
+  "ph": "/.sju:pә'nɒ:ml/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非凡的, 異於尋常的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 超常的, 逾常的",
+    "def": ""
+   }
+  ]
+ },
+ "supernova": {
+  "ph": "/.sju:pә'nәuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超新星",
+    "def": "a star that explodes and becomes extremely luminous in the process"
+   }
+  ],
+  "forms": "複數 supernovas"
+ },
+ "supernumerary": {
+  "ph": "/sjupә'nju:mәrәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "額外的, 多餘的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "跑龍套的角色, 雜工, 臨時演員, 多餘的人/物, 冗員",
+    "def": "a person serving no apparent function"
+   }
+  ],
+  "forms": "複數 supernumeraries"
+ },
+ "superordinate": {
+  "ph": "/,sju:pә'ɔ:dinit, -,neit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "高階的, 地位高的, 上級的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superordinates｜現在分詞 superordinating｜過去式 superordinated｜第三人稱單數 superordinates｜過去分詞 superordinated"
+ },
+ "superorganism": {
+  "ph": "/,sju:pә'ɔ:^әnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[生]超個體(指群居昆蟲等的群體)",
+    "def": ""
+   }
+  ]
+ },
+ "superoxide": {
+  "ph": "/,sju:pә'ɔksaid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 過氧化物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 過氧化物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superoxides"
+ },
+ "superpose": {
+  "ph": "/.sju:pә'pәuz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "放在上面, 重疊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 superposed｜過去分詞 superposed｜現在分詞 superposing｜第三人稱單數 superposes"
+ },
+ "superposition": {
+  "ph": "/.sju:pәpә'ziʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重疊, 疊合, 重合",
+    "def": "(geology) the deposition of one geological stratum on another"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 疊加",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superpositions"
+ },
+ "superpower": {
+  "ph": "/.sju:pә'pauә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級強權, 超級大國",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 超級大國",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superpowers"
+ },
+ "superscalar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 超標量結構",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superscalars"
+ },
+ "superscript": {
+  "ph": "/'sju:pәskript/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "寫在上面的, 標在字元的上角的, 上標的",
+    "def": "written or printed above and to one side of another character"
+   },
+   {
+    "pos": "n.",
+    "zh": "上標",
+    "def": "a character or symbol set or printed or written above and immediately to one side of another character"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 上標",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superscripts"
+ },
+ "supersede": {
+  "ph": "/.sju:pә'si:d/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "代替, 取代, 接替",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 替代, 替換, 充任",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 superseded｜第三人稱單數 supersedes｜過去式 superseded｜現在分詞 superseding"
+ },
+ "supersensitive": {
+  "ph": "/.sju:pә'sensitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過敏的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 過敏的",
+    "def": ""
+   }
+  ]
+ },
+ "supersession": {
+  "ph": "/.sju:pә'seʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "取代, 更迭, 廢棄",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 代替, 廢棄, 撤換",
+    "def": ""
+   }
+  ]
+ },
+ "superset": {
+  "ph": "/'sju:pәset/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[數]超集",
+    "def": ""
+   }
+  ]
+ },
+ "supersize": {
+  "ph": "/ˈsu:pəsaɪz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "the fast food industry phrase for extra large mea; 超級大餐",
+    "def": ""
+   }
+  ]
+ },
+ "supersonic": {
+  "ph": "/.sju:pә'sɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超聲波的",
+    "def": "(of speed) greater than the speed of sound in a given medium (especially air)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 超聲[波]的",
+    "def": ""
+   }
+  ]
+ },
+ "superstar": {
+  "ph": "/'sju:pәstɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級明星",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superstars"
+ },
+ "superstardom": {
+  "ph": "/'sjuːpə,stɑːdəm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "超級明星界",
+    "def": ""
+   }
+  ]
+ },
+ "superstate": {
+  "ph": "/'sju:pәsteit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級大國, 極權主義國家",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 超級大國, 超國家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superstates"
+ },
+ "superstation": {
+  "ph": "/,sju:pәs'teiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "特大功率電臺, 強力電臺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superstations"
+ },
+ "superstition": {
+  "ph": "/.sju:pә'stiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迷信",
+    "def": "an irrational belief arising from ignorance or fear"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 迷信",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superstitions"
+ },
+ "superstitious": {
+  "ph": "/.sju:pә'stiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "迷信的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 迷信的, 由迷信引起的",
+    "def": ""
+   }
+  ]
+ },
+ "superstitiously": {
+  "ph": "/,su:pə'stiʃəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "被邪教所支配",
+    "def": ""
+   }
+  ]
+ },
+ "superstore": {
+  "ph": "/'sju:pә,stɔ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 超級商店",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superstores"
+ },
+ "superstring": {
+  "ph": "/'su:pəstrɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超弦",
+    "def": "a hypothetical particle that is the elementary particle in a theory of space-time"
+   }
+  ],
+  "forms": "複數 superstrings"
+ },
+ "superstructure": {
+  "ph": "/'sju:pәstrʌktʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上部構造, 上層建築",
+    "def": "structure consisting of the part of a ship above the main deck"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 超結構",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superstructures"
+ },
+ "supersymmetric": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "超對稱的",
+    "def": ""
+   }
+  ]
+ },
+ "supersymmetry": {
+  "ph": "/,sju:pә'simitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[物]超對稱性",
+    "def": "(physics) a theory that tries to link the four fundamental forces"
+   }
+  ]
+ },
+ "supertanker": {
+  "ph": "/'sju:pәtæŋkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超級油輪, 巨大油輪",
+    "def": "the largest class of oil tankers"
+   }
+  ],
+  "forms": "複數 supertankers"
+ },
+ "supervene": {
+  "ph": "/,sju:pә'vi:n/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "併發, 伴隨產生, 意外發生, 附帶發生",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 附加, 併發",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 supervenes｜現在分詞 supervening｜過去式 supervened｜過去分詞 supervened"
+ },
+ "supervise": {
+  "ph": "/'sju:pәvaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "監督, 管理, 指導",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 supervised｜現在分詞 supervising｜過去式 supervised｜第三人稱單數 supervises"
+ },
+ "supervised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有監督的",
+    "def": "under observation or under the direction of a superintendent or overseer"
+   }
+  ],
+  "forms": "過去分詞 supervised｜過去式 supervised"
+ },
+ "supervising": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 管理, 監督, 監控",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 supervising"
+ },
+ "supervision": {
+  "ph": "/.sju:pә'viʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "監督, 管理",
+    "def": "management by overseeing the performance or operation of a person or group"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 監督, 管理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supervisions"
+ },
+ "supervisor": {
+  "ph": "/.sju:pә'vaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "管理者, 監督者, 指導者, 視導員",
+    "def": "one who supervises or has charge and direction of"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 管理程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supervisors"
+ },
+ "supervisory": {
+  "ph": "/.sju:pә'vaizәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "管理的, 監督的, 管理人的",
+    "def": "of or limited to or involving supervision"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 監督的, 管理的",
+    "def": ""
+   }
+  ]
+ },
+ "superwoman": {
+  "ph": "/'sju:pә,wumәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女超人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 superwomen"
+ },
+ "supination": {
+  "ph": "/sju:pi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋後, 仰轉, 仰臥位",
+    "def": "rotation of the hands and forearms so that the palms face upward"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 仰臥, 旋後",
+    "def": ""
+   }
+  ]
+ },
+ "supine": {
+  "ph": "/sju:'pain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "仰臥的, 掌心向上的, 懶散的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 仰臥的, 旋後的",
+    "def": ""
+   }
+  ]
+ },
+ "supper": {
+  "ph": "/'sʌpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晚餐",
+    "def": "a light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime"
+   }
+  ],
+  "forms": "複數 suppers"
+ },
+ "suppertime": {
+  "ph": "/'sʌpәtaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晚飯時間",
+    "def": ""
+   }
+  ]
+ },
+ "supplant": {
+  "ph": "/sә'plɑ:nt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "排擠掉, 代替",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 supplanted｜現在分詞 supplanting｜過去式 supplanted｜第三人稱單數 supplants｜複數 supplants"
+ },
+ "supple": {
+  "ph": "/'sʌpl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "柔軟的, 逢迎的, 順從的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使柔軟, 使順從",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 suppling｜最高級 supplest｜比較級 suppler｜過去分詞 suppled｜過去式 suppled｜第三人稱單數 supples"
+ },
+ "supplement": {
+  "ph": "/'sʌplimәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "補充物, 增刊, 補充, 補遺, 補編, 附錄, 補角",
+    "def": "a quantity added (e.g. to make up for a deficiency)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "補充, 增補",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supplements｜過去分詞 supplemented｜現在分詞 supplementing｜過去式 supplemented｜第三人稱單數 supplements"
+ },
+ "supplemental": {
+  "ph": "/.sʌpli'mentl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "補足的, 追加的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 補充的, 補足的",
+    "def": ""
+   }
+  ]
+ },
+ "supplementary": {
+  "ph": "/.sʌpli'mentәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "補足的, 補充的, 追加的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 追加的, 補充的, 增補的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supplementaries"
+ },
+ "supplementation": {
+  "ph": "/,sʌplimen'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "增補, 補足, 補充",
+    "def": "the act of supplementing"
+   }
+  ]
+ },
+ "suppleness": {
+  "ph": "/'sʌplnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "易彎曲, 柔軟, 順從",
+    "def": ""
+   }
+  ]
+ },
+ "suppliant": {
+  "ph": "/'sʌpliәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懇求的, 哀求的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "懇求者, 哀求者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suppliants"
+ },
+ "supplicant": {
+  "ph": "/'sʌplikәnt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 懇求者, 哀求者; 懇求, 哀求, 祈求",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supplicants"
+ },
+ "supplicate": {
+  "ph": "/'sʌplikeit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "懇求, 哀求, 懇請",
+    "def": "ask humbly (for something)"
+   }
+  ],
+  "forms": "過去分詞 supplicated｜現在分詞 supplicating｜過去式 supplicated｜第三人稱單數 supplicates"
+ },
+ "supplication": {
+  "ph": "/.sʌpli'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懇求, 哀求, 祈願",
+    "def": "a humble request for help from someone in authority"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 懇求, 祈求",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supplications"
+ },
+ "supplied": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有...提供的；備有...的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 supplied｜過去式 supplied"
+ },
+ "supplier": {
+  "ph": "/sә'plaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "供應者, 供給國, 供應商",
+    "def": "someone whose business is to supply a particular service or commodity"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 承製廠; 供應廠商",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suppliers"
+ },
+ "supply": {
+  "ph": "/sә'plai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "補給, 供給, 供應品",
+    "def": "an amount of something available for use"
+   },
+   {
+    "pos": "vt.",
+    "zh": "補給, 供給, 提供, 補充",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "替代",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 supplied｜複數 supplies｜現在分詞 supplying｜過去式 supplied｜第三人稱單數 supplies"
+ },
+ "supplying": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "供應；補給",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 supplying"
+ },
+ "support": {
+  "ph": "/sә'pɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "支援, 支撐, 援助, 供養, 支撐物",
+    "def": "the activity of providing for or maintaining by supplying with money or necessities"
+   },
+   {
+    "pos": "vt.",
+    "zh": "支援, 支撐, 幫助, 支援, 忍受, 供養, 證實",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 後援; 支援",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 supported｜現在分詞 supporting｜第三人稱單數 supports｜過去式 supported｜複數 supports"
+ },
+ "supportable": {
+  "ph": "/sә'pɒ:tәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可支援的, 可忍耐的, 可援助的",
+    "def": ""
+   }
+  ]
+ },
+ "supported": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被支援的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 supported｜過去分詞 supported"
+ },
+ "supporter": {
+  "ph": "/sә'pɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "支持者, 後盾, 迫隨者, 護身織物",
+    "def": "a person who backs a politician or a team etc."
+   },
+   {
+    "pos": "",
+    "zh": "[法] 支持者, 贍養者, 撫養者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supporters"
+ },
+ "supporting": {
+  "ph": "/sә'pɔ:tiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "次要的；支援的；輔助性的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 supporting"
+ },
+ "supportive": {
+  "ph": "/sә'pɔ:tiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "支撐, 支承, 資助, 贊助, 支援, 經受, 忍受, 扶養, 證實, 鼓勵, 維持, 伴奏",
+    "def": "furnishing support or assistance"
+   }
+  ]
+ },
+ "supportively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "支援的",
+    "def": ""
+   }
+  ]
+ },
+ "supportiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "支援力",
+    "def": ""
+   }
+  ]
+ },
+ "suppose": {
+  "ph": "/sә'pәuz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "推想, 假設, 以為, 想像, 假定",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "料想",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 supposed｜過去分詞 supposed｜現在分詞 supposing｜第三人稱單數 supposes"
+ },
+ "supposed": {
+  "ph": "/sә'pәuzd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "想象上的, 假定的, 被信以為真的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 推測的, 想像的, 被信以為真的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 supposed｜過去分詞 supposed"
+ },
+ "supposedly": {
+  "ph": "/sә'pәuzidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "想象上, 看上去像, 被認為是, 恐怕, 按照推測",
+    "def": ""
+   }
+  ]
+ },
+ "supposing": {
+  "ph": "/sә'pәjziŋ/",
+  "senses": [
+   {
+    "pos": "conj.",
+    "zh": "如果, 假使",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supposings"
+ },
+ "supposition": {
+  "ph": "/.sʌpә'ziʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "想像, 推測, 推想",
+    "def": "the cognitive process of supposing"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 假定, 推定, 推測",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suppositions"
+ },
+ "suppository": {
+  "ph": "/sә'pɒzitәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "栓劑",
+    "def": "a small plug of medication designed for insertion into the rectum or vagina where it melts"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 栓劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suppositories"
+ },
+ "suppress": {
+  "ph": "/sә'pres/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "鎮壓, 使止住, 禁止, 抑制, 查禁",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 鎮壓, 平定, 禁止出版",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suppressed｜現在分詞 suppressing｜過去式 suppressed｜第三人稱單數 suppresses"
+ },
+ "suppressant": {
+  "ph": "/sә'presәnt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 抑制劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suppressants"
+ },
+ "suppressed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被抑制的, 被忍住的",
+    "def": "kept from public knowledge by various means;"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 抑制的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 suppressed｜過去分詞 suppressed"
+ },
+ "suppression": {
+  "ph": "/sә'preʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抑壓, 鎮壓, 抑制",
+    "def": "the failure to develop some part or organ"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 抑制",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suppressions"
+ },
+ "suppressive": {
+  "ph": "/sә'presiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鎮壓的, 抑制的",
+    "def": ""
+   }
+  ]
+ },
+ "suppressor": {
+  "ph": "/sә'presә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抑制器, 消除器, 抑制柵極",
+    "def": "someone who suppresses"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 抑制器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suppressors"
+ },
+ "suppurate": {
+  "ph": "/'sʌpjureit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "生膿, 化膿, 流膿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 化膿",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 suppurating｜過去式 suppurated｜第三人稱單數 suppurates｜過去分詞 suppurated"
+ },
+ "suppurative": {
+  "ph": "/'sʌpjureitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使化膿的, 化膿性的",
+    "def": "relating to or characterized by suppuration"
+   },
+   {
+    "pos": "n.",
+    "zh": "化膿劑, 吸膿藥",
+    "def": ""
+   }
+  ]
+ },
+ "supra": {
+  "ph": "/'sju:prә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在上；在前",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supras"
+ },
+ "supraclavicular": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 鎖骨上的",
+    "def": ""
+   }
+  ]
+ },
+ "supracondylar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 髁上的",
+    "def": ""
+   }
+  ]
+ },
+ "supraglottic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 聲門上的",
+    "def": ""
+   }
+  ]
+ },
+ "supranational": {
+  "ph": "/.sju:prә'næʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超國家的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supranationals"
+ },
+ "supraventricular": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 室上的",
+    "def": ""
+   }
+  ]
+ },
+ "supremacist": {
+  "ph": "/sә'premәsist, sju-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "至上主義者",
+    "def": "a person who advocates the supremacy of some particular group or race over all others"
+   }
+  ],
+  "forms": "複數 supremacists"
+ },
+ "supremacy": {
+  "ph": "/sju'premәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "至高無上, 霸權地位, 優勢, 至上",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 至高權力, 無上權力, 霸權",
+    "def": ""
+   }
+  ]
+ },
+ "supreme": {
+  "ph": "/sju'pri:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "至高, 霸權",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "至高的, 終極的, 極端的, 最大的",
+    "def": ""
+   }
+  ]
+ },
+ "supremely": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "崇高地；至上地",
+    "def": ""
+   }
+  ]
+ },
+ "supremo": {
+  "ph": "/sju'pri:mәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[英口]最高領導人, 總裁, 首腦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 supremos"
+ },
+ "supt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "監督人, 管理人員（superintendent）",
+    "def": ""
+   }
+  ]
+ },
+ "sur": {
+  "ph": "/s\\\\\\\\:(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 根據",
+    "def": ""
+   }
+  ]
+ },
+ "sura": {
+  "ph": "/'suәrә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腓腸, 小腿肚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suras"
+ },
+ "surbiton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "瑟比頓（英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "surcease": {
+  "ph": "/sә:'si:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "停止",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "中止, 停止",
+    "def": ""
+   }
+  ]
+ },
+ "surcharge": {
+  "ph": "/'sә:tʃɑ:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝載過多, 超載, 追加罰款, 附加稅",
+    "def": "an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使裝載過多, 追加罰款, 收附加稅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surcharges｜過去分詞 surcharged｜第三人稱單數 surcharges｜現在分詞 surcharging｜過去式 surcharged"
+ },
+ "surcoat": {
+  "ph": "/'sә:kәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外衣",
+    "def": "a loose outer coat usually of rich material"
+   }
+  ],
+  "forms": "複數 surcoats"
+ },
+ "sure": {
+  "ph": "/ʃuә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "確信, 必然的, 必定的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "當然, 確實地, 無疑地",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 surest｜比較級 surer"
+ },
+ "surefire": {
+  "ph": "/'ʃuәfaiә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "準不會有錯的, 定能達到目的的",
+    "def": ""
+   }
+  ]
+ },
+ "surely": {
+  "ph": "/'ʃuәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "的確地, 安全地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 保證, 保證人, 保證金",
+    "def": ""
+   }
+  ]
+ },
+ "sureness": {
+  "ph": "/'ʃuәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "確實, 踏實, 安全",
+    "def": "the quality of being steady and unfailing"
+   }
+  ]
+ },
+ "surety": {
+  "ph": "/'ʃuәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "保證人, 保證, 擔保",
+    "def": "something clearly established"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 保證人, 擔保人, 保證",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sureties"
+ },
+ "surf": {
+  "ph": "/sә:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海浪, 拍岸浪",
+    "def": "waves breaking on the shore"
+   },
+   {
+    "pos": "vi.",
+    "zh": "作衝浪運動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 surfing｜過去式 surfed｜過去分詞 surfed｜複數 surfs｜第三人稱單數 surfs"
+ },
+ "surface": {
+  "ph": "/'sә:fis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "面, 表面, 水面, 外表, 平面",
+    "def": "the outer boundary of an artifact or a material layer constituting or resembling such a boundary"
+   },
+   {
+    "pos": "adj.",
+    "zh": "表面的, 外觀的, 膚淺的, 水面上的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成平面, 使浮出水面",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "浮出水面, 呈現, 在地面上工作",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surfaces｜過去式 surfaced｜過去分詞 surfaced｜現在分詞 surfacing｜第三人稱單數 surfaces"
+ },
+ "surfaced": {
+  "ph": "/'sә:fist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "成平面的；刨平的；刨光的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 surfaced"
+ },
+ "surfacing": {
+  "ph": "/'sә:fisiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鋪面, 鋪面材料",
+    "def": "emerging to the surface and becoming apparent"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 表面處理; 表面準備; 表面堆焊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 surfacing｜複數 surfacings"
+ },
+ "surfactant": {
+  "ph": "/sә:'fæktәnt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 表面活性劑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 表面活性劑, 表面活化劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surfactants"
+ },
+ "surfboard": {
+  "ph": "/'sә:fbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衝浪板, 用衝浪板滑水",
+    "def": "a narrow buoyant board for riding surf"
+   }
+  ],
+  "forms": "複數 surfboards｜現在分詞 surfboarding"
+ },
+ "surfeit": {
+  "ph": "/'sә:fit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過食, 過度, 噁心",
+    "def": "the state of being more than full"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使厭膩, 使沉溺於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "飲食過度",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 surfeited｜複數 surfeits｜過去式 surfeited｜現在分詞 surfeiting｜第三人稱單數 surfeits"
+ },
+ "surfer": {
+  "ph": "/'sә:fә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衝浪運動員",
+    "def": "someone who engages in surfboarding"
+   }
+  ],
+  "forms": "複數 surfers"
+ },
+ "surfers": {
+  "ph": "/'sɜːfə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衝浪運動員",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "surfy的變形",
+    "def": ""
+   }
+  ]
+ },
+ "surfing": {
+  "ph": "/'sә:fiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衝浪運動",
+    "def": "the sport of riding a surfboard toward the shore on the crest of a wave"
+   }
+  ],
+  "forms": "現在分詞 surfing"
+ },
+ "surge": {
+  "ph": "/sә:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巨湧, 洶湧, 澎湃",
+    "def": "a sudden or abrupt strong increase"
+   },
+   {
+    "pos": "vi.",
+    "zh": "洶湧, 澎湃, 顛簸, 猛衝, 突然放鬆",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使洶湧奔騰, 急放",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 電壓尖峰",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 surged｜現在分詞 surging｜複數 surges｜過去分詞 surged｜第三人稱單數 surges"
+ },
+ "surgeon": {
+  "ph": "/'sә:dʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外科醫生, 軍醫, 船醫",
+    "def": "a physician who specializes in surgery"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外科醫師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surgeons"
+ },
+ "surgery": {
+  "ph": "/'sә:dʒәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外科, 手術, 手術室, 換球術",
+    "def": "the branch of medical science that treats disease or injury by operative procedures"
+   }
+  ],
+  "forms": "複數 surgeries"
+ },
+ "surgical": {
+  "ph": "/'sә:dʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外科的, 外科醫生的, 手術上的",
+    "def": "of or relating to or involving or used in surgery"
+   },
+   {
+    "pos": "n.",
+    "zh": "外科病例, 外科病房, 外科手術",
+    "def": ""
+   }
+  ]
+ },
+ "surgically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "如外科手術般地",
+    "def": ""
+   }
+  ]
+ },
+ "surging": {
+  "ph": "/'sә:dʒiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "浪湧；衝擊（surge的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 surging｜複數 surgings"
+ },
+ "surinam": {
+  "ph": "/,suәri'næm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇利南",
+    "def": ""
+   }
+  ]
+ },
+ "surinamese": {
+  "ph": "/,suərinə'mi:z; -'mi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇利南公民（單數複數同）",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "蘇利南的",
+    "def": ""
+   }
+  ]
+ },
+ "surkov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Surkov)人名；(俄)蘇爾科夫",
+    "def": ""
+   }
+  ]
+ },
+ "surliness": {
+  "ph": "/'sә:linis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不和藹, 粗魯, 陰沉的天氣",
+    "def": ""
+   }
+  ]
+ },
+ "surly": {
+  "ph": "/'sә:li/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不和藹的, 無禮的, 板面孔的, 陰沉的, 粗暴的, 乖戾的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 surliest｜比較級 surlier"
+ },
+ "surmise": {
+  "ph": "/'sә:maiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "推測, 猜測",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "推測, 臆測",
+    "def": "infer from incomplete evidence"
+   }
+  ],
+  "forms": "過去式 surmised｜過去分詞 surmised｜第三人稱單數 surmises｜現在分詞 surmising｜複數 surmises"
+ },
+ "surmount": {
+  "ph": "/sә:'maunt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "戰勝, 超越, 克服",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 surmounted｜現在分詞 surmounting｜過去式 surmounted｜第三人稱單數 surmounts｜複數 surmounts"
+ },
+ "surmountable": {
+  "ph": "/sә:'mauntәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可克服的；可超越的, 可戰勝的",
+    "def": "capable of being surmounted or overcome"
+   }
+  ]
+ },
+ "surname": {
+  "ph": "/'sә:neim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "姓, 別號, 綽號",
+    "def": "the name used to identify the members of a family (as distinguished from each member's given name)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "呼以姓氏, 起綽號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surnames｜過去式 surnamed"
+ },
+ "surpass": {
+  "ph": "/sә'pɑ:s/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "超越, 凌駕, 勝過",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 surpassed｜過去式 surpassed｜第三人稱單數 surpasses｜現在分詞 surpassing｜複數 surpasses"
+ },
+ "surpassing": {
+  "ph": "/sә'pɑ:siŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "勝過的, 卓越的, 優秀的, 非凡的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "非凡地, 卓越地",
+    "def": ""
+   }
+  ]
+ },
+ "surpassingly": {
+  "ph": "/sə'pɑ:sɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "卓越地, 超群地",
+    "def": ""
+   }
+  ]
+ },
+ "surplice": {
+  "ph": "/'sә:plis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白法衣, 白袈裟",
+    "def": "a loose-fitting white ecclesiastical vestment with wide sleeves"
+   }
+  ],
+  "forms": "複數 surplices"
+ },
+ "surplus": {
+  "ph": "/'sә:plәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剩餘, 過剩, 盈餘",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "過剩的, 剩餘的",
+    "def": ""
+   }
+  ]
+ },
+ "surprise": {
+  "ph": "/sә'praiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驚奇, 奇襲, 詫異",
+    "def": "the astonishment you feel when something totally unexpected happens to you"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使驚奇, 撞見, 奇襲",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 surprised｜複數 surprises｜過去分詞 surprised｜第三人稱單數 surprises｜現在分詞 surprising"
+ },
+ "surprised": {
+  "ph": "/sә'praizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "感到驚訝的",
+    "def": "taken unawares or suddenly and feeling wonder or astonishment"
+   }
+  ],
+  "forms": "過去式 surprised｜過去分詞 surprised"
+ },
+ "surprising": {
+  "ph": "/sә'praiziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人驚訝的",
+    "def": "causing surprise or wonder or amazement"
+   }
+  ],
+  "forms": "現在分詞 surprising"
+ },
+ "surprisingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "使人驚奇, 出人意外, 驚人, 令人驚訝",
+    "def": ""
+   }
+  ]
+ },
+ "surreal": {
+  "ph": "/sә'riәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超現實主義的；離奇的；不真實的",
+    "def": ""
+   }
+  ]
+ },
+ "surrealism": {
+  "ph": "/sә'riәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超現實主義",
+    "def": "a 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent uncons"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 超現實主義",
+    "def": ""
+   }
+  ]
+ },
+ "surrealist": {
+  "ph": "/sә'riәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超現實主義者",
+    "def": "an artist who is a member of the movement called surrealism"
+   }
+  ],
+  "forms": "複數 surrealists"
+ },
+ "surrealistic": {
+  "ph": "/sә.riә'listik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超現實主義的",
+    "def": ""
+   }
+  ]
+ },
+ "surreally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "超現實主義地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "不真實地",
+    "def": ""
+   }
+  ]
+ },
+ "surrender": {
+  "ph": "/sә'rendә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "交出, 放棄, 使投降, 讓與",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "投降, 自首",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "交出, 放棄, 投降",
+    "def": "the delivery of a principal into lawful custody"
+   }
+  ],
+  "forms": "過去分詞 surrendered｜過去式 surrendered｜現在分詞 surrendering｜第三人稱單數 surrenders｜複數 surrenders"
+ },
+ "surrendered": {
+  "ph": "/səˈrendəd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電子放單; Telex released",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "投降( surrender的過去式和過去分詞 ); 放棄, 拋棄",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 surrendered｜過去式 surrendered"
+ },
+ "surreptitious": {
+  "ph": "/.sʌrәp'tiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "秘密的, 暗中的, 偷偷摸摸的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 鬼鬼祟祟的, 秘密的, 欺騙的",
+    "def": ""
+   }
+  ]
+ },
+ "surreptitiously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "秘密地；偷偷地；不正當地",
+    "def": ""
+   }
+  ]
+ },
+ "surrey": {
+  "ph": "/'sʌri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四輪雙座輕便遊覽馬車",
+    "def": "a county in southeastern England on the Thames"
+   }
+  ]
+ },
+ "surrogacy": {
+  "ph": "/ˈsʌrəgəsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代孕",
+    "def": ""
+   }
+  ]
+ },
+ "surrogate": {
+  "ph": "/'sʌrәgit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "替代者, 代用品",
+    "def": "someone who takes the place of another person"
+   },
+   {
+    "pos": "vt.",
+    "zh": "代理, 替代",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surrogates"
+ },
+ "surround": {
+  "ph": "/sә'raund/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "包圍, 環繞, 圍繞",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "圍繞物",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 surrounded｜現在分詞 surrounding｜過去式 surrounded｜第三人稱單數 surrounds｜複數 surrounds"
+ },
+ "surrounded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被…環繞著的",
+    "def": ""
+   }
+  ]
+ },
+ "surrounding": {
+  "ph": "/sә'raundiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "環境",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "周圍的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 surrounding"
+ },
+ "surroundings": {
+  "ph": "/sә'rajndiŋz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "環境, 周圍的事物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 環境",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surroundings"
+ },
+ "surtax": {
+  "ph": "/'sә:tæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附加稅",
+    "def": "an additional tax on certain kinds of income that has already been taxed"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 附加稅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surtaxes｜現在分詞 surtaxing｜過去式 surtaxed｜第三人稱單數 surtaxes｜過去分詞 surtaxed"
+ },
+ "surtees": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Surtees)人名；(英)瑟蒂斯",
+    "def": ""
+   }
+  ]
+ },
+ "surveillance": {
+  "ph": "/sә:'veilәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "監視, 監督",
+    "def": "close observation of a person or group (usually by the police)"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 偵測",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surveillances"
+ },
+ "survey": {
+  "ph": "/sә'vei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縱覽, 視察, 測量, 俯瞰, 調查",
+    "def": "a detailed critical inspection"
+   },
+   {
+    "pos": "vt.",
+    "zh": "審視, 視察, 俯瞰, 通盤考慮",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "測量土地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 surveys｜現在分詞 surveying｜過去式 surveyed｜過去分詞 surveyed｜第三人稱單數 surveys"
+ },
+ "surveyed": {
+  "ph": "/ˈsɜrˌveɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "調查( survey的過去式和過去分詞 ); 測量; 檢查; 眺望",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 surveyed｜過去式 surveyed"
+ },
+ "surveying": {
+  "ph": "/sә'veiiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測量",
+    "def": "the practice of measuring angles and distances on the ground so that they can be accurately plotted on a map"
+   }
+  ],
+  "forms": "現在分詞 surveying"
+ },
+ "surveyor": {
+  "ph": "/sә'veiә. sә:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測量員；檢驗員",
+    "def": "an engineer who determines the boundaries and elevations of land or structures"
+   }
+  ],
+  "forms": "複數 surveyors"
+ },
+ "survivability": {
+  "ph": "/ˌsəvɚɪvə'bɪlɪtɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "殘存性, 生存性, 耐受性",
+    "def": ""
+   }
+  ]
+ },
+ "survivable": {
+  "ph": "/sә'vaivәbl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "可長存的, 可存活的, 可免於死亡的",
+    "def": ""
+   }
+  ]
+ },
+ "survival": {
+  "ph": "/sә'vaivәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生存, 殘存, 倖存者",
+    "def": "a state of surviving; remaining alive"
+   },
+   {
+    "pos": "adj.",
+    "zh": "賴以生存的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 survivals"
+ },
+ "survivalist": {
+  "ph": "/sә'vaivәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成功地活下來的人,活命主義者",
+    "def": "someone who tries to insure their personal survival or the survival of their group or nation"
+   }
+  ],
+  "forms": "複數 survivalists"
+ },
+ "survive": {
+  "ph": "/sә'vaiv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "比...活得長, 生存, 生還, 倖免於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "活下來, 倖存",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 survived｜過去分詞 survived｜第三人稱單數 survives｜現在分詞 surviving"
+ },
+ "surviving": {
+  "ph": "/sә'vaiviŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 繼續存在的, 未死的, 依然健在的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 surviving"
+ },
+ "survivor": {
+  "ph": "/sә'vaivә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生還者, 倖存者",
+    "def": "one who lives through affliction"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 生還者, 生存者, 辛存者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 survivors"
+ },
+ "sus": {
+  "ph": "/sʌs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可疑行為；嫌疑犯",
+    "def": "type genus of the Suidae"
+   }
+  ]
+ },
+ "susan": {
+  "ph": "/'su:zn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇珊（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "susanna": {
+  "ph": "/su:'zænə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇珊娜（女子名）",
+    "def": "an Apocryphal book consisting of text added to the Book of Daniel"
+   }
+  ]
+ },
+ "susannah": {
+  "ph": "/su:'zænә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇珊娜(Susan 的異體,亦作 Susanna)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "susanne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇珊娜（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "susceptibility": {
+  "ph": "/sә.septә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敏感性, 感情",
+    "def": "the state of being susceptible; easily affected"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 磁化係數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 susceptibilities"
+ },
+ "susceptible": {
+  "ph": "/sә'septәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易受影響的, 易感動的, 容許...的",
+    "def": "(often followed by `of' or `to') yielding readily to or capable of"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 易感的, 易受影響的, 容許",
+    "def": ""
+   }
+  ],
+  "forms": "複數 susceptibles"
+ },
+ "sushi": {
+  "ph": "/'su:ʃi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壽司（生魚片冷飯糰）",
+    "def": "rice (with raw fish) wrapped in seaweed"
+   }
+  ],
+  "forms": "複數 sushi"
+ },
+ "susie": {
+  "ph": "/'su:zi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇西（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "suspect": {
+  "ph": "/sә'spekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被懷疑者, 嫌疑犯",
+    "def": "someone who is under suspicion"
+   },
+   {
+    "pos": "adj.",
+    "zh": "令人懷疑的, 不可信的, 可疑的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "懷疑, 猜想",
+    "def": "imagine to be the case or true or probable"
+   }
+  ],
+  "forms": "過去式 suspected｜過去分詞 suspected｜複數 suspects｜第三人稱單數 suspects｜現在分詞 suspecting"
+ },
+ "suspected": {
+  "ph": "/sә'spektid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有嫌疑的",
+    "def": "believed likely"
+   }
+  ],
+  "forms": "過去式 suspected｜過去分詞 suspected"
+ },
+ "suspend": {
+  "ph": "/sә'spend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "懸, 吊, 使懸浮, 暫停, 中止, 推遲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "暫停, 中止, 懸浮, 停止償付債務",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 暫停",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suspended｜過去式 suspended｜現在分詞 suspending｜第三人稱單數 suspends"
+ },
+ "suspended": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懸浮的；暫停的, 緩期的（宣判）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 suspended｜過去式 suspended"
+ },
+ "suspender": {
+  "ph": "/sә'spendә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懸掛者(物), 襪吊, 吊褲帶",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 懸吊帶, 懸吊器",
+    "def": ""
+   }
+  ]
+ },
+ "suspenders": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "揹帶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suspenders"
+ },
+ "suspense": {
+  "ph": "/sә'spens/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懸疑, 焦慮, 懸念, 懸而不決",
+    "def": "apprehension about what is going to happen"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 未定, 暫記",
+    "def": ""
+   }
+  ]
+ },
+ "suspenseful": {
+  "ph": "/sәs'pensful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懸疑的, 令人緊張的",
+    "def": ""
+   }
+  ]
+ },
+ "suspension": {
+  "ph": "/sә'spenʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懸掛, 暫停, 中止",
+    "def": "a mixture in which fine particles are suspended in a fluid where they are supported by buoyancy"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 懸浮; 懸浮體; 懸浮液",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suspensions"
+ },
+ "suspicion": {
+  "ph": "/sә'spiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懷疑, 覺察, 嫌疑",
+    "def": "the state of being suspected"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 懷疑, 疑心, 嫌疑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 suspicions"
+ },
+ "suspicious": {
+  "ph": "/sә'spiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可疑的, 多疑的, 懷疑的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 懷疑的, 令人懷疑的, 可疑的",
+    "def": ""
+   }
+  ]
+ },
+ "suspiciously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "猜疑地；懷疑地",
+    "def": ""
+   }
+  ]
+ },
+ "suspiciousness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]多疑, 可疑",
+    "def": ""
+   }
+  ]
+ },
+ "suss": {
+  "ph": "/sʌs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "&vt. （常與out連用）推測; 推斷; 調查; 調查發現",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sussed｜過去式 sussed｜現在分詞 sussing"
+ },
+ "sussex": {
+  "ph": "/'sʌsiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇塞克斯（英國郡名）",
+    "def": "a county in southern England on the English Channel; formerly an Anglo-Saxon kingdom that was captured by Wessex in the 9th century"
+   }
+  ]
+ },
+ "sustain": {
+  "ph": "/sә'stein/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "承受, 支援, 供養, 繼續, 忍受, 蒙受, 證實, 准許",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 持續",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sustained｜現在分詞 sustaining｜過去式 sustained｜第三人稱單數 sustains"
+ },
+ "sustainability": {
+  "ph": "/sə,stenə'bɪlɪti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "持續性, 能維持性, 永續性",
+    "def": "the property of being sustainable"
+   }
+  ]
+ },
+ "sustainable": {
+  "ph": "/sә'steinәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "足可支撐的, 養得起的, 可以忍受的",
+    "def": "capable of being sustained"
+   }
+  ]
+ },
+ "sustainably": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "支撐得住；能保持住地",
+    "def": ""
+   }
+  ]
+ },
+ "sustained": {
+  "ph": "/sәs'teind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "持續的, 持久不變的, 持久的, 不懈的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 持續的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sustained｜過去式 sustained"
+ },
+ "sustainer": {
+  "ph": "/sә'steinә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "支持者, 維持者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 證實者, 認可者, 扶養者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sustainers"
+ },
+ "sustainment": {
+  "ph": "/sə'steɪnmənt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "支援, 維持, 支援物",
+    "def": ""
+   }
+  ]
+ },
+ "sustenance": {
+  "ph": "/'sʌstinәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生活資料, 生計, 食物, 支援",
+    "def": "the act of sustaining life by food or providing a means of subsistence"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 營養物, 維持, 支援",
+    "def": ""
+   }
+  ]
+ },
+ "susu": {
+  "ph": "/su:'su:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇蘇人",
+    "def": "See Soosoo."
+   }
+  ]
+ },
+ "susurration": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 雜音",
+    "def": ""
+   }
+  ]
+ },
+ "sutcliffe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sutcliffe)人名；(英)薩克利夫",
+    "def": ""
+   }
+  ]
+ },
+ "sutherland": {
+  "ph": "/'sʌðәlәnd(ʃiә(r))/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薩瑟蘭郡（英國蘇格蘭原郡名）；薩瑟蘭",
+    "def": "Australian operatic soprano (born in 1926)"
+   }
+  ]
+ },
+ "sutler": {
+  "ph": "/'sʌtlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隨軍小販",
+    "def": "a supplier of victuals or supplies to an army"
+   }
+  ],
+  "forms": "複數 sutlers"
+ },
+ "sutra": {
+  "ph": "/'su:trә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "箴言, 經典",
+    "def": "a rule or aphorism in Sanskrit literature or a group of aphoristic doctrinal summaries prepared for memorization"
+   }
+  ]
+ },
+ "sutton": {
+  "ph": "/'sʌtәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薩頓（英國英格蘭東南部城市）",
+    "def": ""
+   }
+  ]
+ },
+ "suttons": {
+  "ph": "/'sʌtən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "薩頓(英國英格蘭東南部城市)",
+    "def": ""
+   }
+  ]
+ },
+ "suture": {
+  "ph": "/'su:tʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縫合, 縫合處, 縫合線",
+    "def": "an immovable joint (especially between the bones of the skull)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "縫合",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sutures｜過去分詞 sutured｜過去式 sutured｜現在分詞 suturing｜第三人稱單數 sutures"
+ },
+ "suva": {
+  "ph": "/'su:vә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "蘇瓦[南太平洋島國斐濟首都]",
+    "def": ""
+   }
+  ]
+ },
+ "suzanne": {
+  "ph": "/su'zæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇珊娜（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "suzerain": {
+  "ph": "/'sju:zәrein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "封建主, 宗主國",
+    "def": "a state exercising a degree of dominion over a dependent state especially in its foreign affairs"
+   }
+  ]
+ },
+ "suzerainty": {
+  "ph": "/'sju:zәreinti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宗主權, 封建主的地位",
+    "def": "the position or authority of a suzerain"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 宗主權, 宗主地位, 保護",
+    "def": ""
+   }
+  ]
+ },
+ "suzie": {
+  "ph": "/'su:zi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇西（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "suzuki": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鈴木（日本機車商標）",
+    "def": ""
+   }
+  ]
+ },
+ "suzy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇西（女子名）",
+    "def": ""
+   }
+  ]
+ }
+}

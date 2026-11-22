@@ -1,0 +1,2621 @@
+{
+ "ap": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 應付款, 美國專利, 應用程式, 運算處理器, 陣列處理器, 彙編程式",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "自動程式設計",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aped｜現在分詞 aping｜過去分詞 aped｜複數 aps"
+ },
+ "apace": {
+  "ph": "/ә'peis/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "快速地, 急速地",
+    "def": ""
+   }
+  ]
+ },
+ "apache": {
+  "ph": "/ә'pætʃi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿帕切族(美洲印第安部族)",
+    "def": "any member of Athapaskan tribes that migrated to the southwestern desert (from Arizona to Texas and south into Mexico); fought a losing battle from 1861 to 1886"
+   }
+  ]
+ },
+ "apart": {
+  "ph": "/ә'pɑ:t/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "成零碎, 成距離, 分別地, 分離著",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "分離的",
+    "def": ""
+   }
+  ]
+ },
+ "apart from": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "除了...之外",
+    "def": ""
+   }
+  ]
+ },
+ "apartheid": {
+  "ph": "/ә'pɑ:theit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "種族隔離",
+    "def": "a social policy or racial segregation involving political and economic and legal discrimination against people who are not Whites; the former official policy in"
+   }
+  ],
+  "forms": "複數 apartheids"
+ },
+ "apartment": {
+  "ph": "/ә'pɑ:tmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "房間, 公寓",
+    "def": "a suite of rooms usually on one floor of an apartment house"
+   }
+  ],
+  "forms": "複數 apartments"
+ },
+ "apartness": {
+  "ph": "/ə'pa:tnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冷漠；孤獨",
+    "def": "The quality of standing apart."
+   }
+  ]
+ },
+ "apathetic": {
+  "ph": "/.æpә'θetik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "缺乏感情的, 無動於衷的, 缺乏興趣的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無情[感]的, 淡漠的",
+    "def": ""
+   }
+  ]
+ },
+ "apathy": {
+  "ph": "/'æpәθi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無感情, 無興趣, 冷漠",
+    "def": "an absence of emotion or enthusiasm"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無情[感], 淡漠",
+    "def": ""
+   }
+  ]
+ },
+ "apatosaurus": {
+  "ph": "/ə,pætə'sɔrəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迷惑龍；雷龍（恐龍的一種, 生活於約140百萬年前的侏羅紀）",
+    "def": ""
+   }
+  ]
+ },
+ "apb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 應用程式塊",
+    "def": ""
+   }
+  ]
+ },
+ "ape": {
+  "ph": "/eip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無尾猿",
+    "def": "any of various primates with short tails or no tail at all"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 應用程式評價",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apes｜第三人稱單數 apes｜現在分詞 apeing｜過去式 aped｜過去分詞 aped"
+ },
+ "aperitif": {
+  "ph": "/ɑ:peri'ti:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開胃酒",
+    "def": "alcoholic beverage taken before a meal as an appetizer"
+   }
+  ],
+  "forms": "複數 aperitifs"
+ },
+ "aperture": {
+  "ph": "/'æpә.tjuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孔, 縫隙, 孔徑",
+    "def": "a device that controls amount of light admitted"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 窗孔; 小孔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apertures"
+ },
+ "apes": {
+  "ph": "/eips/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猿( ape的名詞複數 )",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "模仿( ape的第三人稱單數 )",
+    "def": ""
+   }
+  ]
+ },
+ "apex": {
+  "ph": "/'eipeks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頂, 尖端, 最高潮",
+    "def": "the point on the celestial sphere toward which the sun and solar system appear to be moving relative to the fixed stars"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尖, 尖端",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apices"
+ },
+ "aphasia": {
+  "ph": "/ә'feizjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "失語症",
+    "def": "inability to use or understand language (spoken or written) because of a brain lesion"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 語言不能, 失語[症]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aphasias"
+ },
+ "aphasic": {
+  "ph": "/ә'feizik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 語言不能的, 失語的; 語言不能者, 失語者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aphasics"
+ },
+ "aphelion": {
+  "ph": "/æ'fi:ljәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遠日點",
+    "def": "apoapsis in solar orbit; the point in the orbit of a planet or comet that is at the greatest distance from the sun"
+   }
+  ]
+ },
+ "aphid": {
+  "ph": "/'eifid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蚜蟲",
+    "def": "any of various small plant-sucking insects"
+   }
+  ],
+  "forms": "複數 aphids"
+ },
+ "aphorism": {
+  "ph": "/'æfәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格言, 警語",
+    "def": "a short pithy instructive saying"
+   }
+  ],
+  "forms": "複數 aphorisms"
+ },
+ "aphoristic": {
+  "ph": "/,æfә'ristik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "關於格言/警句的, 格言/警句性的",
+    "def": ""
+   }
+  ]
+ },
+ "aphrodisiac": {
+  "ph": "/,æfrәu'diziæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摧欲劑, 春藥",
+    "def": "a drug or other agent that stimulates sexual desire"
+   },
+   {
+    "pos": "adj.",
+    "zh": "激發性慾的",
+    "def": "exciting sexual desire"
+   }
+  ],
+  "forms": "複數 aphrodisiacs"
+ },
+ "aphrodite": {
+  "ph": "/.æfrәu'daiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿佛洛狄特(愛與美的女神)",
+    "def": "goddess of love and beauty and daughter of Zeus in ancient mythology; identified with Roman Venus"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 泡石; 鎂泡石",
+    "def": ""
+   }
+  ]
+ },
+ "api": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 應用程式介面, 自動優先中斷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 美國石油協會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 api"
+ },
+ "apiary": {
+  "ph": "/'eipjәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "養蜂場",
+    "def": "a shed containing a number of beehives"
+   }
+  ]
+ },
+ "apical": {
+  "ph": "/'æpikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頂端的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尖的, 尖端的",
+    "def": ""
+   }
+  ]
+ },
+ "apiece": {
+  "ph": "/ә'pi:s/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "就每個而論, 各",
+    "def": ""
+   }
+  ]
+ },
+ "apis": {
+  "ph": "/'eipis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 蜂屬",
+    "def": ""
+   }
+  ]
+ },
+ "apl": {
+  "ph": "/,eipi:'el/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 演算法程式設計語言, 相關程式設計語言, 自動程式裝入",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 四月",
+    "def": ""
+   }
+  ]
+ },
+ "aplastic": {
+  "ph": "/ei'plæstik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發育不全的, 再生障礙的",
+    "def": "Not plastic or easily molded."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 發育不全的, 成形不全的; 再生障礙的",
+    "def": ""
+   }
+  ]
+ },
+ "aplenty": {
+  "ph": "/ә'plenti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "豐富的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "充裕地",
+    "def": ""
+   }
+  ]
+ },
+ "aplin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Aplin)人名；(英)阿普林",
+    "def": ""
+   }
+  ]
+ },
+ "aplomb": {
+  "ph": "/ә'plɒm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉著, 泰然自若, 垂直",
+    "def": "great coolness and composure under strain"
+   }
+  ]
+ },
+ "aplysia": {
+  "ph": "/'æplisiə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雨虎屬",
+    "def": "type genus of the family Aplysiidae"
+   }
+  ]
+ },
+ "apnea": {
+  "ph": "/æp'ni:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呼吸暫停, 窒息",
+    "def": "transient cessation of respiration"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 呼吸暫停, 窒息",
+    "def": ""
+   }
+  ]
+ },
+ "apnoea": {
+  "ph": "/æp'ni:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呼吸暫停, 窒息",
+    "def": "Partial privation or suspension of breath; suffocation."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 呼吸暫停, 窒息",
+    "def": ""
+   }
+  ]
+ },
+ "apocalypse": {
+  "ph": "/ә'pɒkәlips/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "啟示, 天啟",
+    "def": "a cosmic cataclysm in which God destroys the ruling powers of evil"
+   }
+  ],
+  "forms": "複數 apocalypses"
+ },
+ "apocalyptic": {
+  "ph": "/ә.pɒkә'liptik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "天啟的, <<啟示錄>>的",
+    "def": "of or relating to an apocalypse"
+   }
+  ]
+ },
+ "apochromatic": {
+  "ph": "/,æpәkrәu'mætik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 復消色差的",
+    "def": ""
+   }
+  ]
+ },
+ "apocrypha": {
+  "ph": "/ә'pɔkrifә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "作者（或真實性、權威性）可疑的著作；旁經",
+    "def": "14 books of the Old Testament included in the Vulgate (except for II Esdras) but omitted in Jewish and Protestant versions of the Bible; eastern Christian churc"
+   }
+  ]
+ },
+ "apocryphal": {
+  "ph": "/ә'pɔkrif(ә)l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偽的, 不足憑信的",
+    "def": "of or belonging to the Apocrypha"
+   }
+  ]
+ },
+ "apogee": {
+  "ph": "/'æpәudʒi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遠地點, 最高點, 極點",
+    "def": "a final climactic stage"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 遠地點; 遠核點",
+    "def": ""
+   }
+  ]
+ },
+ "apolitical": {
+  "ph": "/.eipә'litikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不關心政治的",
+    "def": ""
+   }
+  ]
+ },
+ "apollinaire": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿波利奈爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "apolline": {
+  "ph": "/ә'pɔlain/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[常Apolline ]太陽神阿波羅的, 有關太陽神阿波羅的",
+    "def": ""
+   }
+  ]
+ },
+ "apollo": {
+  "ph": "/ә'pɒlәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿波羅(太陽神), 美男子",
+    "def": "(Greek mythology) Greek god of light; god of prophecy and poetry and music and healing; son of Zeus and Leto; twin brother of Artemis"
+   }
+  ]
+ },
+ "apollonian": {
+  "ph": "/,æpә'lәjnjәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "阿波羅神的, 阿波羅崇拜的,具有古典美的",
+    "def": "Alt. of Apollonic"
+   }
+  ]
+ },
+ "apologetic": {
+  "ph": "/ә.pɒlә'dʒetik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "道歉的, 急於認錯的, 辯護的",
+    "def": "offering or expressing apology"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 辯護的, 辯解的, 道歉的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apologetics"
+ },
+ "apologetically": {
+  "ph": "/ә.pɒlә'dʒetikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "道歉地, 辯解地",
+    "def": ""
+   }
+  ]
+ },
+ "apologetics": {
+  "ph": "/æpɔlә'dʒetiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "護教學(基督教神學的一部分,研究教條的辨證)",
+    "def": "the branch of theology that is concerned with the defense of Christian doctrines"
+   }
+  ]
+ },
+ "apologia": {
+  "ph": "/.æpә'lәudʒiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辯解, 自辯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 自辯書, 辯解書",
+    "def": ""
+   }
+  ]
+ },
+ "apologise": {
+  "ph": "/ә'pɔlәdʒaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "道歉（等於apologize）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 apologised｜現在分詞 apologising｜過去分詞 apologised｜第三人稱單數 apologises"
+ },
+ "apologist": {
+  "ph": "/ә'pɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辯護者, 教義辯護文作者",
+    "def": "a person who argues to defend or justify some policy or institution"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 辯護者, 辯解者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apologists"
+ },
+ "apologize": {
+  "ph": "/ә'pɒlәdʒaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "道歉, 辯解",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 apologized｜現在分詞 apologizing｜第三人稱單數 apologizes｜過去分詞 apologized"
+ },
+ "apology": {
+  "ph": "/ә'pɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "道歉, 辯護",
+    "def": "an expression of regret at having caused trouble for someone"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 道歉, 謝罪, 辯解者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apologies"
+ },
+ "apophatic": {
+  "ph": "/,æpә'fætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[宗] 用否定方法所得的",
+    "def": "of or relating to the belief that God can be known to humans only in terms of what He is not (such as `God is unknowable')"
+   }
+  ]
+ },
+ "apoplectic": {
+  "ph": "/.æpәu'plektik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中風病人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "中風的, 有中風跡象的",
+    "def": "pertaining to or characteristic of apoplexy"
+   }
+  ]
+ },
+ "apoplexy": {
+  "ph": "/'æpәupleksi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中風",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 卒中, 中風",
+    "def": ""
+   }
+  ]
+ },
+ "apoptosis": {
+  "ph": "/,æpə(p)'təʊsɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細胞凋亡；細胞死亡",
+    "def": "a type of cell death in which the cell uses specialized cellular machinery to kill itself; a cell suicide mechanism that enables metazoans to control cell numbe"
+   }
+  ]
+ },
+ "apoptotic": {
+  "ph": "/æpɒp'tɒtɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]細胞凋亡的",
+    "def": ""
+   }
+  ]
+ },
+ "aporia": {
+  "ph": "/ә'pɔ:riә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 窘迫, 困惑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aporias"
+ },
+ "apostasy": {
+  "ph": "/ә'pɒstәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叛教, 變節, 脫黨",
+    "def": "the state of having rejected your religious beliefs or your political party or a cause (often in favor of opposing beliefs or causes)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 叛教, 背教, 脫黨",
+    "def": ""
+   }
+  ]
+ },
+ "apostate": {
+  "ph": "/ә'pɒsteit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叛教者, 變節者, 脫黨者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "叛教的, 變節的, 脫黨的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apostates"
+ },
+ "apostle": {
+  "ph": "/ә'pɒsl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "基督十二使徒之一, 早期基督教傳士",
+    "def": "an ardent early supporter of a cause or reform"
+   }
+  ],
+  "forms": "複數 apostles"
+ },
+ "apostolate": {
+  "ph": "/ә'pɒstәulәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使徒身份, 羅馬教皇的職位, 倡導地位",
+    "def": "The dignity, office, or mission, of an apostle;"
+   }
+  ],
+  "forms": "複數 apostolates"
+ },
+ "apostolic": {
+  "ph": "/,æpәs'tɔlik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使徒的",
+    "def": "of or relating to or deriving from the Apostles or their teachings"
+   }
+  ]
+ },
+ "apostrophe": {
+  "ph": "/ә'pɒstrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撇號, 呼語法",
+    "def": "address to an absent or imaginary person"
+   }
+  ],
+  "forms": "複數 apostrophes"
+ },
+ "apothecary": {
+  "ph": "/ә'pɒθәkәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥劑師, 藥房",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 藥劑員; 藥店",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apothecaries"
+ },
+ "apothegm": {
+  "ph": "/'æpәθem/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格言, 箴言",
+    "def": ""
+   }
+  ]
+ },
+ "apotheosis": {
+  "ph": "/ә.pɒθi'әusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尊崇為神, 神化, 美化",
+    "def": ""
+   }
+  ]
+ },
+ "apotropaic": {
+  "ph": "/,æpәtrә'peiik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 預防的, 避邪去病的",
+    "def": ""
+   }
+  ]
+ },
+ "app": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 應用, 應用程式; 相聯並行處理器",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 apps｜複數 apps"
+ },
+ "appal": {
+  "ph": "/ә'pɒ:l/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使驚駭, 使嚇壞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 appalled｜過去分詞 appalled｜第三人稱單數 appals｜現在分詞 appalling"
+ },
+ "appalachian": {
+  "ph": "/,æpə'leitʃjən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿巴拉契亞山脈",
+    "def": "a native or inhabitant of Appalachia"
+   },
+   {
+    "pos": "adj.",
+    "zh": "阿帕拉契山脈的",
+    "def": "in or relating to Appalachia"
+   }
+  ]
+ },
+ "appall": {
+  "ph": "/ә'pɒ:l/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使喪膽, 使驚駭",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 appalls｜複數 appalls｜現在分詞 appalling｜過去式 appalled｜過去分詞 appalled"
+ },
+ "appalled": {
+  "ph": "/ə'pɔ:ld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "驚駭的；喪膽的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 appalled｜過去分詞 appalled"
+ },
+ "appalling": {
+  "ph": "/ә'pɒ:liŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "駭人的, 令人震驚的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 appalling"
+ },
+ "appallingly": {
+  "ph": "/ә'pɔ:liŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人毛骨悚然地",
+    "def": ""
+   }
+  ]
+ },
+ "apparat": {
+  "ph": "/,æpә'rɑ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "政治組織, 地下活動組織",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apparats"
+ },
+ "apparatchik": {
+  "ph": "/,æpə'rætʃɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "共產黨官員；職業政黨工作人員",
+    "def": "a humorous but derogatory term for an official of a large organization (especially a political organization)"
+   }
+  ],
+  "forms": "複數 apparatchiks"
+ },
+ "apparatus": {
+  "ph": "/.æpә'reitәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝置, 器具, 器官",
+    "def": "equipment designed to serve a specific function"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 儀器; 器械",
+    "def": ""
+   }
+  ]
+ },
+ "apparel": {
+  "ph": "/ә'pærәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣服, 外表",
+    "def": "clothing in general"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使穿衣, 裝飾",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 apparelled｜複數 apparels｜現在分詞 appareling｜第三人稱單數 apparels｜過去分詞 appareled"
+ },
+ "apparent": {
+  "ph": "/ә'pærәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "清晰可見的, 顯然的, 表面上的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 外在的",
+    "def": ""
+   }
+  ]
+ },
+ "apparently": {
+  "ph": "/ә'pærәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "表面上, 清楚地, 顯然地",
+    "def": ""
+   }
+  ]
+ },
+ "apparition": {
+  "ph": "/.æpә'riʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬼, 幽靈, 幻影",
+    "def": "a ghostly appearing figure"
+   }
+  ],
+  "forms": "複數 apparitions"
+ },
+ "appeal": {
+  "ph": "/ә'pi:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懇求, 訴請, 上訴, 吸引力",
+    "def": "attractiveness that interests or pleases or stimulates"
+   },
+   {
+    "pos": "vi.",
+    "zh": "呼籲, 訴請, 要求, 上訴, 有吸引力",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "將...上訴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appeals｜過去式 appealed｜現在分詞 appealing｜過去分詞 appealed｜第三人稱單數 appeals"
+ },
+ "appealing": {
+  "ph": "/ә'pi:liŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有感染力的, 動人的, 懇求的",
+    "def": "able to attract interest or draw favorable attention"
+   }
+  ],
+  "forms": "現在分詞 appealing"
+ },
+ "appealingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有感染力, 吸引人, 有趣, 哀訴似, 懇求似",
+    "def": ""
+   }
+  ]
+ },
+ "appear": {
+  "ph": "/ә'piә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "出現, 顯得, 來到",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 出庭, 到案, 出現",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 appeared｜第三人稱單數 appears｜現在分詞 appearing｜過去分詞 appeared"
+ },
+ "appearance": {
+  "ph": "/ә'piәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出現, 露面, 外觀, 外表, 出版",
+    "def": "outward or visible aspect of a person or thing"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 外觀, 版面",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appearances"
+ },
+ "appease": {
+  "ph": "/ә'pi:z/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "撫慰, 緩解, 平息, 姑息",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 使和緩, 使滿足, 姑息",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 appeased｜現在分詞 appeasing｜過去式 appeased｜第三人稱單數 appeases"
+ },
+ "appeasement": {
+  "ph": "/ә'pi:zmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撫慰, 緩解, 平息, 姑息",
+    "def": "the act of appeasing (as by acceding to the demands of)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 緩和:緩靜, 安撫",
+    "def": ""
+   }
+  ]
+ },
+ "appeaser": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勸解人",
+    "def": "someone who tries to bring peace by acceding to demands"
+   }
+  ],
+  "forms": "複數 appeasers"
+ },
+ "appellant": {
+  "ph": "/ә'pelәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上訴人",
+    "def": "the party who appeals a decision of a lower court"
+   },
+   {
+    "pos": "adj.",
+    "zh": "上訴的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appellants"
+ },
+ "appellate": {
+  "ph": "/ә'pelit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "上訴的, 有權受理上訴的",
+    "def": "of or relating to or taking account of appeals (usually legal appeals)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 受理上訴的, 上訴的, 控訴的",
+    "def": ""
+   }
+  ]
+ },
+ "appellation": {
+  "ph": "/.æpә'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "名稱, 稱號",
+    "def": "identifying word or words by which someone or something is called and classified or distinguished from others"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 稱呼, 名稱, 名目",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appellations"
+ },
+ "append": {
+  "ph": "/ә'pend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "附加, 增補, 蓋章",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] DOS外部命令:為資料檔案(非執行檔案)設定一個或多個磁碟路徑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "當程式執行時, DOS將在所設定的磁碟路徑中查詢不在當前路徑下的檔案",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 appended｜過去分詞 appended｜現在分詞 appending｜第三人稱單數 appends"
+ },
+ "appendage": {
+  "ph": "/ә'pendidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附加物, 附器",
+    "def": "a part that is joined to something larger"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 附件, 附器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appendages"
+ },
+ "appendectomy": {
+  "ph": "/.æpen'dektәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "闌尾切除術",
+    "def": "surgical removal of the vermiform appendix"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 闌尾切除術; 附件切除術",
+    "def": ""
+   }
+  ]
+ },
+ "appendicitis": {
+  "ph": "/ә.pendi'saitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "闌尾炎",
+    "def": "inflammation of the vermiform appendix"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 闌尾炎",
+    "def": ""
+   }
+  ]
+ },
+ "appendix": {
+  "ph": "/ә'pendiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附錄, 附加物, 闌尾",
+    "def": "supplementary material that is collected and appended at the back of a book"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 增補",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appendices"
+ },
+ "apperception": {
+  "ph": "/.æpә'sepʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "認識, 理解, 統覺",
+    "def": "the process whereby perceived qualities of an object are related to past experience"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 統覺, 明覺, 感知",
+    "def": ""
+   }
+  ]
+ },
+ "appertain": {
+  "ph": "/.æpә'tein/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "屬, 有關係, 相適合",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 appertaining｜第三人稱單數 appertains｜過去分詞 appertained｜過去式 appertained｜複數 appertains"
+ },
+ "appetiser": {
+  "ph": "/'æpitaizә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開胃食品, 開胃物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appetisers"
+ },
+ "appetising": {
+  "ph": "/'æpitaiziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "開胃的, 誘人的, 刺激慾望的, 促進食慾的, 鮮美的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 appetising"
+ },
+ "appetite": {
+  "ph": "/'æpitait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食慾, 慾望, 愛好",
+    "def": "a feeling of craving something"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 食慾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appetites"
+ },
+ "appetitive": {
+  "ph": "/ә'petitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "食慾的",
+    "def": "of or relating to appetite"
+   }
+  ]
+ },
+ "appetizer": {
+  "ph": "/'æpitaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開胃食品, 吊胃口的東西",
+    "def": "food or drink to stimulate the appetite (usually served before a meal or as the first course)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 開胃劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appetizers"
+ },
+ "appetizing": {
+  "ph": "/'æpitaiziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "開胃的, 促進食慾的, 鮮美可口的",
+    "def": "appealing to or stimulating the appetite especially in appearance or aroma"
+   }
+  ]
+ },
+ "appian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Appian)人名；(希)阿皮安",
+    "def": ""
+   }
+  ]
+ },
+ "applaud": {
+  "ph": "/ә'plɒ:d/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "拍手喝彩, 稱讚, 贊同",
+    "def": "clap one's hands or shout after performances to indicate approval"
+   }
+  ],
+  "forms": "過去式 applauded｜過去分詞 applauded｜現在分詞 applauding｜第三人稱單數 applauds"
+ },
+ "applauded": {
+  "ph": "/əˈplɔ:did/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "鼓掌( applaud的過去式和過去分詞 ); 稱讚, 讚許",
+    "def": ""
+   }
+  ]
+ },
+ "applause": {
+  "ph": "/ә'plɒ:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼓掌, 喝彩, 讚許",
+    "def": "a demonstration of approval by clapping the hands together"
+   }
+  ]
+ },
+ "apple": {
+  "ph": "/'æpl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘋果, 傢伙",
+    "def": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蘋果",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apples"
+ },
+ "appleby": {
+  "ph": "/'æpəlbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿普比（英國英格蘭西北部小鎮）",
+    "def": ""
+   }
+  ]
+ },
+ "applecart": {
+  "ph": "/'æplkɑ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘋果小販手推車",
+    "def": "the planning that is disrupted when someone `upsets the applecart'"
+   }
+  ],
+  "forms": "複數 applecarts｜第三人稱單數 applecarts"
+ },
+ "applejack": {
+  "ph": "/'æpldʒæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘋果白蘭地",
+    "def": "distilled from hard cider"
+   }
+  ]
+ },
+ "applesauce": {
+  "ph": "/.æpl'sɒ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘋果沙司, 胡說",
+    "def": "puree of stewed apples usually sweetened and spiced"
+   }
+  ]
+ },
+ "applet": {
+  "ph": "/'æplәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小型程式；支程式, 小應用程式；程式型別",
+    "def": "a Java application; an application program that uses the client's web browser to provide a user interface"
+   }
+  ],
+  "forms": "複數 applets"
+ },
+ "appleton": {
+  "ph": "/'æpltәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 阿普爾頓",
+    "def": ""
+   }
+  ]
+ },
+ "applewood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘋果木",
+    "def": "wood of any of various apple trees of the genus Malus"
+   }
+  ]
+ },
+ "appleyard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Appleyard)人名；(英)阿普爾亞德",
+    "def": ""
+   }
+  ]
+ },
+ "appliance": {
+  "ph": "/ә'plaiәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "器械, 用具, 應用",
+    "def": "a device or control that is very useful for a particular job"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 矯正器; 器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appliances"
+ },
+ "applicability": {
+  "ph": "/.æplikә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適用性, 應用性",
+    "def": "relevance by virtue of being applicable to the matter at hand"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 適用性, 適應性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 applicabilities"
+ },
+ "applicable": {
+  "ph": "/'æplikәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "合適的, 可應用的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 適用的, 適應的",
+    "def": ""
+   }
+  ]
+ },
+ "applicant": {
+  "ph": "/'æplikәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "申請者",
+    "def": "a person who requests or seeks something such as assistance or employment or admission"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 申請人, 請求人, 謀事人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 applicants"
+ },
+ "application": {
+  "ph": "/.æpli'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "應用, 申請, 志願書, 應用程式",
+    "def": "the act of bringing something to bear; using it for a particular purpose"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 應用, 應用程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 applications"
+ },
+ "applicator": {
+  "ph": "/'æplikeitә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 聲極(超聲治療用); 敷料器, 塗藥器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 applicators"
+ },
+ "applied": {
+  "ph": "/ә'plaid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "應用的",
+    "def": "concerned with concrete problems or data rather than with fundamental principles"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 應用的; 應用, 申請",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 applied｜過去分詞 applied"
+ },
+ "applique": {
+  "ph": "/æ'pli:kei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嵌花, 貼花, 加縫刺繡",
+    "def": "a decorative design made of one material sewn over another"
+   },
+   {
+    "pos": "adj.",
+    "zh": "嵌花的, 貼花的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 appliqued｜過去分詞 appliqued｜複數 appliques"
+ },
+ "appliqued": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "在...上縫上飾物, 貼花（applique的過去式和過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "apply": {
+  "ph": "/ә'plai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "塗, 應用",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "申請, 適用",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 applied｜第三人稱單數 applies｜現在分詞 applying｜過去式 applied"
+ },
+ "appoint": {
+  "ph": "/ә'pɒint/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "任命, 指定, 下令",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 派, 派任, 任命",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 appointed｜過去式 appointed｜現在分詞 appointing｜第三人稱單數 appoints"
+ },
+ "appointed": {
+  "ph": "/ә'pɔintid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 派任的, 任命的, 指定的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 appointed｜過去式 appointed"
+ },
+ "appointee": {
+  "ph": "/ә.pɒin'ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被任命者",
+    "def": "an official who is appointed"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 被指定的人, 被任命者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appointees"
+ },
+ "appointing": {
+  "ph": "/ə'pɔɪnt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "任命；指定；約定；裝備（appoint的ing形式）",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "委任的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 appointing"
+ },
+ "appointive": {
+  "ph": "/ә'pɒintiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "任命的",
+    "def": "relating to the act of appointing"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 派任的, 任命的",
+    "def": ""
+   }
+  ]
+ },
+ "appointment": {
+  "ph": "/ә'pɒintmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "約會, 委任的職位, 委派",
+    "def": "the act of putting a person into a non-elective position"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 任命, 派, 指定",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appointments"
+ },
+ "apportion": {
+  "ph": "/ә'pɒ:ʃәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "分配, 分攤, 分派",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 分派, 分攤, 分配",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 apportioned｜現在分詞 apportioning｜過去式 apportioned｜第三人稱單數 apportions"
+ },
+ "apportionment": {
+  "ph": "/ә'pɒ:ʃәnmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分配, 分攤, 分派",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 分派, 分配, 分攤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apportionments"
+ },
+ "apposite": {
+  "ph": "/'æpәuzit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貼切的, 合適的",
+    "def": ""
+   }
+  ]
+ },
+ "apposition": {
+  "ph": "/æpәu'ziʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "並置, 同位",
+    "def": "a grammatical relation between a word and a noun phrase that follows"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 對合; 外積, 外加",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appositions"
+ },
+ "appraisal": {
+  "ph": "/ә'preizәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "評價, 估價",
+    "def": "the classification of someone or something with respect to its worth"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 評價, 評估",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appraisals"
+ },
+ "appraise": {
+  "ph": "/ә'preiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "評價, 估價",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 評價, 鑑定",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 appraising｜過去分詞 appraised｜過去式 appraised｜第三人稱單數 appraises｜複數 appraises"
+ },
+ "appraised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "評估（appraise的過去式形式）；估價",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 appraised"
+ },
+ "appraiser": {
+  "ph": "/ә'preizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "評價人, 鑑定人, 估價人",
+    "def": "one who estimates officially the worth or value or quality of things"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 估價者, 鑑定",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appraisers"
+ },
+ "appraising": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "鑑定；估價；評價",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 appraising"
+ },
+ "appraisingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "以品評或評價的眼光",
+    "def": ""
+   }
+  ]
+ },
+ "appreciable": {
+  "ph": "/ә'pri:ʃiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可感知的, 可評估的",
+    "def": ""
+   }
+  ]
+ },
+ "appreciably": {
+  "ph": "/ә'pri:ʃiәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可估計地, 相當可觀",
+    "def": ""
+   }
+  ]
+ },
+ "appreciate": {
+  "ph": "/ә'pri:ʃieit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "賞識, 鑑別, 為...而感激, 領會, 欣賞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "增值, 漲價",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 appreciated｜過去式 appreciated｜現在分詞 appreciating｜第三人稱單數 appreciates"
+ },
+ "appreciated": {
+  "ph": "/əˈpri:ʃieitid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "感激( appreciate的過去式和過去分詞 ); 欣賞; （充分）意識到; 對…作（正確）評價",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 appreciated"
+ },
+ "appreciating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "欣賞（appreciate的ing形式）；感激；使增值；鑑別",
+    "def": ""
+   }
+  ]
+ },
+ "appreciation": {
+  "ph": "/ә.pri:ʃi'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "感激, 賞識, 鑑別",
+    "def": "understanding of the nature or meaning or quality or magnitude of something"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 漲價, 增值",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appreciations"
+ },
+ "appreciative": {
+  "ph": "/ә'pri:ʃiәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有欣賞力的, 感激的",
+    "def": ""
+   }
+  ]
+ },
+ "appreciatively": {
+  "ph": "/ə'pri:ʃiətivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "欣賞地, 讚賞地；感激地",
+    "def": ""
+   }
+  ]
+ },
+ "appreciator": {
+  "ph": "/ә'pri:ʃieitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "欣賞者, 鑑賞者",
+    "def": "a person who is fully aware of something and understands it"
+   }
+  ],
+  "forms": "複數 appreciators"
+ },
+ "apprehend": {
+  "ph": "/.æpri'hend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "理解, 憂慮, 逮捕",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "擔心, 理解",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 apprehended｜現在分詞 apprehending｜過去式 apprehended｜第三人稱單數 apprehends"
+ },
+ "apprehension": {
+  "ph": "/.æpri'henʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "理解, 憂懼, 逮捕",
+    "def": "fearful expectation or anticipation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 領會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apprehensions"
+ },
+ "apprehensive": {
+  "ph": "/.æpri'hensiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惴惴不安的, 敏悟的, 知曉的",
+    "def": ""
+   }
+  ]
+ },
+ "apprehensively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "擔心地",
+    "def": ""
+   }
+  ]
+ },
+ "apprentice": {
+  "ph": "/ә'prentis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學徒, 生手",
+    "def": "works for an expert to learn a trade"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使做學徒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apprentices｜過去分詞 apprenticed｜過去式 apprenticed｜現在分詞 apprenticing｜第三人稱單數 apprentices"
+ },
+ "apprenticeship": {
+  "ph": "/ә'prentisʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學徒身分, 見習(期)",
+    "def": "the position of apprentice"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 學徒制, 學徒期",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apprenticeships"
+ },
+ "apprise": {
+  "ph": "/ә'prais/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "通知",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 apprised｜過去式 apprised｜現在分詞 apprising｜第三人稱單數 apprises"
+ },
+ "approach": {
+  "ph": "/ә'prәutʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "接近, 入門",
+    "def": "ideas or actions intended to deal with a problem or situation"
+   },
+   {
+    "pos": "vt.",
+    "zh": "接近, 近似, 找...商量",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "靠近",
+    "def": ""
+   }
+  ],
+  "forms": "複數 approaches｜過去式 approached｜現在分詞 approaching｜過去分詞 approached｜第三人稱單數 approaches"
+ },
+ "approachability": {
+  "ph": "/ә.prәutʃә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可接近性, 可親近",
+    "def": "the attribute of being easy to meet or deal with"
+   }
+  ]
+ },
+ "approachable": {
+  "ph": "/ә'prәutʃәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可接近的, 可親近的",
+    "def": "easy to meet or converse or do business with"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可接近的, 可進入的, 可親近的",
+    "def": ""
+   }
+  ]
+ },
+ "approaches": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "處理",
+    "def": ""
+   }
+  ]
+ },
+ "approaching": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "進場；侵入；接近（approach的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 approaching"
+ },
+ "approbation": {
+  "ph": "/æprәu'beiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "認可, 滿意",
+    "def": "official approval"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 許可, 認可, 批准",
+    "def": ""
+   }
+  ],
+  "forms": "複數 approbations"
+ },
+ "appropriate": {
+  "ph": "/ә'prәupriәt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適當的",
+    "def": "suitable for a particular person or place or condition etc"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 適當的, 撥出, 佔用",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 appropriated｜第三人稱單數 appropriates｜過去式 appropriated｜現在分詞 appropriating"
+ },
+ "appropriated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 撥款",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 appropriated｜過去式 appropriated"
+ },
+ "appropriately": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "適當的, 恰如其分的, 恰當的, 合適的",
+    "def": ""
+   }
+  ]
+ },
+ "appropriateness": {
+  "ph": "/ə'prəupriətnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適當；適合",
+    "def": "appropriate conduct; doing the right thing"
+   }
+  ]
+ },
+ "appropriation": {
+  "ph": "/әprәupri'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撥用, 挪用, 撥款",
+    "def": "money set aside (as by a legislature) for a specific purpose"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 撥款, 挪用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appropriations"
+ },
+ "appropriator": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撥給者, 盜用者",
+    "def": "someone who takes for his or her own use (especially without permission)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 盜用者, 侵吞者, 挪用者",
+    "def": ""
+   }
+  ]
+ },
+ "approval": {
+  "ph": "/ә'pru:vl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "贊成, 批准",
+    "def": "a feeling of liking something or someone good"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 核准",
+    "def": ""
+   }
+  ],
+  "forms": "複數 approvals"
+ },
+ "approve": {
+  "ph": "/ә'pru:v/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "贊同, 核准, 為...提供證據",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "讚許",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 approved｜過去式 approved｜現在分詞 approving｜第三人稱單數 approves"
+ },
+ "approved": {
+  "ph": "/ә'pru:vd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被認可的；經過檢驗的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 approved｜過去式 approved"
+ },
+ "approver": {
+  "ph": "/ә'pru:vә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "批准者, 贊成者",
+    "def": "an authority with power to approve"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 驗證程式",
+    "def": ""
+   }
+  ]
+ },
+ "approving": {
+  "ph": "/әp'ru:viŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "贊成的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 approving"
+ },
+ "approvingly": {
+  "ph": "/әp'ru:viŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "讚許地, 滿意地",
+    "def": ""
+   }
+  ]
+ },
+ "approx": {
+  "ph": "/ə'prɒks/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "大約（Approximate）",
+    "def": ""
+   }
+  ]
+ },
+ "approximate": {
+  "ph": "/ә'prɒksimәt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大約的, 接近的, 近似的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "接近, 使接近, 粗略估計",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "接近於",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 approximating｜第三人稱單數 approximates｜過去分詞 approximated｜過去式 approximated"
+ },
+ "approximately": {
+  "ph": "/ә'prɒksimәtli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "大約, 大致, 近於",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 大約, 近似",
+    "def": ""
+   }
+  ]
+ },
+ "approximation": {
+  "ph": "/ә.prɒksi'meiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "接近, 近似值",
+    "def": "the quality of coming near to identity (especially close in quantity)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 接近; 近似",
+    "def": ""
+   }
+  ],
+  "forms": "複數 approximations"
+ },
+ "appurtenance": {
+  "ph": "/ә'pә:tinәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附屬物, 附件",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 附屬裝置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 appurtenances"
+ },
+ "appy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Appy)人名；(法)阿皮",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "附件切除術（appendectomy）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 appying"
+ },
+ "apr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 替換通路再試器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aprs"
+ },
+ "apricot": {
+  "ph": "/'eiprikɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "杏子, 杏樹, 杏黃色",
+    "def": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach"
+   },
+   {
+    "pos": "adj.",
+    "zh": "杏黃色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apricots"
+ },
+ "april": {
+  "ph": "/'eiprәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四月",
+    "def": "the month following March and preceding May"
+   }
+  ]
+ },
+ "apron": {
+  "ph": "/'eiprәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圍裙",
+    "def": "a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 圍裙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aprons"
+ },
+ "aproned": {
+  "ph": "/'eɪpr(ə)n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圍裙；[航] 停機坪；舞臺口",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "著圍裙於；圍繞",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Apron)人名；(俄)阿普龍",
+    "def": ""
+   }
+  ]
+ },
+ "apropos": {
+  "ph": "/.æprә'pәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適當的, 恰好的",
+    "def": "of an appropriate or pertinent nature"
+   },
+   {
+    "pos": "adv.",
+    "zh": "適當地, 恰好地",
+    "def": ""
+   }
+  ]
+ },
+ "apse": {
+  "ph": "/æps/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(教堂)半圓形拱頂附帶建築",
+    "def": "a domed or vaulted recess or projection on a building especially the east end of a church; usually contains the altar"
+   }
+  ],
+  "forms": "複數 apses"
+ },
+ "apt": {
+  "ph": "/æpt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有...傾向的, 易於的, 恰當的, 聰明的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 自動數控語言, 自動圖象傳輸, 自動程式控制, 自動程式設計工具",
+    "def": ""
+   }
+  ],
+  "forms": "複數 apts｜比較級 apter｜最高級 aptest"
+ },
+ "aptitude": {
+  "ph": "/'æptitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "資質, 才能, 自然傾向",
+    "def": "inherent ability"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 資質, 才能",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aptitudes"
+ },
+ "aptly": {
+  "ph": "/'æptli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "適當地, 適宜地",
+    "def": ""
+   }
+  ]
+ },
+ "aptness": {
+  "ph": "/'æptnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適合性, 傾向, 才能",
+    "def": "a disposition to behave in a certain way"
+   }
+  ]
+ },
+ "apu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 模擬處理部件, 運算處理部件, 非同步處理部件, 輔助處理部件",
+    "def": ""
+   }
+  ]
+ }
+}

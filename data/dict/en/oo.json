@@ -1,0 +1,162 @@
+{
+ "oo": {
+  "ph": "/'әu'әu/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "物件導向程式設計（Object Oriented）；已訂購而尚未交貨的（on order）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oos"
+ },
+ "oocyst": {
+  "ph": "/'әuә,sist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 卵囊, 卵袋",
+    "def": ""
+   }
+  ]
+ },
+ "oocyte": {
+  "ph": "/'әuәsait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卵母細胞",
+    "def": "a female gametocyte that develops into an ovum after two meiotic divisions"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 卵母細胞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oocytes"
+ },
+ "oof": {
+  "ph": "/u:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錢, 現鈔",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 羊傳染性口瘡, 觸染性深膿皰, 羊痘瘡",
+    "def": ""
+   }
+  ]
+ },
+ "ooh": {
+  "ph": "/u:/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "（表示驚異、熱心、高興或不悅的叫聲）哦！",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oohs"
+ },
+ "oolong": {
+  "ph": "/'u:lɒ:ŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏龍茶",
+    "def": "Chinese tea leaves that have been partially fermented before being dried"
+   }
+  ]
+ },
+ "oompah": {
+  "ph": "/ˈʊmpɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（銅管樂器發出的）嗡姆吧聲",
+    "def": ""
+   }
+  ]
+ },
+ "oomph": {
+  "ph": "/umf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "性感, 熱情, 精力, 吸引力",
+    "def": ""
+   }
+  ]
+ },
+ "ooo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "已壞",
+    "def": ""
+   }
+  ]
+ },
+ "oops": {
+  "ph": "/u:ps/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "(表示驚訝、沮喪、謝罪等)哎喲",
+    "def": ""
+   }
+  ]
+ },
+ "oot": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "out of tolerance 無法忍受; out of town 不在城裡",
+    "def": ""
+   }
+  ]
+ },
+ "ooze": {
+  "ph": "/u:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滲流, 分泌物",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "滲出, 洩漏",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 oozing｜過去式 oozed｜第三人稱單數 oozes｜複數 oozes｜過去分詞 oozed"
+ },
+ "oozing": {
+  "ph": "/'u:zɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（濃液等）慢慢地冒出, 滲出( ooze的現在分詞 ); 使（液體）緩緩流出; （濃液）滲出, 慢慢流出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oozings｜現在分詞 oozing"
+ },
+ "oozy": {
+  "ph": "/'u:zi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "潮溼的, 溼淋淋的, 滲出的",
+    "def": ""
+   }
+  ]
+ }
+}

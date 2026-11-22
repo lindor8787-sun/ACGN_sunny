@@ -1,0 +1,4410 @@
+{
+ "bi": {
+  "ph": "/bai/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 成批輸入, 匯流排介面",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鉍(83號元素)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bi"
+ },
+ "biafra": {
+  "ph": "/bi'ɑ:frә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比夫拉[奈及利亞東南部一地區] , 比夫拉灣(幾內亞灣一部分, 靠西非的赤道幾內亞、喀麥隆和奈及利亞等國)",
+    "def": ""
+   }
+  ]
+ },
+ "biafran": {
+  "ph": "/bi'æfrәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "比夫拉的, 比夫拉人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biafrans"
+ },
+ "bianca": {
+  "ph": "/bi'æŋkә, 'bjɑ:ŋkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比安卡(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "bianchi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比安奇（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bianchi"
+ },
+ "bianco": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比安科（姓氏）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biancos"
+ },
+ "biannual": {
+  "ph": "/bai'ænju:әl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "一年兩次的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 每年兩次",
+    "def": ""
+   }
+  ]
+ },
+ "biarritz": {
+  "ph": "/biә'rits/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "寬袖中長手套, 雙面緯向稜紋毛呢",
+    "def": ""
+   }
+  ]
+ },
+ "bias": {
+  "ph": "/'baiәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偏見, 斜紋",
+    "def": "a partiality that prevents objective consideration of an issue or situation"
+   },
+   {
+    "pos": "adj.",
+    "zh": "偏斜的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "偏斜",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使有偏見",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 偏流; 偏壓; 偏磁; 偏離",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 biased｜過去式 biased｜現在分詞 biassing｜第三人稱單數 biases"
+ },
+ "biased": {
+  "ph": "/'baiәst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有偏見的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 邊緣的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 biased"
+ },
+ "biasing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 偏置",
+    "def": ""
+   }
+  ]
+ },
+ "biathlon": {
+  "ph": "/bai'æθlәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑雪射擊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biathlons"
+ },
+ "biaxial": {
+  "ph": "/bai'æksiәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "二軸的",
+    "def": "having two axes"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 雙軸的",
+    "def": ""
+   }
+  ]
+ },
+ "bib": {
+  "ph": "/bib/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圍涎",
+    "def": "top part of an apron; covering the chest"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)大量喝酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bibs｜現在分詞 bibbing｜過去式 bibbed"
+ },
+ "bibb": {
+  "ph": "/'bɪb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桅肩加強板, 夾板, 小水龍頭",
+    "def": "A bibcock. See Bib, n., 3."
+   }
+  ]
+ },
+ "bibby": {
+  "ph": "/'bibi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(船內走廊上的)特等艙位",
+    "def": ""
+   }
+  ]
+ },
+ "bibelot": {
+  "ph": "/'biblәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<法>小擺設,小裝飾品,微型書",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bibelots"
+ },
+ "bible": {
+  "ph": "/'baibl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖經",
+    "def": "the sacred writings of the Christian religions"
+   }
+  ],
+  "forms": "複數 bibles"
+ },
+ "biblical": {
+  "ph": "/'biblikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聖經的",
+    "def": "of or pertaining to or contained in or in accordance with the Bible"
+   }
+  ]
+ },
+ "biblically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "跟聖經相關",
+    "def": ""
+   }
+  ]
+ },
+ "bibliographer": {
+  "ph": "/.bibli'ɒgrәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "書志學家, 書目編制人",
+    "def": "someone trained in compiling bibliographies"
+   }
+  ],
+  "forms": "複數 bibliographers"
+ },
+ "bibliographic": {
+  "ph": "/.bibliә'græfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "書目有關的, 書目的",
+    "def": "relating to or dealing with bibliography"
+   }
+  ]
+ },
+ "bibliographical": {
+  "ph": "/.bibliә'græfikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "書目有關的, 書目的",
+    "def": ""
+   }
+  ]
+ },
+ "bibliography": {
+  "ph": "/.bibli'ɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "參考書目",
+    "def": "a list of writings with time and place of publication (such as the writings of a single author or the works referred to in preparing a document etc.)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 書目; 文獻目錄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bibliographies"
+ },
+ "bibliophile": {
+  "ph": "/'bibliәufail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛書者, 藏書家",
+    "def": "someone who loves (and usually collects) books"
+   }
+  ],
+  "forms": "複數 bibliophiles"
+ },
+ "bibulous": {
+  "ph": "/'bibjulәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "飲酒的, 嗜酒的, 吸水的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 吸水的",
+    "def": ""
+   }
+  ]
+ },
+ "bibury": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bibury)人名；(英)拜伯裡",
+    "def": ""
+   }
+  ]
+ },
+ "bic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "承載通道識別碼（Bearer Identification Code）",
+    "def": ""
+   }
+  ]
+ },
+ "bicameral": {
+  "ph": "/bai'kæmәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兩院制的, 有兩個議院的",
+    "def": "composed of two legislative bodies"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 二室的, 兩室的",
+    "def": ""
+   }
+  ]
+ },
+ "bicarbonate": {
+  "ph": "/bai'kɑ:bәnit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重碳酸鹽",
+    "def": "a salt of carbonic acid (containing the anion HCO3) in which one hydrogen atom has been replaced; an acid carbonate"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 碳酸氫鹽; 酸式碳酸鹽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bicarbonates"
+ },
+ "bicentenary": {
+  "ph": "/baisen'ti:nәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "二百週年的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bicentenaries"
+ },
+ "bicentennial": {
+  "ph": "/baisen'tenjәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "二百年, 每二百年",
+    "def": "the 200th anniversary (or the celebration of it)"
+   }
+  ]
+ },
+ "bicep": {
+  "ph": "/baɪ'sep/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[體]二頭肌訓練機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biceps｜第三人稱單數 biceps"
+ },
+ "biceps": {
+  "ph": "/'baiseps/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "二頭肌, 臂部肌肉",
+    "def": "any skeletal muscle having two origins (but especially the muscle that flexes the forearm)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 二頭的, 二頭肌",
+    "def": ""
+   }
+  ]
+ },
+ "bicester": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比斯特（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "bicker": {
+  "ph": "/'bikә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "鬥嘴, 潺潺而流, 閃動",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "口角, 流水聲",
+    "def": "a quarrel about petty points"
+   }
+  ],
+  "forms": "現在分詞 bickering｜第三人稱單數 bickers｜過去式 bickered｜過去分詞 bickered"
+ },
+ "bickering": {
+  "ph": "/'bɪkərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "爭吵( bicker的現在分詞 ); 口角; （水等）作潺潺聲; 閃爍",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bickering｜複數 bickerings"
+ },
+ "bicoastal": {
+  "ph": "/bai'kәjstәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<美俚>(活躍在)大西洋和太平洋東西海岸的",
+    "def": ""
+   }
+  ]
+ },
+ "bicultural": {
+  "ph": "/bai'kʌltʃәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "二元文化的；兩種不同文化混合的",
+    "def": ""
+   }
+  ]
+ },
+ "bicycle": {
+  "ph": "/'baisikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳踏車",
+    "def": "a wheeled vehicle that has two wheels and is moved by foot pedals"
+   }
+  ],
+  "forms": "複數 bicycles｜過去式 bicycled｜現在分詞 bicycling｜過去分詞 bicycled｜第三人稱單數 bicycles"
+ },
+ "bicycles": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳踏車；腳踏車（bicycle的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "bicycling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 聯播",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bicycling"
+ },
+ "bicyclist": {
+  "ph": "/'baisiklist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎腳踏車者, 騎腳踏車者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bicyclists"
+ },
+ "bid": {
+  "ph": "/bid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出價",
+    "def": "an attempt to get something"
+   },
+   {
+    "pos": "v.",
+    "zh": "命令, 吩咐, 請求, 表示, 宣佈, 投標",
+    "def": "ask for or request earnestly"
+   }
+  ],
+  "forms": "複數 bids｜過去分詞 bid｜現在分詞 bidding｜過去式 bade｜第三人稱單數 bids"
+ },
+ "biddable": {
+  "ph": "/'bidәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "順從的, 可叫牌的",
+    "def": ""
+   }
+  ]
+ },
+ "bidder": {
+  "ph": "/'bidә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出價人, 投標人",
+    "def": "someone who makes an offer"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 投標人, 出價人, 投標商",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bidders"
+ },
+ "bidding": {
+  "ph": "/'bidiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "命令, 邀請, 出價",
+    "def": "a request to be present"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 投標, 招標",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bidding"
+ },
+ "biddle": {
+  "ph": "/'bidl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比德爾（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "biddy": {
+  "ph": "/'bidi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小雞, 母雞, 下女, 女傭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biddies"
+ },
+ "bide": {
+  "ph": "/baid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "等候, 住, 忍耐, 等待",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 biding｜過去式 bided｜第三人稱單數 bides｜過去分詞 bided"
+ },
+ "bideford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比迪福德",
+    "def": ""
+   }
+  ]
+ },
+ "bidet": {
+  "ph": "/bidet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小浴盆, 坐浴盆",
+    "def": "a basin for washing genitals and anal area"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 坐浴盆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bidets"
+ },
+ "bidirectional": {
+  "ph": "/,baidi'rekʃәnәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 雙向的",
+    "def": ""
+   }
+  ]
+ },
+ "bien": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好事",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biens"
+ },
+ "biennale": {
+  "ph": "/,biːe'nɑːleɪ; -lɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兩年發生一次的事物",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Biennale)人名；(法)比耶納勒",
+    "def": ""
+   }
+  ]
+ },
+ "biennial": {
+  "ph": "/bai'eniәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兩年生植物, 兩年一次的事",
+    "def": "(botany) a plant having a life cycle that normally takes two seasons from germination to death to complete; flowering biennials usually bloom and fruit in the s"
+   },
+   {
+    "pos": "adj.",
+    "zh": "兩年生的, 兩年一次的",
+    "def": "having a life cycle lasting two seasons"
+   }
+  ],
+  "forms": "複數 biennials"
+ },
+ "bier": {
+  "ph": "/biә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "棺材, 棺材架",
+    "def": "a coffin along with its stand"
+   }
+  ]
+ },
+ "biff": {
+  "ph": "/bif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一擊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "打",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 biffing｜第三人稱單數 biffs｜過去式 biffed｜複數 biffs｜過去分詞 biffed"
+ },
+ "bifocal": {
+  "ph": "/.bai'fәukl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "雙焦的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 雙焦點的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bifocals"
+ },
+ "bifocals": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙光眼鏡",
+    "def": "eyeglasses having two focal lengths, one for near vision and the other for far vision"
+   }
+  ]
+ },
+ "bifurcate": {
+  "ph": "/'baifәkeit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)分叉",
+    "def": "split or divide into two"
+   },
+   {
+    "pos": "adj.",
+    "zh": "分雙叉的",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 bifurcates｜過去式 bifurcated｜過去分詞 bifurcated｜現在分詞 bifurcating"
+ },
+ "bifurcated": {
+  "ph": "/'baɪfɜ:keɪtɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分為兩部分",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "（指道路、河流、樹枝等）分岔, 分成兩支( bifurcate的過去式和過去分詞 ); 使分枝, 使分叉",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bifurcated"
+ },
+ "bifurcation": {
+  "ph": "/.baifә'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙叉, 分叉, 分歧, 分歧點",
+    "def": "a bifurcating branch (one or both of them)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 雙態; 分叉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bifurcations"
+ },
+ "big": {
+  "ph": "/big/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大的, 重要的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "大量地",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 biggest｜比較級 bigger"
+ },
+ "big business": {
+  "ph": "/biɡ ˈbiznis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（尤指有舉足輕重影響力的）大企業集團, 大財閥",
+    "def": ""
+   }
+  ]
+ },
+ "big city": {
+  "ph": "/biɡ ˈsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大城市; 都",
+    "def": ""
+   }
+  ]
+ },
+ "big deal": {
+  "ph": "/biɡ di:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[美國俚語]名人, 要人, 要員, 大人物; [輕蔑語, 常用作反語, 表示不贊同]了不起的事, 極其重大的事",
+    "def": ""
+   }
+  ]
+ },
+ "big fish": {
+  "ph": "/biɡ fiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "指公司裡的重要人物",
+    "def": ""
+   }
+  ]
+ },
+ "big money": {
+  "ph": "/biɡ ˈmʌni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大筆的錢",
+    "def": ""
+   }
+  ]
+ },
+ "big name": {
+  "ph": "/biɡ neim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "知名人士, 眾所周知的事情",
+    "def": ""
+   }
+  ]
+ },
+ "big time": {
+  "ph": "/biɡ taim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "第一流; 巨大成功; 愉快的時光",
+    "def": ""
+   }
+  ]
+ },
+ "bigamist": {
+  "ph": "/'bigәmist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重婚者",
+    "def": "someone who marries one person while already legally married to another"
+   }
+  ]
+ },
+ "bigamy": {
+  "ph": "/'bigәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重婚, 重婚罪",
+    "def": "having two spouses at the same time"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 重婚, 重婚罪",
+    "def": ""
+   }
+  ]
+ },
+ "bigeye": {
+  "ph": "/'bɪɡaɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大眼鯛",
+    "def": "red fishes of American coastal tropical waters having very large eyes and rough scales"
+   }
+  ]
+ },
+ "bigfoot": {
+  "ph": "/'bɪɡfʊt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大腳；傳說中生存於北美洲西北部太平洋沿岸森林中的野人（等於Sasquatch）",
+    "def": "large hairy humanoid creature said to live in wilderness areas of the United States and Canada"
+   }
+  ]
+ },
+ "biggar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Biggar)人名；(英)比格",
+    "def": ""
+   }
+  ]
+ },
+ "biggie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大亨",
+    "def": ""
+   }
+  ]
+ },
+ "biggin": {
+  "ph": "/'bi^in/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[英方](無邊的)童帽",
+    "def": ""
+   }
+  ]
+ },
+ "biggins": {
+  "ph": "/'biɡin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帽子；風帽；兜帽；高階律師白帽",
+    "def": ""
+   }
+  ]
+ },
+ "biggish": {
+  "ph": "/'bigiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "較大的, 頗大的",
+    "def": ""
+   }
+  ]
+ },
+ "biggs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比格斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "bighorn": {
+  "ph": "/'bighɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "加拿大盤羊",
+    "def": "a river that flows from central Wyoming to the Yellowstone River in southern Montana"
+   }
+  ]
+ },
+ "bight": {
+  "ph": "/bait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海灣, 繩圈",
+    "def": "a loop in a rope"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用繩環扣住, 結成繩圈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bights｜現在分詞 bighting｜過去式 bighted｜第三人稱單數 bights｜過去分詞 bighted"
+ },
+ "bigness": {
+  "ph": "/'bignis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大, 偉大, 重大",
+    "def": ""
+   }
+  ]
+ },
+ "bigot": {
+  "ph": "/'bigәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盲從者, 偏執的人",
+    "def": "a prejudiced person who is intolerant of any opinions differing from his own"
+   }
+  ],
+  "forms": "複數 bigots｜第三人稱單數 bigots"
+ },
+ "bigoted": {
+  "ph": "/'bigәtid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "盲從的, 固執己見的, 執迷的, 頑固的",
+    "def": ""
+   }
+  ]
+ },
+ "bigotry": {
+  "ph": "/'bigәtri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盲從, 偏見, 偏執的行為(或態度)",
+    "def": "the intolerance and prejudice of a bigot"
+   }
+  ],
+  "forms": "複數 bigotries"
+ },
+ "bigwig": {
+  "ph": "/'bigwig/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "要人, 大亨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bigwigs｜第三人稱單數 bigwigs"
+ },
+ "bihar": {
+  "ph": "/bi'hɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比哈爾邦(印度地名)",
+    "def": "a state of northeastern India"
+   }
+  ]
+ },
+ "bijou": {
+  "ph": "/'bi:ʒu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<法>珠寶,寶石,小巧美觀的東西",
+    "def": "a small and delicately worked piece"
+   },
+   {
+    "pos": "adj.",
+    "zh": "小巧美觀的",
+    "def": ""
+   }
+  ]
+ },
+ "bike": {
+  "ph": "/baik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳踏車, 腳踏車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bikes｜現在分詞 biking｜過去式 biked｜第三人稱單數 bikes｜過去分詞 biked"
+ },
+ "biker": {
+  "ph": "/'baikә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎腳踏車/摩托車的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bikers"
+ },
+ "bikeway": {
+  "ph": "/'baikwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳踏車車道",
+    "def": ""
+   }
+  ]
+ },
+ "biking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳踏車, 騎單車；踏單車",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 biking"
+ },
+ "bikini": {
+  "ph": "/bi'ki:ni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大爆炸, 比基尼泳裝",
+    "def": "an atoll in the Marshall Islands; formerly used by the United States as a site for testing nuclear weapons"
+   }
+  ],
+  "forms": "複數 bikinis"
+ },
+ "biko": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比科（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "bilateral": {
+  "ph": "/bai'lætәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有兩邊的, 雙邊的, 雙方的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兩側的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bilaterals"
+ },
+ "bilateralism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "互惠主義",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兩側對稱",
+    "def": ""
+   }
+  ]
+ },
+ "bilaterally": {
+  "ph": "/ˌbaɪ'lætərəlɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]adv.兩側, 雙向地",
+    "def": ""
+   }
+  ]
+ },
+ "bilayer": {
+  "ph": "/,bai'leiә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 雙分子層",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bilayers"
+ },
+ "bilbao": {
+  "ph": "/bil'bɑ:әu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畢爾巴鄂（地名, 西班牙港口）",
+    "def": ""
+   }
+  ]
+ },
+ "bilberry": {
+  "ph": "/'bilbәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歐洲越桔",
+    "def": "erect European blueberry having solitary flowers and blue-black berries"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 越橘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bilberries｜現在分詞 bilberrying"
+ },
+ "bildungsroman": {
+  "ph": "/'bildjŋzrәj,mɑ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<德> n.教育小說(源於德國文學中一種傳統的小說型別, 以描述主人公成長過程為主題)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bildungsromans"
+ },
+ "bile": {
+  "ph": "/bail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膽汁, 壞脾氣, 暴躁",
+    "def": "a digestive juice secreted by the liver and stored in the gallbladder; aids in the digestion of fats"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膽汁",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biles"
+ },
+ "bilge": {
+  "ph": "/bildʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "底艙, 艙底汙水, 廢話",
+    "def": "water accumulated in the bilge of a ship"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使船底漏水",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "膨脹, 船底漏水",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bilges｜第三人稱單數 bilges｜現在分詞 bilging｜過去式 bilged｜過去分詞 bilged"
+ },
+ "bilharzia": {
+  "ph": "/bil'hɑ:ziә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "血吸蟲",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 裂體吸蟲屬, 血吸蟲屬",
+    "def": ""
+   }
+  ]
+ },
+ "biliary": {
+  "ph": "/'biljәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "膽汁的, 輸送膽汁的, 由於肝功能障礙引起的",
+    "def": "relating to the bile ducts or the gallbladder"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膽汁的, 膽的",
+    "def": ""
+   }
+  ]
+ },
+ "bilingual": {
+  "ph": "/bai'liŋgwәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "雙語的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bilinguals"
+ },
+ "bilingualism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使用兩種語言",
+    "def": "the ability to speak two languages colloquially"
+   }
+  ]
+ },
+ "bilious": {
+  "ph": "/'biljәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "患膽(或肝)病的, 膽汁質的, 壞脾氣的",
+    "def": "relating to or containing bile"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膽汁的, 膽汁質的",
+    "def": ""
+   }
+  ]
+ },
+ "bilirubin": {
+  "ph": "/,bili'ru:bin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膽汁紅素, 膽紅素",
+    "def": "an orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 膽紅素",
+    "def": ""
+   }
+  ]
+ },
+ "bilk": {
+  "ph": "/bilk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "欺騙, 賴帳, 使受挫折",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "賴帳者, 騙子",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bilking｜過去式 bilked｜第三人稱單數 bilks｜過去分詞 bilked"
+ },
+ "bill": {
+  "ph": "/bil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帳單, 清單, 鈔票, 鳥嘴, 廣告, 法案, 票據",
+    "def": "a statute in draft before it becomes law"
+   },
+   {
+    "pos": "vt.",
+    "zh": "開帳單, (用招貼)宣佈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bills｜過去分詞 billed｜現在分詞 billing｜過去式 billed｜第三人稱單數 bills"
+ },
+ "billable": {
+  "ph": "/'bɪleɪbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "bill的變形",
+    "def": ""
+   }
+  ]
+ },
+ "billabong": {
+  "ph": "/'bilә,bɔŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "死河, 死水潭",
+    "def": "a stagnant pool of water in the bed of a stream that flows intermittently"
+   }
+  ],
+  "forms": "複數 billabongs"
+ },
+ "billboard": {
+  "ph": "/'bilbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣告牌, 佈告板",
+    "def": "large outdoor signboard"
+   },
+   {
+    "pos": "vt.",
+    "zh": "宣傳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 billboards"
+ },
+ "billed": {
+  "ph": "/'bɪld/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "安排（bill的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 billed"
+ },
+ "billericay": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Billericay)人名；(英)比勒裡基",
+    "def": ""
+   }
+  ]
+ },
+ "billet": {
+  "ph": "/'bilit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兵舍, 軍營, 木柴",
+    "def": "lodging for military personnel (especially in a private home)"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 小胚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 billets｜過去分詞 billetted｜過去式 billetted｜現在分詞 billeting｜第三人稱單數 billets"
+ },
+ "billeting": {
+  "ph": "/ˈbilitɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給（部隊）安排住處( billet的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "billfish": {
+  "ph": "/'bilfiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長嘴魚(顎狹長如喙的魚,如雀鱔等),尖嘴魚(具有劍狀長嘴及上顎的魚,如旗魚、槍魚等)",
+    "def": "giant warm-water game fish having a prolonged and rounded toothless upper jaw"
+   }
+  ]
+ },
+ "billfold": {
+  "ph": "/'bilfәuld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "皮夾",
+    "def": ""
+   }
+  ]
+ },
+ "billiard": {
+  "ph": "/'biljәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "檯球的",
+    "def": "of or relating to billiards"
+   }
+  ],
+  "forms": "複數 billiards"
+ },
+ "billiards": {
+  "ph": "/'biljәdz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檯球, 桌球",
+    "def": "any of several games played on rectangular cloth-covered table (with cushioned edges) in which long tapering cue sticks are used to propel ivory (or composition"
+   }
+  ]
+ },
+ "billie": {
+  "ph": "/'bili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比利（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "billing": {
+  "ph": "/'biliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節目次序, 廣告",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 開票(發票,帳單)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 billings｜現在分詞 billing"
+ },
+ "billingham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白金漢（品牌名）；白金漢（英國一城鎮）；比林漢姆（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "billingsgate": {
+  "ph": "/'biliŋz^eit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粗俗話, 下流話",
+    "def": ""
+   }
+  ]
+ },
+ "billingsley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Billingsley)人名；(英)比林斯利",
+    "def": ""
+   }
+  ]
+ },
+ "billington": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Billington)人名；(英)比林頓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 billingtons"
+ },
+ "billion": {
+  "ph": "/'biljәn/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "十億, 十億個",
+    "def": ""
+   }
+  ]
+ },
+ "billionaire": {
+  "ph": "/.biljә'nєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "億萬富翁",
+    "def": "a very rich person whose material wealth is valued at more than a billion dollars"
+   }
+  ],
+  "forms": "複數 billionaires"
+ },
+ "billionth": {
+  "ph": "/'biljәnθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第十億個, 十億分之一",
+    "def": ""
+   }
+  ],
+  "forms": "複數 billionths"
+ },
+ "billow": {
+  "ph": "/'bilәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巨浪",
+    "def": "a large sea wave"
+   },
+   {
+    "pos": "vi.",
+    "zh": "象巨浪般洶湧, 象巨浪般波動",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使翻騰",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 billowing｜過去式 billowed｜複數 billows｜第三人稱單數 billows｜過去分詞 billowed"
+ },
+ "billowing": {
+  "ph": "/ˈbiləuɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "在波濤中翻滾( billow的現在分詞 ); 揚起, 鼓起; 瀲灩",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 billowing｜複數 billowings"
+ },
+ "billows": {
+  "ph": "/ˈbiləuz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巨浪, 如波濤滾滾而來之物( billow的名詞複數 )",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "在波濤中翻滾( billow的第三人稱單數 ); 揚起, 鼓起",
+    "def": ""
+   }
+  ]
+ },
+ "billowy": {
+  "ph": "/'bilәui/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "巨浪似的, 洶湧的",
+    "def": ""
+   }
+  ]
+ },
+ "billy": {
+  "ph": "/'bili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "警棍, 夥伴",
+    "def": "male goat"
+   }
+  ]
+ },
+ "bilston": {
+  "ph": "/'bilstәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[英]比爾斯頓搪瓷器",
+    "def": ""
+   }
+  ]
+ },
+ "bim": {
+  "ph": "/bim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女子",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 資訊開始標記, 匯流排介面模組",
+    "def": ""
+   }
+  ]
+ },
+ "bimbo": {
+  "ph": "/'bimbәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男人(尤指彪形大漢), 女人",
+    "def": "a young woman indulged by rich and powerful older men"
+   }
+  ],
+  "forms": "複數 bimbos"
+ },
+ "bimodal": {
+  "ph": "/bai'mәudl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 雙模態的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 雙峰的",
+    "def": ""
+   }
+  ]
+ },
+ "bimonthly": {
+  "ph": "/.bai'mʌnθli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兩月一次的, 每月兩次的",
+    "def": ""
+   }
+  ]
+ },
+ "bin": {
+  "ph": "/bin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(貯存穀物等的)容器, 箱子",
+    "def": "a container; usually has a lid"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 二進位制, 商業資訊網",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bins｜過去式 binned｜過去分詞 binned｜現在分詞 binning｜第三人稱單數 bins"
+ },
+ "binary": {
+  "ph": "/'bainәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "由兩部分組成的, 二進位的, 二元的",
+    "def": "of or pertaining to a number system have 2 as its base"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 二進位制的; 二態的; 二進位制, 二進位制檔案傳輸型別設定命令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 binaries"
+ },
+ "binational": {
+  "ph": "/bai'næʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兩個國家的,兩個民族的",
+    "def": ""
+   }
+  ]
+ },
+ "binaural": {
+  "ph": "/.bain'ɒ:rәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兩路立體聲的, 有兩耳的, 兩耳用的",
+    "def": "relating to or having or hearing with two ears"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兩耳的",
+    "def": ""
+   }
+  ]
+ },
+ "bind": {
+  "ph": "/baind/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "綁, 約束, 裝訂, 包紮, 使結合",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "凝固, 有約束力",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 賦值, 繫結",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bound｜現在分詞 binding｜過去式 bound｜第三人稱單數 binds"
+ },
+ "binder": {
+  "ph": "/'baindә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捆縛者, 用以綁縛之物, 活頁夾",
+    "def": "a machine that cuts grain and binds it in sheaves"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 粘結劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 binders"
+ },
+ "binding": {
+  "ph": "/'baindiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝訂",
+    "def": "the capacity to attract and hold something"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 聯編; 彙集; 繫結, 捆綁",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 binding｜複數 bindings"
+ },
+ "bindweed": {
+  "ph": "/'baindwi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋花屬植物",
+    "def": "any of several vines of the genera Convolvulus and Calystegia having a twining habit"
+   }
+  ],
+  "forms": "複數 bindweeds"
+ },
+ "bing": {
+  "ph": "/biŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堆；材料堆；微軟公司的搜尋引擎產品",
+    "def": "A heap or pile; as, a bing of wood."
+   }
+  ],
+  "forms": "複數 bings｜現在分詞 binging｜第三人稱單數 bings"
+ },
+ "binge": {
+  "ph": "/bindʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狂鬧, 狂歡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 binges｜現在分詞 bingeing｜過去式 binged｜第三人稱單數 binges｜過去分詞 binged"
+ },
+ "bingham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "賓漢（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "bingley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "賓利",
+    "def": ""
+   }
+  ]
+ },
+ "bingo": {
+  "ph": "/'biŋgәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賓戈(一種賭博遊戲), 烈酒",
+    "def": ""
+   }
+  ]
+ },
+ "binks": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賓克斯（美國ITW旗下品牌）",
+    "def": ""
+   }
+  ]
+ },
+ "binns": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Binns)人名；(英)賓斯",
+    "def": ""
+   }
+  ]
+ },
+ "binoche": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Binoche)人名；(法)比諾什",
+    "def": ""
+   }
+  ]
+ },
+ "binocular": {
+  "ph": "/bi'nɒkjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同時用兩眼的, 兩眼並用的",
+    "def": "relating to both eyes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 雙眼的, 雙目鏡",
+    "def": ""
+   }
+  ]
+ },
+ "binoculars": {
+  "ph": "/bi'nɒkjulәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙目鏡, 雙筒鏡",
+    "def": "an optical instrument designed for simultaneous use by both eyes"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 雙目鏡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 binoculars"
+ },
+ "binomial": {
+  "ph": "/bai'nәumjәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "包含兩個名詞(或名稱的), 二項式的, 雙名的",
+    "def": "of or relating to or consisting of two terms"
+   },
+   {
+    "pos": "n.",
+    "zh": "二項式, 雙名",
+    "def": "(mathematics) a quantity expressed as a sum or difference of two terms; a polynomial with two terms"
+   }
+  ],
+  "forms": "複數 binomials"
+ },
+ "bint": {
+  "ph": "/bɪnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英><俚><貶>女孩, 女人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bints"
+ },
+ "binyon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比尼恩（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "bio": {
+  "ph": "/'baiәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "個人簡歷, 小傳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bios"
+ },
+ "bioaccumulation": {
+  "ph": "/,baiәuәkju:mju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(有毒化學物質的) 生物體內積累",
+    "def": ""
+   }
+  ]
+ },
+ "bioactive": {
+  "ph": "/,baiәj'æktiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物活性的",
+    "def": ""
+   }
+  ]
+ },
+ "bioaerosol": {
+  "ph": "/bi:ə'ʊeərɒsɒl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物氣溶膠",
+    "def": ""
+   }
+  ]
+ },
+ "bioassay": {
+  "ph": "/,baiәu'æsei, -ә'sei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物鑑定, 活體檢定, 生物測定",
+    "def": "appraisal of the biological activity of a substance by testing its effect on an organism and comparing the result with some agreed standard"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物測定",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bioassays｜現在分詞 bioassaying｜過去式 bioassayed｜第三人稱單數 bioassays｜過去分詞 bioassayed"
+ },
+ "bioavailability": {
+  "ph": "/,baiәuә,veilә'biliti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 生物可利用率",
+    "def": ""
+   }
+  ]
+ },
+ "biocentric": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "以生物為中心的",
+    "def": ""
+   }
+  ]
+ },
+ "biochemical": {
+  "ph": "/.baiәu'kemikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物化學的",
+    "def": "of or relating to biochemistry; involving chemical processes in living organisms"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 生物化學的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biochemicals"
+ },
+ "biochemically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "由生化反應產生(biochemical的副詞形式)",
+    "def": ""
+   }
+  ]
+ },
+ "biochemist": {
+  "ph": "/.baiәu'kemist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物化學家",
+    "def": "someone with special training in biochemistry"
+   }
+  ],
+  "forms": "複數 biochemists"
+ },
+ "biochemistry": {
+  "ph": "/.baiәu'kemistri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物化學",
+    "def": "the organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物化學; 生化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biochemistries"
+ },
+ "biochip": {
+  "ph": "/'baiәutʃip/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 生物晶片",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物晶片",
+    "def": ""
+   }
+  ]
+ },
+ "biocide": {
+  "ph": "/'baiәsaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "殺蟲劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biocides"
+ },
+ "biocontrol": {
+  "ph": "/'baiәukәu'trәul/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物電控制, 生物防除",
+    "def": ""
+   }
+  ]
+ },
+ "biodegradable": {
+  "ph": "/.baiәudi'greidәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能進行生物降解的",
+    "def": ""
+   }
+  ]
+ },
+ "biodegrade": {
+  "ph": "/,baiәudi'^reid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "生物遞降分解",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 biodegrading｜過去式 biodegraded｜第三人稱單數 biodegrades｜過去分詞 biodegraded"
+ },
+ "biodiesel": {
+  "ph": "/'baɪəʊdi:zl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物柴油",
+    "def": ""
+   }
+  ]
+ },
+ "biodiverse": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物多類狀態的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "生物多樣的",
+    "def": ""
+   }
+  ]
+ },
+ "biodiversity": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物多樣性",
+    "def": "the diversity of plant and animal life in a particular habitat (or in the world as a whole)"
+   }
+  ]
+ },
+ "biodynamic": {
+  "ph": "/,baiәudai'næmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物動力(學)的",
+    "def": ""
+   }
+  ]
+ },
+ "biodynamics": {
+  "ph": "/.baiәudai'næmiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物動力學",
+    "def": "The doctrine of vital forces or energy."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生物動態學, 生物力學",
+    "def": ""
+   }
+  ]
+ },
+ "bioengineered": {
+  "ph": "/bi:əʊendʒɪ'nɪərd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物工程（改造）的",
+    "def": ""
+   }
+  ]
+ },
+ "bioengineering": {
+  "ph": "/baiәu,endʒi'niәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 生物工程",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物工程",
+    "def": ""
+   }
+  ]
+ },
+ "bioethical": {
+  "ph": "/,baiə'eθikəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物倫理學的",
+    "def": ""
+   }
+  ]
+ },
+ "bioethicist": {
+  "ph": "/,baiəu'eθisist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物倫理學家",
+    "def": ""
+   }
+  ]
+ },
+ "bioethics": {
+  "ph": "/'baiәueθiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物倫理學",
+    "def": "the branch of ethics that studies moral values in the biomedical sciences"
+   }
+  ]
+ },
+ "biofeedback": {
+  "ph": "/'baiәu,fi:dbæk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 生物反饋",
+    "def": ""
+   }
+  ]
+ },
+ "biofilm": {
+  "ph": "/'bɪɒfɪlm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物膜",
+    "def": ""
+   }
+  ]
+ },
+ "biofilter": {
+  "ph": "/,baiәu'filtә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 生物過瀘器",
+    "def": ""
+   }
+  ]
+ },
+ "biofuel": {
+  "ph": "/baiәu'fju:әl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 生物燃料",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biofuels"
+ },
+ "biogas": {
+  "ph": "/'baiәu,^æs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 生物沼氣",
+    "def": ""
+   }
+  ]
+ },
+ "biogenetic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 生物發生的, 生物起源的",
+    "def": ""
+   }
+  ]
+ },
+ "biogenic": {
+  "ph": "/,baiәu'dʒenik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物所產生的, 生物的生命活動所必需的",
+    "def": "produced by living organisms or biological processes"
+   }
+  ]
+ },
+ "biogeochemistry": {
+  "ph": "/baiәu,dʒiәu'kemistri/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 生物地理化學",
+    "def": ""
+   }
+  ]
+ },
+ "biogeographic": {
+  "ph": "/bi:əʊdʒɪəɡ'ræfɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物地理的",
+    "def": ""
+   }
+  ]
+ },
+ "biogeographical": {
+  "ph": "/'baiəu,dʒi:əu'ɡræfik; 'baiəu,dʒi:ə'ɡræfikəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物地理學的",
+    "def": ""
+   }
+  ]
+ },
+ "biogeography": {
+  "ph": "/,baiәudʒi'ɔ^rәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物地理學( 研究生物的地理分佈)",
+    "def": "dealing with the geographical distribution of animals and plants"
+   }
+  ]
+ },
+ "biographer": {
+  "ph": "/bai'ɒgrәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傳記作者",
+    "def": "someone who writes an account of a person's life"
+   }
+  ],
+  "forms": "複數 biographers"
+ },
+ "biographic": {
+  "ph": "/,baiәj'^ræfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傳記的, 傳記體的",
+    "def": "of or relating to or being biography"
+   }
+  ]
+ },
+ "biographical": {
+  "ph": "/baiәu'græfikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傳記的",
+    "def": ""
+   }
+  ]
+ },
+ "biography": {
+  "ph": "/bai'ɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傳記",
+    "def": "an account of the series of events making up a person's life"
+   }
+  ],
+  "forms": "複數 biographies"
+ },
+ "biohazard": {
+  "ph": "/,baiәu'hæzәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物危害",
+    "def": "hazard to humans or the environment resulting from biological agents or conditions"
+   }
+  ]
+ },
+ "bioinformatics": {
+  "ph": "/bi:əʊɪn'fɔ:mətɪks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "分析複雜生物資料的學科",
+    "def": ""
+   }
+  ]
+ },
+ "biologic": {
+  "ph": "/.baiәu'lɒdʒik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物的, 生物學的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生物學的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biologics"
+ },
+ "biological": {
+  "ph": "/.baiәu'lɒdʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物學的",
+    "def": "pertaining to biology or to life and living things"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生物學的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biologicals"
+ },
+ "biologically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "生物學, 生態學",
+    "def": ""
+   }
+  ]
+ },
+ "biologist": {
+  "ph": "/bai'ɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物學家",
+    "def": "(biology) a scientist who studies living organisms"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生物學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biologists"
+ },
+ "biology": {
+  "ph": "/bai'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物學",
+    "def": "the science that studies living organisms"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物; 生物學",
+    "def": ""
+   }
+  ]
+ },
+ "bioluminescence": {
+  "ph": "/'baiәu,lu:mi'nesns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物(性)發光",
+    "def": "luminescence produced by physiological processes (as in the firefly)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物發光",
+    "def": ""
+   }
+  ]
+ },
+ "bioluminescent": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物(性)發光",
+    "def": ""
+   }
+  ]
+ },
+ "biomarker": {
+  "ph": "/'baɪɒmɑ:kər/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物標記",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biomarkers"
+ },
+ "biomass": {
+  "ph": "/'baiәumæs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物量",
+    "def": "plant materials and animal waste used as fuel"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物質; 生物量",
+    "def": ""
+   }
+  ]
+ },
+ "biome": {
+  "ph": "/'baiәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物群落區",
+    "def": "a major biotic community characterized by the dominant forms of plant life and the prevailing climate"
+   }
+  ],
+  "forms": "複數 biomes"
+ },
+ "biomechanical": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物力學",
+    "def": ""
+   }
+  ]
+ },
+ "biomechanics": {
+  "ph": "/,baiәumә'kæniks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物力學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 生物力學",
+    "def": ""
+   }
+  ]
+ },
+ "biomedical": {
+  "ph": "/,baiәu'medikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物醫學",
+    "def": "relating to the activities and applications of science to clinical medicine"
+   }
+  ]
+ },
+ "biomedicine": {
+  "ph": "/,baiәu'medisn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物醫學",
+    "def": "the branch of medical science that applies biological and physiological principles to clinical practice"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生物醫學",
+    "def": ""
+   }
+  ]
+ },
+ "biometric": {
+  "ph": "/ˌbaɪəʊˈmetrɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "計量生物學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biometrics"
+ },
+ "biometrics": {
+  "ph": "/baiәu'metriks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物統計學",
+    "def": "a branch of biology that studies biological phenomena and observations by means of statistical analysis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生物統計學, 壽命預測(平均餘命算定)",
+    "def": ""
+   }
+  ]
+ },
+ "biomolecular": {
+  "ph": "/baɪɒməʊ'lekjʊlə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計][修]生物分子",
+    "def": ""
+   }
+  ]
+ },
+ "biomolecule": {
+  "ph": "/,baiәu'mɔlikju:l/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 活質分子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biomolecules"
+ },
+ "biomorph": {
+  "ph": "/'baiәjmɔ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(尤指原始藝術或抽象派藝術中的)生物形態",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biomorphs"
+ },
+ "biomorphic": {
+  "ph": "/baiәu'mɒ:fik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物形態的",
+    "def": ""
+   }
+  ]
+ },
+ "bionic": {
+  "ph": "/bai'ɔnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超越人力的(速度/力量)",
+    "def": "of or relating to bionics"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 仿生學",
+    "def": ""
+   }
+  ]
+ },
+ "bionics": {
+  "ph": "/bai'ɒniks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仿生學",
+    "def": "application of biological principles to the study and design of engineering systems (especially electronic systems)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 仿生學",
+    "def": ""
+   }
+  ]
+ },
+ "biopharmaceutical": {
+  "ph": "/-kəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物製藥學",
+    "def": ""
+   }
+  ]
+ },
+ "biophysical": {
+  "ph": "/,baɪəʊ'fɪzɪkəl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]生物物理學的",
+    "def": ""
+   }
+  ]
+ },
+ "biophysicist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物物理學家",
+    "def": "a physicist who applies the methods of physics to biology"
+   }
+  ]
+ },
+ "biophysics": {
+  "ph": "/.baiәu'fiziks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物物理學",
+    "def": "physics as applied to biological problems"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物物理學",
+    "def": ""
+   }
+  ]
+ },
+ "biopic": {
+  "ph": "/ˈbaɪəʊpɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傳記（體影）片",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biopics"
+ },
+ "biopolymer": {
+  "ph": "/'baiәu'pɔlimә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 生物聚合物; 生物高分子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biopolymers"
+ },
+ "bioprospecting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物勘探",
+    "def": ""
+   }
+  ]
+ },
+ "biopsy": {
+  "ph": "/'bai.ɒpsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "活組織檢查",
+    "def": "examination of tissues or liquids from the living body to determine the existence or cause of a disease"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 活組織檢查",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biopsies｜過去分詞 biopsied｜過去式 biopsied"
+ },
+ "biopsychosocial": {
+  "ph": "/baɪɒpsaɪkə'səʃl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]adj.生物心理社會學的",
+    "def": ""
+   }
+  ]
+ },
+ "bioreactor": {
+  "ph": "/,baiәuri(:)'æktә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 生物反應器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bioreactors"
+ },
+ "bioregion": {
+  "ph": "/baɪə'ri:dʒən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物區",
+    "def": ""
+   }
+  ]
+ },
+ "bioregional": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "bioregion的變形",
+    "def": ""
+   }
+  ]
+ },
+ "bioremediation": {
+  "ph": "/baɪərmi:d'ɪeɪʃn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（利用微生物淨化有毒廢物場或受汙染水域等的）生物治理",
+    "def": "the branch of biotechnology that uses biological process to overcome environmental problems"
+   }
+  ]
+ },
+ "biorhythm": {
+  "ph": "/,baiәu'riðәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 生物節律",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biorhythms"
+ },
+ "biosafety": {
+  "ph": "/,baiәj'seifti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[常用作定語]生物研究安全性",
+    "def": "safety from exposure to infectious agents"
+   }
+  ]
+ },
+ "bioscience": {
+  "ph": "/'baiәusaiәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物科學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biosciences"
+ },
+ "biosensor": {
+  "ph": "/,baiәu'sensә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 生物感測器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物感測器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biosensors"
+ },
+ "biosolids": {
+  "ph": "/bi:əʊ'zɒlɪdz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物固體（從處理過廢水中取得的固體或半固體材料, 常用作肥料）",
+    "def": ""
+   }
+  ]
+ },
+ "biosphere": {
+  "ph": "/'baiәsfiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物圈",
+    "def": "the regions of the surface and atmosphere of the Earth (or other planet) where living organisms exist"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生物圈, 生物層",
+    "def": ""
+   }
+  ]
+ },
+ "biospherian": {
+  "ph": "/bi:əʊs'fɪərɪən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]生物圈人進入生物圈居住2年以上的實驗人",
+    "def": ""
+   }
+  ]
+ },
+ "biostatistician": {
+  "ph": "/baɪəstətɪs'tɪʃən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生物統計學家",
+    "def": ""
+   }
+  ]
+ },
+ "biostatistics": {
+  "ph": "/.baiәustә'tistiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物統計學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 生物統計學",
+    "def": ""
+   }
+  ]
+ },
+ "biosynthesis": {
+  "ph": "/.baiәu'sinθisis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物合成",
+    "def": "production of a chemical compound by a living organism"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物合成",
+    "def": ""
+   }
+  ]
+ },
+ "biota": {
+  "ph": "/bai'әutә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物區",
+    "def": "all the plant and animal life of a particular region"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生物區[系]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biota"
+ },
+ "biotech": {
+  "ph": "/'baɪəʊtek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物技術",
+    "def": ""
+   }
+  ]
+ },
+ "biotechnological": {
+  "ph": "/ ˌbaɪəʊteknə'lɒdʒɪkl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生物技術的",
+    "def": ""
+   }
+  ]
+ },
+ "biotechnology": {
+  "ph": "/.baiәutek'nɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物工藝學；生物技術",
+    "def": "the branch of molecular biology that studies the use of microorganisms to perform specific industrial processes"
+   }
+  ],
+  "forms": "複數 biotechnologies"
+ },
+ "bioterrorism": {
+  "ph": "/ˌbaɪəʊ'terəˌrɪzəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物恐怖活動",
+    "def": "terrorism using the weapons of biological warfare"
+   }
+  ]
+ },
+ "biotic": {
+  "ph": "/bai'ɔtik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生命的, 生物的",
+    "def": "of or relating to living organisms"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生命的, 生物的, 生物區[系]的",
+    "def": ""
+   }
+  ]
+ },
+ "biotin": {
+  "ph": "/'baiәtin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物素",
+    "def": "a B vitamin that aids in body growth"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生物素; 維生素H",
+    "def": ""
+   }
+  ]
+ },
+ "biotype": {
+  "ph": "/'baiәtaip/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 生物屬型",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biotypes"
+ },
+ "biowarfare": {
+  "ph": "/,baiәj'wɔ:feә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物戰, 細菌戰",
+    "def": ""
+   }
+  ]
+ },
+ "bioweapon": {
+  "ph": "/'baiəwepən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物武器",
+    "def": "any weapon usable in biological warfare"
+   }
+  ]
+ },
+ "biparental": {
+  "ph": "/,baipә'rentəl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 雙親的",
+    "def": ""
+   }
+  ]
+ },
+ "bipartisan": {
+  "ph": "/bai,pɑ:ti'zæn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兩黨連立的",
+    "def": ""
+   }
+  ]
+ },
+ "bipartisanship": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 兩黨制",
+    "def": ""
+   }
+  ]
+ },
+ "bipartite": {
+  "ph": "/.bai'pɑ:tait/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "由兩部分組成的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兩分的",
+    "def": ""
+   }
+  ]
+ },
+ "biped": {
+  "ph": "/'baiped/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兩足動物",
+    "def": "an animal with two feet"
+   },
+   {
+    "pos": "adj.",
+    "zh": "有兩足的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bipeds｜過去式 biped"
+ },
+ "bipedal": {
+  "ph": "/'bai,pedəl,bai'pe-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 兩足的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bipedals"
+ },
+ "bipedalism": {
+  "ph": "/'baɪpedlɪzəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用兩足運動",
+    "def": "the bodily attribute of being bipedal; having two feet"
+   }
+  ]
+ },
+ "biphasic": {
+  "ph": "/bai'feizik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 二相性的",
+    "def": ""
+   }
+  ]
+ },
+ "biphenyl": {
+  "ph": "/bai'fenil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聯苯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 聯苯; 聯二苯; (誤用,=biphenylyl)聯苯基",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biphenyls"
+ },
+ "biplane": {
+  "ph": "/'baiplein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙翼飛機",
+    "def": "old fashioned airplane; has two wings one above the other"
+   }
+  ],
+  "forms": "複數 biplanes"
+ },
+ "bipod": {
+  "ph": "/'baipɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兩腳架",
+    "def": ""
+   }
+  ]
+ },
+ "bipolar": {
+  "ph": "/bai'pәulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有兩極的, 雙極的",
+    "def": "of or relating to manic depressive illness"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 雙極性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bipolars"
+ },
+ "bir": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）國內稅收局（Board of Inland Revenue）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 birs"
+ },
+ "biracial": {
+  "ph": "/bai'reiʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兩種人種的",
+    "def": ""
+   }
+  ]
+ },
+ "birch": {
+  "ph": "/bә:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樺樹, 樺木, 樺條",
+    "def": "hard close-grained wood of any of various birch trees; used especially in furniture and interior finishes and plywood"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 樺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 birches｜過去分詞 birched｜現在分詞 birching｜過去式 birched｜第三人稱單數 birches"
+ },
+ "birchbark": {
+  "ph": "/'bɜ:tʃbɑ:k/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "樺皮舟",
+    "def": ""
+   }
+  ]
+ },
+ "bird": {
+  "ph": "/bә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥, 羽毛球",
+    "def": "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings"
+   },
+   {
+    "pos": "vi.",
+    "zh": "打鳥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 birds｜現在分詞 birding｜過去式 birded｜第三人稱單數 birds｜過去分詞 birded"
+ },
+ "birdbath": {
+  "ph": "/'bә:dbɑ:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥澡盆",
+    "def": "an ornamental basin (usually in a garden) for birds to bathe in"
+   }
+  ],
+  "forms": "複數 birdbaths"
+ },
+ "birdcage": {
+  "ph": "/'bә:dkeidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥籠",
+    "def": "a cage in which a bird can be kept"
+   }
+  ],
+  "forms": "複數 birdcages"
+ },
+ "birdcall": {
+  "ph": "/'bә:dkɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥叫聲, 模仿的鳥叫",
+    "def": "the characteristic sound produced by a bird"
+   }
+  ]
+ },
+ "birder": {
+  "ph": "/'b\\\\\\\\:dә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獵鳥者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 birders"
+ },
+ "birdhouse": {
+  "ph": "/'bә:dhaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥籠, 鳥舍",
+    "def": "a shelter for birds"
+   }
+  ]
+ },
+ "birdie": {
+  "ph": "/'bә:di/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小鳥",
+    "def": "(golf) a score of one stroke under par on a hole"
+   }
+  ],
+  "forms": "現在分詞 birdying｜過去式 birdied｜第三人稱單數 birdies｜過去分詞 birdied｜複數 birdies"
+ },
+ "birding": {
+  "ph": "/'bә:diŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "捕鳥, 玩鳥",
+    "def": ""
+   }
+  ]
+ },
+ "birdlife": {
+  "ph": "/'bɜ:dlaɪf/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "鳥類生活, （一地區的）鳥類",
+    "def": ""
+   }
+  ]
+ },
+ "birdlike": {
+  "ph": "/'bɜ:dlaɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "似鳥的, 敏捷輕快的",
+    "def": ""
+   }
+  ]
+ },
+ "birds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥類；禽（bird的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "birdsall": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Birdsall)人名；(英)伯索爾",
+    "def": ""
+   }
+  ]
+ },
+ "birdseed": {
+  "ph": "/'bә:dsi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥食",
+    "def": ""
+   }
+  ]
+ },
+ "birdshot": {
+  "ph": "/'b\\\\\\\\:dʃɔt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(射鳥用的)小號鉛彈",
+    "def": ""
+   }
+  ]
+ },
+ "birdsong": {
+  "ph": "/ˈbɜ:dsɒŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥鳴聲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 birdsongs"
+ },
+ "birdwatcher": {
+  "ph": "/ˈbɜ:dwɒtʃə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（在大自然中）觀察、研究野鳥的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 birdwatchers"
+ },
+ "birdy": {
+  "ph": "/'bɜ:dɪ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "如鳥的, 多鳥的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 birdies｜過去式 birdied｜過去分詞 birdied"
+ },
+ "birefringence": {
+  "ph": "/,bairi'frindʒins/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 雙折射",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 雙折射",
+    "def": ""
+   }
+  ]
+ },
+ "birk": {
+  "ph": "/bə:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比爾克（姓氏）",
+    "def": "A birch tree."
+   }
+  ],
+  "forms": "複數 birks｜第三人稱單數 birks"
+ },
+ "birkbeck": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Birkbeck)人名；(英)伯克貝克；(瑞典)比爾克貝克",
+    "def": ""
+   }
+  ]
+ },
+ "birkenhead": {
+  "ph": "/'bә:kәnhed/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伯肯黑德(英格蘭西北部一城市)",
+    "def": ""
+   }
+  ]
+ },
+ "birkett": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伯其特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "birkin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯金（男子名）；柏金包",
+    "def": ""
+   }
+  ]
+ },
+ "birley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Birley)人名；(英)伯利",
+    "def": ""
+   }
+  ]
+ },
+ "birmingham": {
+  "ph": "/'bә:miŋәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯明翰",
+    "def": "the largest city in Alabama; located in northeastern Alabama"
+   }
+  ]
+ },
+ "biro": {
+  "ph": "/'bairәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓珠筆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biros"
+ },
+ "birrell": {
+  "ph": "/'birәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比勒爾(Augustine, 1850-1933, 英國作家)",
+    "def": ""
+   }
+  ]
+ },
+ "birse": {
+  "ph": "/bә:s/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[蘇]短而硬的毛或一簇這樣的毛",
+    "def": ""
+   }
+  ]
+ },
+ "birt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯特（姓氏）",
+    "def": "A fish of the turbot kind; the brill."
+   }
+  ]
+ },
+ "birth": {
+  "ph": "/bә:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出生, 起源",
+    "def": "the time when something begins (especially life)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生產, 分娩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 births｜現在分詞 birthing｜過去式 birthed｜第三人稱單數 births｜過去分詞 birthed"
+ },
+ "birth control": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "節育",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 節(制生)育, 避孕",
+    "def": ""
+   }
+  ]
+ },
+ "birth rate": {
+  "ph": "/bə:θ reit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人口出生率",
+    "def": ""
+   }
+  ]
+ },
+ "birthdate": {
+  "ph": "/'bɜ:θdeɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出生日期",
+    "def": ""
+   }
+  ],
+  "forms": "複數 birthdates"
+ },
+ "birthday": {
+  "ph": "/'bә:θdei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生日",
+    "def": "an anniversary of the day on which a person was born (or the celebration of it)"
+   }
+  ],
+  "forms": "複數 birthdays"
+ },
+ "birthing": {
+  "ph": "/bɜ:θɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "和生育有關的；在分娩過程中使用的",
+    "def": ""
+   }
+  ]
+ },
+ "birthmark": {
+  "ph": "/'bә:θmɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胎記, 胎痣",
+    "def": "a blemish on the skin that is formed before birth"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胎記, 胎痣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 birthmarks"
+ },
+ "birthplace": {
+  "ph": "/'bә:θpleis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誕生地",
+    "def": "the place where someone was born"
+   }
+  ],
+  "forms": "複數 birthplaces"
+ },
+ "birthrate": {
+  "ph": "/'bә:θreit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出生率",
+    "def": "the ratio of live births in an area to the population of that area; expressed per 1000 population per year"
+   }
+  ],
+  "forms": "複數 birthrates"
+ },
+ "birthright": {
+  "ph": "/'bә:θrait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生來就有的權利, 長子繼承權",
+    "def": "a right or privilege that you are entitled to at birth"
+   }
+  ],
+  "forms": "複數 birthrights"
+ },
+ "bis": {
+  "ph": "/bis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "國際清算銀行",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 商業資訊系統; 副本, 次本",
+    "def": ""
+   }
+  ]
+ },
+ "biscay": {
+  "ph": "/'biskei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": ",Bay of 比斯開灣(在伊比利亞半島和法國的布列塔尼半島之間)",
+    "def": ""
+   }
+  ]
+ },
+ "bischoff": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bischoff)人名；(法、丹、德)比朔夫；(芬)比斯科夫；(羅)比紹夫；(英)比肖夫",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "比曲夫酒",
+    "def": ""
+   }
+  ]
+ },
+ "biscuit": {
+  "ph": "/'biskit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "餅乾",
+    "def": "small round bread leavened with baking-powder or soda"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 素坯; 餅乾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 biscuits"
+ },
+ "bisect": {
+  "ph": "/bai'sekt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "分成兩部份, 對分",
+    "def": "cut in half or cut in two"
+   }
+  ],
+  "forms": "第三人稱單數 bisects｜過去分詞 bisected｜現在分詞 bisecting｜過去式 bisected"
+ },
+ "biserial": {
+  "ph": "/bai'si:riәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "雙列的, 與雙列有關的",
+    "def": "Alt. of Biseriate"
+   }
+  ]
+ },
+ "bisexual": {
+  "ph": "/.bai'seksjuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兩性的, 雌雄同體的",
+    "def": "sexually attracted to both sexes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兩性的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bisexuals"
+ },
+ "bisexuality": {
+  "ph": "/'bai,seksju'æliti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "雌雄同體[株]",
+    "def": ""
+   }
+  ]
+ },
+ "bishop": {
+  "ph": "/'biʃәp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主教, (國際象棋中的)象, 熱果子酒",
+    "def": "a senior member of the Christian clergy having spiritual and administrative authority; appointed in Christian churches to oversee priests or ministers; consider"
+   }
+  ],
+  "forms": "複數 bishops"
+ },
+ "bishopric": {
+  "ph": "/'biʃәprik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主教的職位, 主教的轄區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bishoprics"
+ },
+ "bishops": {
+  "ph": "/'bɪʃəp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[宗教]；[天主教、聖公會、東正教]主教",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "任命…為主教(或大祭司、會督等)；[英國方言]燒糊, 煮焦(牛奶等)",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "當主教(或大祭司、會督等)；[國際象棋]走象",
+    "def": ""
+   }
+  ]
+ },
+ "bisley": {
+  "ph": "/'bizli/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比利茲(英國Surrey 的一個村, National Rifle Association 的打靶場)",
+    "def": ""
+   }
+  ]
+ },
+ "bismarck": {
+  "ph": "/'bizmɑ:k/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "俾斯麥(Otto von, 1815-1898, 德國政治家, 德意志帝國第一任首相)",
+    "def": ""
+   }
+  ]
+ },
+ "bismuth": {
+  "ph": "/'bizmәθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉍",
+    "def": "a heavy brittle diamagnetic trivalent metallic element (resembles arsenic and antimony chemically); usually recovered as a by-product from ores of other metals"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鉍Bi",
+    "def": ""
+   }
+  ]
+ },
+ "bison": {
+  "ph": "/'baisәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "野牛",
+    "def": "any of several large humped bovids having shaggy manes and large heads and short horns"
+   }
+  ],
+  "forms": "複數 bisons"
+ },
+ "bisphosphonate": {
+  "ph": "/bɪs'fɒsfəʊneɪt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]二碳磷酸鹽化合物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bisphosphonates"
+ },
+ "bisque": {
+  "ph": "/bisk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 素瓷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bisques"
+ },
+ "bissett": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bissett)人名；(英、法)比塞特",
+    "def": ""
+   }
+  ]
+ },
+ "bistable": {
+  "ph": "/bai'steibl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "雙隱態的, 雙隱定的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 雙穩態的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bistables"
+ },
+ "bistro": {
+  "ph": "/'bistrәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小酒館, 夜總會",
+    "def": "a small informal restaurant; serves wine"
+   }
+  ],
+  "forms": "複數 bistros"
+ },
+ "bit": {
+  "ph": "/bit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "少量, 馬嚼子, 輔幣",
+    "def": "a small fragment of something broken off from the whole"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給馬上嚼子, 控制",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "bite的過去式和過去分詞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 位元, 二進位制數位, 機內測試",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bits"
+ },
+ "bitch": {
+  "ph": "/bitʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "母狗, 母狼, 母狐",
+    "def": "an unpleasant difficulty"
+   }
+  ],
+  "forms": "複數 bitches｜現在分詞 bitching｜第三人稱單數 bitches｜過去式 bitched｜過去分詞 bitched"
+ },
+ "bitchiness": {
+  "ph": "/'bitʃinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壞脾氣",
+    "def": ""
+   }
+  ]
+ },
+ "bitching": {
+  "ph": "/ 'bɪtʃɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "埋怨( bitch的現在分詞 ); 發牢騷; 挖苦; （背後）說壞話",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bitchings"
+ },
+ "bitchy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "開下流玩笑的, 好挑剔的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 bitchiest"
+ },
+ "bite": {
+  "ph": "/bait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咬, 一口",
+    "def": "a wound resulting from biting by an animal or a person"
+   },
+   {
+    "pos": "v.",
+    "zh": "咬, 刺痛, 穿透",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bit｜現在分詞 biting｜複數 bites｜第三人稱單數 bites｜過去分詞 bit"
+ },
+ "biter": {
+  "ph": "/'baitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咬人的人(或動物), 騙子",
+    "def": "someone who bites"
+   }
+  ],
+  "forms": "複數 biters"
+ },
+ "biting": {
+  "ph": "/'baitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "刺痛的, 辛辣的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 咬, 齧",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 biting｜複數 bitings"
+ },
+ "bitingly": {
+  "ph": "/'baitiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "犀利地, 尖刻地",
+    "def": ""
+   }
+  ]
+ },
+ "bitmap": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "點陣圖",
+    "def": "an image represented as a two dimensional array of brightness values for pixels"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 點陣圖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bitmaps｜過去分詞 bitmapped｜過去式 bitmapped"
+ },
+ "bitten": {
+  "ph": "/'bitn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "bite的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bitten"
+ },
+ "bitter": {
+  "ph": "/'bitә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "苦的, 痛苦的, 懷恨的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "刺骨",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)變苦",
+    "def": "make bitter"
+   }
+  ],
+  "forms": "複數 bitters｜現在分詞 bittering｜過去式 bittered｜第三人稱單數 bitters｜過去分詞 bittered"
+ },
+ "bitterly": {
+  "ph": "/'bitәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "怨恨地, 悲痛地, 殘酷地",
+    "def": ""
+   }
+  ]
+ },
+ "bittern": {
+  "ph": "/'bitәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鹽滷",
+    "def": "relatively small compact tawny-brown heron with nocturnal habits and a booming cry; found in marshes"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鹽滷; 海鹽苦鹵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bitterns"
+ },
+ "bitterness": {
+  "ph": "/'bitәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苦味, 悲痛, 怨恨",
+    "def": "a rough and bitter manner"
+   }
+  ],
+  "forms": "複數 bitternesses"
+ },
+ "bittersweet": {
+  "ph": "/'bitәswi:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "又苦又甜的, 苦樂參半的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 白英, 蜀羊泉",
+    "def": ""
+   }
+  ]
+ },
+ "bitty": {
+  "ph": "/'biti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "零零碎碎的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bitties｜比較級 bittier"
+ },
+ "bitumen": {
+  "ph": "/bi'tjumin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瀝青",
+    "def": "any of various naturally occurring impure mixtures of hydrocarbons"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 瀝青; 石油瀝青",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bitumens"
+ },
+ "bituminous": {
+  "ph": "/bi'tju:minәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "含瀝青的",
+    "def": "resembling or containing bitumen"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瀝青的",
+    "def": ""
+   }
+  ]
+ },
+ "bivalve": {
+  "ph": "/'baivælv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙殼類動物",
+    "def": "marine or freshwater mollusks having a soft body with platelike gills enclosed within two shells hinged together"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兩瓣的, 兩片的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bivalves｜過去式 bivalved"
+ },
+ "bivariate": {
+  "ph": "/bai'væriit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 二元變數",
+    "def": ""
+   }
+  ]
+ },
+ "bivouac": {
+  "ph": "/'bivuæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "野營, 露營, 露營地",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "露宿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bivouacs｜第三人稱單數 bivouacs｜現在分詞 bivouacking｜過去式 bivouacked｜過去分詞 bivouacked"
+ },
+ "biweekly": {
+  "ph": "/bai'wi:kli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙週刊",
+    "def": "a periodical that is published twice a week or every two weeks (either 104 or 26 issues per year)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "兩週一次的, 每週二次的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "每兩週一次地, 每週二次地",
+    "def": ""
+   }
+  ]
+ },
+ "biz": {
+  "ph": "/biz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] biz機構",
+    "def": ""
+   }
+  ]
+ },
+ "bizarre": {
+  "ph": "/bi'zɑ:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奇異的",
+    "def": ""
+   }
+  ]
+ },
+ "bizarrely": {
+  "ph": "/bɪ'zɑ:lɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "古怪地; 怪誕地",
+    "def": ""
+   }
+  ]
+ },
+ "bizarreness": {
+  "ph": "/bɪ'zɑ:nes/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "稀奇古怪的性質或狀態",
+    "def": ""
+   }
+  ]
+ },
+ "bizet": {
+  "ph": "/bi:'zei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比才（法國作曲家）；間奏曲",
+    "def": "French composer best known for his operas (1838-1875)"
+   }
+  ]
+ }
+}

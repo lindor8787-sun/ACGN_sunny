@@ -1,0 +1,881 @@
+{
+ "ed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 電子裝置, 密碼裝置, 資料結束, 工程設計, 錯誤檢測, 外部裝置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eds｜比較級 eder"
+ },
+ "edam": {
+  "ph": "/'i:dәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種用紅蠟包封的黃色乳酪,荷蘭形乾酪",
+    "def": "mild yellow Dutch cheese made in balls encased in a red covering"
+   }
+  ]
+ },
+ "edc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "歐洲防務集團（European Defence Community）",
+    "def": ""
+   }
+  ]
+ },
+ "eddie": {
+  "ph": "/'edi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃迪（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "eddington": {
+  "ph": "/'ediŋtәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃丁頓(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "eddy": {
+  "ph": "/'edi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逆流, 漩渦",
+    "def": "founder of Christian Science in 1866 (1821-1910)"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)起漩渦",
+    "def": "flow in a circular current, of liquids"
+   }
+  ],
+  "forms": "複數 eddies｜過去式 eddied｜現在分詞 eddying｜過去分詞 eddied｜第三人稱單數 eddies"
+ },
+ "ede": {
+  "ph": "/ei'dei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ede)人名；(英)伊德；(德、法、匈、土、瑞典)埃德",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "等效劑量效應；電子設計工程師",
+    "def": ""
+   }
+  ]
+ },
+ "edelman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Edelman)人名；(英、法、意、芬、瑞典)埃德爾曼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "埃德爾曼",
+    "def": ""
+   }
+  ]
+ },
+ "edelweiss": {
+  "ph": "/'eidәlvais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高山火絨草",
+    "def": "alpine perennial plant native to Europe having leaves covered with whitish down and small flower heads held in stars of glistening whitish bracts"
+   }
+  ]
+ },
+ "edema": {
+  "ph": "/i(:)'di:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水腫, 浮腫",
+    "def": "swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 水腫",
+    "def": ""
+   }
+  ]
+ },
+ "edematous": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]水腫性",
+    "def": ""
+   }
+  ]
+ },
+ "eden": {
+  "ph": "/'i:dn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊甸園, 樂園",
+    "def": "any place of complete bliss and delight and peace"
+   }
+  ]
+ },
+ "edenic": {
+  "ph": "/i'denik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "Eden的變形",
+    "def": "Of or pertaining to Eden; paradisaic."
+   }
+  ]
+ },
+ "edentate": {
+  "ph": "/i:'denteit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無齒的, 貧齒目的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "貧齒目動物",
+    "def": "primitive terrestrial mammal with few if any teeth; of tropical Central America and South America"
+   }
+  ]
+ },
+ "edgar": {
+  "ph": "/'ed^ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃德加（男子名）",
+    "def": "the younger brother of Edwy who became king of Northumbria when it renounced Edwy; on Edwy's death he succeeded to the throne of England (944-975)"
+   }
+  ]
+ },
+ "edge": {
+  "ph": "/edʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊緣, 尖銳, 刀刃, 優勢",
+    "def": "the boundary of a surface"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使銳利, 擠進, 鑲邊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "緩緩移動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 edges｜過去式 edged｜現在分詞 edging｜過去分詞 edged｜第三人稱單數 edges"
+ },
+ "edged": {
+  "ph": "/edʒd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有某種或幾種刃的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 edged｜過去式 edged"
+ },
+ "edgewise": {
+  "ph": "/'edʒwaɪz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "把刀口朝前地; 沿邊",
+    "def": ""
+   }
+  ]
+ },
+ "edgeworth": {
+  "ph": "/'edʒwә:θ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃奇沃斯(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "edgily": {
+  "ph": "/'edʒili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "刀口銳利, 尖利",
+    "def": ""
+   }
+  ]
+ },
+ "edginess": {
+  "ph": "/'edʒinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刀口銳利, 急躁",
+    "def": "feelings of anxiety that make you tense and irritable"
+   }
+  ]
+ },
+ "edging": {
+  "ph": "/'edʒiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊緣, 邊飾",
+    "def": "border consisting of anything placed on the edge to finish something (such as a fringe on clothing or on a rug)"
+   }
+  ],
+  "forms": "複數 edgings｜現在分詞 edging"
+ },
+ "edgy": {
+  "ph": "/'edʒi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "刀口銳利的, 尖利的, 急躁的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 edgier"
+ },
+ "edi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 電子資料交換",
+    "def": ""
+   }
+  ]
+ },
+ "edibility": {
+  "ph": "/.edi'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適食性, 可食性",
+    "def": "the property of being fit to eat"
+   }
+  ]
+ },
+ "edible": {
+  "ph": "/'edibl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食品, 食物",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "可食用的",
+    "def": "suitable for use as food"
+   }
+  ],
+  "forms": "複數 edibles"
+ },
+ "edict": {
+  "ph": "/'i:dikt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佈告, 法令",
+    "def": "a formal or authoritative proclamation"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 佈告, 法令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 edicts"
+ },
+ "edie": {
+  "ph": "/'i:di/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊迪(Edith的暱稱)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "edification": {
+  "ph": "/.edifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "啟迪, 薰陶",
+    "def": "uplifting enlightenment"
+   }
+  ],
+  "forms": "複數 edifications"
+ },
+ "edifice": {
+  "ph": "/'edifis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大廈, 大建築物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 edifices｜第三人稱單數 edifices"
+ },
+ "edify": {
+  "ph": "/'edifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "啟迪, 薰陶, 教誨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 edifying｜過去分詞 edified｜過去式 edified｜第三人稱單數 edifies"
+ },
+ "edifying": {
+  "ph": "/'edifaiiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有教訓意味的, 有益的, 教訓性的",
+    "def": "enlightening or uplifting so as to encourage intellectual or moral improvement"
+   }
+  ],
+  "forms": "現在分詞 edifying"
+ },
+ "edinburgh": {
+  "ph": "/'edinbәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛丁堡",
+    "def": "the capital of Scotland; located in the Lothian Region on the south side of the Firth of Forth"
+   }
+  ]
+ },
+ "edirne": {
+  "ph": "/e'diəne/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃迪爾內（土耳其一城市）",
+    "def": "a city in northwestern Turkey; a Thracian town that was rebuilt and renamed by the Roman Emperor Hadrian"
+   }
+  ]
+ },
+ "edison": {
+  "ph": "/'edisn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛迪生",
+    "def": "United States inventor; inventions included the phonograph and incandescent electric light and the microphone and the Kinetoscope (1847-1931)"
+   }
+  ]
+ },
+ "edit": {
+  "ph": "/'edit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "編輯, 編校, 修訂, 剪輯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 編輯; DOS外部命令:該命令是一個用於編輯文字檔案的全螢幕編輯程式",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 edited｜過去式 edited｜現在分詞 editing｜第三人稱單數 edits｜複數 edits"
+ },
+ "edited": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "編輯（edit的過去式和過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 edited｜過去式 edited"
+ },
+ "edith": {
+  "ph": "/'i:diθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊迪絲（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "editing": {
+  "ph": "/'editiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "編輯的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 editing｜複數 editings"
+ },
+ "edition": {
+  "ph": "/i'diʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "版本, 版, 翻版",
+    "def": "the form in which a text (especially a printed book) is published"
+   }
+  ],
+  "forms": "複數 editions"
+ },
+ "editor": {
+  "ph": "/'editә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "編者, 編輯, 主筆, 編輯器, 編輯裝置",
+    "def": "a person responsible for the editorial aspects of publication; the person who determines the final content of a text (especially of a newspaper or magazine)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 編輯器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 editors"
+ },
+ "editorial": {
+  "ph": "/.edi'tɒ:riәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社論, 評論",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "編輯的, 主筆的, 社論的",
+    "def": "of or relating to an article stating opinions or giving perspectives"
+   }
+  ],
+  "forms": "複數 editorials"
+ },
+ "editorialist": {
+  "ph": "/,edi'tɔ:riәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社論撰寫人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 editorialists"
+ },
+ "editorialize": {
+  "ph": "/.edi'tɒ:riәlaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "發表社論, 插入主觀評論",
+    "def": "insert personal opinions into an objective statement"
+   }
+  ],
+  "forms": "現在分詞 editorializing｜過去式 editorialized｜第三人稱單數 editorializes｜過去分詞 editorialized"
+ },
+ "editorially": {
+  "ph": "/.edi'tɔ:riәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "以編輯身份地；以社論形式",
+    "def": ""
+   }
+  ]
+ },
+ "editorship": {
+  "ph": "/'editәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "編輯的職位, 編輯工作",
+    "def": "the position of editor"
+   }
+  ]
+ },
+ "edmond": {
+  "ph": "/'edmәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃德蒙（男子名, 等於Edmund）",
+    "def": ""
+   }
+  ]
+ },
+ "edmonds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃德蒙茲（姓氏）；埃特蒙德（美國城市）",
+    "def": ""
+   }
+  ]
+ },
+ "edmondson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃德蒙森（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "edmonton": {
+  "ph": "/'edmәntәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃德蒙頓（加拿大西南部城市）",
+    "def": "the capital of the province of Alberta"
+   }
+  ]
+ },
+ "edmund": {
+  "ph": "/'edmәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾德蒙（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "edmunds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Edmunds)人名；(英、西、葡)埃德蒙茲",
+    "def": ""
+   }
+  ]
+ },
+ "edn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫][=electrodesiccation]電乾燥法, 電脫水法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 edns"
+ },
+ "edna": {
+  "ph": "/'ednә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 二硝基乙胺",
+    "def": ""
+   }
+  ]
+ },
+ "edouard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Edouard)人名；(俄)愛德華",
+    "def": ""
+   }
+  ]
+ },
+ "edta": {
+  "ph": "/,i:,di:,ti:'ei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 乙二胺四乙酸; 乙底酸; 依地酸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 乙二胺四乙酸, 依地酸",
+    "def": ""
+   }
+  ]
+ },
+ "eduard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Eduard)人名；(德、瑞典)愛德華(男子教名)",
+    "def": ""
+   }
+  ]
+ },
+ "eduardo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛德華多（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "educable": {
+  "ph": "/'edjukәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可教育的",
+    "def": "Capable of being educated."
+   }
+  ]
+ },
+ "educate": {
+  "ph": "/'edjukeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "教育, 培養, 訓練",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 educated｜現在分詞 educating｜第三人稱單數 educates｜過去式 educated"
+ },
+ "educated": {
+  "ph": "/'edjukeitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受過教育的, 有教養的",
+    "def": "possessing an education (especially having more than average knowledge)"
+   }
+  ],
+  "forms": "過去分詞 educated｜過去式 educated"
+ },
+ "educating": {
+  "ph": "/ˈedju:keitɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "教育( educate的現在分詞 ); 訓練, 培養; 教導, 教養",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 educating"
+ },
+ "education": {
+  "ph": "/.edju'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教育, 訓練, 教育學",
+    "def": "the activities of educating or instructing; activities that impart knowledge or skill"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 教育, 訓練",
+    "def": ""
+   }
+  ]
+ },
+ "educational": {
+  "ph": "/.edju'keiʃәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "教育的, 教育性的",
+    "def": "relating to the process of education"
+   }
+  ]
+ },
+ "educationalist": {
+  "ph": "/,edju(:)'keiʃәnәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教育家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 educationalists"
+ },
+ "educationally": {
+  "ph": "/.edju'keiʃәnli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "教育地, 教育上地, 有關教育地",
+    "def": ""
+   }
+  ]
+ },
+ "educationist": {
+  "ph": "/.edju'keiʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教育家, 教育理論家",
+    "def": "a specialist in the theory of education"
+   }
+  ],
+  "forms": "複數 educationists"
+ },
+ "educative": {
+  "ph": "/'edjukәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "教育的, 教育上的, 教育性的",
+    "def": ""
+   }
+  ]
+ },
+ "educator": {
+  "ph": "/'edjukeitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教育家",
+    "def": "someone who educates young people"
+   }
+  ],
+  "forms": "複數 educators"
+ },
+ "educe": {
+  "ph": "/i'dju:s/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "引出, 推斷出, 使顯出",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 educed｜現在分詞 educing｜過去式 educed｜第三人稱單數 educes"
+ },
+ "edutainment": {
+  "ph": "/ˌedjuˈteɪnmənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教育性娛樂",
+    "def": "entertainment that is intended to be educational"
+   }
+  ]
+ },
+ "edvard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "愛德華（人名, Edward的變體）",
+    "def": ""
+   }
+  ]
+ },
+ "edward": {
+  "ph": "/'edwәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛德華（男子名）",
+    "def": "King of England and Ireland in 1936; his marriage to Wallis Warfield Simpson created a constitutional crisis leading to his abdication (1894-1972)"
+   }
+  ]
+ },
+ "edwardes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(edwarde 的複數)  [人名] 愛德華",
+    "def": ""
+   }
+  ]
+ },
+ "edwardian": {
+  "ph": "/ed'wɔ:djәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "英王愛德華時代的",
+    "def": "of or relating to or characteristic of the era of Edward VII in England"
+   }
+  ],
+  "forms": "複數 edwardians"
+ },
+ "edwards": {
+  "ph": "/'edwәdz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "愛德華茲(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "edwin": {
+  "ph": "/'edwin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛德溫（男子名, 義為繁榮、富有）",
+    "def": "king of Northumbria who was converted to Christianity (585-633)"
+   }
+  ]
+ },
+ "edwina": {
+  "ph": "/'edwinә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃德溫娜(f.)",
+    "def": ""
+   }
+  ]
+ }
+}

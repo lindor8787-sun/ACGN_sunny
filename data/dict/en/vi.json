@@ -1,0 +1,3815 @@
+{
+ "vi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] vi文字編輯器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] ㄉ(87號元素鍅的舊名)",
+    "def": ""
+   }
+  ]
+ },
+ "via": {
+  "ph": "/vaiә/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "經由, 經過, 透過",
+    "def": "By the way of; as, to send a letter via Queenstown to"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病毒滅活劑",
+    "def": ""
+   }
+  ]
+ },
+ "viability": {
+  "ph": "/.vaiә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生存能力, 發育能力",
+    "def": "(of living things) capable of normal growth and development"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [生]活[能]力, 生機",
+    "def": ""
+   }
+  ]
+ },
+ "viable": {
+  "ph": "/'vaiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能養活的, 能生長發育的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有活力的, 有生機的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 viables"
+ },
+ "viaduct": {
+  "ph": "/'vaiәdʌkt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高架橋",
+    "def": "bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley"
+   }
+  ],
+  "forms": "複數 viaducts"
+ },
+ "vial": {
+  "ph": "/'vaiәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小瓶",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝入小瓶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vials"
+ },
+ "viands": {
+  "ph": "/'vaɪəndz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食物, 糧食",
+    "def": ""
+   }
+  ]
+ },
+ "vibe": {
+  "ph": "/vaɪb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "感應",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vibes｜現在分詞 vibing｜過去分詞 vibed"
+ },
+ "vibrancy": {
+  "ph": "/'vaibrәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "振動, 振響, 活力",
+    "def": ""
+   }
+  ]
+ },
+ "vibrant": {
+  "ph": "/'vaibrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "振動的, 戰慄的, 響亮的, 活躍的",
+    "def": ""
+   }
+  ]
+ },
+ "vibrantly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "充滿活力地",
+    "def": ""
+   }
+  ]
+ },
+ "vibraphone": {
+  "ph": "/'vaibrәfәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電顫琴",
+    "def": "a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound"
+   }
+  ]
+ },
+ "vibrate": {
+  "ph": "/'vaibreit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "振動, 顫動, 激動, 搖擺, 躊躇",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使顫動, 使振動, 使擺動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vibrating｜過去式 vibrated｜第三人稱單數 vibrates｜過去分詞 vibrated"
+ },
+ "vibrating": {
+  "ph": "/vai'breitiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 振動; 振動的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vibrating"
+ },
+ "vibration": {
+  "ph": "/vai'breiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "振動, 顫動",
+    "def": "the act of vibrating"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 振動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vibrations"
+ },
+ "vibrational": {
+  "ph": "/vai'breiʃәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "振動的",
+    "def": "of or relating to or characterized by vibration"
+   }
+  ]
+ },
+ "vibrato": {
+  "ph": "/vi'brɑ:tәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 振音",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vibratos"
+ },
+ "vibrator": {
+  "ph": "/'vaibreitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "振動裝置, 振動器, 振動按摩器",
+    "def": "a mechanical device that vibrates"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 振動器; 振子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vibrators"
+ },
+ "vibratory": {
+  "ph": "/'vaibrәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "振動的, 振動性的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 振動的, 震動的",
+    "def": ""
+   }
+  ]
+ },
+ "vibrio": {
+  "ph": "/'vibriәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 弧菌屬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vibrios"
+ },
+ "viburnum": {
+  "ph": "/vai'bә:nәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莢蓮",
+    "def": "deciduous or evergreen shrubs or small trees: arrow-wood; wayfaring tree"
+   }
+  ],
+  "forms": "複數 viburnums"
+ },
+ "vic": {
+  "ph": "/vik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機V字隊形編隊",
+    "def": ""
+   }
+  ]
+ },
+ "vicar": {
+  "ph": "/'vikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教區牧師, 教堂主持, 代理人",
+    "def": "a Roman Catholic priest who acts for another higher-ranking clergyman"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 代表, 代理牧師, 代理主教",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vicars"
+ },
+ "vicarage": {
+  "ph": "/'vikәridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教區牧師的住宅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vicarages"
+ },
+ "vicarious": {
+  "ph": "/vai'kєәriәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "代理的, 代用的, 替代的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 替代的, 錯位的",
+    "def": ""
+   }
+  ]
+ },
+ "vicariously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "代理地, 擔任代理者地；間接感受到地",
+    "def": ""
+   }
+  ]
+ },
+ "vicars": {
+  "ph": "/'vɪkə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[英國國教]教區牧師；[天主教]代牧",
+    "def": ""
+   }
+  ]
+ },
+ "vice": {
+  "ph": "/vais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惡習, 惡行, 罪惡, 墮落, 缺陷, 惡癖, 老虎鉗",
+    "def": "a specific form of evildoing"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鉗住",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "代替",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vices"
+ },
+ "vice versa": {
+  "ph": "/'vaisi 'v\\\\\\\\:sә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "反之亦然",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 反之亦然, 反過來",
+    "def": ""
+   }
+  ]
+ },
+ "vice-chancellor": {
+  "ph": "/'vais'tʃɑ:nsәlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副大法官, 大學副校長",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 副大法官, 大學副校長, 主要行政官",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vice-chancellors"
+ },
+ "vicente": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋森特（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "viceregal": {
+  "ph": "/.vais'ri:gl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "總督的",
+    "def": "of or relating to a viceroy"
+   }
+  ]
+ },
+ "viceroy": {
+  "ph": "/'vaisrɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "總督",
+    "def": "governor of a country or province who rules as the representative of his or her king or sovereign"
+   }
+  ],
+  "forms": "複數 viceroys"
+ },
+ "viceroyalty": {
+  "ph": "/.vais'rɒiәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "總督之位",
+    "def": "a district or province governed by a viceroy"
+   }
+  ],
+  "forms": "複數 viceroyalties"
+ },
+ "vichy": {
+  "ph": "/'vi:ʃi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維希（法國城市）",
+    "def": "a town in central France (south of Paris) noted for hot mineral springs; was capital of the unoccupied part of France during World War II"
+   }
+  ]
+ },
+ "vichyssoise": {
+  "ph": "/.viʃi'swɑ:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維希冷湯",
+    "def": "a creamy potato soup flavored with leeks and onions; usually served cold"
+   }
+  ]
+ },
+ "vicinity": {
+  "ph": "/vi'siniti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附近, 鄰近, 附近地區, 近處",
+    "def": "a surrounding or nearby region"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 附近, 鄰近, 附近地區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vicinities"
+ },
+ "vicious": {
+  "ph": "/'viʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "邪惡的, 墮落的, 品性不端的, 惡毒的, 惡性的, 有錯誤的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 缺點的, 惡的",
+    "def": ""
+   }
+  ]
+ },
+ "vicious circle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "惡性迴圈, 迴圈論證",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 惡性迴圈",
+    "def": ""
+   }
+  ]
+ },
+ "viciously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "邪惡地；敵意地",
+    "def": ""
+   }
+  ]
+ },
+ "viciousness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惡意；邪惡",
+    "def": ""
+   }
+  ]
+ },
+ "vicissitude": {
+  "ph": "/vi'sisitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "變化無常, 變遷, 榮枯, 盛衰",
+    "def": "a variation in circumstances or fortune at different times in your life or in the development of something"
+   }
+  ],
+  "forms": "複數 vicissitudes"
+ },
+ "vicissitudinous": {
+  "ph": "/vi.sisi'tju:dinәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "世事變化的, 變遷的, 有盛衰的",
+    "def": "Full of, or subject to, changes."
+   }
+  ]
+ },
+ "vick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維克（男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 vicked"
+ },
+ "vickers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維氏硬度計",
+    "def": ""
+   }
+  ]
+ },
+ "vickery": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vickery)人名；(英)維克裡",
+    "def": ""
+   }
+  ]
+ },
+ "vicki": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維姬；薇琪（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "vicky": {
+  "ph": "/'viki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維姬（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "victim": {
+  "ph": "/'viktim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "受害人, 犧牲者, 犧牲品",
+    "def": "an unfortunate person who suffers from some adverse circumstance"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 受害人, 被害人, 遭難者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 victims"
+ },
+ "victimisation": {
+  "ph": "/,viktimai'zeiʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犧牲；受害；欺騙（等於victimization）",
+    "def": ""
+   }
+  ]
+ },
+ "victimise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使犧牲, 迫害, 使受害, 欺騙, 欺壓",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 victimised｜現在分詞 victimising｜過去式 victimised"
+ },
+ "victimization": {
+  "ph": "/.viktimai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犧牲, 欺騙",
+    "def": "adversity resulting from being made a victim"
+   }
+  ],
+  "forms": "複數 victimizations"
+ },
+ "victimize": {
+  "ph": "/'viktimaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使犧牲, 使受害",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 使受害, 使作犧牲, 欺騙",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 victimized｜過去式 victimized｜現在分詞 victimizing｜第三人稱單數 victimizes"
+ },
+ "victimized": {
+  "ph": "/ˈvɪktəˌmaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "責怪或處罰某人不當（使之受冤或代人受過）( victimize的過去式和過去分詞 ); 不正當地使某人受損害或受苦難, 欺負某人",
+    "def": ""
+   }
+  ]
+ },
+ "victimizer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "施害者",
+    "def": ""
+   }
+  ]
+ },
+ "victimless": {
+  "ph": "/'viktimlis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 沒有受害者的",
+    "def": ""
+   }
+  ]
+ },
+ "victor": {
+  "ph": "/'viktә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勝利者",
+    "def": "a combatant who is able to defeat rivals"
+   },
+   {
+    "pos": "adj.",
+    "zh": "勝利的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 victors"
+ },
+ "victoria": {
+  "ph": "/vik'tɔ:riә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維多利亞（女子名）",
+    "def": "queen of Great Britain and Ireland and empress of India from 1837 to 1901; the last Hanoverian ruler of England (1819-1901)"
+   }
+  ],
+  "forms": "複數 victorias"
+ },
+ "victorian": {
+  "ph": "/vik'tɔ:riәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "英國維多利亞女王時代的, 篤信宗教的, 講究體面的",
+    "def": "of or relating to Queen Victoria of Great Britain or to the age in which she ruled"
+   },
+   {
+    "pos": "n.",
+    "zh": "維多利亞女王時代的英國人",
+    "def": "a person who lived during the reign of Victoria"
+   }
+  ],
+  "forms": "複數 victorians"
+ },
+ "victoriana": {
+  "ph": "/vik,tɔ:ri'einə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維多利亞時代的事物, 維多利亞時代的文物",
+    "def": "collection of materials of or characteristic of the Victorian era"
+   }
+  ],
+  "forms": "複數 victoriana"
+ },
+ "victorine": {
+  "ph": "/'viktәri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女式皮披肩",
+    "def": "A woman's fur tippet."
+   }
+  ]
+ },
+ "victorious": {
+  "ph": "/vik'tɔ:riәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "勝利的, 得勝的, 戰勝的",
+    "def": ""
+   }
+  ]
+ },
+ "victoriously": {
+  "ph": "/vɪk'tɔ:rɪəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "獲勝地, 勝利地",
+    "def": ""
+   }
+  ]
+ },
+ "victory": {
+  "ph": "/'viktәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勝利, 戰勝, 克服",
+    "def": "a successful ending of a struggle or contest"
+   }
+  ],
+  "forms": "複數 victories"
+ },
+ "victual": {
+  "ph": "/'vitәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食物",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "供應食物給",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "吃, 貯藏食品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 victuals｜現在分詞 victualling｜過去分詞 victualled｜過去式 victualled｜第三人稱單數 victuals"
+ },
+ "victualler": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 客棧老闆, 供應糧食者, 補給船",
+    "def": ""
+   }
+  ],
+  "forms": "複數 victuallers"
+ },
+ "victuals": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食物, 飲料, 食品",
+    "def": ""
+   }
+  ]
+ },
+ "vicuna": {
+  "ph": "/vi'ku:njә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "駱馬, 駱馬絨",
+    "def": "the wool of the vicuna"
+   }
+  ],
+  "forms": "複數 vicunas"
+ },
+ "vid": {
+  "ph": "/vid/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（拉）見, 參看（vide）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vids"
+ },
+ "vidal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威代爾（葡萄酒名）；比達爾（男子名）",
+    "def": "United States writer (born in 1925)"
+   }
+  ]
+ },
+ "vide": {
+  "ph": "/'vaidi(:)/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "請看, 參看",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 參見",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vided｜複數 vides"
+ },
+ "video": {
+  "ph": "/'vidiәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "影像, 電視",
+    "def": "the visible part of a television transmission"
+   },
+   {
+    "pos": "adj.",
+    "zh": "影象的, 電視的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 videos｜現在分詞 videoing"
+ },
+ "video recorder": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 錄象機",
+    "def": ""
+   }
+  ]
+ },
+ "videocam": {
+  "ph": "/'vidiəu,kæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攝錄機",
+    "def": ""
+   }
+  ]
+ },
+ "videocassette": {
+  "ph": "/ˌvɪdɪəʊkə'set/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盒式錄影帶",
+    "def": "a cassette for videotape"
+   }
+  ],
+  "forms": "複數 videocassettes"
+ },
+ "videoconference": {
+  "ph": "/,vidiәj'kɔnfәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "視訊會議",
+    "def": ""
+   }
+  ],
+  "forms": "複數 videoconferences"
+ },
+ "videoconferencing": {
+  "ph": "/ˈvɪdiəʊkɒnfərənsɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（透過）電視（舉行）會議",
+    "def": ""
+   }
+  ]
+ },
+ "videodisc": {
+  "ph": "/'vidiәjdisk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電視唱片,錄影盤,影碟",
+    "def": ""
+   }
+  ],
+  "forms": "複數 videodiscs"
+ },
+ "videographer": {
+  "ph": "/,vidi'ɔ^rәfә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電視錄影製作人",
+    "def": ""
+   }
+  ]
+ },
+ "videography": {
+  "ph": "/,vidi'ɔ^rәfi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "電視錄影製作, 錄影片(或盤)攝製, 攝像",
+    "def": ""
+   }
+  ]
+ },
+ "videophone": {
+  "ph": "/'vidiәu'fәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電視電話",
+    "def": ""
+   }
+  ],
+  "forms": "複數 videophones"
+ },
+ "videos": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "影片檔案；影像資料（video的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "videotape": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錄相磁帶",
+    "def": "a video recording made on magnetic tape"
+   },
+   {
+    "pos": "vt.",
+    "zh": "把電視節目錄在錄影磁帶上",
+    "def": ""
+   }
+  ],
+  "forms": "複數 videotapes｜過去分詞 videotaped｜過去式 videotaped｜現在分詞 videotaping｜第三人稱單數 videotapes"
+ },
+ "videotaped": {
+  "ph": "/ˈvɪdi:əʊˌteɪpt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "將（節目）錄到帶子上( videotape的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "videotaping": {
+  "ph": "/ˈvɪdi:əʊˌteɪpɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "將（節目）錄到帶子上( videotape的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "vie": {
+  "ph": "/vai/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "爭, 競爭, 爭勝",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "提出...來競爭, 以...作較量",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vying｜過去式 vied｜第三人稱單數 vies｜過去分詞 vied"
+ },
+ "vienna": {
+  "ph": "/vi'enә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維也納",
+    "def": "the capital and largest city of Austria; located on the Danube in northeastern Austria; was the home of Beethoven and Brahms and Haydn and Mozart and Schubert a"
+   }
+  ]
+ },
+ "vienne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vienne)人名；(法)維耶納",
+    "def": "a town in south central France where is 1311-1313 the Roman Catholic Church held one of its councils"
+   }
+  ]
+ },
+ "viennese": {
+  "ph": "/viә'ni:z/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "維也納的；維也納人的；維也納式的",
+    "def": "of or relating to or characteristic of Vienna or its inhabitants"
+   }
+  ]
+ },
+ "viet": {
+  "ph": "/vjet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "越南；越南人",
+    "def": ""
+   }
+  ]
+ },
+ "vietcong": {
+  "ph": "/'vjet'kɔŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "越共, 越共成員(西方報刊用語), 越共的",
+    "def": ""
+   }
+  ]
+ },
+ "vietminh": {
+  "ph": "/'viәt'min, 'vjet-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "越盟成員, 越盟領導人, 越盟的(西方報刊用語)",
+    "def": ""
+   }
+  ]
+ },
+ "vietnam": {
+  "ph": "/.vjet'næm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "越南",
+    "def": "a communist state in Indochina on the South China Sea; achieved independence from France in 1945"
+   }
+  ]
+ },
+ "vietnamese": {
+  "ph": "/'vjetnә'mi:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "越南人；越南語",
+    "def": "a native or inhabitant of Vietnam"
+   }
+  ]
+ },
+ "vieux": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Henri Vieuxtemps 亨瑞·維克特姆斯; Vieux Carre (French=Old Quarter) （法語）老城區（新奧爾良的法式城區）",
+    "def": ""
+   }
+  ]
+ },
+ "view": {
+  "ph": "/vju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "視野, 風景, 見解, 視力, 觀看, 檢視, 指望, 意圖, 印象",
+    "def": "the visual percept of a region"
+   },
+   {
+    "pos": "vt.",
+    "zh": "看, 考慮, 視察, 檢視, 估量",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 檢視",
+    "def": ""
+   }
+  ],
+  "forms": "複數 views｜過去分詞 viewed｜過去式 viewed｜現在分詞 viewing｜第三人稱單數 views"
+ },
+ "viewable": {
+  "ph": "/'vju:әbl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "看得見的",
+    "def": ""
+   }
+  ]
+ },
+ "viewdata": {
+  "ph": "/'vju:'deitә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可視資料, 顯示資料",
+    "def": ""
+   }
+  ]
+ },
+ "viewer": {
+  "ph": "/'vju:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀察者, 看電視者, 視察員, 觀察器",
+    "def": "an optical device for viewing photographic transparencies"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 指示器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 viewers"
+ },
+ "viewfinder": {
+  "ph": "/'vju:.faindә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(照相機的)取景器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 檢像器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 viewfinders"
+ },
+ "viewing": {
+  "ph": "/'vju:iŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可見的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 viewing｜複數 viewings"
+ },
+ "viewpoint": {
+  "ph": "/'vju:pɒint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀點",
+    "def": ""
+   }
+  ],
+  "forms": "複數 viewpoints"
+ },
+ "viewport": {
+  "ph": "/'vju:pɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀察孔, 觀察窗",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 視口",
+    "def": ""
+   }
+  ],
+  "forms": "複數 viewports"
+ },
+ "vigil": {
+  "ph": "/'vidʒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "警戒, 監視, 守夜",
+    "def": "a period of sleeplessness"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 不眠, 警醒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vigils"
+ },
+ "vigilance": {
+  "ph": "/'vidʒilәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "警戒, 警覺, 失眠症",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 不眠症, 警醒症",
+    "def": ""
+   }
+  ]
+ },
+ "vigilant": {
+  "ph": "/'vidʒilәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "警覺的, 警戒的, 警惕的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 警醒的, 警戒的, 注意的",
+    "def": ""
+   }
+  ]
+ },
+ "vigilante": {
+  "ph": "/.vidʒi'lænti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "警戒會會員",
+    "def": "member of a vigilance committee"
+   }
+  ],
+  "forms": "複數 vigilantes"
+ },
+ "vigilantism": {
+  "ph": "/,vidʒi'læntizәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[美]治安維持會的政策[制度, 做法]",
+    "def": ""
+   }
+  ]
+ },
+ "vigilantly": {
+  "ph": "/'vɪdʒɪləntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "警覺地, 警惕地",
+    "def": ""
+   }
+  ]
+ },
+ "vignette": {
+  "ph": "/vi'njet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝飾圖案；小插圖",
+    "def": "a photograph whose edges shade off gradually"
+   }
+  ],
+  "forms": "複數 vignettes"
+ },
+ "vigor": {
+  "ph": "/'vigә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精力, 活力",
+    "def": "active strength of body or mind"
+   }
+  ]
+ },
+ "vigorous": {
+  "ph": "/'vigәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精力充沛的, 元氣旺盛的, 茁壯的, 有力的",
+    "def": ""
+   }
+  ]
+ },
+ "vigorously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "朝氣蓬勃, 精力充沛, 壯健, 茁壯, 健壯, 強有力",
+    "def": ""
+   }
+  ]
+ },
+ "vigour": {
+  "ph": "/'vigә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精力, 活力, 力量, 效力, 氣勢",
+    "def": ""
+   }
+  ]
+ },
+ "vii": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "羅馬數字 7",
+    "def": ""
+   }
+  ]
+ },
+ "viii": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "羅馬數字8",
+    "def": ""
+   }
+  ]
+ },
+ "viking": {
+  "ph": "/'vaikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海盜",
+    "def": "any of the Scandinavian people who raided the coasts of Europe from the 8th to the 11th centuries"
+   }
+  ],
+  "forms": "複數 vikings"
+ },
+ "viktor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "維克托（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "vila": {
+  "ph": "/'vi:lә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "維拉港[西南太平洋島國萬那杜首都]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vilas"
+ },
+ "vile": {
+  "ph": "/vail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惡劣的, 骯髒的, 低廉的, 卑鄙的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 極壞的, 惡劣的, 卑鄙的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 vilest｜比較級 viler"
+ },
+ "vilely": {
+  "ph": "/'vaɪllɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "討厭地, 卑劣地",
+    "def": ""
+   }
+  ]
+ },
+ "vileness": {
+  "ph": "/vaɪlnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "討厭, 卑劣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vilenesses"
+ },
+ "vilification": {
+  "ph": "/.vilifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誹謗",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 詆譭, 誹謗, 損害名譽",
+    "def": ""
+   }
+  ]
+ },
+ "vilified": {
+  "ph": "/ˈvɪləˌfaɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "中傷, 誹謗( vilify的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "vilify": {
+  "ph": "/'vilifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "誹謗, 貶低",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 詆譭, 中傷, 誹謗",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vilified｜現在分詞 vilifying｜過去式 vilified｜第三人稱單數 vilifies"
+ },
+ "villa": {
+  "ph": "/'vilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "別墅",
+    "def": "Mexican revolutionary leader (1877-1923)"
+   }
+  ],
+  "forms": "複數 villas"
+ },
+ "village": {
+  "ph": "/'vilidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "村莊",
+    "def": "a community of people smaller than a town"
+   },
+   {
+    "pos": "adj.",
+    "zh": "鄉村的, 村莊的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 villages"
+ },
+ "villager": {
+  "ph": "/'vilidʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "村民",
+    "def": "one who has lived in a village most of their life"
+   }
+  ],
+  "forms": "複數 villagers"
+ },
+ "villain": {
+  "ph": "/'vilәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壞人, 惡棍",
+    "def": "a wicked or evil person; someone who does evil deliberately"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 歹徒, 惡棍, 惡徒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 villains"
+ },
+ "villainess": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壞女人, 女惡棍, 女的反派角色",
+    "def": "a woman villain"
+   }
+  ]
+ },
+ "villainous": {
+  "ph": "/'vilәnәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "壞人似的, 惡棍的, 罪惡的, 極壞的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 歹徒的:邪惡的, 惡的",
+    "def": ""
+   }
+  ]
+ },
+ "villainy": {
+  "ph": "/'vilәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壞事, 惡行, 罪惡",
+    "def": "the quality of evil by virtue of villainous behavior"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 卑鄙, 醜惡, 邪惡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 villainies"
+ },
+ "ville": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（法）城鎮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 villes"
+ },
+ "villein": {
+  "ph": "/'vilein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隸農",
+    "def": ""
+   }
+  ],
+  "forms": "複數 villeins"
+ },
+ "villette": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維萊特（小說名）；維萊特（法國北部地名）",
+    "def": ""
+   }
+  ]
+ },
+ "villiers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Villiers)人名；(西)比列爾斯；(英、荷)維利爾斯；(法)維利耶",
+    "def": ""
+   }
+  ]
+ },
+ "villous": {
+  "ph": "/'vilәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 絨毛狀的",
+    "def": ""
+   }
+  ]
+ },
+ "vilnius": {
+  "ph": "/'vilnijs, -әs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "維爾紐斯[立陶宛共和國首都]",
+    "def": ""
+   }
+  ]
+ },
+ "vim": {
+  "ph": "/vim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精力, 生氣, 精神",
+    "def": ""
+   }
+  ]
+ },
+ "vin": {
+  "ph": "/væŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（法）酒；葡萄酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vins"
+ },
+ "vina": {
+  "ph": "/'vi:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維那琴",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 酒劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vinas"
+ },
+ "vinaigrette": {
+  "ph": "/,vinei'^ret/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種油、醋、鹽、香料等合成的濃烈調味品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vinaigrettes"
+ },
+ "vince": {
+  "ph": "/vins/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文斯（男子名, Vincent的暱稱）",
+    "def": ""
+   }
+  ]
+ },
+ "vincennes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vincennes)人名；(法)樊尚",
+    "def": ""
+   }
+  ]
+ },
+ "vincent": {
+  "ph": "/'vinsәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文森特（男名）",
+    "def": ""
+   }
+  ]
+ },
+ "vincenzo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vincenzo)人名；(西)文森索；(意)溫琴佐",
+    "def": ""
+   }
+  ]
+ },
+ "vinci": {
+  "ph": "/'vintʃi(:)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "達芬奇（姓氏, 義大利的著名美術家、雕刻家、科學家、建築家）",
+    "def": ""
+   }
+  ]
+ },
+ "vincristine": {
+  "ph": "/viŋ'kristi:n, -tin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[藥]長春新鹼(一種抗腫瘤藥)",
+    "def": "periwinkle plant derivative used as an antineoplastic drug (trade name Oncovin); used to treat cancer of the lymphatic system"
+   }
+  ]
+ },
+ "vindaloo": {
+  "ph": "/'vindәlu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(用大蒜、酒或醋作配料的)咖哩肉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vindaloos"
+ },
+ "vindicate": {
+  "ph": "/'vindikeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "辯護, 證明...無辜, 維護",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 辯護, 辯解, 辯明",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vindicated｜過去式 vindicated｜第三人稱單數 vindicates｜現在分詞 vindicating"
+ },
+ "vindicated": {
+  "ph": "/ˈvɪndɪˌkeɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "澄清（某人/某事物）受到的責難或嫌疑( vindicate的過去式和過去分詞 ); 表明或證明（所爭辯的事物）屬實、正當、有效等; 維護",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 vindicated"
+ },
+ "vindication": {
+  "ph": "/.vindi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辯護, 證明無辜, 辯明",
+    "def": "the act of vindicating or defending against criticism or censure etc."
+   },
+   {
+    "pos": "",
+    "zh": "[法] 辯明, 辯白, 辯護",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vindications"
+ },
+ "vindicator": {
+  "ph": "/'vindikeitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辯護者, 維護者, 辯明者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 辯護者, 證明者, 維護者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vindicators"
+ },
+ "vindictive": {
+  "ph": "/vin'diktiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有報仇心的, 懷恨的, 懲罰的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 報復的, 有報仇心的, 復仇的",
+    "def": ""
+   }
+  ]
+ },
+ "vindictiveness": {
+  "ph": "/vɪn'dɪktɪvnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惡毒；懷恨在心",
+    "def": "a malevolent desire for revenge"
+   }
+  ]
+ },
+ "vine": {
+  "ph": "/vain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藤本植物, 葡萄, 藤, 蔓",
+    "def": "a plant with a weak stem that derives support from climbing, twining, or creeping along a surface"
+   },
+   {
+    "pos": "vi.",
+    "zh": "形成藤蔓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vines｜現在分詞 vining"
+ },
+ "vinegar": {
+  "ph": "/'vinigә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醋, 尖酸刻薄",
+    "def": "sour-tasting liquid produced usually by oxidation of the alcohol in wine or cider and used as a condiment or food preservative"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加醋於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vinegars"
+ },
+ "vinegary": {
+  "ph": "/'vinigәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "像醋的, 酸的, 尖酸的",
+    "def": ""
+   }
+  ]
+ },
+ "vines": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 虛擬網路軟體",
+    "def": ""
+   }
+  ]
+ },
+ "vineyard": {
+  "ph": "/'vinjәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葡萄園",
+    "def": "a farm of grapevines where wine grapes are produced"
+   }
+  ],
+  "forms": "複數 vineyards"
+ },
+ "vinifera": {
+  "ph": "/vai'nifәrә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "& n.釀酒用葡萄(的)",
+    "def": ""
+   }
+  ]
+ },
+ "vinnie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "維尼",
+    "def": ""
+   }
+  ]
+ },
+ "vinny": {
+  "ph": "/'vini/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文尼(Vincent 的暱稱,亦作 Vinnie)(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "vino": {
+  "ph": "/'vi:nәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酒, 廉價葡萄酒",
+    "def": ""
+   }
+  ]
+ },
+ "vintage": {
+  "ph": "/'vintidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酒, 葡萄收穫(期、量), 釀酒",
+    "def": "a season's yield of wine from a vineyard"
+   },
+   {
+    "pos": "v.",
+    "zh": "採葡萄",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "佳釀的, 古典的, 老式的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vintages"
+ },
+ "vintner": {
+  "ph": "/'vintnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酒商",
+    "def": "someone who sells wine"
+   }
+  ],
+  "forms": "複數 vintners"
+ },
+ "vinyl": {
+  "ph": "/'vainil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乙烯基",
+    "def": "a univalent chemical radical derived from ethylene"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 乙烯基",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vinyls"
+ },
+ "viol": {
+  "ph": "/'vaiәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(中世紀的)(六絃)提琴",
+    "def": "any of a family of bowed stringed instruments that preceded the violin family"
+   }
+  ],
+  "forms": "複數 viols"
+ },
+ "viola": {
+  "ph": "/'vaiәlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中提琴",
+    "def": "any of the numerous plants of the genus Viola"
+   }
+  ],
+  "forms": "複數 violas"
+ },
+ "violate": {
+  "ph": "/'vaiәleit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "違犯, 褻瀆, 違反, 侵犯, 妨礙",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 違犯, 違反",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 violated｜現在分詞 violating｜過去式 violated｜第三人稱單數 violates｜複數 violates"
+ },
+ "violated": {
+  "ph": "/ˈvaiəleitid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "褻瀆( violate的過去式和過去分詞 ); 違反; 侵犯; 強姦",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 violated"
+ },
+ "violation": {
+  "ph": "/.vaiә'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "違反, 違背, 妨礙",
+    "def": "an act that disregards an agreement or a right"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 違犯, 違背, 違反",
+    "def": ""
+   }
+  ],
+  "forms": "複數 violations"
+ },
+ "violative": {
+  "ph": "/'vaiәleitiv, -lә-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 違犯的, 違反的, 妨害的",
+    "def": ""
+   }
+  ]
+ },
+ "violator": {
+  "ph": "/'vaiәleitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "違反者, 違背者, 妨礙者",
+    "def": "someone who violates the law"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 侵犯者, 違犯者, 妨礙者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 violators"
+ },
+ "violence": {
+  "ph": "/'vaiәlәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猛烈, 暴力, 暴虐, 暴行",
+    "def": "an act of aggression (as one against a person who resists)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 暴行, 暴力, 暴亂",
+    "def": ""
+   }
+  ]
+ },
+ "violent": {
+  "ph": "/'vaiәlәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "暴力的, 猛烈的, 激烈的, 極端的, 兇暴的",
+    "def": "acting with or marked by or resulting from great force or energy or emotional intensity"
+   }
+  ]
+ },
+ "violently": {
+  "ph": "/'vaiәlәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "猛烈地, 激烈地, 極端地",
+    "def": ""
+   }
+  ]
+ },
+ "violet": {
+  "ph": "/'vaiәlit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堇菜, 紫羅蘭",
+    "def": "any of numerous low-growing violas with small flowers"
+   },
+   {
+    "pos": "adj.",
+    "zh": "堇菜科的, 紫羅蘭色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 violets"
+ },
+ "violetta": {
+  "ph": "/,vaiә'letә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維奧萊塔(Violet 的異體)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "violette": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維奧莉特（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "violin": {
+  "ph": "/.vaiә'lin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小提琴",
+    "def": "bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and i"
+   }
+  ],
+  "forms": "複數 violins"
+ },
+ "violinist": {
+  "ph": "/.vaiә'linist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小提琴演奏者, 小提琴家",
+    "def": "a musician who plays the violin"
+   }
+  ],
+  "forms": "複數 violinists"
+ },
+ "violist": {
+  "ph": "/'vaiәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中提琴演奏者",
+    "def": "a musician who plays the viola"
+   }
+  ]
+ },
+ "vip": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "要人, 大人物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 血管活性腸肽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vips"
+ },
+ "viper": {
+  "ph": "/'vaipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蝰蛇, 毒蛇, 毒如蛇蠍的人, 陰險的人",
+    "def": "venomous Old World snakes characterized by hollow venom-conducting fangs in the upper jaw"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蝰蛇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vipers"
+ },
+ "vir": {
+  "ph": "/vә:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "虛象",
+    "def": ""
+   }
+  ]
+ },
+ "virago": {
+  "ph": "/vi'rɑ:gәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潑婦, 悍婦",
+    "def": "a noisy or scolding or domineering woman"
+   }
+  ],
+  "forms": "複數 viragos"
+ },
+ "viral": {
+  "ph": "/'vairәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "病毒的, 病毒引起的",
+    "def": "relating to or caused by a virus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病毒的",
+    "def": ""
+   }
+  ]
+ },
+ "vire": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] [法國] 維爾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vires｜第三人稱單數 vires｜現在分詞 viring"
+ },
+ "vireo": {
+  "ph": "/'viriәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠鵑",
+    "def": "any of various small insectivorous American birds chiefly olive-grey in color"
+   }
+  ]
+ },
+ "virgil": {
+  "ph": "/'vә:dʒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維吉爾（男子名, 古羅馬詩人）",
+    "def": "a Roman poet; author of the epic poem `Aeneid' (70-19 BC)"
+   }
+  ]
+ },
+ "virgilian": {
+  "ph": "/v\\\\\\\\:'dʒiliәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(古羅馬詩人)維吉爾[風格,詩歌]的",
+    "def": "Of or pertaining to Virgil, the Roman poet; resembling"
+   }
+  ]
+ },
+ "virgin": {
+  "ph": "/'vә:dʒin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "處女",
+    "def": "a person who has never had sex"
+   },
+   {
+    "pos": "adj.",
+    "zh": "處女的, 貞潔的, 純潔的, 初始的, 純的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 virgins"
+ },
+ "virginal": {
+  "ph": "/'vә:dʒinl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "處女的, 純潔的, 沒有玷汙的, 未受精的",
+    "def": "characteristic of a virgin or virginity"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 處女的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 virginals"
+ },
+ "virginia": {
+  "ph": "/vә'dʒinjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗吉尼亞",
+    "def": "a state in the eastern United States; one of the original 13 colonies; one of the Confederate States in the American Civil War"
+   }
+  ]
+ },
+ "virginian": {
+  "ph": "/vә'dʒinjәn, -niәn, v\\\\\\\\:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗吉尼亞州的人",
+    "def": "a native or resident of Virginia"
+   }
+  ],
+  "forms": "複數 virginians"
+ },
+ "virginity": {
+  "ph": "/vә'dʒiniti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "處女身份, 處女貞潔, 童貞",
+    "def": "the condition or quality of being a virgin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 童貞, 純潔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 virginities"
+ },
+ "virgo": {
+  "ph": "/'vә:ɡәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[天]處女座；維爾格鉻鎳鎢",
+    "def": "(astrology) a person who is born while the sun is in Virgo"
+   }
+  ]
+ },
+ "viridian": {
+  "ph": "/vi'ridiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉻綠",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "綠色的",
+    "def": ""
+   }
+  ]
+ },
+ "virile": {
+  "ph": "/'virail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "男性的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 男性的, 有男性徵的",
+    "def": ""
+   }
+  ]
+ },
+ "virility": {
+  "ph": "/vi'riliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成年, 男性生殖力, 男子氣概, 精力充沛, 雄渾, 剛強有力",
+    "def": "the masculine property of being capable of copulation and procreation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 男性, 有男性徵",
+    "def": ""
+   }
+  ]
+ },
+ "virilocal": {
+  "ph": "/,viri'lәjkәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "以男方家庭為中心的, ( 婚後) 居住在男方的",
+    "def": ""
+   }
+  ]
+ },
+ "virologist": {
+  "ph": "/vai'rɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "病毒學學者",
+    "def": "a specialist in virology"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病毒學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 virologists"
+ },
+ "virology": {
+  "ph": "/vai'rɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "病毒學",
+    "def": "the branch of medical science that studies viruses and viral diseases"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病毒學",
+    "def": ""
+   }
+  ]
+ },
+ "virtu": {
+  "ph": "/vә:'tu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藝術品愛好, 古董",
+    "def": "love of or taste for fine objects of art"
+   }
+  ]
+ },
+ "virtual": {
+  "ph": "/'vә:tʃuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "實際上起作用的, 虛的, 實質的, 有效的, 事實上生效的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 虛擬",
+    "def": ""
+   }
+  ]
+ },
+ "virtual reality": {
+  "ph": "/ˈvə:tjuəl riˈæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[計]虛擬現實",
+    "def": ""
+   }
+  ]
+ },
+ "virtuality": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "虛擬性；實質",
+    "def": "The quality or state of being virtual."
+   }
+  ],
+  "forms": "複數 virtualities"
+ },
+ "virtually": {
+  "ph": "/'vә:tʃuәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "事實上",
+    "def": ""
+   }
+  ]
+ },
+ "virtue": {
+  "ph": "/'vә:tju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德行, 美德, 優點, 功效, 效力",
+    "def": "the quality of doing what is right and avoiding what is wrong"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 美德, 貞操, 優點",
+    "def": ""
+   }
+  ],
+  "forms": "複數 virtues"
+ },
+ "virtuosic": {
+  "ph": "/,vɜːtʃʊ'ɒsɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "藝術名家的, 藝術品收藏家的; 樂器演奏能手的",
+    "def": ""
+   }
+  ]
+ },
+ "virtuosity": {
+  "ph": "/.vә:tju'ɒsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精湛技巧, 對古董等的愛好",
+    "def": "technical skill or fluency or style exhibited by a virtuoso"
+   }
+  ]
+ },
+ "virtuoso": {
+  "ph": "/.vә:tju'әuzәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藝術品鑑賞家",
+    "def": "a musician who is a consummate master of technique and artistry"
+   }
+  ],
+  "forms": "複數 virtuosi"
+ },
+ "virtuous": {
+  "ph": "/'vә:tʃuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "品德高尚的, 公正的, 貞潔的, 有效力的",
+    "def": "morally excellent"
+   }
+  ]
+ },
+ "virtuously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "合乎道德地；品性正直地；善良地",
+    "def": ""
+   }
+  ]
+ },
+ "virulence": {
+  "ph": "/'virjulәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劇毒性, 毒性, 惡毒",
+    "def": "extreme harmfulness (as the capacity of a microorganism to cause disease)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 毒力, 毒性",
+    "def": ""
+   }
+  ]
+ },
+ "virulent": {
+  "ph": "/'virjulәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "劇毒的, 致命的, 刻毒的, 惡毒的, 惡性的, 有病毒的, 過強的",
+    "def": "infectious; having the ability to cause disease"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有毒力的, 毒性的",
+    "def": ""
+   }
+  ]
+ },
+ "virulently": {
+  "ph": "/ˈvɪrʊləntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "惡毒地, 狠毒地",
+    "def": ""
+   }
+  ]
+ },
+ "virus": {
+  "ph": "/'vaiәrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "病毒, 濾過性病毒, 毒害",
+    "def": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 病毒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 viruses"
+ },
+ "visa": {
+  "ph": "/'vi:zә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "簽證",
+    "def": "an endorsement made in a passport that allows the bearer to enter the country issuing it"
+   },
+   {
+    "pos": "vt.",
+    "zh": "簽發",
+    "def": ""
+   }
+  ],
+  "forms": "複數 visas｜現在分詞 visaing｜過去式 visaed｜第三人稱單數 visas｜過去分詞 visaed"
+ },
+ "visage": {
+  "ph": "/'vizidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臉, 面貌, 容貌",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 visages｜複數 visages"
+ },
+ "visas": {
+  "ph": "/ˈvi:zəz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "簽證( visa的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "viscera": {
+  "ph": "/'visәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內臟, 內容",
+    "def": "internal organs collectively (especially those in the abdominal cavity)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 內臟",
+    "def": ""
+   }
+  ]
+ },
+ "visceral": {
+  "ph": "/'visәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "內臟的",
+    "def": "relating to or affecting the viscera"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 內臟的",
+    "def": ""
+   }
+  ]
+ },
+ "viscerally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "visceral（內臟的；發自肺腑的）的變形",
+    "def": ""
+   }
+  ]
+ },
+ "viscid": {
+  "ph": "/'visid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粘的, 膠粘的, 粘質的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 粘的",
+    "def": ""
+   }
+  ]
+ },
+ "viscoelastic": {
+  "ph": "/,viskәui'læstik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粘彈性的",
+    "def": ""
+   }
+  ]
+ },
+ "visconti": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Visconti)人名；(法、意、葡)維斯孔蒂",
+    "def": "Italian filmmaker (1906-1976)"
+   }
+  ],
+  "forms": "複數 visconti"
+ },
+ "viscose": {
+  "ph": "/'viskәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粘膠, 纖維膠",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 粘的, 粘膠的, 粘膠絲",
+    "def": ""
+   }
+  ]
+ },
+ "viscosity": {
+  "ph": "/vis'kɒsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粘稠, 粘性",
+    "def": "resistance of a liquid to shear forces (and hence to flow)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 內摩擦; 粘度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 viscosities"
+ },
+ "viscount": {
+  "ph": "/'vaikaunt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "子爵",
+    "def": "(in various countries) a son or younger brother or a count"
+   }
+  ],
+  "forms": "複數 viscounts"
+ },
+ "viscountess": {
+  "ph": "/'vaikajntis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "子爵夫人, 女子爵",
+    "def": "a wife or widow of a viscount"
+   }
+  ]
+ },
+ "viscous": {
+  "ph": "/'viskәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粘的, 粘性的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 粘的",
+    "def": ""
+   }
+  ]
+ },
+ "vise": {
+  "ph": "/vais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "虎鉗",
+    "def": "a holding device attached to a workbench; has two jaws to hold workpiece firmly in place"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鉗住",
+    "def": ""
+   }
+  ]
+ },
+ "vishnu": {
+  "ph": "/'viʃnu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毗瑟挐（守護神, 印度教主神之一）",
+    "def": "the sustainer; a Hindu divinity worshipped as the preserver of worlds"
+   }
+  ]
+ },
+ "visibility": {
+  "ph": "/.vizi'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可見性, 能見度, 能見距離",
+    "def": "quality or fact or degree of being visible; perceptible by the eye or obvious to the eye"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 可見性",
+    "def": ""
+   }
+  ]
+ },
+ "visible": {
+  "ph": "/'vizәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "看得見的, 明顯的, 顯然的",
+    "def": "capable of being seen; or open to easy view"
+   },
+   {
+    "pos": "n.",
+    "zh": "可見物",
+    "def": ""
+   }
+  ]
+ },
+ "visibly": {
+  "ph": "/'vizәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "看得見地, 明顯地, 明白地",
+    "def": ""
+   }
+  ]
+ },
+ "visigoth": {
+  "ph": "/'vizi^ɔθ, -^ɔ:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西哥特人(四世紀後入侵羅馬帝國並在法國和西班牙建立王國的條頓族人)",
+    "def": "a member of the western group of Goths who sacked Rome and created a kingdom in present-day Spain and southern France"
+   }
+  ],
+  "forms": "複數 visigoths"
+ },
+ "vision": {
+  "ph": "/'viʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "視覺, 眼光, 視力, 幻想",
+    "def": "a vivid mental image"
+   },
+   {
+    "pos": "vt.",
+    "zh": "夢見, 想象, 顯示",
+    "def": ""
+   }
+  ],
+  "forms": "複數 visions"
+ },
+ "visionary": {
+  "ph": "/'viʒәnәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "幻像的, 幻想的, 夢想的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "有眼力的人, 空想家, 夢想者",
+    "def": "a person given to fanciful speculations and enthusiasms with little regard for what is actually possible"
+   }
+  ],
+  "forms": "複數 visionaries"
+ },
+ "visit": {
+  "ph": "/'vizit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拜訪, 訪問, 遊覽, 視察",
+    "def": "the act of going to see some person or place or thing for a short time"
+   },
+   {
+    "pos": "vt.",
+    "zh": "拜訪, 訪問, 參觀, 視察, 降臨",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "訪問, 參觀, 閒談",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 visited｜複數 visits｜過去分詞 visited｜現在分詞 visiting｜第三人稱單數 visits"
+ },
+ "visitable": {
+  "ph": "/'vɪzɪtəbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可以參觀的；值得參觀的; 可訪問的；接受拜訪的",
+    "def": "Liable or subject to be visited or inspected."
+   }
+  ]
+ },
+ "visitation": {
+  "ph": "/.vizi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訪問, 探望, 視察",
+    "def": "any disaster or catastrophe"
+   }
+  ],
+  "forms": "複數 visitations"
+ },
+ "visiting": {
+  "ph": "/'vizitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "參觀, 拜訪, 訪問",
+    "def": "the activity of making visits"
+   }
+  ],
+  "forms": "現在分詞 visiting｜複數 visitings"
+ },
+ "visitor": {
+  "ph": "/'vizitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "參觀者, 遊客, 訪客",
+    "def": "someone who visits"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 視察人, 檢視人, 檢查員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 visitors"
+ },
+ "visitors": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訪問者, 遊客（visitor 複數）",
+    "def": ""
+   }
+  ]
+ },
+ "visor": {
+  "ph": "/'vaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "面甲, 帽舌, 面罩",
+    "def": "a piece of armor plate (with eye slits) fixed or hinged to a medieval helmet to protect the face"
+   }
+  ],
+  "forms": "複數 visors"
+ },
+ "visored": {
+  "ph": "/'vaɪzə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遮陽板；面甲；帽舌",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "（用面具等）遮護",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 visored"
+ },
+ "vista": {
+  "ph": "/'vistә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遠景, 展望, 回想",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vistas"
+ },
+ "vistula": {
+  "ph": "/'vistjjlә, -tʃj-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "維斯瓦河[波蘭中部]",
+    "def": ""
+   }
+  ]
+ },
+ "visual": {
+  "ph": "/'viʒuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "視覺的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 視覺的, 視力的, 視覺性記憶優勢者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 visuals"
+ },
+ "visualisation": {
+  "ph": "/,vizjjәlai'zeiʃәn, -ʒjә-; - li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<主英> = visualization",
+    "def": ""
+   }
+  ],
+  "forms": "複數 visualisations"
+ },
+ "visualise": {
+  "ph": "/'vizjjәlaiz, -ʒjә-/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使可見, 使具體化, 使具形象",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "vi. 設想, 想象",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "顯現",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 visualised｜現在分詞 visualising｜過去式 visualised｜第三人稱單數 visualises"
+ },
+ "visuality": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "可視性",
+    "def": ""
+   }
+  ]
+ },
+ "visualization": {
+  "ph": "/.viʒuәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可見性, 形象化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 使顯形, 造影[術], 想象",
+    "def": ""
+   }
+  ],
+  "forms": "複數 visualizations"
+ },
+ "visualize": {
+  "ph": "/'viʒuәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使看得見, 使具體化, 想象, 設想",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "想象, 顯形",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 visualized｜過去式 visualized｜現在分詞 visualizing｜第三人稱單數 visualizes"
+ },
+ "visualized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "直觀的；直視的",
+    "def": ""
+   }
+  ]
+ },
+ "visually": {
+  "ph": "/'vizjjәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "看, 視力, 視覺, 可見, 憑視力, 看到, 看得見, 光學, 形象化, 栩栩如生",
+    "def": ""
+   }
+  ]
+ },
+ "visuals": {
+  "ph": "/'vɪʒʊəlz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "視覺資料（指說明性的圖片, 影片等）( visual的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "visuospatial": {
+  "ph": "/,vizjjәj'speiʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "視覺空間的",
+    "def": ""
+   }
+  ]
+ },
+ "vita": {
+  "ph": "/'vaitә; 'wi:tɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "個人簡歷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生活, 生存, 生命",
+    "def": ""
+   }
+  ]
+ },
+ "vitae": {
+  "ph": "/'vi:tai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "個人簡歷；血液（vita的複數形式）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vitae"
+ },
+ "vital": {
+  "ph": "/'vaitl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生命的, 重要的, 充滿活力的, 生死攸關的, 致命的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生命的, 生活的, 生活上必需的, 緊要的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vitals"
+ },
+ "vitalism": {
+  "ph": "/'vaitlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生機論, 活力論",
+    "def": "(philosophy) a doctrine that life is a vital principle distinct from physics and chemistry"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生機論, 生活力說",
+    "def": ""
+   }
+  ]
+ },
+ "vitalist": {
+  "ph": "/'vaitlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生機論者, 活力論者",
+    "def": "one who believes in vitalism"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生機論者, 生活力說者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vitalists"
+ },
+ "vitality": {
+  "ph": "/vai'tæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "活力, 生命力",
+    "def": "an energetic style"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生機, 活力, 生活",
+    "def": ""
+   }
+  ]
+ },
+ "vitalize": {
+  "ph": "/'vaitlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "賦予生命, 給予活力, 使有生氣",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 使有生機, 活力化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vitalized｜現在分詞 vitalizing｜過去式 vitalized｜第三人稱單數 vitalizes"
+ },
+ "vitally": {
+  "ph": "/'vaitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "與生命有關地, 致命地, 緊要地",
+    "def": ""
+   }
+  ]
+ },
+ "vitamin": {
+  "ph": "/'vaitәmin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維生素",
+    "def": "any of a group of organic substances essential in small quantities to normal metabolism"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 維生素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vitamins"
+ },
+ "vitamine": {
+  "ph": "/'vitәmin, -mi:n; 'vai-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維生素, 維他命",
+    "def": ""
+   }
+  ]
+ },
+ "vitesse": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維特斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "vitiate": {
+  "ph": "/'viʃieit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使變質, 汙染, 使墮落, 敗壞, 使失效",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 敗壞, 汙損, 汙染",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vitiated｜過去式 vitiated｜第三人稱單數 vitiates｜現在分詞 vitiating｜複數 vitiates"
+ },
+ "viticulture": {
+  "ph": "/'vitikʌltʃә, 'vait-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葡萄栽培",
+    "def": "the cultivation of grapes and grape vines; grape growing"
+   }
+  ]
+ },
+ "vitiligo": {
+  "ph": "/.viti'laigәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白癜風",
+    "def": "an acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 白斑(皮膚脫色斑,如白癜風或白紋)",
+    "def": ""
+   }
+  ]
+ },
+ "vito": {
+  "ph": "/'vi:tәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維託（男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vitos"
+ },
+ "vitor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vitor)人名；(葡、塞)維托爾；(西)比托爾",
+    "def": ""
+   }
+  ]
+ },
+ "vitreous": {
+  "ph": "/'vitriәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "玻璃的, 玻璃似的, 玻璃體的",
+    "def": "of or relating to or constituting the vitreous humor of the eye"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 玻璃體, 玻璃狀的, 透明的",
+    "def": ""
+   }
+  ]
+ },
+ "vitrify": {
+  "ph": "/'vitrifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "vi. (使)玻璃化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 vitrified｜現在分詞 vitrifying｜第三人稱單數 vitrifies｜過去分詞 vitrified"
+ },
+ "vitrine": {
+  "ph": "/vi'tri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陳列用玻璃櫥窗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vitrines"
+ },
+ "vitrinite": {
+  "ph": "/vɪt'rɪnaɪt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "鏡質體, 鏡質組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vitrinites"
+ },
+ "vitriol": {
+  "ph": "/'vitriәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硫酸鹽, 礬油, 礬, 語言尖刻",
+    "def": "(H2SO4) a highly corrosive acid made from sulfur dioxide; widely used in the chemical industry"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用硫酸處理",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vitrioling｜過去式 vitrioled｜第三人稱單數 vitriols｜過去分詞 vitrioled"
+ },
+ "vitriolic": {
+  "ph": "/.vitri'ɒlik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "硫酸的, 像硫酸的, 語言刻薄的",
+    "def": ""
+   }
+  ]
+ },
+ "vittles": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "食物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "給…供應食物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "裝貯食物",
+    "def": ""
+   }
+  ]
+ },
+ "vittoria": {
+  "ph": "/vi:t'tɔ:ri:ɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維特多利亞(Victoria的異體)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "vittorio": {
+  "ph": "/vi'tɔ:riәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維託利奧(Victor的異體)(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "vituperate": {
+  "ph": "/vi'tju:pәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "辱罵, 責罵",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 責罵, 辱罵, 謾罵",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vituperating｜過去式 vituperated｜第三人稱單數 vituperates｜過去分詞 vituperated"
+ },
+ "vituperation": {
+  "ph": "/vitju:pә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謾罵, 辱罵",
+    "def": "abusive or venomous language used to express blame or censure or bitter deep-seated ill will"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 辱罵, 責罵, 誹謗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vituperations"
+ },
+ "vituperative": {
+  "ph": "/vi'tju:pәreitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "責罵的, 叱責的",
+    "def": ""
+   }
+  ]
+ },
+ "vitus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "想飛的鋼琴少年（電影名稱）；維達斯（男子名）",
+    "def": "Christian martyr and patron of those who suffer from epilepsy and Sydenham's chorea (died around 300)"
+   }
+  ]
+ },
+ "viv": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "國際集約化畜牧展覽會",
+    "def": ""
+   }
+  ]
+ },
+ "viva": {
+  "ph": "/'vi:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "口試, 口頭測驗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vivas"
+ },
+ "vivacious": {
+  "ph": "/vi'veiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "活潑的, 快活的, 多年生的",
+    "def": ""
+   }
+  ]
+ },
+ "vivacity": {
+  "ph": "/vi'væsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "快活, 活潑, 精神充沛",
+    "def": "characterized by high spirits and animation"
+   }
+  ]
+ },
+ "vivaldi": {
+  "ph": "/vi'va:ldi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維瓦爾第（一個作曲家）",
+    "def": "Italian baroque composer and violinist (1675-1741)"
+   }
+  ]
+ },
+ "vive": {
+  "ph": "/vi:v/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有生氣的；活潑的",
+    "def": "Lively; animated; forcible."
+   }
+  ],
+  "forms": "第三人稱單數 vives"
+ },
+ "vivian": {
+  "ph": "/'viviәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維維安（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "vivid": {
+  "ph": "/'vivid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生動的, 鮮明的, 鮮豔的, 活潑的, 逼真的, 清晰的",
+    "def": ""
+   }
+  ]
+ },
+ "vividly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "鮮豔, 強烈, 明亮, 鮮明, 活潑, 有生氣, 生動, 清晰, 逼真",
+    "def": ""
+   }
+  ]
+ },
+ "vividness": {
+  "ph": "/'vɪvɪdnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（色彩、光線等）鮮豔; 活潑; 生動; 逼真",
+    "def": ""
+   }
+  ]
+ },
+ "vivien": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薇薇安（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "vivienne": {
+  "ph": "/'viviən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維維恩（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "vivify": {
+  "ph": "/'vivifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "給與生氣, 使生動, 使活躍",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vivifying｜過去分詞 vivified｜過去式 vivified｜第三人稱單數 vivifies"
+ },
+ "viviparous": {
+  "ph": "/vai'vipәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "胎生的, 母體發芽的",
+    "def": "producing living young (not eggs)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胎生的",
+    "def": ""
+   }
+  ]
+ },
+ "vivisection": {
+  "ph": "/.vivi'sekʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "活體解剖",
+    "def": "the act of operating on living animals (especially in scientific research)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 活體解剖(動物)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vivisections"
+ },
+ "vivo": {
+  "ph": "/'vi:vәu/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "活潑地；生動地（等於vivace）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vivos"
+ },
+ "vixen": {
+  "ph": "/'viksn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雌狐, 悍婦, 潑婦",
+    "def": "a malicious woman with a fierce temper"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 惡婦, 刁婦, 潑婦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vixens"
+ },
+ "viyella": {
+  "ph": "/vai'jelә, vi-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維耶勒法蘭絨[商標名]",
+    "def": "a fabric made from a twilled mixture of cotton and wool"
+   }
+  ]
+ },
+ "viz": {
+  "ph": "/vɪz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "<正, 書, 尤英>即, 就是",
+    "def": "To wit; that is; namely."
+   }
+  ]
+ },
+ "vizcaya": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vizcaya)人名；(西)比斯卡亞",
+    "def": ""
+   }
+  ]
+ },
+ "vizier": {
+  "ph": "/vi'ziә, 'viziә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 高階官員, 大臣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 viziers"
+ }
+}

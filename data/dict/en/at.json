@@ -1,0 +1,2010 @@
+{
+ "at": {
+  "ph": "/æt/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在, 向, 對",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 地址轉換器, 異常傳輸, 自動訂票",
+    "def": ""
+   }
+  ]
+ },
+ "at first": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "起先",
+    "def": ""
+   }
+  ]
+ },
+ "at least": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "至少",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 至少",
+    "def": ""
+   }
+  ]
+ },
+ "ata": {
+  "ph": "/'ætә/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "航空運輸協會（Air Transport Association of America）；高階技術附加裝置（Advanced Technology Attachment）",
+    "def": ""
+   }
+  ]
+ },
+ "atalanta": {
+  "ph": "/.ætә'læntә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿塔蘭特(捷足善走的美女)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atalantas"
+ },
+ "atari": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雅達利（美國一家電腦遊戲機廠商）",
+    "def": ""
+   }
+  ]
+ },
+ "ataturk": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿塔圖爾克（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "atavism": {
+  "ph": "/'ætәvizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隔代遺傳, 返祖現象",
+    "def": "a reappearance of an earlier characteristic"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 返祖[現象], 隔代遺傳",
+    "def": ""
+   }
+  ]
+ },
+ "atavistic": {
+  "ph": "/.ætә'vistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "隔代遺傳的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 返祖性的, 隔代重現的",
+    "def": ""
+   }
+  ]
+ },
+ "ataxia": {
+  "ph": "/ә'tæksiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "運動失調, 無秩序, 混亂, 動作機能不協調, 共劑失調",
+    "def": "inability to coordinate voluntary muscle movements; unsteady movements and staggering gait"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 共濟失調, 協調不能",
+    "def": ""
+   }
+  ]
+ },
+ "atc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 高階終端控制器, 非同步終端控制器, 自動交通管理",
+    "def": ""
+   }
+  ]
+ },
+ "atelier": {
+  "ph": "/'ætәliei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工作室, 畫室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ateliers"
+ },
+ "atemporal": {
+  "ph": "/ei'tempәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非時間(範疇)的,不受時間影響的",
+    "def": ""
+   }
+  ]
+ },
+ "atenolol": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 阿替洛爾; 氨醯心安",
+    "def": ""
+   }
+  ]
+ },
+ "atheism": {
+  "ph": "/'eiθiizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無神論",
+    "def": "the doctrine or belief that there is no God"
+   }
+  ]
+ },
+ "atheist": {
+  "ph": "/'eiθiist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無神論者",
+    "def": "someone who denies the existence of god"
+   }
+  ],
+  "forms": "複數 atheists"
+ },
+ "atheistic": {
+  "ph": "/.eiθi'istik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無神論的, 無神論者的",
+    "def": ""
+   }
+  ]
+ },
+ "athelstan": {
+  "ph": "/'æθəlstæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿瑟爾斯坦（人名）",
+    "def": "the first Saxon ruler who extended his kingdom to include nearly all of England (895-939)"
+   }
+  ]
+ },
+ "athena": {
+  "ph": "/ә'θi:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雅典娜(智慧與技藝的女神)",
+    "def": "(Greek mythology) goddess of wisdom and useful arts and prudent warfare; guardian of Athens; identified with Roman Minerva"
+   }
+  ]
+ },
+ "athenaeum": {
+  "ph": "/,æθi'ni:әm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雅典娜神廟",
+    "def": "a literary or scientific association for the promotion of learning"
+   }
+  ]
+ },
+ "athene": {
+  "ph": "/ә'θi:ni:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雅典娜(智慧與技藝的女神)",
+    "def": "a genus of Strigidae"
+   }
+  ]
+ },
+ "athenian": {
+  "ph": "/ә'θi:njәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雅典人",
+    "def": "a resident of Athens"
+   },
+   {
+    "pos": "adj.",
+    "zh": "雅典的, 雅典人的",
+    "def": "of or relating to or characteristic of Athens or its inhabitants"
+   }
+  ],
+  "forms": "複數 athenians"
+ },
+ "athens": {
+  "ph": "/'æθәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雅典(希臘首都)",
+    "def": "the capital and largest city of Greece; named after Athena (its patron goddess)"
+   }
+  ]
+ },
+ "atherosclerosis": {
+  "ph": "/,æθәrәuskliә'rәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動脈粥樣硬化",
+    "def": "a stage of arteriosclerosis involving fatty deposits (atheromas) inside the arterial walls, thus narrowing the arteries"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [動脈]粥樣硬化",
+    "def": ""
+   }
+  ]
+ },
+ "atherosclerotic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "動脈粥樣硬化",
+    "def": "of or relating to atherosclerosis"
+   }
+  ]
+ },
+ "atherstone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿瑟斯通（英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "atherton": {
+  "ph": "/'æθәtәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿瑟頓(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "athey": {
+  "ph": "/'æðe/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "“阿賽”平板拖車",
+    "def": ""
+   }
+  ]
+ },
+ "athlete": {
+  "ph": "/'æθli:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "運動員, 運動選手",
+    "def": "a person trained to compete in sports"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 運動員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 athletes"
+ },
+ "athletic": {
+  "ph": "/æθ'letik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "運動的",
+    "def": "relating to or befitting athletics or athletes"
+   }
+  ]
+ },
+ "athletically": {
+  "ph": "/æθ'letikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "運動地, 活躍地, 運動家作風地",
+    "def": ""
+   }
+  ]
+ },
+ "athleticism": {
+  "ph": "/æθ'letisizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "體育活動, 對運動的熱愛",
+    "def": "intense energy"
+   }
+  ]
+ },
+ "athletics": {
+  "ph": "/æθ'letiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "體育運動",
+    "def": "participation in sports events as an extracurricular activity"
+   }
+  ]
+ },
+ "athlone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Athlone)人名；(英)阿思隆",
+    "def": ""
+   }
+  ]
+ },
+ "atholl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Atholl)人名；(英)阿索爾",
+    "def": ""
+   }
+  ]
+ },
+ "athwart": {
+  "ph": "/ә'θwɒ:t/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "橫跨著, 相反",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "橫跨, 逆, 與...相反",
+    "def": ""
+   }
+  ]
+ },
+ "atkin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Atkin)人名；(英)阿特金",
+    "def": ""
+   }
+  ]
+ },
+ "atkins": {
+  "ph": "/'ætkinz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "任何組織的基層人員；英國士兵",
+    "def": ""
+   }
+  ]
+ },
+ "atkinson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿特金森（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "atlanta": {
+  "ph": "/әt'læntә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞特蘭大（美國城市）",
+    "def": "state capital and largest city of Georgia; chief commercial center of the southeastern United States; was plundered and burned by Sherman's army during the Amer"
+   }
+  ]
+ },
+ "atlantean": {
+  "ph": "/,ætlæn'tiәn; әt'læntiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "如 Atlas 的,力大無雙的,Atlantis 島的",
+    "def": ""
+   }
+  ]
+ },
+ "atlantic": {
+  "ph": "/әt'læntik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大西洋",
+    "def": "the 2nd largest ocean; separates North and South America on the west from Europe and Africa on the east"
+   },
+   {
+    "pos": "adj.",
+    "zh": "大西洋的",
+    "def": "relating to or bordering the Atlantic Ocean"
+   }
+  ]
+ },
+ "atlantis": {
+  "ph": "/әt'læntis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞特蘭蒂斯(傳說沉沒於大西洋中的島)",
+    "def": "according to legend, an island in the Atlantic Ocean that Plato said was swallowed by an earthquake"
+   }
+  ]
+ },
+ "atlas": {
+  "ph": "/'ætlәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地圖集, 圖表集",
+    "def": "(Greek mythology) a Titan who was forced by Zeus to bear the sky on his shoulders"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 自動測試和負載分析系統",
+    "def": ""
+   }
+  ]
+ },
+ "atlatl": {
+  "ph": "/'ɑ:tlɑ:tl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(美洲印第安人和愛斯基摩人用的)梭標投射器",
+    "def": ""
+   }
+  ]
+ },
+ "atm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 自動出納機; 非同步傳輸方式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atms"
+ },
+ "atman": {
+  "ph": "/'ɑ:tmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "個人靈魂, 自我, 宇宙靈魂",
+    "def": ""
+   }
+  ]
+ },
+ "atmosphere": {
+  "ph": "/'ætmәsfiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大氣, 空氣, 氣氛",
+    "def": "a particular environment or surrounding influence"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 大氣; 大氣壓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atmospheres"
+ },
+ "atmospheric": {
+  "ph": "/ætmәs'ferik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大氣的",
+    "def": "relating to or located in the atmosphere"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 大氣的; 大氣壓的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atmospherics"
+ },
+ "atmospherics": {
+  "ph": "/,ætmәs'feriks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天電, 大氣干擾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 天電",
+    "def": ""
+   }
+  ]
+ },
+ "atoll": {
+  "ph": "/'ætɒl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "環狀珊瑚島, 環礁",
+    "def": "an island consisting of a circular coral reef surrounding a lagoon"
+   }
+  ],
+  "forms": "複數 atolls｜第三人稱單數 atolls"
+ },
+ "atom": {
+  "ph": "/'ætәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "原子, 核能, 微粒, 微量",
+    "def": "(physics and chemistry) the smallest component of an element having the chemical properties of the element"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 原子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atoms"
+ },
+ "atomic": {
+  "ph": "/ә'tɒmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "原子的, 原子能的",
+    "def": "of or relating to or comprising atoms"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 原子的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atomics"
+ },
+ "atomically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "利用原子能地",
+    "def": "In an atomic manner; in accordance with the atomic"
+   }
+  ]
+ },
+ "atomised": {
+  "ph": "/'ætəumaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使分為原子；使霧化（等於atomize）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 atomised"
+ },
+ "atomism": {
+  "ph": "/'ætәumizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "原子說, 原子論",
+    "def": "(psychology) a theory that reduces all mental phenomena to simple elements (sensations and feelings) that form complex ideas by association"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 原子論, 原子學說",
+    "def": ""
+   }
+  ]
+ },
+ "atomistic": {
+  "ph": "/.ætәu'mistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "原子的, 原子論的",
+    "def": "divided into separate and often disparate elements"
+   }
+  ]
+ },
+ "atomization": {
+  "ph": "/.ætәumai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粉碎, 以原子彈轟炸, 霧化",
+    "def": "separating something into fine particles"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 原子化; 霧化",
+    "def": ""
+   }
+  ]
+ },
+ "atomize": {
+  "ph": "/'ætәumaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使粉碎, 將...噴成霧狀",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 霧化; 粉化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 atomized｜第三人稱單數 atomizes｜過去分詞 atomized｜現在分詞 atomizing"
+ },
+ "atomized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "原子化的；霧化的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 atomized"
+ },
+ "atomizer": {
+  "ph": "/'ætәumaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霧化器",
+    "def": "a dispenser that turns a liquid (such as perfume) into a fine mist"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 超微粉碎機; 超霧粉碎機; 霧化噴嘴; 霧化器; 噴霧器; 原子化器",
+    "def": ""
+   }
+  ]
+ },
+ "aton": {
+  "ph": "/'ɑ:tɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿託恩（古埃及信奉的太陽神）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 atoned｜現在分詞 atoning｜過去分詞 atoned"
+ },
+ "atonal": {
+  "ph": "/ei'tәunl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無調性的",
+    "def": "characterized by avoidance of traditional western tonality"
+   }
+  ]
+ },
+ "atonality": {
+  "ph": "/.eitәu'næliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無調性",
+    "def": "the absence of a key; alternative to the diatonic system"
+   }
+  ]
+ },
+ "atone": {
+  "ph": "/ә'tәun/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "補償, 彌補",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 賠償, 補償, 償還",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atones｜現在分詞 atoning｜過去式 atoned｜第三人稱單數 atones｜過去分詞 atoned"
+ },
+ "atonement": {
+  "ph": "/ә'tәunmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "贖罪, 補償",
+    "def": "compensation for a wrong"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 補償, 贖回, 贖罪",
+    "def": ""
+   }
+  ]
+ },
+ "atop": {
+  "ph": "/ә'tɒp/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在頂上",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "在...的頂上",
+    "def": ""
+   }
+  ]
+ },
+ "atopic": {
+  "ph": "/ә'tɔpik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 異位的; 特[異反]應性的",
+    "def": ""
+   }
+  ]
+ },
+ "atorvastatin": {
+  "ph": "/ə,tɔ:və'stætn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿託伐他汀（降血脂藥）",
+    "def": "an oral drug (trade name Lipitor) that is effective in lowering triglycerides; potent in reducing LDL cholesterol because higher doses can be given"
+   }
+  ]
+ },
+ "atp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "三磷酸腺苷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 彙編測試程式, 非同步事務處理器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atps"
+ },
+ "atraumatic": {
+  "ph": "/,eitrɔ:'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "防止損傷的, 減少不良影響的",
+    "def": ""
+   }
+  ]
+ },
+ "atrazine": {
+  "ph": "/'ætrәzi:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 莠去津",
+    "def": ""
+   }
+  ]
+ },
+ "atresia": {
+  "ph": "/ә'tri:siә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閉鎖, 無孔",
+    "def": "an abnormal condition in which a normal opening or tube in the body (as the urethra) is closed or absent"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 閉鎖[畸形], 無孔, 不通",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atresias"
+ },
+ "atrial": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "門廊, 心房",
+    "def": "of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 房的, 前房的",
+    "def": ""
+   }
+  ]
+ },
+ "atrioventricular": {
+  "ph": "/,eitriәjven'trikjjlә(r)/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "房室的",
+    "def": "relating to or affecting the atria and ventricles of the heart"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 房室的",
+    "def": ""
+   }
+  ]
+ },
+ "atrium": {
+  "ph": "/'ɑ:triәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中庭, 心房",
+    "def": "any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 房, 前房",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 atriumed"
+ },
+ "atrocious": {
+  "ph": "/ә'trәuʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "殘暴的, 兇惡的",
+    "def": ""
+   }
+  ]
+ },
+ "atrociously": {
+  "ph": "/ə'trəuʃəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "殘酷地",
+    "def": ""
+   }
+  ]
+ },
+ "atrocity": {
+  "ph": "/ә'trɒsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "殘暴, 兇惡, 暴行",
+    "def": "the quality of being shockingly cruel and inhumane"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 暴行, 殘酷, 殘忍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atrocities"
+ },
+ "atrophic": {
+  "ph": "/æ'trɒfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "萎縮的",
+    "def": "relating to or characterized by atrophy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 萎縮的",
+    "def": ""
+   }
+  ]
+ },
+ "atrophied": {
+  "ph": "/ә'trɔfid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "萎縮的, 發育不全的, 衰退的",
+    "def": "(of an organ or body part) diminished in size or strength as a result of disease or injury or lack of use"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [已]萎縮的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 atrophied"
+ },
+ "atrophy": {
+  "ph": "/'ætrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萎縮, 萎縮症",
+    "def": "a decrease in size of an organ caused by disease or disuse"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 萎縮",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 atrophied｜過去分詞 atrophied｜複數 atrophies｜現在分詞 atrophying｜第三人稱單數 atrophies"
+ },
+ "atropine": {
+  "ph": "/'ætrәpi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿託平, 顛茄礆",
+    "def": "a poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts "
+   },
+   {
+    "pos": "",
+    "zh": "[化] 阿托品",
+    "def": ""
+   }
+  ]
+ },
+ "ats": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 管理終端系統; 事務終端系統",
+    "def": ""
+   }
+  ]
+ },
+ "att": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 異常真測試, 地址轉換表, 總平均時間",
+    "def": ""
+   }
+  ],
+  "forms": "複數 atts"
+ },
+ "attaboy": {
+  "ph": "/'ætәbɔi/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "好啊! 好樣的!",
+    "def": ""
+   }
+  ]
+ },
+ "attach": {
+  "ph": "/ә'tætʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "附上, 使依附, 使附屬, 使喜愛, 系, 縛",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "附屬, 歸屬, 聯絡在一起",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 掛接伺服器命令, 關聯, 掛接, 附加",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attached｜現在分詞 attaching｜第三人稱單數 attaches｜過去式 attached"
+ },
+ "attache": {
+  "ph": "/ɑ:tɑ:'ʃei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使館隨員, 外交使團的專員",
+    "def": "a specialist assigned to the staff of a diplomatic mission"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 外交使節遂員, 專員, 公使",
+    "def": ""
+   }
+  ]
+ },
+ "attached": {
+  "ph": "/ә'tætʃt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "附加的；依戀的, 充滿愛心的",
+    "def": "used of buildings joined by common sidewalls"
+   }
+  ],
+  "forms": "過去分詞 attached｜過去式 attached"
+ },
+ "attachment": {
+  "ph": "/ә'tʃætʃmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連線, 附屬物, 連線物, 愛慕",
+    "def": "a feeling of affection for a person or an institution"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 附加, 附件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attachments"
+ },
+ "attack": {
+  "ph": "/ә'tæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攻擊, 抨擊",
+    "def": "(military) an offensive against an enemy (using weapons)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "攻擊, 抨擊, 動手幹",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "攻擊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attacks｜過去分詞 attacked｜過去式 attacked｜現在分詞 attacking｜第三人稱單數 attacks"
+ },
+ "attacked": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "攻擊；侵害（attack的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attacked｜過去式 attacked"
+ },
+ "attacker": {
+  "ph": "/ә'tækә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攻擊者",
+    "def": "someone who attacks"
+   }
+  ],
+  "forms": "複數 attackers"
+ },
+ "attacking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "進攻；攻擊（attack的現在分詞）；攻球",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 attacking"
+ },
+ "attacks": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攻擊, 評擊（attack的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "attain": {
+  "ph": "/ә'tein/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "達到, 獲得",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "達到",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attained｜現在分詞 attaining｜過去式 attained｜第三人稱單數 attains"
+ },
+ "attainable": {
+  "ph": "/ә'teinәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可到達的, 可得到的",
+    "def": ""
+   }
+  ]
+ },
+ "attainder": {
+  "ph": "/ә'teindә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被剝奪財產和公民權",
+    "def": "cancellation of civil rights"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 剝奪公權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attainders"
+ },
+ "attained": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "取得, 得到, 獲得（attain的過去式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 attained"
+ },
+ "attainer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "attain的變形",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attainers"
+ },
+ "attainment": {
+  "ph": "/ә'teinmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "達到",
+    "def": "the act of achieving an aim"
+   }
+  ],
+  "forms": "複數 attainments"
+ },
+ "attar": {
+  "ph": "/'ætә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "香精油, 玫瑰油",
+    "def": "essential oil or perfume obtained from flowers"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 揮發油, 精油",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attars"
+ },
+ "attempt": {
+  "ph": "/ә'tempt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘗試, 企圖",
+    "def": "earnest and conscientious activity intended to do or accomplish something"
+   },
+   {
+    "pos": "vt.",
+    "zh": "嘗試, 企圖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attempts｜現在分詞 attempting｜過去分詞 attempted｜過去式 attempted｜第三人稱單數 attempts"
+ },
+ "attempted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "企圖的；未遂的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 attempted｜過去分詞 attempted"
+ },
+ "attempts": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "企圖, 試圖；嘗試（attempt的複數）",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "試圖；努力去做（attempt的三單形式）",
+    "def": ""
+   }
+  ]
+ },
+ "attenborough": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Attenborough)人名；(英)阿滕伯勒",
+    "def": ""
+   }
+  ]
+ },
+ "attend": {
+  "ph": "/ә'tend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "參加, 照料, 伴隨",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "專心於, 照顧, 服侍, 出席",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 attending｜過去分詞 attended｜過去式 attended｜第三人稱單數 attends"
+ },
+ "attendance": {
+  "ph": "/ә'tendәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出席, 出席的人數, 照料",
+    "def": "the act of being present (at a meeting or event etc.)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 管理, 照料, 資助",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attendances"
+ },
+ "attendant": {
+  "ph": "/ә'tendәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隨從, 侍者, 出席者",
+    "def": "someone who waits on or tends to or attends to the needs of another"
+   },
+   {
+    "pos": "adj.",
+    "zh": "侍候的, 伴隨的, 出席的, 在場的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attendants"
+ },
+ "attended": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "參加；伴隨；注意；照料（attend的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attended｜過去式 attended"
+ },
+ "attendee": {
+  "ph": "/æten'di:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 出席人, 參加者, 被照顧者, 被服務者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attendees"
+ },
+ "attender": {
+  "ph": "/ə'tendə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出席者；按規定常到的人；常客",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attenders"
+ },
+ "attending": {
+  "ph": "/ә'tendiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "主治的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 attending"
+ },
+ "attent": {
+  "ph": "/ә'tent/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[古]注意的, 留意的",
+    "def": ""
+   }
+  ]
+ },
+ "attention": {
+  "ph": "/ә'tenʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "注意, 注意力",
+    "def": "the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 引起注意訊號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attentions"
+ },
+ "attentional": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "保養的；注意的",
+    "def": "of or relating to attention"
+   }
+  ]
+ },
+ "attentive": {
+  "ph": "/ә'tentiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "注意的, 留心的",
+    "def": "(often followed by `to') giving care or attention"
+   }
+  ]
+ },
+ "attentively": {
+  "ph": "/ә'tentivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "注意地, 留心地",
+    "def": ""
+   }
+  ]
+ },
+ "attentiveness": {
+  "ph": "/ə'tentivnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "注意力；專注",
+    "def": "paying particular notice (as to children or helpless people)"
+   }
+  ]
+ },
+ "attenuate": {
+  "ph": "/ә'tenjueit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "纖細的, 稀薄的, 稀釋的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使減弱, 使纖細",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變稀薄, 變纖細, 減少",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 衰減",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attenuated｜過去式 attenuated｜現在分詞 attenuating｜第三人稱單數 attenuates"
+ },
+ "attenuated": {
+  "ph": "/ə'tɛnjuetɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[生物][物] 衰減的；瘦長的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使減弱；使變細；稀釋（attenuate的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 attenuated"
+ },
+ "attenuation": {
+  "ph": "/ә.tenju'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "變稀薄, 變纖細, 衰減",
+    "def": "weakening in force or intensity"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 衰減",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attenuations"
+ },
+ "attenuator": {
+  "ph": "/ә'tenjjeitә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衰減器",
+    "def": "an electrical device for attenuating the strength of an electrical signal"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 衰減器; 弱化子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attenuators"
+ },
+ "attest": {
+  "ph": "/ә'test/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "證明, 表明, 作證",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "為...作證",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attested｜第三人稱單數 attests｜過去式 attested｜現在分詞 attesting"
+ },
+ "attestation": {
+  "ph": "/.æte'steiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "證明, 證據, 證詞",
+    "def": "the action of bearing witness"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 證明",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attestations"
+ },
+ "attested": {
+  "ph": "/ә'testid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "證明無病的；經檢驗證明無病的；經檢驗證明無菌的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 attested｜過去分詞 attested"
+ },
+ "attic": {
+  "ph": "/'ætik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閣樓, 頂樓",
+    "def": "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鼓室上隱窩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attics"
+ },
+ "attica": {
+  "ph": "/'ætikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿提卡（古希臘的一個地方）",
+    "def": "the territory of Athens in ancient Greece where the Ionic dialect was spoken"
+   }
+  ]
+ },
+ "attila": {
+  "ph": "/'ætilә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 阿蒂拉熱室(法國氟化揮發法核燃料後處理用)",
+    "def": ""
+   }
+  ]
+ },
+ "attire": {
+  "ph": "/ә'taiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "服裝, 盛裝",
+    "def": "clothing of a distinctive style or for a particular occasion"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使穿衣, 打扮",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attired｜現在分詞 attiring｜過去式 attired｜第三人稱單數 attires"
+ },
+ "attitude": {
+  "ph": "/'ætitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "態度, 看法, 姿勢",
+    "def": "a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 體態, 姿勢, 態度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attitudes"
+ },
+ "attitudinal": {
+  "ph": "/,æti'tju:dinәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "態度的, 根據(或表示)個人態度的",
+    "def": "of or relating to attitudes"
+   }
+  ]
+ },
+ "attlee": {
+  "ph": "/'ætli/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "艾德禮(Clement Richard, 1883-1967, 英國政治家, 於1945-1951任英國首相)",
+    "def": ""
+   }
+  ]
+ },
+ "attorney": {
+  "ph": "/ә'tә:ni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代理人, 律師",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 律師, 代理人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attorneys"
+ },
+ "attorney general": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "首席檢察官, (美國)司法部長",
+    "def": ""
+   }
+  ]
+ },
+ "attract": {
+  "ph": "/ә'trækt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "吸引, 誘惑",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "有吸引力",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attracted｜過去式 attracted｜第三人稱單數 attracts｜現在分詞 attracting"
+ },
+ "attractant": {
+  "ph": "/ә'træktәnt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 誘引劑, 吸引劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attractants"
+ },
+ "attracted": {
+  "ph": "/ə'træktɪd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "吸引",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "的興趣",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "被吸引的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 attracted｜過去分詞 attracted"
+ },
+ "attracting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸引",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 attracting"
+ },
+ "attraction": {
+  "ph": "/ә'trækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸引, 吸引人的事物, 吸引力",
+    "def": "the force by which one object attracts another"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 吸引",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attractions"
+ },
+ "attractive": {
+  "ph": "/ә'træktiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吸引人的, 有魅力的",
+    "def": "pleasing to the eye or mind especially through beauty or charm"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有吸引力的, 有迷惑力的",
+    "def": ""
+   }
+  ]
+ },
+ "attractively": {
+  "ph": "/ә'træktivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "動人地, 迷人地",
+    "def": ""
+   }
+  ]
+ },
+ "attractiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 吸引性, 有利可圖",
+    "def": ""
+   }
+  ]
+ },
+ "attractor": {
+  "ph": "/ә'træktә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "引人注意的人",
+    "def": "(physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 吸引子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attractors"
+ },
+ "attributable": {
+  "ph": "/ә'tribju:tәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可歸於...的",
+    "def": "capable of being attributed"
+   }
+  ]
+ },
+ "attribute": {
+  "ph": "/ә'tribju:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屬性, 標誌, 定語",
+    "def": "an abstraction belonging to or characteristic of an entity"
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...歸於, 認為...屬於",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 屬性",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attributed｜複數 attributes｜過去式 attributed｜第三人稱單數 attributes｜現在分詞 attributing"
+ },
+ "attribution": {
+  "ph": "/әtri'bju:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歸因",
+    "def": "assigning some quality or character to a person or thing"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 歸因, 歸屬, 屬性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attributions"
+ },
+ "attributional": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "歸因的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "歸屬的",
+    "def": ""
+   }
+  ]
+ },
+ "attributive": {
+  "ph": "/ә'tribju:tiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "歸屬的, 屬性的, 定語的",
+    "def": "of adjectives; placed before the nouns they modify"
+   },
+   {
+    "pos": "n.",
+    "zh": "定語",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attributives"
+ },
+ "attrition": {
+  "ph": "/ә'triʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摩擦, 磨損",
+    "def": "sorrow for sin arising from fear of damnation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 擦除術; 磨耗",
+    "def": ""
+   }
+  ]
+ },
+ "attune": {
+  "ph": "/ә'tju:n/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "為樂器調音, 使協調, 使合拍",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 attuned｜過去式 attuned｜第三人稱單數 attunes｜現在分詞 attuning"
+ },
+ "attuned": {
+  "ph": "/əˈtju:nd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使協調( attune的過去式和過去分詞 ); <音>調音",
+    "def": ""
+   }
+  ]
+ },
+ "attunement": {
+  "ph": "/ə'tju:nmənt;/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "協調；調音；調和",
+    "def": ""
+   }
+  ],
+  "forms": "複數 attunements"
+ },
+ "attwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿特伍德（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "atwood": {
+  "ph": "/ˈætˌwʊəd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿特伍德 Attwood的變體",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "阿特伍德",
+    "def": ""
+   }
+  ]
+ },
+ "atypical": {
+  "ph": "/.ei'tipikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非典型的",
+    "def": "not representative of a group, class, or type"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 非典型的, 不標準的",
+    "def": ""
+   }
+  ]
+ },
+ "atypically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "atypical, atypic的變形",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,2383 @@
+{
+ "ce": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 元件選通",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鈰(58號元素)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ces｜第三人稱單數 ces｜過去式 ced"
+ },
+ "ceanothus": {
+  "ph": "/.si:ә'nәuθәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美洲茶",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 斂茶樹屬, 紅根鼠李屬",
+    "def": ""
+   }
+  ]
+ },
+ "cease": {
+  "ph": "/si:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "停止",
+    "def": "(`cease' is a noun only in the phrase `without cease') end"
+   },
+   {
+    "pos": "v.",
+    "zh": "停止, 終了",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ceased｜第三人稱單數 ceases｜過去式 ceased｜現在分詞 ceasing"
+ },
+ "ceasefire": {
+  "ph": "/ˈsi:sfaɪə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（通常指永久性的）停火, 停戰; 停火命令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ceasefires"
+ },
+ "ceaseless": {
+  "ph": "/'si:slis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不停的, 不斷的",
+    "def": ""
+   }
+  ]
+ },
+ "ceaselessly": {
+  "ph": "/'si:slisli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不停地, 不斷地",
+    "def": ""
+   }
+  ]
+ },
+ "cec": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "中國電子資訊產業集團公司（China Electronics Corporation）；消費電子控制（Consumer Electronics Control）；陽離子交換能力（Cation Exchange Capacity）；歐洲協調委員會（Co-ordinating European Council）",
+    "def": ""
+   }
+  ]
+ },
+ "cecil": {
+  "ph": "/'sesl, 'sisl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞西爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "cecilia": {
+  "ph": "/si'siljә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞西莉亞（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "cecily": {
+  "ph": "/'sisili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞西莉（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "cedar": {
+  "ph": "/'si:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪松, 香椿",
+    "def": "any of numerous trees of the family Cupressaceae that resemble cedars"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 香柏, 杉, 雪松",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cedars"
+ },
+ "cedarwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪松屬木料, 杉木",
+    "def": ""
+   }
+  ]
+ },
+ "cede": {
+  "ph": "/si:d/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "割讓",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 割讓, 讓與, 放棄",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ceded｜過去式 ceded｜現在分詞 ceding｜第三人稱單數 cedes"
+ },
+ "ceded": {
+  "ph": "/si:did/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "讓給, 割讓, 放棄( cede的過去式 )",
+    "def": ""
+   }
+  ]
+ },
+ "cedric": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞德里克（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "ceefax": {
+  "ph": "/'si:fæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "BBC電檢視文播送",
+    "def": ""
+   }
+  ]
+ },
+ "ceftriaxone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 頭孢曲松",
+    "def": ""
+   }
+  ]
+ },
+ "cegb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）中央電力局（Central Electricity Generating Board）",
+    "def": ""
+   }
+  ]
+ },
+ "ceiba": {
+  "ph": "/'seibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吉貝, 木棉",
+    "def": "tropical American trees with palmately compound leaves and showy bell-shaped flowers"
+   }
+  ]
+ },
+ "ceilidh": {
+  "ph": "/ˈkeɪli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同樂會",
+    "def": "an informal social gathering at which there is Scottish or Irish folk music and singing and folk dancing and story telling"
+   }
+  ],
+  "forms": "複數 ceilidhs｜現在分詞 ceilidhing"
+ },
+ "ceiling": {
+  "ph": "/'si:liŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天花板",
+    "def": "the overhead upper surface of a covered space"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 頂點, 頂線, 上限",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ceilings"
+ },
+ "cel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 釐米/秒(速度單位)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cels"
+ },
+ "celadon": {
+  "ph": "/'selәdɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灰綠色, 青瓷",
+    "def": "A pale sea-green color; also, porcelain or fine pottery of"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 青瓷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 celadons"
+ },
+ "celeb": {
+  "ph": "/si'leb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "著明人士",
+    "def": ""
+   }
+  ],
+  "forms": "複數 celebs"
+ },
+ "celebrant": {
+  "ph": "/'selibrәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主持儀式的人, 主持彌撒的教父",
+    "def": "a person who is celebrating"
+   }
+  ],
+  "forms": "複數 celebrants"
+ },
+ "celebrate": {
+  "ph": "/'selibreit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "慶祝, 祝賀, 舉行",
+    "def": "have a celebration"
+   }
+  ],
+  "forms": "現在分詞 celebrating｜過去式 celebrated｜過去分詞 celebrated｜第三人稱單數 celebrates"
+ },
+ "celebrated": {
+  "ph": "/'selibreitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "馳名的, 有名的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 celebrated｜過去式 celebrated"
+ },
+ "celebrating": {
+  "ph": "/ˈselibreitɪŋ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "慶祝（現在進行時 ing形式）",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "慶祝, 慶賀( celebrate的現在分詞 ); 主持宗教儀式（尤指聖餐）; 頌揚; 讚美",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 celebrating"
+ },
+ "celebration": {
+  "ph": "/.seli'breiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慶祝, 慶典",
+    "def": "a joyful occasion for special festivities to mark some happy event"
+   }
+  ],
+  "forms": "複數 celebrations"
+ },
+ "celebratory": {
+  "ph": "/ˌseləˈbreɪtəri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "快樂的, 興高采烈的",
+    "def": "used for celebrating"
+   }
+  ]
+ },
+ "celebrity": {
+  "ph": "/si'lebrti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "名聲, 名人",
+    "def": "a widely known person"
+   }
+  ],
+  "forms": "複數 celebrities"
+ },
+ "celeriac": {
+  "ph": "/sә'leriæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塊根芹",
+    "def": "grown for its thickened edible aromatic root"
+   }
+  ]
+ },
+ "celerity": {
+  "ph": "/si'leriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迅速, 快速",
+    "def": "a rate that is rapid"
+   }
+  ]
+ },
+ "celery": {
+  "ph": "/'selәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芹菜",
+    "def": "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 芹菜, 糖蒿",
+    "def": ""
+   }
+  ]
+ },
+ "celeste": {
+  "ph": "/si'lest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天藍色, 風琴的音栓",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "天藍色的",
+    "def": ""
+   }
+  ]
+ },
+ "celestial": {
+  "ph": "/si'lestjәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "天的, 天國的, 天空的",
+    "def": "of or relating to the sky"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 天的, 天空的, 天國的",
+    "def": ""
+   }
+  ]
+ },
+ "celia": {
+  "ph": "/'si:ljә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西莉亞（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "celiac": {
+  "ph": "/'si:liæk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腹的, 腹腔的",
+    "def": "belonging to or prescribed for celiac disease"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腹的, 腹腔的",
+    "def": ""
+   }
+  ]
+ },
+ "celibacy": {
+  "ph": "/'selibәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獨身",
+    "def": "an unmarried status"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 獨身狀態, 獨身生活",
+    "def": ""
+   }
+  ]
+ },
+ "celibate": {
+  "ph": "/'selibәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獨身者, 獨身主義者",
+    "def": "an unmarried person who has taken a religious vow of chastity"
+   },
+   {
+    "pos": "adj.",
+    "zh": "獨身的, 獨身主義的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 celibates｜第三人稱單數 celibates"
+ },
+ "celica": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賽利卡（日本豐田汽車）",
+    "def": ""
+   }
+  ]
+ },
+ "cell": {
+  "ph": "/sel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單元, 細胞, 電池",
+    "def": "any small compartment"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 單元",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cells"
+ },
+ "cellar": {
+  "ph": "/'selә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地窖, 地下室, 藏酒",
+    "def": "storage space where wines are stored"
+   }
+  ],
+  "forms": "複數 cellars"
+ },
+ "cellblock": {
+  "ph": "/'selblɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "監獄中一組囚犯室",
+    "def": "a division of a prison (usually consisting of several cells)"
+   }
+  ]
+ },
+ "cellist": {
+  "ph": "/'tʃelist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大提琴演奏家",
+    "def": "someone who plays a violoncello"
+   }
+  ],
+  "forms": "複數 cellists"
+ },
+ "cellmate": {
+  "ph": "/ˈselmeɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獄友；同牢室友",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cellmates"
+ },
+ "cello": {
+  "ph": "/'tʃelәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大提琴",
+    "def": "a large stringed instrument; seated player holds it upright while playing"
+   }
+  ],
+  "forms": "複數 cellos"
+ },
+ "cellophane": {
+  "ph": "/'selәufein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玻璃紙",
+    "def": "a transparent paperlike product that is impervious to moisture and used to wrap candy or cigarettes etc."
+   },
+   {
+    "pos": "",
+    "zh": "[化] 賽璐玢; 玻璃紙",
+    "def": ""
+   }
+  ]
+ },
+ "cellphone": {
+  "ph": "/'selfәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜂窩式便攜無線電話；大哥大",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cellphones"
+ },
+ "cellular": {
+  "ph": "/'seljulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "細胞的",
+    "def": "relating to cells"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 細胞的",
+    "def": ""
+   }
+  ]
+ },
+ "cellularity": {
+  "ph": "/,selju'læriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細胞性, 細胞結構",
+    "def": "the state of having cells"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 細胞構成",
+    "def": ""
+   }
+  ]
+ },
+ "cellulite": {
+  "ph": "/ˈseljulaɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（胖女人臀腿部的）脂肪團",
+    "def": "lumpy deposits of body fat especially on women's thighs etc."
+   }
+  ]
+ },
+ "cellulitis": {
+  "ph": "/,selju'laitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜂窩織炎",
+    "def": "an inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蜂窩織炎",
+    "def": ""
+   }
+  ]
+ },
+ "celluloid": {
+  "ph": "/'seljulɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賽璐珞",
+    "def": "highly flammable substance made from cellulose nitrate and camphor; used in e.g. motion-picture and X-ray film; its use has decreased with the development of no"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 賽璐珞",
+    "def": ""
+   }
+  ]
+ },
+ "cellulose": {
+  "ph": "/'seljulәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纖維素",
+    "def": "a polysaccharide that is the chief constituent of all plant tissues and fibers"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 纖維素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 celluloses"
+ },
+ "celsius": {
+  "ph": "/'selsiәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "攝氏的",
+    "def": ""
+   }
+  ]
+ },
+ "celt": {
+  "ph": "/kelt; selt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凱爾物人",
+    "def": "a member of a European people who once occupied Britain and Spain and Gaul prior to Roman times"
+   }
+  ],
+  "forms": "複數 celts｜第三人稱單數 celts"
+ },
+ "celtic": {
+  "ph": "/'keltik; 'seltik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "凱爾特族的, 凱爾特語的",
+    "def": "relating to or characteristic of the Celts"
+   },
+   {
+    "pos": "n.",
+    "zh": "凱爾特語",
+    "def": "a branch of the Indo-European languages that (judging from inscriptions and place names) was spread widely over Europe in the pre-Christian era"
+   }
+  ]
+ },
+ "cement": {
+  "ph": "/si'ment/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水泥, 膠結劑",
+    "def": "concrete pavement is sometimes referred to as cement"
+   },
+   {
+    "pos": "vt.",
+    "zh": "膠合, 用水泥塗",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "黏牢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cements｜過去分詞 cemented｜過去式 cemented｜現在分詞 cementing｜第三人稱單數 cements"
+ },
+ "cementation": {
+  "ph": "/.si:men'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水泥接合, 黏結, 膠結",
+    "def": "The act or process of cementing."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 粘固[作用]",
+    "def": ""
+   }
+  ]
+ },
+ "cemented": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "注水泥的；滲碳的；粘合的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cemented｜過去式 cemented"
+ },
+ "cemetery": {
+  "ph": "/'semitәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墓地, 公墓",
+    "def": "a tract of land used for burials"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 公墓, 墓地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cemeteries"
+ },
+ "cenotaph": {
+  "ph": "/'senәutɑ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紀念碑, 衣冠冢",
+    "def": "a monument built to honor people whose remains are interred elsewhere or whose remains cannot be recovered"
+   }
+  ],
+  "forms": "複數 cenotaphs"
+ },
+ "cenote": {
+  "ph": "/si'nәuti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天然井",
+    "def": ""
+   }
+  ]
+ },
+ "censer": {
+  "ph": "/'sensә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "香爐",
+    "def": "a container for burning incense (especially one that is swung on a chain in a religious ritual)"
+   }
+  ],
+  "forms": "複數 censers"
+ },
+ "censor": {
+  "ph": "/'sensә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檢查員",
+    "def": "someone who censures or condemns"
+   },
+   {
+    "pos": "vt.",
+    "zh": "檢查, 審查, 刪改",
+    "def": ""
+   }
+  ],
+  "forms": "複數 censors｜過去分詞 censored｜第三人稱單數 censors｜過去式 censored｜現在分詞 censoring"
+ },
+ "censored": {
+  "ph": "/ˈsensəd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受審查的, 被刪剪的",
+    "def": "suppressed or subject to censorship"
+   },
+   {
+    "pos": "v.",
+    "zh": "刪剪（書籍、電影等中被認為犯忌、違反道德或政治上危險的內容）( censor的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 censored"
+ },
+ "censoring": {
+  "ph": "/ˈsensərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "刪剪（書籍、電影等中被認為犯忌、違反道德或政治上危險的內容）( censor的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 censoring"
+ },
+ "censorious": {
+  "ph": "/sen'sɒ:riәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛批判的, 挑剔的",
+    "def": ""
+   }
+  ]
+ },
+ "censorship": {
+  "ph": "/'sensәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檢查制度",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 督察, 監察",
+    "def": ""
+   }
+  ]
+ },
+ "censure": {
+  "ph": "/'senʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "責難",
+    "def": "harsh criticism or disapproval"
+   },
+   {
+    "pos": "vt.",
+    "zh": "非難, 指責",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 censured｜過去式 censured｜複數 censures｜第三人稱單數 censures｜現在分詞 censuring"
+ },
+ "census": {
+  "ph": "/'sensәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戶口普查",
+    "def": "a periodic count of the population"
+   },
+   {
+    "pos": "vt.",
+    "zh": "實施統計調查",
+    "def": ""
+   }
+  ],
+  "forms": "複數 censuses"
+ },
+ "cent": {
+  "ph": "/sent/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分",
+    "def": "a fractional monetary unit of several countries"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 美分",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cents"
+ },
+ "centaur": {
+  "ph": "/'sentɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "半人半馬的怪物, 半人馬座",
+    "def": "(classical mythology) a mythical being that is half man and half horse"
+   }
+  ],
+  "forms": "複數 centaurs｜第三人稱單數 centaurs"
+ },
+ "centenarian": {
+  "ph": "/senti'nєәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "百歲老人",
+    "def": "someone who is at least 100 years old"
+   },
+   {
+    "pos": "adj.",
+    "zh": "百歲老人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centenarians"
+ },
+ "centenary": {
+  "ph": "/sen'ti:nәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一百年",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "一百年的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centenaries"
+ },
+ "centennial": {
+  "ph": "/sen'tenjәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "百年紀念",
+    "def": "the 100th anniversary (or the celebration of it)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "一百年的",
+    "def": "of or relating to or completing a period of 100 years"
+   }
+  ]
+ },
+ "center": {
+  "ph": "/'sentә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中心, 中心點, 中鋒",
+    "def": "an area that is approximately central within some larger region"
+   },
+   {
+    "pos": "adj.",
+    "zh": "中央的, 位在正中的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "集中, 定中心",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "居中",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 居中; 中央",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centers｜過去分詞 centered｜過去式 centered｜現在分詞 centering｜第三人稱單數 centers"
+ },
+ "centerboard": {
+  "ph": "/'sentә,bɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(帆船的)活動船板,中插板",
+    "def": "a retractable fin keel used on sailboats to prevent drifting to leeward"
+   }
+  ]
+ },
+ "centered": {
+  "ph": "/'sentәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "居中的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 居中的",
+    "def": ""
+   }
+  ]
+ },
+ "centerfield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] [美國] 森特菲爾德",
+    "def": ""
+   }
+  ]
+ },
+ "centerfold": {
+  "ph": "/'sentəˌfəʊld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（雜誌的）中間插頁, 裸體照片插頁",
+    "def": "a magazine center spread; especially a foldout of a large photograph or map or other feature"
+   }
+  ]
+ },
+ "centering": {
+  "ph": "/'sentәriŋ, 'sentriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 定中心, 中心調整",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 打中心孔; 定(中,圓)心; 找中心; 找正",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 centering"
+ },
+ "centerline": {
+  "ph": "/'sentәlain/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 中心線",
+    "def": ""
+   }
+  ]
+ },
+ "centerpiece": {
+  "ph": "/'sentәpi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中心裝飾品；放在餐桌中央的擺飾",
+    "def": "the central or most important feature"
+   }
+  ]
+ },
+ "centigrade": {
+  "ph": "/'sentigreid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "百分度的, 攝氏的",
+    "def": "of or relating to a temperature scale on which the freezing point of water is 0 degrees and the boiling point of water is 100 degrees"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 百分度",
+    "def": ""
+   }
+  ]
+ },
+ "centimeter": {
+  "ph": "/'sentimi:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釐米",
+    "def": "a metric unit of length equal to one hundredth of a meter"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 釐米",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centimeters"
+ },
+ "centimetre": {
+  "ph": "/'senti,mi:tә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釐米, 公分",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centimetres"
+ },
+ "centipede": {
+  "ph": "/'sentipi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "百腳",
+    "def": "chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蜈蚣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centipedes"
+ },
+ "central": {
+  "ph": "/'sentrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中央的, 重要的",
+    "def": "in or near a center or constituting a center; the inner area"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 中央的, 中心的, 中樞的",
+    "def": ""
+   }
+  ]
+ },
+ "central government": {
+  "ph": "/ˈsentrəl ˈɡʌvənmənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中央政府",
+    "def": ""
+   }
+  ]
+ },
+ "central heating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "集中採暖(法)",
+    "def": ""
+   }
+  ]
+ },
+ "centrale": {
+  "ph": "/sent'rɑ:l/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "中央骨, 舟狀骨",
+    "def": ""
+   }
+  ]
+ },
+ "centralisation": {
+  "ph": "/,sentrәlɑi'zeiʃәn;-li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<主英>=centralization",
+    "def": ""
+   }
+  ]
+ },
+ "centralise": {
+  "ph": "/'sentrәlɑiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "形成中心, 把統治權集中於中央, 把...集中起來, 成為...的中心, 集中",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 centralised｜現在分詞 centralising｜第三人稱單數 centralises｜過去式 centralised"
+ },
+ "centralised": {
+  "ph": "/'sentrəlaɪz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把…集中起來；形成中心",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 centralised｜過去式 centralised"
+ },
+ "centralising": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(centralise 的現在分詞) vt. 形成中心, 把統治權集中於中央, 把...集中起來, 成為...的中心, 集中",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 centralising"
+ },
+ "centralism": {
+  "ph": "/'sentrәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中央集權制",
+    "def": "the political policy of concentrating power in a central organization"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 中央集權制, 中央集權主義",
+    "def": ""
+   }
+  ]
+ },
+ "centralist": {
+  "ph": "/'sentrәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中央集權主義者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centralists"
+ },
+ "centrality": {
+  "ph": "/sen'træliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中心, 中央, 向心性",
+    "def": "the property of being central"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 中央性, 歸中性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centralities"
+ },
+ "centralization": {
+  "ph": "/.sentrәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "集中, 中央集權化",
+    "def": "the act of consolidating power under a central control"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 集中式; 集中化",
+    "def": ""
+   }
+  ]
+ },
+ "centralize": {
+  "ph": "/'sentrәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "集聚, 集中, 施行中央集權",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "集中",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 centralized｜現在分詞 centralizing｜過去式 centralized｜第三人稱單數 centralizes"
+ },
+ "centralized": {
+  "ph": "/'sentrәlaizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "集中的；中央集權的",
+    "def": "drawn toward a center or brought under the control of a central authority"
+   }
+  ],
+  "forms": "過去分詞 centralized｜過去式 centralized"
+ },
+ "centralizing": {
+  "ph": "/ˈsentrəˌlaɪzɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使處於中央的控制之下, 把…集中於中央( centralize的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "centrally": {
+  "ph": "/'sentrәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在中心, 在中央",
+    "def": ""
+   }
+  ]
+ },
+ "centre": {
+  "ph": "/'sentә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中心, 中心點, 中鋒",
+    "def": "a low-lying region in central France"
+   },
+   {
+    "pos": "adj.",
+    "zh": "中央的, 位在正中的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "集中, 定中心",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "居中",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centres｜過去式 centred｜過去分詞 centred｜第三人稱單數 centres｜現在分詞 centring"
+ },
+ "centre stage": {
+  "ph": "/ˈsentə steidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重要位置, 中心, 核心",
+    "def": ""
+   }
+  ]
+ },
+ "centre-forward": {
+  "ph": "/'sentərf'ɔ:wəd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（足球、曲棍球等的）中鋒, 中鋒位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centre-forwards"
+ },
+ "centrefold": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一期報紙中最中間的一張",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centrefolds"
+ },
+ "centreline": {
+  "ph": "/'sentəlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中心線",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "劃出中線（等於centerline）",
+    "def": ""
+   }
+  ]
+ },
+ "centrepiece": {
+  "ph": "/'sentәpi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中心裝飾品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centrepieces"
+ },
+ "centric": {
+  "ph": "/'sentrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中心的, 中央的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 中心的, 中樞的",
+    "def": ""
+   }
+  ]
+ },
+ "centrifugal": {
+  "ph": "/sen'trifjugl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "離心的",
+    "def": "tending to move away from a center"
+   },
+   {
+    "pos": "n.",
+    "zh": "離心機, (離心機的)轉筒",
+    "def": ""
+   }
+  ]
+ },
+ "centrifugation": {
+  "ph": "/sen,trifju'^eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "離心/分離作用",
+    "def": "the process of separating substances of different densities by the use of a centrifuge"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 離心法; 離心過濾",
+    "def": ""
+   }
+  ]
+ },
+ "centrifuge": {
+  "ph": "/'sentrifju:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "離心機",
+    "def": "an apparatus that uses centrifugal force to separate particles from a suspension"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使受離心作用, 用離心機分離",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 centrifuged｜過去分詞 centrifuged｜複數 centrifuges｜現在分詞 centrifuging｜第三人稱單數 centrifuges"
+ },
+ "centripetal": {
+  "ph": "/sen'tripitәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向心的",
+    "def": "tending to move toward a center"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 向心的, 向中的, 求中的",
+    "def": ""
+   }
+  ]
+ },
+ "centrism": {
+  "ph": "/'sentrizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中間路線,中間派的政策,溫和主義",
+    "def": "a political philosophy of avoiding the extremes of left and right by taking a moderate position or course of action"
+   }
+  ]
+ },
+ "centrist": {
+  "ph": "/'sentrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中間黨派的成員, 溫和主義者",
+    "def": "a person who takes a position in the political center"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 中間派議員, 中立派議員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centrists"
+ },
+ "centro": {
+  "ph": "/'sentrəʊ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "毛靴刺藤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centros"
+ },
+ "centroid": {
+  "ph": "/'sentrɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "質心",
+    "def": "the center of mass of an object of uniform density"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 瞬心線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 centroids"
+ },
+ "centrum": {
+  "ph": "/'sentrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中心, 椎體, 中樞",
+    "def": "the main body of a vertebra"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 中心, 中樞, 椎[骨]體",
+    "def": ""
+   }
+  ]
+ },
+ "centurion": {
+  "ph": "/sen'tjuәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "百人隊隊長",
+    "def": "(ancient Rome) the leader of 100 soldiers"
+   }
+  ],
+  "forms": "複數 centurions"
+ },
+ "century": {
+  "ph": "/'sentʃuri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "世紀, 百年",
+    "def": "a period of 100 years"
+   }
+  ],
+  "forms": "複數 centuries"
+ },
+ "ceo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "執行長；執行總裁（chief executive officer）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ceos"
+ },
+ "cephalic": {
+  "ph": "/si'fælik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頭的",
+    "def": "of or relating to the head"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 頭的, 頭側的",
+    "def": ""
+   }
+  ]
+ },
+ "cephalopod": {
+  "ph": "/'sefәlәupɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頭足動物",
+    "def": "marine mollusk characterized by well-developed head and eyes and sucker-bearing tentacles"
+   }
+  ],
+  "forms": "複數 cephalopods"
+ },
+ "cephalosporin": {
+  "ph": "/,sefәlәu'spɔ:rin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頭孢菌素",
+    "def": "one of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names Mefoxin); addition of side chains has produced se"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 頭孢子菌素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cephalosporins"
+ },
+ "cer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陶瓷",
+    "def": ""
+   }
+  ]
+ },
+ "ceramic": {
+  "ph": "/si'ræmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陶瓷的",
+    "def": "of or relating to or made from a ceramic"
+   },
+   {
+    "pos": "n.",
+    "zh": "陶瓷製品",
+    "def": "an artifact made of hard brittle material produced from nonmetallic minerals by firing at high temperatures"
+   }
+  ],
+  "forms": "複數 ceramics"
+ },
+ "ceramics": {
+  "ph": "/si'ræmiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製陶術",
+    "def": "the art of making and decorating pottery"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 陶瓷學",
+    "def": ""
+   }
+  ]
+ },
+ "ceramist": {
+  "ph": "/'serәmist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陶瓷技師, 陶瓷製造者",
+    "def": ""
+   }
+  ]
+ },
+ "cereal": {
+  "ph": "/'siәriәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穀類食品, 穀類植物",
+    "def": "grass whose starchy grains are used as food: wheat; rice; rye; oats; maize; buckwheat; millet"
+   },
+   {
+    "pos": "adj.",
+    "zh": "穀類的",
+    "def": "made of grain or relating to grain or the plants that produce it"
+   }
+  ],
+  "forms": "複數 cereals"
+ },
+ "cerebellar": {
+  "ph": "/,serә'belә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "小腦的",
+    "def": "relating to or associated with the cerebellum"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 小腦的",
+    "def": ""
+   }
+  ]
+ },
+ "cerebellopontine": {
+  "ph": "/seɪə'beləpɒntaɪn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "小腦腦橋的",
+    "def": ""
+   }
+  ]
+ },
+ "cerebellum": {
+  "ph": "/.seri'belәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小腦",
+    "def": "a major division of the vertebrate brain; situated above the medulla oblongata and beneath the cerebrum in humans"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 小腦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cerebellums"
+ },
+ "cerebral": {
+  "ph": "/'seribrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腦的, 大腦的",
+    "def": "involving intelligence rather than emotions or instinct"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 小腦的",
+    "def": ""
+   }
+  ]
+ },
+ "cerebrospinal": {
+  "ph": "/.seribrәu'spainәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腦脊髓的",
+    "def": "of or relating to the brain and spinal cord"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腦脊髓的",
+    "def": ""
+   }
+  ]
+ },
+ "cerebrovascular": {
+  "ph": "/,seribrәj'væskjjlә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腦血管的",
+    "def": ""
+   }
+  ]
+ },
+ "cerebrum": {
+  "ph": "/'seribrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大腦",
+    "def": "anterior portion of the brain consisting of two hemispheres; dominant part of the brain in humans"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 大腦",
+    "def": ""
+   }
+  ]
+ },
+ "ceremonial": {
+  "ph": "/.seri'mәunjәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "儀式",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "正式的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ceremonials"
+ },
+ "ceremonially": {
+  "ph": "/.seri'mәunjәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "儀式上, 禮儀上",
+    "def": ""
+   }
+  ]
+ },
+ "ceremonious": {
+  "ph": "/.seri'mәunjәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "講究儀式的, 隆重的",
+    "def": ""
+   }
+  ]
+ },
+ "ceremoniously": {
+  "ph": "/.seri'mәunjәsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "隆重地",
+    "def": ""
+   }
+  ]
+ },
+ "ceremony": {
+  "ph": "/'serimәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "典禮, 儀式, 禮節",
+    "def": "a formal event performed on a special occasion"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 典禮, 儀式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ceremonies"
+ },
+ "ceres": {
+  "ph": "/'siәri:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刻瑞斯(穀類和耕作女神)",
+    "def": "(Roman mythology) goddess of agriculture; counterpart of Greek Demeter"
+   }
+  ]
+ },
+ "cereus": {
+  "ph": "/'siәriәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仙影拳",
+    "def": "genus of much-branched treelike or shrubby cacti with pronounced ribs and rounded needlelike spines and nocturnal flowers usually white"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 仙人山屬, 仙影拳屬",
+    "def": ""
+   }
+  ]
+ },
+ "ceri": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "教育研究與革新中心（Center for Educational Research and Innovation）；靜化能源研究所（Clean Energy Research Institute）；中央電化學研究所（Central Electrochemical Research Institute）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ceri"
+ },
+ "cerise": {
+  "ph": "/sә'ri:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "櫻桃色",
+    "def": "a red the color of ripe cherries"
+   },
+   {
+    "pos": "adj.",
+    "zh": "櫻桃色的",
+    "def": ""
+   }
+  ]
+ },
+ "cern": {
+  "ph": "/s\\\\\\\\:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "歐洲原子核研究委員會",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 歐州粒子物理實驗室",
+    "def": ""
+   }
+  ]
+ },
+ "cert": {
+  "ph": "/sә:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "必然的事情",
+    "def": "an absolute certainty"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 計算機緊急反應小組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 certs"
+ },
+ "certain": {
+  "ph": "/'sә:tәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "確定的, 某一個的, 必然的",
+    "def": "having or feeling no doubt or uncertainty; confident and assured"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 確鑿的, 無疑的, 可靠的",
+    "def": ""
+   }
+  ]
+ },
+ "certainly": {
+  "ph": "/'sә:tәnli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "確定地",
+    "def": ""
+   }
+  ]
+ },
+ "certainty": {
+  "ph": "/'sә:tәnti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "確定, 確實的事情",
+    "def": "the state of being certain"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 確定, 肯定, 必然的事",
+    "def": ""
+   }
+  ],
+  "forms": "複數 certainties"
+ },
+ "certifiable": {
+  "ph": "/'sә:tifaiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可證明的, 可保證的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 法定的",
+    "def": ""
+   }
+  ]
+ },
+ "certifiably": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可證明地",
+    "def": ""
+   }
+  ]
+ },
+ "certificate": {
+  "ph": "/sә'tifikeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "證書, 證明書",
+    "def": "a document attesting to the truth of certain stated facts"
+   },
+   {
+    "pos": "vt.",
+    "zh": "發給證明書, 用證書批准, 用證書證明",
+    "def": ""
+   }
+  ],
+  "forms": "複數 certificates｜過去分詞 certificated｜過去式 certificated｜現在分詞 certificating｜第三人稱單數 certificates"
+ },
+ "certificated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有授權證書的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 certificated"
+ },
+ "certificates": {
+  "ph": "/səˈtifikeits/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "證明書, 執照( certificate的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "certification": {
+  "ph": "/.sә:tifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "證明",
+    "def": "the act of certifying or bestowing a franchise on"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 證明",
+    "def": ""
+   }
+  ],
+  "forms": "複數 certifications"
+ },
+ "certified": {
+  "ph": "/'sә:tifaid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "證明合格的",
+    "def": "endorsed authoritatively as having met certain requirements"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 檢定的; 證明的; 書面證明的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 certified｜複數 certifieds｜過去式 certified"
+ },
+ "certify": {
+  "ph": "/'sә:tifai/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "證明, 保證",
+    "def": "guarantee payment on; of checks"
+   }
+  ],
+  "forms": "過去分詞 certified｜現在分詞 certifying｜第三人稱單數 certifies｜過去式 certified"
+ },
+ "certifying": {
+  "ph": "/ˈsə:tifaiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（尤指書面）證明( certify的現在分詞 ); 發證書給…; 證明（某人）患有精神病; 頒發（或授予）專業合格證書",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 certifying"
+ },
+ "certiorari": {
+  "ph": "/,sә:tiɔ:'reәrai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上級法院向下級法院/準司法機構調取案卷的令狀",
+    "def": "a common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 複審令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 certiorari"
+ },
+ "certitude": {
+  "ph": "/'sә:titju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "確實性, 確信",
+    "def": "total certainty or greater certainty than circumstances warrant"
+   }
+  ],
+  "forms": "複數 certitudes"
+ },
+ "cerulean": {
+  "ph": "/si'ru:ljәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蔚藍的",
+    "def": ""
+   }
+  ]
+ },
+ "cerumen": {
+  "ph": "/si'ru:men/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耵聹, 耳垢, 耳屎",
+    "def": "a soft yellow wax secreted by glands in the ear canal"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 盯聹, 耳垢",
+    "def": ""
+   }
+  ]
+ },
+ "cervantes": {
+  "ph": "/sә'væntiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞萬提斯",
+    "def": "Spanish writer best remembered for `Don Quixote' which satirizes chivalry and influenced the development of the novel form (1547-1616)"
+   }
+  ]
+ },
+ "cervical": {
+  "ph": "/'sә:vikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頸的, 子宮頸的",
+    "def": "of or relating to the cervix of the uterus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 頸的",
+    "def": ""
+   }
+  ]
+ },
+ "cervix": {
+  "ph": "/'sә:viks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "器官的頸部, 頸",
+    "def": "necklike opening to the uterus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 頸, 子宮頸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cervixes"
+ },
+ "cesar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愷撒, 古羅馬帝王",
+    "def": ""
+   }
+  ]
+ },
+ "cesare": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Cesare)人名；(意)切薩雷；(西)塞薩雷",
+    "def": ""
+   }
+  ]
+ },
+ "cesarean": {
+  "ph": "/si'zeәriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "凱撒的, 皇帝的",
+    "def": "relating to abdominal delivery"
+   }
+  ]
+ },
+ "cesium": {
+  "ph": "/'si:ziәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銫",
+    "def": "a soft silver-white ductile metallic element (liquid at normal temperatures); the most electropositive and alkaline metal"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 銫Cs",
+    "def": ""
+   }
+  ]
+ },
+ "cess": {
+  "ph": "/ses/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地方稅, 土地稅, 特種稅, 運氣",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 稅, 稅率, 地方稅",
+    "def": ""
+   }
+  ]
+ },
+ "cessation": {
+  "ph": "/se'seiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "停止",
+    "def": "a stopping"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 中止, 中斷, 停止",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cessations"
+ },
+ "cession": {
+  "ph": "/'seʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "割讓, 轉讓",
+    "def": "the act of ceding"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 財產權利等的轉讓, 再保險",
+    "def": ""
+   }
+  ]
+ },
+ "cessna": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賽斯納（美國飛機公司）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cessnas"
+ },
+ "cesspit": {
+  "ph": "/'sespit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糞坑, 垃圾坑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cesspits"
+ },
+ "cesspool": {
+  "ph": "/'sespu:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汙水坑, 化糞池",
+    "def": "a covered cistern; waste water and sewage flow into it"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 汙水坑, 糞坑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cesspools"
+ },
+ "cetacean": {
+  "ph": "/si'teiʃjәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鯨目的, 鯨魚的",
+    "def": "of or relating to whales and dolphins etc"
+   },
+   {
+    "pos": "n.",
+    "zh": "鯨目動物, 鯨魚",
+    "def": "large aquatic carnivorous mammal with fin-like forelimbs no hind limbs, including: whales; dolphins; porpoises; narwhals"
+   }
+  ],
+  "forms": "複數 cetaceans"
+ },
+ "ceviche": {
+  "ph": "/sә'vi:tʃei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酸橘汁醃魚",
+    "def": ""
+   }
+  ]
+ },
+ "ceylon": {
+  "ph": "/si'lɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錫蘭",
+    "def": "an island in the Indian Ocean off the southeastern coast of India"
+   }
+  ]
+ },
+ "cezanne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞尚（男子名）",
+    "def": "French Post-impressionist painter who influenced modern art (especially cubism) by stressing the structural components latent in nature (1839-1906)"
+   }
+  ]
+ }
+}

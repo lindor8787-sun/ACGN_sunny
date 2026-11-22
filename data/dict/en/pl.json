@@ -1,0 +1,3921 @@
+{
+ "pl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 磷脂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pls"
+ },
+ "pla": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "中國人民解放軍",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 可程式設計序邏輯陣列",
+    "def": ""
+   }
+  ]
+ },
+ "placard": {
+  "ph": "/'plækɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公告, 佈告, 小牌, 海報",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "公佈, 佈告, 張帖, 貼海報於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 placards｜過去分詞 placarded｜現在分詞 placarding｜過去式 placarded｜第三人稱單數 placards"
+ },
+ "placate": {
+  "ph": "/plә'keit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "撫慰, 平息, 使和解, 懷柔",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 placating｜過去分詞 placated｜過去式 placated｜第三人稱單數 placates"
+ },
+ "placating": {
+  "ph": "/ˈpleɪˌkeɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "安撫, 撫慰, 使平靜( placate的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "placatory": {
+  "ph": "/'pleikәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "撫慰的, 平息的, 懷柔的, 調解的, 融洽的",
+    "def": ""
+   }
+  ]
+ },
+ "place": {
+  "ph": "/pleis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地方, 地點, 位置, 住所, 座位, 地位, 處境, 特權, 空間, 餘地, 職務, 位",
+    "def": "any area set aside for a particular purpose"
+   },
+   {
+    "pos": "vt.",
+    "zh": "放置, 寄予, 認出, 評定, 任命",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "名次列前",
+    "def": ""
+   }
+  ],
+  "forms": "複數 places｜過去分詞 placed｜現在分詞 placing｜過去式 placed｜第三人稱單數 places"
+ },
+ "placebo": {
+  "ph": "/plә'si:bәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(為死者所誦的)晚禱歌, 安慰劑, 安慰的話, 使人寬慰的事",
+    "def": "an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 安慰劑, 無效[對照]劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 placebos"
+ },
+ "placeholder": {
+  "ph": "/'pleishәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佔位符",
+    "def": "a symbol in a logical or mathematical expression that can be replaced by the name of any member of specified set"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 佔位符",
+    "def": ""
+   }
+  ]
+ },
+ "placekicker": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "開球員",
+    "def": ""
+   }
+  ]
+ },
+ "placeless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有固定位置的",
+    "def": "Having no place or office."
+   }
+  ]
+ },
+ "placeman": {
+  "ph": "/'pleismәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祿蟲, 當官迷",
+    "def": "a disparaging term for an appointee"
+   }
+  ],
+  "forms": "複數 placemen"
+ },
+ "placemat": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "餐具墊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 placemats"
+ },
+ "placement": {
+  "ph": "/'pleismәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放置, 佈置, 工作安排, 編班, 定位球",
+    "def": "the spatial property of the way in which something is placed"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 放置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 placements"
+ },
+ "placenta": {
+  "ph": "/plә'sentә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胎盤, 胎座",
+    "def": "that part of the ovary of a flowering plant where the ovules form"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 胎盤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 placentas"
+ },
+ "placental": {
+  "ph": "/plә'sentl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(有)胎盤的, (有)胎座的",
+    "def": "pertaining to or having or occurring by means of a placenta"
+   },
+   {
+    "pos": "n.",
+    "zh": "有胎盤哺乳動物",
+    "def": "mammals having a placenta; all mammals except monotremes and marsupials"
+   }
+  ],
+  "forms": "複數 placentals"
+ },
+ "placer": {
+  "ph": "/'pleisә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "砂礦, 砂礦開採地, 放置者, 得名次者",
+    "def": "an alluvial deposit that contains particles of some valuable mineral"
+   }
+  ],
+  "forms": "複數 placers"
+ },
+ "places": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地點；位置；[數]位數（place的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "placid": {
+  "ph": "/'plæsid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平靜的, 溫和的, 沉著的, 平穩的",
+    "def": ""
+   }
+  ]
+ },
+ "placidity": {
+  "ph": "/plә'siditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平穩, 平靜, 溫和",
+    "def": "a feeling of calmness; a quiet and undisturbed feeling"
+   }
+  ]
+ },
+ "placidly": {
+  "ph": "/'plæsɪdlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "平穩地, 平靜地",
+    "def": ""
+   }
+  ]
+ },
+ "placido": {
+  "ph": "/'plæsidəu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普拉西多（男子名）",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "平靜的",
+    "def": ""
+   }
+  ]
+ },
+ "placing": {
+  "ph": "/'pleisiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出盤, 出售",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鋪設",
+    "def": ""
+   }
+  ],
+  "forms": "複數 placings｜現在分詞 placing"
+ },
+ "placings": {
+  "ph": "/p'leɪsɪŋz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（競賽中的）排名, 名次",
+    "def": ""
+   }
+  ]
+ },
+ "plage": {
+  "ph": "/plɑ:ʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海濱, 譜斑",
+    "def": "the beach at a seaside resort"
+   }
+  ],
+  "forms": "第三人稱單數 plages｜複數 plages"
+ },
+ "plagiarise": {
+  "ph": "/'pleidʒiәraiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "vt. 剽竊, 抄襲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plagiarising｜過去分詞 plagiarised｜過去式 plagiarised"
+ },
+ "plagiarism": {
+  "ph": "/'pleidʒiәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剽竊, 抄襲, 剽竊物",
+    "def": "a piece of writing that has been copied from someone else and is presented as being your own work"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 抄襲, 剽竊, 剽竊作品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plagiarisms"
+ },
+ "plagiarist": {
+  "ph": "/'pleidʒiәrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剽竊者, 抄襲者",
+    "def": "someone who uses another person's words or ideas as if they were his own"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 剽竊者, 抄襲者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plagiarists"
+ },
+ "plagiarize": {
+  "ph": "/'pleidʒiәraiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "剽竊, 抄襲",
+    "def": "take without referencing from someone else's writing or speech; of intellectual property"
+   }
+  ],
+  "forms": "現在分詞 plagiarizing｜過去分詞 plagiarized｜過去式 plagiarized｜第三人稱單數 plagiarizes"
+ },
+ "plague": {
+  "ph": "/pleig/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘟疫, 天罰, 麻煩, 災禍",
+    "def": "a serious (sometimes fatal) infection of rodents caused by Yersinia pestis and accidentally transmitted to humans by the bite of a flea that has bitten an infec"
+   },
+   {
+    "pos": "vt.",
+    "zh": "折磨, 使苦惱, 使得災禍",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 plagued｜複數 plagues｜過去式 plagued｜現在分詞 plaguing｜第三人稱單數 plagues"
+ },
+ "plaice": {
+  "ph": "/pleis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歐鰈, 擬庸鰈",
+    "def": "flesh of large European flatfish"
+   }
+  ]
+ },
+ "plaid": {
+  "ph": "/plæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格子花呢披風, 格子花呢, 格子圖案",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plaids"
+ },
+ "plain": {
+  "ph": "/plein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平原, 草原, 樸實無華的東西, 無格式",
+    "def": "extensive tract of level open land"
+   },
+   {
+    "pos": "adj.",
+    "zh": "簡單的, 明白的, 平常的, 不好看的, 樸素的, 清晰的, 普通的, 平坦的, 十足的",
+    "def": "not elaborate or elaborated; simple"
+   },
+   {
+    "pos": "adv.",
+    "zh": "清楚地, 顯然地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 無格式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plains｜比較級 plainer｜最高級 plainest｜現在分詞 plaining｜過去式 plained｜第三人稱單數 plains｜過去分詞 plained"
+ },
+ "plainchant": {
+  "ph": "/ˈpleɪntʃɑ:nt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單聲聖歌",
+    "def": ""
+   }
+  ]
+ },
+ "plainclothes": {
+  "ph": "/'plein'klәjðz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿便衣的",
+    "def": ""
+   }
+  ]
+ },
+ "plainclothesman": {
+  "ph": "/'plein'klәuðzmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "便衣刑警, 密探",
+    "def": "a detective who wears civilian clothes on duty"
+   }
+  ]
+ },
+ "plainer": {
+  "ph": "/'pleinә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[方]等於complainer",
+    "def": ""
+   }
+  ]
+ },
+ "plainly": {
+  "ph": "/'pleinli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "清楚地, 明白地, 簡單地, 樸素地, 直率地, 坦白地",
+    "def": ""
+   }
+  ]
+ },
+ "plainness": {
+  "ph": "/'pleinnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平坦, 明白, 正直",
+    "def": "the state of being unmixed with other material"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 平坦度",
+    "def": ""
+   }
+  ]
+ },
+ "plainsong": {
+  "ph": "/'pleinsɒŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "素歌",
+    "def": "a liturgical chant of the Roman Catholic Church"
+   }
+  ]
+ },
+ "plainspoken": {
+  "ph": "/'plein'spәukәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "老實說的, 直言無隱的, 言辭率直的",
+    "def": ""
+   }
+  ]
+ },
+ "plaint": {
+  "ph": "/pleint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "悲嘆, 感嘆, 訴苦, 起訴, 抗議, 抱怨",
+    "def": "(United Kingdom) a written statement of the grounds of complaint made to court of law asking for the grievance to be redressed"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 控告, 起訴, 告狀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plaints"
+ },
+ "plaintiff": {
+  "ph": "/'pleintif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "原告, 起訴人",
+    "def": "a person who brings an action in a court of law"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 原告, 原起訴人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plaintiffs"
+ },
+ "plaintive": {
+  "ph": "/'pleintiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "悲哀的, 哀傷的, 傷心的, 表示痛苦的",
+    "def": ""
+   }
+  ]
+ },
+ "plaintively": {
+  "ph": "/'pleɪntɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "悲哀地, 哀怨地",
+    "def": ""
+   }
+  ]
+ },
+ "plait": {
+  "ph": "/pleit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "褶, 辮子, 麥稈條帶",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "打褶, 編織, 把...編成辮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plaits｜過去式 plaited｜現在分詞 plaiting｜過去分詞 plaited｜第三人稱單數 plaits"
+ },
+ "plaited": {
+  "ph": "/'pleɪtɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "把…編成辮繩( plait的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plaited"
+ },
+ "plan": {
+  "ph": "/plæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計劃, 方案, 策略, 方法, 進度表, 程式表, 平面圖, 設計圖, 輪廓, 示意圖",
+    "def": "a series of steps to be carried out or goals to be accomplished"
+   },
+   {
+    "pos": "vt.",
+    "zh": "計劃, 設計, 意欲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "訂計劃",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plans｜現在分詞 planning｜過去分詞 planned｜第三人稱單數 plans｜過去式 planned"
+ },
+ "planar": {
+  "ph": "/'pleinә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平面的, 在同一平面上的, 二維的",
+    "def": "involving two dimensions"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 平面",
+    "def": ""
+   }
+  ]
+ },
+ "planck": {
+  "ph": "/plɑ:ŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普朗克（德國物理學家）",
+    "def": "German physicist whose explanation of blackbody radiation in the context of quantized energy emissions initiated quantum theory (1858-1947)"
+   }
+  ]
+ },
+ "plane": {
+  "ph": "/plein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平面, 扁平物, 機翼, 飛機, 水準, 地位",
+    "def": "(mathematics) an unbounded two-dimensional shape"
+   },
+   {
+    "pos": "adj.",
+    "zh": "平的, 平面的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "將...刨平, 刨平, 掠過水麵",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "翱翔, 乘飛機旅行, 刨掉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 planes｜現在分詞 planing｜過去式 planed｜過去分詞 planed｜第三人稱單數 planes"
+ },
+ "planeload": {
+  "ph": "/'pleinlәjd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機負載量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 planeloads"
+ },
+ "planer": {
+  "ph": "/'pleinә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平路機, 刨床, 刨工, 刨機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 龍門刨床",
+    "def": ""
+   }
+  ],
+  "forms": "複數 planers"
+ },
+ "planet": {
+  "ph": "/'plænit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行星, 命運星辰, 傑出的人, 重大影響的事",
+    "def": "(astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Ju"
+   }
+  ],
+  "forms": "複數 planets"
+ },
+ "planetarium": {
+  "ph": "/.plæni'tєәriәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行星儀, 天文館, 天象圖",
+    "def": "a building housing an instrument for projecting the positions of the planets onto a domed ceiling"
+   }
+  ],
+  "forms": "複數 planetariums"
+ },
+ "planetary": {
+  "ph": "/'plænitri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "行星的, 流浪的, 遷移不定的, 地球上的, 現世的",
+    "def": "of or relating to or characteristic of the planet Earth or its inhabitants"
+   }
+  ],
+  "forms": "複數 planetaries"
+ },
+ "planetesimal": {
+  "ph": "/.plæni'tesiml/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星子, 小行星體",
+    "def": "one of many small solid celestial bodies thought to have existed at an early stage in the development of the solar system"
+   }
+  ],
+  "forms": "複數 planetesimals"
+ },
+ "planetoid": {
+  "ph": "/'plænitɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小行星, 類行星的物體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 planetoids"
+ },
+ "plangent": {
+  "ph": "/'plændʒәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "轟鳴的, 悽切的, 哀鳴的",
+    "def": ""
+   }
+  ]
+ },
+ "planing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 平刨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 planings｜現在分詞 planing"
+ },
+ "planisphere": {
+  "ph": "/'plænisfiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "球體投影圖, 天體平面圖",
+    "def": "The representation of the circles of the sphere upon a"
+   }
+  ]
+ },
+ "plank": {
+  "ph": "/plæŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厚木板, 支架, 木板製品, 衝浪板, 救急物, 政綱條目",
+    "def": "an endorsed policy in the platform of a political party"
+   },
+   {
+    "pos": "vt.",
+    "zh": "在...上鋪板, 撂下, 立即付款",
+    "def": ""
+   }
+  ],
+  "forms": "複數 planks｜過去分詞 planked｜現在分詞 planking｜過去式 planked｜第三人稱單數 planks"
+ },
+ "planked": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(plank 的過去分詞) n. 厚木板, 支架, 木板製品, 衝浪板, 救急物, 政綱條目",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "在...上鋪板, 撂下, 立即付款",
+    "def": ""
+   }
+  ]
+ },
+ "planking": {
+  "ph": "/'plæŋkiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鋪板工作, 板材, 船殼板, 地板",
+    "def": "planks collectively; a quantity of planks"
+   }
+  ],
+  "forms": "現在分詞 planking"
+ },
+ "plankton": {
+  "ph": "/'plæŋktәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(總稱)浮游生物",
+    "def": "the aggregate of small plant and animal organisms that float or drift in great numbers in fresh or salt water"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 浮游生物",
+    "def": ""
+   }
+  ]
+ },
+ "planktonic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 浮游生物的",
+    "def": ""
+   }
+  ]
+ },
+ "planned": {
+  "ph": "/plænd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "計劃了的, 預定的, 根據計劃的, 有組織的",
+    "def": "designed or carried out according to a plan"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有計劃的, 計劃的, 有秩序的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 planned｜過去式 planned"
+ },
+ "planner": {
+  "ph": "/'plænә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計劃者, 設計者, 安排者",
+    "def": "a person who makes plans"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 刨床機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 planners"
+ },
+ "planners": {
+  "ph": "/p'lænəz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "規劃者, 策劃人( planner的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "planning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計劃的制訂, 策劃, 設計, 規劃",
+    "def": "an act of formulating a program for a definite course of action"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 計劃, 規劃",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 planning"
+ },
+ "plant": {
+  "ph": "/plænt. plɑ:nt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "植物, 作物, 工廠, 樹枝, 生長, 設施, 成套裝置",
+    "def": "buildings for carrying on industrial labor"
+   },
+   {
+    "pos": "vt.",
+    "zh": "種植, 栽培, 播種, 培養, 安置, 殖民於, 使位於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "種植",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plants｜過去分詞 planted｜現在分詞 planting｜過去式 planted｜第三人稱單數 plants"
+ },
+ "plantagenet": {
+  "ph": "/plæn'tædʒәnit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金雀花王朝",
+    "def": "the family name of a line of English kings that reigned from 1154 to 1485"
+   }
+  ],
+  "forms": "複數 plantagenets"
+ },
+ "plantain": {
+  "ph": "/'plæntin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "車前草, 大蕉",
+    "def": "any of numerous plants of the genus Plantago; mostly small roadside or dooryard weeds with elliptic leaves and small spikes of very small flowers; seeds of some"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 車前草",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plantains"
+ },
+ "plantation": {
+  "ph": "/plæn'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "種植園, 大農場, 植樹造林, 新開墾地",
+    "def": "an estate where cash crops are grown on a large scale (especially in tropical areas)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 栽植(如牙或其他組織的植入、再植和移植)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plantations"
+ },
+ "plante": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普蘭特（法國發明家）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plantes"
+ },
+ "planted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vbl.",
+    "zh": "種植",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 planted｜過去式 planted"
+ },
+ "planter": {
+  "ph": "/'plæntә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "種植者, 耕作者, 種植機, 花盆",
+    "def": "the owner or manager of a plantation"
+   }
+  ],
+  "forms": "複數 planters"
+ },
+ "planting": {
+  "ph": "/'plæntiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "種植, 栽培, 播種, 人工林, 花圃, 苗圃",
+    "def": "the act of fixing firmly in place"
+   }
+  ],
+  "forms": "現在分詞 planting｜複數 plantings"
+ },
+ "plantlet": {
+  "ph": "/'plɑ:ntlit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小植物, 苗",
+    "def": "a young plant or a small plant"
+   }
+  ],
+  "forms": "複數 plantlets"
+ },
+ "plants": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "植物；工廠（plant的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "plantsman": {
+  "ph": "/'plɔ:ntsmәn;'plænts-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苗圃工作者, 花卉栽培者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plantsmen"
+ },
+ "plaque": {
+  "ph": "/plɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "匾, 飾板, 名牌, 勳章, 胸襟飾物, 血小板",
+    "def": "(pathology) a small abnormal patch on or inside the body"
+   }
+  ],
+  "forms": "複數 plaques"
+ },
+ "plash": {
+  "ph": "/plæʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淺池, 積水坑, 擊水聲, (水的)飛濺",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(水)濺潑",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plashed｜現在分詞 plashing｜第三人稱單數 plashes｜過去分詞 plashed"
+ },
+ "plasm": {
+  "ph": "/plæzm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 漿, 血漿, 原生質, 原漿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plasms"
+ },
+ "plasma": {
+  "ph": "/'plæzmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "血漿, 淋巴液, 原生質, 等離子體",
+    "def": "the colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are suspende"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 等離體; 等離子體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plasmas"
+ },
+ "plasmacytoma": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 漿細胞瘤",
+    "def": ""
+   }
+  ]
+ },
+ "plasmapheresis": {
+  "ph": "/,plæzmә'ferәsis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 血漿除去法, 去血漿法",
+    "def": ""
+   }
+  ]
+ },
+ "plasmid": {
+  "ph": "/'plæzmid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 質粒",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 質體(胞質遺傳體)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plasmids"
+ },
+ "plasminogen": {
+  "ph": "/plæz'minәdʒin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 纖溶酶原; 血纖維蛋白溶酶原",
+    "def": ""
+   }
+  ]
+ },
+ "plasmodium": {
+  "ph": "/plæz'mәudiәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "原質體, 合胞體, 變形體, 瘧原蟲",
+    "def": "multinucleate sheet of cytoplasm characteristic of some stages of such organisms as slime molds"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瘧原蟲屬",
+    "def": ""
+   }
+  ]
+ },
+ "plaster": {
+  "ph": "/'plæstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石膏, 灰泥, 安慰(緩解)用品, 膏藥",
+    "def": "a mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings"
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗以灰泥, 敷以膏藥, 掩飾, 使平服, 徹底擊敗, 減輕, 貼上",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plastered｜過去分詞 plastered｜複數 plasters｜現在分詞 plastering｜第三人稱單數 plasters"
+ },
+ "plasterboard": {
+  "ph": "/'plæstәbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石膏灰泥板",
+    "def": "wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls"
+   }
+  ],
+  "forms": "複數 plasterboards"
+ },
+ "plastered": {
+  "ph": "/'plæstәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "醉醺醺的, 抹上灰泥的, 塗得厚厚的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plastered｜過去分詞 plastered"
+ },
+ "plasterer": {
+  "ph": "/'plæstәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泥水匠, 粉刷工",
+    "def": "a worker skilled in applying plaster"
+   }
+  ],
+  "forms": "複數 plasterers"
+ },
+ "plastering": {
+  "ph": "/'plæstәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塗抹灰泥, 石膏工藝, 灰泥牆面, 慘敗",
+    "def": "the application of plaster"
+   }
+  ],
+  "forms": "現在分詞 plastering"
+ },
+ "plasterwork": {
+  "ph": "/'plɑ:stәw\\\\\\\\:k-,'plæs-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[建]抹灰泥工作",
+    "def": ""
+   }
+  ]
+ },
+ "plastic": {
+  "ph": "/'plæstik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塑膠, 可塑體, 可塑性物質",
+    "def": "generic name for certain synthetic or semisynthetic materials that can be molded or extruded into objects or films or filaments or used for making e.g. coatings"
+   },
+   {
+    "pos": "adj.",
+    "zh": "塑膠的, 塑造的, 有可塑性的, 造型的, 易受影響的, 有創造力的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plastics"
+ },
+ "plasticine": {
+  "ph": "/'plæstisi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橡皮泥, 塑像用粘土",
+    "def": "a synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 塑泥",
+    "def": ""
+   }
+  ]
+ },
+ "plasticity": {
+  "ph": "/plæ'stisiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可塑性, 柔軟性, 立體感",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 可塑性; 塑性力學",
+    "def": ""
+   }
+  ]
+ },
+ "plasticized": {
+  "ph": "/p'læstɪsaɪzd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "增塑的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使成可塑體( plasticize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "plasticizer": {
+  "ph": "/'plæstisaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塑化劑, 增塑劑",
+    "def": "a substance added to plastics or other materials to make them more pliable"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 塑化劑; 增塑劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plasticizers"
+ },
+ "plastique": {
+  "ph": "/plɑ:s'ti:k/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(=plastic bomb)塑膠炸彈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plastiques"
+ },
+ "plat": {
+  "ph": "/plæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小塊地, 地圖",
+    "def": "a map showing planned or actual features of an area (streets and building lots etc.)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "制...的地圖",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 plats"
+ },
+ "plata": {
+  "ph": "/'plɑ:tɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "River=Río de la Plata",
+    "def": ""
+   }
+  ]
+ },
+ "plate": {
+  "ph": "/pleit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碟, 盤子, 盆中物, 金屬板, 圖版, 金銀餐具, 印版, 金屬牌(照)",
+    "def": "a sheet of metal or wood or glass or plastic"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鍍金, 電鍍, 用金屬板固定, 給...裝鋼板, 為...制印版",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plates｜過去分詞 plated｜現在分詞 plating｜過去式 plated｜第三人稱單數 plates"
+ },
+ "plateau": {
+  "ph": "/plæ'tәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高地, 高原, (上升後的)穩定水平",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 高原, 平頂, 坪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plateaus"
+ },
+ "plateaux": {
+  "ph": "/'plætəʊz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]n.高原, 平頂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plateaux"
+ },
+ "plated": {
+  "ph": "/'pleitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鍍金的, 裝甲的, 被覆鍍的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 plated"
+ },
+ "plateful": {
+  "ph": "/'pleitful/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滿盤, 一盤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 platefuls"
+ },
+ "platelet": {
+  "ph": "/'pleitlit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "血小板, 小盤, 小板",
+    "def": "tiny bits of protoplasm found in vertebrate blood; essential for blood clotting"
+   }
+  ],
+  "forms": "複數 platelets"
+ },
+ "platelike": {
+  "ph": "/p'leɪtlaɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "板狀的, 層狀的",
+    "def": ""
+   }
+  ]
+ },
+ "platform": {
+  "ph": "/'plætfɒ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "站臺, 月臺, 講臺, 論壇, 平臺",
+    "def": "a raised horizontal surface"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 平臺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 platforms"
+ },
+ "plath": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "普拉思（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "plating": {
+  "ph": "/'pleitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電鍍, 鍍層, 金屬外表的鍍層, 裝甲",
+    "def": "a thin coating of metal deposited on a surface"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 噴鍍",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plating"
+ },
+ "platinum": {
+  "ph": "/'plætinәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白金, 鉑, 銀灰色",
+    "def": "a heavy precious metallic element; grey-white and resistant to corroding; occurs in some nickel and copper ores and is also found native in some deposits"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鉑Pt",
+    "def": ""
+   }
+  ],
+  "forms": "複數 platinums"
+ },
+ "platitude": {
+  "ph": "/'plætitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單調, 平凡, 陳腐, 陳詞濫調",
+    "def": "a trite or obvious remark"
+   }
+  ],
+  "forms": "複數 platitudes"
+ },
+ "platitudinous": {
+  "ph": "/.plæti'tju:dinәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平凡的, 陳腐的, 老生常談的",
+    "def": ""
+   }
+  ]
+ },
+ "plato": {
+  "ph": "/'pleitәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏拉圖",
+    "def": "ancient Athenian philosopher; pupil of Socrates; teacher of Aristotle (428-347 BC)"
+   }
+  ]
+ },
+ "platonic": {
+  "ph": "/plә'tɔnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "空談的, 不實際的, 柏拉圖哲學的, 柏拉圖的",
+    "def": "of or relating to or characteristic of Plato or his philosophy"
+   }
+  ],
+  "forms": "複數 platonics"
+ },
+ "platoon": {
+  "ph": "/plә'tu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排, 一組, 一群人",
+    "def": "a military unit that is a subdivision of a company; usually has a headquarters and two or more squads; usually commanded by a lieutenant"
+   }
+  ],
+  "forms": "複數 platoons"
+ },
+ "platt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "普萊特",
+    "def": ""
+   }
+  ]
+ },
+ "platter": {
+  "ph": "/'plætә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大淺盤, 主菜盤",
+    "def": "a large shallow dish used for serving food"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 底板",
+    "def": ""
+   }
+  ],
+  "forms": "複數 platters"
+ },
+ "platypus": {
+  "ph": "/'plætipәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鴨嘴獸",
+    "def": "small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae"
+   }
+  ]
+ },
+ "platz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Platz)人名；(英、德)普拉茨",
+    "def": ""
+   }
+  ]
+ },
+ "plaudit": {
+  "ph": "/'plɒ:dit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拍手喝彩, 稱讚, 讚美",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plaudits｜第三人稱單數 plaudits"
+ },
+ "plausibility": {
+  "ph": "/.plɒ:zi'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "似有道理, 貌似可信",
+    "def": "apparent validity"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 花言巧語, 似乎有理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plausibilities"
+ },
+ "plausible": {
+  "ph": "/'plɒ:zibl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貌似真實的, 貌似合理的, 說得煞有其事的",
+    "def": "apparently reasonable and valid, and truthful"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 花言巧語的, 似乎有理的",
+    "def": ""
+   }
+  ]
+ },
+ "plausibly": {
+  "ph": "/ˌplɔ:zəblɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "似真地",
+    "def": ""
+   }
+  ]
+ },
+ "play": {
+  "ph": "/plei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遊戲, 遊玩, 玩笑, 運動, 比賽, 賭博, 跳動, 表演, 劇本",
+    "def": "a dramatic work intended for performance by actors on a stage"
+   },
+   {
+    "pos": "v.",
+    "zh": "玩, 遊戲, 假裝, 開玩笑, 比賽, 扮演, 演奏, 演戲, 傳搖曳, (使)跳動",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 播放",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 playing｜過去式 played｜過去分詞 played｜第三人稱單數 plays｜複數 plays"
+ },
+ "play-off": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "最後決賽, 奪標決賽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 play-offs"
+ },
+ "playa": {
+  "ph": "/'plaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幹鹽湖, 河灘, 海邊休養地",
+    "def": "A beach; a strand; in the plains and deserts of Texas, New"
+   }
+  ]
+ },
+ "playability": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "playable（可遊戲的, 宜玩的）的變形",
+    "def": ""
+   }
+  ]
+ },
+ "playable": {
+  "ph": "/'pleiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可玩的, 可演奏的, 宜玩的, 宜演奏的",
+    "def": "capable of or suitable for being played or played on"
+   }
+  ]
+ },
+ "playact": {
+  "ph": "/'pleiækt/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "出場演戲, 裝扮, 裝腔作勢",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "演出, 表演",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 playacting｜過去式 playacted｜第三人稱單數 playacts｜過去分詞 playacted"
+ },
+ "playback": {
+  "ph": "/'pleibæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(錄音)重放, (錄音)重放裝置",
+    "def": "the act of reproducing recorded sound"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 重現",
+    "def": ""
+   }
+  ],
+  "forms": "複數 playbacks"
+ },
+ "playbill": {
+  "ph": "/'pleibil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戲單, 演出海報, 節目單",
+    "def": "a theatrical program"
+   }
+  ],
+  "forms": "複數 playbills"
+ },
+ "playbook": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劇本, 劇本集",
+    "def": "a notebook containing descriptions and diagrams of the plays that a team has practiced (especially an American football team)"
+   }
+  ],
+  "forms": "複數 playbooks"
+ },
+ "playboy": {
+  "ph": "/'pleibɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花花公子, 乖巧的人",
+    "def": "a man devoted to the pursuit of pleasure"
+   }
+  ],
+  "forms": "複數 playboys"
+ },
+ "playdate": {
+  "ph": "/'pleideit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(影片等的)上映期",
+    "def": ""
+   }
+  ]
+ },
+ "played": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "玩耍；演奏；播放；參加競賽（play的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 played｜過去式 played｜複數 playeds"
+ },
+ "player": {
+  "ph": "/'pleiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "競賽者, 上場隊員, 遊戲者, 演員",
+    "def": "a person who participates in or is skilled at some game"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 交易者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 players"
+ },
+ "playful": {
+  "ph": "/'pleiful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛打趣的, 多趣的, 開玩笑的, 嬉戲的",
+    "def": "full of fun and high spirits"
+   }
+  ]
+ },
+ "playfully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "開玩笑地；好遊玩地",
+    "def": ""
+   }
+  ]
+ },
+ "playfulness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "活潑快樂, 戲謔; 童心",
+    "def": "a disposition to find (or make) causes for amusement"
+   }
+  ]
+ },
+ "playgoer": {
+  "ph": "/'pleigәuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛看戲的人, 常看戲的人, 戲迷",
+    "def": "someone who attends the theater"
+   }
+  ],
+  "forms": "複數 playgoers｜第三人稱單數 playgoers"
+ },
+ "playground": {
+  "ph": "/'pleigraund/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "運動場, 操場, 度假勝地, 活動場所",
+    "def": "yard consisting of an outdoor area for children's play"
+   }
+  ],
+  "forms": "複數 playgrounds"
+ },
+ "playgroup": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "託兒所",
+    "def": ""
+   }
+  ],
+  "forms": "複數 playgroups"
+ },
+ "playhouse": {
+  "ph": "/'pleihaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劇場, 兒童之家, 玩具房",
+    "def": "plaything consisting of a small model of a house that children can play inside of"
+   }
+  ],
+  "forms": "複數 playhouses"
+ },
+ "playing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遊戲, 玩耍, 競技, 比賽, 扮演, 演奏, 賭博",
+    "def": "the act of playing a musical instrument"
+   }
+  ],
+  "forms": "現在分詞 playing｜複數 playings"
+ },
+ "playing field": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "運動場, 比賽場地",
+    "def": ""
+   }
+  ]
+ },
+ "playland": {
+  "ph": "/p'leɪlænd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "操場, （兒童）遊戲場",
+    "def": ""
+   }
+  ]
+ },
+ "playlist": {
+  "ph": "/'pleilist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "播放列表；演出劇目表",
+    "def": "a list of musical selections for performance or for broadcast by radio"
+   }
+  ],
+  "forms": "複數 playlists｜過去分詞 playlisted｜現在分詞 playlisting"
+ },
+ "playmaker": {
+  "ph": "/'plei,meikә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(籃球、 曲棍球等 ) 場上組織進攻的隊員",
+    "def": "a player in a team sport who leads attacks or maneuvers in such a way that a teammate can score"
+   }
+  ],
+  "forms": "複數 playmakers"
+ },
+ "playmaking": {
+  "ph": "/'plei,meikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "控球后衛；發動機",
+    "def": ""
+   }
+  ]
+ },
+ "playmate": {
+  "ph": "/'pleimeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玩伴, 遊伴",
+    "def": "a companion at play"
+   }
+  ],
+  "forms": "複數 playmates"
+ },
+ "playoff": {
+  "ph": "/'pleiɔ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙方得分相等時的最後決賽；複賽；季後賽",
+    "def": "any final competition to determine a championship"
+   }
+  ],
+  "forms": "複數 playoffs"
+ },
+ "playpen": {
+  "ph": "/'pleipen/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遊戲圍欄",
+    "def": "a portable enclosure in which babies may be left to play"
+   }
+  ],
+  "forms": "複數 playpens"
+ },
+ "playroom": {
+  "ph": "/'pleiru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遊戲室, 娛樂室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 playrooms"
+ },
+ "playschool": {
+  "ph": "/ˈpleɪsku:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幼兒遊戲組",
+    "def": "a small informal nursery group meeting for half-day sessions"
+   }
+  ],
+  "forms": "複數 playschools"
+ },
+ "plaything": {
+  "ph": "/'pleiθiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玩具, 被玩弄的人, 玩物",
+    "def": "an artifact designed to be played with"
+   }
+  ],
+  "forms": "複數 playthings"
+ },
+ "playtime": {
+  "ph": "/'pleitaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遊戲時間, 娛樂時間, 演出時間, 開幕時刻",
+    "def": "time for play or diversion"
+   }
+  ],
+  "forms": "複數 playtimes"
+ },
+ "playwright": {
+  "ph": "/'pleirait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劇作家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 playwrights｜現在分詞 playwrighting"
+ },
+ "plaza": {
+  "ph": "/'plɑ:zә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣場, 市場, 購物區",
+    "def": "a public square with room for pedestrians"
+   }
+  ],
+  "forms": "複數 plazas"
+ },
+ "plc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可程式設計邏輯控制器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plcs"
+ },
+ "ple": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "個性化學習環境（Personal Learning Environment）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pled｜過去分詞 pled｜複數 ples"
+ },
+ "plea": {
+  "ph": "/pli:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懇求, 辯解, 抗辯, 訴訟, 請願, 託詞",
+    "def": "(law) a defendant's answer by a factual matter (as distinguished from a demurrer)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 抗辯, 申訴案件, 答辯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pleas"
+ },
+ "plead": {
+  "ph": "/pli:d/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "辯護, 懇求",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "為...辯護, 提出...藉口, 託稱, 懇求",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pleaded｜現在分詞 pleading｜過去分詞 pleaded｜第三人稱單數 pleads"
+ },
+ "pleader": {
+  "ph": "/'pli:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辯論者, 辯解者, 申訴人, 答辯人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 抗辯人, 答辯人, 辯護律師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pleaders"
+ },
+ "pleading": {
+  "ph": "/'pli:diŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辯論, 懇請, 答辯, 訴訟手續, 訴狀",
+    "def": "(law) a statement in legal and logical form stating something on behalf of a party to a legal proceeding"
+   },
+   {
+    "pos": "adj.",
+    "zh": "懇求的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pleadings｜現在分詞 pleading"
+ },
+ "pleadingly": {
+  "ph": "/ˈpli:dɪŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "祈求地, 訴願地",
+    "def": ""
+   }
+  ]
+ },
+ "pleasance": {
+  "ph": "/'plezns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樂園, 愉快, 樂事, 快樂",
+    "def": "a pleasant and secluded part of a garden; usually attached to a mansion"
+   }
+  ]
+ },
+ "pleasant": {
+  "ph": "/'pleznt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愉快的, 可愛的, 活潑的, 親切的",
+    "def": "affording pleasure; being in harmony with your taste or likings"
+   }
+  ],
+  "forms": "比較級 pleasanter｜最高級 pleasantest"
+ },
+ "pleasantly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "和藹地, 親切地；友好地；愉快地",
+    "def": ""
+   }
+  ]
+ },
+ "pleasantness": {
+  "ph": "/'plezntnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "愉快",
+    "def": ""
+   }
+  ]
+ },
+ "pleasantry": {
+  "ph": "/'plezәntri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幽默, 開玩笑",
+    "def": "an agreeable or amusing remark"
+   }
+  ],
+  "forms": "複數 pleasantries"
+ },
+ "please": {
+  "ph": "/pli:z/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "請",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使高興, 合...的心意, 取悅",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "使人滿意, 討好, 願意, 敬請",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pleased｜第三人稱單數 pleases｜過去分詞 pleased｜現在分詞 pleasing"
+ },
+ "pleased": {
+  "ph": "/pli:zd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高興的, 喜歡的, 滿足的",
+    "def": "experiencing or manifesting pleasure"
+   }
+  ],
+  "forms": "過去分詞 pleased｜過去式 pleased"
+ },
+ "pleaser": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "please的變形",
+    "def": "a pleasing entertainer"
+   }
+  ],
+  "forms": "複數 pleasers"
+ },
+ "pleasing": {
+  "ph": "/'pli:ziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人喜愛的, 愉快的, 舒適的",
+    "def": "giving pleasure and satisfaction"
+   }
+  ],
+  "forms": "現在分詞 pleasing"
+ },
+ "pleasingly": {
+  "ph": "/'pli:ziŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "高興地；喜歡地",
+    "def": ""
+   }
+  ]
+ },
+ "pleasurable": {
+  "ph": "/'pleʒәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "快樂的, 愉快的, 舒適的, 心情舒暢的",
+    "def": ""
+   }
+  ]
+ },
+ "pleasurably": {
+  "ph": "/ˈpleʒərəbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "愉快地; 舒適地; 快樂地; 歡愉地",
+    "def": ""
+   }
+  ]
+ },
+ "pleasure": {
+  "ph": "/'pleʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "快樂, 愉快, 令人高興的事, 娛樂, 希望",
+    "def": "a fundamental feeling that is hard to define but that people desire to experience"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)高興",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pleasures｜現在分詞 pleasuring"
+ },
+ "pleat": {
+  "ph": "/pli:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "褶, 褶狀物",
+    "def": "any of various types of fold formed by doubling fabric back upon itself and then pressing or stitching into shape"
+   },
+   {
+    "pos": "vt.",
+    "zh": "打褶, 把...編成辮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pleats｜現在分詞 pleating｜過去分詞 pleated｜過去式 pleated｜第三人稱單數 pleats"
+ },
+ "pleated": {
+  "ph": "/ˈpli:tɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "打褶襉的, 起褶的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 pleated"
+ },
+ "pleating": {
+  "ph": "/'pli:tɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "打襉",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 pleating"
+ },
+ "pleb": {
+  "ph": "/pleb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平民, 庶民",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plebs"
+ },
+ "plebe": {
+  "ph": "/pli:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(軍官學校)新生, 平民",
+    "def": ""
+   }
+  ]
+ },
+ "plebeian": {
+  "ph": "/pli'bi:әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平民, 庶民, 大眾, 平庸的人",
+    "def": "one of the common people"
+   },
+   {
+    "pos": "adj.",
+    "zh": "平民的, 一般的, 普通的, 粗俗的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plebeians"
+ },
+ "plebiscite": {
+  "ph": "/'plebisit, -sait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公民投票, 平民表決",
+    "def": "a vote by the electorate determining public opinion on a question of national importance"
+   }
+  ],
+  "forms": "複數 plebiscites"
+ },
+ "plectrum": {
+  "ph": "/'plektrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撥子, 琴撥, 錘骨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 懸壅垂, 錘骨, 顳骨莖突",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plectrums"
+ },
+ "pledge": {
+  "ph": "/pledʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "諾言, 保證, 誓言, 抵押, 信物, 保人, 祝願",
+    "def": "a deposit of personal property as security for a debt"
+   },
+   {
+    "pos": "vt.",
+    "zh": "許諾, 保證, 使發誓, 抵押, 典當, 舉杯祝...健康",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 pledged｜過去式 pledged｜複數 pledges｜現在分詞 pledging｜第三人稱單數 pledges"
+ },
+ "pledged": {
+  "ph": "/pledʒd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "保證, 許諾, 發誓( pledge的過去式和過去分詞 ); 典當; 保證給予（或做）; 以誓言約束",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 pledged"
+ },
+ "pledging": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 抵押物, 典當物",
+    "def": ""
+   }
+  ]
+ },
+ "pleistocene": {
+  "ph": "/'plaistәsi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "更新世, 更新世巖",
+    "def": "from two million to 11 thousand years ago; extensive glaciation of the northern hemisphere; the time of human evolution"
+   }
+  ]
+ },
+ "plena": {
+  "ph": "/'pli:nә, 'ple-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "plenum 的複數",
+    "def": ""
+   }
+  ]
+ },
+ "plenary": {
+  "ph": "/'plenәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "充分的, 完全的, 全體出席的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 正式的, 充分的, 全體出席的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plenaries"
+ },
+ "plenipotentiary": {
+  "ph": "/.plenipә'tenʃәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "全權大使, 全權代表",
+    "def": "a diplomat who is fully authorized to represent his or her government"
+   },
+   {
+    "pos": "adj.",
+    "zh": "有全權的, 全權代表的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plenipotentiaries"
+ },
+ "plenitude": {
+  "ph": "/'plenitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "充分, 完全, 豐富, 大量, 充足",
+    "def": ""
+   }
+  ]
+ },
+ "plenteous": {
+  "ph": "/'plentiәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "豐饒的, 豐富的",
+    "def": ""
+   }
+  ]
+ },
+ "plentiful": {
+  "ph": "/'plentiful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "許多的, 豐富的, 豐饒的",
+    "def": ""
+   }
+  ]
+ },
+ "plentifully": {
+  "ph": "/'plentifuli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "豐富地, 富裕地",
+    "def": ""
+   }
+  ]
+ },
+ "plentitude": {
+  "ph": "/'plentitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "充分",
+    "def": ""
+   }
+  ]
+ },
+ "plenty": {
+  "ph": "/'plenti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "充分, 很多, 豐富",
+    "def": "a full supply"
+   },
+   {
+    "pos": "adj.",
+    "zh": "很多的, 足夠的, 豐富的",
+    "def": ""
+   }
+  ]
+ },
+ "plenum": {
+  "ph": "/'pli:nәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "充實, 充滿",
+    "def": "a meeting of a legislative body at which all members are present"
+   }
+  ]
+ },
+ "pleomorphic": {
+  "ph": "/,pli:ә'mɔ:fik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 多形的",
+    "def": ""
+   }
+  ]
+ },
+ "pleomorphism": {
+  "ph": "/,pli:ә'mɔ:fizәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 同質多晶",
+    "def": ""
+   }
+  ]
+ },
+ "pleonastic": {
+  "ph": "/.pli:әu'næstik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冗言的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 贅餘[畸形]的",
+    "def": ""
+   }
+  ]
+ },
+ "plesiosaur": {
+  "ph": "/'pli:siәsɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛇頸龍",
+    "def": "extinct marine reptile with a small head on a long neck a short tail and four paddle-shaped limbs; of the Jurassic and Cretaceous"
+   }
+  ],
+  "forms": "複數 plesiosaurs"
+ },
+ "plethora": {
+  "ph": "/'pleθәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過多, 過剩, 多血癥",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 多血[症]",
+    "def": ""
+   }
+  ]
+ },
+ "pleura": {
+  "ph": "/'pluәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胸膜, 肋膜",
+    "def": "the thin serous membrane around the lungs and inner walls of the chest"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胸膜",
+    "def": ""
+   }
+  ]
+ },
+ "pleural": {
+  "ph": "/'pluәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "胸膜的, 肋膜的",
+    "def": "of or relating to the pleura or the walls of the thorax"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胸膜的",
+    "def": ""
+   }
+  ]
+ },
+ "pleurisy": {
+  "ph": "/'pluәrisi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肋膜炎, 胸膜炎",
+    "def": "inflammation of the pleura of the lungs (especially the parietal layer)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胸膜炎(舊名肋膜炎)",
+    "def": ""
+   }
+  ]
+ },
+ "plexiglas": {
+  "ph": "/'pleksi^lɑ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樹脂玻璃(多用以製造飛機座艙罩、鏡片等)",
+    "def": "a light transparent weather resistant thermoplastic"
+   }
+  ]
+ },
+ "plexiglass": {
+  "ph": "/'pleksi^lɑ:s/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 有機玻璃",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 聚異丁烯酸樹脂, 有機玻璃(商品名)",
+    "def": ""
+   }
+  ]
+ },
+ "plexus": {
+  "ph": "/'pleiksәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(血管、神經等的)叢",
+    "def": "a network of intersecting blood vessels or intersecting nerves or intersecting lymph vessels"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 帕尼扎氏叢(包皮繫帶外側窩內的深淋巴叢)",
+    "def": ""
+   }
+  ]
+ },
+ "pliability": {
+  "ph": "/.plaiә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "易彎性, 柔韌(性), 可撓性",
+    "def": "adaptability of mind or character"
+   }
+  ]
+ },
+ "pliable": {
+  "ph": "/'plaiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易彎的, 柔順的, 圓通的",
+    "def": ""
+   }
+  ]
+ },
+ "pliant": {
+  "ph": "/'plaiәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易彎的, 柔韌的, 柔順的",
+    "def": ""
+   }
+  ]
+ },
+ "plier": {
+  "ph": "/'plaiә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉗子(如老虎鉗,手鉗,扁嘴鉗等),鑷子",
+    "def": "someone who plies a trade"
+   }
+  ],
+  "forms": "複數 pliers"
+ },
+ "pliers": {
+  "ph": "/'plaiәz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉗子",
+    "def": "a gripping hand tool with two hinged arms and (usually) serrated jaws"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鑷, 鉗",
+    "def": ""
+   }
+  ]
+ },
+ "plight": {
+  "ph": "/plait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "困境, 窘境",
+    "def": "a solemn pledge of fidelity"
+   },
+   {
+    "pos": "vt.",
+    "zh": "宣誓, 保證",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plighted｜過去分詞 plighted｜現在分詞 plighting｜第三人稱單數 plights"
+ },
+ "plimsoll": {
+  "ph": "/'plimsәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕便橡皮底帆布鞋, 膠底運動鞋",
+    "def": "a light gym shoe with a rubber sole and a canvas top"
+   }
+  ],
+  "forms": "複數 plimsolls"
+ },
+ "plink": {
+  "ph": "/pliŋk/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)發出叮噹聲",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "叮噹聲",
+    "def": ""
+   }
+  ]
+ },
+ "plinth": {
+  "ph": "/plinθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "底座, 基腳, 柱基, 勒腳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plinths"
+ },
+ "pliny": {
+  "ph": "/'plini/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "普林尼(①姓氏 ② Pliny “the Elder”, Gaius Plinius Secundus 老普林尼, 23-79, 羅馬學者)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plinys"
+ },
+ "pliocene": {
+  "ph": "/'plaiәsi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上新世, 上新世巖",
+    "def": "from 13 million to 2 million years ago; growth of mountains; cooling of climate; more and larger mammals"
+   }
+  ]
+ },
+ "plo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "巴勒斯坦解放組織（Palestine Liberation Organization）",
+    "def": ""
+   }
+  ]
+ },
+ "plod": {
+  "ph": "/plɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉重的步伐, 辛勤工作",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "沉重地走, 辛勤工作, 孜孜從事",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "沉重緩慢地走",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plodding｜過去式 plodded｜第三人稱單數 plods｜過去分詞 plodded｜複數 plods"
+ },
+ "plodder": {
+  "ph": "/'plɒdә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉重行走的人, 辛勤工作的人, 做事慢條斯理不開動腦筋的人",
+    "def": "someone who works slowly and monotonously for long hours"
+   }
+  ],
+  "forms": "複數 plodders"
+ },
+ "plodding": {
+  "ph": "/'plɒdiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沉重緩慢的, 單調乏味的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plodding"
+ },
+ "plonk": {
+  "ph": "/plɔŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(英)廉價酒, 撲通聲, 叮噹聲",
+    "def": "a cheap wine of inferior quality"
+   },
+   {
+    "pos": "adv.",
+    "zh": "撲通一聲地",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用力地放下",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 扔垃圾",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plonked｜現在分詞 plonking｜過去分詞 plonked｜第三人稱單數 plonks｜複數 plonks"
+ },
+ "plonker": {
+  "ph": "/ˈplɒŋkə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傻瓜, 笨蛋, <俗>雞巴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plonkers"
+ },
+ "plop": {
+  "ph": "/plɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撲通聲, 掉下",
+    "def": "the noise of a rounded object dropping into a liquid without a splash"
+   },
+   {
+    "pos": "adv.",
+    "zh": "撲通一聲地",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...沉重地放下",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "撲通落下",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plopped｜現在分詞 plopping｜過去分詞 plopped｜複數 plops｜第三人稱單數 plops"
+ },
+ "plot": {
+  "ph": "/plɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小塊土地, 地區圖, 圖, 陰謀, 情節",
+    "def": "a secret scheme to do something (especially something underhand or illegal)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "劃分, 繪圖, 密謀",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "密謀, 策劃",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 繪製",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plots｜現在分詞 plotting｜過去分詞 plotted｜過去式 plotted｜第三人稱單數 plots"
+ },
+ "plotless": {
+  "ph": "/plɒt'les/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有情節的",
+    "def": ""
+   }
+  ]
+ },
+ "plotline": {
+  "ph": "/'plɔtlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(戲劇、小說等的)情節主線,主要情節",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plotlines"
+ },
+ "plotted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "標繪的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plotted"
+ },
+ "plotter": {
+  "ph": "/'plɒtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "密謀者, 策劃者, 繪圖員, 繪圖儀",
+    "def": "a clerk who marks data on a chart"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 繪圖儀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plotters"
+ },
+ "plotting": {
+  "ph": "/'plɒtiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "標繪, 繪圖",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 繪圖",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plotting"
+ },
+ "plough": {
+  "ph": "/plau/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犁, 犁過的地",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "用犁耕田, 開路",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "耕, 犁, 開路",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ploughing｜過去式 ploughed｜複數 ploughs｜過去分詞 ploughed｜第三人稱單數 ploughs"
+ },
+ "ploughed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "& vi. 用犁耕田（plough的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ploughed｜過去式 ploughed"
+ },
+ "ploughing": {
+  "ph": "/'plauiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "耕作(美作：plowing)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ploughing｜複數 ploughings"
+ },
+ "ploughland": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耕地, 可耕地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ploughlands"
+ },
+ "ploughman": {
+  "ph": "/'plajmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "把犁人, 莊稼漢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ploughmen"
+ },
+ "ploughshare": {
+  "ph": "/'plajʃeә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犁頭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ploughshares"
+ },
+ "plover": {
+  "ph": "/'plʌvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "珩；千鳥；珩科鳥（如鳳頭麥雞）",
+    "def": "any of numerous chiefly shorebirds of relatively compact build having straight bills and large pointed wings; closely related to the sandpipers"
+   }
+  ],
+  "forms": "複數 plovers｜第三人稱單數 plovers"
+ },
+ "plow": {
+  "ph": "/plau/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犁",
+    "def": "a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing"
+   },
+   {
+    "pos": "v.",
+    "zh": "犁, 耕",
+    "def": "to break and turn over earth especially with a plow"
+   }
+  ],
+  "forms": "過去分詞 plowed｜現在分詞 plowing｜第三人稱單數 plows｜複數 plows｜過去式 plowed"
+ },
+ "plowden": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Plowden)人名；(英)普洛登",
+    "def": ""
+   }
+  ]
+ },
+ "plowed": {
+  "ph": "/plaud/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "耕( plow的過去式和過去分詞 ); 犁耕; 費力穿過",
+    "def": ""
+   }
+  ]
+ },
+ "plowing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "翻耕, 耕作",
+    "def": "tilling the land with a plow"
+   }
+  ]
+ },
+ "plowman": {
+  "ph": "/'plaumәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農夫",
+    "def": "a man who plows"
+   }
+  ]
+ },
+ "plowshare": {
+  "ph": "/'plauʃєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(犁)鏵, 鏵頭",
+    "def": "a sharp steel wedge that cuts loose the top layer of soil"
+   }
+  ]
+ },
+ "ploy": {
+  "ph": "/plɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手段, 活動, 玩樂",
+    "def": "a maneuver in a game or conversation"
+   }
+  ],
+  "forms": "複數 ploys｜過去式 ployed"
+ },
+ "pluck": {
+  "ph": "/plʌk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勇氣, 猛拉, 動物內臟",
+    "def": "the act of pulling and releasing a taut cord"
+   },
+   {
+    "pos": "vt.",
+    "zh": "摘, 猛拉, 拔, 拉, 扯, 採",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "拉, 拽",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plucked｜過去分詞 plucked｜現在分詞 plucking｜第三人稱單數 plucks｜複數 plucks"
+ },
+ "plucked": {
+  "ph": "/plʌkt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "採( pluck的過去式和過去分詞 ); 拔掉; 解救; 彈",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 plucked｜過去式 plucked"
+ },
+ "plucking": {
+  "ph": "/'plʌkiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拔蝕, 剝痕；挖蝕",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plucking｜複數 pluckings"
+ },
+ "plucky": {
+  "ph": "/'plʌki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有勇氣的, 有膽量的, 大膽的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 pluckiest"
+ },
+ "plug": {
+  "ph": "/plʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞子, 栓, 插頭",
+    "def": "blockage consisting of an object designed to fill a hole tightly"
+   },
+   {
+    "pos": "vt.",
+    "zh": "插入, 塞住, 接插頭",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被塞住",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 plugged｜複數 plugs｜現在分詞 plugging｜第三人稱單數 plugs｜過去式 plugged"
+ },
+ "plugged": {
+  "ph": "/'plʌɡd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "塞緊的；堵塞的",
+    "def": "(of a coin) altered by the insertion of a plug of base metal"
+   }
+  ]
+ },
+ "plugger": {
+  "ph": "/'plʌgә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "填塞物, 苦幹的人, 宣傳員",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 充填器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pluggers"
+ },
+ "plughole": {
+  "ph": "/ˈplʌghəʊl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "插孔, （壓載水櫃）放水孔, 密封採空區的密封孔道",
+    "def": "a hole into which a plug fits (especially a hole where water drains away)"
+   }
+  ],
+  "forms": "複數 plugholes"
+ },
+ "plum": {
+  "ph": "/plʌm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "李子",
+    "def": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+   }
+  ],
+  "forms": "複數 plums"
+ },
+ "plumage": {
+  "ph": "/'plu:midʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥類羽毛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plumages｜過去式 plumaged"
+ },
+ "plumb": {
+  "ph": "/plʌm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉛錘, 垂直",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "垂直的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使垂直, 探測",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成垂直",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 plumbed｜現在分詞 plumbing｜過去式 plumbed｜第三人稱單數 plumbs｜複數 plumbs"
+ },
+ "plumbago": {
+  "ph": "/plʌm'beigәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石墨, 藍茉莉",
+    "def": "any plumbaginaceous plant of the genus Plumbago"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 石墨",
+    "def": ""
+   }
+  ]
+ },
+ "plumber": {
+  "ph": "/'plʌmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水管工人",
+    "def": "a craftsman who installs and repairs pipes and fixtures and appliances"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 堵漏防漏人員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plumbers"
+ },
+ "plumbing": {
+  "ph": "/'plʌmiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測深, 管子工行業, 管道裝置",
+    "def": "utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage"
+   }
+  ],
+  "forms": "現在分詞 plumbing｜複數 plumbings"
+ },
+ "plume": {
+  "ph": "/plu:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羽毛, 羽毛裝飾, 羽狀的",
+    "def": "anything that resembles a feather in shape or lightness"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用羽毛裝飾, 整理羽毛, 使成羽毛狀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plumes｜現在分詞 pluming｜過去式 plumed｜第三人稱單數 plumes｜過去分詞 plumed"
+ },
+ "plumed": {
+  "ph": "/ˈplu:md/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "飾有羽毛的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 plumed"
+ },
+ "pluming": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用羽毛裝飾（plume的現在分詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "plummer": {
+  "ph": "/'plʌmә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "軸臺, 墊塊, 承載臺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plummers"
+ },
+ "plummet": {
+  "ph": "/'plʌmit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測深錘, 鉛墜",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "垂直落下",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 plummets｜過去式 plummetted｜現在分詞 plummeting｜過去分詞 plummeted"
+ },
+ "plummeting": {
+  "ph": "/ˈplʌmɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "垂直落下, 驟然跌落( plummet的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plummeting"
+ },
+ "plummy": {
+  "ph": "/'plʌmi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "李子似的, 葡萄乾多的, 最好的, 豐滿的",
+    "def": ""
+   }
+  ]
+ },
+ "plump": {
+  "ph": "/plʌmp/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "圓胖的, 豐滿的, 直接下落的, 直率的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "突然放下, 支援, 使豐滿, 使鼓起",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "撲通落下, 投票贊成, 變豐滿, 鼓起",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "沉重地, 突然地, 直截了當地",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plumped｜過去分詞 plumped｜現在分詞 plumping｜比較級 plumper｜第三人稱單數 plumps｜最高級 plumpest｜複數 plumps"
+ },
+ "plumpness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豐滿",
+    "def": "the bodily property of being well rounded"
+   }
+  ]
+ },
+ "plunder": {
+  "ph": "/'plʌndә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "搶奪, 掠奪品, 戰利品",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "掠奪, 搶劫, 搶奪",
+    "def": "steal goods; take as spoils"
+   }
+  ],
+  "forms": "過去分詞 plundered｜過去式 plundered｜現在分詞 plundering｜第三人稱單數 plunders｜複數 plunders"
+ },
+ "plundered": {
+  "ph": "/ˈplʌndəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "掠奪, 搶劫( plunder的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plundered"
+ },
+ "plunderer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "掠奪者, 盜竊者",
+    "def": "someone who takes spoils or plunder (as in war)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 掠奪者, 搶劫者, 盜賊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plunderers"
+ },
+ "plundering": {
+  "ph": "/ˈplʌndərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "掠奪, 搶劫( plunder的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plundering｜複數 plunderings"
+ },
+ "plung": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞子, 插頭 vt.塞",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 plunger"
+ },
+ "plunge": {
+  "ph": "/plʌndʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鑽進, 跳進, 跳水, 跳水池, 猛跌, 落下, 投入, 開始從事, 盲目投資",
+    "def": "a steep and rapid fall"
+   },
+   {
+    "pos": "vi.",
+    "zh": "投入, 投身於, 跳進, 陷入, 下降",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使投入, 使插入, 使陷入, 使遭受",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 plunged｜過去分詞 plunged｜現在分詞 plunging｜第三人稱單數 plunges｜複數 plunges"
+ },
+ "plunger": {
+  "ph": "/'plʌndʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跳水者, 潛水者, 活塞",
+    "def": "hand tool consisting of a stick with a rubber suction cup at one end; used to clean clogged drains"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 活柱",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 plungers"
+ },
+ "plunging": {
+  "ph": "/'plʌndʒiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "跳進的；突進往下的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plunging｜複數 plungings"
+ },
+ "plunk": {
+  "ph": "/plʌŋk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使發撲通聲, 沉重地墜落",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發撲通聲, 支援",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "使勁投擲, 撲通聲, 撲通落下, 一美元",
+    "def": "a hollow twanging sound"
+   },
+   {
+    "pos": "adv.",
+    "zh": "發出撲通聲, 恰好",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 plunked｜過去式 plunked｜複數 plunks｜現在分詞 plunking｜第三人稱單數 plunks"
+ },
+ "pluperfect": {
+  "ph": "/.plu:'pә:fikt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過去完成時",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "過去完成時的",
+    "def": ""
+   }
+  ]
+ },
+ "plural": {
+  "ph": "/'pluәrәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "複數",
+    "def": "the form of a word that is used to denote more than one"
+   },
+   {
+    "pos": "adj.",
+    "zh": "複數的, 兩個以上的",
+    "def": "composed of more than one member, set, or kind"
+   }
+  ],
+  "forms": "複數 plurals"
+ },
+ "pluralism": {
+  "ph": "/'pluәrәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多數狀態, 多重性, 多元論, 兼任",
+    "def": "a social organization in which diversity of racial or religious or ethnic or cultural groups is tolerated"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 多元論",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pluralisms"
+ },
+ "pluralist": {
+  "ph": "/'pluәrәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兼職者, 多元論者",
+    "def": "a cleric who holds more than one benefice at a time"
+   }
+  ],
+  "forms": "複數 pluralists"
+ },
+ "pluralistic": {
+  "ph": "/.pluәrә'listik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兼職的, 多元論的",
+    "def": "of or relating to the philosophical doctrine of pluralism"
+   }
+  ]
+ },
+ "plurality": {
+  "ph": "/.pluә'rælәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "複數, 較大的數, 多數狀態, 兼職",
+    "def": "the state of being plural"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 大多數, 較多數, 複數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pluralities"
+ },
+ "pluralization": {
+  "ph": "/,pluərəlai'zeiʃən,-li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多元化(pluralize的變形)",
+    "def": "the act of pluralizing or attributing plurality to"
+   }
+  ]
+ },
+ "plus": {
+  "ph": "/plʌs/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "加上, 加, 外加",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "正的, 附加的",
+    "def": "on the positive side or higher end of a scale"
+   },
+   {
+    "pos": "n.",
+    "zh": "正號, 加號, 附加額, 正數, 增益",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 正差",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pluses"
+ },
+ "plush": {
+  "ph": "/plʌʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長毛絨, 長毛絨褲",
+    "def": "a fabric with a nap that is longer and softer than velvet"
+   },
+   {
+    "pos": "adj.",
+    "zh": "長毛絨制的, 豪華的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 plusher｜最高級 plushest"
+ },
+ "plutarch": {
+  "ph": "/'plu:tɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普魯塔克（希臘歷史家）",
+    "def": "Greek biographer who wrote Parallel Lives (46?-120 AD)"
+   }
+  ]
+ },
+ "pluto": {
+  "ph": "/'plu:tәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冥王星, 普路託(冥王)",
+    "def": "a cartoon character created by Walt Disney"
+   }
+  ]
+ },
+ "plutocracy": {
+  "ph": "/plu:'tɒkrәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "富豪統治",
+    "def": "a political system governed by the wealthy people"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 財閥統治, 富豪統治",
+    "def": ""
+   }
+  ]
+ },
+ "plutocrat": {
+  "ph": "/'plu:tәkræt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "富豪, 財閥",
+    "def": "someone who exercises power by virtue of wealth"
+   }
+  ],
+  "forms": "複數 plutocrats"
+ },
+ "plutonium": {
+  "ph": "/plu:'tәuniәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鈽",
+    "def": "a solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is us"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鈽Pu",
+    "def": ""
+   }
+  ]
+ },
+ "ply": {
+  "ph": "/plai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厚度, 板層",
+    "def": "one of the strands twisted together to make yarn or rope or thread; often used in combination"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使用, 使勁揮舞, 從事, 折, 彎",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "辛勤工作, 定期航行",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 plying｜過去式 plied｜過去分詞 plied｜第三人稱單數 plies｜複數 plies"
+ },
+ "plymouth": {
+  "ph": "/'plimәθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普利茅斯（英國一座城市）",
+    "def": "a town in Massachusetts founded by Pilgrims in 1620"
+   }
+  ]
+ },
+ "plyometrics": {
+  "ph": "/plaɪə'metrɪks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肌肉增強訓練",
+    "def": ""
+   }
+  ]
+ },
+ "plywood": {
+  "ph": "/'plaiwud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夾板, 合板",
+    "def": "a laminate made of thin layers of wood"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 層板, 木夾板, 三夾板",
+    "def": ""
+   }
+  ],
+  "forms": "複數 plywoods"
+ }
+}

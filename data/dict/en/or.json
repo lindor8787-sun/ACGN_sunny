@@ -1,0 +1,2263 @@
+{
+ "or": {
+  "ph": "/ɒ:/",
+  "senses": [
+   {
+    "pos": "conj.",
+    "zh": "或, 或者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 或",
+    "def": ""
+   }
+  ]
+ },
+ "oracle": {
+  "ph": "/'ɒ:rәkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神諭, 神諭處, 預言",
+    "def": "a prophecy (usually obscure or allegorical) revealed by a priest or priestess; believed to be infallible"
+   }
+  ],
+  "forms": "複數 oracles"
+ },
+ "oracular": {
+  "ph": "/ɒ:'rækjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神諭的, 神諭似的, 謎似的, 玄妙深奧的",
+    "def": "of or relating to an oracle"
+   }
+  ]
+ },
+ "oral": {
+  "ph": "/'ɒ:rәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "口試",
+    "def": "an examination conducted by spoken communication"
+   },
+   {
+    "pos": "adj.",
+    "zh": "口頭的, 口述的, 口部的",
+    "def": "of or relating to or affecting or for use in the mouth"
+   }
+  ],
+  "forms": "複數 orals"
+ },
+ "orally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "口頭, 口語, 口述, 口, 用口發聲, 口部",
+    "def": ""
+   }
+  ]
+ },
+ "oran": {
+  "ph": "/ɔ:'rɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧蘭（阿爾及利亞一座城市）",
+    "def": "a port city in northwestern Algeria and the country's 2nd largest city"
+   }
+  ]
+ },
+ "orang": {
+  "ph": "/'ɔ:rәŋ. ɔ:'ræŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猩猩（等於orangutan）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orangs｜第三人稱單數 orangs"
+ },
+ "orange": {
+  "ph": "/'ɒ:rindʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柑橘, 桔子, 橘色",
+    "def": "round yellow to orange fruit of any of several citrus trees"
+   },
+   {
+    "pos": "adj.",
+    "zh": "橘色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oranges"
+ },
+ "orangeman": {
+  "ph": "/'ɔrin'dʒmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧蘭治黨員, 橙帶黨員",
+    "def": "a member of a society founded in Ireland in 1795 to uphold Protestantism and the British sovereign"
+   }
+  ],
+  "forms": "複數 orangemen"
+ },
+ "orangery": {
+  "ph": "/'ɒ:rindʒәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橘園, 柑橘溫室",
+    "def": "a place where oranges are grown; a plantation of orange trees in warm climes or a greenhouse in cooler areas"
+   }
+  ],
+  "forms": "複數 orangeries"
+ },
+ "orangey": {
+  "ph": "/'ɔrindʒi;'ɔ:-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(尤指在顏色或滋味方面)似橙的",
+    "def": ""
+   }
+  ]
+ },
+ "orangish": {
+  "ph": "/'ɔ:rɪnɡɪʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "帶橙黃色的",
+    "def": ""
+   }
+  ]
+ },
+ "orangutan": {
+  "ph": "/.ɒ:ræŋ'u:tæn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "猩猩",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 猩猩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orangutans"
+ },
+ "oration": {
+  "ph": "/ɒ:'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演說, 致辭, 引語",
+    "def": "an instance of oratory"
+   }
+  ],
+  "forms": "複數 orations"
+ },
+ "orator": {
+  "ph": "/'ɒ:rәtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演說者, 演講者, 雄辯家, 原告, 請願人",
+    "def": "a person who delivers a speech or oration"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 請願人, 原告, 雄辯者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orators"
+ },
+ "oratorical": {
+  "ph": "/.ɒ:rә'tɒ:rikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "演說的, 雄辯的, 演說家的, 高談闊論的",
+    "def": ""
+   }
+  ]
+ },
+ "oratorio": {
+  "ph": "/,ɔrә'tɔriәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖樂, 清唱劇, 神劇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oratorios"
+ },
+ "oratory": {
+  "ph": "/'ɔrәtәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演講, 雄辯術, 演講術, 雄辯",
+    "def": "addressing an audience formally (usually a long and rhetorical address and often pompous)"
+   }
+  ],
+  "forms": "複數 oratories"
+ },
+ "orb": {
+  "ph": "/ɒ:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "球, 天體, 球狀物",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "成圓形, 成球形",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orbs｜現在分詞 orbing｜過去式 orbed｜第三人稱單數 orbs｜過去分詞 orbed"
+ },
+ "orbit": {
+  "ph": "/'ɒ:bit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軌道, 常軌, 眼眶",
+    "def": "the (usually elliptical) path described by one celestial body in its revolution about another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "繞...軌道而行",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "進入軌道, 盤旋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orbits｜現在分詞 orbiting｜過去式 orbited｜第三人稱單數 orbits｜過去分詞 orbited"
+ },
+ "orbital": {
+  "ph": "/'ɒ:bitәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "軌道的, 眼眶的",
+    "def": "of or relating to an orbit"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 軌道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orbitals"
+ },
+ "orbiter": {
+  "ph": "/'ɒ:bitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軌道飛行器, 人造衛星",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orbiters"
+ },
+ "orbiting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "軌道執行；軌道運動；轉圈（orbit的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 orbiting"
+ },
+ "orc": {
+  "ph": "/ɔ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "虎鯨；樂隊；妖魔（等於orca）",
+    "def": "The grampus."
+   }
+  ],
+  "forms": "複數 orcs"
+ },
+ "orca": {
+  "ph": "/ɔ:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逆戟鯨,類逆戟鯨,魔鬼,獸人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orcas"
+ },
+ "orcadian": {
+  "ph": "/ɔ:'keidiәn, -djәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "英國奧尼克郡(Orkney) 群島的",
+    "def": "Of or pertaining to the Orkney Islands."
+   }
+  ],
+  "forms": "複數 orcadians"
+ },
+ "orchard": {
+  "ph": "/'ɒ:tʃәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "果園, 果樹林",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orchards"
+ },
+ "orchardist": {
+  "ph": "/'ɒ:tʃәdist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "果園主, 果樹栽培者",
+    "def": "One who cultivates an orchard."
+   }
+  ]
+ },
+ "orchestra": {
+  "ph": "/'ɒ:kistrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "管絃樂隊, 樂隊演奏處",
+    "def": "a musical organization consisting of a group of instrumentalists including string players"
+   }
+  ],
+  "forms": "複數 orchestras"
+ },
+ "orchestral": {
+  "ph": "/ɒ:'kestrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "管絃樂隊的",
+    "def": "relating to or composed for an orchestra"
+   }
+  ]
+ },
+ "orchestrate": {
+  "ph": "/'ɒ:kistreit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "編管絃樂曲",
+    "def": "write an orchestra score for"
+   }
+  ],
+  "forms": "過去分詞 orchestrated｜現在分詞 orchestrating｜過去式 orchestrated｜第三人稱單數 orchestrates"
+ },
+ "orchestrated": {
+  "ph": "/ˈɔ:kɪˌstreɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "把（樂曲）編成管絃樂( orchestrate的過去式和過去分詞 ); 和諧地安排, 精心策劃",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 orchestrated｜過去分詞 orchestrated"
+ },
+ "orchestration": {
+  "ph": "/.ɒ:kes'treiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "協調的結合, 管絃樂編曲",
+    "def": "an arrangement of a piece of music for performance by an orchestra or band"
+   }
+  ],
+  "forms": "複數 orchestrations"
+ },
+ "orchestrator": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]管絃樂演奏家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orchestrators"
+ },
+ "orchid": {
+  "ph": "/'ɒ:kid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭花, 淡紫色",
+    "def": "any of numerous plants of the orchid family usually having flowers of unusual shapes and beautiful colors"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蘭科植物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orchids"
+ },
+ "orcs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧克斯（半獸人）",
+    "def": ""
+   }
+  ]
+ },
+ "ord": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "研究與開發處（Office for Research and Development）；運籌學部（Operational Research Division0；旋光色散譜, 旋光分散作用（Optical Rotatory Dispersion）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ords"
+ },
+ "ordain": {
+  "ph": "/ɒ:'dein/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "註定, 規定, 任命",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "頒佈命令",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ordained｜現在分詞 ordaining｜過去式 ordained｜第三人稱單數 ordains｜複數 ordains"
+ },
+ "ordained": {
+  "ph": "/ɔ:ˈdeɪnd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "任命（某人）為牧師( ordain的過去式和過去分詞 ); 授予（某人）聖職; （上帝、法律等）命令; 判定",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ordained｜過去式 ordained"
+ },
+ "ordeal": {
+  "ph": "/ɒ:'di:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嚴酷考驗, 痛苦經歷, 煎熬",
+    "def": "a severe or trying experience"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 神裁判法, 嚴酷的考驗, 痛苦的經驗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ordeals"
+ },
+ "order": {
+  "ph": "/'ɒ:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "次序, 規則, 命令",
+    "def": "(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed"
+   },
+   {
+    "pos": "vi.",
+    "zh": "命令, 定貨",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "整理, 命令, 定購",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "順序, 階數",
+    "def": "a degree in a continuum of size or quantity"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 順序, 階數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orders｜過去分詞 ordered｜過去式 ordered｜現在分詞 ordering｜第三人稱單數 orders"
+ },
+ "ordered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "安排好的, 有規律的, 有條理的, 整齊的",
+    "def": "having a systematic arrangement; especially having elements succeeding in order according to rule"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 順序的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ordered｜過去分詞 ordered"
+ },
+ "ordering": {
+  "ph": "/'ɔ:dәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有序化",
+    "def": "logical or comprehensible arrangement of separate elements"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 定序; 排序",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ordering｜複數 orderings"
+ },
+ "orderliness": {
+  "ph": "/'ɒ:dәlinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "整齊狀態, 條理性, 秩序井然",
+    "def": "the quality of appreciating method and system"
+   }
+  ]
+ },
+ "orderly": {
+  "ph": "/'ɒ:dәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有秩序的, 整齊的, 值班的",
+    "def": "devoid of violence or disruption"
+   },
+   {
+    "pos": "n.",
+    "zh": "護理員, 清道夫, 傳令兵, 勤務兵",
+    "def": "a soldier who serves as an attendant to a superior officer"
+   },
+   {
+    "pos": "adv.",
+    "zh": "依次地, 順序地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orderlies"
+ },
+ "ordinal": {
+  "ph": "/'ɒ:dinәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "序數",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "順序的, 依次的",
+    "def": "of or relating to a taxonomic order"
+   }
+  ],
+  "forms": "複數 ordinals"
+ },
+ "ordinance": {
+  "ph": "/'ɒ:dinәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法令, 條例, 聖餐禮",
+    "def": "a statute enacted by a city government"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 法令, 條款, 條例",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ordinances"
+ },
+ "ordinarily": {
+  "ph": "/'ɒ:dinәrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "通常, 普通, 一般地",
+    "def": ""
+   }
+  ]
+ },
+ "ordinariness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平凡；平常(ordinary的變形)",
+    "def": "the quality of being commonplace and ordinary"
+   }
+  ]
+ },
+ "ordinary": {
+  "ph": "/'ɒ:dinәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平常的, 普通的, 平凡的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "平常的人(或事)",
+    "def": "a judge of a probate court"
+   }
+  ],
+  "forms": "複數 ordinaries"
+ },
+ "ordinate": {
+  "ph": "/'ɒ:dineit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縱線, 縱座標",
+    "def": "the value of a coordinate on the vertical axis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 縱座標",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ordinates｜過去式 ordinated｜現在分詞 ordinating"
+ },
+ "ordination": {
+  "ph": "/.ɒ:di'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "任命, 授神職(禮), 頒佈法令, 排列",
+    "def": "the status of being ordained to a sacred office"
+   }
+  ],
+  "forms": "複數 ordinations"
+ },
+ "ordinator": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]苯？唑酮[中樞興奮藥]",
+    "def": ""
+   }
+  ]
+ },
+ "ordnance": {
+  "ph": "/'ɒ:dnәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大炮, 軍械, 武器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ordnances"
+ },
+ "ordo": {
+  "ph": "/'ɔ:dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(天主教的)教會曆書( 記載每天的禮拜式和全年節日等)",
+    "def": ""
+   }
+  ]
+ },
+ "ordovician": {
+  "ph": "/.ɒ:dәu'viʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧陶紀, 奧陶系",
+    "def": "from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds"
+   },
+   {
+    "pos": "adj.",
+    "zh": "奧陶紀的",
+    "def": ""
+   }
+  ]
+ },
+ "ordure": {
+  "ph": "/'ɒ:.djuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汙物, 排洩物, 糞, 下流話",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排洩物, 糞便",
+    "def": ""
+   }
+  ]
+ },
+ "ore": {
+  "ph": "/ɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "礦石",
+    "def": "a mineral that contains metal that is valuable enough to be mined"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 礦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ores"
+ },
+ "oregano": {
+  "ph": "/ɔ:'re^әnәu, ә-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "〈植〉牛至",
+    "def": "aromatic Eurasian perennial"
+   }
+  ]
+ },
+ "oregon": {
+  "ph": "/'ɒ:rigɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俄勒岡",
+    "def": "a state in northwestern United States on the Pacific"
+   }
+  ]
+ },
+ "oregonian": {
+  "ph": "/.ɒ:ri'gәuniәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "俄勒岡的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "俄勒岡人",
+    "def": "a native or resident of Oregon"
+   }
+  ]
+ },
+ "orestes": {
+  "ph": "/ɔ'resti:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[希神]俄瑞斯忒斯 (Agamemnon 之子)",
+    "def": "(Greek mythology) the son of Agamemnon and Clytemnestra; his sister Electra persuaded him to avenge Agamemnon's death by killing Clytemnestra and Aegisthus"
+   }
+  ]
+ },
+ "orf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 可譯框架",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 羊傳染性口瘡, 觸染性深膿皰, 羊痘瘡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orfs"
+ },
+ "orfe": {
+  "ph": "/ɔ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[魚]圓腹雅羅魚(一種觀賞魚)",
+    "def": "A bright-colored domesticated variety of the id. See Id."
+   }
+  ],
+  "forms": "複數 orfes"
+ },
+ "orford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Orford)人名；(英、西)奧福德",
+    "def": ""
+   }
+  ]
+ },
+ "organ": {
+  "ph": "/'ɒ:gәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風琴, 器官, 元件, 機構, 機關",
+    "def": "a fully differentiated structural and functional unit in an animal that is specialized for some particular function"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 風琴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organs"
+ },
+ "organdy": {
+  "ph": "/'ɔ:^әndi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(=organdie) n.一種細薄的棉織品",
+    "def": ""
+   }
+  ]
+ },
+ "organelle": {
+  "ph": "/.ɒ:gә'nel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細胞器",
+    "def": "a specialized part of a cell; analogous to an organ"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 細胞器, 小器官",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organelles"
+ },
+ "organic": {
+  "ph": "/ɒ:'gænik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "器官的, 有機的, 組織的, 根本的",
+    "def": "relating or belonging to the class of chemical compounds having a carbon basis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 器官的, 有生命的, 有機的, 器質的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organics"
+ },
+ "organically": {
+  "ph": "/ɒ:'gænikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有機性地, 器官上地, 有組織地",
+    "def": ""
+   }
+  ]
+ },
+ "organisation": {
+  "ph": "/,ɔ: ^әnaizeiʃən; - ni'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "組織, 團體, 體制, 編制",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organisations"
+ },
+ "organisational": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "organise的變形",
+    "def": ""
+   }
+  ]
+ },
+ "organisationally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "organise的變形",
+    "def": ""
+   }
+  ]
+ },
+ "organise": {
+  "ph": "/'ɒ:gәnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "組織, 有機化, 給予生機",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 organised｜現在分詞 organising｜過去式 organised｜第三人稱單數 organises"
+ },
+ "organised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有組織的, 組織起來的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 organised｜過去式 organised"
+ },
+ "organiser": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 組織者, 創立人, 發起人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organisers"
+ },
+ "organising": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "組織",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 organising"
+ },
+ "organism": {
+  "ph": "/'ɒ:gәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物, 有機體, 社會組織",
+    "def": "a living thing that has (or can develop) the ability to act or function independently"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生物[體],[有]機體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organisms"
+ },
+ "organismal": {
+  "ph": "/ɔ:^ә'nizmәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "有機體的, 生物的",
+    "def": ""
+   }
+  ]
+ },
+ "organismic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]有機體的, 生物的",
+    "def": ""
+   }
+  ]
+ },
+ "organist": {
+  "ph": "/'ɒ:gәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風琴彈奏者",
+    "def": "a person who plays an organ"
+   }
+  ],
+  "forms": "複數 organists"
+ },
+ "organization": {
+  "ph": "/.ɒ:gәnai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "組織, 結構, 團體, 體制",
+    "def": "a group of people who work together"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 組織, 機構, 機化(血栓或壞死組織)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organizations"
+ },
+ "organizational": {
+  "ph": "/.ɒ:gәnai'zeiʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "組織的",
+    "def": "of or relating to an organization"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 組織的, 編制的, 機構的",
+    "def": ""
+   }
+  ]
+ },
+ "organizationally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "organizational的變形",
+    "def": ""
+   }
+  ]
+ },
+ "organize": {
+  "ph": "/'ɒ:gәnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "組織, 有機化, 給予生機",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "組織起來",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 organized｜現在分詞 organizing｜過去式 organized｜第三人稱單數 organizes"
+ },
+ "organized": {
+  "ph": "/'ɔ:^әnaizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有組織的, 組織起來的",
+    "def": "formed into a structured or coherent whole"
+   }
+  ],
+  "forms": "過去分詞 organized｜過去式 organized"
+ },
+ "organized crime": {
+  "ph": "/ˈɔ:ɡənaizd kraɪm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "有組織的罪行, 犯罪集團（的活動）",
+    "def": ""
+   }
+  ]
+ },
+ "organizer": {
+  "ph": "/'ɒ:gәnaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "組織者, 編制者, 創立者, 組織導體",
+    "def": "a person who brings order and organization to an enterprise"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 組織導體, 機化中心(胚)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organizers"
+ },
+ "organizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 組織",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 organizing"
+ },
+ "organochlorine": {
+  "ph": "/,ɔ:^әnәj'klɔ:ri:n,ɔ:,^ænә-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "& adj.有機氯(的), 有機氯殺蟲劑(的)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organochlorines"
+ },
+ "organophosphate": {
+  "ph": "/,ɔ:^әnәu'fɔsfeit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 有機磷酸酯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 organophosphates"
+ },
+ "organza": {
+  "ph": "/ɒ:'gænzә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "透明硬紗",
+    "def": "a fabric made of silk or a silklike fabric that resembles organdy"
+   }
+  ]
+ },
+ "orgasm": {
+  "ph": "/'ɒ:gæzm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "極度興奮, 興奮的高潮, (感情等的)爆發",
+    "def": "the moment of most intense pleasure in sexual intercourse"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 性慾高潮, 性樂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orgasms｜過去式 orgasmed｜第三人稱單數 orgasms"
+ },
+ "orgasmic": {
+  "ph": "/ɔ:ˈgæzmɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "性高潮的; 令人非常愉悅的；使人極為興奮的",
+    "def": ""
+   }
+  ]
+ },
+ "orgiastic": {
+  "ph": "/.ɒ:dʒi'æstik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狂歡的",
+    "def": ""
+   }
+  ]
+ },
+ "orgy": {
+  "ph": "/'ɔ:dʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無節制, 狂歡, 縱酒宴樂, 放蕩",
+    "def": "any act of immoderate indulgence"
+   }
+  ],
+  "forms": "複數 orgies"
+ },
+ "oriel": {
+  "ph": "/'ɔ:riәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[建]凸出壁外的窗,凸肚窗",
+    "def": "a projecting bay window corbeled or cantilevered out from a wall"
+   }
+  ],
+  "forms": "複數 oriels"
+ },
+ "orient": {
+  "ph": "/'ɒ:riәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東方, 東方諸國",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "東方的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "向東",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使朝東, 使適應, 確定方向",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 oriented｜過去分詞 oriented｜現在分詞 orienting｜第三人稱單數 orients"
+ },
+ "oriental": {
+  "ph": "/.ɒ:ri'entl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東方人, 亞洲人",
+    "def": "a member of an Oriental race; the term is regarded as offensive by Asians (especially by Asian Americans)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "東方諸國的, 亞洲的, 東方的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orientals"
+ },
+ "orientalism": {
+  "ph": "/.ɒ:ri'entәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東方式, 東方語風格, 東方知識, 東方學",
+    "def": "the scholarly knowledge of Asian cultures and languages and people"
+   }
+  ]
+ },
+ "orientalist": {
+  "ph": "/.ɒ:ri'entәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東方通, 研究東方學者",
+    "def": "a specialist in oriental subjects"
+   }
+  ],
+  "forms": "複數 orientalists"
+ },
+ "orientate": {
+  "ph": "/'ɔ:rienteit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "向東, 朝向",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 orientated｜現在分詞 orientating｜第三人稱單數 orientates｜過去式 orientated"
+ },
+ "orientated": {
+  "ph": "/ˈɔ:ri:enˌteɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "朝向( orientate的過去式和過去分詞 ); 面向; 確定方向; 使適應",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 orientated"
+ },
+ "orientation": {
+  "ph": "/.ɒ:rien'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "定方位, 適應, 向東方",
+    "def": "the act of orienting"
+   },
+   {
+    "pos": "n.",
+    "zh": "方向",
+    "def": "an integrated set of attitudes and beliefs"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 方向",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orientations"
+ },
+ "oriented": {
+  "ph": "/'ɒ:rientid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "導向的",
+    "def": "adjusted or located in relation to surroundings or circumstances; sometimes used in combination"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 定向的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 oriented｜過去分詞 oriented"
+ },
+ "orienteer": {
+  "ph": "/,ɔ:rien'tiә(r),,әj-/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "進行定向賽跑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orienteers｜現在分詞 orienteering"
+ },
+ "orienteering": {
+  "ph": "/.ɒ:rien'tiәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "定向越野比賽",
+    "def": ""
+   }
+  ]
+ },
+ "orienting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 確定方向",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 orienting"
+ },
+ "orifice": {
+  "ph": "/'ɒrifis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孔口",
+    "def": "an aperture or hole that opens into a bodily cavity"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 口, 管口",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orifices"
+ },
+ "origami": {
+  "ph": "/,ɔ:ri'^ɑ:mi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Jap.) 摺紙手工",
+    "def": "the Japanese art of folding paper into shapes representing objects (e.g., flowers or birds)"
+   }
+  ],
+  "forms": "複數 origami"
+ },
+ "origin": {
+  "ph": "/'ɒridʒin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "起源, 起因, 出身, 開端",
+    "def": "properties attributable to your ancestry"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 原點; 起始地址; 信件來源的相關資料",
+    "def": ""
+   }
+  ],
+  "forms": "複數 origins"
+ },
+ "original": {
+  "ph": "/ә'ridʒәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最初的, 原始的, 有創意的",
+    "def": "being or productive of something fresh and unusual; or being as first made or thought of"
+   },
+   {
+    "pos": "n.",
+    "zh": "原物, 原作",
+    "def": "something that serves as a model or a basis for making copies"
+   }
+  ],
+  "forms": "複數 originals"
+ },
+ "originalism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "原意主義",
+    "def": ""
+   }
+  ]
+ },
+ "originality": {
+  "ph": "/ә.ridʒә'næliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "創意, 新奇, 獨創能力, 原始",
+    "def": "the ability to think and act independently"
+   }
+  ],
+  "forms": "複數 originalities"
+ },
+ "originally": {
+  "ph": "/ә'ridʒәnli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "本來, 原來, 最初, 就起源而論, 獨創地",
+    "def": ""
+   }
+  ]
+ },
+ "originate": {
+  "ph": "/ә'ridʒineit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "創始, 發明, 發起",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發源, 發生, 起航",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 發自",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 originated｜現在分詞 originating｜過去式 originated｜第三人稱單數 originates"
+ },
+ "originating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 起源, 始發, 發信",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 originating"
+ },
+ "origination": {
+  "ph": "/ә.ridʒi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開始, 起始, 起源",
+    "def": ""
+   }
+  ],
+  "forms": "複數 originations"
+ },
+ "originator": {
+  "ph": "/ә'ridʒәneitә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "創始人, 發明者, 起源, 起因, 來源",
+    "def": "someone who creates new things"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 源發站, 始發站, 始發者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 originators"
+ },
+ "orinoco": {
+  "ph": "/,ɔri'nәjkәj/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧裡諾科河[南美洲北部]",
+    "def": ""
+   }
+  ]
+ },
+ "oriole": {
+  "ph": "/'ɒ:riәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金黃鸝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orioles"
+ },
+ "orion": {
+  "ph": "/әu'raiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俄裡翁(希臘神話人物), 獵戶星座",
+    "def": "(Greek mythology) a giant Boeotian hunter who pursued the Pleiades and was eventually slain by Artemis; was then placed in the sky as a constellation"
+   }
+  ]
+ },
+ "orkney": {
+  "ph": "/'ɔ:kni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧克尼群島；奧克尼（蘇格蘭東北方群島）",
+    "def": ""
+   }
+  ]
+ },
+ "orlando": {
+  "ph": "/ɔ:'lændәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧蘭多（美國城市名, 男子名）",
+    "def": "a city in central Florida; site of Walt Disney World"
+   }
+  ]
+ },
+ "orleans": {
+  "ph": "/ɔ:'liәnz, 'ɔ:l-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧爾良（法國城市）",
+    "def": "a city on the Loire river in north central France; site of the siege of Orleans by the English (1428-1429)"
+   }
+  ]
+ },
+ "orme": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Orme)人名；(英、法)奧姆",
+    "def": ""
+   }
+  ]
+ },
+ "ormerod": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ormerod)人名；(英)奧默羅德",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ormerods"
+ },
+ "ormolu": {
+  "ph": "/'ɒ:mәlu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銅鋅錫合金, 鍍金物, 仿金箔",
+    "def": "brass that looks like gold; used to decorate furniture"
+   }
+  ]
+ },
+ "ormond": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ormond)人名；(英、意)奧蒙德；(法)奧蒙",
+    "def": ""
+   }
+  ]
+ },
+ "ormskirk": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧姆斯柯克",
+    "def": ""
+   }
+  ]
+ },
+ "ornament": {
+  "ph": "/'ɒ:nәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝飾, 點綴品, 教堂用品",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝飾, 修飾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ornaments｜過去分詞 ornamented｜現在分詞 ornamenting｜過去式 ornamented｜第三人稱單數 ornaments"
+ },
+ "ornamental": {
+  "ph": "/.ɒ:nә'mentl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝飾物, 觀賞植物",
+    "def": "any plant grown for its beauty or ornamental value"
+   },
+   {
+    "pos": "adj.",
+    "zh": "裝飾性的, 裝飾的, 觀賞用的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ornamentals"
+ },
+ "ornamentation": {
+  "ph": "/,ɔ:nәmen'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝飾, 裝飾術, 裝飾品, 修飾",
+    "def": "the state of being ornamented"
+   }
+  ],
+  "forms": "複數 ornamentations"
+ },
+ "ornamented": {
+  "ph": "/'ɔ:nəməntɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "花式字型的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "裝飾, 點綴, 美化( ornament的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ornamented"
+ },
+ "ornate": {
+  "ph": "/ɒ:'neit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裝飾的, 華麗的",
+    "def": ""
+   }
+  ]
+ },
+ "ornately": {
+  "ph": "/ɔ:'neitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "裝飾過分地；詞藻華麗地",
+    "def": ""
+   }
+  ]
+ },
+ "orneriness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不合作；故意刁難（ornery的名詞）",
+    "def": ""
+   }
+  ]
+ },
+ "ornery": {
+  "ph": "/'ɒ:nәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "下等的, 低劣的, 脾氣壞的, 故意刁難的",
+    "def": ""
+   }
+  ]
+ },
+ "ornithological": {
+  "ph": "/.ɒ:niθә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鳥類學的",
+    "def": "of or relating to ornithology"
+   }
+  ]
+ },
+ "ornithologist": {
+  "ph": "/.ɒ:ni'θɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥類學者",
+    "def": "a zoologist who studies birds"
+   }
+  ],
+  "forms": "複數 ornithologists"
+ },
+ "ornithology": {
+  "ph": "/.ɒ:ni'θɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥類學",
+    "def": "the branch of zoology that studies birds"
+   }
+  ]
+ },
+ "oro": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧羅（甘藍型低芥酸品牌名）",
+    "def": ""
+   }
+  ]
+ },
+ "orogen": {
+  "ph": "/'ɔ:rәdʒin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "造山帶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orogens"
+ },
+ "orogeny": {
+  "ph": "/ɒ:'rɒdʒini/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "造山運動, 造山作用",
+    "def": "the process of mountain formation (especially by the upward displacement of the earth's crust)"
+   }
+  ],
+  "forms": "複數 orogenies"
+ },
+ "orographic": {
+  "ph": "/ˌɒrəˈgræfɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "地形的, 山嶽形態的",
+    "def": ""
+   }
+  ]
+ },
+ "oropharyngeal": {
+  "ph": "/'ɔ:rәj,færin'dʒi:әl, ,ɔ:rәjfә'rindʒiәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 口咽的",
+    "def": ""
+   }
+  ]
+ },
+ "oropharynx": {
+  "ph": "/,әurә'færiŋks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 口咽",
+    "def": ""
+   }
+  ]
+ },
+ "orotund": {
+  "ph": "/'ɒ:rәutʌnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "朗朗的, 誇大的, 做作的",
+    "def": ""
+   }
+  ]
+ },
+ "orphan": {
+  "ph": "/'ɒ:fәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孤兒",
+    "def": "a child who has lost both parents"
+   },
+   {
+    "pos": "adj.",
+    "zh": "無雙親的, 孤兒的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成孤兒",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 弧體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orphans｜現在分詞 orphaning｜過去式 orphaned｜第三人稱單數 orphans｜過去分詞 orphaned"
+ },
+ "orphanage": {
+  "ph": "/'ɒ:fәnidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孤兒院, 孤兒身份",
+    "def": "the condition of being a child without living parents"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 孤兒身份, 孤兒, 孤兒院",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orphanages"
+ },
+ "orphaned": {
+  "ph": "/ˈɔ:fənd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計][修]孤立",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 orphaned"
+ },
+ "orpheus": {
+  "ph": "/'ɒ:fiәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧菲士(希臘神話人物)",
+    "def": "(Greek mythology) a great musician; when his wife Eurydice died he went to Hades to get her back but failed"
+   }
+  ]
+ },
+ "orphic": {
+  "ph": "/'ɒ:fik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奧菲士的, 奧菲士教的, 神秘的",
+    "def": "ascribed to Orpheus or characteristic of ideas in works ascribed to Orpheus"
+   }
+  ]
+ },
+ "orpington": {
+  "ph": "/'ɒ:piŋtәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧爾平頓雞",
+    "def": "English breed of large chickens with white skin"
+   }
+  ]
+ },
+ "orr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "整體反應率（The Overall Response Rate）；氧還原反應（Oxygen Reduction Reaction）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orrs"
+ },
+ "orson": {
+  "ph": "/'ɔ:sәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧森(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "ortega": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧爾特加（人名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "奧爾特加（地名, 阿根廷、哥倫比亞）",
+    "def": ""
+   }
+  ]
+ },
+ "orthodontia": {
+  "ph": "/,ɔ:θәu'dɔnʃiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正牙學, 畸齒校整術",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 正牙學",
+    "def": ""
+   }
+  ]
+ },
+ "orthodontic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 牙正常的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orthodontics"
+ },
+ "orthodontics": {
+  "ph": "/,ɔ:θәu'dɔntiks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 正牙學",
+    "def": ""
+   }
+  ]
+ },
+ "orthodontist": {
+  "ph": "/,ɔ:θәj'dɔntist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畸齒校整醫生",
+    "def": "a dentist specializing in the prevention or correction of irregularities of the teeth"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 正牙學家",
+    "def": ""
+   }
+  ]
+ },
+ "orthodox": {
+  "ph": "/'ɒ:θәdɒks/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "正統的, 傳統的, 慣常的",
+    "def": "of or pertaining to or characteristic of Judaism"
+   }
+  ]
+ },
+ "orthodoxy": {
+  "ph": "/'ɒ:θәdɒksi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正統說法, 正教, 信奉正教",
+    "def": "the quality of being orthodox (especially in religion)"
+   }
+  ],
+  "forms": "複數 orthodoxies"
+ },
+ "orthogonal": {
+  "ph": "/ɒ:'θɒgәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "直角的, 正交的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "正交直線, 矩形面",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orthogonals"
+ },
+ "orthographic": {
+  "ph": "/,ɔ:θә'^ræfik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 正射的",
+    "def": ""
+   }
+  ]
+ },
+ "orthography": {
+  "ph": "/ɒ:'θɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正確拼字, 拼字法, 正字法",
+    "def": "a method of representing the sounds of a language by written or printed symbols"
+   }
+  ],
+  "forms": "複數 orthographies"
+ },
+ "orthomolecular": {
+  "ph": "/,ɔ:θәjmәj'lekjjlә(r)/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[醫]調整分子(法)的",
+    "def": ""
+   }
+  ]
+ },
+ "orthopaedic": {
+  "ph": "/,ɔ:θәu'pi:dik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "整形術的, 整形學的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orthopaedics"
+ },
+ "orthopaedics": {
+  "ph": "/,ɔ:θәu'pi:diks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矯形術, 矯形外科學, 矯形學, 矯正術",
+    "def": ""
+   }
+  ]
+ },
+ "orthopedic": {
+  "ph": "/,ɔ:θәu'pi:dik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "整形術的, 整形學的",
+    "def": "of or relating to orthopedics"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 矯形的, 矯正的, 矯形外科的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 orthopedics"
+ },
+ "orthopedics": {
+  "ph": "/,ɔ:θәu'pi:diks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矯形術, 矯形外科學, 矯形學, 矯正術",
+    "def": "the branch of medical science concerned with disorders or deformities of the spine and joints"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 矯形外科學",
+    "def": ""
+   }
+  ]
+ },
+ "orthopedist": {
+  "ph": "/,ɔ:θәj'pi:dist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 矯形外科醫師",
+    "def": ""
+   }
+  ]
+ },
+ "orthoses": {
+  "ph": "/'ɔ:thəʊsɪz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矯形器",
+    "def": ""
+   }
+  ]
+ },
+ "orthosis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 整直法, 矯正法",
+    "def": ""
+   }
+  ]
+ },
+ "orthostatic": {
+  "ph": "/,ɔ:θәu'stætik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 直立的, 直體的",
+    "def": ""
+   }
+  ]
+ },
+ "orthotic": {
+  "ph": "/ɔ:'θɔtik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 整直的, 矯正的",
+    "def": ""
+   }
+  ]
+ },
+ "ortiz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ortiz)人名；(英、法、意、西、葡)奧爾蒂斯",
+    "def": ""
+   }
+  ]
+ },
+ "orton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧頓",
+    "def": ""
+   }
+  ]
+ },
+ "orvieto": {
+  "ph": "/,ɔ:vi'eitәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧維多白葡萄酒(產於義大利中部翁布里亞山區)",
+    "def": ""
+   }
+  ]
+ },
+ "orville": {
+  "ph": "/'ɔ:vil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧維爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "orwell": {
+  "ph": "/'ɔ:wәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧威爾（姓氏）",
+    "def": "imaginative British writer concerned with social justice (1903-1950)"
+   }
+  ]
+ },
+ "orwellian": {
+  "ph": "/ɔ:'weliәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "George Orwell的筆調或用字的, 受嚴格統治而失去人性的社會, 贊成上述社會的人",
+    "def": ""
+   }
+  ]
+ },
+ "oryx": {
+  "ph": "/'ɒ:riks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大羚羊",
+    "def": "large African antelope with long straight nearly upright horns"
+   }
+  ],
+  "forms": "複數 oryxes"
+ },
+ "orzo": {
+  "ph": "/'ɔ:zәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[總稱]米粒狀麵食",
+    "def": "pasta shaped like pearls of barley; frequently prepared with lamb in Greek cuisine"
+   }
+  ]
+ }
+}

@@ -1,0 +1,998 @@
+{
+ "ec": {
+  "ph": "/ek/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 電子計算機, 模擬器控制, 工程更改, 錯誤糾正",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 歐市",
+    "def": ""
+   }
+  ]
+ },
+ "ecc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 錯誤檢驗與控制, 糾錯碼",
+    "def": ""
+   }
+  ]
+ },
+ "eccentric": {
+  "ph": "/ik'sentrik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "怪人, 偏心圓",
+    "def": "a person with an unusual or odd personality"
+   },
+   {
+    "pos": "adj.",
+    "zh": "古怪的, 反常的, 不同圓心的",
+    "def": "not having a common center; not concentric"
+   }
+  ],
+  "forms": "複數 eccentrics"
+ },
+ "eccentrically": {
+  "ph": "/ik'sentrikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "離開中心, 反常地",
+    "def": ""
+   }
+  ]
+ },
+ "eccentricity": {
+  "ph": "/.eksen'trisiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古怪, 古怪行為, 怪癖",
+    "def": "strange and unconventional behavior"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 偏心度; 偏心距; 偏心率",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eccentricities"
+ },
+ "eccles": {
+  "ph": "/'eklz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾克爾斯（男子名）",
+    "def": "Australian physiologist noted for his research on the conduction of impulses by nerve cells (1903-1997)"
+   }
+  ]
+ },
+ "ecclesial": {
+  "ph": "/i'kli:ziәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "教會(機構)的",
+    "def": "Ecclesiastical."
+   }
+  ]
+ },
+ "ecclesiastes": {
+  "ph": "/i,kli:zi'æsti:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[宗]傳道書",
+    "def": "an Old Testament book consisting of reflections on the vanity of human life; is traditionally attributed to Solomon but probably was written about 250 BC"
+   }
+  ]
+ },
+ "ecclesiastic": {
+  "ph": "/i.kli:zi'æstik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神職人員, 牧師, 傳教士",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "神職者的, 牧師的, 教會的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecclesiastics"
+ },
+ "ecclesiastical": {
+  "ph": "/i.kli:zi'æstikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "教會的, 神職的, 牧師的",
+    "def": "of or associated with a church (especially a Christian Church)"
+   }
+  ]
+ },
+ "ecclesiological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "教會的",
+    "def": ""
+   }
+  ]
+ },
+ "ecclesiology": {
+  "ph": "/i.kli:zi'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教會學, 教會建築學",
+    "def": "the branch of theology concerned with the nature and the constitution and the functions of a church"
+   }
+  ]
+ },
+ "ecclestone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃克爾斯通（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "ecdysis": {
+  "ph": "/'ekdisis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛻皮, 蛻化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蛻皮, 換羽",
+    "def": ""
+   }
+  ]
+ },
+ "ecg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "心電圖",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 心[動]電[流]圖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecgs"
+ },
+ "echelon": {
+  "ph": "/'eʃәlɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梯形, 梯陣, 梯次編隊",
+    "def": "a body of troops arranged in a line"
+   },
+   {
+    "pos": "vt.",
+    "zh": "排成梯隊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "形成梯隊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 echelons｜過去式 echeloned"
+ },
+ "echinacea": {
+  "ph": "/,ekә'neiʃiә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 松果菊屬",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 紫錐花屬",
+    "def": ""
+   }
+  ]
+ },
+ "echinoderm": {
+  "ph": "/i'kainәdә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "棘皮動物",
+    "def": "marine invertebrates with tube feet and five-part radially symmetrical bodies"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 棘皮動物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 echinoderms"
+ },
+ "echo": {
+  "ph": "/'ekәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "回聲, 迴音, 回波",
+    "def": "the repetition of a sound resulting from reflection of the sound waves"
+   },
+   {
+    "pos": "vi.",
+    "zh": "發回聲, 隨聲附和",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "摹仿, 重複, 反射",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 回顯; DOS批處理命令:控制MS-DOS命令是否在螢幕上顯示",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 echoed｜複數 echoes｜過去分詞 echoed｜現在分詞 echoing｜第三人稱單數 echoes"
+ },
+ "echocardiogram": {
+  "ph": "/'ekәj'kɑ:diә^ræm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "心回波圖, 超聲波心動圖",
+    "def": "a graphical image of the heart produced by an echocardiograph"
+   }
+  ],
+  "forms": "複數 echocardiograms"
+ },
+ "echoey": {
+  "ph": "/'ekəʊiː/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "共鳴",
+    "def": ""
+   }
+  ]
+ },
+ "echoing": {
+  "ph": "/'ekәuiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迴音；反照現象；呼應",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 echoing｜複數 echoings"
+ },
+ "echolalia": {
+  "ph": "/,ekәu'leiliә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 模仿言語",
+    "def": ""
+   }
+  ]
+ },
+ "echolocation": {
+  "ph": "/ekәjlәj'keiʃ(ә)n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 回聲測定",
+    "def": ""
+   }
+  ]
+ },
+ "eclair": {
+  "ph": "/ɪˈkleə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<法>一種指形小餅（糖霜衣, 乳酪餡）",
+    "def": "oblong cream puff"
+   }
+  ],
+  "forms": "複數 eclairs"
+ },
+ "eclat": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大成功, 喝采",
+    "def": "brilliant or conspicuous success or effect"
+   }
+  ]
+ },
+ "eclectic": {
+  "ph": "/ek'lektik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "折衷主義者",
+    "def": "someone who selects according to the eclectic method"
+   },
+   {
+    "pos": "adj.",
+    "zh": "選擇的, 折衷的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eclectics"
+ },
+ "eclecticism": {
+  "ph": "/ek'lektisizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "折衷派, 折衷主義, 折衷說",
+    "def": "making decisions on the basis of what seems best instead of following some single doctrine or style"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 折衷[主義]醫學",
+    "def": ""
+   }
+  ]
+ },
+ "eclipse": {
+  "ph": "/i'klips/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日食, 月食, (地位名譽等的)消失",
+    "def": "one celestial body obscures another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "引起日食, 引起月食, 使黯然失色",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 eclipsed｜複數 eclipses｜過去式 eclipsed｜現在分詞 eclipsing｜第三人稱單數 eclipses"
+ },
+ "eclipsing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "重疊（eclipse的現在分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 eclipsing"
+ },
+ "ecliptic": {
+  "ph": "/i'kliptik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃道",
+    "def": "the great circle representing the apparent annual path of the sun; the plane of the Earth's orbit around the sun; makes an angle of about 23 degrees with the eq"
+   },
+   {
+    "pos": "adj.",
+    "zh": "黃道的, 食的",
+    "def": ""
+   }
+  ]
+ },
+ "eclogue": {
+  "ph": "/'eklɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牧歌, 田園詩",
+    "def": "a short poem descriptive of rural or pastoral life"
+   }
+  ],
+  "forms": "複數 eclogues"
+ },
+ "eco": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "電子耦合振盪器（Electron-Coupled Oscillator）；環境控制組織（Environmental Control Organization）；經濟合作組織（Economic Cooperation Organization）",
+    "def": ""
+   }
+  ]
+ },
+ "ecocentric": {
+  "ph": "/,ekə'sentrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生態中心的",
+    "def": ""
+   }
+  ]
+ },
+ "ecole": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ecole)人名；(法)埃科勒",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "初期教會的線上百科全書（Early Church On-line Encyclopedia）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecoles"
+ },
+ "ecoli": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "大腸（杆）菌（產生於大腸的桿狀菌）",
+    "def": ""
+   }
+  ]
+ },
+ "ecologic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生態的, 生態學的",
+    "def": ""
+   }
+  ]
+ },
+ "ecological": {
+  "ph": "/.i:kә'lɒdʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生態學的, 主張生態保護的",
+    "def": "characterized by the interdependence of living organisms in an environment"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 生態的, 生態學的",
+    "def": ""
+   }
+  ]
+ },
+ "ecologically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "從生態學的觀點看",
+    "def": ""
+   }
+  ]
+ },
+ "ecologist": {
+  "ph": "/i:'kɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生態學者",
+    "def": "a biologist who studies the relation between organisms and their environment"
+   }
+  ],
+  "forms": "複數 ecologists"
+ },
+ "ecology": {
+  "ph": "/i:'kɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生態學, 社會生態學",
+    "def": "the environment as it relates to living organisms"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生態學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecologies"
+ },
+ "econometric": {
+  "ph": "/i,kɔnә'metrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "計量經濟學的",
+    "def": "of or relating to econometrics"
+   }
+  ],
+  "forms": "複數 econometrics"
+ },
+ "econometrics": {
+  "ph": "/i.kɒnә'metriks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計量經濟學",
+    "def": "the application of mathematics and statistics to the study of economic and financial data"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 計量經濟學",
+    "def": ""
+   }
+  ]
+ },
+ "economic": {
+  "ph": "/.i:kә'nɒmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "經濟上的, 實用的, 節省的",
+    "def": "of or relating to an economy, the system of production and management of material wealth"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 經濟的",
+    "def": ""
+   }
+  ]
+ },
+ "economical": {
+  "ph": "/.i:kә'nɒmikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "節儉的, 經濟的, 合算的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 經濟的, 節約的",
+    "def": ""
+   }
+  ]
+ },
+ "economically": {
+  "ph": "/i:kә'nɔmikәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "節約地, 不浪費地, 節省地, 節儉地, 在經濟上, 在經濟學上",
+    "def": ""
+   }
+  ]
+ },
+ "economics": {
+  "ph": "/.i:kә'nɒmiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經濟學",
+    "def": "the branch of social science that deals with the production and distribution and consumption of goods and services and their management"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 經濟學",
+    "def": ""
+   }
+  ]
+ },
+ "economise": {
+  "ph": "/i'kɔnәmaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "vt. 節約, 避免浪費, 節省",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 節約",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 economising｜過去分詞 economised｜過去式 economised"
+ },
+ "economism": {
+  "ph": "/i'kɔnәmizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經濟主義",
+    "def": ""
+   }
+  ]
+ },
+ "economist": {
+  "ph": "/i:'kɒnәmist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經濟學者, 經濟家",
+    "def": "an expert in the science of economics"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 經濟學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 economists"
+ },
+ "economistic": {
+  "ph": "/i(:)kɔnә'mistik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "經濟主義的",
+    "def": ""
+   }
+  ]
+ },
+ "economize": {
+  "ph": "/i'kɒnәmaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "節約, 節省, 有效地利用",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 economizing｜過去式 economized｜第三人稱單數 economizes｜過去分詞 economized"
+ },
+ "economy": {
+  "ph": "/i'kɒnәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經濟, 理財, 節約",
+    "def": "the system of production and distribution and consumption"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 經濟, 整體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 economies"
+ },
+ "ecoregion": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生態區域",
+    "def": ""
+   }
+  ]
+ },
+ "ecosphere": {
+  "ph": "/'i:kәu,sfiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[生]生物圈,生態層",
+    "def": ""
+   }
+  ]
+ },
+ "ecosystem": {
+  "ph": "/'i:kәu.sistәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生態系統",
+    "def": "a system formed by the interaction of a community of organisms with their physical environment"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生態系",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecosystems"
+ },
+ "ecotourism": {
+  "ph": "/ˈi:kəʊtʊərɪzəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生態旅遊",
+    "def": "tourism to exotic or threatened ecosystems to observe wildlife or to help preserve nature"
+   }
+  ]
+ },
+ "ecotourist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生態旅遊, 生態旅行（前往生態資源未被破壞的地方旅行） (ecotourism的變形)",
+    "def": ""
+   }
+  ]
+ },
+ "ecowas": {
+  "ph": "/e'kəuəs/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "西非國家經濟共同體（Economic Community of West African States）",
+    "def": ""
+   }
+  ]
+ },
+ "ecr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "緊急戰鬥的準備狀態（Emergency Readiness）",
+    "def": ""
+   }
+  ]
+ },
+ "ecru": {
+  "ph": "/'eikru:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "本色的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "淡褐色",
+    "def": ""
+   }
+  ]
+ },
+ "ecsc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "European Coal and Steel Community 歐洲煤鋼聯營",
+    "def": ""
+   }
+  ]
+ },
+ "ecstasy": {
+  "ph": "/'ekstәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狂喜, 心醉神迷, 忘形",
+    "def": "a state of being carried away by overwhelming emotion"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 入迷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecstasies"
+ },
+ "ecstatic": {
+  "ph": "/ik'stætik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狂喜的人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "狂喜的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecstatics"
+ },
+ "ecstatically": {
+  "ph": "/ik'stætikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "心醉神迷地, 入神地",
+    "def": ""
+   }
+  ]
+ },
+ "ectomorph": {
+  "ph": "/'ektәmɒ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘦型體質者",
+    "def": "a person with a thin body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外胚層體型者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ectomorphs"
+ },
+ "ectopic": {
+  "ph": "/ek'tɔpik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "異位的",
+    "def": "exhibiting ectopia"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 異位的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ectopics"
+ },
+ "ectoplasm": {
+  "ph": "/'ektәuplæzәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外胚層質, 外質",
+    "def": "(spiritualism) a substance supposed to emanate from the body of the medium during a trance"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外[胞]漿, 外質",
+    "def": ""
+   }
+  ]
+ },
+ "ectoplasmic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(靈媒在降神的恍惚狀態中發出的)靈的外質, 靈氣",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "(細胞基質的)外質",
+    "def": ""
+   }
+  ]
+ },
+ "ecu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "歐洲貨幣單位（European Currency Unit）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecus"
+ },
+ "ecuador": {
+  "ph": "/'ekwәdɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厄瓜多",
+    "def": "a republic in northwestern South America; became independent from Spain in 1822; the landscape is dominated by the Andes"
+   }
+  ]
+ },
+ "ecuadorean": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "厄瓜多人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "厄瓜多的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "厄瓜多人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecuadoreans"
+ },
+ "ecuadorian": {
+  "ph": "/.ekwә'dɒ:riәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "厄瓜多的",
+    "def": "of or relating to or characteristic of Ecuador or its people"
+   },
+   {
+    "pos": "n.",
+    "zh": "厄瓜多人",
+    "def": "a native or inhabitant of Ecuador"
+   }
+  ],
+  "forms": "複數 ecuadorians"
+ },
+ "ecumenical": {
+  "ph": "/,i:kju(:)'menikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "一般的, 普遍的, 全基督教的, 泛基督教主義的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ecumenicals"
+ },
+ "ecumenically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "一般地, 普通地",
+    "def": ""
+   }
+  ]
+ },
+ "ecumenism": {
+  "ph": "/'ekjuminizәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "泛基督教主義",
+    "def": ""
+   }
+  ]
+ },
+ "eczema": {
+  "ph": "/'eksimә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溼疹",
+    "def": "generic term for inflammatory conditions of the skin; particularly with vesiculation in the acute stages"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 溼疹",
+    "def": ""
+   }
+  ]
+ }
+}

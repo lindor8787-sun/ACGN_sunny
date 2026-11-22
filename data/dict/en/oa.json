@@ -1,0 +1,283 @@
+{
+ "oa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "辦公自動化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 辦公自動化, 運算分析",
+    "def": ""
+   }
+  ]
+ },
+ "oaf": {
+  "ph": "/әuf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呆子, 畸形兒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oafs"
+ },
+ "oafish": {
+  "ph": "/'әufiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "痴呆的, 畸形的",
+    "def": ""
+   }
+  ]
+ },
+ "oafishness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "oafish的變形",
+    "def": ""
+   }
+  ]
+ },
+ "oak": {
+  "ph": "/әuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橡樹, 橡木",
+    "def": "the hard durable wood of any oak; used especially for furniture and flooring"
+   },
+   {
+    "pos": "adj.",
+    "zh": "橡木製的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oaks"
+ },
+ "oaken": {
+  "ph": "/'әukәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "橡木製的",
+    "def": ""
+   }
+  ]
+ },
+ "oakes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Oakes)人名；(英)奧克斯",
+    "def": ""
+   }
+  ]
+ },
+ "oakland": {
+  "ph": "/'әuklәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧克蘭（美國加州西部城市）",
+    "def": "a city in western California on San Francisco Bay opposite San Francisco; primarily and industrial urban center"
+   }
+  ]
+ },
+ "oakley": {
+  "ph": "/'әukli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[俚]贈券（等於Annie Oakley）；奧克利眼鏡",
+    "def": "United States sharpshooter who was featured in Buffalo Bill's Wild West Show (1860-1926)"
+   }
+  ]
+ },
+ "oakwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] [澳大利亞、美國、英國] 奧克伍德",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oakwoods"
+ },
+ "oap": {
+  "ph": "/ˌəʊ eɪ ˈpi:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Old Age Pension 養老金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oaps"
+ },
+ "oar": {
+  "ph": "/ɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "槳, 槳手, 攪棒",
+    "def": "an implement used to propel or steer a boat"
+   },
+   {
+    "pos": "vi.",
+    "zh": "划槳",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "划動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oars"
+ },
+ "oarlock": {
+  "ph": "/'ɔ:lɔk;'әjr-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "槳架",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oarlocks"
+ },
+ "oarsman": {
+  "ph": "/'ɒ:zmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劃手",
+    "def": "someone who rows a boat"
+   }
+  ],
+  "forms": "複數 oarsmen"
+ },
+ "oas": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美洲國家組織（Organization of American States）；現役（On Active Service）；光接入系統（Optical Access System）",
+    "def": ""
+   }
+  ]
+ },
+ "oasis": {
+  "ph": "/әu'eisis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠洲, 舒適的地方",
+    "def": "a fertile tract in a desert (where the water table approaches the surface)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 綠洲(沙漠中), 健島(病變區中的健康組織)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oases"
+ },
+ "oast": {
+  "ph": "/әust/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烘乾窯",
+    "def": "a kiln for drying hops"
+   }
+  ],
+  "forms": "複數 oasts"
+ },
+ "oat": {
+  "ph": "/әut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燕麥, 燕麥田",
+    "def": "annual grass of Europe and North Africa; grains used as food and fodder (referred to primarily in the plural: `oats')"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 燕麥, 雀麥",
+    "def": ""
+   }
+  ]
+ },
+ "oatcake": {
+  "ph": "/'әutkeik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燕麥餅",
+    "def": "thin flat unleavened cake of baked oatmeal"
+   }
+  ],
+  "forms": "複數 oatcakes"
+ },
+ "oates": {
+  "ph": "/әuts/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧茨(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "oath": {
+  "ph": "/әuθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誓約, 誓言, 咒罵",
+    "def": "a commitment to tell the truth (especially in a court of law); to lie under oath is to become subject to prosecution for perjury"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 誓言, 誓約, 宣誓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oaths"
+ },
+ "oatmeal": {
+  "ph": "/'әutmi:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燕麥片, 燕麥粥",
+    "def": "porridge made of rolled oats"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 燕麥片",
+    "def": ""
+   }
+  ]
+ },
+ "oats": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燕麥, 燕麥屬植物, 燕麥粥, 麥片粥",
+    "def": ""
+   }
+  ]
+ }
+}

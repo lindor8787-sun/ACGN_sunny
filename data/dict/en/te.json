@@ -1,0 +1,5216 @@
+{
+ "te": {
+  "ph": "/ti:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 碲(52號元素); 破傷風",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tes"
+ },
+ "tea": {
+  "ph": "/ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茶, 茶葉",
+    "def": "a beverage made by steeping tea leaves in water"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 茶, 茶劑, 浸劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teas"
+ },
+ "teabag": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "袋裝茶葉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teabags"
+ },
+ "teacake": {
+  "ph": "/'ti:keik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "當茶點用的餅乾",
+    "def": "flat semisweet cookie or biscuit usually served with tea"
+   }
+  ],
+  "forms": "複數 teacakes"
+ },
+ "teach": {
+  "ph": "/ti:tʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "教, 講授, 教導, 教育",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "教書, 教學, 可以教",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 taught｜現在分詞 teaching｜過去式 taught｜第三人稱單數 teaches"
+ },
+ "teachable": {
+  "ph": "/'ti:tʃәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可教的, 聽教訓的",
+    "def": ""
+   }
+  ]
+ },
+ "teacher": {
+  "ph": "/'ti:tʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教師, 老師, 導師",
+    "def": "a person whose occupation is teaching"
+   }
+  ],
+  "forms": "複數 teachers"
+ },
+ "teacherly": {
+  "ph": "/'tiːtʃəlɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "如師的; 為師的",
+    "def": ""
+   }
+  ]
+ },
+ "teaching": {
+  "ph": "/'ti:tʃiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教學, 學說, 教導",
+    "def": "the profession of a teacher"
+   }
+  ],
+  "forms": "現在分詞 teaching｜複數 teachings"
+ },
+ "teacup": {
+  "ph": "/'ti:kʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茶杯, 滿茶杯",
+    "def": "as much as a teacup will hold"
+   }
+  ],
+  "forms": "複數 teacups"
+ },
+ "teague": {
+  "ph": "/ti:^/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛爾蘭人",
+    "def": "An Irishman; -- a term used in contempt."
+   }
+  ]
+ },
+ "teahouse": {
+  "ph": "/'ti:haus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茶室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teahouses"
+ },
+ "teak": {
+  "ph": "/ti:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柚木",
+    "def": "hard strong durable yellowish-brown wood of teak trees; resistant to insects and to warping; used for furniture and in shipbuilding"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 柚木",
+    "def": ""
+   }
+  ]
+ },
+ "teakettle": {
+  "ph": "/'ti:.ketl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茶壺, 燒水壺",
+    "def": "kettle for boiling water to make tea"
+   }
+  ]
+ },
+ "teakwood": {
+  "ph": "/'ti:kwjd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柚木木材",
+    "def": ""
+   }
+  ]
+ },
+ "teal": {
+  "ph": "/ti:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短頸野鴨",
+    "def": "any of various small short-necked dabbling river ducks of Europe and America"
+   }
+  ],
+  "forms": "複數 teals"
+ },
+ "team": {
+  "ph": "/ti:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隊, 組",
+    "def": "a cooperative unit (especially in sports)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "把馬(牛)套在同一輛車上, 把...編成一組",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "駕駛卡車, 協作",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teams｜過去分詞 teamed｜過去式 teamed｜現在分詞 teaming｜第三人稱單數 teams"
+ },
+ "team-mate": {
+  "ph": "/'ti:mm'eɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同隊隊員, 隊友",
+    "def": ""
+   }
+  ],
+  "forms": "複數 team-mates"
+ },
+ "teaming": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "負載平衡；獸力運輸；協同運作；組合, 合作（team的現在分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "teammate": {
+  "ph": "/'ti:mmeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隊友",
+    "def": "a fellow member of a team"
+   }
+  ],
+  "forms": "複數 teammates"
+ },
+ "teams": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "團隊, 參賽隊伍（team的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "teamster": {
+  "ph": "/'ti:mstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聯畜運輸車駕駛者, 卡車駕駛員",
+    "def": "the driver of a team of horses doing hauling"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 卡車駕駛員, 運輸工會會員, 駕駛一隊牲畜者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teamsters"
+ },
+ "teamwork": {
+  "ph": "/'ti:mwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "協同作業, 協力",
+    "def": "cooperative work done by a team (especially when it is effective)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 聯合工作, 聯合行動, 協調工作",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teamworks｜現在分詞 teamworking"
+ },
+ "teapot": {
+  "ph": "/'ti:pɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茶壺",
+    "def": "pot for brewing tea; usually has a spout and handle"
+   }
+  ],
+  "forms": "複數 teapots"
+ },
+ "tear": {
+  "ph": "/tiә. tєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淚滴, 眼淚, 撕, 扯, 裂縫, 激怒, 飛奔",
+    "def": "a drop of the clear salty saline solution secreted by the lacrimal glands"
+   },
+   {
+    "pos": "vi.",
+    "zh": "流淚, 撕破, 趕快, 飛奔, 被撕破",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "撕裂, 戳破, 拉掉, 撕掉, 使分裂, 使精神不安, 折磨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tears｜過去分詞 torn｜過去式 tore｜現在分詞 tearing｜第三人稱單數 tears"
+ },
+ "tearaway": {
+  "ph": "/'tєәrә.wei/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "野性十足的, 行動魯莽的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "野蠻狂暴的人, 流氓",
+    "def": "a reckless and impetuous person"
+   }
+  ],
+  "forms": "複數 tearaways"
+ },
+ "teardown": {
+  "ph": "/'tєәdaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拆卸",
+    "def": ""
+   }
+  ]
+ },
+ "teardrop": {
+  "ph": "/'tiәdrɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淚珠, 淚珠狀物",
+    "def": "anything shaped like a falling drop (as a pendant gem on an earring)"
+   }
+  ],
+  "forms": "複數 teardrops"
+ },
+ "tearful": {
+  "ph": "/'tiәful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "含淚的, 使人流淚的, 流淚的",
+    "def": "filled with or marked by tears"
+   }
+  ]
+ },
+ "tearfully": {
+  "ph": "/'tɪəfəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "淚汪汪地, 流淚地",
+    "def": ""
+   }
+  ]
+ },
+ "teargas": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用催淚瓦斯襲擊",
+    "def": ""
+   }
+  ]
+ },
+ "tearing": {
+  "ph": "/'tєәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "撕裂般的, 痛苦的, 猛烈的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 斷開; 撕裂",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tearing｜複數 tearings"
+ },
+ "tearless": {
+  "ph": "/'tiәlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無淚的, 不流淚的",
+    "def": "free from tears"
+   }
+  ]
+ },
+ "tearoom": {
+  "ph": "/'ti:ru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茶室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tearooms"
+ },
+ "teary": {
+  "ph": "/'tiәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "哭泣的",
+    "def": ""
+   }
+  ]
+ },
+ "tease": {
+  "ph": "/ti:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "揶揄, 戲弄, 逗惹",
+    "def": "someone given to teasing (as by mocking or stirring curiosity)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "戲弄, 取笑, 強求, 梳理, 使起毛",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 teased｜現在分詞 teasing｜過去分詞 teased｜第三人稱單數 teases｜複數 teases"
+ },
+ "teased": {
+  "ph": "/ti:zd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "取笑, 戲弄( tease的過去式和過去分詞 ); 梳理（羊毛等）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 teased｜過去式 teased"
+ },
+ "teaser": {
+  "ph": "/'ti:zә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戲弄者, 起絨機",
+    "def": "a worker who teases wool"
+   }
+  ],
+  "forms": "複數 teasers"
+ },
+ "teashop": {
+  "ph": "/'ti:ʃɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茶館, 茶室",
+    "def": "a restaurant where tea and light meals are available"
+   }
+  ],
+  "forms": "複數 teashops"
+ },
+ "teasing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 針撥開法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 teasing"
+ },
+ "teasingly": {
+  "ph": "/'ti:ziŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "煩惱地,受嘲弄地",
+    "def": ""
+   }
+  ]
+ },
+ "teaspoon": {
+  "ph": "/'ti:spu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茶匙",
+    "def": "as much as a teaspoon will hold"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 茶匙(4毫升)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teaspoons"
+ },
+ "teaspoonful": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一茶匙的容量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teaspoonfuls"
+ },
+ "teat": {
+  "ph": "/ti:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奶頭",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [乳房]乳頭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teats"
+ },
+ "teatime": {
+  "ph": "/'ti:taim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下午茶時間",
+    "def": ""
+   }
+  ]
+ },
+ "tec": {
+  "ph": "/tek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偵探",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tecs"
+ },
+ "tech": {
+  "ph": "/tek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技術學院或學校",
+    "def": ""
+   }
+  ],
+  "forms": "複數 techs"
+ },
+ "techie": {
+  "ph": "/ˈteki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技師, 技術員",
+    "def": "a technician who is highly proficient and enthusiastic about some technical field (especially computing)"
+   }
+  ]
+ },
+ "technetium": {
+  "ph": "/tek'ni:ʃiәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鎝",
+    "def": "a crystalline metallic element not found in nature; occurs as one of the fission products of uranium"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鎝",
+    "def": ""
+   }
+  ]
+ },
+ "technical": {
+  "ph": "/'teknikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "技術上的, 專門的, 工業的, 嚴格根據法律的",
+    "def": "of or relating to technique or proficiency in a practical skill"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 技巧",
+    "def": ""
+   }
+  ]
+ },
+ "technicality": {
+  "ph": "/.tekni'kælәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "專門性, 學術性, 技術的使用",
+    "def": "a detail that is considered insignificant"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 專門的事項, 細節, 用語",
+    "def": ""
+   }
+  ],
+  "forms": "複數 technicalities"
+ },
+ "technically": {
+  "ph": "/'teknikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "技術上, 學術上, 專門地",
+    "def": ""
+   }
+  ]
+ },
+ "technician": {
+  "ph": "/tek'niʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技師",
+    "def": "someone whose occupation involves training in a specific technical process"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 技師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 technicians"
+ },
+ "technicolor": {
+  "ph": "/'teknikʌlә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "彩色印片法, 鮮豔的色彩",
+    "def": "a trademarked method of making color motion pictures"
+   },
+   {
+    "pos": "adj.",
+    "zh": "色彩鮮豔的",
+    "def": ""
+   }
+  ]
+ },
+ "technicolour": {
+  "ph": "/'teknikʌlә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[攝]彩色, 彩色印片法, 彩色電影[電視]",
+    "def": ""
+   }
+  ]
+ },
+ "technics": {
+  "ph": "/'tekniks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工藝學",
+    "def": "The doctrine of arts in general; such branches of"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 手法, 技術, 術語",
+    "def": ""
+   }
+  ]
+ },
+ "technique": {
+  "ph": "/tek'ni:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技巧, 技術, 方法",
+    "def": "a practical method or art applied to some particular task"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 工藝方法; 技巧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 techniques"
+ },
+ "techniques": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方法；技巧；技術（technique的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "techno": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 技術",
+    "def": ""
+   }
+  ]
+ },
+ "technocracy": {
+  "ph": "/tek'nɒkrәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技術專家政治論, 技術專家治國論",
+    "def": "a form of government in which scientists and technical experts are in control"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 專家管理, 技術管理",
+    "def": ""
+   }
+  ]
+ },
+ "technocrat": {
+  "ph": "/'teknәukræt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技術專家治國論者, 技術專家統治論者",
+    "def": "an expert who is a member of a highly skilled elite group"
+   }
+  ],
+  "forms": "複數 technocrats"
+ },
+ "technocratic": {
+  "ph": "/ˌteknə'krætɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "由技術專家官員組成的；受技術官僚影響的",
+    "def": ""
+   }
+  ]
+ },
+ "technologic": {
+  "ph": "/,teknә'lɔdʒik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "工藝的；技術的",
+    "def": "Technological."
+   }
+  ]
+ },
+ "technological": {
+  "ph": "/.teknә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "技術的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 工藝的, 技術的",
+    "def": ""
+   }
+  ]
+ },
+ "technologically": {
+  "ph": "/teknә'lɔdʒikәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "技術上地；科技地",
+    "def": ""
+   }
+  ]
+ },
+ "technologist": {
+  "ph": "/tek'nɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工藝師, 技術員",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 技術員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 technologists"
+ },
+ "technology": {
+  "ph": "/tek'nɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技術, 工業技術, 術語",
+    "def": "the practical application of science to commerce or industry"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 技術學, 工藝學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 technologies"
+ },
+ "technophile": {
+  "ph": "/'teknәjfail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技術愛好者",
+    "def": "a person who is enthusiastic about new technology"
+   }
+  ],
+  "forms": "複數 technophiles"
+ },
+ "technophobe": {
+  "ph": "/ˈteknəʊfəʊb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "科技產品排斥者, 技術恐懼者（指不喜歡新科技的人）",
+    "def": "a person who dislikes or avoids new technology"
+   }
+  ]
+ },
+ "techy": {
+  "ph": "/'tetʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易怒的,暴躁的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 techies"
+ },
+ "tecs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "Mixtec的變形",
+    "def": ""
+   }
+  ]
+ },
+ "tectonic": {
+  "ph": "/tek'tɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "構造的, 建築的",
+    "def": "pertaining to the structure or movement of the earth's crust"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 整形的, 整復的, 成形的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tectonics"
+ },
+ "tectonics": {
+  "ph": "/tek'tɒniks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "構造學, 構造地質學",
+    "def": "the branch of geology studying the folding and faulting of the earth's crust"
+   }
+  ]
+ },
+ "ted": {
+  "ph": "/ted/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "翻曬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teds"
+ },
+ "teddington": {
+  "ph": "/'tediŋtәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "特丁頓(英國國立物理研究所所在地)",
+    "def": ""
+   }
+  ]
+ },
+ "teddy": {
+  "ph": "/'tedi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連衫襯褲；泰迪玩具熊",
+    "def": "plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)"
+   }
+  ],
+  "forms": "複數 teddies"
+ },
+ "tedious": {
+  "ph": "/'ti:diәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沉悶的, 冗長乏味的",
+    "def": ""
+   }
+  ]
+ },
+ "tediously": {
+  "ph": "/'ti:dɪəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "沉悶地, 長而乏味地",
+    "def": ""
+   }
+  ]
+ },
+ "tedium": {
+  "ph": "/'ti:diәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單調乏味, 沉悶",
+    "def": ""
+   }
+  ]
+ },
+ "tee": {
+  "ph": "/ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "T字形, T字形之物, 發球區, 球座, 目標",
+    "def": "the starting place for each hole on a golf course"
+   },
+   {
+    "pos": "vt.",
+    "zh": "擱在球座上",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "T字形的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tees｜現在分詞 teeing｜第三人稱單數 tees｜過去式 teed｜過去分詞 teed"
+ },
+ "teem": {
+  "ph": "/ti:m/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "充滿, 充足, 傾注",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "倒出",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 teeming｜過去式 teemed｜複數 teems｜第三人稱單數 teems｜過去分詞 teemed"
+ },
+ "teeming": {
+  "ph": "/'ti:miŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "充滿的, 群集的, 多產的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 澆鑄",
+    "def": ""
+   }
+  ]
+ },
+ "teen": {
+  "ph": "/ti:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "憤怒, 悲哀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teens"
+ },
+ "teenage": {
+  "ph": "/'ti:nidʒ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "十三歲到十九歲的",
+    "def": ""
+   }
+  ]
+ },
+ "teenaged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "青少年的, 十幾歲的少年的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 teenaged"
+ },
+ "teenager": {
+  "ph": "/'ti:nidʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "十三歲到十九歲的少年",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teenagers"
+ },
+ "teens": {
+  "ph": "/ti:ns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "十三歲到十九歲",
+    "def": "the time of life between the ages of 12 and 20"
+   }
+  ]
+ },
+ "teensy": {
+  "ph": "/'ti:nsi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "很小的, 小小的",
+    "def": ""
+   }
+  ]
+ },
+ "teeny": {
+  "ph": "/'ti:ni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "極小的, 小小的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 teeniest｜複數 teenies"
+ },
+ "teenybopper": {
+  "ph": "/ti:nɪ'bɒpər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "少年頹廢派; 少女流行音樂迷; 少女",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teenyboppers"
+ },
+ "teepee": {
+  "ph": "/'ti:pi:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "超視距雷達",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teepees"
+ },
+ "tees": {
+  "ph": "/ti:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高爾夫球的發球臺（tee的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "teesside": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "蒂賽德（地區）（地名）（英國）",
+    "def": ""
+   }
+  ]
+ },
+ "teeter": {
+  "ph": "/'ti:tә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "步履不穩地走動, 踉蹌, 搖晃, 搖擺不定, 搖搖欲墜, 玩蹺蹺板",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "踉蹌, 搖擺, 蹺蹺板",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 teetered｜現在分詞 teetering｜第三人稱單數 teeters｜過去分詞 teetered"
+ },
+ "teetering": {
+  "ph": "/ˈti:tərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "搖晃地站立或移動( teeter的現在分詞 ); <美>玩蹺蹺板; 處在（災難或危險的）邊緣; 瀕臨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 teetering"
+ },
+ "teeth": {
+  "ph": "/ti:θ/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "牙齒",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 牙",
+    "def": ""
+   }
+  ]
+ },
+ "teething": {
+  "ph": "/'ti:ðiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出牙, 出牙現象",
+    "def": "the eruption through the gums of baby teeth"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 出牙, 生牙",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 teething"
+ },
+ "teetotal": {
+  "ph": "/ti:'tәutl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絕對戒酒的, 完全的, 絕對的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "絕對戒酒主義",
+    "def": ""
+   }
+  ]
+ },
+ "teetotaler": {
+  "ph": "/ti:'tәutәlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "絕對戒酒者, 戒酒主義者",
+    "def": "a total abstainer"
+   }
+  ]
+ },
+ "teetotaller": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "絕對戒酒主義者, 完全不飲酒者, 絕對戒酒者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teetotallers"
+ },
+ "teff": {
+  "ph": "/tef/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（非洲產的）衣索比亞畫眉草（系糧食作物）",
+    "def": "an African grass economically important as a cereal grass (yielding white flour of good quality) as well as for forage and hay"
+   }
+  ]
+ },
+ "tefillin": {
+  "ph": "/ti:'filin,tә-,tәfi:'li:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[復] n.[有時用作單](猶太教) 經文護符匣",
+    "def": ""
+   }
+  ]
+ },
+ "teflon": {
+  "ph": "/'teflɔn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 聚四氟乙烯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 塔夫綸, 聚四氟乙烯(商品名,用於外科的塑膠)",
+    "def": ""
+   }
+  ]
+ },
+ "tegmen": {
+  "ph": "/'te^mәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 蓋",
+    "def": ""
+   }
+  ]
+ },
+ "teheran": {
+  "ph": "/.tehә'rɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德黑蘭",
+    "def": "the capital and largest city of Iran; located in northern Iran"
+   }
+  ]
+ },
+ "tehran": {
+  "ph": "/teә'ræn,-'rɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德黑蘭",
+    "def": ""
+   }
+  ]
+ },
+ "teignmouth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "廷茅斯",
+    "def": ""
+   }
+  ]
+ },
+ "tel": {
+  "ph": "/tel/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "試驗儀器清單（Test Equipment List）",
+    "def": ""
+   }
+  ]
+ },
+ "telco": {
+  "ph": "/ˈtelkəʊ/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "telephone company 電話公司",
+    "def": ""
+   }
+  ]
+ },
+ "tele": {
+  "ph": "/'teli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電視",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teles"
+ },
+ "telecast": {
+  "ph": "/'telikɑ:st/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "電視廣播",
+    "def": "broadcast via television"
+   },
+   {
+    "pos": "n.",
+    "zh": "電視廣播",
+    "def": "a television broadcast"
+   }
+  ],
+  "forms": "過去分詞 telecast｜現在分詞 telecasting｜過去式 telecast｜複數 telecasts｜第三人稱單數 telecasts"
+ },
+ "telecaster": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電視廣播員",
+    "def": "a television broadcaster"
+   }
+  ],
+  "forms": "複數 telecasters"
+ },
+ "telecom": {
+  "ph": "/'telәkɔm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "telecommunication 電信",
+    "def": ""
+   }
+  ]
+ },
+ "telecommunication": {
+  "ph": "/'telikәmju:ni'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電訊, 遠距離通訊, 無線電通訊",
+    "def": "(often plural) systems used in transmitting messages over a distance electronically"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 遠端通訊, 電信",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telecommunications"
+ },
+ "telecommunications": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電信, 通訊, 電信學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 電通訊",
+    "def": ""
+   }
+  ]
+ },
+ "telecommute": {
+  "ph": "/.telikә'mju:t/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "（利用電腦終端機）遠距離工作",
+    "def": ""
+   }
+  ]
+ },
+ "telecommuter": {
+  "ph": "/.telikә'mju:tә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "遠端工作者",
+    "def": ""
+   }
+  ]
+ },
+ "telecommuting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 遠端交換, 電信工作方式",
+    "def": ""
+   }
+  ]
+ },
+ "telecoms": {
+  "ph": "/'tɛləkə'mjʊnə'keʃənz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "電信",
+    "def": ""
+   }
+  ]
+ },
+ "teleconference": {
+  "ph": "/'telikɔnfәrәns/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 電信會議, 遠端會議",
+    "def": ""
+   }
+  ]
+ },
+ "teleconferencing": {
+  "ph": "/teli'kɔnfәrәnsiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 召開遠端會議, 電話會議",
+    "def": ""
+   }
+  ]
+ },
+ "telegenic": {
+  "ph": "/teli'dʒenik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適於拍攝電視的, 適於上鏡頭的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 物體或模型對電視傳送的適合度",
+    "def": ""
+   }
+  ]
+ },
+ "telegram": {
+  "ph": "/'teli^ræm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電報, 一封電報",
+    "def": "a message transmitted by telegraph"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 電報",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telegrams"
+ },
+ "telegraph": {
+  "ph": "/'teligrɑ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電報, 電報機",
+    "def": "apparatus used to communicate at a distance over a wire (usually in Morse code)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "打電報",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "打電報給, 電匯, 流露, 顯示出要...的樣子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telegraphs｜過去式 telegraphed｜過去分詞 telegraphed｜現在分詞 telegraphing｜第三人稱單數 telegraphs"
+ },
+ "telegrapher": {
+  "ph": "/ti'legrәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "報務員, 電報員",
+    "def": "someone who transmits messages by telegraph"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 電務員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telegraphers"
+ },
+ "telegraphic": {
+  "ph": "/.teli'græfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "電報傳送的, 電報的, 簡短的",
+    "def": "of or relating to or transmitted by telegraph"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 電送的, 電報的",
+    "def": ""
+   }
+  ]
+ },
+ "telegraphy": {
+  "ph": "/ti'legrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電報學, 電信術, 電報通訊, 電報機裝置",
+    "def": "communicating at a distance by electric transmission over wire"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 電報術",
+    "def": ""
+   }
+  ]
+ },
+ "telekinesis": {
+  "ph": "/.teliki'ni:sis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "心靈致動, 心靈遙感",
+    "def": "the power to move something by thinking about it without the application of physical force"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 遠距運動, 感應運動",
+    "def": ""
+   }
+  ]
+ },
+ "telekinetic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 遠距運動的, 感應運動的",
+    "def": ""
+   }
+  ]
+ },
+ "telemark": {
+  "ph": "/'telimɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弓步式轉彎",
+    "def": "a turn made in skiing; the outside ski is placed ahead and turned gradually inwards"
+   }
+  ]
+ },
+ "telemarketer": {
+  "ph": "/,teli'mɑ:kitə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電話銷售員; A salesperson who contacts people via the telephone.; 使用電話進行推銷的人",
+    "def": ""
+   }
+  ]
+ },
+ "telemarketing": {
+  "ph": "/'telimɑ:kitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電話推銷, 電話銷售",
+    "def": "the use of the telephone as an interactive medium for promotion and sales"
+   }
+  ],
+  "forms": "現在分詞 telemarketing"
+ },
+ "telematics": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 遠端資訊處理",
+    "def": ""
+   }
+  ]
+ },
+ "telemedicine": {
+  "ph": "/'teli,medisin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(透過遙測、電話、電視等手段求診的)遠距離醫學",
+    "def": ""
+   }
+  ]
+ },
+ "telemetry": {
+  "ph": "/ti'lemitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遙測技術, 遙測資料",
+    "def": "automatic transmission and measurement of data from remote sources by wire or radio or other means"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 遠距測定法, 遙測術",
+    "def": ""
+   }
+  ]
+ },
+ "telenovela": {
+  "ph": "/teli:'nɒvələ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "浪漫電視肥皂劇",
+    "def": ""
+   }
+  ]
+ },
+ "teleological": {
+  "ph": "/ˌti:lɪə'lɒdʒɪkl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "目的論的",
+    "def": "of or relating to teleology"
+   }
+  ]
+ },
+ "teleology": {
+  "ph": "/.teli'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "目的論",
+    "def": "(philosophy) a doctrine explaining phenomena by their ends or purposes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 目的論",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teleologies"
+ },
+ "telepath": {
+  "ph": "/'telipæθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精神感應, 心靈感應",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telepaths"
+ },
+ "telepathic": {
+  "ph": "/.teli'pæθik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傳心術的",
+    "def": ""
+   }
+  ]
+ },
+ "telepathically": {
+  "ph": "/ˌtelɪ'pæθɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "傳心術地, 心靈感應地",
+    "def": ""
+   }
+  ]
+ },
+ "telepathy": {
+  "ph": "/ti'lepәθi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傳心(術), 通靈(術), 傳心(或通靈)能力",
+    "def": "apparent communication from one mind to another without using sensory perceptions"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 思想交通, 思想感應, 傳心",
+    "def": ""
+   }
+  ]
+ },
+ "telephone": {
+  "ph": "/'telifәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電話, 電話機",
+    "def": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds"
+   },
+   {
+    "pos": "v.",
+    "zh": "打電話",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 telephoned｜複數 telephones｜現在分詞 telephoning｜過去分詞 telephoned｜第三人稱單數 telephones"
+ },
+ "telephone number": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 電話號碼",
+    "def": ""
+   }
+  ]
+ },
+ "telephonic": {
+  "ph": "/.teli'fɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "電話的, 用電話傳送的",
+    "def": "of or relating to telephony"
+   }
+  ],
+  "forms": "複數 telephonics"
+ },
+ "telephonist": {
+  "ph": "/ti'lefәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "接線員, 話務員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telephonists"
+ },
+ "telephony": {
+  "ph": "/ti'lefәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電話學, 電話通訊, 電話製造",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 電話學",
+    "def": ""
+   }
+  ]
+ },
+ "telephoto": {
+  "ph": "/'teli'fәutәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遠距照相的, 攝遠的, 傳真照相的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "傳真電報, 傳真電報機, 傳真照片, 遠距照相鏡頭, 攝遠鏡頭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telephotos"
+ },
+ "telepresence": {
+  "ph": "/ˈteliprezns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遠端監控",
+    "def": ""
+   }
+  ]
+ },
+ "teleprinter": {
+  "ph": "/'teli,printә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電傳打字電報機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 電傳打字機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teleprinters"
+ },
+ "teleprompter": {
+  "ph": "/'teli.prɒmptә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電子提詞機",
+    "def": "a prompter for television performers"
+   }
+  ]
+ },
+ "telesale": {
+  "ph": "/'teliseil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電話銷售,電話售貨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telesales｜現在分詞 telesaling"
+ },
+ "telescope": {
+  "ph": "/'teliskәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "望遠鏡",
+    "def": "a magnifier of images of distant objects"
+   },
+   {
+    "pos": "vi.",
+    "zh": "疊縮, 嵌進, 縮短",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使疊縮, 使縮短",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telescopes｜過去式 telescoped｜現在分詞 telescoping｜過去分詞 telescoped｜第三人稱單數 telescopes"
+ },
+ "telescopic": {
+  "ph": "/'teliskәupik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "望遠鏡的, 用望遠鏡看到的, 套管式的, 伸縮的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 望遠[鏡]的",
+    "def": ""
+   }
+  ]
+ },
+ "telescopically": {
+  "ph": "/ˌtelɪ'skɒpɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "望遠鏡地, 伸縮地",
+    "def": ""
+   }
+  ]
+ },
+ "telescoping": {
+  "ph": "/'teləˌskəʊpɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "套車",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 telescoping"
+ },
+ "telescreen": {
+  "ph": "/'teliskri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電視螢幕, 熒光屏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telescreens"
+ },
+ "teletext": {
+  "ph": "/'telitekst/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 使用者電視電報",
+    "def": ""
+   }
+  ]
+ },
+ "telethon": {
+  "ph": "/'teliθɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長時間電視廣播節目",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telethons"
+ },
+ "teletype": {
+  "ph": "/'telitaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電傳打字機, 電傳打字裝置, 電傳打字通訊",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "用電傳打字機拍發",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teletypes"
+ },
+ "televangelist": {
+  "ph": "/ˌtelɪˈvændʒəlɪst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電視傳道者",
+    "def": "an evangelist who conducts services on television"
+   }
+  ]
+ },
+ "televise": {
+  "ph": "/'telivaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用電視播放, 播映",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 televised｜現在分詞 televising｜過去式 televised｜第三人稱單數 televises"
+ },
+ "televised": {
+  "ph": "/ˈteləˌvaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "由電視播送( televise的過去式和過去分詞 ); 電視拍攝",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 televised｜過去式 televised"
+ },
+ "television": {
+  "ph": "/'teli.viʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電視",
+    "def": "broadcasting visual images of stationary or moving objects"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 電視",
+    "def": ""
+   }
+  ],
+  "forms": "複數 televisions"
+ },
+ "televisual": {
+  "ph": "/,teli'vizjuәl, -ʒuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "電視的, 適於拍電視的, 適於上電視鏡頭的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 televisuals"
+ },
+ "telex": {
+  "ph": "/'teleks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使用者直通電報, 電傳打字機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 電傳, 使用者電報",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telexes｜過去式 telexed｜過去分詞 telexed｜現在分詞 telexing｜第三人稱單數 telexes"
+ },
+ "telfer": {
+  "ph": "/'telfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電動高架索道",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "電動高架索道的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "以電動索道運輸",
+    "def": ""
+   }
+  ]
+ },
+ "telford": {
+  "ph": "/'telfәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泰爾福特路面(由大石與碎石作基礎,再用小石經輾壓堅實築成平滑面層的一種路面)",
+    "def": ""
+   }
+  ]
+ },
+ "tell": {
+  "ph": "/tel/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "告訴, 說, 吩咐, 斷定, 知道",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "講述, 洩密, 告發, 表明",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 told｜過去分詞 told｜現在分詞 telling｜第三人稱單數 tells"
+ },
+ "teller": {
+  "ph": "/'telә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敘述者, 講故事者, 出納員",
+    "def": "United States physicist (born in Hungary) who worked on the first atom bomb and the first hydrogen bomb (1908-2003)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 出納員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tellers"
+ },
+ "tellin": {
+  "ph": "/'telin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "櫻蛤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tellins"
+ },
+ "telling": {
+  "ph": "/'teliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有效的, 顯著的, 顯露內心活動的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 telling｜複數 tellings"
+ },
+ "tellingly": {
+  "ph": "/'teliŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有效地；顯著地",
+    "def": ""
+   }
+  ]
+ },
+ "telltale": {
+  "ph": "/'telteil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "搬弄是非者, 跡象, 指示器",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "搬弄是非的, 洩露秘密的, 報警的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telltales"
+ },
+ "telluric": {
+  "ph": "/te'ljuәrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地球的, 陸上的, 大地的",
+    "def": "of or relating to or containing the chemical element tellurium"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 碲[化]的",
+    "def": ""
+   }
+  ]
+ },
+ "telly": {
+  "ph": "/'teli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電視",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tellies"
+ },
+ "telomerase": {
+  "ph": "/tə'lɒməreɪz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "端粒酶",
+    "def": "an enzyme in eukaryotic cells that can add telomeres to the ends of chromosomes after they divide"
+   }
+  ]
+ },
+ "telomere": {
+  "ph": "/'telәmiә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 端粒(染色體)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 telomeres"
+ },
+ "temblor": {
+  "ph": "/tem'blɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地震",
+    "def": ""
+   }
+  ]
+ },
+ "temerity": {
+  "ph": "/ti'merәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魯莽, 蠻勇",
+    "def": ""
+   }
+  ]
+ },
+ "temp": {
+  "ph": "/temp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[口]臨時僱員",
+    "def": "a worker (especially in an office) hired on a temporary basis"
+   }
+  ],
+  "forms": "複數 temps｜現在分詞 temping｜過去分詞 temped"
+ },
+ "temper": {
+  "ph": "/'tempә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(鋼等的)硬度, 脾氣, 心情, 中和劑, 傾向, 回火",
+    "def": "a characteristic (habitual or relatively temporary) state of feeling"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使回火, 鍛鍊, 調和, 使緩和",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "回火",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tempered｜複數 tempers｜過去式 tempered｜現在分詞 tempering｜第三人稱單數 tempers"
+ },
+ "tempera": {
+  "ph": "/'tempәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛋彩畫；蛋彩畫法",
+    "def": "pigment mixed with water-soluble glutinous materials such as size and egg yolk"
+   }
+  ],
+  "forms": "複數 temperas"
+ },
+ "temperament": {
+  "ph": "/'temprәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣質, 性格, 性情",
+    "def": "excessive emotionalism or irritability and excitability (especially when displayed openly)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氣質, 稟賦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 temperaments"
+ },
+ "temperamental": {
+  "ph": "/.temprә'mentl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氣質的, 性格的, 易興奮的",
+    "def": "relating to or caused by temperament"
+   }
+  ]
+ },
+ "temperamentally": {
+  "ph": "/ˌtemprə'mentəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在氣質上; 易興奮地, 神經質地",
+    "def": ""
+   }
+  ]
+ },
+ "temperance": {
+  "ph": "/'tempәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節慾, 戒酒, 禁酒, 節制",
+    "def": "the trait of avoiding excesses"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 節制(飲食等), 戒酒",
+    "def": ""
+   }
+  ]
+ },
+ "temperate": {
+  "ph": "/'tempәrәt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溫和的, 適度的, 有節制的, 溫帶的",
+    "def": "(of weather or climate) free from extremes; mild; or characteristic of such weather or climate"
+   }
+  ]
+ },
+ "temperature": {
+  "ph": "/'temprәtʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫度, 發燒, 熱度",
+    "def": "the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 溫度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 temperatures"
+ },
+ "tempered": {
+  "ph": "/'tempәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "回火的, 緩和的, 脾氣...的",
+    "def": "made hard or flexible or resilient especially by heat treatment"
+   }
+  ],
+  "forms": "過去分詞 tempered｜過去式 tempered"
+ },
+ "tempering": {
+  "ph": "/'tempәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 回火, 淬硬",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tempering"
+ },
+ "tempest": {
+  "ph": "/'tempist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴風雨, 騷動",
+    "def": "(literary) a violent wind"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使受大風暴影響, 使騷動, 使激動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tempests"
+ },
+ "tempestuous": {
+  "ph": "/tem'pestʃuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有暴風雨的, 暴亂的",
+    "def": ""
+   }
+  ]
+ },
+ "templar": {
+  "ph": "/'templә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖殿騎士, 律師, 共濟會會員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 templars"
+ },
+ "template": {
+  "ph": "/'templit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樣板, 模板, 墊木",
+    "def": "a model or standard for making comparisons"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 模板",
+    "def": ""
+   }
+  ],
+  "forms": "複數 templates｜現在分詞 templating"
+ },
+ "temple": {
+  "ph": "/templ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖堂, 廟宇, 教堂, 禮拜堂, 太陽穴, 鬢角",
+    "def": "place of worship consisting of an edifice for the worship of a deity"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 顳顬, 顳部",
+    "def": ""
+   }
+  ],
+  "forms": "複數 temples"
+ },
+ "templeman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Templeman)人名；(英)坦普爾曼",
+    "def": ""
+   }
+  ]
+ },
+ "temples": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊撐, 伸幅器；寺廟（temple的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "templeton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國牛津大學坦普利頓學院；坦普爾頓（姓氏）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 templetons"
+ },
+ "tempo": {
+  "ph": "/'tempәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "速度, 節奏, 進行速度, (棋的)一著",
+    "def": "(music) the speed at which a composition is to be played"
+   }
+  ],
+  "forms": "複數 tempos"
+ },
+ "temporal": {
+  "ph": "/'tempәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "時間的, 暫時的, 現世的, 世俗的, 顳的, 太陽穴的",
+    "def": "of or relating to or limited by time"
+   },
+   {
+    "pos": "n.",
+    "zh": "世間萬物, 教會財產",
+    "def": ""
+   }
+  ]
+ },
+ "temporalis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 顳肌",
+    "def": ""
+   }
+  ]
+ },
+ "temporality": {
+  "ph": "/.temә'ræliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暫時性, 暫存事物, 俗人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 臨時性, 一時的事物, 物質方面的權利與財產",
+    "def": ""
+   }
+  ],
+  "forms": "複數 temporalities"
+ },
+ "temporally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "現世地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "暫時地",
+    "def": ""
+   }
+  ]
+ },
+ "temporarily": {
+  "ph": "/'tempәrәrәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "暫時, 一時, 臨時",
+    "def": ""
+   }
+  ]
+ },
+ "temporary": {
+  "ph": "/'tempәrәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "暫時的, 臨時的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "臨時工, 臨時僱員",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 臨時",
+    "def": ""
+   }
+  ],
+  "forms": "複數 temporaries"
+ },
+ "temporise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "順應時勢, 迎合潮流, (為爭取時間)拖延, 應付, 妥協",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 temporised｜現在分詞 temporising"
+ },
+ "temporize": {
+  "ph": "/'tempәraiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "隨潮流, 拖延, 妥協, 調停",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 temporizing｜過去式 temporized｜第三人稱單數 temporizes｜過去分詞 temporized"
+ },
+ "temporomandibular": {
+  "ph": "/,tempәrәjmæn'dibjjlә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 顳下頜的",
+    "def": ""
+   }
+  ]
+ },
+ "tempt": {
+  "ph": "/tempt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "誘惑, 引誘, 引起...的興趣, 吸引, 冒...風險",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tempted｜過去式 tempted｜第三人稱單數 tempts｜現在分詞 tempting"
+ },
+ "temptation": {
+  "ph": "/temp'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誘惑, 誘惑物",
+    "def": "something that seduces or has the quality to seduce"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 誘惑, 誘惑物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 temptations"
+ },
+ "tempted": {
+  "ph": "/'temptid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "慫恿（某人）幹不正當的事; 冒...的險（tempt的過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "tempter": {
+  "ph": "/'temptә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "引誘者, 誘惑者",
+    "def": "a person who tempts others"
+   }
+  ],
+  "forms": "複數 tempters"
+ },
+ "tempting": {
+  "ph": "/'temptiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "誘惑人的, 吸引人的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tempting"
+ },
+ "temptingly": {
+  "ph": "/'temptɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "吸引人地; 誘人地; 誘惑人地; 迷人地",
+    "def": ""
+   }
+  ]
+ },
+ "temptress": {
+  "ph": "/'temptris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誘惑男人的女性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 temptresses"
+ },
+ "tempura": {
+  "ph": "/'tempu,rɑ:, tem'purә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Jap.)天麩羅（日本菜餚）",
+    "def": "vegetables and seafood dipped in batter and deep-fried"
+   }
+  ]
+ },
+ "ten": {
+  "ph": "/ten/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "十, 十個",
+    "def": ""
+   }
+  ]
+ },
+ "tenable": {
+  "ph": "/'tenәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可守的, 站得住(腳)的, 合理的, 成立的",
+    "def": ""
+   }
+  ]
+ },
+ "tenacious": {
+  "ph": "/ti'neiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "緊握的, 固執的, 不屈不撓的, 黏著力強的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 堅韌的",
+    "def": ""
+   }
+  ]
+ },
+ "tenaciously": {
+  "ph": "/tə'neɪʃəslɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "堅持地",
+    "def": ""
+   }
+  ]
+ },
+ "tenacity": {
+  "ph": "/ti'næsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "固執, 不屈不撓, 頑固, 黏性, 韌性",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 堅軔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenacities"
+ },
+ "tenancy": {
+  "ph": "/'tenәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "租用, 租賃",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 租賃, 租回",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenancies"
+ },
+ "tenant": {
+  "ph": "/'tenәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "承租人, 房客, 居住者",
+    "def": "someone who pays rent to use land or a building or a car that is owned by someone else"
+   },
+   {
+    "pos": "vt.",
+    "zh": "租借",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 佔據者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenants｜過去分詞 tenanted｜過去式 tenanted｜現在分詞 tenanting｜第三人稱單數 tenants"
+ },
+ "tenanted": {
+  "ph": "/'tenənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "承租人；房客；佃戶；居住者",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "租借（常用於被動語態）",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Tenant)人名；(法)特南",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tenanted｜過去分詞 tenanted"
+ },
+ "tenascin": {
+  "ph": "/te'næsɪn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生腱蛋白, 腱生蛋白",
+    "def": ""
+   }
+  ]
+ },
+ "tench": {
+  "ph": "/tenʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[魚]丁鯛",
+    "def": "freshwater dace-like game fish of Europe and western Asia noted for ability to survive outside water"
+   }
+  ]
+ },
+ "tend": {
+  "ph": "/tend/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "走向, 有某種的傾向, 易於, 照顧, 注意",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "照料, 護理",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 tends｜過去式 tended｜過去分詞 tended｜現在分詞 tending"
+ },
+ "tended": {
+  "ph": "/tendid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "照料( tend的過去式和過去分詞 ); 照顧; 招待; 侍候",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tended"
+ },
+ "tendency": {
+  "ph": "/'tendәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "趨向, 傾向",
+    "def": "a characteristic likelihood of or natural disposition toward a certain condition or character or effect"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 趨向, 趨勢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tendencies"
+ },
+ "tendentious": {
+  "ph": "/ten'denʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有偏見的, 有傾向的, 淘氣的",
+    "def": ""
+   }
+  ]
+ },
+ "tender": {
+  "ph": "/'tendә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嫩的, 柔軟的, 脆弱的, 溫柔的, 親切的, 未成熟的, 微妙的, 棘手的, 審慎的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使變嫩, 提供, 償還",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變柔軟, 投標",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "照料, 看管人, 供應船, 小船, 提出, 償付, 投標",
+    "def": "something that can be used as an official medium of payment"
+   }
+  ],
+  "forms": "複數 tenders｜過去分詞 tendered｜過去式 tendered｜現在分詞 tendering｜第三人稱單數 tenders"
+ },
+ "tenderer": {
+  "ph": "/'tendәrә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提出者, 投標者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 投標人, 投標商, 投標單位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenderers"
+ },
+ "tenderfoot": {
+  "ph": "/'tendәfut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新來者, 新手, 生手, 無經驗者",
+    "def": "an inexperienced person (especially someone inexperienced in outdoor living)"
+   }
+  ]
+ },
+ "tendering": {
+  "ph": "/ˈtendərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "提出( tender的現在分詞 ); 使變溫柔; 使變脆弱; [法律]清償, 償債",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tendering"
+ },
+ "tenderize": {
+  "ph": "/'tendәraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使嫩化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tenderizing｜過去式 tenderized｜第三人稱單數 tenderizes｜過去分詞 tenderized"
+ },
+ "tenderizer": {
+  "ph": "/'tendəraɪzə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "嫩肉粉",
+    "def": ""
+   }
+  ]
+ },
+ "tenderloin": {
+  "ph": "/'tendәlɒin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腰部嫩肉, 裡脊肉",
+    "def": "the tender meat of the loin muscle on each side of the vertebral column"
+   }
+  ]
+ },
+ "tenderly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "溫和地；體貼地；柔和地",
+    "def": ""
+   }
+  ]
+ },
+ "tenderness": {
+  "ph": "/'tendәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柔軟, 親切, 柔和, 敏感, 易觸痛",
+    "def": "a tendency to express warm and affectionate feeling"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 觸痛",
+    "def": ""
+   }
+  ]
+ },
+ "tending": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 維護保養",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tending"
+ },
+ "tendinitis": {
+  "ph": "/,tendi'naitis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腱炎",
+    "def": ""
+   }
+  ]
+ },
+ "tendinous": {
+  "ph": "/'tendinәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腱的",
+    "def": "consisting of tendons or resembling a tendon"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腱的, 腱性的",
+    "def": ""
+   }
+  ]
+ },
+ "tendon": {
+  "ph": "/'tendәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腱",
+    "def": "a cord or band of inelastic tissue connecting a muscle with its bony attachment"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tendons｜過去式 tendoned"
+ },
+ "tendonitis": {
+  "ph": "/ten'dəʊnaɪtɪs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]腱炎",
+    "def": ""
+   }
+  ]
+ },
+ "tendril": {
+  "ph": "/'tendril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卷鬚, 卷鬚狀物",
+    "def": "slender stem-like structure by which some twining plants attach themselves to an object for support"
+   }
+  ],
+  "forms": "複數 tendrils｜過去式 tendrilled"
+ },
+ "tenement": {
+  "ph": "/'tenimәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "房屋, 住房, 保有物, 居所",
+    "def": "a run-down apartment house barely meeting minimal standards"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 地產, 住屋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenements"
+ },
+ "tenerife": {
+  "ph": "/,tenə'rif; -ri:f; ,tene'ri:fe/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特納利夫島",
+    "def": "a Spanish island in the Atlantic off the northwestern coast of Africa; the largest of the Canary Islands"
+   }
+  ]
+ },
+ "tenet": {
+  "ph": "/'tenit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "信條, 教義, 宗旨, 原則",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenets"
+ },
+ "tenfold": {
+  "ph": "/'tenfәuld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "十倍的, 十重的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "十倍地, 十重地",
+    "def": ""
+   }
+  ]
+ },
+ "tenia": {
+  "ph": "/'ti:njә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 絛蟲, 帶",
+    "def": ""
+   }
+  ]
+ },
+ "tennant": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "坦南特",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tennants"
+ },
+ "tennent": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人姓氏] 坦南特 Tennant的變體; [地名] [美國] 滕嫩特",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tennents"
+ },
+ "tennents": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(tennent 的複數)  [人名] [英格蘭人姓氏] 坦南特 Tennant的變體; [地名] [美國] 滕嫩特",
+    "def": ""
+   }
+  ]
+ },
+ "tenner": {
+  "ph": "/'tenә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "十英鎊紙幣, 十美元紙幣, 十英鎊, 十美元",
+    "def": "a United States bill worth 10 dollars"
+   }
+  ],
+  "forms": "複數 tenners"
+ },
+ "tennessee": {
+  "ph": "/.teni'si:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "田納西州",
+    "def": "a state in east central United States"
+   }
+  ]
+ },
+ "tennis": {
+  "ph": "/'tenis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網球",
+    "def": "a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court"
+   }
+  ]
+ },
+ "tennyson": {
+  "ph": "/'tenisn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "坦尼森（姓氏）",
+    "def": "Englishman and Victorian poet (1809-1892)"
+   }
+  ]
+ },
+ "tenon": {
+  "ph": "/'tenәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雄榫, 凸榫",
+    "def": "a projection at the end of a piece of wood that is shaped to fit into a mortise and form a mortise joint"
+   },
+   {
+    "pos": "vt.",
+    "zh": "接榫, 在(木料)上開榫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenons｜過去式 tenoned｜過去分詞 tenoned｜現在分詞 tenoning"
+ },
+ "tenor": {
+  "ph": "/'tenә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穩定的程序, 思路, 要旨, 大意, 謄本, 票據的限期, 男高音",
+    "def": "the adult male singing voice above baritone"
+   },
+   {
+    "pos": "adj.",
+    "zh": "男高音的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenors"
+ },
+ "tenpence": {
+  "ph": "/'tenpәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "十便士",
+    "def": "a decimal coin worth ten pennies"
+   }
+  ]
+ },
+ "tenpin": {
+  "ph": "/'tenpin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[美](十柱戲的)柱子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenpins"
+ },
+ "tenrec": {
+  "ph": "/'tenrek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動]馬島蝟（產於非洲馬達加斯加的無尾蝟）",
+    "def": "small often spiny insectivorous mammal of Madagascar; resembles a hedgehog"
+   }
+  ],
+  "forms": "複數 tenrecs"
+ },
+ "tense": {
+  "ph": "/tens/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "緊張的, 拉緊的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)緊張, (使)拉緊",
+    "def": "increase the tension on"
+   },
+   {
+    "pos": "n.",
+    "zh": "時態",
+    "def": "a grammatical category of verbs used to express distinctions of time"
+   }
+  ],
+  "forms": "過去式 tensed｜現在分詞 tensing｜過去分詞 tensed｜複數 tenses｜第三人稱單數 tenses"
+ },
+ "tensely": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "拉緊地；緊張地",
+    "def": ""
+   }
+  ]
+ },
+ "tenseness": {
+  "ph": "/'tensnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊張",
+    "def": ""
+   }
+  ]
+ },
+ "tensile": {
+  "ph": "/'tensail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可拉長的, 可伸長的, 張力的, 拉力的",
+    "def": "of or relating to tension"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 拉的",
+    "def": ""
+   }
+  ]
+ },
+ "tension": {
+  "ph": "/'tenʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊張, 不安, 拉緊, 張力, 壓力, 電壓",
+    "def": "(psychology) a state of mental or emotional strain or suspense"
+   },
+   {
+    "pos": "vt.",
+    "zh": "拉緊, 使緊張",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tensions｜過去分詞 tensioned"
+ },
+ "tensor": {
+  "ph": "/'tensә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "張肌, 張量",
+    "def": "a generalization of the concept of a vector"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 張量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tensors"
+ },
+ "tent": {
+  "ph": "/tent/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帳篷, 帷幕, 住處, 塞條, 塞子",
+    "def": "a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "住帳蓬, 宿營, 暫時居住",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用帳篷遮蓋, 使住帳篷, 用塞條嵌入",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tents｜過去式 tented｜現在分詞 tenting｜第三人稱單數 tents｜過去分詞 tented"
+ },
+ "tentacle": {
+  "ph": "/'tentәkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觸鬚, 觸手, 觸角",
+    "def": "something that acts like a tentacle in its ability to grasp and hold"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 觸角, 觸鬚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tentacles｜過去式 tentacled"
+ },
+ "tentacled": {
+  "ph": "/'tentəkld/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "有觸角[觸手]的",
+    "def": ""
+   }
+  ]
+ },
+ "tentative": {
+  "ph": "/'tentәtiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "試驗",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "試驗性的, 暫時的",
+    "def": ""
+   }
+  ]
+ },
+ "tentatively": {
+  "ph": "/'tentətɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "試驗性地, 暫時地; 權; 聊且",
+    "def": ""
+   }
+  ]
+ },
+ "tentativeness": {
+  "ph": "/'tentətɪvnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "固定, 暫定價",
+    "def": ""
+   }
+  ]
+ },
+ "tented": {
+  "ph": "/'tentid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "以帳篷遮蓋的, 在帳篷裡宿營的, 成帳篷形的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tented"
+ },
+ "tenterhooks": {
+  "ph": "/ˈtentəhʊks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<紡>拉幅鉤; 如坐針氈, 忐忑不安",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenterhooks"
+ },
+ "tenth": {
+  "ph": "/tenθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第十, 十分之一",
+    "def": ""
+   }
+  ]
+ },
+ "tenths": {
+  "ph": "/tenθs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "第十（個）( tenth的名詞複數 ); 十分之一; 第十的, 第十個的; 十分之一的",
+    "def": ""
+   }
+  ]
+ },
+ "tenuous": {
+  "ph": "/'tenjuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "稀薄的, 微細的, 纖細的, 脆弱的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 細薄的, 纖細的",
+    "def": ""
+   }
+  ]
+ },
+ "tenuously": {
+  "ph": "/'tenjʊəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "薄地; 細地; 空洞無物地; 無關緊要地",
+    "def": ""
+   }
+  ]
+ },
+ "tenuousness": {
+  "ph": "/'tenjʊəsnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄; 細; 空洞無物; 無關緊要",
+    "def": ""
+   }
+  ]
+ },
+ "tenure": {
+  "ph": "/'tenjuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "享有, 保有期",
+    "def": "the term during which some position is held"
+   },
+   {
+    "pos": "",
+    "zh": "[經] (財產,職位等的)佔有, 佔有權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tenures｜過去式 tenured"
+ },
+ "tenured": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "終身的；長期保有的",
+    "def": ""
+   }
+  ]
+ },
+ "tenurial": {
+  "ph": "/te'njuәriәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 依賴於保有權的, 土地保有的",
+    "def": ""
+   }
+  ]
+ },
+ "teosinte": {
+  "ph": "/,tiә'sinti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]墨西哥類蜀黍",
+    "def": "A large grass (Euchlaena luxurians) closely related to"
+   }
+  ]
+ },
+ "tepee": {
+  "ph": "/'ti:pi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(印地安人的)圓錐形帳篷",
+    "def": "a Native American tent; usually of conical shape"
+   }
+  ],
+  "forms": "複數 tepees"
+ },
+ "tepid": {
+  "ph": "/'tepid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "微溫的, 溫熱的, 不太熱烈的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 微溫的",
+    "def": ""
+   }
+  ]
+ },
+ "tepidly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "不冷不熱地（tepid的副詞形式）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "微溫地",
+    "def": ""
+   }
+  ]
+ },
+ "tequila": {
+  "ph": "/tә'ki:lә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒸餾酒, 龍舌蘭酒",
+    "def": "Mexican liquor made from fermented juices of an agave plant"
+   }
+  ],
+  "forms": "複數 tequilas"
+ },
+ "ter": {
+  "ph": "/tә:. tεә/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "領土（territory）；梯田（terrace）；土地的（territorial）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ters"
+ },
+ "terabyte": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 太位元組(萬億位元組)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terabytes"
+ },
+ "teratogenic": {
+  "ph": "/.terәtә'dʒenik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "畸形發生的",
+    "def": "of or relating to substances or agents that can interfere with normal embryonic development"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 畸形形成的",
+    "def": ""
+   }
+  ]
+ },
+ "tercet": {
+  "ph": "/'tә:sit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同韻三行詩節, 三連音",
+    "def": ""
+   }
+  ]
+ },
+ "terence": {
+  "ph": "/'terəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特倫斯（男子名）",
+    "def": "dramatist of ancient Rome (born in Greece) whose comedies were based on works by Menander (190?-159 BC)"
+   }
+  ]
+ },
+ "teresa": {
+  "ph": "/tә'ri:zә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特里薩（女名）",
+    "def": "Indian nun and missionary in the Roman Catholic Church (born of Albanian parents in what is now Macedonia); dedicated to helping the poor in India (1910-1997)"
+   }
+  ]
+ },
+ "teriyaki": {
+  "ph": "/,teri'jɑ:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "紅燒的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teriyaki"
+ },
+ "term": {
+  "ph": "/tә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "術語, 專有名詞, 期限, 學期, 任期, 條件, 價錢, 關係, 地位, 項, 界石",
+    "def": "a word or expression used for some particular thing"
+   },
+   {
+    "pos": "vt.",
+    "zh": "稱, 呼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 檢索詞; 項",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terms｜過去分詞 termed｜過去式 termed｜第三人稱單數 terms｜現在分詞 terming"
+ },
+ "terminal": {
+  "ph": "/'tә:minәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "終端機, 終點, 末端, 極限, 終點站",
+    "def": "station where transport vehicles load or unload passengers or goods"
+   },
+   {
+    "pos": "adj.",
+    "zh": "終點的, 定期的, 致死的, 結尾的, 末端的, 晚期的",
+    "def": "of or relating to or situated at the ends of a delivery route"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 終端; 終端裝置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terminals"
+ },
+ "terminally": {
+  "ph": "/'tә:minәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在末端, 末尾, 每期",
+    "def": ""
+   }
+  ]
+ },
+ "terminate": {
+  "ph": "/'tә:mineit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有結尾的, (可)結束的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "結束, 終止, 滿期",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使停止, 使結束, 使終止",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 終止",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 terminated｜現在分詞 terminating｜第三人稱單數 terminates｜過去式 terminated"
+ },
+ "terminated": {
+  "ph": "/'tɜ:mɪneɪtɪd/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "& vi. terminate的過去式",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "結束( terminate的過去式和過去分詞 ); 使終結; 解僱; （公共汽車或火車）到達終點站",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 terminated｜過去式 terminated"
+ },
+ "terminating": {
+  "ph": "/'tә:mi,neitiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 終止, 終結",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 terminating"
+ },
+ "termination": {
+  "ph": "/.tә:mi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "終止, 結束, 結果, 詞尾",
+    "def": "a coming to an end of a contract period"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 終止",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terminations"
+ },
+ "terminator": {
+  "ph": "/'tә:mineitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "終結者, 明暗界限",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 終結器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terminators"
+ },
+ "terminological": {
+  "ph": "/.tә:minә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "術語的, 術語學的",
+    "def": "of or concerning terminology"
+   }
+  ]
+ },
+ "terminology": {
+  "ph": "/.tә:mi'nɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "術語, 術語學",
+    "def": "a system of words used to name things in a particular discipline"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 名詞學, 命名法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terminologies"
+ },
+ "terminus": {
+  "ph": "/'tә:minәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "終點, 界標, 終點站",
+    "def": "(architecture) a statue or a human bust or an animal carved out of the top of a square pillar; originally used as a boundary marker in ancient Rome"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 界標, 界牌, 界石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 termini"
+ },
+ "termite": {
+  "ph": "/'tә:mait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白蟻",
+    "def": "whitish soft-bodied ant-like social insect that feeds on wood"
+   }
+  ],
+  "forms": "複數 termites"
+ },
+ "termly": {
+  "ph": "/'t\\\\\\\\:mli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "定期的",
+    "def": "Occurring every term; as, a termly fee."
+   },
+   {
+    "pos": "adv.",
+    "zh": "定期地",
+    "def": "Term by term; every term."
+   }
+  ]
+ },
+ "terms": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "條件, 條款, 費用, 價錢, 關係, 地位, 交誼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 條件",
+    "def": ""
+   }
+  ]
+ },
+ "tern": {
+  "ph": "/tә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "三個一組, 燕鷗",
+    "def": "small slender gull having narrow wings and a forked tail"
+   }
+  ],
+  "forms": "複數 terns"
+ },
+ "ternary": {
+  "ph": "/'tә:nәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "三個組成的, 三個一組的, 三重的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 三進位制的; 三態的",
+    "def": ""
+   }
+  ]
+ },
+ "terpene": {
+  "ph": "/'tә:pi:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 萜烯; 萜(烴)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 萜[烯], 萜[烴]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terpenes"
+ },
+ "terra": {
+  "ph": "/'terә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 土, 土地",
+    "def": ""
+   }
+  ]
+ },
+ "terrace": {
+  "ph": "/'terәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "階地, 梯田, 房屋之平頂, 陽臺, 沿岸防地, 露臺",
+    "def": "a level shelf of land interrupting a declivity (with steep slopes above and below)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "疊層式的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成梯田, 使成有平臺屋頂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terraces｜現在分詞 terracing｜過去式 terraced｜第三人稱單數 terraces｜過去分詞 terraced"
+ },
+ "terraced": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "階地的；有平臺的；沿斜坡建造的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 terraced"
+ },
+ "terracing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 多層縫術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terracings"
+ },
+ "terracotta": {
+  "ph": "/terә'kɔtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "赤土, 赤陶器, 赤陶, 赤褐色, 一種帶褐色的柑子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terracottas"
+ },
+ "terrain": {
+  "ph": "/'terein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地帶, 地區, 地形, 領域, 範圍",
+    "def": "a piece of ground having specific characteristics or military potential"
+   }
+  ],
+  "forms": "複數 terrains"
+ },
+ "terrapin": {
+  "ph": "/'terәpin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水龜",
+    "def": "any of various edible North American web-footed turtles living in fresh or brackish water"
+   }
+  ],
+  "forms": "複數 terrapins"
+ },
+ "terrarium": {
+  "ph": "/te'rєәriәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陸棲小動物飼養箱, 小植物裁培盒",
+    "def": "a vivarium in which selected living plants are kept and observed"
+   }
+  ],
+  "forms": "複數 terrariums"
+ },
+ "terrazzo": {
+  "ph": "/tә'ræzәu, tә'rɑ:tsәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磨石子地",
+    "def": ""
+   }
+  ]
+ },
+ "terre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Trans-Europe Railroad Express 橫貫歐洲鐵路特別快車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terres"
+ },
+ "terrence": {
+  "ph": "/tərrəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特倫斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "terrestrial": {
+  "ph": "/tә'restriәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地球上的人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "地球的, 陸生的, 陸地的, 人間的",
+    "def": "operating or living or growing on land"
+   }
+  ],
+  "forms": "複數 terrestrials"
+ },
+ "terri": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Terri)人名；(英)特里, 特麗(女名)；(芬、意)泰裡",
+    "def": ""
+   }
+  ]
+ },
+ "terrible": {
+  "ph": "/'terәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可怕的, 令人恐懼的, 極壞的",
+    "def": ""
+   }
+  ]
+ },
+ "terribly": {
+  "ph": "/'terәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可怕地, 甚為, 非常",
+    "def": ""
+   }
+  ]
+ },
+ "terrier": {
+  "ph": "/'teriә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緝捕罪犯的人, 地籍冊",
+    "def": "any of several usually small short-bodied breeds originally trained to hunt animals living underground"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 地籍冊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terriers"
+ },
+ "terrific": {
+  "ph": "/tә'rifik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非常好的, 極端的, 可怕的",
+    "def": ""
+   }
+  ]
+ },
+ "terrifically": {
+  "ph": "/tә'rifikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "非常地, 極端地, 可怕地",
+    "def": ""
+   }
+  ]
+ },
+ "terrified": {
+  "ph": "/'terifaid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受驚嚇的；感到恐懼的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 terrified｜過去式 terrified"
+ },
+ "terrify": {
+  "ph": "/'terifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使恐懼, 恐嚇",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 terrified｜現在分詞 terrifying｜過去式 terrified｜第三人稱單數 terrifies"
+ },
+ "terrifying": {
+  "ph": "/'tәrifaiiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人恐懼的；駭人的；極大的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 terrifying"
+ },
+ "terrifyingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "驚人地；令人害怕地",
+    "def": ""
+   }
+  ]
+ },
+ "terrine": {
+  "ph": "/te'ri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陶製蓋碗,陶製蓋碗食品,(燒菜兼上菜用的)沙鍋",
+    "def": "a pate or fancy meatloaf baked in an earthenware casserole"
+   }
+  ],
+  "forms": "複數 terrines"
+ },
+ "territorial": {
+  "ph": "/.teri'tɒ:riәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "領土的, 土地的, 地方的, 區域性的",
+    "def": "of or relating to a territory"
+   },
+   {
+    "pos": "n.",
+    "zh": "本土自衛隊隊員",
+    "def": "nonprofessional soldier member of a territorial military unit"
+   }
+  ],
+  "forms": "複數 territorials"
+ },
+ "territoriality": {
+  "ph": "/,teri,tɔ:ri'æliti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 領土權, 領土性質或狀態",
+    "def": ""
+   }
+  ]
+ },
+ "territorially": {
+  "ph": "/,teri'tɔ:riəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在領土方面",
+    "def": ""
+   }
+  ]
+ },
+ "territory": {
+  "ph": "/'teritәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領土, 領地, 版圖, 地區, 活動範圍",
+    "def": "an area of knowledge or interest"
+   },
+   {
+    "pos": "",
+    "zh": "[經] (推銷員等的)推銷區域",
+    "def": ""
+   }
+  ],
+  "forms": "複數 territories"
+ },
+ "terror": {
+  "ph": "/'terә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "恐怖, 可怕的人",
+    "def": "a person who inspires fear or dread"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 驚嚇, 驚悸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terrors"
+ },
+ "terrorise": {
+  "ph": "/'terәraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使恐怖, 恐嚇, 威脅, 脅迫",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "引起恐怖, 實行恐怖統治",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 terrorised｜現在分詞 terrorising｜過去式 terrorised｜第三人稱單數 terrorises"
+ },
+ "terrorism": {
+  "ph": "/'terәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "恐怖主義, 恐怖統治, 恐怖狀態",
+    "def": "the calculated use of violence (or the threat of violence) against civilians in order to attain goals that are political or religious or ideological in nature; "
+   },
+   {
+    "pos": "",
+    "zh": "[法] 脅迫, 暴政, 恐怖政治",
+    "def": ""
+   }
+  ]
+ },
+ "terrorist": {
+  "ph": "/'terәrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "恐怖分子",
+    "def": "a radical who employs terror as a political weapon; usually organizes with other terrorists in small cells; often uses religion as a cover for terrorist activit"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 恐怖份子, 恐怖主義",
+    "def": ""
+   }
+  ],
+  "forms": "複數 terrorists"
+ },
+ "terroristic": {
+  "ph": "/.terә'ristik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "恐怖主義的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 恐怖行為的, 恐怖主義的",
+    "def": ""
+   }
+  ]
+ },
+ "terrorize": {
+  "ph": "/'terәraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使驚恐, 恐嚇",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "實施恐怖統治",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 terrorized｜過去式 terrorized｜現在分詞 terrorizing｜第三人稱單數 terrorizes"
+ },
+ "terrorized": {
+  "ph": "/ˈterəˌraɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使恐怖( terrorize的過去式和過去分詞 ); 使畏懼; 使用脅迫或暴力手段恐嚇; 脅迫（某人做某事）",
+    "def": ""
+   }
+  ]
+ },
+ "terry": {
+  "ph": "/'teri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毛圈, 毛圈織物",
+    "def": "English actress (1847-1928)"
+   }
+  ],
+  "forms": "複數 terries"
+ },
+ "terrycloth": {
+  "ph": "/teraɪk'lɒθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毛巾布",
+    "def": ""
+   }
+  ]
+ },
+ "terse": {
+  "ph": "/tә:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "簡潔的, 扼要的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 terser"
+ },
+ "tersely": {
+  "ph": "/tɜ:slɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "簡潔地, 精練地",
+    "def": ""
+   }
+  ]
+ },
+ "tertiary": {
+  "ph": "/'tә:ʃiәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "第三的, 第三位的, 第三產業的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "第三修道會會員, 第三紀",
+    "def": "from 63 million to 2 million years ago"
+   },
+   {
+    "pos": "",
+    "zh": "第三的; 三代的(指無機鹽)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tertiaries"
+ },
+ "terylene": {
+  "ph": "/'terili:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滌綸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 滌綸",
+    "def": ""
+   }
+  ]
+ },
+ "tes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "熱塑性彈性體, 苯乙烯類；苯乙烯熱塑性彈性體；熱能存貯（Thermal Energy Storage）；遙測結果計算站（Telemetering Evaluation Station）",
+    "def": ""
+   }
+  ]
+ },
+ "tesco": {
+  "ph": "/teskəu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特斯科（財富500強公司之一）",
+    "def": ""
+   }
+  ]
+ },
+ "tess": {
+  "ph": "/tes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泰絲（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "tessa": {
+  "ph": "/'tesә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泰薩(Tess的異體)(f.)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tessas"
+ },
+ "tesserae": {
+  "ph": "/'tesəraɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "入場券, 票子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tesserae"
+ },
+ "tessitura": {
+  "ph": "/tesi'tu:rɑ:, -'tjuәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[樂]聲域",
+    "def": ""
+   }
+  ]
+ },
+ "test": {
+  "ph": "/test/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測試, 試驗, 化驗, 檢驗, 考驗, 甲殼",
+    "def": "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc"
+   },
+   {
+    "pos": "vt.",
+    "zh": "測試, 試驗, 化驗",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "接受測驗, 進行測試",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tests｜過去分詞 tested｜現在分詞 testing｜過去式 tested｜第三人稱單數 tests"
+ },
+ "test case": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 檢查例項",
+    "def": ""
+   }
+  ]
+ },
+ "test match": {
+  "ph": "/test mætʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "國際板球錦標賽",
+    "def": ""
+   }
+  ]
+ },
+ "test pilot": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "試飛員",
+    "def": ""
+   }
+  ]
+ },
+ "test tube": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "試管",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 試管",
+    "def": ""
+   }
+  ]
+ },
+ "testa": {
+  "ph": "/'testә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 種皮, 外種皮(植物); 殼, 甲殼, 介殼(蝦、蟹、蛤、昆蟲等的)",
+    "def": ""
+   }
+  ]
+ },
+ "testable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可試驗的, 有資格作證人的, 有資格立遺囑的, 可根據遺囑處理的",
+    "def": "Capable of being tested or proved."
+   }
+  ]
+ },
+ "testament": {
+  "ph": "/'testәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遺囑, <<聖約書>>",
+    "def": "a profession of belief"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 遺言, 遺囑, 確實的證明",
+    "def": ""
+   }
+  ],
+  "forms": "複數 testaments"
+ },
+ "testamentary": {
+  "ph": "/.testә'mentәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遺囑的, 據遺囑的, 遺囑中有的",
+    "def": "of or relating to a will or testament or bequeathed by a will or testament"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 遺囑的, 遺囑人的",
+    "def": ""
+   }
+  ]
+ },
+ "testator": {
+  "ph": "/te'steitә. 'tes-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立遺囑者",
+    "def": "a person who makes a will"
+   }
+  ],
+  "forms": "複數 testators"
+ },
+ "testbed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 試驗檯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 testbeds"
+ },
+ "teste": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 終結部分",
+    "def": ""
+   }
+  ],
+  "forms": "複數 testes"
+ },
+ "tested": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "經過試驗的, 經受過考驗的, 經驗定的, 檢驗無病的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tested｜過去式 tested"
+ },
+ "tester": {
+  "ph": "/'testә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考試人, 做試驗者, 試驗裝置, 天蓋, 華蓋",
+    "def": "a flat canopy (especially one over a four-poster bed)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 檢驗器; 試驗儀器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 testers"
+ },
+ "testicle": {
+  "ph": "/'testikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睪丸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 睪丸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 testicles"
+ },
+ "testicular": {
+  "ph": "/tes'tikjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "睪丸的, 睪丸狀的",
+    "def": "of or involving the testes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 睪丸的",
+    "def": ""
+   }
+  ]
+ },
+ "testify": {
+  "ph": "/'testifai/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "證明, 作證, 宣告, 表明",
+    "def": "give testimony in a court of law"
+   }
+  ],
+  "forms": "過去式 testified｜第三人稱單數 testifies｜現在分詞 testifying｜過去分詞 testified"
+ },
+ "testily": {
+  "ph": "/'testili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "易怒地, 暴躁地",
+    "def": ""
+   }
+  ]
+ },
+ "testimonial": {
+  "ph": "/,testi'mәunjәl, -niәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "證明書, 介紹信, 獎品, 獎金, 獎狀, 感謝信, 表揚信",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "(有關)證明書的, 鑑定書的, 表揚的, 褒獎的",
+    "def": "expressing admiration or appreciation"
+   }
+  ],
+  "forms": "複數 testimonials"
+ },
+ "testimony": {
+  "ph": "/'testimәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "證言, 證據, 宣告",
+    "def": "a solemn statement made under oath"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 證據",
+    "def": ""
+   }
+  ],
+  "forms": "複數 testimonies"
+ },
+ "testiness": {
+  "ph": "/'testinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "易怒, 暴躁",
+    "def": "feeling easily irritated"
+   }
+  ]
+ },
+ "testing": {
+  "ph": "/'testiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測試",
+    "def": "the act of subjecting to experimental test in order to determine how well something works"
+   },
+   {
+    "pos": "adj.",
+    "zh": "吃力的, 試驗的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 testing｜複數 testings"
+ },
+ "testis": {
+  "ph": "/'testis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睪丸",
+    "def": "one of the two male reproductive glands that produce spermatozoa and secrete androgens"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 睪丸; 四迭體下丘",
+    "def": ""
+   }
+  ]
+ },
+ "testosterone": {
+  "ph": "/te'stɒstәrәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睪丸激素",
+    "def": "a potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 睪酮",
+    "def": ""
+   }
+  ]
+ },
+ "testy": {
+  "ph": "/'testi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易怒的, 暴躁的",
+    "def": ""
+   }
+  ]
+ },
+ "tetanus": {
+  "ph": "/'tetәnәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "破傷風",
+    "def": "an acute and serious infection of the central nervous system caused by bacterial infection of open wounds; spasms of the jaw and laryngeal muscles may occur dur"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 破傷風; 強直",
+    "def": ""
+   }
+  ]
+ },
+ "tetchy": {
+  "ph": "/'tetʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易怒的, 暴躁的, 突然發脾氣的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 tetchier"
+ },
+ "tether": {
+  "ph": "/'teðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "繫繩, 系鏈, 界限, 範圍",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "栓, 束縛, 限制",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tethered｜第三人稱單數 tethers｜過去式 tethered｜現在分詞 tethering｜複數 tethers"
+ },
+ "tethered": {
+  "ph": "/ˈteðəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用繩子拴住（牲畜）( tether的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tethered"
+ },
+ "tetley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tetley)人名；(英)泰特利",
+    "def": ""
+   }
+  ]
+ },
+ "tetra": {
+  "ph": "/'tetrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脂鯉",
+    "def": "brightly colored tropical freshwater fishes"
+   }
+  ],
+  "forms": "複數 tetras"
+ },
+ "tetrachloride": {
+  "ph": "/,tetrә'klɔ:raid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 四氯化物",
+    "def": ""
+   }
+  ]
+ },
+ "tetracycline": {
+  "ph": "/.tetrә'saiklin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四環素",
+    "def": "an antibiotic (trade name Achromycin) derived from microorganisms of the genus Streptomyces and used broadly to treat infections"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 四環素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tetracyclines"
+ },
+ "tetrahedral": {
+  "ph": "/.tetrә'hi:drәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有四面的, 四面體的",
+    "def": "Having, or composed of, four sides."
+   }
+  ],
+  "forms": "複數 tetrahedrals"
+ },
+ "tetrahedron": {
+  "ph": "/.tetrә'hi:drәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四面體",
+    "def": "any polyhedron having four plane faces"
+   }
+  ],
+  "forms": "複數 tetrahedrons"
+ },
+ "tetrapod": {
+  "ph": "/'tetrәpәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四足動物",
+    "def": "a vertebrate animal having four feet or legs or leglike appendages"
+   },
+   {
+    "pos": "adj.",
+    "zh": "四足動物的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tetrapods"
+ },
+ "tetris": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俄羅斯方塊（一種早期的益智遊戲）",
+    "def": ""
+   }
+  ]
+ },
+ "teuton": {
+  "ph": "/'tju:tn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "條頓人, 日耳曼人",
+    "def": "someone (especially a German) who speaks a Germanic language"
+   }
+  ],
+  "forms": "複數 teutons"
+ },
+ "teutonic": {
+  "ph": "/tju:'tɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "條頓人的, 日耳曼人的",
+    "def": "of or pertaining to the ancient Teutons or their languages"
+   },
+   {
+    "pos": "n.",
+    "zh": "日耳曼語",
+    "def": ""
+   }
+  ]
+ },
+ "tew": {
+  "ph": "/tju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tew)人名；(英)圖",
+    "def": "A rope or chain for towing a boat; also, a cord; a string."
+   },
+   {
+    "pos": "vi.",
+    "zh": "努力工作；東奔西走",
+    "def": ""
+   }
+  ]
+ },
+ "tewkesbury": {
+  "ph": "/'tu:ks,beri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖克斯伯裡（英格蘭西部地名）；圖克斯伯裡（姓氏）",
+    "def": "the final battle of the War of the Roses in 1471 in which Edward IV defeated the Lancastrians"
+   }
+  ]
+ },
+ "tex": {
+  "ph": "/teks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 特; 特克斯",
+    "def": ""
+   }
+  ]
+ },
+ "texaco": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德士古（財富500強公司之一, 總部所在地美國, 主要經營煉油）",
+    "def": ""
+   }
+  ]
+ },
+ "texan": {
+  "ph": "/'teksәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "得克薩斯州的",
+    "def": "of or relating to or characteristic of Texas or its residents"
+   },
+   {
+    "pos": "n.",
+    "zh": "得克薩斯州的人, 得克薩斯人",
+    "def": "a native or resident of Texas"
+   }
+  ],
+  "forms": "複數 texans"
+ },
+ "texas": {
+  "ph": "/'teksәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德克薩斯",
+    "def": "the second largest state; located in southwestern United States on the Gulf of Mexico"
+   }
+  ]
+ },
+ "text": {
+  "ph": "/tekst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文字, 正文, 課文, 主題, 聖經文句, 樂譜",
+    "def": "the words of something written"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 電文; 文字; 正文",
+    "def": ""
+   }
+  ],
+  "forms": "複數 texts"
+ },
+ "textbook": {
+  "ph": "/'tekstbuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教科書",
+    "def": "a book prepared for use in schools or colleges"
+   }
+  ],
+  "forms": "複數 textbooks"
+ },
+ "textile": {
+  "ph": "/'tekstail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紡織品, 紡織業",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "織的, 紡織的",
+    "def": "of or relating to fabrics or fabric making"
+   }
+  ],
+  "forms": "複數 textiles"
+ },
+ "textual": {
+  "ph": "/'tekstʃuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "文字的, 原文的",
+    "def": "of or relating to or based on a text"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 原文的, 本文的, 文字上的",
+    "def": ""
+   }
+  ]
+ },
+ "textualism": {
+  "ph": "/'tekstjjәlizəm,-tʃjә-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拘泥於<<聖經>>原文, 墨守原文",
+    "def": ""
+   }
+  ]
+ },
+ "textuality": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "文字性",
+    "def": ""
+   }
+  ]
+ },
+ "textualized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "文字化",
+    "def": ""
+   }
+  ]
+ },
+ "textually": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 正文處的",
+    "def": ""
+   }
+  ]
+ },
+ "textural": {
+  "ph": "/'tekstʃuәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "組織上的, 構造上的",
+    "def": "Of or pertaining to texture."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 結構的, 構造的; 組織的",
+    "def": ""
+   }
+  ]
+ },
+ "texture": {
+  "ph": "/'tekstʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(織物的)密度, (材料等的)結構, 紋理",
+    "def": "the feel of a surface or a fabric"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 紋理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 textures｜過去分詞 textured｜現在分詞 texturing"
+ },
+ "textured": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有...樣質地的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 textured"
+ }
+}

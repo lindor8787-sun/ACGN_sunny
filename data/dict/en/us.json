@@ -1,0 +1,473 @@
+{
+ "us": {
+  "ph": "/ʌs/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "我們",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 美國",
+    "def": ""
+   }
+  ]
+ },
+ "usa": {
+  "ph": "/ju: es 'ei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "美國, 美利堅合眾國, 美國陸軍",
+    "def": ""
+   }
+  ]
+ },
+ "usability": {
+  "ph": "/.ju:zә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可用性",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 工藝性",
+    "def": ""
+   }
+  ]
+ },
+ "usable": {
+  "ph": "/'ju:zәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可用的, 方便使用的, 能用的",
+    "def": ""
+   }
+  ]
+ },
+ "usaf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "美國空軍, 美國陸軍部隊",
+    "def": ""
+   }
+  ]
+ },
+ "usage": {
+  "ph": "/'ju:sidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用法, 使用, 習慣, 慣用法, 習慣法",
+    "def": "the customary manner in which a language (or a form of a language) is spoken or written"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 使用情況, 使用用途, 慣例",
+    "def": ""
+   }
+  ],
+  "forms": "複數 usages"
+ },
+ "usaid": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國國際開發署（United States Agency for International Development）",
+    "def": ""
+   }
+  ]
+ },
+ "use": {
+  "ph": "/ju:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使用, 習慣, 使用價值, 用法, 使用權",
+    "def": "the act of using"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使用, 利用, 運用, 耗費",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "慣常",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 used｜現在分詞 using｜過去式 used｜第三人稱單數 uses｜複數 uses"
+ },
+ "useable": {
+  "ph": "/'ju:zәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可用的, 能用的, 合用的, 便於使用的",
+    "def": ""
+   }
+  ]
+ },
+ "used": {
+  "ph": "/'ju:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使用過的, 二手的, 習慣的",
+    "def": "employed in accomplishing something"
+   }
+  ],
+  "forms": "過去分詞 used｜過去式 used"
+ },
+ "used to": {
+  "ph": "/'ju:s tә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "過去經常(做)..., 過去有規律地發生",
+    "def": ""
+   }
+  ]
+ },
+ "useful": {
+  "ph": "/'ju:sful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有用的, 有益的",
+    "def": "being of use or service"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 有用的, 有效的",
+    "def": ""
+   }
+  ]
+ },
+ "usefully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有效地, 有用地",
+    "def": ""
+   }
+  ]
+ },
+ "usefulness": {
+  "ph": "/'ju:sfjlnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有用, 有益",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 有用, 有用性",
+    "def": ""
+   }
+  ]
+ },
+ "useless": {
+  "ph": "/'ju:slis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無用的, 無效的, 無益的",
+    "def": "having no beneficial use or incapable of functioning usefully"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 無用, 無價值, 無效",
+    "def": ""
+   }
+  ]
+ },
+ "uselessly": {
+  "ph": "/'ju:sləslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無益地, 無用地",
+    "def": ""
+   }
+  ]
+ },
+ "uselessness": {
+  "ph": "/'ju:sləsnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無用",
+    "def": ""
+   }
+  ]
+ },
+ "user": {
+  "ph": "/'ju:zә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使用者",
+    "def": "a person who makes use of a thing; someone who uses or employs something"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 使用者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 users"
+ },
+ "user-friendly": {
+  "ph": "/'ju:zə 'frendlɪ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使用者介面友好的, 使用者容易掌握使用的",
+    "def": ""
+   }
+  ]
+ },
+ "username": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[計]由字母或數字組成的使用者名稱稱, 以標明使用者的身份",
+    "def": ""
+   }
+  ]
+ },
+ "usher": {
+  "ph": "/'ʌʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "引座員, 招待員",
+    "def": "an official stationed at the entrance of a courtroom or legislative chamber"
+   },
+   {
+    "pos": "vt.",
+    "zh": "引導, 招待",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "作招待員",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ushered｜過去分詞 ushered｜現在分詞 ushering｜第三人稱單數 ushers｜複數 ushers"
+ },
+ "usherette": {
+  "ph": "/.ʌʃә'ret/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女引座員",
+    "def": "a female usher"
+   }
+  ],
+  "forms": "複數 usherettes"
+ },
+ "usk": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Usk)人名；(英)厄斯克",
+    "def": ""
+   }
+  ]
+ },
+ "usl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "使用者專門語言（UNIX）",
+    "def": ""
+   }
+  ]
+ },
+ "usm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "水下對地導彈（Underwater-to-Surface Missile）",
+    "def": ""
+   }
+  ]
+ },
+ "uss": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "美國(工業)規格, 美國(工業)標準, 美國參議院",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ussed｜現在分詞 ussing"
+ },
+ "ussr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "蘇聯",
+    "def": ""
+   }
+  ]
+ },
+ "ustinov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尤斯蒂諾夫（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "usual": {
+  "ph": "/'ju:ʒuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平常的, 通常的",
+    "def": "occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure"
+   }
+  ]
+ },
+ "usually": {
+  "ph": "/'ju:ʒuәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "通常, 大抵",
+    "def": ""
+   }
+  ]
+ },
+ "usufruct": {
+  "ph": "/'ju:zjufrʌkt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用益權, 使用權, 行使用益權",
+    "def": "a legal right to use and derive profit from property belonging to someone else provided that the property itself is not injured in any way"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 用益權",
+    "def": ""
+   }
+  ]
+ },
+ "usurer": {
+  "ph": "/'ju:ʒәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高利貸者",
+    "def": "someone who lends money at excessive rates of interest"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 高利貸者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 usurers"
+ },
+ "usurious": {
+  "ph": "/ju:'zjuәriәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "收取高利的, 高利貸的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 取高利的, 高利貸的",
+    "def": ""
+   }
+  ]
+ },
+ "usurp": {
+  "ph": "/ju:'zә:p/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "篡奪, 侵佔, 奪取",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "篡奪, 侵佔",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 usurped｜現在分詞 usurping｜過去式 usurped｜第三人稱單數 usurps"
+ },
+ "usurpation": {
+  "ph": "/.ju:zә'peiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "篡奪, 霸佔, 奪取",
+    "def": "wrongfully seizing and holding (an office or powers) by force (especially the seizure of a throne or supreme authority)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 篡奪, 強奪, 霸佔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 usurpations"
+ },
+ "usurper": {
+  "ph": "/ju:'zә:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "篡奪者, 奪取者",
+    "def": "one who wrongfully or illegally seizes and holds the place of another"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 篡位者, 篡奪權者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 usurpers"
+ },
+ "usury": {
+  "ph": "/'ju:ʒuri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高利貸",
+    "def": "an exorbitant or unlawful rate of interest"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 高利貸, 高利",
+    "def": ""
+   }
+  ]
+ }
+}

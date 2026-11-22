@@ -1,0 +1,3265 @@
+{
+ "fe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 現場工程師",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鐵(26號元素)",
+    "def": ""
+   }
+  ]
+ },
+ "fealty": {
+  "ph": "/'fi:әlti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "忠誠, 忠貞, 忠實",
+    "def": ""
+   }
+  ]
+ },
+ "fear": {
+  "ph": "/fiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "恐怖, 害怕, 擔心",
+    "def": "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)"
+   },
+   {
+    "pos": "v.",
+    "zh": "害怕, 恐懼, 為...擔心, 敬畏",
+    "def": "be afraid or feel anxious or apprehensive about a possible or probable situation or event"
+   }
+  ],
+  "forms": "複數 fears｜過去式 feared｜過去分詞 feared｜第三人稱單數 fears｜現在分詞 fearing"
+ },
+ "feared": {
+  "ph": "/fiəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "畏懼( fear的過去式和過去分詞 ); 為…憂慮（或擔心、焦慮）; 敬畏（神等）; 感到害怕",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 feared｜過去式 feared"
+ },
+ "fearful": {
+  "ph": "/'fiәful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可怕的, 恐怕的, 擔心的",
+    "def": ""
+   }
+  ]
+ },
+ "fearfully": {
+  "ph": "/'fiәfuli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "頗, 可怕地, 非常地",
+    "def": ""
+   }
+  ]
+ },
+ "fearfulness": {
+  "ph": "/'fiәfulnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可怕, 厲害",
+    "def": "the trait of being afraid"
+   }
+  ]
+ },
+ "fearless": {
+  "ph": "/'fiәlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大膽的, 勇敢的, 無畏的",
+    "def": ""
+   }
+  ]
+ },
+ "fearlessly": {
+  "ph": "/'fɪələslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無畏地, 大膽地",
+    "def": ""
+   }
+  ]
+ },
+ "fearlessness": {
+  "ph": "/'fɪələsnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無畏, 勇敢",
+    "def": "feeling no fear"
+   }
+  ]
+ },
+ "fearon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fearon)人名；(英)費倫",
+    "def": ""
+   }
+  ]
+ },
+ "fearsome": {
+  "ph": "/'fiәsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嚇人的, 可怕的, 害怕的",
+    "def": ""
+   }
+  ]
+ },
+ "fearsomely": {
+  "ph": "/'fɪəsəmlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "fearsome（可怕的）的變形",
+    "def": ""
+   }
+  ]
+ },
+ "feasibility": {
+  "ph": "/.fi:zә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可行性, 可能性",
+    "def": "the quality of being doable"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 可行性",
+    "def": ""
+   }
+  ]
+ },
+ "feasible": {
+  "ph": "/'fi:zәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能實行的, 可行的, 適宜的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可行的, 可執行的, 可完成的",
+    "def": ""
+   }
+  ]
+ },
+ "feasibly": {
+  "ph": "/'fi:zɪbəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "切實",
+    "def": ""
+   }
+  ]
+ },
+ "feast": {
+  "ph": "/fi:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宴會, 酒席, 享受, 節日",
+    "def": "something experienced with great delight"
+   },
+   {
+    "pos": "vt.",
+    "zh": "款待, 享樂, 請客",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "參加宴會, 盡情地吃, 享受",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feasts｜現在分詞 feasting｜過去式 feasted｜過去分詞 feasted｜第三人稱單數 feasts"
+ },
+ "feasting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "享樂, 請客（feast的現在分詞）；參加宴會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feastings｜現在分詞 feasting"
+ },
+ "feat": {
+  "ph": "/fi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壯舉, 功績, 技藝表演",
+    "def": "a notable achievement"
+   },
+   {
+    "pos": "adj.",
+    "zh": "靈巧的, 合適的, 整潔的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feats"
+ },
+ "feather": {
+  "ph": "/'feðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羽毛",
+    "def": "the light horny waterproof structure forming the external covering of birds"
+   },
+   {
+    "pos": "vi.",
+    "zh": "長羽毛",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用羽毛裝飾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feathers｜過去式 feathered｜現在分詞 feathering｜過去分詞 feathered｜第三人稱單數 feathers"
+ },
+ "featherbed": {
+  "ph": "/'feðәbed/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "擔任閒職",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使擔任閒職",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "擔任閒職的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 featherbedding｜過去式 featherbedded｜第三人稱單數 featherbeds｜過去分詞 featherbedded"
+ },
+ "feathered": {
+  "ph": "/'feðәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有羽毛的, 羽狀的, 用羽毛覆蓋的",
+    "def": "having or covered with feathers"
+   }
+  ],
+  "forms": "過去式 feathered｜過去分詞 feathered"
+ },
+ "feathering": {
+  "ph": "/'feðәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羽毛, 十分輕快的弓法, 叢毛, 羽狀物, 羽飾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 釉上硫花",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 feathering｜複數 featherings"
+ },
+ "featherless": {
+  "ph": "/'feðәlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無羽毛的",
+    "def": ""
+   }
+  ]
+ },
+ "featherstone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Featherstone)人名；(英)費瑟斯通",
+    "def": ""
+   }
+  ]
+ },
+ "featherweight": {
+  "ph": "/'feðәweit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "非常輕的人或物, 不重要的人, 輕量級選手",
+    "def": "an amateur boxer who weighs no more than 126 pounds"
+   }
+  ],
+  "forms": "複數 featherweights"
+ },
+ "feathery": {
+  "ph": "/'feðәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生有羽毛的, 柔軟如羽毛的",
+    "def": ""
+   }
+  ]
+ },
+ "feature": {
+  "ph": "/'fi:tʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "面孔的一部分(如眼、口等), 特徵, 容貌, 特色, 特寫",
+    "def": "a prominent attribute or aspect of something"
+   },
+   {
+    "pos": "vt.",
+    "zh": "是...的特色, 特寫, 放映",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "起重要作用",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 特性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 features｜現在分詞 featuring｜第三人稱單數 features｜過去分詞 featured｜過去式 featured"
+ },
+ "feature film": {
+  "ph": "/ˈfi:tʃə film/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "長片; 故事片, 劇情片",
+    "def": ""
+   }
+  ]
+ },
+ "featured": {
+  "ph": "/'fi:tʃәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "面貌秀麗的, 被作為特色的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 featured｜過去分詞 featured"
+ },
+ "featureless": {
+  "ph": "/'fi:tʃәlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無特色的, 平凡的",
+    "def": ""
+   }
+  ]
+ },
+ "features": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "容貌；產品特點, 特徵；嘴臉（feature的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "feb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "二月（February）",
+    "def": ""
+   }
+  ]
+ },
+ "feb.": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "二月",
+    "def": ""
+   }
+  ]
+ },
+ "febrile": {
+  "ph": "/'fi:brail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發熱的, 熱病的, 熱性的",
+    "def": "of or relating to or characterized by fever"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 熱性的, 發熱的",
+    "def": ""
+   }
+  ]
+ },
+ "february": {
+  "ph": "/'februәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "二月",
+    "def": "the month following January and preceding March"
+   }
+  ]
+ },
+ "fecal": {
+  "ph": "/'fi:kәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "排洩物的, 渣滓的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 糞便的",
+    "def": ""
+   }
+  ]
+ },
+ "feces": {
+  "ph": "/'fi:'si:z/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "糞, 屎",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 糞便",
+    "def": ""
+   }
+  ]
+ },
+ "feckless": {
+  "ph": "/'feklis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無效的, 無能的, 不負責任的",
+    "def": ""
+   }
+  ]
+ },
+ "fecklessness": {
+  "ph": "/'feklisnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沒有價值, 沒有長遠目標, 不負責任",
+    "def": "worthlessness due to being feeble and ineffectual"
+   }
+  ]
+ },
+ "fecund": {
+  "ph": "/'fi:kәnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生殖力旺盛的, 多產的, 豐饒的, 肥沃的",
+    "def": ""
+   }
+  ]
+ },
+ "fecundity": {
+  "ph": "/fi'kʌnditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多產, 豐饒, 肥沃, 繁殖力",
+    "def": "the intellectual productivity of a creative imagination"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生殖能, 生殖力",
+    "def": ""
+   }
+  ]
+ },
+ "fed": {
+  "ph": "/fed/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "feed的過去式和過去分詞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 聯邦儲備局",
+    "def": ""
+   }
+  ]
+ },
+ "fedayeen": {
+  "ph": "/fe'deɪi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（尤指反對以色列的）阿拉伯突擊隊隊員, 埃及游擊隊隊員( fedayee的名詞複數 )",
+    "def": "(plural) Arab guerrillas who operate mainly against Israel"
+   }
+  ]
+ },
+ "federal": {
+  "ph": "/'fedәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聯邦的, 聯合的, 同盟的",
+    "def": "of or relating to the central government of a federation"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 聯邦的, 聯邦制的, 聯盟的",
+    "def": ""
+   }
+  ]
+ },
+ "federalism": {
+  "ph": "/'fedәrәliz(ә)m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聯邦制, 聯邦主義",
+    "def": "the idea of a federal organization of more or less self-governing units"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 聯邦制",
+    "def": ""
+   }
+  ]
+ },
+ "federalist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聯邦制擁護者",
+    "def": "a member of a former political party in the United States that favored a strong centralized federal government"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 聯邦黨, 聯邦派, 聯邦制擁護者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 federalists"
+ },
+ "federalization": {
+  "ph": "/.fedәrәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同盟, 聯邦化",
+    "def": "the state of being under federal control"
+   }
+  ]
+ },
+ "federalize": {
+  "ph": "/'fedәrәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使成聯邦, 使同盟",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 federalized｜現在分詞 federalizing｜第三人稱單數 federalizes｜過去分詞 federalized"
+ },
+ "federally": {
+  "ph": "/'fedәrәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "同盟地, 聯邦地, 聯邦政府地",
+    "def": ""
+   }
+  ]
+ },
+ "federate": {
+  "ph": "/'fedәrit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同盟的, 聯合的, 聯邦制度下的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "公佈聯邦制, (使)聯合, 同盟",
+    "def": "enter into a league for a common purpose"
+   }
+  ],
+  "forms": "過去分詞 federated｜第三人稱單數 federates｜現在分詞 federating｜過去式 federated"
+ },
+ "federated": {
+  "ph": "/'fɛdə,retɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聯邦的；聯合的；結成同盟的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "結成同盟；按聯邦制組織起來（federate的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 federated｜過去式 federated"
+ },
+ "federation": {
+  "ph": "/fedә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聯邦, 聯合, 聯盟",
+    "def": "an organization formed by merging several groups or parties"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 聯邦, 聯盟, 聯邦政府",
+    "def": ""
+   }
+  ],
+  "forms": "複數 federations"
+ },
+ "federative": {
+  "ph": "/'fedәrәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聯合的, 聯邦的, 聯邦性的",
+    "def": "Uniting in a league; forming a confederacy; federal."
+   }
+  ]
+ },
+ "federico": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費德里科（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "fedora": {
+  "ph": "/fi'dɒ:rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男式淺頂軟呢帽",
+    "def": "a hat made of felt with a creased crown"
+   }
+  ],
+  "forms": "複數 fedoras"
+ },
+ "fedorov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "費多羅夫（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "fee": {
+  "ph": "/fi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費用, 小費, 封地, 所有權",
+    "def": "a fixed charge for a privilege or for professional services"
+   },
+   {
+    "pos": "vt.",
+    "zh": "付費給",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fees｜現在分詞 feeding｜過去式 feed｜第三人稱單數 fees｜過去分詞 feed"
+ },
+ "feeble": {
+  "ph": "/fi:bl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "微弱的, 衰弱的, 無效的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無力的, 衰弱的",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 feebles｜複數 feebles"
+ },
+ "feebleness": {
+  "ph": "/'fi:blnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弱, 微弱",
+    "def": "the quality of lacking intensity or substance"
+   }
+  ]
+ },
+ "feebly": {
+  "ph": "/'fi:bli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "柔弱地, 無力地, 微弱地",
+    "def": ""
+   }
+  ]
+ },
+ "feed": {
+  "ph": "/fi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飼料, 一餐, 飼養",
+    "def": "food for domestic livestock"
+   },
+   {
+    "pos": "vt.",
+    "zh": "喂, 飼養, 放牧, 靠...為生",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "吃東西, 用餐, 流入",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 送紙",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fed｜過去式 fed｜現在分詞 feeding｜第三人稱單數 feeds｜複數 feeds"
+ },
+ "feedback": {
+  "ph": "/'fi:dbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反饋, 反應",
+    "def": "the process in which part of the output of a system is returned to its input in order to regulate its further output"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 反饋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feedbacks"
+ },
+ "feeder": {
+  "ph": "/'fi:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飼養者, 供給者, 奶瓶",
+    "def": "an animal being fattened or suitable for fattening"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 給料器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feeders"
+ },
+ "feeding": {
+  "ph": "/'fi:diŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飼養, 進料, 加料",
+    "def": "the act of supplying food and nourishment"
+   },
+   {
+    "pos": "adj.",
+    "zh": "供給飼料的, 攝取食物的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 feeding｜複數 feedings"
+ },
+ "feedlot": {
+  "ph": "/'fi:dlɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飼育場",
+    "def": "a building where livestock are fattened for market"
+   }
+  ],
+  "forms": "複數 feedlots"
+ },
+ "feedstock": {
+  "ph": "/'fi:dstɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "原料",
+    "def": "the raw material that is required for some industrial process"
+   }
+  ],
+  "forms": "複數 feedstocks"
+ },
+ "feedstuff": {
+  "ph": "/'fi:dstʌf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飼料",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feedstuffs｜第三人稱單數 feedstuffs"
+ },
+ "feedthrough": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 饋穿",
+    "def": ""
+   }
+  ]
+ },
+ "feel": {
+  "ph": "/fi:l/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "感覺, 覺得, 觸控, 以為",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "有知覺, 摸索, 同情",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "感覺, 覺得, 觸控",
+    "def": "an intuitive awareness;"
+   }
+  ],
+  "forms": "過去式 felt｜現在分詞 feeling｜過去分詞 felt｜第三人稱單數 feels"
+ },
+ "feel sick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "覺得要嘔吐",
+    "def": ""
+   }
+  ]
+ },
+ "feeler": {
+  "ph": "/'fi:lә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觸角, 試探者, 試探手段",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feelers｜過去式 feelered"
+ },
+ "feeling": {
+  "ph": "/'fi:liŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摸, 觸覺, 知覺, 感覺, 情緒, 同情",
+    "def": "the experiencing of affective and emotional states"
+   },
+   {
+    "pos": "adj.",
+    "zh": "有同情心的, 有感覺的, 仁慈的, 動人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feelings｜現在分詞 feeling"
+ },
+ "feelingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "富於感情, 衷心, 富於同情心",
+    "def": ""
+   }
+  ]
+ },
+ "fees": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "規費；費用（fee的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "feet": {
+  "ph": "/fi:t/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "腳",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "尺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feets｜第三人稱單數 feets"
+ },
+ "feetham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Feetham)人名；(英)菲瑟姆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feethams"
+ },
+ "fei": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "發射誤差指示器（Firing Error Indicator）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fei"
+ },
+ "feign": {
+  "ph": "/fein/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "假裝, 裝作",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "作假",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 feigning｜過去式 feigned｜過去分詞 feigned｜第三人稱單數 feigns"
+ },
+ "feigned": {
+  "ph": "/feind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "假的, 做作的, 捏造的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 偽造的, 假裝的, 虛構的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 feigned"
+ },
+ "feinstein": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "范斯坦（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "feint": {
+  "ph": "/feint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偽裝, 假裝, 假託, 佯攻",
+    "def": "any distracting or deceptive maneuver (as a mock attack)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "裝作, 假裝, 佯攻",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "假的, 虛飾的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feints｜過去式 feinted｜現在分詞 feinting｜第三人稱單數 feints｜過去分詞 feinted"
+ },
+ "feistiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "易怒",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "活躍",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "精力充沛（feisty的名詞）",
+    "def": ""
+   }
+  ]
+ },
+ "feisty": {
+  "ph": "/'faisti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "激動的, 活躍的, 好爭吵的, 坐立不安的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 feistiest｜比較級 feistier"
+ },
+ "feldman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Feldman)人名；(英、法、芬、俄、匈、羅、瑞典)費爾德曼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "費爾德曼",
+    "def": ""
+   }
+  ]
+ },
+ "feldspar": {
+  "ph": "/'feldspɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長石",
+    "def": "any of a group of hard crystalline minerals that consist of aluminum silicates of potassium or sodium or calcium or barium"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 長石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feldspars"
+ },
+ "felice": {
+  "ph": "/fә'li:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲利斯（等於Felicia, Félice）",
+    "def": ""
+   }
+  ]
+ },
+ "felicitate": {
+  "ph": "/fә'lisiteit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "慶祝, 慶賀",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 felicitating｜過去式 felicitated｜第三人稱單數 felicitates｜過去分詞 felicitated"
+ },
+ "felicitous": {
+  "ph": "/fә'lisitәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "巧妙的, 極為適當的, 善於措辭的, 可喜的",
+    "def": "exhibiting an agreeably appropriate manner or style"
+   }
+  ]
+ },
+ "felicitously": {
+  "ph": "/fə'lɪsɪtəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "恰當地, 適切地",
+    "def": ""
+   }
+  ]
+ },
+ "felicity": {
+  "ph": "/fә'lisiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "快樂, 幸福, 幸運",
+    "def": "pleasing and appropriate manner or style (especially manner or style of expression)"
+   }
+  ],
+  "forms": "複數 felicities"
+ },
+ "feline": {
+  "ph": "/'fi:lain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貓的, 貓科的, 貓一樣的",
+    "def": "of or relating to cats"
+   },
+   {
+    "pos": "n.",
+    "zh": "貓, 貓科動物",
+    "def": "any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws"
+   }
+  ],
+  "forms": "複數 felines"
+ },
+ "felipe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Felipe)人名；(西、葡、羅)費莉佩(女名), 費利佩",
+    "def": ""
+   }
+  ]
+ },
+ "felix": {
+  "ph": "/'fi:liks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲力克斯（男子名）；費力克斯制導炸彈",
+    "def": ""
+   }
+  ]
+ },
+ "felixstowe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費力克斯托港（英國最大集裝箱港）",
+    "def": ""
+   }
+  ]
+ },
+ "fell": {
+  "ph": "/fel/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擊倒",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "一季所伐的木材, 折縫",
+    "def": "seam made by turning under or folding together and stitching the seamed materials to avoid rough edges"
+   },
+   {
+    "pos": "adj.",
+    "zh": "兇猛的, 可怕的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "fall的過去式",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 felled｜複數 fells｜現在分詞 felling｜過去式 fell｜第三人稱單數 falls"
+ },
+ "fella": {
+  "ph": "/felә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小夥子；[俚]夥伴, 夥計",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fellas"
+ },
+ "fellah": {
+  "ph": "/'felә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿拉伯國家的農夫, 砍伐量",
+    "def": "an agricultural laborer in Arab countries"
+   }
+  ],
+  "forms": "複數 fellahs"
+ },
+ "fellate": {
+  "ph": "/'feleit,fә'leit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "吮吸(…的)陰莖,(與…)口交",
+    "def": "provide sexual gratification through oral stimulation"
+   }
+  ],
+  "forms": "過去分詞 fellated｜現在分詞 fellating｜過去式 fellated"
+ },
+ "fellatio": {
+  "ph": "/fi'leiʃiәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吮吸陰莖；口交",
+    "def": "oral stimulation of the penis"
+   }
+  ]
+ },
+ "felled": {
+  "ph": "/feld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "砍倒, 打倒( fell的過去式 ); 砍倒, 打倒( fell的過去式和過去分詞 ); 來臨; 成為",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 felled｜過去式 felled"
+ },
+ "feller": {
+  "ph": "/'felә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伐木者, 伐木機, 平縫工, 平縫裝置, 接縫工, (非正式)夥伴, (非正式)傢伙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fellers"
+ },
+ "felling": {
+  "ph": "/'feliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "二重接縫, 咬口折縫；伐木",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 felling"
+ },
+ "fellow": {
+  "ph": "/'felәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男人, 朋友, 同事",
+    "def": "a member of a learned society"
+   },
+   {
+    "pos": "adj.",
+    "zh": "同伴的, 同事的, 同道的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fellows"
+ },
+ "fellowes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fellowes)人名；(英)費洛斯",
+    "def": ""
+   }
+  ]
+ },
+ "fellowship": {
+  "ph": "/'felәuʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夥伴關係, 共同參與, 團體, 獎學金, 友誼",
+    "def": "money granted (by a university or foundation or other agency) for advanced study or research"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 合夥關係, 研究員薪金, 研究員基金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fellowships"
+ },
+ "felon": {
+  "ph": "/'felәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重罪犯, 惡棍, 瘭疽",
+    "def": "a purulent infection at the end of a finger or toe in the area surrounding the nail"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瘭疽, 指頭膿炎",
+    "def": ""
+   }
+  ],
+  "forms": "複數 felons"
+ },
+ "felonious": {
+  "ph": "/fә'lәunjәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兇惡的, 極惡的, 重罪的",
+    "def": ""
+   }
+  ]
+ },
+ "felony": {
+  "ph": "/'felәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重罪",
+    "def": "a serious crime (such as murder or arson)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 重罪, 重刑罪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 felonies"
+ },
+ "felt": {
+  "ph": "/felt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毛毯, 氈",
+    "def": "a fabric made of compressed matted animal fibers"
+   },
+   {
+    "pos": "vt.",
+    "zh": "制氈, 使粘結",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "粘結",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "feel的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 felts｜過去式 felted｜過去分詞 felted｜現在分詞 feeling｜第三人稱單數 feels"
+ },
+ "felted": {
+  "ph": "/'feltid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氈制的, 粘結起來的, 用氈覆蓋的, 製成氈的",
+    "def": ""
+   }
+  ]
+ },
+ "feltham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Feltham)人名；(英)費爾特姆",
+    "def": ""
+   }
+  ]
+ },
+ "felton": {
+  "ph": "/'feltәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "費爾頓(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "female": {
+  "ph": "/'fi:meil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女性, 女人, 雌性動物",
+    "def": "an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "女性的, 女子的",
+    "def": "being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop"
+   }
+  ],
+  "forms": "複數 females"
+ },
+ "femaleness": {
+  "ph": "/'fi:meɪlnes/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "女性特徵, 女性特徵女子本性",
+    "def": ""
+   }
+  ]
+ },
+ "feminazi": {
+  "ph": "/ 'feminəzi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女權納粹, 極端女權主義者, 好戰女權主義者",
+    "def": ""
+   }
+  ]
+ },
+ "feminine": {
+  "ph": "/'feminin/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "女性的, 陰性的, 柔弱的",
+    "def": "associated with women and not with men"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 女性的, 雌性的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feminines"
+ },
+ "femininity": {
+  "ph": "/.femi'niniti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婦女特質, 溫柔, 柔弱性",
+    "def": "the trait of behaving in ways considered typical for women"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 女子本性, 女性, 女子氣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 femininities"
+ },
+ "feminism": {
+  "ph": "/'feminizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女權主義, 男女平等主義",
+    "def": "a doctrine that advocates equal rights for women"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 男子女性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feminisms"
+ },
+ "feminist": {
+  "ph": "/'feminist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男女平等主義者",
+    "def": "a supporter of feminism"
+   }
+  ],
+  "forms": "複數 feminists"
+ },
+ "feminization": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 女性化(指男子)",
+    "def": ""
+   }
+  ]
+ },
+ "feminize": {
+  "ph": "/'feminaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "女性化",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "具有女性風度, 使女性化",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 feminizes｜過去分詞 feminized｜現在分詞 feminizing｜過去式 feminized"
+ },
+ "feminized": {
+  "ph": "/ˈfeminaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使女性化, 女性化( feminize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 feminized｜過去式 feminized"
+ },
+ "femme": {
+  "ph": "/fem/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "妻子, (美)(非正式)女子",
+    "def": "A woman. See Feme, n."
+   },
+   {
+    "pos": "",
+    "zh": "[法] 妻子, 婦女",
+    "def": ""
+   }
+  ],
+  "forms": "複數 femmes"
+ },
+ "femoral": {
+  "ph": "/'femәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大腿骨的, 大腿的",
+    "def": "of or relating to or near the femur or thigh"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 股骨的, 股的",
+    "def": ""
+   }
+  ]
+ },
+ "femoris": {
+  "ph": "/fe'məʊrɪz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]（拉）股",
+    "def": ""
+   }
+  ]
+ },
+ "femtosecond": {
+  "ph": "/fem'təʊsi:kənd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毫微微秒",
+    "def": "one quadrillionth (10^-15) of a second; one thousandth of a picosecond"
+   }
+  ]
+ },
+ "femur": {
+  "ph": "/'fi:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大腿骨, (昆蟲的)腿節",
+    "def": "the longest and thickest bone of the human skeleton; extends from the pelvis to the knee"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 股骨, 股",
+    "def": ""
+   }
+  ],
+  "forms": "複數 femurs"
+ },
+ "fen": {
+  "ph": "/fen/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沼澤, 沼池",
+    "def": "100 fen equal 1 yuan in China"
+   }
+  ],
+  "forms": "複數 fens"
+ },
+ "fence": {
+  "ph": "/fens/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圍牆, 柵欄, 買賣贓物的人, 劍術",
+    "def": "a barrier that serves to enclose an area"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用籬笆圍住, 練習劍術, 防護",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "擊劍, 搪塞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fences｜過去分詞 fenced｜過去式 fenced｜現在分詞 fencing｜第三人稱單數 fences"
+ },
+ "fenced": {
+  "ph": "/fenst/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "圍以柵欄( fence的過去式和過去分詞 ); 搪塞; 支吾; 迴避",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fenced"
+ },
+ "fencer": {
+  "ph": "/'fensә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劍術師, 劍術家, 籬笆匠",
+    "def": "someone skilled at fencing"
+   }
+  ],
+  "forms": "複數 fencers"
+ },
+ "fencerow": {
+  "ph": "/fens'rəʊ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "籬笆佔據的土地",
+    "def": ""
+   }
+  ]
+ },
+ "fencing": {
+  "ph": "/'fensiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圍牆, 劍術",
+    "def": "the art or sport of fighting with swords (especially the use of foils or epees or sabres to score points under a set of rules)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 圍欄, 買賣贓物, 辯論",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fencing｜複數 fencings"
+ },
+ "fend": {
+  "ph": "/fend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擊退, 保護, 供養",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fending｜過去式 fended｜過去分詞 fended｜第三人稱單數 fends"
+ },
+ "fender": {
+  "ph": "/'fendә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "防衛物, 擋泥板",
+    "def": "a barrier that surrounds the wheels of a vehicle to block splashing water or mud"
+   }
+  ],
+  "forms": "複數 fenders｜過去式 fendered"
+ },
+ "fenestration": {
+  "ph": "/,fenis'treiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(耳科手術中的)開窗術",
+    "def": "the arrangement of windows in a building"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 開窗術, 穿通, 穿孔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fenestrations"
+ },
+ "fenian": {
+  "ph": "/'fi:njәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(愛爾蘭傳說中的)芬尼亞勇士團團員, 芬尼亞會會員",
+    "def": "A member of a secret organization, consisting mainly of"
+   },
+   {
+    "pos": "adj.",
+    "zh": "芬尼亞會的, 芬尼亞主義的",
+    "def": "Pertaining to Fenians or to Fenianism."
+   }
+  ],
+  "forms": "複數 fenians"
+ },
+ "fenland": {
+  "ph": "/'fenlænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沼澤地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fenlands"
+ },
+ "fenn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "芬恩（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "fennel": {
+  "ph": "/'fenәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茴香",
+    "def": "any of several aromatic herbs having edible seeds and leaves and stems"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 茴香",
+    "def": ""
+   }
+  ]
+ },
+ "fennell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "芬內爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "fenner": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬納（英國公司）",
+    "def": ""
+   }
+  ]
+ },
+ "fenny": {
+  "ph": "/'feni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沼澤的, 長在沼澤地帶的, 住在沼澤地的",
+    "def": "Pertaining to, or inhabiting, a fen; abounding in fens;"
+   }
+  ]
+ },
+ "fentanyl": {
+  "ph": "/fen'tænil,'fentәnil/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 芬太尼",
+    "def": ""
+   }
+  ]
+ },
+ "fenton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬東（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "fenugreek": {
+  "ph": "/'fenjugri:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡蘆巴",
+    "def": "annual herb or southern Europe and eastern Asia having off-white flowers and aromatic seeds used medicinally and in curry"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 胡蘆巴",
+    "def": ""
+   }
+  ]
+ },
+ "fenwick": {
+  "ph": "/'fenik, 'fenwik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬威克（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "fer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "pref.",
+    "zh": "帶, 拿來",
+    "def": ""
+   }
+  ]
+ },
+ "feral": {
+  "ph": "/'fiәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "野生的, 兇猛的, 野獸的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兇猛的, 野生的",
+    "def": ""
+   }
+  ]
+ },
+ "ferdi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ferdi)人名；(意、法)費爾迪",
+    "def": ""
+   }
+  ]
+ },
+ "ferdinand": {
+  "ph": "/'fә:dinәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男子名",
+    "def": "the king of Castile and Aragon who ruled jointly with his wife Isabella; his marriage to Isabella I in 1469 marked the beginning of the modern state of Spain an"
+   }
+  ]
+ },
+ "ferdinando": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ferdinando)人名；(意)費迪南多(男子教名)",
+    "def": ""
+   }
+  ]
+ },
+ "fergie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲姬（美國女歌手）",
+    "def": ""
+   }
+  ]
+ },
+ "fergus": {
+  "ph": "/'fә:^әs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "費格斯(姓氏, 男子名)",
+    "def": ""
+   }
+  ]
+ },
+ "ferguson": {
+  "ph": "/'fə:ɡəsən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗格森（美國密蘇里州的一個城市名）；弗格森（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "fergusson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fergusson)人名；(英)弗格森",
+    "def": ""
+   }
+  ]
+ },
+ "fermanagh": {
+  "ph": "/fә'mænә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗馬納郡[英國北愛爾蘭郡名]",
+    "def": ""
+   }
+  ]
+ },
+ "fermata": {
+  "ph": "/fә'mɑ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "延長記號, 停留記號",
+    "def": "a musical notation (over a note or chord or rest) that indicates it is to be prolonged by an unspecified amount"
+   }
+  ],
+  "forms": "複數 fermatas"
+ },
+ "ferment": {
+  "ph": "/'fә:ment/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酵素, 發酵, 動亂",
+    "def": "a substance capable of bringing about fermentation"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)發酵, (使)動亂",
+    "def": "be in an agitated or excited state"
+   }
+  ],
+  "forms": "現在分詞 fermenting｜過去式 fermented｜過去分詞 fermented｜第三人稱單數 ferments｜複數 ferments"
+ },
+ "fermentation": {
+  "ph": "/,fә:men'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發酵",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 發酵",
+    "def": ""
+   }
+  ]
+ },
+ "fermented": {
+  "ph": "/fəˈmentid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）發酵( ferment的過去式和過去分詞 ); （使）激動; 騷動; 騷擾",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fermented"
+ },
+ "fermenter": {
+  "ph": "/fә:'mentә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 發酵罐; 發酵器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fermenters"
+ },
+ "fermenting": {
+  "ph": "/fəˈmentɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）發酵( ferment的現在分詞 ); （使）激動; 騷動; 騷擾",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fermenting"
+ },
+ "fermion": {
+  "ph": "/'fә:miɔn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 費米子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fermions"
+ },
+ "fern": {
+  "ph": "/fә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蕨類植物",
+    "def": "any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蕨類植物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ferns"
+ },
+ "fernand": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "費爾南德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "fernandez": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fernandez)人名；(英、法、德、意、葡)費爾南德斯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "費爾南德斯",
+    "def": ""
+   }
+  ]
+ },
+ "fernando": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費爾南多（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "fernie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fernie)人名；(英)弗尼",
+    "def": ""
+   }
+  ]
+ },
+ "ferny": {
+  "ph": "/'fә:ni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蕨類的",
+    "def": ""
+   }
+  ]
+ },
+ "ferocious": {
+  "ph": "/fә'rәuʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "殘忍的, 兇猛的, 可怕的",
+    "def": ""
+   }
+  ]
+ },
+ "ferociously": {
+  "ph": "/fə'rəʊʃəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "野蠻地, 殘忍地",
+    "def": ""
+   }
+  ]
+ },
+ "ferocity": {
+  "ph": "/fә'rɒsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兇猛, 殘忍, 狂暴的行為",
+    "def": "the property of being wild or turbulent"
+   }
+  ],
+  "forms": "複數 ferocities"
+ },
+ "ferranti": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ferranti)人名；(德、意、英)費蘭蒂",
+    "def": ""
+   }
+  ]
+ },
+ "ferrara": {
+  "ph": "/fə'rɑ:rə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "闊刃劍；菲拉拉（義大利城市）；費拉拉（姓氏）",
+    "def": "a city in northern Italy"
+   }
+  ]
+ },
+ "ferrari": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 費拉里",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ferrari"
+ },
+ "ferreira": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費雷拉（人名）",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "費雷拉（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "ferrero": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費列羅（全球第四大巧克力製造商）",
+    "def": ""
+   }
+  ]
+ },
+ "ferrers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ferrers)人名；(英)費勒斯",
+    "def": ""
+   }
+  ]
+ },
+ "ferret": {
+  "ph": "/'ferit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白鼬, 雪貂, 偵探",
+    "def": "domesticated albino variety of the European polecat bred for hunting rats and rabbits"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用雪貂打獵, 搜出, 驅出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "搜尋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ferrets｜第三人稱單數 ferrets｜現在分詞 ferreting｜過去式 ferreted｜過去分詞 ferreted"
+ },
+ "ferrete": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ferrete)人名；(西)費雷特",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ferreting｜過去式 ferreted｜過去分詞 ferreted"
+ },
+ "ferric": {
+  "ph": "/'ferik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鐵的, 含鐵的, 三價鐵的",
+    "def": "of or relating to or containing iron"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 高鐵[基]的",
+    "def": ""
+   }
+  ]
+ },
+ "ferrier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ferrier)人名；(意)費列爾；(英)費里爾；(法、蘇里)費裡埃",
+    "def": "A ferryman."
+   }
+  ]
+ },
+ "ferries": {
+  "ph": "/ˈferiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渡船( ferry的名詞複數 ); 渡口; 擺渡; 飛機渡運",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "運送( ferry的第三人稱單數 ); （乘渡船）渡過（河等）; 渡運飛機; 擺渡, 用（渡）船渡, （船）來往行駛",
+    "def": ""
+   }
+  ]
+ },
+ "ferris": {
+  "ph": "/'feris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費理斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "ferritin": {
+  "ph": "/'feritәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 鐵蛋白",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鐵蛋白",
+    "def": ""
+   }
+  ]
+ },
+ "ferromagnetic": {
+  "ph": "/.ferәumæg'netik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鐵磁體",
+    "def": "relating to or demonstrating ferromagnetism"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 磁性鐵的",
+    "def": ""
+   }
+  ]
+ },
+ "ferrous": {
+  "ph": "/'ferәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鐵的, 含鐵的, 亞鐵的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 亞鐵的",
+    "def": ""
+   }
+  ]
+ },
+ "ferrule": {
+  "ph": "/'ferәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金屬手杖, 金屬環, 套圈",
+    "def": "a metal cap or band placed on a wooden pole to prevent splitting"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝以金屬箍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ferrules｜第三人稱單數 ferrules"
+ },
+ "ferry": {
+  "ph": "/'feri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渡船, 渡口",
+    "def": "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 擺渡營業權, 輪渡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ferries｜過去分詞 ferried｜現在分詞 ferrying｜過去式 ferried｜第三人稱單數 ferries"
+ },
+ "ferryboat": {
+  "ph": "/'feribәjt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渡船",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ferryboats"
+ },
+ "ferryman": {
+  "ph": "/'ferimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渡船工人",
+    "def": "a man who operates a ferry"
+   }
+  ]
+ },
+ "fertile": {
+  "ph": "/'fә:tail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可繁殖的, 肥沃的, 生產多的",
+    "def": "capable of reproducing"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 能生育的",
+    "def": ""
+   }
+  ]
+ },
+ "fertilisation": {
+  "ph": "/,f\\\\\\\\:tilai'zeiʃən;-li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<主英>=fertilization",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fertilisations"
+ },
+ "fertilise": {
+  "ph": "/'f\\\\\\\\:tilaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使肥沃, 施肥於, 使多產, 使豐富, 使受精",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fertilised｜第三人稱單數 fertilises｜現在分詞 fertilising｜過去式 fertilised"
+ },
+ "fertilised": {
+  "ph": "/'fə:tilaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使受精；施肥於；使肥沃",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fertilised｜過去式 fertilised"
+ },
+ "fertiliser": {
+  "ph": "/'fә:tilaizә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 肥料",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fertilisers"
+ },
+ "fertility": {
+  "ph": "/fә'tiliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肥沃, 豐饒, 生產力",
+    "def": "the state of being fertile; capable of producing offspring"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生育力",
+    "def": ""
+   }
+  ]
+ },
+ "fertilization": {
+  "ph": "/.fә:tilai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使肥沃, 土地肥沃法, 施肥",
+    "def": "creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 受精, 授精",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fertilizations"
+ },
+ "fertilize": {
+  "ph": "/'fә:tilaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "施肥, 使豐饒, 使受精",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fertilized｜第三人稱單數 fertilizes｜現在分詞 fertilizing｜過去式 fertilized"
+ },
+ "fertilized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "已受精的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fertilized｜過去式 fertilized"
+ },
+ "fertilizer": {
+  "ph": "/'fә:tilaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肥料, 促進發展者, 受精媒介物",
+    "def": "any substance such as manure or a mixture of nitrates used to make soil more fertile"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 肥料",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fertilizers"
+ },
+ "fertilizing": {
+  "ph": "/'fɜ:tɪlaɪzɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "施肥( fertilize的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "fervent": {
+  "ph": "/'fә:vәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熱的, 炎熱的, 熱心的",
+    "def": ""
+   }
+  ]
+ },
+ "fervently": {
+  "ph": "/'fɜ:vəntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "熱烈地, 熱情地, 強烈地",
+    "def": ""
+   }
+  ]
+ },
+ "fervid": {
+  "ph": "/'fә:vid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熱的, 熱心的",
+    "def": ""
+   }
+  ]
+ },
+ "fervor": {
+  "ph": "/'fә:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱情, 熱心, 熾熱",
+    "def": ""
+   }
+  ]
+ },
+ "fervour": {
+  "ph": "/'fә:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熾熱, 熱誠, 熱情, 熱烈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fervours"
+ },
+ "fescue": {
+  "ph": "/'feskju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教鞭, 羊矛",
+    "def": "grass with wide flat leaves cultivated in Europe and America for permanent pasture and hay and for lawns"
+   }
+  ],
+  "forms": "複數 fescues"
+ },
+ "fess": {
+  "ph": "/fes/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "供認；坦白",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fessed"
+ },
+ "fest": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "集會；節日",
+    "def": "The fist."
+   }
+  ],
+  "forms": "現在分詞 festing"
+ },
+ "festal": {
+  "ph": "/'festәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "節日的, 祭日的, 歡樂的",
+    "def": ""
+   }
+  ]
+ },
+ "fester": {
+  "ph": "/'festә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "潰爛, 生膿",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使潰爛",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "膿瘡, 潰爛",
+    "def": "a sore that has become inflamed and formed pus"
+   }
+  ],
+  "forms": "現在分詞 festering｜過去式 festered｜複數 festers｜過去分詞 festered｜第三人稱單數 festers"
+ },
+ "festering": {
+  "ph": "/ˈfestərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（傷口/破口）化膿( fester的現在分詞 ); 潰爛; （不快的思想或情感）更加苦惱; 愈益惡化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 festering"
+ },
+ "festival": {
+  "ph": "/'festәvәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "節日的, 喜慶的, 快樂的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "節日, 慶祝, 歡宴",
+    "def": "a day or period of time set aside for feasting and celebration"
+   }
+  ],
+  "forms": "複數 festivals"
+ },
+ "festive": {
+  "ph": "/'festiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "慶祝的, 喜慶的, 歡樂的",
+    "def": ""
+   }
+  ]
+ },
+ "festively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "節日地, 適合於節日地",
+    "def": ""
+   }
+  ]
+ },
+ "festivity": {
+  "ph": "/fes'tiviti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節日, 喜慶日, 歡宴, 歡慶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 festivities"
+ },
+ "festoon": {
+  "ph": "/fes'tu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花彩",
+    "def": "a curtain of fabric draped and bound at intervals to form graceful curves"
+   },
+   {
+    "pos": "vt.",
+    "zh": "結綵於",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 festooned｜複數 festoons｜過去式 festooned｜現在分詞 festooning｜第三人稱單數 festoons"
+ },
+ "festschrift": {
+  "ph": "/'fest-ʃrift/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紀念文集",
+    "def": "a collection of writings published in honor of a scholar"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 紀念論文集",
+    "def": ""
+   }
+  ]
+ },
+ "feta": {
+  "ph": "/fetә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羊乳酪",
+    "def": ""
+   }
+  ]
+ },
+ "fetal": {
+  "ph": "/'fi:tәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "胎兒的, 胎的",
+    "def": "of or relating to a fetus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胎的, 胎兒的",
+    "def": ""
+   }
+  ]
+ },
+ "fetch": {
+  "ph": "/fetʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "取得, 拿, 詭計, 魂",
+    "def": "the action of fetching"
+   },
+   {
+    "pos": "vt.",
+    "zh": "接來, 取來, 售得, 帶來, 推出, 引出, 殺死, 吸引, 到達",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "取物, 前進",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 取",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fetched｜過去分詞 fetched｜現在分詞 fetching｜第三人稱單數 fetches"
+ },
+ "fetching": {
+  "ph": "/'fetʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "動人的, 引人的, 迷人的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fetching"
+ },
+ "fetchingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "吸引人的",
+    "def": ""
+   }
+  ]
+ },
+ "fete": {
+  "ph": "/feit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慶祝, 祭祀, 節日",
+    "def": "an elaborate party (often outdoors)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "宴請, 招待",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fetes｜過去分詞 feted｜過去式 feted｜現在分詞 feting｜第三人稱單數 fetes"
+ },
+ "fetid": {
+  "ph": "/'fetid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惡臭的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 惡臭的",
+    "def": ""
+   }
+  ]
+ },
+ "fetish": {
+  "ph": "/'fi:tiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物神, 偶像, 迷信",
+    "def": "a form of sexual desire in which gratification depends to an abnormal degree on some object or item of clothing or part of the body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 戀物物件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fetishes"
+ },
+ "fetishism": {
+  "ph": "/'fi:tiʃizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拜物教, 盲目崇拜, 拜物主義",
+    "def": "a belief in the magical power of fetishes (or the worship of a fetish)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 戀物癖",
+    "def": ""
+   }
+  ]
+ },
+ "fetishist": {
+  "ph": "/'fi:tiʃist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物神崇拜者",
+    "def": "one who engages in fetishism (especially of a sexual nature)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 戀物癖者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fetishists"
+ },
+ "fetishistic": {
+  "ph": "/.fi:ti'ʃistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "崇拜物神的, 迷信的",
+    "def": "Pertaining to, or involving, fetichism."
+   }
+  ]
+ },
+ "fetishization": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "盲目迷戀",
+    "def": ""
+   }
+  ]
+ },
+ "fetishize": {
+  "ph": "/ˈfetɪʃaɪz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "盲目迷戀, 以…為偶像",
+    "def": "make a fetish of"
+   }
+  ],
+  "forms": "過去式 fetishized｜現在分詞 fetishizing｜第三人稱單數 fetishizes｜過去分詞 fetishized"
+ },
+ "fetishized": {
+  "ph": "/ˈfetɪˌʃaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "盲目迷戀, 以…為偶像( fetishize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fetishized"
+ },
+ "fetlock": {
+  "ph": "/'fetlɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叢毛, 球節",
+    "def": "the joint between the cannon bone and the pastern"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 距毛, 球節(馬)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fetlocks"
+ },
+ "fetter": {
+  "ph": "/'fetә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳鐐, 羈絆, 束縛",
+    "def": "a shackle for the ankles or feet"
+   },
+   {
+    "pos": "vt.",
+    "zh": "束縛, 加腳鐐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fetters｜過去分詞 fettered｜現在分詞 fettering｜第三人稱單數 fetters｜過去式 fettered"
+ },
+ "fettered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "束縛（fetter的過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fettered"
+ },
+ "fettes": {
+  "ph": "/'fetis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "費蒂斯(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "fettle": {
+  "ph": "/'fetl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狀態, 情緒",
+    "def": "a state of fitness and good health"
+   },
+   {
+    "pos": "vt.",
+    "zh": "修補, 整理, 擦亮, 毆打",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fettling｜過去分詞 fettled｜過去式 fettled｜第三人稱單數 fettles"
+ },
+ "fettuccine": {
+  "ph": "/ˌfetʊ'tʃi:nɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義大利寬麵條, 扁平細麵條； （用義大利寬麵條烹製的）白脫奶油麵",
+    "def": "pasta in flat strips wider than linguine"
+   }
+  ]
+ },
+ "fetus": {
+  "ph": "/'fi:tәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胎兒",
+    "def": "an unborn or unhatched vertebrate in the later stages of development showing the main recognizable features of the mature animal"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胎, 胎兒",
+    "def": ""
+   }
+  ]
+ },
+ "feu": {
+  "ph": "/fju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "永久租借, 封地",
+    "def": "A free and gratuitous right to lands made to one for service"
+   }
+  ]
+ },
+ "feud": {
+  "ph": "/fju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不和, 封地, 爭執",
+    "def": "a bitter quarrel between two parties"
+   },
+   {
+    "pos": "vi.",
+    "zh": "長期不和, 擦亮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feuds｜現在分詞 feuding｜過去式 feuded｜過去分詞 feuded｜第三人稱單數 feuds"
+ },
+ "feudal": {
+  "ph": "/'fju:dәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "封建制度的, 封地的, 領地的",
+    "def": "of or relating to or characteristic of feudalism"
+   }
+  ]
+ },
+ "feudalism": {
+  "ph": "/'fju:dәlizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "封建主義, 封建制度",
+    "def": "the social system that developed in Europe in the 8th century; vassals were protected by lords who they had to serve in war"
+   }
+  ]
+ },
+ "feuding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "長期不和（feud的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 feuding"
+ },
+ "fever": {
+  "ph": "/'fi:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發燒, 發熱, 熱病",
+    "def": "a rise in the temperature of the body; frequently a symptom of infection"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 發熱, 熱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fevers｜過去式 fevered"
+ },
+ "fevered": {
+  "ph": "/'fi:vәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發燒的, 激動的, 激昂的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fevered"
+ },
+ "feverfew": {
+  "ph": "/'fi:vәfju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小白菊",
+    "def": "bushy aromatic European perennial herb having clusters of buttonlike white-rayed flower heads; valued traditionally for medicinal uses; sometimes placed in genu"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 龍牙草, 野甘菊",
+    "def": ""
+   }
+  ]
+ },
+ "feverish": {
+  "ph": "/'fi:vәriʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發熱的, 極度興奮的, 不安的",
+    "def": ""
+   }
+  ]
+ },
+ "feverishly": {
+  "ph": "/'fi:vәriʃli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "興奮地",
+    "def": ""
+   }
+  ]
+ },
+ "few": {
+  "ph": "/fju:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "很少的, 不多的, 少數的",
+    "def": "a quantifier that can be used with count nouns and is often preceded by `a'; a small but indefinite number"
+   },
+   {
+    "pos": "n.",
+    "zh": "少數",
+    "def": "a small elite group"
+   }
+  ]
+ },
+ "fewer": {
+  "ph": "/'fju:ә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "較少的",
+    "def": "(comparative of `few' used with count nouns) quantifier meaning a smaller number of"
+   }
+  ]
+ },
+ "fewest": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 最少的",
+    "def": ""
+   }
+  ]
+ },
+ "fey": {
+  "ph": "/fei/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "註定要死的",
+    "def": ""
+   }
+  ]
+ },
+ "feynman": {
+  "ph": "/'fainmәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "費曼(①姓氏 ②Richard Phillips, 1918-, 美國物理學家, 曾獲1965年諾貝爾物理學獎)",
+    "def": ""
+   }
+  ]
+ },
+ "fez": {
+  "ph": "/fez/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土耳其無邊氈帽",
+    "def": "a city in north central Morocco; religious center"
+   }
+  ]
+ }
+}

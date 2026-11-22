@@ -1,0 +1,718 @@
+{
+ "my": {
+  "ph": "/mai/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "我的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 邁爾(熱容單位)",
+    "def": ""
+   }
+  ]
+ },
+ "myalgia": {
+  "ph": "/mai'ældʒiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肌痛",
+    "def": "pain in a muscle or group of muscles"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 肌痛",
+    "def": ""
+   }
+  ]
+ },
+ "myanmar": {
+  "ph": "/'mjænmɑ:(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "緬甸[東南亞國家](即Burma)",
+    "def": ""
+   }
+  ]
+ },
+ "myasthenia": {
+  "ph": "/'maiæs'θi:niә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肌無力, 肌衰弱",
+    "def": "any muscular weakness"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 肌無力, 肌衰弱",
+    "def": ""
+   }
+  ]
+ },
+ "myc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "燃油附加費",
+    "def": ""
+   }
+  ]
+ },
+ "mycelium": {
+  "ph": "/mai'si:liәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菌絲體",
+    "def": "the vegetative part of a fungus consisting of a mass of branching threadlike hyphae"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 菌絲體",
+    "def": ""
+   }
+  ]
+ },
+ "mycenae": {
+  "ph": "/mai'si:ni:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "邁錫尼(希臘南部古城)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mycenae"
+ },
+ "mycenaean": {
+  "ph": "/.maisi'ni:әn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(希臘古都市)邁錫尼的, 邁錫尼文明的",
+    "def": "of or relating to or characteristic of ancient Mycenae or its inhabitants"
+   }
+  ],
+  "forms": "複數 mycenaeans"
+ },
+ "mycobacteria": {
+  "ph": "/mi:kəʊbæk'tɪərɪə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "分枝桿菌, 分枝細菌",
+    "def": ""
+   }
+  ]
+ },
+ "mycobacterial": {
+  "ph": "/maɪkɒ'bæktɪərɪəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "mycobacterium（分支桿菌 ）的變形",
+    "def": ""
+   }
+  ]
+ },
+ "mycobacterium": {
+  "ph": "/,maikәubæk'tiәriәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 分直杆菌屬",
+    "def": ""
+   }
+  ]
+ },
+ "mycologist": {
+  "ph": "/mai'kɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菌學者",
+    "def": "a botanist who specializes in the study of fungi"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 真菌學家, 黴菌學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mycologists"
+ },
+ "mycology": {
+  "ph": "/mai'kɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "真菌學",
+    "def": "the branch of botany that studies fungi and fungus-caused diseases"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 真菌學, 黴菌學",
+    "def": ""
+   }
+  ]
+ },
+ "mycotoxin": {
+  "ph": "/,maikәu'tɔksin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 黴菌毒素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mycotoxins"
+ },
+ "myelin": {
+  "ph": "/'maiәli(:)n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 髓磷脂",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 髓磷脂; 髓鞘質",
+    "def": ""
+   }
+  ]
+ },
+ "myelogenous": {
+  "ph": "/,maiә'lɔdʒәnәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "骨髓內產生的, 骨髓的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 骨髓性的",
+    "def": ""
+   }
+  ]
+ },
+ "myeloma": {
+  "ph": "/,maiә'lәumә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "骨髓瘤",
+    "def": "a tumor of the bone marrow (usually malignant) composed of cells normally found in bone marrow"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 骨髓瘤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 myelomas"
+ },
+ "myers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邁爾斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "mylar": {
+  "ph": "/'mailɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 聚酯薄膜",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] (商)聚酯薄膜",
+    "def": ""
+   }
+  ]
+ },
+ "mynah": {
+  "ph": "/'mainә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動] 八哥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mynahs"
+ },
+ "myocardial": {
+  "ph": "/,maiәu'kɑ:diәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "心肌的",
+    "def": "of or relating to the myocardium"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 心肌的",
+    "def": ""
+   }
+  ]
+ },
+ "myocardium": {
+  "ph": "/,maiәu'kɑ:diәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "心肌, 心肌層",
+    "def": "the middle muscular layer of the heart wall"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 心肌[層]",
+    "def": ""
+   }
+  ]
+ },
+ "myoclonus": {
+  "ph": "/mai'ɔklәnәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 肌陣攣",
+    "def": ""
+   }
+  ]
+ },
+ "myocyte": {
+  "ph": "/'maiә,sait/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 肌細胞; 肌絲層(原蟲外胞漿內層)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 myocytes"
+ },
+ "myoelectric": {
+  "ph": "/'maiәui'lektrik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 肌電的",
+    "def": ""
+   }
+  ]
+ },
+ "myoglobin": {
+  "ph": "/.maiәu'glәubin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肌紅蛋白",
+    "def": "a hemoprotein that receives oxygen from hemoglobin and stores it in the tissues until needed"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 肌紅蛋白",
+    "def": ""
+   }
+  ],
+  "forms": "複數 myoglobins"
+ },
+ "myopia": {
+  "ph": "/mai'әupiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "近視",
+    "def": "(ophthalmology) eyesight abnormality resulting from the eye's faulty refractive ability; distant objects appear blurred"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 近視",
+    "def": ""
+   }
+  ]
+ },
+ "myopic": {
+  "ph": "/mai'ɔpik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[眼科]近視的；目光短淺的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 myopics"
+ },
+ "myopically": {
+  "ph": "/mai'ɔpikəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "目光短淺地",
+    "def": ""
+   }
+  ]
+ },
+ "myosin": {
+  "ph": "/'maiәsin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肌漿球蛋白, 肌凝蛋白",
+    "def": "the commonest protein in muscle; a globulin that combines with actin to form actomyosin"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 肌球蛋白",
+    "def": ""
+   }
+  ]
+ },
+ "myra": {
+  "ph": "/'mairә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邁拉（女子名）；米拉（小亞細亞西南部古國利西亞的城鎮）",
+    "def": ""
+   }
+  ]
+ },
+ "myriad": {
+  "ph": "/'miriәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無數, 無數的人(或物)",
+    "def": "a large indefinite number"
+   },
+   {
+    "pos": "adj.",
+    "zh": "無數的, 種種的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 myriads"
+ },
+ "myringotomy": {
+  "ph": "/,miriŋ'^ɔtәmi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 鼓膜切開術",
+    "def": ""
+   }
+  ]
+ },
+ "myrrh": {
+  "ph": "/mә:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沒藥樹",
+    "def": "aromatic resin that is burned as incense and used in perfume"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 沒藥",
+    "def": ""
+   }
+  ]
+ },
+ "myrtle": {
+  "ph": "/'mә:tl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桃金娘科植物",
+    "def": "widely cultivated as a groundcover for its dark green shiny leaves and usually blue-violet flowers"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 桃金娘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 myrtles｜第三人稱單數 myrtles"
+ },
+ "myself": {
+  "ph": "/mai'self/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "我自己, 我親自, 我獨自",
+    "def": "I or me in person; -- used for emphasis, my own self or"
+   }
+  ]
+ },
+ "mysterious": {
+  "ph": "/mis'tiәriәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神秘的, 難解的, 不可思議的",
+    "def": ""
+   }
+  ]
+ },
+ "mysteriously": {
+  "ph": "/mɪ'stɪərɪəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "神秘地; 不可思議地; 詭秘地; 故弄玄虛地",
+    "def": ""
+   }
+  ]
+ },
+ "mystery": {
+  "ph": "/'mistәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "秘密, 神秘, 奧秘",
+    "def": "something that baffles understanding and cannot be explained"
+   }
+  ],
+  "forms": "複數 mysteries"
+ },
+ "mystic": {
+  "ph": "/'mistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神秘的, 奧秘的",
+    "def": "relating to or resembling mysticism"
+   },
+   {
+    "pos": "n.",
+    "zh": "神秘主義者",
+    "def": "someone who believes in the existence of realities beyond human comprehension"
+   }
+  ],
+  "forms": "複數 mystics"
+ },
+ "mystical": {
+  "ph": "/'mistikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神秘的, 奧秘的",
+    "def": ""
+   }
+  ]
+ },
+ "mystically": {
+  "ph": "/'mɪstɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "神秘地",
+    "def": ""
+   }
+  ]
+ },
+ "mysticism": {
+  "ph": "/'mistisizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神秘, 神秘教, 模糊思想",
+    "def": "a religion based on mystical communion with an ultimate reality"
+   }
+  ]
+ },
+ "mystification": {
+  "ph": "/.mistifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神秘化, 騙人的把戲, 不可思議",
+    "def": "something designed to mystify or bewilder"
+   }
+  ],
+  "forms": "複數 mystifications"
+ },
+ "mystified": {
+  "ph": "/ˈmɪstəˌfaɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使（某人）困惑不解, 使迷惑( mystify的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 mystified｜過去式 mystified"
+ },
+ "mystify": {
+  "ph": "/'mistifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使神秘化, 使難解, 迷惑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 變幻線",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 mystified｜現在分詞 mystifying｜第三人稱單數 mystifies｜過去式 mystified"
+ },
+ "mystifying": {
+  "ph": "/ˈmɪstəˌfaɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使（某人）困惑不解, 使迷惑( mystify的現在分詞 ); 陰陽怪氣",
+    "def": ""
+   }
+  ]
+ },
+ "mystique": {
+  "ph": "/mis'ti:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神秘的氣氛, 奧秘, 秘訣",
+    "def": "an aura of heightened value or interest or meaning surrounding a person or thing"
+   }
+  ],
+  "forms": "複數 mystiques"
+ },
+ "myth": {
+  "ph": "/miθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神話, 虛構的事, 虛構的人",
+    "def": "a traditional story accepted as history; serves to explain the world view of a people"
+   }
+  ],
+  "forms": "複數 myths"
+ },
+ "mythic": {
+  "ph": "/'miθik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神話的, 存在於神話中的, 神話式的, 不真實的, 虛構的, 幻想出來的",
+    "def": "relating to or having the nature of myth"
+   }
+  ]
+ },
+ "mythical": {
+  "ph": "/'miθikә l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神話的, 存在於神話中的, 神話式的, 不真實的, 虛構的, 幻想出來的",
+    "def": ""
+   }
+  ]
+ },
+ "mythological": {
+  "ph": "/.miθә'lɒdʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神話的, 神話學的, 虛構的",
+    "def": ""
+   }
+  ]
+ },
+ "mythologist": {
+  "ph": "/mi'θɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神話學者, 神話作者",
+    "def": "an expert on mythology"
+   }
+  ],
+  "forms": "複數 mythologists"
+ },
+ "mythologize": {
+  "ph": "/mi'θɒlәdʒaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使成為神話",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "研究神話, 講神話",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 mythologizes｜過去分詞 mythologized｜過去式 mythologized｜現在分詞 mythologizing"
+ },
+ "mythology": {
+  "ph": "/mi'θɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神話",
+    "def": "myths collectively; the body of stories associated with a culture or institution or person"
+   }
+  ],
+  "forms": "複數 mythologies"
+ },
+ "mythopoeic": {
+  "ph": "/,miθәj'pi:ik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "創作神話的, 神話時代的",
+    "def": "Making or producing myths; giving rise to mythical"
+   }
+  ]
+ },
+ "mythopoetic": {
+  "ph": "/,miθəupəu'etik;-kəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "=mythopoeic",
+    "def": "Making or producing myths or mythical tales."
+   }
+  ]
+ },
+ "mythos": {
+  "ph": "/'maiθɒs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神話, 主題",
+    "def": ""
+   }
+  ]
+ },
+ "myxoid": {
+  "ph": "/'miksɔid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 粘液樣的",
+    "def": ""
+   }
+  ]
+ }
+}

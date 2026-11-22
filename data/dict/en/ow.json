@@ -1,0 +1,221 @@
+{
+ "ow": {
+  "ph": "/au/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "啊唷",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 ows｜比較級 ower｜複數 ows"
+ },
+ "owain": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 歐文",
+    "def": ""
+   }
+  ]
+ },
+ "owd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "occiput-wall distance 枕部-壁距離; oil-in-water dispersions 水中油分散; ocular Whipple disease 眼惠普爾病; optical Wigner distribution 光學維格納分佈",
+    "def": ""
+   }
+  ]
+ },
+ "owe": {
+  "ph": "/әu/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "虧欠, 負...債, 歸功於, 懷有, 應給予, 感恩",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "欠錢",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 owing｜過去式 owed｜第三人稱單數 owes｜過去分詞 owed"
+ },
+ "owen": {
+  "ph": "/'әuin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歐文（男子名）",
+    "def": "Welsh industrialist and social reformer who founded cooperative communities (1771-1858)"
+   }
+  ]
+ },
+ "owens": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歐文斯（姓氏）",
+    "def": "United States athlete and Black American whose success in the 1936 Olympic Games in Berlin outraged Hitler (1913-1980)"
+   }
+  ]
+ },
+ "owing": {
+  "ph": "/'әuiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "未付的, 虧欠的, 受惠的, 歸因於...的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 應付的, 欠著的, 未付的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 owing｜複數 owings"
+ },
+ "owl": {
+  "ph": "/aul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貓頭鷹",
+    "def": "nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 走私",
+    "def": ""
+   }
+  ],
+  "forms": "複數 owls"
+ },
+ "owlet": {
+  "ph": "/'aulit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小貓頭鷹",
+    "def": "young owl"
+   }
+  ],
+  "forms": "複數 owlets"
+ },
+ "owlish": {
+  "ph": "/'auliʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貓頭鷹般的, 面孔嚴肅的, 看似聰明的",
+    "def": ""
+   }
+  ]
+ },
+ "owlishly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "owlish的變形",
+    "def": ""
+   }
+  ]
+ },
+ "own": {
+  "ph": "/әun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自己的",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "自己的, 嫡親的, 同胞的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "擁有, 支配, 自認, 承認, 順從於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "承認, 供認",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 owned｜第三人稱單數 owns｜過去式 owned｜現在分詞 owning"
+ },
+ "own goal": {
+  "ph": "/əun ɡəul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誤中本隊球門, 影響本身利益的錯誤行為; 烏龍球",
+    "def": ""
+   }
+  ]
+ },
+ "owned": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "擁有；承認（own的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 owned｜過去分詞 owned"
+ },
+ "owner": {
+  "ph": "/'әunә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擁有者, 物主, 所有人",
+    "def": "(law) someone who owns (is legal possessor of) a business"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 所有者, 物主, 業主",
+    "def": ""
+   }
+  ],
+  "forms": "複數 owners"
+ },
+ "ownership": {
+  "ph": "/'әunәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "所有權, 物主身份",
+    "def": "the relation of an owner to the thing possessed; possession with the right to transfer possession to others"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 所有權, 所有制",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ownerships"
+ },
+ "owt": {
+  "ph": "/aʊt/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "任何事",
+    "def": ""
+   }
+  ]
+ }
+}

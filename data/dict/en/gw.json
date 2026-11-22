@@ -1,0 +1,128 @@
+{
+ "gw": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "十億瓦特（gigawatt）；毛重（Gross Weight）；制導武器（Guided Weapon）",
+    "def": ""
+   }
+  ]
+ },
+ "gweilo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（東南亞用語, 尤指西方人）外國佬, 鬼佬",
+    "def": ""
+   }
+  ]
+ },
+ "gwen": {
+  "ph": "/^wen/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格溫（女子名, Gwendolyn或Guenevere 的暱稱）",
+    "def": ""
+   }
+  ]
+ },
+ "gwendolen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格溫德倫",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "格溫德琳",
+    "def": ""
+   }
+  ]
+ },
+ "gwendoline": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格溫多林（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "gwent": {
+  "ph": "/^went/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格溫特郡[英國威爾士郡名]",
+    "def": ""
+   }
+  ]
+ },
+ "gwilym": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Gwilym)人名；(英)格威利姆",
+    "def": ""
+   }
+  ]
+ },
+ "gwr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "地理加權迴歸（Geographically Weighted Regression）；氣水比（Gas Water Ratio）；英國大西鐵路（Great Western Railway）",
+    "def": ""
+   }
+  ]
+ },
+ "gwyn": {
+  "ph": "/^win/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格溫（女人名）",
+    "def": "Celtic underworld god"
+   }
+  ]
+ },
+ "gwynedd": {
+  "ph": "/'^wineð/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格溫內思郡[英國威爾士郡名]",
+    "def": ""
+   }
+  ]
+ },
+ "gwyneth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格溫妮絲（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "gwynne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Gwynne)人名；(英)格溫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gwynnes"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "zydeco": {
+  "ph": "/'zaidikәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柴迪科舞[曲](美國一種黑人舞曲)(亦作zodico, zologo)",
+    "def": "music of southern Louisiana that combines French dance melodies with Caribbean music and blues"
+   }
+  ]
+ },
+ "zygomatic": {
+  "ph": "/.zaigәu'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頰骨的, 顴骨的",
+    "def": "of or relating to the cheek region of the face"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 顴的, 顴骨的",
+    "def": ""
+   }
+  ]
+ },
+ "zygote": {
+  "ph": "/'zaigәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合子, 受精卵",
+    "def": "(genetics) the diploid cell resulting from the union of a haploid spermatozoon and ovum (including the organism that develops from that cell)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 合子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 zygotes｜第三人稱單數 zygotes"
+ }
+}

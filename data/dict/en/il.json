@@ -1,0 +1,770 @@
+{
+ "i'll": {
+  "ph": "/aɪl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "我將, 我會（=I shall）",
+    "def": ""
+   }
+  ]
+ },
+ "il": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 指令表, 中間語言, 解釋語言",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鉕(61號元素)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ils｜第三人稱單數 ils"
+ },
+ "ile": {
+  "ph": "/ail,il,əl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 異亮氨酸",
+    "def": ""
+   }
+  ]
+ },
+ "ileal": {
+  "ph": "/'iliәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "迴腸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 迴腸的",
+    "def": ""
+   }
+  ]
+ },
+ "ileostomy": {
+  "ph": "/,ili'ɔstәmi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 迴腸造口術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ileostomies"
+ },
+ "iles": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Iles)人名；(芬、西)伊萊斯；(英)艾爾斯",
+    "def": ""
+   }
+  ]
+ },
+ "ileum": {
+  "ph": "/'iliәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迴腸",
+    "def": "the part of the small intestine between the jejunum and the cecum"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 迴腸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ileums"
+ },
+ "iliac": {
+  "ph": "/'iliæk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "髂骨的, 迴腸的",
+    "def": "of or relating to the ilium"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 髂的, 髂骨的",
+    "def": ""
+   }
+  ]
+ },
+ "iliad": {
+  "ph": "/'iliәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊里亞特（相傳為荷馬所做的古希臘史詩）",
+    "def": "a Greek epic poem (attributed to Homer) describing the siege of Troy"
+   }
+  ]
+ },
+ "ilium": {
+  "ph": "/'iliәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "髂骨",
+    "def": "the upper and widest of the three bones making up the hipbone"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 髂骨",
+    "def": ""
+   }
+  ]
+ },
+ "ilk": {
+  "ph": "/ilk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相同的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "等級, 家族, 親屬, 種類",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ilks"
+ },
+ "ill": {
+  "ph": "/il/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "疾病, 壞事, 罪惡, 災難",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "生病的, 邪惡的, 不吉利的, 敵意的, 不良的, 不順利的",
+    "def": "affected by an impairment of normal physical or mental function"
+   },
+   {
+    "pos": "adv.",
+    "zh": "有害地, 不幸地, 幾乎不",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ills"
+ },
+ "ill health": {
+  "ph": "/il helθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不健康",
+    "def": ""
+   }
+  ]
+ },
+ "ill-fated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惡運的, 不幸的, 不吉的",
+    "def": ""
+   }
+  ]
+ },
+ "illegal": {
+  "ph": "/i'li:gәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "違法的, 不合規定的",
+    "def": "prohibited by law or by official or accepted rules"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 非法的, 犯規的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illegals"
+ },
+ "illegality": {
+  "ph": "/.ili:'gæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "非法行為, 犯規",
+    "def": "unlawfulness by virtue of violating some legal statute"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 違法, 不合法, 非法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illegalities"
+ },
+ "illegally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 非法地, 不合法地, 違法地",
+    "def": ""
+   }
+  ]
+ },
+ "illegibility": {
+  "ph": "/i.ledʒi'bilәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "模糊；不清不楚",
+    "def": "the quality of writing (print or handwriting) that cannot be deciphered"
+   }
+  ]
+ },
+ "illegible": {
+  "ph": "/i'ledʒәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "難辨認的, 字跡模糊的",
+    "def": "(of handwriting, print, etc.) not legible"
+   }
+  ]
+ },
+ "illegitimacy": {
+  "ph": "/.ili'dʒitimәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不法, 私生, 不規則性, 不合邏輯",
+    "def": "unlawfulness by virtue of not being authorized by or in accordance with law"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 私生, 違法",
+    "def": ""
+   }
+  ]
+ },
+ "illegitimate": {
+  "ph": "/.ili'dʒitimәt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不法的, 私生的, 不合規則的, 不合理的, 不符合習慣的",
+    "def": "of marriages and offspring; not recognized as lawful"
+   },
+   {
+    "pos": "n.",
+    "zh": "無合法身份的人",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "宣告...為非法, 證明...為私生",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illegitimates"
+ },
+ "illegitimately": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "私生地, 非法地, 不合理地",
+    "def": ""
+   }
+  ]
+ },
+ "illiberal": {
+  "ph": "/i'libәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狹隘的, 無教養的, 吝嗇的",
+    "def": ""
+   }
+  ]
+ },
+ "illich": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伊里奇（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "illicit": {
+  "ph": "/i'lisit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不法的, 不正當的, 禁止的",
+    "def": "contrary to accepted morality (especially sexual morality) or convention"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 違法的, 違禁的, 被禁止的",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 illicits"
+ },
+ "illicitly": {
+  "ph": "/ɪ'lɪsɪtlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "違法地, 不正地",
+    "def": ""
+   }
+  ]
+ },
+ "illimitable": {
+  "ph": "/i'limitәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無限的, 無邊際的",
+    "def": ""
+   }
+  ]
+ },
+ "illinois": {
+  "ph": "/.ili'nɒis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊利諾州",
+    "def": "a midwestern state in north-central United States"
+   }
+  ]
+ },
+ "illiquid": {
+  "ph": "/i'likwid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不能立即兌現的, 無流動資金的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 非流動(資金)的, 非現金的",
+    "def": ""
+   }
+  ]
+ },
+ "illiquidity": {
+  "ph": "/-diti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 非流動性",
+    "def": ""
+   }
+  ]
+ },
+ "illiteracy": {
+  "ph": "/i'litәrәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文盲, 無知",
+    "def": "ignorance resulting from not reading"
+   }
+  ]
+ },
+ "illiterate": {
+  "ph": "/i'litәrәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文盲",
+    "def": "a person unable to read"
+   },
+   {
+    "pos": "adj.",
+    "zh": "目不識丁的, 沒受教育的",
+    "def": "not able to read or write"
+   }
+  ],
+  "forms": "複數 illiterates"
+ },
+ "illness": {
+  "ph": "/'ilnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "疾病, 惡意",
+    "def": "impairment of normal physiological function affecting part or all of an organism"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illnesses"
+ },
+ "illocutionary": {
+  "ph": "/,ilәj'kju:ʃənәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[語][哲]語內表現行為的",
+    "def": ""
+   }
+  ]
+ },
+ "illogical": {
+  "ph": "/i'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不合邏輯的, 無緣由的",
+    "def": "lacking in correct logical relation"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 不合邏輯的, 無條理的, 說不通的",
+    "def": ""
+   }
+  ]
+ },
+ "illogicality": {
+  "ph": "/.ilɒdʒi'kæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不合理, 不合邏輯, 矛盾",
+    "def": "invalid or incorrect reasoning"
+   }
+  ],
+  "forms": "複數 illogicalities"
+ },
+ "illogically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不合邏輯地",
+    "def": ""
+   }
+  ]
+ },
+ "illuminate": {
+  "ph": "/i'lju:mineit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "照明, 用燈裝飾, 闡明, 說明, 使燦爛",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "照亮, 用燈裝飾",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 illuminated｜第三人稱單數 illuminates｜現在分詞 illuminating｜過去式 illuminated"
+ },
+ "illuminated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被照明的, 受啟發的, 加了燈飾的, 加了彩飾的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 illuminated｜過去式 illuminated"
+ },
+ "illuminati": {
+  "ph": "/i.lu:mi'nɑ:ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "先覺者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illuminati"
+ },
+ "illuminating": {
+  "ph": "/i'lju:mi,neitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有啟發性的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 illuminating"
+ },
+ "illumination": {
+  "ph": "/i.lju:mi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "照明, 闡明, 啟發",
+    "def": "the degree of visibility of your environment"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 照明, 映光",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illuminations"
+ },
+ "illuminator": {
+  "ph": "/i'lju:mineitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "啟發者, 反射鏡, 集光鏡",
+    "def": "One whose occupation is to adorn books, especially"
+   }
+  ],
+  "forms": "複數 illuminators"
+ },
+ "illumine": {
+  "ph": "/i'lju:min/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "照明, 點亮, 啟發",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 illumined｜第三人稱單數 illumines｜過去式 illumined｜現在分詞 illumining"
+ },
+ "illus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "插圖；例項；說明",
+    "def": ""
+   }
+  ]
+ },
+ "illusion": {
+  "ph": "/i'lju:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幻影, 錯覺, 幻想",
+    "def": "an erroneous mental representation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 錯覺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illusions"
+ },
+ "illusionary": {
+  "ph": "/i'lju:ʒənәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(=illusional)錯覺的, 幻影的",
+    "def": ""
+   }
+  ]
+ },
+ "illusionism": {
+  "ph": "/i'lju:ʒәnizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迷妄論, 幻想說",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illusionisms"
+ },
+ "illusionist": {
+  "ph": "/i'lu:ʒ(ә)nist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幻想家, 魔術師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illusionists"
+ },
+ "illusionistic": {
+  "ph": "/i,lju:ʒə'nistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "illusionist的變形",
+    "def": ""
+   }
+  ]
+ },
+ "illusive": {
+  "ph": "/i'lju:siv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "幻影的, 錯覺的, 迷惑人的",
+    "def": ""
+   }
+  ]
+ },
+ "illusory": {
+  "ph": "/i'lju:sәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "產生幻覺的, 幻影的, 錯覺的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 因錯覺產生的, 虛幻的",
+    "def": ""
+   }
+  ]
+ },
+ "illustrate": {
+  "ph": "/'ilәstreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "舉例說明, 作圖解, 闡明",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "舉例說明",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 illustrated｜第三人稱單數 illustrates｜現在分詞 illustrating｜過去式 illustrated"
+ },
+ "illustrated": {
+  "ph": "/'ilәstreitid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有插畫的報章雜誌",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 illustrated｜過去分詞 illustrated"
+ },
+ "illustration": {
+  "ph": "/.ilә'streiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "例證, 插圖",
+    "def": "artwork that helps make something clear or attractive"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 插圖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 illustrations"
+ },
+ "illustrative": {
+  "ph": "/'ilәstrәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "說明的, 解說的, 作例證的",
+    "def": ""
+   }
+  ]
+ },
+ "illustrator": {
+  "ph": "/'ilәstreitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "插畫家, 圖解者, 說明者",
+    "def": "an artist who makes illustrations (for books or magazines or advertisements etc.)"
+   }
+  ],
+  "forms": "複數 illustrators"
+ },
+ "illustrious": {
+  "ph": "/i'lʌstriәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "著名的, 輝煌的, 明亮的",
+    "def": ""
+   }
+  ]
+ },
+ "ilo": {
+  "ph": "/,ai el 'əu/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "國際勞工組織（International Labor Organization）；國際勞工局（International Labour Office）",
+    "def": ""
+   }
+  ]
+ },
+ "ilp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "instant linear programming 即時線性規劃",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ilps"
+ },
+ "ilsa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "分析用離子發光光譜學（ion luminescence spectroscopy for analysis）",
+    "def": ""
+   }
+  ]
+ },
+ "ilya": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ilya)人名；(俄、英)伊利婭 (女名), 伊利亞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ilyas"
+ }
+}

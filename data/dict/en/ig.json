@@ -1,0 +1,292 @@
+{
+ "ig": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "監察主任（Inspector General）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 igs"
+ },
+ "iga": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "integrating gyro (scope) accelerometer 綜合迴轉（範圍）加速計",
+    "def": ""
+   }
+  ]
+ },
+ "igg": {
+  "ph": "/i^/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "免疫球蛋白G（immunoglobulin G）",
+    "def": ""
+   }
+  ]
+ },
+ "iglesia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Iglesia)人名；(西)伊格萊西亞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 iglesias"
+ },
+ "igloo": {
+  "ph": "/'iglu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓頂建築",
+    "def": "an Eskimo hut; usually built of blocks (of sod or snow) in the shape of a dome"
+   }
+  ],
+  "forms": "複數 igloos"
+ },
+ "igm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "instantaneous gain modulation 瞬時增益調製; intelligent guided munition 智慧制導彈藥; interactive guidance mode 互動制導模式",
+    "def": ""
+   }
+  ]
+ },
+ "ignatius": {
+  "ph": "/i^'neiʃjәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊格內修斯(lgnace的異體)(m.)",
+    "def": "bishop of Antioch who was martyred under the Roman Emperor Trajan (died 110)"
+   }
+  ]
+ },
+ "igneous": {
+  "ph": "/'igniәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "火的, 似火的, 火成的",
+    "def": "produced under conditions involving intense heat; especially from molten magma\""
+   }
+  ]
+ },
+ "ignite": {
+  "ph": "/ig'nait/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "點燃, 使灼熱, 使興奮",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ignited｜過去式 ignited｜現在分詞 igniting｜第三人稱單數 ignites"
+ },
+ "igniter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "點火器, 引爆裝置",
+    "def": "a substance used to ignite or kindle a fire"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 點火器",
+    "def": ""
+   }
+  ]
+ },
+ "ignition": {
+  "ph": "/ig'niʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "點火, 點燃",
+    "def": "the process of initiating combustion or catching fire"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 點火; 著火",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ignitions"
+ },
+ "ignoble": {
+  "ph": "/ig'nәubl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "卑賤的, 卑鄙的, 低階的",
+    "def": "completely lacking nobility in character or quality or purpose"
+   }
+  ]
+ },
+ "ignominious": {
+  "ph": "/.ignәu'miniәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可恥的, 不名譽的, 下流的",
+    "def": ""
+   }
+  ]
+ },
+ "ignominiously": {
+  "ph": "/ˌɪɡnə'mɪnɪəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "恥辱地, 屈辱地, 丟臉地",
+    "def": ""
+   }
+  ]
+ },
+ "ignominy": {
+  "ph": "/'ignәmini/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "恥辱, 無恥行為, 不體面",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無恥行為, 醜行, 恥辱",
+    "def": ""
+   }
+  ]
+ },
+ "ignoramus": {
+  "ph": "/.ignә'reimәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不學無術的人, 無知識的人",
+    "def": "an ignorant person"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 笨人, 毫無知識的人, 不予起訴",
+    "def": ""
+   }
+  ]
+ },
+ "ignorance": {
+  "ph": "/'ignәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無知, 愚味",
+    "def": "the lack of knowledge or education"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無知, 不知情, 愚昧",
+    "def": ""
+   }
+  ]
+ },
+ "ignorant": {
+  "ph": "/'ignәrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無知識的, 不知道的, 由無知產生的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無知的, 愚昧的, 不知情的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ignorants"
+ },
+ "ignorantly": {
+  "ph": "/'ignərəntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無知地；不學無術地",
+    "def": ""
+   }
+  ]
+ },
+ "ignore": {
+  "ph": "/ig'nɒ:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "不理睬, 忽視, 駁回, 忽略",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 忽略",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ignored｜現在分詞 ignoring｜過去式 ignored｜第三人稱單數 ignores"
+ },
+ "ignored": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "忽略；不理會；不顧（ignore的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ignored｜過去式 ignored"
+ },
+ "ignoring": {
+  "ph": "/iɡˈnɔ:ɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "不顧( ignore的現在分詞 ); [法律]駁回（訴訟）; 對…不予理會; 佯裝未見",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ignoring"
+ },
+ "igor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Igor)人名；(烏克、羅、塞、斯洛伐、法、葡、俄、西、英)伊戈爾",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "注入氣和採出石油比（Injection Gas-Oil Ratio）",
+    "def": ""
+   }
+  ]
+ },
+ "iguana": {
+  "ph": "/i'gwɑ:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬣蜥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 iguanas"
+ }
+}

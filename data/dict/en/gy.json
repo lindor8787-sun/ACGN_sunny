@@ -1,0 +1,408 @@
+{
+ "gybe": {
+  "ph": "/dʒaib/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航道的改變",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)改變航道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gybes｜現在分詞 gybing｜過去式 gybed｜第三人稱單數 gybes｜過去分詞 gybed"
+ },
+ "gyle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "一次釀造的啤酒量, 勾兌用發酵醪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gyles"
+ },
+ "gym": {
+  "ph": "/dʒim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "+體育館, 體育訓練, 體育課, 體操",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gyms"
+ },
+ "gymkhana": {
+  "ph": "/dʒim'kɑ:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "運動會, 比賽, 運動場, 體育館",
+    "def": "a meet at which riders and horses display a range of skills and aptitudes"
+   }
+  ],
+  "forms": "複數 gymkhanas"
+ },
+ "gymnasia": {
+  "ph": "/dʒim'neiziә/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "體育館, 健身房, 大學預科",
+    "def": ""
+   }
+  ]
+ },
+ "gymnasium": {
+  "ph": "/dʒim'neiziәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "健身房, 體育館",
+    "def": "athletic facility equipped for sports or physical training"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 體育館, 健身室, 運動場",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gymnasiums"
+ },
+ "gymnast": {
+  "ph": "/'dʒimnæst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "體操運動員",
+    "def": "an athlete who is skilled in gymnastics"
+   }
+  ],
+  "forms": "複數 gymnasts"
+ },
+ "gymnastic": {
+  "ph": "/dʒim'næstik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "體操的, 體育的",
+    "def": "of or relating to or used in exercises intended to develop strength and agility"
+   }
+  ]
+ },
+ "gymnastics": {
+  "ph": "/dʒim'næstiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "體操, 體育",
+    "def": "a sport that involves exercises intended to display strength and balance and agility"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 體操, 體育",
+    "def": ""
+   }
+  ]
+ },
+ "gymslip": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種無袖連衫裙",
+    "def": "a sleeveless tunic worn by English girls as part of a school uniform"
+   }
+  ],
+  "forms": "複數 gymslips"
+ },
+ "gynaecocracy": {
+  "ph": "/,dʒaini'kɔkrәsi, ^ai-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婦女當政, 女權政治",
+    "def": ""
+   }
+  ]
+ },
+ "gynaecological": {
+  "ph": "/'^ainikә'lɔdʒikəl,,dʒai-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[醫]婦科學的, 婦科的",
+    "def": ""
+   }
+  ]
+ },
+ "gynaecologist": {
+  "ph": "/,^aini'kɔlәdʒist,,dʒai-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婦科醫生",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 婦科學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gynaecologists"
+ },
+ "gynaecology": {
+  "ph": "/,dʒaini'kɔlәdʒi,, ^ai-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婦科學",
+    "def": ""
+   }
+  ]
+ },
+ "gynecologic": {
+  "ph": "/,^ainikә'lɔdʒik,,dʒai-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "婦科學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 婦科學的",
+    "def": ""
+   }
+  ]
+ },
+ "gynecological": {
+  "ph": "/,^ainikә'lɔdʒikəl,,dʒai-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "婦科學",
+    "def": "of or relating to or practicing gynecology"
+   }
+  ]
+ },
+ "gynecologist": {
+  "ph": "/.gaini'kɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婦科醫生",
+    "def": "a specialist in gynecology"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 婦科學家",
+    "def": ""
+   }
+  ]
+ },
+ "gynecology": {
+  "ph": "/.gaini'kɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婦科醫學",
+    "def": "the branch of medicine that deals with the diseases and hygiene of women"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 婦科學",
+    "def": ""
+   }
+  ]
+ },
+ "gyp": {
+  "ph": "/dʒip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "校工, 騙, 騙子",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "騙, 欺詐",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "不誠實的, 欺騙的",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 gyps｜現在分詞 gyping｜過去式 gypped｜過去分詞 gypped"
+ },
+ "gypsum": {
+  "ph": "/'dʒipsәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石膏",
+    "def": "a common white or colorless mineral (hydrated calcium sulphate) used to make cements and plasters (especially plaster of Paris)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用石膏處理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gypsums"
+ },
+ "gypsy": {
+  "ph": "/'dʒipsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吉卜賽人, 吉卜賽語",
+    "def": "a member of a people with dark skin and hair who speak Romany and who traditionally live by seasonal work and fortunetelling; they are believed to have originat"
+   },
+   {
+    "pos": "adj.",
+    "zh": "象吉卜賽人的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "流浪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gypsies"
+ },
+ "gyrate": {
+  "ph": "/'dʒaireit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "旋渦狀的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "旋轉, 不停地轉動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 gyrating｜過去式 gyrated｜第三人稱單數 gyrates｜過去分詞 gyrated"
+ },
+ "gyration": {
+  "ph": "/dʒai'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋迴, 迴轉, 旋轉",
+    "def": "the act of rotating in a circle or spiral"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 迴旋, 環旋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gyrations"
+ },
+ "gyre": {
+  "ph": "/'dʒaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋迴, 迴轉, 旋轉, 漩渦",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "旋迴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gyres"
+ },
+ "gyrfalcon": {
+  "ph": "/'dʒ\\\\\\\\:fɔ:lkәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[鳥]矛隼(產於北極和近北極地區)",
+    "def": "large and rare Arctic falcon having white and dark color phases"
+   }
+  ]
+ },
+ "gyro": {
+  "ph": "/'dʒaiәrәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陀螺儀, 迴轉儀, 陀螺",
+    "def": "a Greek sandwich: sliced roast lamb with onion and tomato stuffed into pita bread"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 迴轉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gyros"
+ },
+ "gyroplane": {
+  "ph": "/'dʒairәplein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自動旋翼機",
+    "def": ""
+   }
+  ]
+ },
+ "gyroscope": {
+  "ph": "/'dʒairәskәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陀螺儀, 迴轉儀",
+    "def": "rotating mechanism in the form of a universally mounted spinning wheel that offers resistance to turns in any direction"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 陀螺儀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gyroscopes"
+ },
+ "gyroscopic": {
+  "ph": "/.dʒairәs'kɒpik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陀螺儀的",
+    "def": "having the characteristics of a gyroscope"
+   }
+  ]
+ },
+ "gyrus": {
+  "ph": "/'dʒairәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迴轉, 腦回",
+    "def": "a convex fold or elevation in the surface of the brain"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腦回, 回",
+    "def": ""
+   }
+  ]
+ }
+}

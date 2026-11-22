@@ -1,0 +1,46 @@
+{
+ "oy": {
+  "ph": "/ɔi/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "橙黃色（Orange Yellow）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oys｜比較級 oyer"
+ },
+ "oyster": {
+  "ph": "/'ɒistә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牡蠣, 蠔, 沉默者",
+    "def": "marine mollusks having a rough irregular shell; found on the sea bed mostly in coastal waters"
+   }
+  ],
+  "forms": "複數 oysters｜現在分詞 oystering｜過去式 oystered｜第三人稱單數 oysters｜過去分詞 oystered"
+ },
+ "oystercatcher": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蠣鷸",
+    "def": "black-and-white shorebird with stout legs and bill; feed on oysters etc."
+   }
+  ],
+  "forms": "複數 oystercatchers"
+ },
+ "oysterman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "採牡蠣者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oystermen"
+ }
+}

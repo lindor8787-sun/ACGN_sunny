@@ -1,0 +1,2551 @@
+{
+ "a.m.": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "上午, 午前",
+    "def": ""
+   }
+  ]
+ },
+ "am": {
+  "ph": "/æm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "be的單數第一人稱",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 存取管理程式, 定址方式, 地址標記, 變址數, 調幅, 輔助儲存器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ams｜比較級 amer"
+ },
+ "ama": {
+  "ph": "/'ɑ:mɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 相聯儲存器陣列, 故障自動分析, 自動報文計價",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 半規管膨隆(在壺腹對側)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amas"
+ },
+ "amadeus": {
+  "ph": "/a'madiəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莫扎特（奧地利作曲家）；莫扎特傳（電影名）；阿瑪迪斯（唱片公司品牌）",
+    "def": ""
+   }
+  ]
+ },
+ "amal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 航空醫學加速實驗室",
+    "def": ""
+   }
+  ]
+ },
+ "amalgam": {
+  "ph": "/ә'mælgәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汞合金, 汞齊",
+    "def": "an alloy of mercury with another metal (usually silver) used by dentists to fill cavities in teeth; except for iron and platinum all metals dissolve in mercury "
+   },
+   {
+    "pos": "",
+    "zh": "[化] 汞齊; 汞合金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amalgams"
+ },
+ "amalgamate": {
+  "ph": "/ә'mælgәmeit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使汞齊化, 合併",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 amalgamated｜過去式 amalgamated｜現在分詞 amalgamating｜第三人稱單數 amalgamates"
+ },
+ "amalgamated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "合併",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "混合",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "（使）汞齊化（ amalgamate的過去式和過去分詞 ）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 amalgamated"
+ },
+ "amalgamation": {
+  "ph": "/ә.mælgә'meiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汞齊化, 合併",
+    "def": "the combination of two or more commercial companies"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 汞齊化; 汞齊化作用; 混汞法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amalgamations"
+ },
+ "amanda": {
+  "ph": "/ә'mændә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿曼達（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "amanuensis": {
+  "ph": "/ә.mænju'ensis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "筆記者, 抄寫員, 書記",
+    "def": ""
+   }
+  ]
+ },
+ "amaranth": {
+  "ph": "/'æmәrænθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不凋花, 莧屬植物, 紫紅色",
+    "def": "seed of amaranth plants used as a native cereal in Central and South America"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 莧菜紅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amaranths"
+ },
+ "amaretto": {
+  "ph": "/,æmә'retәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義大利苦杏酒",
+    "def": "an Italian almond liqueur"
+   }
+  ]
+ },
+ "amaryllis": {
+  "ph": "/.æmә'rilis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孤挺花",
+    "def": "bulbous plant having showy white to reddish flowers"
+   }
+  ]
+ },
+ "amass": {
+  "ph": "/ә'mæs/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "積聚, 堆積",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 amassed｜過去式 amassed｜現在分詞 amassing｜第三人稱單數 amasses"
+ },
+ "amassing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "積聚；積累",
+    "def": ""
+   }
+  ]
+ },
+ "amateur": {
+  "ph": "/'æmәtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "業餘愛好者, 外行, 愛好者",
+    "def": "someone who pursues a study or sport as a pastime"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 業餘家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amateurs"
+ },
+ "amateurish": {
+  "ph": "/.æmә'tә:riʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "業餘的, 外行的, 不熟練的",
+    "def": ""
+   }
+  ]
+ },
+ "amateurishness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "amateurish的變形",
+    "def": "something that demonstrates a lack of professional competency"
+   }
+  ]
+ },
+ "amateurism": {
+  "ph": "/'æmәtә:rizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外行做法, 業餘身份",
+    "def": "the conviction that people should participate in sports as a hobby (for the fun of it) rather than for money"
+   }
+  ]
+ },
+ "amato": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Amato)人名；(法、西、意、葡)阿馬託；(日)天戶(姓)",
+    "def": ""
+   }
+  ]
+ },
+ "amatory": {
+  "ph": "/'æmәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "戀愛的, 情人的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 戀愛的, 性慾的",
+    "def": ""
+   }
+  ]
+ },
+ "amaze": {
+  "ph": "/ә'meiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使吃驚",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 amazed｜第三人稱單數 amazes｜現在分詞 amazing｜過去分詞 amazed｜複數 amazes"
+ },
+ "amazed": {
+  "ph": "/ә'meizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吃驚的, 驚奇的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 amazed｜過去分詞 amazed"
+ },
+ "amazement": {
+  "ph": "/ә'meizmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驚愕, 驚異",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amazements"
+ },
+ "amazing": {
+  "ph": "/ә'meiziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人驚異的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 amazing"
+ },
+ "amazingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人驚訝地；驚奇地",
+    "def": ""
+   }
+  ]
+ },
+ "amazon": {
+  "ph": "/'æmәzɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞馬孫河",
+    "def": "a large strong and aggressive woman"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無乳腺者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amazons"
+ },
+ "amazonia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞馬孫古陸, 亞馬孫流域",
+    "def": ""
+   }
+  ]
+ },
+ "amazonian": {
+  "ph": "/,æmә'zәunjәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞馬遜河區的印第安人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "亞馬遜河的, (女子)剛勇好戰的,有男子氣的",
+    "def": "Pertaining to or resembling an Amazon; of masculine"
+   }
+  ]
+ },
+ "ambassador": {
+  "ph": "/æm'bæsәdә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大使",
+    "def": "a diplomat of the highest rank; accredited as representative from one country to another"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 大使, 使節, 代理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ambassadors"
+ },
+ "ambassadorial": {
+  "ph": "/æm.bæsә'dɒ:riәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大使的, 大使一級的",
+    "def": "of or relating to or characteristic of ambassadors"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 大使的, 使節的",
+    "def": ""
+   }
+  ]
+ },
+ "ambassadorship": {
+  "ph": "/æm'bæsәdәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大使的職位",
+    "def": "the post of ambassador"
+   }
+  ]
+ },
+ "amber": {
+  "ph": "/'æmbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "琥珀, 琥珀色",
+    "def": "a deep yellow color"
+   },
+   {
+    "pos": "adj.",
+    "zh": "琥珀色的, 琥珀似的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ambers"
+ },
+ "ambergris": {
+  "ph": "/'æmbәgri:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "龍涎香",
+    "def": "waxy substance secreted by the sperm whale and found floating at sea or washed ashore; used in perfume"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 龍涎香",
+    "def": ""
+   }
+  ]
+ },
+ "amberley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Amberley)人名；(英)安伯利",
+    "def": ""
+   }
+  ]
+ },
+ "ambiance": {
+  "ph": "/'æmbiәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣氛；周圍環境（等於ambience）",
+    "def": "the atmosphere of an environment"
+   }
+  ],
+  "forms": "複數 ambiances"
+ },
+ "ambidextrous": {
+  "ph": "/.æmbi'dekstrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兩手俱利的, 搞兩面派的",
+    "def": "equally skillful with each hand"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兩手同利的",
+    "def": ""
+   }
+  ]
+ },
+ "ambience": {
+  "ph": "/'æmbiәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "周圍環境, 氣氛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ambiences"
+ },
+ "ambient": {
+  "ph": "/'æmbiәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "周圍的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "周圍環境",
+    "def": ""
+   }
+  ]
+ },
+ "ambiguity": {
+  "ph": "/.æmbi'gju:iti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不明確, 含糊",
+    "def": "an expression whose meaning cannot be determined from its context"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 二義性; 多義性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ambiguities"
+ },
+ "ambiguous": {
+  "ph": "/æm'bigjuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不明確的, 模稜兩可的",
+    "def": "having more than one possible meaning"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 意思含糊的, 模稜兩可的, 曖昧的",
+    "def": ""
+   }
+  ]
+ },
+ "ambiguously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "含糊不清地",
+    "def": ""
+   }
+  ]
+ },
+ "ambit": {
+  "ph": "/'æmbit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "周圍, 範圍, 界限, 領域",
+    "def": ""
+   }
+  ]
+ },
+ "ambition": {
+  "ph": "/æm'biʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "野心, 志向",
+    "def": "a cherished desire"
+   }
+  ],
+  "forms": "複數 ambitions"
+ },
+ "ambitious": {
+  "ph": "/æm'biʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有野心的, 抱負不凡的, 雄心勃勃的",
+    "def": "having a strong desire for success or achievement"
+   }
+  ]
+ },
+ "ambitiously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "雄心勃勃地；勁頭十足地；熱切地",
+    "def": ""
+   }
+  ]
+ },
+ "ambivalence": {
+  "ph": "/æm'bivәlәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矛盾情緒",
+    "def": "mixed feelings or emotions"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 矛盾情緒(兩種情感互相沖突)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ambivalences"
+ },
+ "ambivalent": {
+  "ph": "/æm'bivәlәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "矛盾的, 模稜兩可的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 矛盾情緒的",
+    "def": ""
+   }
+  ]
+ },
+ "ambivalently": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有矛盾感情地",
+    "def": ""
+   }
+  ]
+ },
+ "amble": {
+  "ph": "/'æmbl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬的緩行步態, 緩行漫步",
+    "def": "a leisurely walk (usually in some public place)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "馬緩行, 從容漫步",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ambled｜現在分詞 ambling｜第三人稱單數 ambles｜過去分詞 ambled｜複數 ambles"
+ },
+ "ambo": {
+  "ph": "/'æmbәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "讀經臺",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 關節盂緣",
+    "def": ""
+   }
+  ]
+ },
+ "ambrose": {
+  "ph": "/'æmbrәuz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安布羅斯(m.)",
+    "def": "(Roman Catholic Church) Roman priest who became bishop of Milan; the first Church Father born and raised in the Christian faith; composer of hymns; imposed orth"
+   }
+  ]
+ },
+ "ambrosia": {
+  "ph": "/æm'brәuʒiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仙果, 特別美味的食物",
+    "def": "fruit dessert made of oranges and bananas with shredded coconut"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 豕草屬",
+    "def": ""
+   }
+  ]
+ },
+ "ambrosial": {
+  "ph": "/æm'brәuzjәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "特別美味的",
+    "def": ""
+   }
+  ]
+ },
+ "ambulance": {
+  "ph": "/'æmbjulәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救護車",
+    "def": "a vehicle that takes people to and from hospitals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 救護車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ambulances"
+ },
+ "ambulanceman": {
+  "ph": "/'æmbjʊlənsmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救護人員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ambulancemen"
+ },
+ "ambulate": {
+  "ph": "/'æmbjuleit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "移動, 步行, 走動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ambulating｜過去式 ambulated｜第三人稱單數 ambulates｜過去分詞 ambulated"
+ },
+ "ambulation": {
+  "ph": "/æmbju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "移動, 步行",
+    "def": "walking about"
+   }
+  ]
+ },
+ "ambulatory": {
+  "ph": "/'æmbjulәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "步行的, 走動的, 流動的, 非固定的",
+    "def": "relating to or adapted for walking"
+   },
+   {
+    "pos": "n.",
+    "zh": "迴廊",
+    "def": "a covered walkway (as in a cloister)"
+   }
+  ],
+  "forms": "複數 ambulatories"
+ },
+ "ambush": {
+  "ph": "/'æmbuʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埋伏, 伏兵, 伏擊",
+    "def": "the act of concealing yourself and lying in wait to attack by surprise"
+   },
+   {
+    "pos": "vt.",
+    "zh": "埋伏, 伏擊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "埋伏",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ambushed｜過去式 ambushed｜複數 ambushes｜現在分詞 ambushing｜第三人稱單數 ambushes"
+ },
+ "amd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "超微半導體公司（Advanced Micro Devices）",
+    "def": ""
+   }
+  ]
+ },
+ "amdahl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 阿姆德爾",
+    "def": ""
+   }
+  ]
+ },
+ "amelia": {
+  "ph": "/ә'mi:ljә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 無肢[畸形], 缺肢[畸形]",
+    "def": ""
+   }
+  ]
+ },
+ "amelie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天使愛美麗（電影名）",
+    "def": ""
+   }
+  ]
+ },
+ "ameliorate": {
+  "ph": "/ә'mi:ljәreit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "改善, 改良, 改進",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ameliorated｜第三人稱單數 ameliorates｜現在分詞 ameliorating｜過去式 ameliorated"
+ },
+ "ameliorating": {
+  "ph": "/əˈmi:ljəˌreɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "<正, 誇>（使）改善, 改進( ameliorate的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ameliorating"
+ },
+ "amelioration": {
+  "ph": "/ә.mi:ljә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "改善, 改良, 改進",
+    "def": "the act of relieving ills and changing for the better"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 改善, 轉佳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ameliorations"
+ },
+ "ameliorative": {
+  "ph": "/ә'mi:ljәrәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "起改善作用的",
+    "def": ""
+   }
+  ]
+ },
+ "amen": {
+  "ph": "/.ɑ:'men/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "阿門",
+    "def": ""
+   }
+  ]
+ },
+ "amenable": {
+  "ph": "/ә'mi:nәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "服從的, 會接納的, 有義務的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 服從的, 有責任的, 有服從義務的",
+    "def": ""
+   }
+  ]
+ },
+ "amend": {
+  "ph": "/ә'mend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "修改, 改善, 改良",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "改過自新",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 amended｜現在分詞 amending｜過去式 amended｜第三人稱單數 amends｜複數 amends"
+ },
+ "amendable": {
+  "ph": "/ә'mendәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可修正的",
+    "def": ""
+   }
+  ]
+ },
+ "amended": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "修正的",
+    "def": "of legislation"
+   }
+  ],
+  "forms": "過去分詞 amended｜過去式 amended"
+ },
+ "amending": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 修改",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 amending"
+ },
+ "amendment": {
+  "ph": "/ә'mendmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修訂, 改善, 改良, 改正",
+    "def": "the act of amending or correcting"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 調理劑; 修正",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amendments"
+ },
+ "amends": {
+  "ph": "/ә'mendz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賠償",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 賠償",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amends"
+ },
+ "amenities": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "令人愉快之事物（amenity的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "amenity": {
+  "ph": "/ә'mi:niti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "便利設施, 適意, 禮儀",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 舒適, 方便, 優雅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amenities"
+ },
+ "amenorrhea": {
+  "ph": "/ei,menә'ri:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經閉, 無月經",
+    "def": "absence or suppression of normal menstrual flow"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 經閉, 無月經",
+    "def": ""
+   }
+  ]
+ },
+ "amer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國的（等於American）；美國（等於America）；美國經濟評論（American Economic Review）",
+    "def": ""
+   }
+  ]
+ },
+ "amerasian": {
+  "ph": "/æmә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(尤指父親是美國人,母親是亞洲人的)美亞混血兒",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "美亞混血的",
+    "def": ""
+   }
+  ]
+ },
+ "america": {
+  "ph": "/ә'merikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美洲, 美國",
+    "def": "North America and South America and Central America"
+   }
+  ]
+ },
+ "american": {
+  "ph": "/ә'merikәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國人",
+    "def": "a native or inhabitant of the United States"
+   },
+   {
+    "pos": "adj.",
+    "zh": "美國的, 美洲的",
+    "def": "of or relating to the United States of America or its people or language or culture"
+   }
+  ],
+  "forms": "複數 americans"
+ },
+ "american football": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美式足球, 橄欖球",
+    "def": ""
+   }
+  ]
+ },
+ "americana": {
+  "ph": "/ә,meri'kɑ:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國文物；美國文獻",
+    "def": "any artifact (such as books or furniture or art) that is distinctive of America"
+   }
+  ]
+ },
+ "americanism": {
+  "ph": "/ә'merikәnizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "崇美主義, 美國英語的特點, 美國文化的特點",
+    "def": "loyalty to the United States and its institutions"
+   }
+  ],
+  "forms": "複數 americanisms"
+ },
+ "americanist": {
+  "ph": "/ә'merikәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "研究美國問題的人, 親美派",
+    "def": ""
+   }
+  ]
+ },
+ "americanization": {
+  "ph": "/ә,merikәnai'zeiʃən;-ni'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國化",
+    "def": "assimilation into American culture"
+   }
+  ]
+ },
+ "americanized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "美國化的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "美國化（Americanize的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 americanized"
+ },
+ "americanness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國性",
+    "def": ""
+   }
+  ]
+ },
+ "americas": {
+  "ph": "/ə'merikəz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美洲",
+    "def": ""
+   }
+  ]
+ },
+ "americium": {
+  "ph": "/.æmә'riʃiәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鋂",
+    "def": "a radioactive transuranic metallic element; discovered by bombarding uranium with helium atoms"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鋂Am",
+    "def": ""
+   }
+  ]
+ },
+ "amerindian": {
+  "ph": "/,æmә'rindjәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國印地安人或愛斯基摩人",
+    "def": "any member of the peoples living in North or South America before the Europeans arrived"
+   }
+  ],
+  "forms": "複數 amerindians"
+ },
+ "amery": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "埃默裡",
+    "def": ""
+   }
+  ]
+ },
+ "ames": {
+  "ph": "/eimz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 自動資訊輸入系統",
+    "def": ""
+   }
+  ]
+ },
+ "amethyst": {
+  "ph": "/'æmiθist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紫水晶, 紫藍色寶石",
+    "def": "a transparent purple variety of quartz; used as a gemstone"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 紫石英; 紫水晶; 紫晶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amethysts"
+ },
+ "amharic": {
+  "ph": "/æm'hærik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿姆哈拉語",
+    "def": "the dominant and official language of Ethiopia; a Semitic language much influenced by the Cushitic language with which Amhara have been in close contact"
+   }
+  ]
+ },
+ "amherst": {
+  "ph": "/'æmhә:st/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿默斯特(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "ami": {
+  "ph": "/ɑ:'mi:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "高階材料情報（Advanced Material Information）；美國食用肉類研究所（American Meat Institute）；航空英里指示器（Air Mileage Indicator）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ami"
+ },
+ "amiability": {
+  "ph": "/eimjә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "和藹可親, 友善, 親切",
+    "def": ""
+   }
+  ]
+ },
+ "amiable": {
+  "ph": "/'eimjәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "親切的, 和藹可親的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 親和的, 和藹可親的",
+    "def": ""
+   }
+  ]
+ },
+ "amiably": {
+  "ph": "/'eimjәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "和藹可親地, 親切地",
+    "def": ""
+   }
+  ]
+ },
+ "amicable": {
+  "ph": "/'æmikәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "友善的, 友好的",
+    "def": "characterized by friendship and good will"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 友好的, 和睦的, 溫和的",
+    "def": ""
+   }
+  ]
+ },
+ "amicably": {
+  "ph": "/'æmikәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "友善地",
+    "def": ""
+   }
+  ]
+ },
+ "amid": {
+  "ph": "/ә'mid/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在其間, 在其中",
+    "def": "See Amidst."
+   },
+   {
+    "pos": "",
+    "zh": "[經] 在...中",
+    "def": ""
+   }
+  ]
+ },
+ "amidships": {
+  "ph": "/ә'midʃips/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在船體中部",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 船體中央部",
+    "def": ""
+   }
+  ]
+ },
+ "amidst": {
+  "ph": "/ә'midst/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在...當中",
+    "def": "Alt. of Amid"
+   }
+  ]
+ },
+ "amiens": {
+  "ph": "/'æmiәnz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "亞眠[法國北部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "amiga": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女性朋友；一種多媒體計算機的商標",
+    "def": ""
+   }
+  ]
+ },
+ "amigo": {
+  "ph": "/ә'mi:gәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朋友",
+    "def": "a friend or comrade"
+   }
+  ],
+  "forms": "複數 amigos"
+ },
+ "amin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿敏（七十年代烏乾達的獨裁者）",
+    "def": ""
+   }
+  ]
+ },
+ "amine": {
+  "ph": "/ә'mi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胺, 滷氮化合物",
+    "def": "a compound derived from ammonia by replacing hydrogen atoms by univalent hydrocarbon radicals"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 胺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amines｜第三人稱單數 amines"
+ },
+ "amino": {
+  "ph": "/'æminәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氨基的",
+    "def": "pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氨基",
+    "def": ""
+   }
+  ]
+ },
+ "amino acid": {
+  "ph": "/ə,mi:nəu 'æsid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[生化] 氨基酸",
+    "def": ""
+   }
+  ]
+ },
+ "aminoglycoside": {
+  "ph": "/,æminə'ɡlikəsaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氨基糖苷類",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aminoglycosides"
+ },
+ "aminotransferase": {
+  "ph": "/ә,mi:nәu'trænsfә,reis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氨基轉移酶, 轉氨酶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aminotransferases"
+ },
+ "amir": {
+  "ph": "/ә'miә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃米爾(穆斯林國家的酋長等稱號)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amirs"
+ },
+ "amis": {
+  "ph": "/'eimis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 採集管理資訊系統, 先進管理資訊系統, 自動化管理資訊系統",
+    "def": ""
+   }
+  ]
+ },
+ "amish": {
+  "ph": "/'ɑ:miʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孟諾教派；孟諾教派之教徒",
+    "def": "an American follower of the Mennonite religion"
+   }
+  ]
+ },
+ "amiss": {
+  "ph": "/ә'mis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有毛病的, 出差錯的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "錯誤地, 不順當, 有缺陷地",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 amissing｜複數 amisses"
+ },
+ "amity": {
+  "ph": "/'æmiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "友好, 親善關係",
+    "def": "a cordial disposition"
+   }
+  ]
+ },
+ "amma": {
+  "ph": "/'ʌmɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫][=American-Mexican Medical Association]美國-墨西哥醫學協會",
+    "def": ""
+   }
+  ]
+ },
+ "amman": {
+  "ph": "/æ'mɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安曼(約旦首都)",
+    "def": "the capital and largest city of Jordan"
+   }
+  ]
+ },
+ "ammo": {
+  "ph": "/'æmәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍火, 彈藥",
+    "def": ""
+   }
+  ]
+ },
+ "ammonia": {
+  "ph": "/ә'mәunjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氨水, 阿摩尼亞",
+    "def": "a pungent gas compounded of nitrogen and hydrogen (NH3)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氨",
+    "def": ""
+   }
+  ]
+ },
+ "ammonite": {
+  "ph": "/'æmәnait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菊石",
+    "def": "one of the coiled chambered fossil shells of extinct mollusks"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 菊石; 乾肉粉; 阿芒炸藥; 硝銨二硝基萘炸藥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ammonites"
+ },
+ "ammonium": {
+  "ph": "/ә'mәunjәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銨",
+    "def": "the ion NH4 derived from ammonia; behaves in many respects like an alkali metal ion"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 銨",
+    "def": ""
+   }
+  ]
+ },
+ "ammunition": {
+  "ph": "/.æmju'niʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍火, 彈藥",
+    "def": "projectiles to be fired from a gun"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 彈藥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ammunitions"
+ },
+ "amnesia": {
+  "ph": "/æm'ni:zjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "健忘症, 記憶缺失",
+    "def": "partial or total loss of memory"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 記憶缺失, 遺忘[症]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amnesias"
+ },
+ "amnesiac": {
+  "ph": "/æm'ni:zi,æk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 遺忘者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amnesiacs"
+ },
+ "amnesty": {
+  "ph": "/'æmnisti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大赦, 赦免",
+    "def": "a period during which offenders are exempt from punishment"
+   }
+  ],
+  "forms": "複數 amnesties｜過去分詞 amnestied｜現在分詞 amnestying｜過去式 amnestied｜第三人稱單數 amnesties"
+ },
+ "amnio": {
+  "ph": "/'æmniəu/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "羊膜穿刺術（amniocentesis）",
+    "def": ""
+   }
+  ]
+ },
+ "amniocentesis": {
+  "ph": "/.æmniәusen'ti:sis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羊膜穿刺術",
+    "def": "(pregnancy) extraction by centesis of amniotic fluid from a pregnant woman (after the 15th week of pregnancy) to aid in the diagnosis of fetal abnormalities"
+   }
+  ]
+ },
+ "amniotic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "羊膜的",
+    "def": "of or related to the amnion or characterized by developing an amnion"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 羊膜的",
+    "def": ""
+   }
+  ]
+ },
+ "amo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國眼力健公司（Advanced Medical Optics）；程式設計物件模型（Analysis Management Object）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amos"
+ },
+ "amoco": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國石油公司（American Oil Company）",
+    "def": ""
+   }
+  ]
+ },
+ "amoeba": {
+  "ph": "/ә'mi:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿米巴, 變形蟲",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 阿米巴屬, 變形蟲屬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amoebae"
+ },
+ "amoebic": {
+  "ph": "/ә'mi:bik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "變形蟲的, 變形蟲狀的",
+    "def": "pertaining to or resembling amoebae"
+   }
+  ]
+ },
+ "amok": {
+  "ph": "/ә'mɔk/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "亂砍亂殺, 殺氣騰騰地橫衝直撞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [抑鬱後暴發]殺人狂",
+    "def": ""
+   }
+  ]
+ },
+ "amon": {
+  "ph": "/'ɑ:mәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "檔案實時監控",
+    "def": ""
+   }
+  ]
+ },
+ "among": {
+  "ph": "/ә'mʌŋ/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在...之中",
+    "def": "Alt. of Amongst"
+   }
+  ]
+ },
+ "amongst": {
+  "ph": "/ә'mʌŋst/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在...當中, 在...之間, 在...之中",
+    "def": "Mixed or mingled; surrounded by."
+   }
+  ]
+ },
+ "amontillado": {
+  "ph": "/ә.mɒnti'lɑ:dou/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白葡萄酒",
+    "def": "pale medium-dry sherry from Spain"
+   }
+  ]
+ },
+ "amor": {
+  "ph": "/'eimɔ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 戀愛, 愛情",
+    "def": ""
+   }
+  ]
+ },
+ "amoral": {
+  "ph": "/ei'mɒrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不屬於道德範疇的, 無從區分是非的",
+    "def": ""
+   }
+  ]
+ },
+ "amorality": {
+  "ph": "/.eimɔ'rælәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超道德, 非道德；道德無涉性",
+    "def": "the quality of being amoral"
+   }
+  ]
+ },
+ "amoroso": {
+  "ph": "/,æmә'rәjsәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葡萄醇香酒",
+    "def": "A lover; a man enamored."
+   }
+  ]
+ },
+ "amorous": {
+  "ph": "/'æmәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多情的, 表示愛情的, 戀愛的",
+    "def": ""
+   }
+  ]
+ },
+ "amorphous": {
+  "ph": "/ә'mɒ:fәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無定形的, 無組織的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 非晶形的; 無定形的",
+    "def": ""
+   }
+  ]
+ },
+ "amortise": {
+  "ph": "/ә'mɔ:taiz,'æmә-/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "攤還",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 amortised｜現在分詞 amortising｜第三人稱單數 amortises｜過去式 amortised"
+ },
+ "amortization": {
+  "ph": "/ә,mɔ:ti'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 分期付款",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 緩衝作用",
+    "def": ""
+   }
+  ]
+ },
+ "amortize": {
+  "ph": "/ә'mɒ:taiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "攤還, 攤銷, 分期償還",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 把不動產讓與, 轉讓, 分期償還",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 amortized｜過去分詞 amortized｜現在分詞 amortizing｜第三人稱單數 amortizes"
+ },
+ "amory": {
+  "ph": "/'eiməri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾默利（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "amos": {
+  "ph": "/'eimәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿摩司(<<聖經>>人物)",
+    "def": "a Hebrew shepherd and minor prophet"
+   }
+  ]
+ },
+ "amount": {
+  "ph": "/ә'maunt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "總數, 總額",
+    "def": "the relative magnitude of something with reference to a criterion"
+   },
+   {
+    "pos": "vi.",
+    "zh": "總計, 等同",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amounts｜過去式 amounted｜第三人稱單數 amounts｜現在分詞 amounting｜過去分詞 amounted"
+ },
+ "amour": {
+  "ph": "/ә'muә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偷情, 性愛",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 姦情, 不正當的男女關係, 戀愛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amours"
+ },
+ "amoxicillin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 阿莫西林; 羥氨苄青黴素",
+    "def": ""
+   }
+  ]
+ },
+ "amp": {
+  "ph": "/æmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安培",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 腺苷酸; 腺苷一磷酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amps｜現在分詞 amping"
+ },
+ "amperage": {
+  "ph": "/'æmpәridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安培數",
+    "def": "the strength of an electrical current measured in amperes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 安培度",
+    "def": ""
+   }
+  ]
+ },
+ "ampere": {
+  "ph": "/'æmpєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安培",
+    "def": "a former unit of electric current (slightly smaller than the SI ampere)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 安培",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amperes"
+ },
+ "ampersand": {
+  "ph": "/'æmpәsænd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] \"&\"號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ampersands"
+ },
+ "amphetamine": {
+  "ph": "/æm'fetәmi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苯丙胺, 安非他明",
+    "def": "a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 苯丙胺; 苯異丙胺; 安非他民; 1-苯基-2-丙胺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amphetamines｜第三人稱單數 amphetamines"
+ },
+ "amphibian": {
+  "ph": "/æm'fibiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兩棲類的, 水陸兩用的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "兩棲動物, 水旱兩生植物, 水陸兩用飛機",
+    "def": "a flat-bottomed motor vehicle that can travel on land or water"
+   }
+  ],
+  "forms": "複數 amphibians"
+ },
+ "amphibious": {
+  "ph": "/æm'fibiәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "水陸兩棲的, 能兩棲作戰的, 陸海空軍協同作戰的",
+    "def": "relating to or characteristic of animals of the class Amphibia"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兩棲的",
+    "def": ""
+   }
+  ]
+ },
+ "amphitheater": {
+  "ph": "/'æmfi.θiәtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓形劇場, 競技場, 梯形看臺",
+    "def": "a sloping gallery with seats for spectators (as in an operating room or theater)"
+   }
+  ],
+  "forms": "複數 amphitheaters"
+ },
+ "amphitheatre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "圓形劇場, 大會堂, 比賽場, 露天競技場",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 手術示教室, 看臺式教室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amphitheatres"
+ },
+ "amphora": {
+  "ph": "/'æmfәrә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 瓶狀體(植)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amphoras"
+ },
+ "amphotericin": {
+  "ph": "/,æmfә'terәsin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 兩性黴素",
+    "def": ""
+   }
+  ]
+ },
+ "ampicillin": {
+  "ph": "/,æmpi'silin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氨苄青黴素",
+    "def": "semisynthetic penicillin (trade names Principen and Polycillin and SK-Ampicillin)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氨苄西林; 氨苄青黴素",
+    "def": ""
+   }
+  ]
+ },
+ "ample": {
+  "ph": "/'æmpl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大量的, 充足的, 豐富的",
+    "def": "more than enough in size or scope or capacity"
+   }
+  ],
+  "forms": "比較級 ampler"
+ },
+ "ampleforth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ampleforth)人名；(英)安普爾福思",
+    "def": ""
+   }
+  ]
+ },
+ "amplification": {
+  "ph": "/.æmplifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擴大, 放大",
+    "def": "addition of extra material or illustration or clarifying detail"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 放大; 放大作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amplifications"
+ },
+ "amplified": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "放大；詳述（amplify的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 amplified｜過去式 amplified"
+ },
+ "amplifier": {
+  "ph": "/'æmplifaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擴大的人(物), 放大器, 擴音器",
+    "def": "electronic equipment that increases strength of signals passing through it"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 放大器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amplifiers"
+ },
+ "amplify": {
+  "ph": "/'æmplifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "增強, 放大, 擴大, 詳述",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "引伸",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 amplified｜過去式 amplified｜現在分詞 amplifying｜第三人稱單數 amplifies"
+ },
+ "amplitude": {
+  "ph": "/'æmplitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣闊, 充足, 幅度",
+    "def": "(physics) the maximum displacement of a periodic wave"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 振幅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amplitudes"
+ },
+ "amply": {
+  "ph": "/'æmpli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "充足地, 充裕地",
+    "def": ""
+   }
+  ]
+ },
+ "ampoule": {
+  "ph": "/'æmpu:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安瓿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 安瓿; 針藥管; 安瓿劑; 針藥; 壺腹",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ampoules"
+ },
+ "ampule": {
+  "ph": "/'æmpul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安瓿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 安瓿",
+    "def": ""
+   }
+  ]
+ },
+ "ampulla": {
+  "ph": "/æm'pulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兩耳細頸瓶, (教堂)聖瓶",
+    "def": "the dilated portion of a canal or duct especially of the semicircular canals of the ear"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 安瓿[劑], 壺腹",
+    "def": ""
+   }
+  ]
+ },
+ "amputate": {
+  "ph": "/'æmpjuteit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "切斷, 刪除",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 amputated｜過去式 amputated｜第三人稱單數 amputates｜現在分詞 amputating"
+ },
+ "amputated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "切斷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "鋸掉",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "截（肢）（amputate的過去式和過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 amputated"
+ },
+ "amputation": {
+  "ph": "/.æmpju'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "切斷, 截肢術",
+    "def": "a condition of disability resulting from the loss of one or more limbs"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 切斷術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amputations"
+ },
+ "amputee": {
+  "ph": "/.æmpju'ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被截肢者",
+    "def": "someone who has had a limb removed by amputation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 切肢者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amputees"
+ },
+ "amr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "自動執息路由；美利堅公司美國航空公司；材料提前公佈（Advanced Material Release）",
+    "def": ""
+   }
+  ]
+ },
+ "amritsar": {
+  "ph": "/,ʌm'ritsә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿姆利則[印度北部城市](錫克教聖地)",
+    "def": ""
+   }
+  ]
+ },
+ "ams": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 存取方法服務, 財務管理系統, 行政管理協會, 應用管理服務",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "應用管理系統, 應用繪圖服務, 非對稱多處理系統",
+    "def": ""
+   }
+  ]
+ },
+ "amsterdam": {
+  "ph": "/.æmstә'dæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿姆斯特丹(荷蘭首都)",
+    "def": "an industrial center and the nominal capital of the Netherlands; center of the diamond-cutting industry; seat of an important stock exchange; known for its cana"
+   }
+  ]
+ },
+ "amtrak": {
+  "ph": "/'æmtræk/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國鐵路公司（American track）",
+    "def": ""
+   }
+  ]
+ },
+ "amulet": {
+  "ph": "/'æmjulit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "護身符",
+    "def": "a trinket or piece of jewelry usually hung about the neck and thought to be a magical protection against evil or disease"
+   }
+  ],
+  "forms": "複數 amulets"
+ },
+ "amundsen": {
+  "ph": "/'ɑ:mjndsən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "Sea 阿蒙森海(南極洲的邊緣海,在瑟斯頓島同達爾特角之間,終年結冰)",
+    "def": ""
+   }
+  ]
+ },
+ "amuse": {
+  "ph": "/ә'mju:z/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "消遣, 娛樂, 使發笑",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 amused｜過去分詞 amused｜現在分詞 amusing｜第三人稱單數 amuses｜複數 amuses"
+ },
+ "amused": {
+  "ph": "/ә'mju:zd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愉快的, 被逗樂的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 amused｜過去式 amused"
+ },
+ "amusement": {
+  "ph": "/ә'mju:zmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "興味, 娛樂, 消遣",
+    "def": "a feeling of delight at being entertained"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 娛樂, 娛樂活動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 amusements"
+ },
+ "amusing": {
+  "ph": "/ә'mju:ziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有趣的, 引人發笑的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 amusing"
+ },
+ "amusingly": {
+  "ph": "/ə'mju:zɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有趣地, 好笑地",
+    "def": ""
+   }
+  ]
+ },
+ "amy": {
+  "ph": "/'eimi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾米（女子名）",
+    "def": "A friend."
+   }
+  ],
+  "forms": "複數 amys"
+ },
+ "amygdala": {
+  "ph": "/ә'migdәlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巴旦杏, 扁桃, 扁桃體",
+    "def": "an almond-shaped neural structure in the anterior part of the temporal lobe of the cerebrum; intimately connected with the hypothalamus and the hippocampus and "
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 苦扁桃, 苦巴旦杏, 扁桃體, 杏仁核",
+    "def": ""
+   }
+  ]
+ },
+ "amyl": {
+  "ph": "/'æmil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戊基",
+    "def": "a hydrocarbon radical that occurs in many organic compounds"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 戊基",
+    "def": ""
+   }
+  ]
+ },
+ "amylase": {
+  "ph": "/'æmileis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "澱粉酶",
+    "def": "any of a group of proteins found in saliva and pancreatic juice and parts of plants; help convert starch to sugar"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 澱粉酶",
+    "def": ""
+   }
+  ]
+ },
+ "amyloid": {
+  "ph": "/'æmilɒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "澱粉的, 含澱粉的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "澱粉質食物, 澱粉狀蛋白",
+    "def": "a non-nitrogenous food substance consisting chiefly of starch; any substance resembling starch"
+   }
+  ]
+ },
+ "amyloidosis": {
+  "ph": "/,æmilɔi'dәjsis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 澱粉樣變性",
+    "def": ""
+   }
+  ]
+ },
+ "amyotrophic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 肌萎縮的",
+    "def": ""
+   }
+  ]
+ }
+}

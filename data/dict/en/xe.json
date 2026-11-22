@@ -1,0 +1,127 @@
+{
+ "xenon": {
+  "ph": "/'zenɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氙",
+    "def": "a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氙Xe",
+    "def": ""
+   }
+  ]
+ },
+ "xenophobe": {
+  "ph": "/'zenәfәub/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畏懼和憎恨外國人的人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 仇視外國人, 恐懼外國人者, 害怕生人者",
+    "def": ""
+   }
+  ]
+ },
+ "xenophobia": {
+  "ph": "/,zenә'fәubiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無端畏懼和憎恨外國人/陌生人, 對外國人的畏懼和憎恨",
+    "def": "a fear of foreigners or strangers"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生客恐怖",
+    "def": ""
+   }
+  ]
+ },
+ "xenophobic": {
+  "ph": "/,zenәj'fәjbik,,zi:-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "畏懼和憎恨外國人的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 仇外的, 恐懼外國人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 xenophobics"
+ },
+ "xenophon": {
+  "ph": "/'zenәfәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "色諾芬(約公元前434-前355, 希臘將軍, 歷史學家, 著有《長征記》一書)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 xenophons"
+ },
+ "xeric": {
+  "ph": "/'ziәrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "乾旱的, 環境乾燥的, 耐旱的, 沙漠般的",
+    "def": "being deficient in moisture"
+   }
+  ]
+ },
+ "xerophyte": {
+  "ph": "/'ziәrәufait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旱生植物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 xerophytes"
+ },
+ "xerox": {
+  "ph": "/'ziәrɒks/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "靜電覆印",
+    "def": ""
+   }
+  ],
+  "forms": "複數 xeroxes｜過去式 xeroxed"
+ },
+ "xeroxed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "影印, 影印( Xerox的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 xeroxed"
+ },
+ "xerxes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薛西斯；賽瑟斯（波斯王）",
+    "def": ""
+   }
+  ]
+ }
+}

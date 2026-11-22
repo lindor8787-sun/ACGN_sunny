@@ -1,0 +1,1749 @@
+{
+ "ju": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "六月（June）",
+    "def": ""
+   }
+  ]
+ },
+ "juan": {
+  "ph": "/hwɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡安（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "juanita": {
+  "ph": "/hwɑ:'ni:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡安妮塔（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "juba": {
+  "ph": "/'dʒu:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱巴舞(美國南部農場黑人的一種舞蹈)",
+    "def": "The mane of an animal."
+   }
+  ]
+ },
+ "jubilant": {
+  "ph": "/'dʒu:bilәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "歡呼的, 喜洋洋的",
+    "def": ""
+   }
+  ]
+ },
+ "jubilantly": {
+  "ph": "/'dʒu:bɪləntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "歡欣地, 喜氣洋洋地",
+    "def": ""
+   }
+  ]
+ },
+ "jubilation": {
+  "ph": "/.dʒu:bi'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歡呼, 喜歡, 慶祝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jubilations"
+ },
+ "jubilee": {
+  "ph": "/'dʒubili:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "五十週年紀念/慶祝, 二十五週年紀念/慶祝, 歡樂的佳節, 歡慶日, 狂歡節",
+    "def": "a special anniversary (or the celebration of it)"
+   }
+  ],
+  "forms": "複數 jubilees"
+ },
+ "judaea": {
+  "ph": "/dʒu:'diә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "朱迪亞(古巴勒斯坦的南部地區,包括今巴勒斯坦的南部地區和約旦的西南部地區)",
+    "def": ""
+   }
+  ]
+ },
+ "judah": {
+  "ph": "/'dʒu:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猶太, 猶太所出的後裔",
+    "def": "(Old Testament) the fourth son of Jacob who was forebear of one of the tribes of Israel; one of his descendants was to be the Messiah"
+   }
+  ]
+ },
+ "judaic": {
+  "ph": "/dʒu:'deiik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "猶太教的, 猶太人的",
+    "def": "of or relating to or characteristic of the Jews or their culture or religion"
+   }
+  ]
+ },
+ "judaism": {
+  "ph": "/'dʒu:diizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猶太教, 猶太文明, 猶太教信仰",
+    "def": "Jews collectively who practice a religion based on the Torah and the Talmud"
+   }
+  ]
+ },
+ "judas": {
+  "ph": "/'dʒu:dәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猶大, 叛徒",
+    "def": "(New Testament) the Apostle who betrayed Jesus to his enemies for 30 pieces of silver"
+   }
+  ]
+ },
+ "judd": {
+  "ph": "/dʒʌd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賈德（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "judder": {
+  "ph": "/'dʒʌdә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲調急劇變化, 顫抖",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "顫抖",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 juddered｜現在分詞 juddering｜第三人稱單數 judders｜複數 judders｜過去分詞 juddered"
+ },
+ "juddering": {
+  "ph": "/ˈdʒʌdərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "顫抖( judder的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "jude": {
+  "ph": "/dʒu:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猶大(<<聖經>>人物), <<猶大書>>",
+    "def": "(New Testament) supposed brother of St. James; one of the Apostles who is invoked in prayer when a situation seems hopeless"
+   }
+  ]
+ },
+ "judea": {
+  "ph": "/dʒu:'di:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱迪亞(古代羅馬所統治的Palestine南部)",
+    "def": "the southern part of ancient Palestine succeeding the kingdom of Judah; a Roman province at the time of Christ"
+   }
+  ]
+ },
+ "judean": {
+  "ph": "/dʒu:'di:әn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "猶太的",
+    "def": "Of or pertaining to Judea."
+   },
+   {
+    "pos": "n.",
+    "zh": "猶太人",
+    "def": "A native of Judea; a Jew."
+   }
+  ]
+ },
+ "judge": {
+  "ph": "/dʒʌdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法官, 裁判員, 審判官, 鑑定人",
+    "def": "a public official authorized to decide questions brought before a court of justice"
+   },
+   {
+    "pos": "vt.",
+    "zh": "審理, 鑑定, 判斷, 判決, 裁定",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "下判斷, 作評價",
+    "def": ""
+   }
+  ],
+  "forms": "複數 judges｜過去分詞 judged｜現在分詞 judging｜過去式 judged｜第三人稱單數 judges"
+ },
+ "judged": {
+  "ph": "/dʒʌdʒd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "判斷正確的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 judged｜過去式 judged"
+ },
+ "judgement": {
+  "ph": "/'dʒʌdʒmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "審判, 判決, 判斷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 判定, 審定, 鑑定",
+    "def": ""
+   }
+  ],
+  "forms": "複數 judgements"
+ },
+ "judgemental": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 判斷的",
+    "def": ""
+   }
+  ]
+ },
+ "judgeship": {
+  "ph": "/'dʒʌdʒʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法官的地位",
+    "def": "the position of judge"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 法官的職權, 任期或地位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 judgeships"
+ },
+ "judging": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "判斷；審判（judge的現在分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 judging"
+ },
+ "judgment": {
+  "ph": "/'dʒʌdʒmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裁判, 宣告, 判決書",
+    "def": "an opinion formed by judging something"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 判斷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 judgments"
+ },
+ "judgmental": {
+  "ph": "/dʒʌdʒ'mentl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "審判的",
+    "def": "depending on judgment"
+   }
+  ]
+ },
+ "judi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "朱迪（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "judicature": {
+  "ph": "/'dʒu:dikәtʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "司法, 法官的職位",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 司法, 司法權, 審判員",
+    "def": ""
+   }
+  ]
+ },
+ "judicial": {
+  "ph": "/dʒu:'diʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "法庭的, 公正的, 審判上的, 司法的",
+    "def": "belonging or appropriate to the office of a judge"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 司法的, 審判上的, 法官的",
+    "def": ""
+   }
+  ]
+ },
+ "judicially": {
+  "ph": "/dʒʊ'dɪʃəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "依法判決地, 公平地",
+    "def": ""
+   }
+  ]
+ },
+ "judiciary": {
+  "ph": "/dʒu:'diʃiәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "司法的, 法院的, 法官的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "司法部, 司法系統, 法官",
+    "def": "persons who administer justice"
+   }
+  ],
+  "forms": "複數 judiciaries"
+ },
+ "judicious": {
+  "ph": "/dʒu:'diʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頭腦精明的, 賢明的, 判斷正確的",
+    "def": ""
+   }
+  ]
+ },
+ "judiciously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "明智而審慎地；明斷地",
+    "def": ""
+   }
+  ]
+ },
+ "judiciousness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "明智",
+    "def": "good judgment"
+   }
+  ]
+ },
+ "judith": {
+  "ph": "/'dʒu:diθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱迪思（女子名）",
+    "def": "Jewish heroine in one of the books of the Apocrypha; she saved her people by decapitating the Assyrian general Holofernes"
+   }
+  ]
+ },
+ "judo": {
+  "ph": "/'dʒu:dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柔道",
+    "def": "a sport adapted from jujitsu (using principles of not resisting) and similar to wrestling; developed in Japan"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 揉術, 柔道(日本的一種武術)",
+    "def": ""
+   }
+  ]
+ },
+ "judy": {
+  "ph": "/'dʒu:di/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱迪（女子名）；朱迪（英國木偶戲 Punch and Judy中的妻子）",
+    "def": ""
+   }
+  ]
+ },
+ "jug": {
+  "ph": "/dʒʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水壺, 監牢, 模仿夜鶯的叫聲",
+    "def": "a large bottle with a narrow mouth"
+   },
+   {
+    "pos": "vt.",
+    "zh": "放入壺中, 燉, 關押",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "模仿夜鶯叫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jugs｜現在分詞 jugging｜過去式 jugged｜第三人稱單數 jugs｜過去分詞 jugged"
+ },
+ "juggernaut": {
+  "ph": "/'dʒʌgәnɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "世界主宰",
+    "def": "a massive inexorable force that seems to crush everything in its way"
+   }
+  ],
+  "forms": "複數 juggernauts｜第三人稱單數 juggernauts"
+ },
+ "juggle": {
+  "ph": "/dʒʌgl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "玩戲法, 行騙, 篡改",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "耍弄, 歪曲, 篡改",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "玩戲法, 魔術, 欺騙",
+    "def": "the act of rearranging things to give a misleading impression"
+   }
+  ],
+  "forms": "現在分詞 juggling｜過去式 juggled｜第三人稱單數 juggles｜過去分詞 juggled"
+ },
+ "juggler": {
+  "ph": "/'dʒʌglә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "變戲法者, 行騙者",
+    "def": "a performer who juggles objects and performs tricks of manual dexterity"
+   }
+  ],
+  "forms": "複數 jugglers"
+ },
+ "juggling": {
+  "ph": "/'dʒʌɡliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "欺詐的；變戲法的；欺騙的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 juggling"
+ },
+ "jugular": {
+  "ph": "/'dʒʌgjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "咽喉的, 頸部的, 頸靜脈的",
+    "def": "relating to or located in the region of the neck or throat"
+   },
+   {
+    "pos": "n.",
+    "zh": "頸靜脈",
+    "def": "a vital part that is vulnerable to attack"
+   }
+  ],
+  "forms": "複數 jugulars"
+ },
+ "juice": {
+  "ph": "/dʒu:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汁, 活力, 體液",
+    "def": "the liquid part that can be extracted from plant or animal tissue by squeezing or cooking"
+   },
+   {
+    "pos": "vt.",
+    "zh": "擠出汁來, 加汁",
+    "def": ""
+   }
+  ],
+  "forms": "複數 juices"
+ },
+ "juiced": {
+  "ph": "/dʒu:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有汁的,喝醉的",
+    "def": ""
+   }
+  ]
+ },
+ "juicer": {
+  "ph": "/'dʒu:sә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "榨汁器, 照明技師",
+    "def": ""
+   }
+  ]
+ },
+ "juiciness": {
+  "ph": "/d'ʒu:sɪnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多汁, 有趣",
+    "def": ""
+   }
+  ]
+ },
+ "juicy": {
+  "ph": "/'dʒusi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多汁液的, 生動的, 多水分的",
+    "def": "full of juice"
+   }
+  ],
+  "forms": "最高級 juiciest｜比較級 juicier"
+ },
+ "jujitsu": {
+  "ph": "/dʒu:'dʒitsu:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 柔術, 柔道(日本的一種武術)",
+    "def": ""
+   }
+  ]
+ },
+ "juju": {
+  "ph": "/'dʒu:dʒu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物神, 符咒",
+    "def": "the power associated with a juju"
+   }
+  ]
+ },
+ "juke": {
+  "ph": "/dʒu:k/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用假動作誘使",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 jukes｜複數 jukes"
+ },
+ "jukebox": {
+  "ph": "/'dʒu:kbɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自動唱機",
+    "def": "a cabinet containing an automatic record player; records are played by inserting a coin"
+   }
+  ],
+  "forms": "複數 jukeboxes"
+ },
+ "jul": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "七月",
+    "def": ""
+   }
+  ]
+ },
+ "jul.": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "七月",
+    "def": ""
+   }
+  ]
+ },
+ "julep": {
+  "ph": "/'dʒu:lep/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 甜酒, 甜香酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 juleps"
+ },
+ "jules": {
+  "ph": "/dʒu:lz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱爾斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "julia": {
+  "ph": "/'dʒu:ljә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱莉婭（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "julian": {
+  "ph": "/'dʒu:ljәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尤利烏斯愷撒的",
+    "def": "of or relating to or characteristic of Julius Caesar"
+   }
+  ]
+ },
+ "juliana": {
+  "ph": "/dʒu:li'ɑ:nә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "朱莉安娜(女子名)",
+    "def": ""
+   }
+  ]
+ },
+ "julie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱莉（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "julien": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱利安（女子名）；於連（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "julienne": {
+  "ph": "/,dʒu:li'en/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(蔬菜等)切成條的,切成絲的",
+    "def": ""
+   }
+  ]
+ },
+ "juliet": {
+  "ph": "/'dʒu:ljәt, -liәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱麗葉（莎士比亞劇女主人公）",
+    "def": ""
+   }
+  ]
+ },
+ "juliette": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱麗葉（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "julio": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡里奧（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "julius": {
+  "ph": "/'dʒu:ljәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱利葉斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "july": {
+  "ph": "/dʒu:'lai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "七月",
+    "def": "the month following June and preceding August"
+   }
+  ]
+ },
+ "jumble": {
+  "ph": "/dʒʌmbl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "攙雜, 混雜",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "搞亂, 使混亂",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "混亂, 薄餅",
+    "def": "small flat ring-shaped cake or cookie"
+   }
+  ],
+  "forms": "過去分詞 jumbled｜複數 jumbles｜現在分詞 jumbling｜過去式 jumbled｜第三人稱單數 jumbles"
+ },
+ "jumbled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亂七八糟的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 jumbled"
+ },
+ "jumbo": {
+  "ph": "/'dʒʌmbәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "龐然大物",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "巨大的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jumbos"
+ },
+ "jump": {
+  "ph": "/dʒʌmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跳躍, 跳動, 暴漲, 驚跳",
+    "def": "a sudden and decisive increase"
+   },
+   {
+    "pos": "vt.",
+    "zh": "跳躍, 躍過, 突升, 使跳躍",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "跳躍, 跳, 跳動, 暴漲",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 轉移, 跳轉",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 jumped｜現在分詞 jumping｜過去分詞 jumped｜第三人稱單數 jumps｜複數 jumps"
+ },
+ "jumped-up": {
+  "ph": "/'dʒʌmptʌp/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "勿忙拼湊的, 突然發跡的",
+    "def": ""
+   }
+  ]
+ },
+ "jumper": {
+  "ph": "/'dʒʌmpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跳躍者, 工作服",
+    "def": "a person who jumps"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 跳線聯結器, 跳接器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jumpers"
+ },
+ "jumping": {
+  "ph": "/'dʒʌmpiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "跳躍的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 jumping"
+ },
+ "jumpstart": {
+  "ph": "/'dʒʌmp,sta:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "安裝；引進",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 jumpstarting｜過去式 jumpstarted｜第三人稱單數 jumpstarts｜過去分詞 jumpstarted"
+ },
+ "jumpsuit": {
+  "ph": "/ˈdʒʌmpsu:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連衣褲, （尤指女式）連衣褲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jumpsuits"
+ },
+ "jumpy": {
+  "ph": "/'dʒʌmpi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "跳躍的, 跳動的, 神經質的",
+    "def": ""
+   }
+  ]
+ },
+ "jun": {
+  "ph": "/dʒʌn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "六月",
+    "def": ""
+   }
+  ]
+ },
+ "jun.": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "六月",
+    "def": ""
+   }
+  ]
+ },
+ "junction": {
+  "ph": "/'dʒʌŋkʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連線, 會合處, 交叉點",
+    "def": "the place where two or more things come together"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 接[合]處, 接點.[接]界",
+    "def": ""
+   }
+  ],
+  "forms": "複數 junctions"
+ },
+ "juncture": {
+  "ph": "/'dʒʌŋktʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "接合, 連線, 接縫",
+    "def": "an event that occurs at a critical time"
+   }
+  ],
+  "forms": "複數 junctures"
+ },
+ "june": {
+  "ph": "/dʒu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "六月",
+    "def": "the month following May and preceding July"
+   }
+  ]
+ },
+ "jung": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "榮格（姓氏）",
+    "def": "Swiss psychologist (1875-1961)"
+   }
+  ],
+  "forms": "過去式 jung｜過去分詞 jung"
+ },
+ "jungian": {
+  "ph": "/'jjŋiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "支援榮格的人；研究榮格學說的人",
+    "def": "a follower or advocate of Carl Jung's theories"
+   }
+  ],
+  "forms": "複數 jungians"
+ },
+ "jungle": {
+  "ph": "/'dʒʌŋgl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叢林, 雜亂的一堆, 弱肉強食的地方",
+    "def": "a location marked by an intense competition and struggle for survival"
+   }
+  ],
+  "forms": "複數 jungles"
+ },
+ "jungly": {
+  "ph": "/'dʒʌŋgli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "叢林的",
+    "def": ""
+   }
+  ]
+ },
+ "junior": {
+  "ph": "/'dʒu:njә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "年少者, 地位較低者, 大學三年級學生",
+    "def": "term of address for a disrespectful and annoying male"
+   },
+   {
+    "pos": "adj.",
+    "zh": "年少的, 下級的, 後進的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 juniors"
+ },
+ "juniper": {
+  "ph": "/'dʒu:nipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "杜松屬",
+    "def": "coniferous shrub or small tree with berrylike cones"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 杜松[實]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 junipers"
+ },
+ "junk": {
+  "ph": "/dʒʌŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "垃圾, 烏七八糟的東西, 舢板",
+    "def": "any of various Chinese boats with a high poop and lugsails"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 清除",
+    "def": ""
+   }
+  ],
+  "forms": "複數 junks｜現在分詞 junking｜過去分詞 junked｜過去式 junked｜第三人稱單數 junks｜比較級 junker"
+ },
+ "junk bond": {
+  "ph": "/dʒʌŋk bɔnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不值錢的債券, 垃圾債券; 後保債券, 價格低但風險大的債券",
+    "def": ""
+   }
+  ]
+ },
+ "junked": {
+  "ph": "/dʒʌŋkt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "丟棄, 廢棄( junk的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 junked"
+ },
+ "junker": {
+  "ph": "/'dʒʌŋkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸食麻藥者, 破汽車",
+    "def": "member of the Prussian aristocracy noted especially for militarism"
+   }
+  ],
+  "forms": "複數 junkers"
+ },
+ "junkers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Junkers)人名；(德、法)容克斯",
+    "def": "German aircraft engineer who designed the first all-metal airplane (1859-1935)"
+   },
+   {
+    "pos": "",
+    "zh": "容克",
+    "def": ""
+   }
+  ]
+ },
+ "junket": {
+  "ph": "/'dʒʌŋkit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "用公費遊山玩水, 設宴",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "宴請",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "凝乳食品, 用公費遊山玩水, 宴請",
+    "def": "dessert made of sweetened milk coagulated with rennet"
+   }
+  ],
+  "forms": "複數 junkets｜現在分詞 junketing｜過去式 junketed｜第三人稱單數 junkets｜過去分詞 junketed"
+ },
+ "junkie": {
+  "ph": "/'dʒʌŋki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有毒癮者, 廢舊品商人",
+    "def": ""
+   }
+  ]
+ },
+ "junkman": {
+  "ph": "/'dʒʌŋkmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拾廢鐵者, 拾破爛者",
+    "def": ""
+   }
+  ]
+ },
+ "junky": {
+  "ph": "/'dʒʌŋki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸海洛因成癮者, 吸毒的人, 毒品販子, 廢舊品商人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 junkies｜第三人稱單數 junkies"
+ },
+ "junkyard": {
+  "ph": "/'dʒʌŋkjɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廢品舊貨棧",
+    "def": "a field where junk is collected and stored for resale"
+   }
+  ]
+ },
+ "juno": {
+  "ph": "/'dʒu:nәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱諾(羅馬神話中天后)",
+    "def": "(Roman mythology) queen of the Olympian gods who protected marriage; wife and sister of Jupiter; counterpart of Greek Hera"
+   }
+  ]
+ },
+ "junta": {
+  "ph": "/'dʒʌntә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "以武力政變上臺的(軍)政府, 私黨, 陰謀小集團, 政務會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 juntas"
+ },
+ "junto": {
+  "ph": "/'dʒʌntәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "私黨, 秘密結社, 陰謀團體",
+    "def": ""
+   }
+  ]
+ },
+ "jupiter": {
+  "ph": "/'dʒu:pitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱庇物(羅馬神話中的主神), 木星",
+    "def": "the largest planet and the 5th from the sun; has many satellites and is one of the brightest objects in the night sky"
+   }
+  ]
+ },
+ "jura": {
+  "ph": "/'dʒuәrә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 法律, 法, 法律權利或權力",
+    "def": ""
+   }
+  ]
+ },
+ "jural": {
+  "ph": "/'dʒuәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "法制的, 法律上的, 權利義務相關的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 法律上的, 關於權利, 義務的",
+    "def": ""
+   }
+  ]
+ },
+ "jurassic": {
+  "ph": "/dʒu'ræsik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "侏羅紀的, 侏羅系的",
+    "def": "of or relating to or denoting the second period of the Mesozoic era"
+   },
+   {
+    "pos": "n.",
+    "zh": "侏羅紀",
+    "def": "from 190 million to 135 million years ago; dinosaurs; conifers"
+   }
+  ]
+ },
+ "juridical": {
+  "ph": "/.dʒuә'ridikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裁判上的, 司法上的, 法院的",
+    "def": "of or relating to the law or jurisprudence"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 司法上的, 審判上的, 法律上的",
+    "def": ""
+   }
+  ]
+ },
+ "juried": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 陪審團",
+    "def": ""
+   }
+  ]
+ },
+ "jurisdiction": {
+  "ph": "/.dʒuәris'dikʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "司法權, 審判權, 管轄權",
+    "def": "in law; the territory within which power can be exercised"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 法律管轄權, 審判權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jurisdictions"
+ },
+ "jurisdictional": {
+  "ph": "/.dʒuәris'dikʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "司法權的, 裁決權的, 管轄權的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 司法權的, 裁判權的, 管轄權的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jurisdictionals"
+ },
+ "jurisprudence": {
+  "ph": "/.dʒuәris'pru:dәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法律學, 法律體系",
+    "def": "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 法學, 法律學",
+    "def": ""
+   }
+  ]
+ },
+ "jurisprudential": {
+  "ph": "/-'denʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "法律學的, 法律學上的",
+    "def": "relating to the science or philosophy of law or a system of laws"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 法學上的, 法理學的",
+    "def": ""
+   }
+  ]
+ },
+ "jurist": {
+  "ph": "/'dʒuәrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法學家, 法律學者, 法律著作家",
+    "def": "a legal scholar versed in civil law or the law of nations"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 法學家, 律師, 法官",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jurists"
+ },
+ "juror": {
+  "ph": "/'dʒuәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陪審員, 審查委員",
+    "def": "someone who serves (or waits to be called to serve) on a jury"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 陪審員, 陪審官, 宣誓者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jurors"
+ },
+ "jury": {
+  "ph": "/'dʒuәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陪審團, 評判委員會",
+    "def": "a body of citizens sworn to give a true verdict according to the evidence presented in a court of law"
+   },
+   {
+    "pos": "adj.",
+    "zh": "應急的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 juries"
+ },
+ "jus": {
+  "ph": "/ʒju:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（拉）法律；權利；法律原則；（法）汁液",
+    "def": ""
+   }
+  ]
+ },
+ "just": {
+  "ph": "/dʒʌst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "正直的, 合理的, 正確的, 應得的",
+    "def": "used especially of what is legally or ethically right or proper or fitting"
+   },
+   {
+    "pos": "adv.",
+    "zh": "剛剛, 正好, 僅僅",
+    "def": ""
+   }
+  ]
+ },
+ "justice": {
+  "ph": "/'dʒʌstis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正義, 公平, 公正, 正確, 司法, 審判",
+    "def": "the quality of being just or fair"
+   }
+  ],
+  "forms": "複數 justices"
+ },
+ "justiciable": {
+  "ph": "/dʒʌs'tiʃiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可在法庭裁決的",
+    "def": "Proper to be examined in a court of justice."
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可受法院裁判的, 受法院管轄的",
+    "def": ""
+   }
+  ]
+ },
+ "justifiable": {
+  "ph": "/'dʒʌstifaiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可辯解的, 可證明的, 有理的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 正當的, 不可非議的, 可辦明的",
+    "def": ""
+   }
+  ]
+ },
+ "justifiably": {
+  "ph": "/dʒʌstɪ'faɪəblɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無可非議地",
+    "def": ""
+   }
+  ]
+ },
+ "justification": {
+  "ph": "/.dʒʌstifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辯護, 證明正當, 釋罪",
+    "def": "something (such as a fact or circumstance) that shows an action to be reasonable or necessary"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 調整",
+    "def": ""
+   }
+  ],
+  "forms": "複數 justifications"
+ },
+ "justificatory": {
+  "ph": "/'dʒʌstifikeitəri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "認為正當的, 辯解的, 辯明的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 認為正當的, 辦明的, 辯護的",
+    "def": ""
+   }
+  ]
+ },
+ "justified": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有道理的, 合乎情理的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 兩端對齊的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 justified｜過去式 justified"
+ },
+ "justify": {
+  "ph": "/'dʒʌstifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "替...辯護, 證明",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "證明合法",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 段落重排, 兩端對齊",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 justified｜第三人稱單數 justifies｜現在分詞 justifying｜過去式 justified"
+ },
+ "justifying": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "活字整理",
+    "def": ""
+   }
+  ]
+ },
+ "justin": {
+  "ph": "/'dʒʌstin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賈斯廷（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "justine": {
+  "ph": "/dʒә'sti:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賈絲廷（女子名, 等於Justina）",
+    "def": ""
+   }
+  ]
+ },
+ "justinian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東羅馬帝國皇帝",
+    "def": "Byzantine emperor who held the eastern frontier of his empire against the Persians; codified Roman law in 529; his general Belisarius regained North Africa and "
+   }
+  ]
+ },
+ "justly": {
+  "ph": "/'dʒʌstli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "公正地, 理由充分地, 正當地",
+    "def": ""
+   }
+  ]
+ },
+ "justness": {
+  "ph": "/'dʒʌstnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公正, 正當, 正確",
+    "def": "conformity with some esthetic standard of correctness or propriety"
+   }
+  ]
+ },
+ "jut": {
+  "ph": "/dʒʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尖端, 突出部分",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)突出, 伸出",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 jutting｜過去式 jutted｜第三人稱單數 juts｜複數 juts｜過去分詞 jutted"
+ },
+ "jute": {
+  "ph": "/dʒu:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱特人, 朱特族, 黃麻",
+    "def": "a plant fiber used in making rope or sacks"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 黃麻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 jutes"
+ },
+ "jutland": {
+  "ph": "/'dʒʌtlәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日德蘭半島(北歐的半島)",
+    "def": "peninsula in northern Europe that forms the continental part of Denmark and a northern part of Germany"
+   }
+  ]
+ },
+ "jutting": {
+  "ph": "/dʒʌtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）突出( jut的現在分詞 ); 伸出; （從…）突出; 高出",
+    "def": ""
+   }
+  ]
+ },
+ "juvenal": {
+  "ph": "/'dʒu:vәnəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "羽毛未豐的, 雛鳥的",
+    "def": ""
+   }
+  ]
+ },
+ "juvenile": {
+  "ph": "/'dʒu:vinail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "少年, 少年讀物",
+    "def": "a young person, not fully developed"
+   },
+   {
+    "pos": "adj.",
+    "zh": "少年的, 不成熟的, 適於少年的",
+    "def": "of or relating to or characteristic of or appropriate for children or young people"
+   }
+  ],
+  "forms": "複數 juveniles"
+ },
+ "juvenilia": {
+  "ph": "/.dʒu:vә'niliә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "少年讀物",
+    "def": ""
+   }
+  ]
+ },
+ "juventus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尤文圖斯",
+    "def": ""
+   }
+  ]
+ },
+ "juxtapose": {
+  "ph": "/.dʒʌkstә'pәuz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "並置, 並列",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 使連線, 毗連, 並列",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 juxtaposed｜第三人稱單數 juxtaposes｜過去式 juxtaposed｜現在分詞 juxtaposing"
+ },
+ "juxtaposed": {
+  "ph": "/ˌdʒʌkstəˈpəʊzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "把…並列, 把…並置, 把…放在另一個旁邊( juxtapose的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 juxtaposed｜過去式 juxtaposed"
+ },
+ "juxtaposition": {
+  "ph": "/.dʒʌkstәpә'ziʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "並排, 並置, 並列",
+    "def": "the act of positioning close together (or side by side)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 並列, 並置, 對合",
+    "def": ""
+   }
+  ],
+  "forms": "複數 juxtapositions"
+ }
+}

@@ -1,0 +1,3152 @@
+{
+ "ph": {
+  "ph": "/pi:eitʃ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "氫離子指數",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 藥典; 苯基",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phs"
+ },
+ "phaeton": {
+  "ph": "/'feitn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種輕快的四輪馬車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phaetons"
+ },
+ "phage": {
+  "ph": "/feidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噬菌體",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 噬菌體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phages"
+ },
+ "phalanx": {
+  "ph": "/'fælæŋks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方陣, 密集佇列, 密集的人群(或獸群), 指骨, 趾骨",
+    "def": "any of the bones of the fingers or toes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 指[趾]骨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phalanxes"
+ },
+ "phalarope": {
+  "ph": "/'fælәrәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瓣蹼鷸",
+    "def": "small sandpiper-like shorebird having lobate toes and being good swimmers; breed in the Arctic and winter in the tropics"
+   }
+  ],
+  "forms": "複數 phalaropes"
+ },
+ "phallic": {
+  "ph": "/'fælik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陰莖的, 生殖器的, 陽物崇拜的",
+    "def": "relating to a phallus especially as an embodiment of generative power"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 陰莖的",
+    "def": ""
+   }
+  ]
+ },
+ "phallocentric": {
+  "ph": "/ˌfæləʊˈsentrɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "強調男權觀點的",
+    "def": ""
+   }
+  ]
+ },
+ "phallus": {
+  "ph": "/'fælәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陽物形象, 陰莖, 陰蒂, 交接器原基",
+    "def": "genus of fungi having the cap or pileus hanging free around the stem"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 陰莖",
+    "def": ""
+   }
+  ]
+ },
+ "phantasm": {
+  "ph": "/'fæntæzәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幻影, 夢境, 幽靈, 心像, 幻像",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 幻象",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phantasms"
+ },
+ "phantasmagoria": {
+  "ph": "/.fæntæzmә'gɒ:riә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "千變萬化的情景, 幻燈的一種, 幻影彙集, 幻覺效應",
+    "def": "a constantly changing medley of real or imagined images (as in a dream)"
+   }
+  ],
+  "forms": "複數 phantasmagorias"
+ },
+ "phantasmagoric": {
+  "ph": "/.fæntæzmә'gɒ:rik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "幻影似的, 變幻不定的",
+    "def": ""
+   }
+  ]
+ },
+ "phantasmagorical": {
+  "ph": "/ˌfæntæzmə'ɡɒrɪkl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "變化無常的；夢幻般的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phantasmagoricals"
+ },
+ "phantasy": {
+  "ph": "/'fæntәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幻想, 怪念頭, 想象",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "vi. 幻想, 怪念頭, 想象",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phantasies｜過去式 phantasied"
+ },
+ "phantom": {
+  "ph": "/'fæntәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幻影, 虛位, 幽靈, 化身, 令人恐懼的事物, 駭人的想法",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "幻覺的, 幻影的, 幽靈的, 虛無飄渺的, 捉摸不定的, 有名無實的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phantoms"
+ },
+ "pharaoh": {
+  "ph": "/'færәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法老, 暴君",
+    "def": "the title of the ancient Egyptian kings"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 法老, 暴君",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pharaohs"
+ },
+ "pharaonic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（古埃及王）法老的; 像法老的; 暴君（般）的",
+    "def": "of or relating to the ancient Egyptian kings"
+   }
+  ]
+ },
+ "pharisaic": {
+  "ph": "/,færi'seiik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "法利賽人的",
+    "def": ""
+   }
+  ]
+ },
+ "pharisee": {
+  "ph": "/'færisi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偽君子, 偽善者",
+    "def": "a self-righteous or sanctimonious person"
+   }
+  ],
+  "forms": "複數 pharisees"
+ },
+ "pharma": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製藥公司",
+    "def": ""
+   }
+  ]
+ },
+ "pharmaceutical": {
+  "ph": "/,fɑ:mә'sju:tikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "藥學的, 製藥的, 藥用的, 藥物的, 藥劑師的, 藥師的",
+    "def": "of or relating to pharmacy or pharmacists"
+   },
+   {
+    "pos": "n.",
+    "zh": "藥品, 成藥, 藥劑",
+    "def": "drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment"
+   }
+  ],
+  "forms": "複數 pharmaceuticals"
+ },
+ "pharmacist": {
+  "ph": "/'fɑ:mәsist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥師, 藥品商, 藥商, 藥劑師",
+    "def": "a health professional trained in the art of preparing and dispensing drugs"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 藥師, 調劑員, 藥商",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pharmacists"
+ },
+ "pharmacognosy": {
+  "ph": "/,fɑ:mә'kɔ^nәsi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 生藥學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生藥學",
+    "def": ""
+   }
+  ]
+ },
+ "pharmacokinetic": {
+  "ph": "/ˌfɑ:məkoʊknetɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]藥物代謝動力學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pharmacokinetics"
+ },
+ "pharmacokinetics": {
+  "ph": "/,fɑ:mәkәu,kai'netiks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 藥動學",
+    "def": ""
+   }
+  ]
+ },
+ "pharmacologic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "藥理學, 藥物學",
+    "def": ""
+   }
+  ]
+ },
+ "pharmacological": {
+  "ph": "/.fɑ:mә'kɒlәʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "藥理學的, 藥物學的",
+    "def": "of or relating to pharmacology"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 藥理學的",
+    "def": ""
+   }
+  ]
+ },
+ "pharmacologist": {
+  "ph": "/.fɑ:mә'kɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥理學家, 藥物學家",
+    "def": "someone trained in the science of drugs (their composition and uses and effects)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 藥理學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pharmacologists"
+ },
+ "pharmacology": {
+  "ph": "/.fɑ:mә'kɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥理學, 藥物學",
+    "def": "the science or study of drugs: their preparation and properties and uses and effects"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 藥理學",
+    "def": ""
+   }
+  ]
+ },
+ "pharmacopoeia": {
+  "ph": "/.fɑ:mәkә'pi:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥典, 一批備用藥品",
+    "def": "a collection or stock of drugs"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 藥典",
+    "def": ""
+   }
+  ]
+ },
+ "pharmacotherapy": {
+  "ph": "/,fɑ:mәkә'θerәpi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 藥物療法",
+    "def": ""
+   }
+  ]
+ },
+ "pharmacy": {
+  "ph": "/'fɑ:mәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥房, 配藥學, 製藥業",
+    "def": "the art and science of preparing and dispensing drugs and medicines,"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 藥學, 藥劑學, 調劑學, 藥房",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pharmacies"
+ },
+ "pharyngeal": {
+  "ph": "/,færin'dʒi:әl, fә'rindʒi-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "咽的",
+    "def": "of or relating to the throat"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 咽的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pharyngeals"
+ },
+ "pharynx": {
+  "ph": "/'færiŋks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咽",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 咽",
+    "def": ""
+   }
+  ]
+ },
+ "phase": {
+  "ph": "/feiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時期, 局面, 方面, 位相, 相, 階段",
+    "def": "any distinct time period in a sequence of events"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使調整相位, 使定相, 使一致, 逐步執行, 實行",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 階段",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phases｜過去分詞 phased｜現在分詞 phasing｜過去式 phased｜第三人稱單數 phases"
+ },
+ "phased": {
+  "ph": "/feizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "定相的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 phased"
+ },
+ "phaser": {
+  "ph": "/'feizә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 相位器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phasers"
+ },
+ "phasing": {
+  "ph": "/'feiziŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 定相",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 phasing｜複數 phasings"
+ },
+ "phd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "哲學博士學位（Doctor of Philosophy）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phds"
+ },
+ "pheasant": {
+  "ph": "/'feznt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雉雞, 野雞, 雉科鳥",
+    "def": "large long-tailed gallinaceous bird native to the Old World but introduced elsewhere"
+   }
+  ],
+  "forms": "複數 pheasants"
+ },
+ "phelan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "費倫",
+    "def": ""
+   }
+  ]
+ },
+ "phelps": {
+  "ph": "/felps/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費爾普斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "phenobarbital": {
+  "ph": "/,fi:nәu'bɑ:bitәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苯巴比妥",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 苯巴比妥",
+    "def": ""
+   }
+  ]
+ },
+ "phenol": {
+  "ph": "/'fi:nɒl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苯酚, 石炭酸, 羥基類化合物",
+    "def": "any of a class of weakly acidic organic compounds; molecule contains one or more hydroxyl groups"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 酚; 苯酚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phenols"
+ },
+ "phenolic": {
+  "ph": "/fi'nɒlik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "酚的, 石炭酸的, 酚醛樹脂的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 酚的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phenolics"
+ },
+ "phenology": {
+  "ph": "/fi'nɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物候學, 物候關係",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 物候學",
+    "def": ""
+   }
+  ]
+ },
+ "phenom": {
+  "ph": "/fi'nɒm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傑出人才, 特別的事情",
+    "def": ""
+   }
+  ]
+ },
+ "phenomena": {
+  "ph": "/fi'nɒminә/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "現象",
+    "def": ""
+   }
+  ]
+ },
+ "phenomenal": {
+  "ph": "/fi'nɒminәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "現象的, 能知覺的, 異常的, 顯著的, 驚人的",
+    "def": "of or relating to a phenomenon"
+   }
+  ]
+ },
+ "phenomenally": {
+  "ph": "/fi'nɔminәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "現象, 從感官認識到, 非凡, 出眾",
+    "def": ""
+   }
+  ]
+ },
+ "phenomenological": {
+  "ph": "/fi.nɒminә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "現象學的, 現象論的",
+    "def": ""
+   }
+  ]
+ },
+ "phenomenologist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "現象學家；現象論學家 (phenomenology的變形)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phenomenologists"
+ },
+ "phenomenology": {
+  "ph": "/fi.nɒmi'nɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "現象學, 現象論",
+    "def": "a philosophical doctrine proposed by Edmund Husserl based on the study of human experience in which considerations of objective reality are not taken into accou"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 現象學",
+    "def": ""
+   }
+  ]
+ },
+ "phenomenon": {
+  "ph": "/fi'nɒminәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "現象, 跡象, 表現, 奇蹟, 奇才",
+    "def": "any state or process known through the senses rather than by intuition or reasoning"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 現象",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phenomena"
+ },
+ "phenotype": {
+  "ph": "/'fi:nәtaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表現型, 有共同表現型的生物群體, 遺傳環境互應結果",
+    "def": "what an organism looks like as a consequence of the interaction of its genotype and the environment"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 表型, 顯型",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phenotypes"
+ },
+ "phenotypic": {
+  "ph": "/'fi:nә,tipik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 表型的, 顯型的",
+    "def": ""
+   }
+  ]
+ },
+ "phenylalanine": {
+  "ph": "/.feni'lælәni:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苯丙氨酸",
+    "def": "an essential amino acid found in proteins and needed for growth of children and for protein metabolism in children and adults; abundant in milk and eggs; it is "
+   },
+   {
+    "pos": "",
+    "zh": "[化] 苯基丙氨酸",
+    "def": ""
+   }
+  ]
+ },
+ "phenylketonuria": {
+  "ph": "/,fenәl,ki:tә'njuәriә, ,fi:nil-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 苯丙酮酸尿",
+    "def": ""
+   }
+  ]
+ },
+ "phenylpropanolamine": {
+  "ph": "/fenɪlprɒpənəʊ'læmi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苯丙醇胺（一種血管收縮和中樞神經興奮藥）",
+    "def": "an adrenergic drug used in many preparations to relieve allergic reactions or respiratory infections"
+   }
+  ]
+ },
+ "pheromone": {
+  "ph": "/'ferәmәun/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 性外激素; 資訊激素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pheromones｜第三人稱單數 pheromones"
+ },
+ "phew": {
+  "ph": "/fju:/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "咳, 哦, 唷",
+    "def": ""
+   }
+  ]
+ },
+ "phi": {
+  "ph": "/fai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘語的第二十一個字母(Φ,φ)",
+    "def": "the 21st letter of the Greek alphabet"
+   }
+  ]
+ },
+ "phial": {
+  "ph": "/'faiәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "管形瓶, 小藥瓶",
+    "def": "a small bottle that contains a drug (especially a sealed sterile container for injection by needle)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 管[形]瓶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phials"
+ },
+ "phil": {
+  "ph": "/fil/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "哲學（philosophy）",
+    "def": ""
+   }
+  ]
+ },
+ "philadelphia": {
+  "ph": "/.filә'delfjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費城",
+    "def": "the largest city in Pennsylvania; located in the southeastern part of the state on the Delaware river; site of Independence Hall where the Declaration of Indepe"
+   }
+  ]
+ },
+ "philadelphian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "費城人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "費城的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "費城人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 philadelphians"
+ },
+ "philander": {
+  "ph": "/fi'lændә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "玩弄女性, 調情",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 追求女性, 調戲婦女, 玩弄",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 philandering｜過去式 philandered｜第三人稱單數 philanders｜過去分詞 philandered"
+ },
+ "philanderer": {
+  "ph": "/fi'lændәrә(r),fә-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "追求女性者, 愛情不專一的男子",
+    "def": ""
+   }
+  ]
+ },
+ "philandering": {
+  "ph": "/fɪˈlændərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "調戲, 玩弄女性( philander的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 philandering"
+ },
+ "philanthropic": {
+  "ph": "/fi'lænθrәpic/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "慈善(事業)的, 博愛的, 樂善好施的",
+    "def": "of or relating to or characterized by philanthropy"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 博愛的, 仁慈的, 慈善事業的",
+    "def": ""
+   }
+  ]
+ },
+ "philanthropist": {
+  "ph": "/fi'lænθrәpist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慈善家, 博愛主義者, 樂善好施的人",
+    "def": "someone who makes charitable donations intended to increase human well-being"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 慈善家, 博愛主義者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 philanthropists"
+ },
+ "philanthropy": {
+  "ph": "/fi'lænθrәpi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慈善, 仁慈, 博愛, 慈善事業, 慈善機構(團體)",
+    "def": "voluntary promotion of human welfare"
+   }
+  ],
+  "forms": "複數 philanthropies"
+ },
+ "philatelic": {
+  "ph": "/.filә'telik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "集郵的, 集郵癖的, 有集郵價值的",
+    "def": "of or relating to philately or of interest to philatelists"
+   }
+  ]
+ },
+ "philatelist": {
+  "ph": "/fi'lætәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "集郵家",
+    "def": "a collector and student of postage stamps"
+   }
+  ],
+  "forms": "複數 philatelists"
+ },
+ "philately": {
+  "ph": "/fi'lætәli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "集郵, 集郵的興趣, 集郵者(總稱)",
+    "def": "the collection and study of postage stamps"
+   }
+  ]
+ },
+ "philby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Philby)人名；(英)菲爾比",
+    "def": ""
+   }
+  ]
+ },
+ "philemon": {
+  "ph": "/fai'li:mɔn,fi-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[宗]《腓利門書》(《聖約·新約》中的一卷)",
+    "def": "(Greek mythology) a simple countryman who offered hospitality to Zeus and Hermes when they came to earth without revealing their identities in order to test peo"
+   }
+  ]
+ },
+ "philharmonia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "儷祝蛾屬",
+    "def": ""
+   }
+  ]
+ },
+ "philharmonic": {
+  "ph": "/.filɑ:'mɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛好音樂的, 交響樂團的, 愛樂團體的",
+    "def": "composing or characteristic of an orchestral group"
+   },
+   {
+    "pos": "n.",
+    "zh": "音樂愛好者, 音樂協會, 音樂會, 交響樂團",
+    "def": ""
+   }
+  ]
+ },
+ "philip": {
+  "ph": "/'filip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲利普（男子名）",
+    "def": "Englishman and husband of Elizabeth II (born 1921)"
+   }
+  ]
+ },
+ "philipp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Philipp)人名；(英、德、羅、捷、瑞典)菲利普",
+    "def": ""
+   }
+  ],
+  "forms": "複數 philipps"
+ },
+ "philippa": {
+  "ph": "/fi'lipə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲利帕（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "philippe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "菲力浦（人名）；百達翡麗手錶",
+    "def": ""
+   }
+  ]
+ },
+ "philippian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": ",n. Philippi的變形",
+    "def": ""
+   }
+  ],
+  "forms": "複數 philippians"
+ },
+ "philippine": {
+  "ph": "/'filipi:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "菲律賓(群島)的, 菲律賓人的",
+    "def": ""
+   }
+  ]
+ },
+ "philippines": {
+  "ph": "/'filipi:nz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲律賓",
+    "def": "a republic on the Philippine Islands; achieved independence from the United States in 1946"
+   }
+  ]
+ },
+ "philips": {
+  "ph": "/'filips/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛利浦（荷蘭公司名）",
+    "def": ""
+   }
+  ]
+ },
+ "philistine": {
+  "ph": "/'filistain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "庸人, 門外漢, 仇敵, 俗氣的人",
+    "def": "a person who is uninterested in intellectual pursuits"
+   },
+   {
+    "pos": "adj.",
+    "zh": "俗氣的, 無教養的",
+    "def": "of or relating to ancient Philistia or its culture or its people"
+   }
+  ],
+  "forms": "複數 philistines"
+ },
+ "philistinism": {
+  "ph": "/'filistinizәm, fi'lis-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "市儈作風, 庸俗氣味",
+    "def": ""
+   }
+  ]
+ },
+ "phillimore": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Phillimore)人名；(英、法)菲利莫爾",
+    "def": ""
+   }
+  ]
+ },
+ "phillip": {
+  "ph": "/'filip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲利普（人名）；愛馬的人",
+    "def": ""
+   }
+  ]
+ },
+ "phillipa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Phillipa)人名；(英)菲莉帕",
+    "def": ""
+   }
+  ]
+ },
+ "phillipe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Phillipe)人名；(法)菲利普",
+    "def": ""
+   }
+  ]
+ },
+ "phillips": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛利浦（電子產業集團）；菲利普斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "phillipson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Phillipson)人名；(英)菲利普森",
+    "def": ""
+   }
+  ]
+ },
+ "phillis": {
+  "ph": "/'filis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲利斯（女子名, 等於Phyllis）",
+    "def": ""
+   }
+  ]
+ },
+ "philo": {
+  "ph": "/'filəu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斐洛（古猶太神秘主義哲學家）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 philos"
+ },
+ "philodendron": {
+  "ph": "/.filә'dendrәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喜林芋",
+    "def": "often grown as a houseplant"
+   }
+  ],
+  "forms": "複數 philodendrons"
+ },
+ "philological": {
+  "ph": "/.filә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "語文學的, 文獻學的",
+    "def": "of or relating to or dealing with philology"
+   }
+  ]
+ },
+ "philologist": {
+  "ph": "/fi'lɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語文學者, 文獻學者",
+    "def": "a humanist specializing in classical scholarship"
+   }
+  ],
+  "forms": "複數 philologists"
+ },
+ "philology": {
+  "ph": "/fi'lɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語文學, 文獻學",
+    "def": ""
+   }
+  ]
+ },
+ "philosophe": {
+  "ph": "/,filə'zɔf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "哲學家; (以狄德羅盧梭和伏爾泰等為代表的)啟蒙思想家",
+    "def": "A philosophaster; a philosopher."
+   }
+  ],
+  "forms": "複數 philosophes"
+ },
+ "philosopher": {
+  "ph": "/fi'lɒsәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "哲學家, 哲人, 思想開創人, 達觀的人",
+    "def": "a specialist in philosophy"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 哲學家, 哲學研究者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 philosophers"
+ },
+ "philosophic": {
+  "ph": "/,filә'sɔfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "哲學家的, 哲學的, 鎮靜的, 逆來順受的, 安之若素的, 達觀的, 富於哲理性的",
+    "def": "of or relating to philosophy or philosophers"
+   }
+  ]
+ },
+ "philosophical": {
+  "ph": "/.filә'sɒfikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "哲學的, 冷靜的, 達觀的, 哲學上的, 哲學家似的",
+    "def": ""
+   }
+  ]
+ },
+ "philosophically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "哲學上；賢明地",
+    "def": ""
+   }
+  ]
+ },
+ "philosophise": {
+  "ph": "/fi'lɔsәfaiz, fә-/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "推究哲理, 賣弄大道理",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "從哲學觀點思考/論證, 象哲學家似地思考/說話/寫作",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 philosophising｜過去式 philosophised｜複數 philosophises"
+ },
+ "philosophize": {
+  "ph": "/fi'lɒsәfaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "進行哲學探討, 膚淺地談論哲理",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "哲學家似地思考, 從哲理角度解釋",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 philosophizing｜第三人稱單數 philosophizes｜過去式 philosophized｜過去分詞 philosophized"
+ },
+ "philosophizing": {
+  "ph": "/fə'lɒsəfaɪzɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "哲學思維",
+    "def": ""
+   }
+  ]
+ },
+ "philosophy": {
+  "ph": "/fi'lɒsәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "哲學, 人生觀, 哲學思想, 哲理, 基本原理, 見解, 達觀, 沉著",
+    "def": "the rational investigation of questions about existence and knowledge and ethics"
+   }
+  ],
+  "forms": "複數 philosophies"
+ },
+ "phipps": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "菲普斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "phishing": {
+  "ph": "/ˈfɪʃɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "網路仿冒",
+    "def": ""
+   }
+  ]
+ },
+ "phlebitis": {
+  "ph": "/fli'baitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靜脈炎",
+    "def": "inflammation of a vein (usually in the legs)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 靜脈炎",
+    "def": ""
+   }
+  ]
+ },
+ "phlebotomy": {
+  "ph": "/fli'bɒtәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靜脈切開術, 放血術",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 靜脈切開術, 放血術",
+    "def": ""
+   }
+  ]
+ },
+ "phlegm": {
+  "ph": "/flem/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "痰, 粘液, 粘液質, 遲鈍, 冷淡, 沉著, 鎮定",
+    "def": "expectorated matter; saliva mixed with discharges from the respiratory passages; in ancient and medieval physiology it was believed to cause sluggishness"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 粘液(舊時四體液學說的四液之一), 粘痰, 粘液",
+    "def": ""
+   }
+  ]
+ },
+ "phlegmatic": {
+  "ph": "/fle^'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粘液質的, (正式)平靜的, 不動情的, 不動感情的, 冷漠的, 冷淡的, 遲鈍的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 粘液質的, 遲鈍的",
+    "def": ""
+   }
+  ]
+ },
+ "phlegmy": {
+  "ph": "/'flemi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "痰的, 含痰的, 生痰的",
+    "def": "characterized by phlegm"
+   }
+  ]
+ },
+ "phlogiston": {
+  "ph": "/flәu'dʒistәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燃素",
+    "def": "a hypothetical substance once believed to be present in all combustible materials and to be released during burning"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 燃素",
+    "def": ""
+   }
+  ]
+ },
+ "phlox": {
+  "ph": "/flɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福祿考",
+    "def": "any polemoniaceous plant of the genus Phlox; chiefly North American; cultivated for their clusters of flowers"
+   }
+  ],
+  "forms": "複數 phloxes"
+ },
+ "phnom": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "山（高棉語）",
+    "def": ""
+   }
+  ]
+ },
+ "phobia": {
+  "ph": "/'fәubiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "恐怖病, 恐懼症, 懼怕, 憎惡",
+    "def": "an anxiety disorder characterized by extreme and irrational fear of simple things or social situations"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 恐怖[症]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phobias"
+ },
+ "phobic": {
+  "ph": "/'fәubik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "病態性恐懼的, 憎惡的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 恐怖的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phobics"
+ },
+ "phoebe": {
+  "ph": "/'fi:bi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福柏(月神), 月亮",
+    "def": "(Greek mythology) a Titaness who became identified with Artemis as goddess of the Moon"
+   }
+  ]
+ },
+ "phoebus": {
+  "ph": "/'fi:bәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福玻斯(日神), 太陽",
+    "def": ""
+   }
+  ]
+ },
+ "phoenician": {
+  "ph": "/fi'niʃiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腓尼基的, 腓尼基人的",
+    "def": "of or relating to or characteristic of Phoenicia or its inhabitants"
+   },
+   {
+    "pos": "n.",
+    "zh": "腓尼基人",
+    "def": "a member of an ancient Semitic people who dominated trade in the first millennium B.C."
+   }
+  ],
+  "forms": "複數 phoenicians"
+ },
+ "phoenix": {
+  "ph": "/'fi:niks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳳凰, 不死鳥, 死而復生的人, 完人, 殊品",
+    "def": "the state capital and largest city located in south central Arizona; situated in a former desert that has become a prosperous agricultural area thanks to irriga"
+   }
+  ],
+  "forms": "複數 phoenixes"
+ },
+ "phone": {
+  "ph": "/fәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電話, 受話器, 耳機",
+    "def": "(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language"
+   },
+   {
+    "pos": "vt.",
+    "zh": "打電話給",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "打電話",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 phoned｜複數 phones｜現在分詞 phoning｜過去分詞 phoned｜第三人稱單數 phones"
+ },
+ "phone call": {
+  "ph": "/fəun kɔ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電話",
+    "def": ""
+   }
+  ]
+ },
+ "phone-in": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀眾/聽眾透過電話參與討論或提問的電視節目/廣播節目",
+    "def": "a program in which the audience participates by telephone"
+   }
+  ],
+  "forms": "複數 phone-ins"
+ },
+ "phonebook": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電話簿",
+    "def": "a directory containing an alphabetical list of telephone subscribers and their telephone numbers"
+   }
+  ],
+  "forms": "複數 phonebooks"
+ },
+ "phoneme": {
+  "ph": "/'fәuni:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音素, 音位",
+    "def": "(linguistics) one of a small set of speech sounds that are distinguished by the speakers of a particular language"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 音素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phonemes"
+ },
+ "phonemic": {
+  "ph": "/fәu'ni:mik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "音位的；音素的",
+    "def": "of or relating to phonemes of a particular language"
+   }
+  ]
+ },
+ "phonetic": {
+  "ph": "/fәu'netik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "語音的, 語音學的, 表示語音的, 語音差異的",
+    "def": "of or relating to speech sounds"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 語音的",
+    "def": ""
+   }
+  ]
+ },
+ "phonetically": {
+  "ph": "/fәu'netikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "按照發音地, 語音學上",
+    "def": ""
+   }
+  ]
+ },
+ "phonetician": {
+  "ph": "/.fәuni'tiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語音學者",
+    "def": "a specialist in phonetics"
+   }
+  ],
+  "forms": "複數 phoneticians"
+ },
+ "phonetics": {
+  "ph": "/fәu'netiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語音學, 語音體系, 表音拼法",
+    "def": "the branch of acoustics concerned with speech processes including its production and perception and acoustic analysis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 語音學",
+    "def": ""
+   }
+  ]
+ },
+ "phoney": {
+  "ph": "/'fәuni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "假的, 假冒的, 偽造的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "騙子, 假貨, 假冒者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phoneys"
+ },
+ "phonic": {
+  "ph": "/'fәunik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "音的, 語音的, 語音學的, 有聲的, 聲學的, 濁音的",
+    "def": "pertaining to the phonic method of teaching reading"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 音的, 聲音的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phonics"
+ },
+ "phonics": {
+  "ph": "/'fәuniks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲學, 基礎語音教學法",
+    "def": "teaching reading by training beginners to associate letters with their sound values"
+   }
+  ]
+ },
+ "phoniness": {
+  "ph": "/'fәuninis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "虛假, 偽造",
+    "def": ""
+   }
+  ]
+ },
+ "phonogram": {
+  "ph": "/'fәunәgræm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音符(組), 語音圖, 聲音描記像, 形聲字, 電話電報",
+    "def": "any written symbol standing for a sound or syllable or morpheme or word"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 錄音片",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phonograms"
+ },
+ "phonograph": {
+  "ph": "/'fәunәgrɑ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "留聲機, 電唱機",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "用留聲機灌音, 用留聲機放音",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phonographs"
+ },
+ "phonographic": {
+  "ph": "/.fәunә'græfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "留聲機的, 表音的, 音符的, 速記的",
+    "def": "Alt. of Phonographical"
+   }
+  ]
+ },
+ "phonological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "音位學的, 音韻學的",
+    "def": "of or relating to phonology"
+   }
+  ]
+ },
+ "phonologically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "音系學地, （一種語言的）語音（或音位）體系地（phonological的副詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "phonology": {
+  "ph": "/fәu'nɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音系學, 歷時音系學",
+    "def": "the study of the sound system of a given language and the analysis and classification of its phonemes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 語音學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phonologies"
+ },
+ "phonon": {
+  "ph": "/'fәunɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲子",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 聲子",
+    "def": ""
+   }
+  ]
+ },
+ "phony": {
+  "ph": "/'fәuni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "假貨, 假冒者, 贗品",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "偽造的, 假的, 不可信的, 華而不實的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phonies｜最高級 phoniest"
+ },
+ "phorid": {
+  "ph": "/'fɒrɪd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "蚤蠅",
+    "def": ""
+   }
+  ]
+ },
+ "phosphatase": {
+  "ph": "/'fɔsfәteis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磷酸酶",
+    "def": "any of a group of enzymes that act as a catalyst in the hydrolysis of organic phosphates"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磷酸酶; 磷酸酯酶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phosphatases"
+ },
+ "phosphate": {
+  "ph": "/'fɔsfeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磷酸鹽, 磷酸酯",
+    "def": "a salt of phosphoric acid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磷酸鹽; 磷酸酯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phosphates｜現在分詞 phosphating"
+ },
+ "phosphatidylcholine": {
+  "ph": "/'fɔsfә,taidil'kәjli:n,fɔs'fæti-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 磷脂醯膽鹼; 卵磷脂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phosphatidylcholines"
+ },
+ "phosphide": {
+  "ph": "/'fɒsfaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磷化物",
+    "def": "A binary compound of phosphorus."
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磷化物",
+    "def": ""
+   }
+  ]
+ },
+ "phospholipid": {
+  "ph": "/,fɔsfәu'lipid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磷脂體, 膦脂類",
+    "def": "any of various compounds composed of fatty acids and phosphoric acid and a nitrogenous base; an important constituent of membranes"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磷脂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phospholipids"
+ },
+ "phosphor": {
+  "ph": "/'fɔsfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金星, 啟明星, 磷光體, 磷光劑, 磷光閃閃的東西",
+    "def": "a synthetic substance that is fluorescent or phosphorescent; used to coat the screens of cathode ray tubes"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 無機發光材料; 磷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phosphors"
+ },
+ "phosphorescence": {
+  "ph": "/.fɒsfә'resns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磷光, 發磷光特性",
+    "def": "a fluorescence that persists after the bombarding radiation has ceased"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磷光; 磷光現象",
+    "def": ""
+   }
+  ]
+ },
+ "phosphorescent": {
+  "ph": "/.fɒsfә'resnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發出磷光的, 閃磷火的, 磷光性的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 磷光的",
+    "def": ""
+   }
+  ]
+ },
+ "phosphoric": {
+  "ph": "/fɔs'fɔrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "磷的, 含磷的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磷的; 五價磷的",
+    "def": ""
+   }
+  ]
+ },
+ "phosphorous": {
+  "ph": "/'fɒsfәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞磷的, 含磷的",
+    "def": "containing or characteristic of phosphorus"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 亞磷的; 三價磷的",
+    "def": ""
+   }
+  ]
+ },
+ "phosphorus": {
+  "ph": "/'fɒsfәrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "啟明星, 金星, 磷, 磷光體",
+    "def": "a multivalent nonmetallic element of the nitrogen family that occurs commonly in inorganic phosphate rocks and as organic phosphates in all living cells; is hig"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磷P",
+    "def": ""
+   }
+  ]
+ },
+ "phosphorylate": {
+  "ph": "/'fɔsfәrileit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "[化]使磷酸化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 phosphorylated｜第三人稱單數 phosphorylates｜過去式 phosphorylated｜複數 phosphorylates｜現在分詞 phosphorylating"
+ },
+ "phosphorylation": {
+  "ph": "/fɔ,sfɔri'leiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 磷酸化作用",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 磷酸化[作用]",
+    "def": ""
+   }
+  ]
+ },
+ "photo": {
+  "ph": "/'fәutәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "相片, 照片, 逼真的描繪",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "照相",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "照相的, 攝影用的, 詳細記錄的, 逼真的, 酷似的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photos"
+ },
+ "photocall": {
+  "ph": "/'fәjtәjkɔ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英> (名人或政府官員) 接受宣傳媒體拍照的時間",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photocalls"
+ },
+ "photocell": {
+  "ph": "/'fәutәsel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光電池, 光電管",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 光電池",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photocells｜第三人稱單數 photocells"
+ },
+ "photochemical": {
+  "ph": "/.fәutәu'kemikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光化學的, 光化作用的",
+    "def": "of or relating to or produced by the effects of light on chemical systems"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 光化學的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photochemicals"
+ },
+ "photocopied": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "影印, 照相複製（photocopy的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 photocopied｜過去式 photocopied"
+ },
+ "photocopier": {
+  "ph": "/'fәutәu.kɒpiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "影印機, 攝影複製機",
+    "def": "a copier that uses photographic methods of making copies"
+   }
+  ],
+  "forms": "複數 photocopiers"
+ },
+ "photocopies": {
+  "ph": "/ˈfəʊtəˌkɔpi:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "影印本( photocopy的名詞複數 ); 影印件",
+    "def": ""
+   }
+  ]
+ },
+ "photocopy": {
+  "ph": "/'fәutәu.kɒpi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "影印, 影印件",
+    "def": "a photographic copy of written or printed or graphic work"
+   },
+   {
+    "pos": "v.",
+    "zh": "影印",
+    "def": "reproduce by xerography"
+   }
+  ],
+  "forms": "複數 photocopies｜過去分詞 photocopied｜現在分詞 photocopying｜過去式 photocopied｜第三人稱單數 photocopies"
+ },
+ "photocopying": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "影印, 照相複製（photocopy的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 photocopying"
+ },
+ "photodetector": {
+  "ph": "/,fәutәudi'tektә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光電探測器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 光檢測器",
+    "def": ""
+   }
+  ]
+ },
+ "photodiode": {
+  "ph": "/,fәutәu'daiәud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光電二極體",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 光電二極體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photodiodes"
+ },
+ "photoelectric": {
+  "ph": "/.fәutәui'lektrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光電的, 燈光攝影裝置的",
+    "def": "of or pertaining to photoelectricity"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 光電的",
+    "def": ""
+   }
+  ]
+ },
+ "photogenic": {
+  "ph": "/,fәutәu'dʒenik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發光的, 由於光而產生的, 適宜於拍照的, 拍照效果好的, 特別上鏡的, 上照的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 光所致的, 光原性的, 發光的",
+    "def": ""
+   }
+  ]
+ },
+ "photograph": {
+  "ph": "/'fәutәgrɑ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "相片, 照片, 逼真的描繪",
+    "def": "a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material"
+   },
+   {
+    "pos": "v.",
+    "zh": "照相, 攝影",
+    "def": "record on photographic film"
+   }
+  ],
+  "forms": "複數 photographs｜過去分詞 photographed｜過去式 photographed｜現在分詞 photographing｜第三人稱單數 photographs"
+ },
+ "photographer": {
+  "ph": "/fә'tɔ^rәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攝影師, 攝影者",
+    "def": "someone who takes photographs professionally"
+   }
+  ],
+  "forms": "複數 photographers"
+ },
+ "photographic": {
+  "ph": "/.fәutә'græfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "照相的, 攝影用的, 詳細記錄的, 逼真的, 酷似的",
+    "def": "relating to photography or obtained by using photography"
+   }
+  ]
+ },
+ "photographically": {
+  "ph": "/ˌfəʊtə'ɡræfɪklɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "攝影術地",
+    "def": ""
+   }
+  ]
+ },
+ "photographs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "照片；逼真的描繪（photograph的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "photography": {
+  "ph": "/fә'tɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攝影, 攝影術",
+    "def": "the act of taking and printing photographs"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 照相術",
+    "def": ""
+   }
+  ]
+ },
+ "photojournalism": {
+  "ph": "/,fәutәu'dʒә:nәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攝影新聞工作, 攝影報道",
+    "def": "journalism that presents a story primarily through the use of pictures"
+   }
+  ]
+ },
+ "photojournalist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞攝影記者",
+    "def": "a journalist who presents a story primarily through the use of photographs"
+   }
+  ],
+  "forms": "複數 photojournalists"
+ },
+ "photolithography": {
+  "ph": "/.fәutәuli'θɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "照相平印術, 照相平版印刷(法), 光刻法",
+    "def": "a planographic printing process using plates made from a photographic image"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 光刻法",
+    "def": ""
+   }
+  ]
+ },
+ "photometer": {
+  "ph": "/fәu'tɒmitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光度計, 曝光計",
+    "def": "measuring instrument for measuring the luminous intensity of a source by comparing it (visually or photoelectrically) with a standard source"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 光度計",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photometers"
+ },
+ "photometric": {
+  "ph": "/.fәutәu'metrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光度學的, 光度計的, 光度測定的",
+    "def": "of or relating to photometry"
+   }
+  ]
+ },
+ "photometry": {
+  "ph": "/fәu'tɒmitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光度學, 光度測定, 測光法",
+    "def": "measurement of the properties of light (especially luminous intensity)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 光度學; 光度滴定法",
+    "def": ""
+   }
+  ]
+ },
+ "photomicrograph": {
+  "ph": "/,fәutәu'maikrәu^rɑ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顯微照相",
+    "def": "a photograph taken with the help of a microscope"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 顯微照片",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photomicrographs"
+ },
+ "photomontage": {
+  "ph": "/.fәutәumɒn'tɑ:ʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合成照片(術)",
+    "def": "a montage that uses photographic images"
+   }
+  ],
+  "forms": "複數 photomontages"
+ },
+ "photomultiplier": {
+  "ph": "/,fәutәu'mʌltiplaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光電倍增管",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 光電倍增管",
+    "def": ""
+   }
+  ]
+ },
+ "photon": {
+  "ph": "/'fәutɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光子, 光量子, 光度",
+    "def": "a quantum of electromagnetic radiation; an elementary particle that is its own antiparticle"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 光量子; 光子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photons"
+ },
+ "photonic": {
+  "ph": "/,foʊ'tɑnɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "photon的形容詞形式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photonics"
+ },
+ "photonics": {
+  "ph": "/fәu'tɔniks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[復]n.[用作單][物]光子學",
+    "def": ""
+   }
+  ]
+ },
+ "photoreceptor": {
+  "ph": "/,fәutәuri'septә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光感受器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 光感受器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photoreceptors"
+ },
+ "photos": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "照片, 圖片；相簿（photo的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "photosensitive": {
+  "ph": "/.fәutәu'sensitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "感光性的, 對光敏感的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 對光敏感的, 感光的",
+    "def": ""
+   }
+  ]
+ },
+ "photosphere": {
+  "ph": "/'fәutәu.sfiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光球, 發光球體",
+    "def": "the intensely luminous surface of a star (especially the sun)"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 光球",
+    "def": ""
+   }
+  ]
+ },
+ "photostat": {
+  "ph": "/'fәutәustæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "直接影印照片, 直接影印機",
+    "def": "a photocopy made on a Photostat machine"
+   },
+   {
+    "pos": "v.",
+    "zh": "影印照片",
+    "def": "make a copy by means of a Photostat device"
+   }
+  ],
+  "forms": "複數 photostats｜過去分詞 photostatted｜現在分詞 photostatting｜過去式 photostatted｜第三人稱單數 photostats"
+ },
+ "photosynthesis": {
+  "ph": "/.fәutәu'sinθәsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光合作用",
+    "def": "synthesis of compounds with the aid of radiant energy (especially in plants)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 光合作用",
+    "def": ""
+   }
+  ]
+ },
+ "photosynthesize": {
+  "ph": "/,fәutәu'sinθisaiz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[生化] vi.(植物等)進行光合作用,實行光能合成",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "(透過)光合(作用)產生",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 photosynthesized｜現在分詞 photosynthesizing｜過去式 photosynthesized"
+ },
+ "photosynthetic": {
+  "ph": "/,fәutәusin'θetik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光合的",
+    "def": "relating to or using or formed by photosynthesis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 光合的",
+    "def": ""
+   }
+  ]
+ },
+ "photovoltaic": {
+  "ph": "/,fәutәuvɔl'teiik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 光電伏打",
+    "def": ""
+   }
+  ],
+  "forms": "複數 photovoltaics"
+ },
+ "phrase": {
+  "ph": "/freiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慣用語, 片語, 成語, 措詞, 樂句",
+    "def": "an expression consisting of one or more words forming a grammatical constituent of a sentence"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用短語表達, 把(樂曲)分成短句",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 短語",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phrases｜過去分詞 phrased｜過去式 phrased｜現在分詞 phrasing｜第三人稱單數 phrases"
+ },
+ "phrasebook": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短語手冊, 成語彙編, 熟語指南",
+    "def": ""
+   }
+  ]
+ },
+ "phraseology": {
+  "ph": "/.freizi'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "措辭, 說法, 語詞, 術語, 習語, 片語",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phraseologies"
+ },
+ "phrasing": {
+  "ph": "/'freiziŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說法, 措辭, 抑揚頓挫, 分節法",
+    "def": "the grouping of musical phrases in a melodic line"
+   }
+  ],
+  "forms": "複數 phrasings｜現在分詞 phrasing"
+ },
+ "phrenological": {
+  "ph": "/.frenә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顱相學的",
+    "def": "of or relating to phrenology"
+   }
+  ]
+ },
+ "phrenologist": {
+  "ph": "/fre'nɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顱相學者",
+    "def": "someone who claims to be able to read your character from the shape of your skull"
+   }
+  ],
+  "forms": "複數 phrenologists"
+ },
+ "phrenology": {
+  "ph": "/fre'nɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顱相學",
+    "def": "a now abandoned study of the shape of skull as indicative of the strengths of different faculties"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 顱相學(一門唯心的學科)",
+    "def": ""
+   }
+  ]
+ },
+ "phrygian": {
+  "ph": "/'fridʒiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "佛裡吉亞的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "佛裡吉亞人,佛裡吉亞語",
+    "def": "a native or inhabitant of Phrygia"
+   }
+  ]
+ },
+ "phthalate": {
+  "ph": "/'θæleit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 鄰苯二甲酸鹽; 鄰苯二甲酸酯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鄰苯二甲酸鹽, 肽酸鹽",
+    "def": ""
+   }
+  ]
+ },
+ "phu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Phu)人名；(柬)蒲",
+    "def": ""
+   }
+  ]
+ },
+ "phuket": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普吉島（泰國最大的島嶼）",
+    "def": ""
+   }
+  ]
+ },
+ "phyla": {
+  "ph": "/'failә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "類群（ \tphylum的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "phylactery": {
+  "ph": "/fi'læktәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經匣, 提醒者(物), 令人聯想的事物, 護符",
+    "def": "(Judaism) either of two small leather cases containing texts from the Hebrew Scriptures (known collectively as tefillin); traditionally worn (on the forehead an"
+   }
+  ],
+  "forms": "複數 phylacteries"
+ },
+ "phyllis": {
+  "ph": "/'filis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲利斯（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "phyllo": {
+  "ph": "/'fi:lәj,'fai-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[食](制酥點用的)擀成極薄層的生面",
+    "def": "tissue thin sheets of pastry used especially in Greek dishes"
+   }
+  ]
+ },
+ "phylloxera": {
+  "ph": "/.filɒk'siәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "根瘤蚜, 葡萄根瘤蚜",
+    "def": "type genus of the Phylloxeridae: plant lice"
+   }
+  ]
+ },
+ "phylogenetic": {
+  "ph": "/,failәjdʒi'netik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "種系發生的, 系統發育的",
+    "def": "of or relating to the evolutionary development of organisms"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 種系發生的, 種族發育的",
+    "def": ""
+   }
+  ]
+ },
+ "phylogenetically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "系統發生的, 動植物演化史的, 動植物種類史的",
+    "def": ""
+   }
+  ]
+ },
+ "phylogeny": {
+  "ph": "/fai'lɒdʒini/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "種系發生, 發展史, 語系發生",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 種系發生, 種族發育",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phylogenies"
+ },
+ "phylum": {
+  "ph": "/'failәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(生物分類上的)門, 語系",
+    "def": "(linguistics) a large group of languages that are historically related"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 門[生物分類]",
+    "def": ""
+   }
+  ]
+ },
+ "physiatrist": {
+  "ph": "/,fizi'ætrist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 物理治療學, 理療學",
+    "def": ""
+   }
+  ]
+ },
+ "physic": {
+  "ph": "/'fizik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥品, 瀉藥, 醫學",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...服藥, 治癒, 使通便",
+    "def": ""
+   }
+  ]
+ },
+ "physical": {
+  "ph": "/'fizikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "身體的, 物質的, 自然的, 物理學的, 好色的",
+    "def": "involving the body as distinguished from the mind or spirit"
+   },
+   {
+    "pos": "n.",
+    "zh": "體格檢查",
+    "def": ""
+   }
+  ]
+ },
+ "physicality": {
+  "ph": "/fizi'kæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肉體性",
+    "def": ""
+   }
+  ]
+ },
+ "physically": {
+  "ph": "/'fizikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "按自然規律, 完全地, 實際上, 真正地, 身體上地",
+    "def": ""
+   }
+  ]
+ },
+ "physician": {
+  "ph": "/fi'ziʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫師, 內科醫師, 解除痛苦者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 主治醫師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 physicians"
+ },
+ "physicist": {
+  "ph": "/'fizisist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物理學家, 機械唯物論者, 自然科學家",
+    "def": "a scientist trained in physics"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 菲西克氏手術(虹膜圓片切除)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 physicists"
+ },
+ "physics": {
+  "ph": "/'fiziks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物理學, 物理過程, 物理現象",
+    "def": "the science of matter and energy and their interactions"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 物理; 物理學",
+    "def": ""
+   }
+  ]
+ },
+ "physio": {
+  "ph": "/ˈfɪziəʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "理療, 物理療法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 physios"
+ },
+ "physiognomic": {
+  "ph": "/,fiziә'nɔmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "觀相術的, 相貌的",
+    "def": "Alt. of Physiognomical"
+   }
+  ]
+ },
+ "physiognomy": {
+  "ph": "/.fizi'ɒgnәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "相面術, 面相, 外貌, 地貌",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 面容診斷, 面容, 面相",
+    "def": ""
+   }
+  ],
+  "forms": "複數 physiognomies"
+ },
+ "physiographic": {
+  "ph": "/.fiziә'ɡræfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地形學的, 地文學的",
+    "def": "Alt. of Physiographical"
+   }
+  ]
+ },
+ "physiologic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生理學的, 生理的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生理學的, 生理的",
+    "def": ""
+   }
+  ]
+ },
+ "physiological": {
+  "ph": "/.fiziә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生理學的, 生理學上的, 生理機能的",
+    "def": "of or relating to the biological study of physiology"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生理學的, 生理的",
+    "def": ""
+   }
+  ]
+ },
+ "physiologically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "生理學方面",
+    "def": ""
+   }
+  ]
+ },
+ "physiologist": {
+  "ph": "/.fizi'ɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生理學者",
+    "def": "a biologist specializing in physiology"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生理學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 physiologists"
+ },
+ "physiology": {
+  "ph": "/.fizi'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生理學, 生理機能",
+    "def": "the branch of the biological sciences dealing with the functioning of organisms"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生理學",
+    "def": ""
+   }
+  ]
+ },
+ "physiotherapist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物理療法家, 理療家",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 理療醫師, 理療學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 physiotherapists"
+ },
+ "physiotherapy": {
+  "ph": "/.fiziә'θerәpi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物理療法, 理療",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 物理治療, 理療",
+    "def": ""
+   }
+  ]
+ },
+ "physique": {
+  "ph": "/fi'zi:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "體格, 體形",
+    "def": "constitution of the human body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 體格",
+    "def": ""
+   }
+  ],
+  "forms": "複數 physiques"
+ },
+ "physis": {
+  "ph": "/'fɪsɪs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]n.長骨體生長部",
+    "def": ""
+   }
+  ]
+ },
+ "phytochemical": {
+  "ph": "/,faitәu'kemikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[化]植物化學的",
+    "def": ""
+   }
+  ]
+ },
+ "phytoestrogen": {
+  "ph": "/ˌfeɪtəʊ'estrədʒən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "植物雌激素",
+    "def": ""
+   }
+  ]
+ },
+ "phytolith": {
+  "ph": "/'faitәjliθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[古生]植物化石,植物巖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 phytoliths"
+ },
+ "phytoplankton": {
+  "ph": "/,faitәu'plæŋktәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "浮游植物",
+    "def": "photosynthetic or plant constituent of plankton; mainly unicellular algae"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 浮游植物",
+    "def": ""
+   }
+  ]
+ }
+}

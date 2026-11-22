@@ -1,0 +1,4851 @@
+{
+ "do": {
+  "ph": "/du:/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "做, 進行, 完成",
+    "def": "get (something) done"
+   }
+  ],
+  "forms": "現在分詞 doing｜過去式 did｜第三人稱單數 does｜過去分詞 done"
+ },
+ "doable": {
+  "ph": "/'du:әbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可做的, 切實可行的",
+    "def": ""
+   }
+  ]
+ },
+ "dobbin": {
+  "ph": "/'dɔbin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "駑馬；挽馬；帶磨乾燥器；大酒杯",
+    "def": ""
+   }
+  ]
+ },
+ "dobbs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Dobbs)人名；(英)多布斯",
+    "def": ""
+   }
+  ]
+ },
+ "doberman": {
+  "ph": "/'dəʊbəmən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多伯曼短尾狗",
+    "def": "medium large breed of dog of German origin with a glossy black and tan coat; used as a watchdog"
+   }
+  ],
+  "forms": "複數 dobermans"
+ },
+ "dobson": {
+  "ph": "/'dɔbsәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[昆]水蠆(魚蛉等的幼蟲,常用作釣餌)",
+    "def": "large soft-bodied insect having long slender mandibles in the male; aquatic larvae often used as bait"
+   }
+  ]
+ },
+ "doc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 通訊部, 數字輸出控制, 文件",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 脫氧皮質酮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 docs"
+ },
+ "docent": {
+  "ph": "/'dәusәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "講師, 講解員",
+    "def": "a teacher at some universities"
+   }
+  ]
+ },
+ "docherty": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Docherty)人名；(英)多徹蒂",
+    "def": ""
+   }
+  ]
+ },
+ "docile": {
+  "ph": "/'dәusail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "容易教的, 溫順的",
+    "def": "willing to be taught or led or supervised or directed"
+   }
+  ]
+ },
+ "docilely": {
+  "ph": "/'dɔsaili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "容易教地, 易駕駛地, 馴服地",
+    "def": ""
+   }
+  ]
+ },
+ "docility": {
+  "ph": "/dәu'siliiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "順從, 溫順",
+    "def": "the trait of being agreeably submissive and manageable"
+   }
+  ]
+ },
+ "dock": {
+  "ph": "/dɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碼頭, 船塢, 被告席, 尾巴的骨肉部分",
+    "def": "an enclosure in a court of law where the defendant sits during the trial"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使靠碼頭, 使(船)進港, 剪短",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "進港",
+    "def": ""
+   }
+  ],
+  "forms": "複數 docks｜過去分詞 docked｜過去式 docked｜現在分詞 docking｜第三人稱單數 docks"
+ },
+ "docked": {
+  "ph": "/dɔkt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）船停靠碼頭( dock的過去式和過去分詞 ); （使宇宙飛船在外層空間）對接; 減少; 扣除",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 docked｜過去分詞 docked"
+ },
+ "docker": {
+  "ph": "/'dɒkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碼頭工人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dockers"
+ },
+ "docket": {
+  "ph": "/'dɒkit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摘要, 記事表",
+    "def": "(law) the calendar of a court; the list of cases to be tried or a summary of the court's activities"
+   },
+   {
+    "pos": "vt.",
+    "zh": "在...上附加摘要",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dockets｜現在分詞 docketing｜過去式 docketed｜第三人稱單數 dockets｜過去分詞 docketed"
+ },
+ "docking": {
+  "ph": "/'dɒkiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "入塢",
+    "def": "the act of securing an arriving vessel with ropes"
+   },
+   {
+    "pos": "",
+    "zh": "[化] (煤的)灰分評價",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 docking｜複數 dockings"
+ },
+ "dockland": {
+  "ph": "/ˈdɒklænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "港區, 港口住宅區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 docklands"
+ },
+ "docklands": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "達克蘭（墨爾本的一個區）",
+    "def": ""
+   }
+  ]
+ },
+ "dockside": {
+  "ph": "/'dɔksaid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "碼頭前沿的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 docksides"
+ },
+ "dockworker": {
+  "ph": "/'dɔk,w\\\\\\\\:kә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "碼頭工人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dockworkers"
+ },
+ "dockyard": {
+  "ph": "/'dɒkjɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "造船廠, 海軍工廠",
+    "def": "an establishment on the waterfront where vessels are built or fitted out or repaired"
+   }
+  ],
+  "forms": "複數 dockyards"
+ },
+ "doctor": {
+  "ph": "/'dɒktә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫生, 博士",
+    "def": "a licensed medical practitioner"
+   },
+   {
+    "pos": "vt.",
+    "zh": "授以博士學位, 診斷, 修改",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "行醫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doctors｜現在分詞 doctoring｜過去式 doctored｜第三人稱單數 doctors｜過去分詞 doctored"
+ },
+ "doctoral": {
+  "ph": "/'dɒktәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "博士的",
+    "def": "of or relating to a doctor or doctorate"
+   }
+  ]
+ },
+ "doctorate": {
+  "ph": "/'dɒktәrit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "博士頭銜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doctorates"
+ },
+ "doctored": {
+  "ph": "/'dɒktəd/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "& vi. 醫療, 行醫（doctor的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 doctored｜過去式 doctored"
+ },
+ "doctoring": {
+  "ph": "/'dɔktәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刮除；醫治",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 doctoring"
+ },
+ "doctors": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫生（doctor的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "doctrinaire": {
+  "ph": "/.dɒktri'nєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空論家, 純理論家, 教條主義者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "空談理論的, 脫離實際的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doctrinaires"
+ },
+ "doctrinal": {
+  "ph": "/'dɒktrinәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "教義的, 教誨的, 學說的",
+    "def": "relating to or involving or preoccupied with doctrine"
+   }
+  ]
+ },
+ "doctrinally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "教條地",
+    "def": ""
+   }
+  ]
+ },
+ "doctrine": {
+  "ph": "/'dɒktrin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教條, 學說",
+    "def": "a belief (or system of beliefs) accepted as authoritative by some group or school"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 學說",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doctrines"
+ },
+ "docudrama": {
+  "ph": "/'dɔkjjdrɑ:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文獻電視片",
+    "def": ""
+   }
+  ]
+ },
+ "document": {
+  "ph": "/'dɒkjumәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檔案, 公文, 文件",
+    "def": "writing that provides information (especially information of an official nature)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "證明, 為...引證",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 文件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 documents｜過去分詞 documented｜現在分詞 documenting｜過去式 documented｜第三人稱單數 documents"
+ },
+ "documentary": {
+  "ph": "/.dɒkju'mentәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "記錄片",
+    "def": "a film or TV program presenting the facts about a person or event"
+   },
+   {
+    "pos": "adj.",
+    "zh": "檔案的",
+    "def": "relating to or consisting of or derived from documents"
+   }
+  ],
+  "forms": "複數 documentaries"
+ },
+ "documentation": {
+  "ph": "/.dɒkjumen'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(總稱)檔案",
+    "def": "confirmation that some fact or statement is true through the use of documentary evidence"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 檔案編制, 文件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 documentations"
+ },
+ "documented": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "備有證明檔案的",
+    "def": "furnished with or supported by documents"
+   }
+  ],
+  "forms": "過去式 documented｜過去分詞 documented"
+ },
+ "documents": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文件（document的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "dodd": {
+  "ph": "/dɔd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多德（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "dodder": {
+  "ph": "/'dɒdә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "搖擺, 蹣跚",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "菟絲子",
+    "def": "a leafless annual parasitic vine of the genus Cuscuta having whitish or yellow filamentous stems; obtain nourishment through haustoria"
+   }
+  ],
+  "forms": "複數 dodders｜現在分詞 doddering｜過去式 doddered｜第三人稱單數 dodders｜過去分詞 doddered"
+ },
+ "doddering": {
+  "ph": "/'dɔdәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "衰老的, 蹣跚的, 老邁的, 老態龍鍾的, 衰邁的",
+    "def": ""
+   }
+  ]
+ },
+ "doddle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兒戲, 易如反掌的事",
+    "def": "an easy task"
+   }
+  ]
+ },
+ "dodds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多茲（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "dodge": {
+  "ph": "/dɒdʒ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "避開, 躲避",
+    "def": "make a sudden movement in a new direction so as to avoid"
+   },
+   {
+    "pos": "n.",
+    "zh": "詭計, 躲藏",
+    "def": "a quick evasive movement"
+   }
+  ],
+  "forms": "現在分詞 dodging｜過去式 dodged｜第三人稱單數 dodges｜過去分詞 dodged｜複數 dodges"
+ },
+ "dodgem": {
+  "ph": "/'dɔdʒim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "躲閃車, 碰碰車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dodgems"
+ },
+ "dodger": {
+  "ph": "/'dɔdʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "躲閃者, 用詭計逃脫者, 矇騙者, 推託者",
+    "def": "a shifty deceptive person"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 推託者, 規避者, 用詭計矇騙者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dodgers"
+ },
+ "dodging": {
+  "ph": "/'dɔdʒiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "避開；音調改變",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dodging"
+ },
+ "dodgson": {
+  "ph": "/'dɔdʒsәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "道奇森(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "dodgy": {
+  "ph": "/'dɒdʒi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狡猾的, 逃避的, 難弄的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 dodgier｜最高級 dodgiest"
+ },
+ "dodo": {
+  "ph": "/'dәudәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渡渡鳥, 留汪尼孤鴿",
+    "def": "someone whose style is out of fashion"
+   }
+  ],
+  "forms": "複數 dodos"
+ },
+ "dods": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Department of Defense (of the United States) (美國)國防部",
+    "def": ""
+   }
+  ]
+ },
+ "dodson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "多德森（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "doe": {
+  "ph": "/dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "母鹿, 雌兔",
+    "def": "mature female of mammals of which the male is called `buck'"
+   }
+  ],
+  "forms": "複數 does"
+ },
+ "doer": {
+  "ph": "/'du:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行為者, 實幹家",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 行為人, 實行家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doers"
+ },
+ "does": {
+  "ph": "/dʌz; dәz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "做；工作；有用（do的第三人稱單數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "doeskin": {
+  "ph": "/'dәuskin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "母鹿皮",
+    "def": "soft leather from deerskin or lambskin"
+   }
+  ],
+  "forms": "複數 doeskins"
+ },
+ "doesn't": {
+  "ph": "/ˈdʌznt/",
+  "senses": [
+   {
+    "pos": "aux.",
+    "zh": "表示否定",
+    "def": ""
+   }
+  ]
+ },
+ "doff": {
+  "ph": "/dɒf/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "脫, 丟棄, 擺脫",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 doffed｜現在分詞 doffing｜第三人稱單數 doffs｜過去分詞 doffed"
+ },
+ "dog": {
+  "ph": "/dɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狗, 壞蛋",
+    "def": "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds"
+   },
+   {
+    "pos": "vt.",
+    "zh": "跟蹤, 尾隨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dogs｜過去分詞 dogged｜過去式 dogged｜現在分詞 dogging｜第三人稱單數 dogs"
+ },
+ "dogcatcher": {
+  "ph": "/'dɔ^,kætʃә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捕狗人",
+    "def": ""
+   }
+  ]
+ },
+ "doge": {
+  "ph": "/dәudʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "總督",
+    "def": "formerly the chief magistrate in the republics of Venice and Genoa"
+   }
+  ],
+  "forms": "複數 doges"
+ },
+ "dogfight": {
+  "ph": "/'dɒgfait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混戰, 鬥狗, 空戰, 狗咬狗",
+    "def": "a fiercely disputed contest"
+   },
+   {
+    "pos": "vi.",
+    "zh": "在空中格鬥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dogfights｜現在分詞 dogfighting"
+ },
+ "dogfighting": {
+  "ph": "/'dɒgfaɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混戰；空戰；狗咬狗",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "在空中纏鬥；進行混戰",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用…進行空中格鬥；同…混戰",
+    "def": ""
+   }
+  ]
+ },
+ "dogfish": {
+  "ph": "/'dɒgfiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狗鯊, 巨頭鯨",
+    "def": "any of several small sharks"
+   }
+  ]
+ },
+ "dogged": {
+  "ph": "/'dɒgid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頑固的, 頑強的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 dogged｜過去式 dogged"
+ },
+ "doggedly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "頑強地；固執地",
+    "def": ""
+   }
+  ]
+ },
+ "doggedness": {
+  "ph": "/'dɒɡɪdnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "犟勁",
+    "def": ""
+   }
+  ]
+ },
+ "doggerel": {
+  "ph": "/'dɒgәrәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打油詩",
+    "def": "a comic verse of irregular measure"
+   }
+  ]
+ },
+ "doggie": {
+  "ph": "/'dɒgi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小狗, 狗兒(對狗的愛稱)",
+    "def": ""
+   }
+  ]
+ },
+ "doggo": {
+  "ph": "/'dɔɡәu/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "隱秘地；躲藏地；一動也不動地",
+    "def": ""
+   }
+  ]
+ },
+ "doggone": {
+  "ph": "/'dɒgɒn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可憎的, 可惡的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "極端地, 非常地",
+    "def": ""
+   },
+   {
+    "pos": "interj.",
+    "zh": "畜生, 他媽的",
+    "def": ""
+   }
+  ]
+ },
+ "doggy": {
+  "ph": "/'dɔ^i/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小狗兒",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "時髦的, 裝闊氣的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doggies"
+ },
+ "doghouse": {
+  "ph": "/'dɒghaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狗窩",
+    "def": "an idiomatic term for being in disfavor"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 調諧箱",
+    "def": ""
+   }
+  ]
+ },
+ "dogleg": {
+  "ph": "/'dɔ^le^/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "彎曲如狗後腿的",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 doglegs｜複數 doglegs"
+ },
+ "doglike": {
+  "ph": "/'dɒglaik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "象狗的, 忠實的",
+    "def": ""
+   }
+  ]
+ },
+ "dogma": {
+  "ph": "/'dɒgmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教條",
+    "def": "a religious doctrine that is proclaimed as true without proof"
+   }
+  ],
+  "forms": "複數 dogmas"
+ },
+ "dogmatic": {
+  "ph": "/dɒg'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "教條的, 武斷的",
+    "def": "of or pertaining to or characteristic of a doctrine or code of beliefs accepted as authoritative"
+   }
+  ],
+  "forms": "複數 dogmatics"
+ },
+ "dogmatically": {
+  "ph": "/dɔg'mætikəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "武斷地；教條主義地",
+    "def": ""
+   }
+  ]
+ },
+ "dogmatics": {
+  "ph": "/dɒg'mætiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教義學, 教理神學",
+    "def": "The science which treats of Christian doctrinal"
+   }
+  ]
+ },
+ "dogmatism": {
+  "ph": "/'dɒgmәtizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "武斷, 教條主義",
+    "def": ""
+   }
+  ]
+ },
+ "dogmatist": {
+  "ph": "/'dɒgmәtist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教條主義者, 武斷者",
+    "def": "a stubborn person of arbitrary or arrogant opinions"
+   }
+  ],
+  "forms": "複數 dogmatists"
+ },
+ "dogs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘦狗類；狗（dog的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "dogsbody": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打雜工, 職位低微的人員",
+    "def": "a worker who has to do all the unpleasant or boring jobs that no one else wants to do"
+   }
+  ],
+  "forms": "複數 dogsbodies｜現在分詞 dogsbodying"
+ },
+ "dogsled": {
+  "ph": "/ˈdɒgsled/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "狗拉的雪撬",
+    "def": ""
+   }
+  ]
+ },
+ "dogwood": {
+  "ph": "/'dɒgwud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山茱萸科植物",
+    "def": "a tree of shrub of the genus Cornus often having showy bracts resembling flowers"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 北美山茱萸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dogwoods"
+ },
+ "doh": {
+  "ph": "/dəu/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "衛生部（Department of Health）",
+    "def": ""
+   }
+  ]
+ },
+ "doherty": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "多爾蒂",
+    "def": ""
+   }
+  ]
+ },
+ "doi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "工業部（Department of Industry）；內政部（Department of the Interior）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doi"
+ },
+ "doing": {
+  "ph": "/'du:iŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行為, 活動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doings"
+ },
+ "doings": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舉動, 行為；所做之事（doing的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "doit": {
+  "ph": "/dɒit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荷蘭古代小銅幣, 無價值的東西",
+    "def": "A small Dutch coin, worth about half a farthing; also, a"
+   }
+  ]
+ },
+ "dojo": {
+  "ph": "/'dәudʒәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（日）道場；柔道訓練學校",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dojos"
+ },
+ "dolan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "多蘭（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "dolby": {
+  "ph": "/dɔlbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "杜比系統",
+    "def": "United States electrical engineer who devised the Dolby system used to reduce background noise in tape recording"
+   }
+  ]
+ },
+ "doldrum": {
+  "ph": "/'dɒldrəm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]赤道無風帶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doldrums"
+ },
+ "doldrums": {
+  "ph": "/'dɒldrәmz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "憂鬱, 赤道無風帶",
+    "def": "a belt of calms and light winds between the northern and southern trade winds of the Atlantic and Pacific"
+   }
+  ]
+ },
+ "dole": {
+  "ph": "/dәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救濟品, 失業救濟金",
+    "def": "a share of money or food or clothing that has been charitably given"
+   },
+   {
+    "pos": "vt.",
+    "zh": "發放救濟",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 doled｜複數 doles｜過去分詞 doled｜現在分詞 doling｜第三人稱單數 doles"
+ },
+ "doleful": {
+  "ph": "/'dәulful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "悲哀的, 憂鬱的, 陰沉的",
+    "def": ""
+   }
+  ]
+ },
+ "dolefully": {
+  "ph": "/'dəʊlfəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "悲哀地, 陰鬱地",
+    "def": ""
+   }
+  ]
+ },
+ "doll": {
+  "ph": "/dɒl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洋娃娃, 無頭腦的美麗女人",
+    "def": "a small replica of a person; used as a toy"
+   }
+  ],
+  "forms": "複數 dolls｜過去式 dolled｜過去分詞 dolled｜現在分詞 dolling"
+ },
+ "dollar": {
+  "ph": "/'dɒlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美元, 元(加、澳等國貨幣單位)",
+    "def": "the basic monetary unit in many countries; equal to 100 cents"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 純經濟的, 美元, 元",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dollars"
+ },
+ "dollarization": {
+  "ph": "/ˌdɒləraɪ'zeɪʃn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美元化, （某些國家）將美元作為本國流通貨幣的做法",
+    "def": ""
+   }
+  ]
+ },
+ "dollhouse": {
+  "ph": "/'dɔlhajs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玩具小屋",
+    "def": "a house so small that it is likened to a child's plaything"
+   }
+  ]
+ },
+ "dollop": {
+  "ph": "/'dɒlәp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塊, 團",
+    "def": "a small measure (usually of food)"
+   }
+  ],
+  "forms": "複數 dollops"
+ },
+ "dolly": {
+  "ph": "/'dɒli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洋娃娃, (洗衣用)搗棒",
+    "def": "conveyance consisting of a wheeled support on which a camera can be mounted"
+   },
+   {
+    "pos": "vi.",
+    "zh": "移動車",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用移動車移動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dollies"
+ },
+ "dolmen": {
+  "ph": "/'dɔlmen/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(用石架成的)史前墓石牌坊",
+    "def": "a prehistoric megalithic tomb typically having two large upright stones and a capstone"
+   }
+  ],
+  "forms": "複數 dolmens"
+ },
+ "dolomite": {
+  "ph": "/'dɒlәmait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白雲石",
+    "def": "a kind of sedimentary rock resembling marble or limestone but rich in magnesium carbonate"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 白雲石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dolomites"
+ },
+ "dolomites": {
+  "ph": "/'dәulә,maitis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "白雲石",
+    "def": ""
+   }
+  ]
+ },
+ "dolor": {
+  "ph": "/'dәulә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] [疼]痛",
+    "def": ""
+   }
+  ]
+ },
+ "dolores": {
+  "ph": "/dә'lәjris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德洛麗絲（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "dolorous": {
+  "ph": "/'dɒlәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "憂傷的, 悲痛的",
+    "def": ""
+   }
+  ]
+ },
+ "dolphin": {
+  "ph": "/'dɒlfin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海豚",
+    "def": "any of various small toothed whales with a beaklike snout; larger than porpoises"
+   }
+  ],
+  "forms": "複數 dolphins"
+ },
+ "dolt": {
+  "ph": "/dәult/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呆子, 笨蛋, 傻瓜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dolts"
+ },
+ "doltish": {
+  "ph": "/'dәultiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愚蠢的, 呆笨的, 愚鈍的",
+    "def": ""
+   }
+  ]
+ },
+ "dom": {
+  "ph": "/dɔm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "師（對羅馬天主教等修士的尊稱）",
+    "def": "A title anciently given to the pope, and later to other church"
+   }
+  ]
+ },
+ "domain": {
+  "ph": "/dәu'mein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領域, 領土, 產業, 範圍",
+    "def": "territory over which rule or control is exercised"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 域, 區域, 支配命令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 domains"
+ },
+ "domaine": {
+  "ph": "/dәu'mein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葡萄園",
+    "def": ""
+   }
+  ]
+ },
+ "dome": {
+  "ph": "/dәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓頂",
+    "def": "a concave shape whose distinguishing characteristic is that the concavity faces downward"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加圓頂",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成圓頂狀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 domes｜過去式 domed｜過去分詞 domed"
+ },
+ "domed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "圓屋頂的, 圓蓋狀的, 圓頂的, 半球形的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 domed｜過去分詞 domed"
+ },
+ "domenico": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "多梅尼科（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "domesday": {
+  "ph": "/'du:mzdei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "世界末日, 最後審判日",
+    "def": "A day of judgment. See Doomsday."
+   }
+  ]
+ },
+ "domestic": {
+  "ph": "/dәu'mestik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "家庭的, 國內的, 馴養的",
+    "def": "of concern to or concerning the internal affairs of a nation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 家庭的, 家用的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 domestics"
+ },
+ "domestically": {
+  "ph": "/dәu'mestikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "家庭式地, 國內地",
+    "def": ""
+   }
+  ]
+ },
+ "domesticate": {
+  "ph": "/dәu'mestikeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "養馴, 引進(外來詞等), 教化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 domesticated｜現在分詞 domesticating｜過去式 domesticated｜第三人稱單數 domesticates"
+ },
+ "domesticated": {
+  "ph": "/dəʊ'mestɪkeɪtɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喜歡家庭生活的; （指動物）被馴養了的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "馴化( domesticate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 domesticated｜過去式 domesticated"
+ },
+ "domestication": {
+  "ph": "/dәumesti'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馴養, 教化",
+    "def": "adaptation to intimate association with human beings"
+   }
+  ],
+  "forms": "複數 domestications"
+ },
+ "domesticity": {
+  "ph": "/.dәumes'tisiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "專心於家務, 戀家, 家庭生活",
+    "def": "the quality of being domestic or domesticated"
+   }
+  ],
+  "forms": "複數 domesticities"
+ },
+ "domicile": {
+  "ph": "/'dɒmisail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "住所, 住宅",
+    "def": "(law) the residence where you have your permanent home or principal establishment and to where, whenever you are absent, you intend to return; every person is c"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)定居",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 domiciled｜過去式 domiciled｜複數 domiciles｜現在分詞 domiciling｜第三人稱單數 domicils"
+ },
+ "domiciliary": {
+  "ph": "/.dɒmi'siliәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "住處的, 住家的",
+    "def": "of or relating to or provided in a domicile"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 家庭的, 家用的",
+    "def": ""
+   }
+  ]
+ },
+ "dominance": {
+  "ph": "/'dɔminәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優勢, 顯性, 統治, 控制, 支配",
+    "def": "the state that exists when one person or group has power over another"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 控制, 擾勢",
+    "def": ""
+   }
+  ]
+ },
+ "dominant": {
+  "ph": "/'dɒminәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "佔優勢的, 支配的",
+    "def": "exercising influence or control"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 優性的, 顯性的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dominants"
+ },
+ "dominantly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "有統治權地, 佔優勢地",
+    "def": ""
+   }
+  ]
+ },
+ "dominate": {
+  "ph": "/'dɒmineit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "支配, 佔優勢",
+    "def": "be in control"
+   }
+  ],
+  "forms": "過去分詞 dominated｜過去式 dominated｜第三人稱單數 dominates｜現在分詞 dominating"
+ },
+ "dominated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "佔統治地位的；占主導地位的；強勢的；受控的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 dominated｜過去分詞 dominated"
+ },
+ "dominating": {
+  "ph": "/'dɒmineitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "專橫的, 獨裁的, 主要的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dominating"
+ },
+ "domination": {
+  "ph": "/.dɒmi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "支配, 控制, 管轄",
+    "def": "social control by dominating"
+   }
+  ],
+  "forms": "複數 dominations"
+ },
+ "dominator": {
+  "ph": "/'dɒmineitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "支配者, 統治者, 支配力",
+    "def": "A ruler or ruling power."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 優[性]質, 顯[性]質",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dominators"
+ },
+ "dominatrix": {
+  "ph": "/ˌdɒmɪˈneɪtrɪks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "母夜叉, 女性施虐狂",
+    "def": "a dominating woman (especially one who plays that role in a sadomasochistic sexual relationship)"
+   }
+  ],
+  "forms": "複數 dominatrixes"
+ },
+ "domine": {
+  "ph": "/'dɔmini/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主人；老爺",
+    "def": ""
+   }
+  ]
+ },
+ "domineer": {
+  "ph": "/.dɒmi'niә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "跋扈, 作威作福",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "盛氣凌人",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 domineering｜過去式 domineered｜第三人稱單數 domineers｜過去分詞 domineered"
+ },
+ "domineering": {
+  "ph": "/,dɔmi'niәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "盛氣凌人的, 跋扈的, 專橫的, 專制的",
+    "def": "tending to domineer"
+   }
+  ],
+  "forms": "現在分詞 domineering"
+ },
+ "domingo": {
+  "ph": "/dәj'mi:ŋ^әj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多明戈（高音演唱家）",
+    "def": "Spanish operatic tenor noted for performances in operas by Verdi and Puccini (born in 1941)"
+   }
+  ]
+ },
+ "dominic": {
+  "ph": "/'dɔminik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多米尼克（男子名）",
+    "def": "(Roman Catholic Church) Spanish priest who founded an order whose members became known as Dominicans or Black Friars (circa 1170-1221)"
+   }
+  ]
+ },
+ "dominica": {
+  "ph": "/,dɔmi'ni:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多明尼加(西印度群島島國)",
+    "def": "a country on the island of Dominica"
+   }
+  ]
+ },
+ "dominican": {
+  "ph": "/dә'minikәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多明尼加共和國的",
+    "def": "of or relating to or characteristic of the Dominican Republic or its people"
+   }
+  ],
+  "forms": "複數 dominicans"
+ },
+ "dominion": {
+  "ph": "/dә'minjәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領土, 主權, 統治",
+    "def": "dominance or power through legal authority"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 統治權, 主權, 統治",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dominions"
+ },
+ "dominique": {
+  "ph": "/,dɔmi'ni:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多明尼加雞；多米尼克（女子名）",
+    "def": "American breed of chicken having barred grey plumage raised for meat and brown eggs"
+   }
+  ],
+  "forms": "複數 dominiques"
+ },
+ "domino": {
+  "ph": "/'dɒminәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "化裝外衣, 面具, 骨牌, 多米諾骨牌",
+    "def": "United States rhythm and blues pianist and singer and composer (born in 1928)"
+   }
+  ],
+  "forms": "複數 dominoes"
+ },
+ "dominus": {
+  "ph": "/'dɔminәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<拉>n.上帝",
+    "def": ""
+   }
+  ]
+ },
+ "don": {
+  "ph": "/dɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西班牙貴族(或紳士), 先生, 閣下",
+    "def": "a Spanish gentleman or nobleman"
+   },
+   {
+    "pos": "vt.",
+    "zh": "穿上",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dons｜過去式 donned｜現在分詞 donning｜過去分詞 donned｜第三人稱單數 dons"
+ },
+ "don't": {
+  "ph": "/dәunt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(= do not)不要",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "禁忌",
+    "def": ""
+   }
+  ]
+ },
+ "dona": {
+  "ph": "/'dәunjɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夫人",
+    "def": "a Spanish courtesy title or form of address for a woman"
+   }
+  ]
+ },
+ "donal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "道納爾鋁合金",
+    "def": ""
+   }
+  ]
+ },
+ "donald": {
+  "ph": "/'dɔnәld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唐納德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "donaldson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唐納森（美國一公司名）",
+    "def": ""
+   }
+  ]
+ },
+ "donate": {
+  "ph": "/'dәuneit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "捐贈",
+    "def": "give to a charity or good cause"
+   }
+  ],
+  "forms": "過去分詞 donated｜過去式 donated｜現在分詞 donating｜第三人稱單數 donates"
+ },
+ "donated": {
+  "ph": "/dəuˈneitid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（尤指向慈善機構）捐贈( donate的過去式和過去分詞 ); 獻（血）; 捐（血）; 捐獻（器官）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 donated｜過去式 donated"
+ },
+ "donation": {
+  "ph": "/dәu'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捐贈物, 捐款, 捐贈",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 贈品, 捐款, 捐贈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 donations"
+ },
+ "donations": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捐款；捐贈（donation的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "doncaster": {
+  "ph": "/'dɔŋkəstə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唐卡斯特（城市名）",
+    "def": ""
+   }
+  ]
+ },
+ "done": {
+  "ph": "/dʌn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "完成了的, 好了的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "do的過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "donegal": {
+  "ph": "/,dɔni'ɡɔ:l/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "多尼哥",
+    "def": ""
+   }
+  ]
+ },
+ "doneness": {
+  "ph": "/'dʌnnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(肉)煮熟的程度",
+    "def": ""
+   }
+  ]
+ },
+ "dong": {
+  "ph": "/dɔŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盾（越南貨幣單位）",
+    "def": "the basic unit of money in Vietnam"
+   }
+  ],
+  "forms": "複數 dongs｜現在分詞 donging｜過去式 donged｜第三人稱單數 dongs｜過去分詞 donged"
+ },
+ "donington": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Donington)人名；(英)多寧頓",
+    "def": ""
+   }
+  ]
+ },
+ "donizetti": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "多尼采蒂（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "donkey": {
+  "ph": "/'dɒŋki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驢子, 笨蛋, 頑固者, 輔助發動機, 輔助泵",
+    "def": "the symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874"
+   }
+  ],
+  "forms": "複數 donkeys"
+ },
+ "donn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "唐 Dunn的變體",
+    "def": ""
+   }
+  ]
+ },
+ "donna": {
+  "ph": "/'dɔnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（意）女士（置於女士名字前的尊稱, 相當於Madam）；堂娜（女子名）",
+    "def": "an Italian woman of rank"
+   }
+  ]
+ },
+ "donne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多恩",
+    "def": "English clergyman and metaphysical poet celebrated as a preacher (1572-1631)"
+   }
+  ]
+ },
+ "donnelly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唐納利（姓）",
+    "def": ""
+   }
+  ]
+ },
+ "donnie": {
+  "ph": "/'dɔni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唐尼（男子名, 等於Don）",
+    "def": ""
+   }
+  ]
+ },
+ "donnish": {
+  "ph": "/'dɒniʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "象大學學監一樣的, 學究式的",
+    "def": ""
+   }
+  ]
+ },
+ "donny": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唐尼（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "donnybrook": {
+  "ph": "/'dɔnibruk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<口>鬧哄哄的毆鬥,大混戰",
+    "def": ""
+   }
+  ]
+ },
+ "donoghue": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "多諾霍 Donohue的變體",
+    "def": ""
+   }
+  ]
+ },
+ "donor": {
+  "ph": "/'dәunә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捐贈人",
+    "def": "person who makes a gift of property"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 給體; 供體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 donors"
+ },
+ "donovan": {
+  "ph": "/'dɔnәvәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多諾萬（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "donut": {
+  "ph": "/'dәu,nʌt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 電子迴旋加速器環狀真空室, 同步加速器環狀真空室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 donuts"
+ },
+ "doo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豆兒（卡通形象）",
+    "def": "A dove."
+   }
+  ],
+  "forms": "複數 doos"
+ },
+ "doodad": {
+  "ph": "/'du:dæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "便宜貨；新出品；小玩意兒",
+    "def": "something unspecified whose name is either forgotten or not known"
+   }
+  ]
+ },
+ "doodle": {
+  "ph": "/'du:dl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "塗鴉, 混時間",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "傻子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doodles｜現在分詞 doodling｜過去式 doodled｜第三人稱單數 doodles｜過去分詞 doodled"
+ },
+ "doofus": {
+  "ph": "/ˈdu:fəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美><俚>蠢人",
+    "def": ""
+   }
+  ]
+ },
+ "doohickey": {
+  "ph": "/'du:hiki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小玩意, 小裝置, 竅門",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doohickeys"
+ },
+ "doolally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "發瘋；瘋了",
+    "def": ""
+   }
+  ]
+ },
+ "dooley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Dooley)人名；(英)杜利",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "甜薯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "杜利（地名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "杜利（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "doolittle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "杜利特爾（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "doom": {
+  "ph": "/du:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厄運, 不幸, 法律, 宣告, 判決, 死亡",
+    "def": "an unpleasant or disastrous destiny"
+   },
+   {
+    "pos": "vt.",
+    "zh": "命中註定, 判決",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 doomed｜現在分詞 dooming｜複數 dooms｜過去式 doomed｜第三人稱單數 dooms"
+ },
+ "doomed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "註定的；命定的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 doomed"
+ },
+ "doomsayer": {
+  "ph": "/'du:m,seiә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "凶事預示者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doomsayers"
+ },
+ "doomsday": {
+  "ph": "/'du:mzdei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "世界末日",
+    "def": ""
+   }
+  ]
+ },
+ "doomster": {
+  "ph": "/'du:mstə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<口>預言災難者, 末日論者",
+    "def": "Same as Dempster."
+   }
+  ],
+  "forms": "複數 doomsters"
+ },
+ "doon": {
+  "ph": "/du:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] [愛爾蘭、美國] 杜恩",
+    "def": ""
+   }
+  ]
+ },
+ "doone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "杜恩（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "door": {
+  "ph": "/dɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門",
+    "def": "a swinging or sliding barrier that will close the entrance to a room or building or vehicle"
+   }
+  ],
+  "forms": "複數 doors"
+ },
+ "doorbell": {
+  "ph": "/'dɒ:bel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門鈴",
+    "def": "a push button at an outer door that gives a ringing or buzzing signal when pushed"
+   }
+  ],
+  "forms": "複數 doorbells"
+ },
+ "doorframe": {
+  "ph": "/'dɔ:freim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門框",
+    "def": "the frame that supports a door"
+   }
+  ]
+ },
+ "doorjamb": {
+  "ph": "/'dɒ:dʒæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門側柱",
+    "def": "a jamb for a door"
+   }
+  ],
+  "forms": "複數 doorjambs"
+ },
+ "doorkeeper": {
+  "ph": "/'dɒ:ki:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "看門人, 門衛",
+    "def": "the lowest of the minor Holy Orders in the unreformed Western Church but now suppressed by the Roman Catholic Church"
+   }
+  ],
+  "forms": "複數 doorkeepers"
+ },
+ "doorknob": {
+  "ph": "/'dɒ:nɒb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "球形門拉手",
+    "def": "a knob used to release the catch when opening a door (often called `doorhandle' in Great Britain)"
+   }
+  ],
+  "forms": "複數 doorknobs"
+ },
+ "doorless": {
+  "ph": "/'dɔ:rles/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有門的",
+    "def": "Without a door."
+   }
+  ]
+ },
+ "doorman": {
+  "ph": "/'dɒ:mæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "看門人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doormen"
+ },
+ "doormat": {
+  "ph": "/'dɒ:mæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擦鞋墊",
+    "def": "a mat placed outside an exterior door for wiping the shoes before entering"
+   }
+  ],
+  "forms": "複數 doormats"
+ },
+ "doornail": {
+  "ph": "/'dɒ:neil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門釘",
+    "def": "a nail with a large head; formerly used to decorate doors"
+   }
+  ],
+  "forms": "複數 doornails"
+ },
+ "doorpost": {
+  "ph": "/'dɒ:pәust/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門柱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doorposts"
+ },
+ "doors": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大門；入口；通道（door的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "doorsill": {
+  "ph": "/'dɒ:sil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門檻",
+    "def": "the sill of a door; a horizontal piece of wood or stone that forms the bottom of a doorway and offers support when passing through a doorway"
+   }
+  ]
+ },
+ "doorstep": {
+  "ph": "/'dɒ:step/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門階",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doorsteps｜現在分詞 doorstepping"
+ },
+ "doorstop": {
+  "ph": "/'dɒ:stɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "制門器",
+    "def": "a stop that keeps open doors from moving"
+   }
+  ],
+  "forms": "複數 doorstops"
+ },
+ "doorway": {
+  "ph": "/'dɒ:wei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門口, 途徑",
+    "def": "the entrance (the space in a wall) through which you enter or leave a room or building; the space that a door can close"
+   }
+  ],
+  "forms": "複數 doorways"
+ },
+ "dooryard": {
+  "ph": "/'dɒ:jɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "庭院, 前院",
+    "def": "a yard outside the front or rear door of a house"
+   }
+  ]
+ },
+ "doozy": {
+  "ph": "/ˈdu:zi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<美俚>非常出色的人（物）的, 非常顯眼的",
+    "def": ""
+   }
+  ]
+ },
+ "dopamine": {
+  "ph": "/'dәupә,mi:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 多巴胺",
+    "def": ""
+   }
+  ]
+ },
+ "dopaminergic": {
+  "ph": "/,dәjpәmi'n\\\\\\\\:dʒik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[生]多巴胺能的",
+    "def": ""
+   }
+  ]
+ },
+ "dopant": {
+  "ph": "/'dәupәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摻雜物, 摻雜劑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 摻雜物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dopants"
+ },
+ "dope": {
+  "ph": "/dәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸毒者, 笨蛋, 麻醉藥物, 粘稠物",
+    "def": "slang terms for inside information"
+   },
+   {
+    "pos": "vt.",
+    "zh": "麻痺, 上塗料, 預測出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "吸毒",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 doped｜複數 dopes｜過去式 doped｜現在分詞 doping｜第三人稱單數 dopes"
+ },
+ "dopey": {
+  "ph": "/'dәupi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被麻醉的, 呆笨的, 遲鈍的",
+    "def": ""
+   }
+  ]
+ },
+ "doping": {
+  "ph": "/'dәupiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 摻雜",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 摻雜",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 doping｜複數 dopings"
+ },
+ "doppelganger": {
+  "ph": "/'dɒpelɡɑ:nɡər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<德>（德國民間傳說中活人的）幽靈; ; 面貌相似的人, 另一個我",
+    "def": "a ghostly double of a living person that haunts its living counterpart"
+   }
+  ],
+  "forms": "複數 doppelgangers｜第三人稱單數 doppelgangers"
+ },
+ "doppler": {
+  "ph": "/'dɔplә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（奧地利物理學家）多普勒的",
+    "def": ""
+   }
+  ]
+ },
+ "dora": {
+  "ph": "/'dɔ:rә/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "運籌學與分析局（Directorate of Operational and Analysis）",
+    "def": ""
+   }
+  ]
+ },
+ "dorado": {
+  "ph": "/dә'rɑ:dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劍魚",
+    "def": "a constellation in the southern hemisphere near Reticulum and Pictor; contains most of the Large Magellanic Cloud"
+   }
+  ]
+ },
+ "doran": {
+  "ph": "/'dɔ:ræn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "多蘭系統, 多普勒測距系統",
+    "def": ""
+   }
+  ]
+ },
+ "dorchester": {
+  "ph": "/'dɔ:tʃәstә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "多爾切斯特[英國英格蘭南部城市](多塞特郡首府)",
+    "def": ""
+   }
+  ]
+ },
+ "dordogne": {
+  "ph": "/dɔ:'dɔ:njə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多爾多涅河；多爾多涅省；多爾多涅區（位於法國西南部）",
+    "def": ""
+   }
+  ]
+ },
+ "dore": {
+  "ph": "/dɔ:'rei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "doreen": {
+  "ph": "/dɔ:'ri:n,'dɔ:ri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多琳（女子名, 等於Dorene）",
+    "def": ""
+   }
+  ]
+ },
+ "dorian": {
+  "ph": "/'dɔriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(古希臘中南部)多里斯(Doris) 的,多里安人的",
+    "def": "of or relating to the ancient Greek inhabitants of Doris, to their Doric dialect of Greek, or to their culture"
+   },
+   {
+    "pos": "n.",
+    "zh": "多里安人",
+    "def": "a member of one of four linguistic divisions of the prehistoric Greeks"
+   }
+  ]
+ },
+ "doric": {
+  "ph": "/'dɔrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鄉土音重的；多利斯型的",
+    "def": "of or pertaining to the Doric style of architecture"
+   }
+  ]
+ },
+ "dorigo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Dorigo)人名；(德、意)多里戈",
+    "def": ""
+   }
+  ]
+ },
+ "doris": {
+  "ph": "/'dɔris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桃瑞絲（女子名）",
+    "def": "(Greek mythology) wife of Nereus and mother of the Nereids"
+   }
+  ]
+ },
+ "dork": {
+  "ph": "/dɔ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<俚>笨蛋; 無能、不稱職的人; 愚蠢的人; <俚>（受人嘲笑的）呆子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dorks"
+ },
+ "dorking": {
+  "ph": "/'dɒ:kiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "杜金雞",
+    "def": "an English breed of large domestic fowl having five toes (the hind toe doubled)"
+   }
+  ]
+ },
+ "dorky": {
+  "ph": "/'dɔ:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愚蠢的; 無能的; 不稱職的; 笨的",
+    "def": ""
+   }
+  ]
+ },
+ "dorling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（英國一地名）道靈",
+    "def": ""
+   }
+  ]
+ },
+ "dorm": {
+  "ph": "/dɒ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宿舍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dorms"
+ },
+ "dormancy": {
+  "ph": "/'dɒ:mәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不活動性, 休眠, 蟄伏",
+    "def": "a state of quiet (but possibly temporary) inaction"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 休眠, 不活動, 休止",
+    "def": ""
+   }
+  ]
+ },
+ "dormant": {
+  "ph": "/'dɒ:mәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "睡眠狀態的, 靜止的",
+    "def": "(of e.g. volcanos) not erupting and not extinct"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 休眠的, 不活動的, 休止的",
+    "def": ""
+   }
+  ]
+ },
+ "dormer": {
+  "ph": "/'dɔ:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老虎窗；屋頂採光窗",
+    "def": "a gabled extension built out from a sloping roof to accommodate a vertical window"
+   }
+  ],
+  "forms": "複數 dormers｜過去式 dormered"
+ },
+ "dormice": {
+  "ph": "/'dɔ:mais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動] 睡鼠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dormice"
+ },
+ "dormitory": {
+  "ph": "/'dɒ:mitәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宿舍",
+    "def": "a college or university building containing living quarters for students"
+   }
+  ],
+  "forms": "複數 dormitories"
+ },
+ "dormouse": {
+  "ph": "/'dɒ:maus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "榛睡鼠",
+    "def": "small furry-tailed squirrel-like Old World rodent that becomes torpid in cold weather"
+   }
+  ]
+ },
+ "dorn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多恩（男子名）",
+    "def": "A British ray; the thornback."
+   }
+  ],
+  "forms": "現在分詞 dorning"
+ },
+ "dornier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Dornier)人名；(西)多涅爾；(德)道尼爾；(法)多爾尼耶",
+    "def": ""
+   }
+  ]
+ },
+ "dorothea": {
+  "ph": "/,dɔrә'θiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多蘿西婭(Dorothy的異體)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "dorothy": {
+  "ph": "/'dɔrәθi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桃樂茜（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "dorrit": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Dorrit)人名；(以)多麗特",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dorrits"
+ },
+ "dorsal": {
+  "ph": "/'dɒ:sәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "背的, 背部的, 背側的",
+    "def": "belonging to or on or near the back or upper surface of an animal or organ or part"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 背的, 背側的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dorsals"
+ },
+ "dorset": {
+  "ph": "/'dɔ:sit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多塞特（人名）；多爾塞特棉粗平布",
+    "def": ""
+   }
+  ]
+ },
+ "dorsiflexion": {
+  "ph": "/,dɔ:si'flekʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 背[側]屈",
+    "def": ""
+   }
+  ]
+ },
+ "dorsum": {
+  "ph": "/'dɔ:sәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "背, 背狀部分, 背部",
+    "def": "the back of the body of a vertebrate or any analogous surface (as the upper or outer surface of an organ or appendage or part)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 背",
+    "def": ""
+   }
+  ]
+ },
+ "dortmund": {
+  "ph": "/'dɔ:tmәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多特蒙得（德意志聯邦共和國城市）",
+    "def": "an industrial city in northwestern Germany; flourished from the 13th to 17th century as a member of the Hanseatic League"
+   }
+  ]
+ },
+ "dory": {
+  "ph": "/'dɒ:ri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平底小漁船, 海魴",
+    "def": "marine fishes widely distributed in mid-waters and deep slope waters"
+   }
+  ],
+  "forms": "複數 dories"
+ },
+ "dos": {
+  "ph": "/du:z/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "磁碟作業系統",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 磁碟作業系統; DOS內部命令:該命令用於將DOS核心部分裝入高記憶體區",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "且允許其裝置驅動程式或常駐程式裝入上層記憶體塊",
+    "def": ""
+   }
+  ]
+ },
+ "dosa": {
+  "ph": "/ˈdəʊsə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（梵語）[瞋](dosa), 或說為瞋恚、瞋恨, 是指對所緣憎惡、怨恨、惱怒、生氣等。",
+    "def": ""
+   }
+  ]
+ },
+ "dosage": {
+  "ph": "/'dәusidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劑量, 用量, 配藥",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 劑量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dosages"
+ },
+ "dose": {
+  "ph": "/dәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劑量, 服用量",
+    "def": "a measured portion of medicine taken at any one time"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給藥, (用藥)醫治",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "服藥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doses｜過去分詞 dosed｜現在分詞 dosing｜過去式 dosed｜第三人稱單數 doses"
+ },
+ "dosed": {
+  "ph": "/dɑs; dɔs/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "磁碟作業系統（Disk Operating System）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 dosed"
+ },
+ "dosh": {
+  "ph": "/dɒʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英><俚>錢",
+    "def": ""
+   }
+  ]
+ },
+ "dosimeter": {
+  "ph": "/dәu'simitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放射量測定計",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 放射劑量計; 放射劑量儀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dosimeters"
+ },
+ "dosing": {
+  "ph": "/'dәusiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "定量給料",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dosing"
+ },
+ "doss": {
+  "ph": "/dɒs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睡床, (廉價簡陋的)床鋪, 睡眠",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "睡",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dossing｜第三人稱單數 dosses｜過去分詞 dossed｜過去式 dossed"
+ },
+ "dosser": {
+  "ph": "/'dɔsә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "揹筐, 馱筐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dossers"
+ },
+ "dossier": {
+  "ph": "/'dɒsiei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檔案, 卷宗",
+    "def": "a collection of papers containing detailed information about a particular person or subject (usually a person's record)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病歷表冊, 病歷夾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dossiers"
+ },
+ "dossy": {
+  "ph": "/'dɔsi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好看的, 漂亮的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 dossier"
+ },
+ "dost": {
+  "ph": "/dʌst/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "[古]do的第二人稱單數.現在式",
+    "def": ""
+   }
+  ]
+ },
+ "dostoevsky": {
+  "ph": "/,dәstә'jefski/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "陀斯妥也夫斯基(Fedor Mikhaylovitch, 1821-1881, 俄國小說家)",
+    "def": ""
+   }
+  ]
+ },
+ "dot": {
+  "ph": "/dɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "點, 圓點, 小數點, 小東西, 嫁妝",
+    "def": "the shorter of the two telegraphic signals used in Morse code"
+   },
+   {
+    "pos": "vt.",
+    "zh": "作小點記號, 加小點於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "打上點",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 點",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dots｜過去式 dotted｜過去分詞 dotted｜現在分詞 dotting｜第三人稱單數 dots"
+ },
+ "dotage": {
+  "ph": "/'dɒtidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老耄, 老迷糊, 溺愛",
+    "def": "mental infirmity as a consequence of old age; sometimes shown by foolish infatuations"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 衰老, 老耄",
+    "def": ""
+   }
+  ]
+ },
+ "dote": {
+  "ph": "/dәut/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "昏聵, 溺愛",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 doted｜第三人稱單數 dotes｜過去分詞 doted｜現在分詞 doting"
+ },
+ "doting": {
+  "ph": "/'dәutiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偏愛的, 溺愛的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 doting"
+ },
+ "dotted": {
+  "ph": "/'dɒtid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有點的, 星羅棋佈的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 dotted｜過去分詞 dotted"
+ },
+ "dotty": {
+  "ph": "/'dɒti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多點的, 愚蠢的, 薄弱的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 dottier"
+ },
+ "double": {
+  "ph": "/'dʌbl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兩倍",
+    "def": "a base hit on which the batter stops safely at second base"
+   },
+   {
+    "pos": "adj.",
+    "zh": "兩倍的, 雙重的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使加倍",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "加倍, 代替, 快步走",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 雙精度型",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 doubled｜現在分詞 doubling｜複數 doubles｜過去式 doubled｜第三人稱單數 doubles"
+ },
+ "double cream": {
+  "ph": "/ˈdʌbl kri:m/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "高脂肪濃奶油",
+    "def": ""
+   }
+  ]
+ },
+ "double standard": {
+  "ph": "/ˈdʌbl ˈstændəd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙重標準, 不同標準（尤指性道德上男寬女嚴的標準）",
+    "def": ""
+   }
+  ]
+ },
+ "double-cross": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "欺騙, 出賣",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 double-crossed"
+ },
+ "doubled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "兩倍；加倍努力；快步走（double的過去式和過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 doubled｜過去式 doubled"
+ },
+ "doubleday": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "道布林迪",
+    "def": ""
+   }
+  ]
+ },
+ "doubleheader": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙車頭火車",
+    "def": ""
+   }
+  ]
+ },
+ "doubleness": {
+  "ph": "/dʌbl'nes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "二倍, 雙重",
+    "def": "The state of being double or doubled."
+   }
+  ]
+ },
+ "doublespeak": {
+  "ph": "/'dʌblspi:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "欺人之談, 故弄玄虛的言詞",
+    "def": "any language that pretends to communicate but actually does not"
+   }
+  ]
+ },
+ "doublet": {
+  "ph": "/'dʌblit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成對物, 偶極天線, 對稱振子, 偶極子, 對偶物",
+    "def": "a man's close-fitting jacket; worn during the Renaissance"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 二位位元組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doublets"
+ },
+ "doubling": {
+  "ph": "/'dʌbliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "加倍, 雙重, 折迭, 重合, 折回, 防護板, 加強板",
+    "def": "increase by a factor of two"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 雙倍, 雙重",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 doubling｜複數 doublings"
+ },
+ "doubloon": {
+  "ph": "/dʌ'blu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "達布隆(從前西班牙金幣名稱)",
+    "def": "a former Spanish gold coin"
+   }
+  ],
+  "forms": "複數 doubloons"
+ },
+ "doubly": {
+  "ph": "/'dʌbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "加倍地, 雙重地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 雙地",
+    "def": ""
+   }
+  ]
+ },
+ "doubt": {
+  "ph": "/daut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懷疑, 疑惑",
+    "def": "the state of being unsure of something"
+   },
+   {
+    "pos": "v.",
+    "zh": "懷疑, 不信",
+    "def": "consider unlikely or have doubts about"
+   }
+  ],
+  "forms": "複數 doubts｜過去式 doubted｜過去分詞 doubted｜現在分詞 doubting｜第三人稱單數 doubts"
+ },
+ "doubter": {
+  "ph": "/'dautә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抱懷疑態度的人；不信宗教的人；懷疑論者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doubters"
+ },
+ "doubtful": {
+  "ph": "/'dautful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可疑的, 疑心的, 不明確的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 懷疑的, 有疑問的, 未確的",
+    "def": ""
+   }
+  ]
+ },
+ "doubtfully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "含糊地；懷疑地",
+    "def": ""
+   }
+  ]
+ },
+ "doubting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抱懷疑態度的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 doubting"
+ },
+ "doubtless": {
+  "ph": "/'dautlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無疑的, 確定的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "無疑地, 確定地",
+    "def": ""
+   }
+  ]
+ },
+ "doubtlessly": {
+  "ph": "/'daʊtlɪslɪ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "毫無疑問",
+    "def": ""
+   }
+  ]
+ },
+ "douce": {
+  "ph": "/du:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "莊重的, 嚴肅的",
+    "def": "Sweet; pleasant."
+   }
+  ]
+ },
+ "douche": {
+  "ph": "/du:ʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灌洗液, 灌洗(療法), 灌洗器",
+    "def": "a small syringe with detachable nozzles; used for vaginal lavage and enemas"
+   },
+   {
+    "pos": "v.",
+    "zh": "沖洗, 施行灌洗法",
+    "def": "direct a spray of water into a bodily cavity, for cleaning"
+   }
+  ],
+  "forms": "現在分詞 douching｜過去式 douched｜第三人稱單數 douches｜過去分詞 douched"
+ },
+ "doug": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "道格",
+    "def": ""
+   }
+  ]
+ },
+ "dough": {
+  "ph": "/dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生麵糰",
+    "def": "a flour mixture stiff enough to knead or roll"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 捏塑體; 生麵糰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doughs"
+ },
+ "doughboy": {
+  "ph": "/'dәubɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糰子, 步兵",
+    "def": "an American infantryman in World War I"
+   }
+  ],
+  "forms": "複數 doughboys"
+ },
+ "doughnut": {
+  "ph": "/'dәunʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油炸圈餅, 環狀物",
+    "def": "a small ring-shaped friedcake"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 圓環圖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doughnuts｜現在分詞 doughnutting"
+ },
+ "doughty": {
+  "ph": "/'dauti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "強悍的, 勇敢的, 剛強的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 doughtiest"
+ },
+ "doughy": {
+  "ph": "/'dәui/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "麵糰的, 半熟的, 蒼白的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 柔軟的, 生麵糰似的, 遲鈍的",
+    "def": ""
+   }
+  ]
+ },
+ "dougie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "道基舞",
+    "def": ""
+   }
+  ]
+ },
+ "douglas": {
+  "ph": "/'dʌ^lәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "道格拉斯（男子名）；道格拉斯（英國馬恩島首府）",
+    "def": "United States politician who proposed that individual territories be allowed to decide whether they would have slavery; he engaged in a famous series of debates"
+   }
+  ]
+ },
+ "doula": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "產婦陪護（給產婦以心理支援）",
+    "def": ""
+   }
+  ]
+ },
+ "doulton": {
+  "ph": "/'dәjltәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(陶器)道爾頓工廠製造的",
+    "def": ""
+   }
+  ]
+ },
+ "dour": {
+  "ph": "/duә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陰沉的, 嚴厲的, 頑強的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 dourest"
+ },
+ "dourly": {
+  "ph": "/'duəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嚴厲地；陰鬱地；悶悶不樂地",
+    "def": ""
+   }
+  ]
+ },
+ "douse": {
+  "ph": "/daus/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "插入水中, 澆(或灑、潑)水在...上, 熄(燈、火等), 平息",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "浸泡",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "潑灑",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 doused｜過去分詞 doused｜現在分詞 dousing｜第三人稱單數 douses"
+ },
+ "dousing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 熄滅",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dousing"
+ },
+ "dove": {
+  "ph": "/dʌv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鴿子",
+    "def": "any of numerous small pigeons"
+   },
+   {
+    "pos": "",
+    "zh": "dive的過去式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doves｜現在分詞 doving"
+ },
+ "dovecot": {
+  "ph": "/'dʌvkɒt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "鴿房",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dovecots"
+ },
+ "dovecote": {
+  "ph": "/'dʌvkɔt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鴿棚, 鴿房",
+    "def": "a birdhouse for pigeons"
+   }
+  ],
+  "forms": "複數 dovecotes"
+ },
+ "dover": {
+  "ph": "/'dәuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多佛(英國港口)",
+    "def": "the capital of the state of Delaware"
+   }
+  ],
+  "forms": "過去式 dovered"
+ },
+ "dovetail": {
+  "ph": "/'dʌvteil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "楔形榫頭",
+    "def": "a mortise joint formed by interlocking tenons and mortises"
+   },
+   {
+    "pos": "vt.",
+    "zh": "與...吻合, 用鳩尾榫接合",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "吻合",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 dovetailed｜過去式 dovetailed｜第三人稱單數 dovetails｜現在分詞 dovetailing｜複數 dovetails"
+ },
+ "dovetailing": {
+  "ph": "/'dʌvteɪlɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "燕尾連線楔形接合",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dovetailing"
+ },
+ "dovish": {
+  "ph": "/'dʌviʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鴿派的, 溫和派的",
+    "def": ""
+   }
+  ]
+ },
+ "dow": {
+  "ph": "/daj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國陶氏；美國陶氏化學；道瓊斯平均指數",
+    "def": "A kind of vessel. See Dhow."
+   }
+  ]
+ },
+ "dowager": {
+  "ph": "/'dauәdʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "繼承遺產或爵位的寡婦",
+    "def": "a widow holding property received from her deceased husband"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 受有亡失遺產的寡, 婦寡君貴婦人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dowagers"
+ },
+ "dowd": {
+  "ph": "/dajd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邋遢的人(尤指女人)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dowding"
+ },
+ "dowding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Dowding)人名；(英)道丁",
+    "def": "British marshal of the RAF who commanded the British air defense forces that defeated the Luftwaffe during the Battle of Britain (1882-1970)"
+   }
+  ],
+  "forms": "複數 dowdings"
+ },
+ "dowdy": {
+  "ph": "/'daudi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過時的, 懶散的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "懶散女人, 邋遢女人",
+    "def": "deep-dish apple dessert covered with a rich crust"
+   }
+  ],
+  "forms": "最高級 dowdiest｜比較級 dowdier"
+ },
+ "dowel": {
+  "ph": "/'dauәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銷子, 木釘",
+    "def": "a fastener that is inserted into holes in two adjacent pieces and holds them together"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用暗銷接合",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dowels｜過去分詞 dowelled｜過去式 dowelled"
+ },
+ "dowell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Dowell)人名；(英、西)道爾",
+    "def": ""
+   }
+  ]
+ },
+ "dower": {
+  "ph": "/'dauә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嫁妝, 天賦, 亡夫遺產",
+    "def": "a life estate to which a wife is entitled on the death of her husband"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給以產業, 給以嫁妝",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dowering｜過去式 dowered｜第三人稱單數 dowers｜過去分詞 dowered"
+ },
+ "dowie": {
+  "ph": "/'daui; 'dəui/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "道伊（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "dowling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "道林（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "down": {
+  "ph": "/daun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向下的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "下, 下去, 降下",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "往下, 沿著",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "丘陵, 軟毛, 開闊的高地",
+    "def": "soft fine feathers"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 向下, 退下命令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downs｜現在分詞 downing｜過去式 downed｜第三人稱單數 downs｜過去分詞 downed"
+ },
+ "down payment": {
+  "ph": "/daun ˈpeimənt/",
+  "senses": [
+   {
+    "pos": "na.",
+    "zh": "預付定金; 分期付款的首次交款",
+    "def": ""
+   }
+  ]
+ },
+ "down stairs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "下樓",
+    "def": ""
+   }
+  ]
+ },
+ "down under": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "在/向地球另一邊",
+    "def": ""
+   }
+  ]
+ },
+ "down-to-earth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "實際的",
+    "def": ""
+   }
+  ]
+ },
+ "downbeat": {
+  "ph": "/'dajnbi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "強拍, 下降, 低沉, 衰退",
+    "def": "the first beat of a musical measure (as the conductor's arm moves downward)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "悲觀的, 低沉的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downbeats"
+ },
+ "downcast": {
+  "ph": "/'daunkɑ:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氣餒的, 沮喪的",
+    "def": ""
+   }
+  ]
+ },
+ "downdraft": {
+  "ph": "/'daundrɑ:ft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>=downdraught",
+    "def": "a strong downward air current"
+   }
+  ]
+ },
+ "downed": {
+  "ph": "/daund/",
+  "senses": [
+   {
+    "pos": "vbl.",
+    "zh": "擊落",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 downed"
+ },
+ "downer": {
+  "ph": "/'daunә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鎮定劑, 令人沮喪的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downers"
+ },
+ "downes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Downes)人名；(英)唐斯",
+    "def": ""
+   }
+  ]
+ },
+ "downey": {
+  "ph": "/'dauni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唐尼（美國城市）；唐尼（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "downfall": {
+  "ph": "/'daunfɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衰敗, 大雨",
+    "def": "failure that results in a loss of position or reputation"
+   }
+  ],
+  "forms": "複數 downfalls"
+ },
+ "downgrade": {
+  "ph": "/'dajn^reid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "降低, 貶低",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "下坡",
+    "def": "the property possessed by a slope or surface that descends"
+   },
+   {
+    "pos": "adj.",
+    "zh": "下坡",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "下坡",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 downgraded｜過去式 downgraded｜現在分詞 downgrading｜第三人稱單數 downgrades｜複數 downgrades"
+ },
+ "downgraded": {
+  "ph": "/ˈdaunɡreidid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使降低, 使降級( downgrade的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 downgraded｜過去式 downgraded"
+ },
+ "downgrading": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 降級",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downgradings｜現在分詞 downgrading"
+ },
+ "downhearted": {
+  "ph": "/'daun'hɑ:tid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "垂頭喪氣的, 無精打采的, 沮喪的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 downhearted｜過去分詞 downhearted"
+ },
+ "downhill": {
+  "ph": "/'daun'hil/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "下坡的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "下坡, 向下",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downhills"
+ },
+ "downhiller": {
+  "ph": "/'daʊnhɪlə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[體]參加速降滑雪比賽的運動員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downhillers"
+ },
+ "downie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Downie)人名；(英)唐尼",
+    "def": ""
+   }
+  ]
+ },
+ "downing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "唐寧",
+    "def": ""
+   }
+  ]
+ },
+ "downing street": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "唐寧街（倫敦街名）；英國政府；英國首相",
+    "def": ""
+   }
+  ]
+ },
+ "downland": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "丘陵地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downlands"
+ },
+ "downlink": {
+  "ph": "/'dajnliŋk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 下行鏈路",
+    "def": ""
+   }
+  ]
+ },
+ "download": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 解除安裝, 下栽",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 downloaded｜現在分詞 downloading｜過去式 downloaded｜複數 downloads｜第三人稱單數 downloads"
+ },
+ "downloadable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可下載的",
+    "def": ""
+   }
+  ]
+ },
+ "downloaded": {
+  "ph": "/ˈdaunləudid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "將（程式, 資料等）從大計算機系統輸入小計算機系統, 下載( download的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "downloading": {
+  "ph": "/'daunlaudiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下裝, 下載；下傳",
+    "def": ""
+   }
+  ]
+ },
+ "downmarket": {
+  "ph": "/ˌdaʊnˈmɑ:kɪt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（商品或服務）價廉質次的, 下品的, 低檔的",
+    "def": "designed for low-income consumers"
+   }
+  ]
+ },
+ "downpatrick": {
+  "ph": "/,daun'pætrik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唐帕特里克（地名, 英國北愛爾蘭東南部城市）",
+    "def": ""
+   }
+  ]
+ },
+ "downpayment": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分期付款的定金",
+    "def": ""
+   }
+  ]
+ },
+ "downpipe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水落管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downpipes｜第三人稱單數 downpipes"
+ },
+ "downplay": {
+  "ph": "/'daunplei/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "不予重視",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 downplaying｜過去式 downplayed｜過去分詞 downplayed｜第三人稱單數 downplays"
+ },
+ "downpour": {
+  "ph": "/'daunpɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾盆大雨；注下",
+    "def": "a heavy rain"
+   }
+  ],
+  "forms": "複數 downpours"
+ },
+ "downright": {
+  "ph": "/'daunrait/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "明白的, 率直的, 十足的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "全然, 徹底, 完全",
+    "def": ""
+   }
+  ]
+ },
+ "downriver": {
+  "ph": "/'dajn'rivә(r)/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "下游的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向下遊",
+    "def": ""
+   }
+  ]
+ },
+ "downshift": {
+  "ph": "/'daun,ʃift/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(汽車等)調低速檔",
+    "def": ""
+   }
+  ]
+ },
+ "downside": {
+  "ph": "/'daunsaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "底側；下降趨勢",
+    "def": "a negative aspect of something that is generally positive"
+   }
+  ],
+  "forms": "複數 downsides"
+ },
+ "downsize": {
+  "ph": "/daun'saiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "以較小尺寸設計；縮小尺寸；裁減人數",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 downsizing｜過去分詞 downsized｜過去式 downsized"
+ },
+ "downsized": {
+  "ph": "/ˈdaunˌsaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "以較小尺寸設計（或製造）, 縮小（汽車等的）外部尺寸( downsize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "downsizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 小型化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 downsizing"
+ },
+ "downslide": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行市下跌, 工商業下降",
+    "def": ""
+   }
+  ]
+ },
+ "downslope": {
+  "ph": "/'daʊnsləʊp/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "下坡的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向著坡下",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downslopes"
+ },
+ "downspout": {
+  "ph": "/'daunspaut/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 降液管; 溢流管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downspouts"
+ },
+ "downstage": {
+  "ph": "/'daun'steidʒ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向舞臺前方的, 前臺的",
+    "def": "of the front half of a stage"
+   },
+   {
+    "pos": "adv.",
+    "zh": "向舞臺前方, 前臺地",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "舞臺的前半部",
+    "def": "the front half of the stage (as seen from the audience)"
+   }
+  ]
+ },
+ "downstairs": {
+  "ph": "/'daun'stєәz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樓下",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "樓下的",
+    "def": "on or of lower floors of a building"
+   },
+   {
+    "pos": "adv.",
+    "zh": "在樓下",
+    "def": ""
+   }
+  ]
+ },
+ "downstream": {
+  "ph": "/'daun'stri:m/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "下游地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "下游的",
+    "def": "in the direction of a stream's current"
+   }
+  ]
+ },
+ "downstroke": {
+  "ph": "/'daun,strәuk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[冶]下行程(結晶器), [機]下行衝程",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downstrokes"
+ },
+ "downswing": {
+  "ph": "/'dajnswiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下降趨勢",
+    "def": "a swing downward of a golf club"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 向下擺動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downswings｜現在分詞 downswing"
+ },
+ "downtime": {
+  "ph": "/'dauntaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "停工期",
+    "def": "a period of time when something (as a machine or factory) is not operating (especially as a result of malfunctions)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 故障停機時間",
+    "def": ""
+   }
+  ]
+ },
+ "downton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "唐頓",
+    "def": ""
+   }
+  ]
+ },
+ "downtown": {
+  "ph": "/'daun'taun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "市中心區",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "市中心的",
+    "def": "of or located in the lower part of a town, or in the business center"
+   },
+   {
+    "pos": "adv.",
+    "zh": "往鬧市區",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 downtowner"
+ },
+ "downtrodden": {
+  "ph": "/'dajntrɔd(ә)n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被蹂躪的, 受壓制的",
+    "def": ""
+   }
+  ]
+ },
+ "downturn": {
+  "ph": "/'dauntә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(尤指經濟方面的)衰退, 下降趨勢",
+    "def": "a worsening of business or economic activity"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 低迷時期",
+    "def": ""
+   }
+  ],
+  "forms": "複數 downturns｜過去式 downturned"
+ },
+ "downward": {
+  "ph": "/'daunwәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向下的",
+    "def": ""
+   }
+  ]
+ },
+ "downwardly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "向下",
+    "def": ""
+   }
+  ]
+ },
+ "downwards": {
+  "ph": "/'daunwәdz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向下",
+    "def": ""
+   }
+  ]
+ },
+ "downwind": {
+  "ph": "/'daun'wind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "順風的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "順風",
+    "def": ""
+   }
+  ]
+ },
+ "downwinder": {
+  "ph": "/daʊn'wɪnd/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "順風地；在下風(或背風)處；向下風(或背風)處；背風",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "順風的；在下風(或背風處)的；向下風(或背風處)的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "順風 [參較 upwind]",
+    "def": ""
+   }
+  ]
+ },
+ "downy": {
+  "ph": "/'dauni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絨毛的, 柔和的, 有草丘陵地的",
+    "def": ""
+   }
+  ]
+ },
+ "dowry": {
+  "ph": "/'dauәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嫁妝",
+    "def": "money or property brought by a woman to her husband at marriage"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 陪嫁物, 嫁妝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dowries"
+ },
+ "dowse": {
+  "ph": "/dauz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "探尋水源",
+    "def": "use a divining rod in search of underground water or metal"
+   }
+  ],
+  "forms": "現在分詞 dowsing｜過去分詞 dowsed｜過去式 dowsed｜第三人稱單數 dowses"
+ },
+ "dowser": {
+  "ph": "/'dauzә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "探礦者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dowsers"
+ },
+ "dowson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名]道森",
+    "def": ""
+   }
+  ]
+ },
+ "dowty": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人姓氏] 道蒂 Doughty的變體",
+    "def": ""
+   }
+  ]
+ },
+ "doxology": {
+  "ph": "/dɒk'sɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上帝讚美詩, 頌歌, 感謝辭",
+    "def": "a hymn or verse in Christian liturgy glorifying God"
+   }
+  ]
+ },
+ "doxorubicin": {
+  "ph": "/,dɔksәj'ru:bisin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 阿黴素",
+    "def": ""
+   }
+  ]
+ },
+ "doxycycline": {
+  "ph": "/dɔksi'saiklin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 多西環素; 脫氧土黴素; 強力黴素",
+    "def": ""
+   }
+  ]
+ },
+ "doyen": {
+  "ph": "/'dɒiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老資格, 首席, 老前輩",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 領袖, 首席",
+    "def": ""
+   }
+  ],
+  "forms": "複數 doyens"
+ },
+ "doyenne": {
+  "ph": "/dwɑ:'jæŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女性老前輩",
+    "def": "a woman who is the senior member of a group"
+   }
+  ]
+ },
+ "doyle": {
+  "ph": "/dɔil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柯南道爾（英國醫師、小說家、推理小說家）；道爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "doze": {
+  "ph": "/dәuz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "打瞌睡, 假寐",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "打瞌睡度過",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "瞌睡",
+    "def": "a light fitful sleep"
+   }
+  ],
+  "forms": "過去式 dozed｜現在分詞 dozing｜過去分詞 dozed｜複數 dozes｜第三人稱單數 dozes"
+ },
+ "dozen": {
+  "ph": "/'dʌzn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打, 十二個",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "一打的",
+    "def": ""
+   }
+  ]
+ },
+ "dozer": {
+  "ph": "/'dәuzә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打瞌睡的人, 推土機",
+    "def": ""
+   }
+  ]
+ },
+ "dozing": {
+  "ph": "/dəuzɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "打盹兒, 打瞌睡( doze的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dozing"
+ },
+ "dozy": {
+  "ph": "/'dәuzi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "想睡的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 doziest"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "hc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 處理能力, 大容量, 主機",
+    "def": ""
+   }
+  ]
+ },
+ "hci": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "人機相互作用（Human Computer Interaction）；主機控制器介面（host controller interface）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hci"
+ },
+ "hcl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "高生活費（high cost of living）",
+    "def": ""
+   }
+  ]
+ },
+ "hco": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "重迴圈油（heavy cycle oil）",
+    "def": ""
+   }
+  ]
+ }
+}

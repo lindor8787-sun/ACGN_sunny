@@ -1,0 +1,516 @@
+{
+ "it": {
+  "ph": "/it/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "它",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 資訊理論, 輸入終端, 智慧終端, 內捕獲",
+    "def": ""
+   }
+  ]
+ },
+ "it'll": {
+  "ph": "/'itl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "it will的縮寫, it shall的縮寫",
+    "def": ""
+   }
+  ]
+ },
+ "it's": {
+  "ph": "/its/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "it is的縮寫, it has的縮寫",
+    "def": ""
+   }
+  ]
+ },
+ "ita": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）獨立電視",
+    "def": ""
+   }
+  ]
+ },
+ "italia": {
+  "ph": "/i'tɑ:ljɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義大利",
+    "def": ""
+   }
+  ]
+ },
+ "italian": {
+  "ph": "/i'tæljәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義大利人, 義大利語",
+    "def": "a native or inhabitant of Italy"
+   },
+   {
+    "pos": "adj.",
+    "zh": "義大利的, 義大利語的",
+    "def": "of or pertaining to or characteristic of Italy or its people or culture or language"
+   }
+  ],
+  "forms": "複數 italians"
+ },
+ "italianate": {
+  "ph": "/i'tæljәneit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "義大利風格的, 義大利化的",
+    "def": "Italianized; Italianated."
+   },
+   {
+    "pos": "v.",
+    "zh": "有義大利風格",
+    "def": "t. To render Italian, or conformable to Italian"
+   }
+  ]
+ },
+ "italic": {
+  "ph": "/i'tælik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "斜體的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "斜體字, 斜體",
+    "def": "a style of handwriting with the letters slanting to the right"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 斜體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 italics"
+ },
+ "italicise": {
+  "ph": "/i'tælisaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "<主英> = italicize",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 italicised｜現在分詞 italicising｜過去式 italicised"
+ },
+ "italicised": {
+  "ph": "/i'tælisaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用斜體字印刷（等於italicize）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 italicised"
+ },
+ "italicize": {
+  "ph": "/i'tælisaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用斜體字排字, 在字下劃橫線",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 italicized｜過去式 italicized｜現在分詞 italicizing｜第三人稱單數 italicizes"
+ },
+ "italicized": {
+  "ph": "/iˈtælisaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用斜體字排字, 在字下劃橫線( italicize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "italics": {
+  "ph": "/i'tæliks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斜體字",
+    "def": ""
+   }
+  ]
+ },
+ "italy": {
+  "ph": "/'itәli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義大利",
+    "def": "a republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century A"
+   }
+  ]
+ },
+ "itc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 資訊終端公司",
+    "def": ""
+   }
+  ]
+ },
+ "itch": {
+  "ph": "/itʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "癢, 渴望, 疥瘡",
+    "def": "an irritating cutaneous sensation that produces a desire to scratch"
+   },
+   {
+    "pos": "vi.",
+    "zh": "發癢, 渴望",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 itching｜過去式 itched｜複數 itches｜第三人稱單數 itches｜過去分詞 itched"
+ },
+ "itchiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "瘙癢",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "發癢",
+    "def": ""
+   }
+  ]
+ },
+ "itching": {
+  "ph": "/'itʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "渴望的, 癢的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 癢, 瘙癢",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 itching"
+ },
+ "itchy": {
+  "ph": "/'itʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "渴望的, 癢的, 生疥瘡的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 itchiest"
+ },
+ "item": {
+  "ph": "/'aitәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "專案, 條款, 一則, 項",
+    "def": "a distinct part that can be specified separately in a group of things that could be enumerated on a list"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 項",
+    "def": ""
+   }
+  ],
+  "forms": "複數 items"
+ },
+ "itemise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "逐條列記, 分條例舉, 詳細開列, 詳細列明, 分條記述",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 itemising｜過去式 itemised｜過去分詞 itemised｜第三人稱單數 itemises"
+ },
+ "itemised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "詳細列明（等於itemize） (itemise的變形)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 itemised｜過去式 itemised"
+ },
+ "itemize": {
+  "ph": "/'aitәmaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "分條詳述, 詳細列舉",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 分項, 詳細列明",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 itemized｜過去式 itemized｜現在分詞 itemizing｜第三人稱單數 itemizes"
+ },
+ "itemized": {
+  "ph": "/ˈaɪtəˌmaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "列出清單( itemize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 itemized｜過去分詞 itemized"
+ },
+ "items": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "專案；名目；所有物品（item的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "iterate": {
+  "ph": "/'itәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "反覆說, 重複",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 迭代",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 iterating｜過去分詞 iterated｜第三人稱單數 iterates｜過去式 iterated"
+ },
+ "iterated": {
+  "ph": "/ˈɪtəˌreɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "重複( iterate的過去式和過去分詞 ); 反覆申明",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 iterated"
+ },
+ "iteration": {
+  "ph": "/.itә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重複, 反覆說的話",
+    "def": "(computer science) a single execution of a set of instructions that are to be repeated"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 迭代",
+    "def": ""
+   }
+  ],
+  "forms": "複數 iterations"
+ },
+ "iterative": {
+  "ph": "/'itәrәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反覆的, 絮叨的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "反覆體",
+    "def": "the aspect of the verb that expresses the repetition of an action"
+   }
+  ],
+  "forms": "複數 iteratives"
+ },
+ "iteratively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 迭代的",
+    "def": ""
+   }
+  ]
+ },
+ "ith": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫][=infantile transient hypogammaglobulinemia]嬰兒暫時性低丙種球蛋白血癥",
+    "def": ""
+   }
+  ]
+ },
+ "ithaca": {
+  "ph": "/'iθәkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊薩卡島（希臘西部愛奧尼亞海中群島之一）",
+    "def": "a college town in central New York on Lake Cayuga"
+   }
+  ]
+ },
+ "itinerant": {
+  "ph": "/i'tinәrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "巡迴的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "巡迴者",
+    "def": "a laborer who moves from place to place as demanded by employment"
+   }
+  ],
+  "forms": "複數 itinerants"
+ },
+ "itinerary": {
+  "ph": "/ai'tinәrәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅程, 旅行指南, 遊記",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "巡迴的, 旅程的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 itineraries"
+ },
+ "itn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "獨立電視新聞公司（Independent Television News）",
+    "def": ""
+   }
+  ]
+ },
+ "ito": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "國際貿易組織",
+    "def": ""
+   }
+  ]
+ },
+ "its": {
+  "ph": "/its/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "它的",
+    "def": ""
+   }
+  ]
+ },
+ "itself": {
+  "ph": "/it'self/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "它本身, 它自己",
+    "def": "The neuter reciprocal pronoun of It; as, the thing is"
+   }
+  ]
+ },
+ "itt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "國際電話電報公司(美國)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 長途電話中斷線",
+    "def": ""
+   }
+  ]
+ },
+ "itv": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "獨立電視, 工業電視, 教學電視",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 互動式電視, 電視點播",
+    "def": ""
+   }
+  ]
+ },
+ "itzhak": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Itzhak)人名；(以)伊扎克",
+    "def": ""
+   }
+  ]
+ }
+}

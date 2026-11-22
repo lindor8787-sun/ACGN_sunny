@@ -1,0 +1,47 @@
+{
+ "tc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 任務控制, 終端控制, 傳輸控制",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鎝(43號元素)",
+    "def": ""
+   }
+  ]
+ },
+ "tchaikovsky": {
+  "ph": "/tʃai'kɔfski/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柴可夫斯基（人名, 俄國作曲家, 1840-1893）",
+    "def": "important Russian composer whose works are noted for their expressive melodies (1840-1893)"
+   }
+  ]
+ },
+ "tcp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 終端控制程式, 測試檢驗程式, 傳輸控制協議",
+    "def": ""
+   }
+  ]
+ },
+ "tcr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "電阻溫度係數（temperature coefficient of resistance）；技術制導雷達（Tactical Control Radar）",
+    "def": ""
+   }
+  ]
+ }
+}

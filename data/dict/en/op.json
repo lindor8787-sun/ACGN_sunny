@@ -1,0 +1,1626 @@
+{
+ "op": {
+  "ph": "/'әjp/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "觀測所",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 操作, 運算, 算符",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ops｜過去式 opped"
+ },
+ "op. cit.": {
+  "ph": "/'ɔpsit/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "前面引用的書(in the work already quoted)",
+    "def": ""
+   }
+  ]
+ },
+ "opacification": {
+  "ph": "/әupæsifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 渾濁化",
+    "def": ""
+   }
+  ]
+ },
+ "opacity": {
+  "ph": "/әu'pæsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不透明, 電波不透過, 不透明體",
+    "def": "the phenomenon of not permitting the passage of electromagnetic radiation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 渾濁, 不透明, 不透光, 不透明區, 濁斑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opacities"
+ },
+ "opal": {
+  "ph": "/'әupәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛋白石, 貓眼石",
+    "def": "a translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 蛋白石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opals"
+ },
+ "opalescence": {
+  "ph": "/.әupә'lesns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳白光, 蛋白色光",
+    "def": "the visual property of something having a milky brightness and a play of colors from the surface"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 乳光",
+    "def": ""
+   }
+  ]
+ },
+ "opalescent": {
+  "ph": "/.әupә'lesnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "乳白色的, 髮乳光的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 乳光的, 乳色的",
+    "def": ""
+   }
+  ]
+ },
+ "opaque": {
+  "ph": "/әu'peik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不透明物",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "不透明的, 不傳熱的, 不傳導的, 陰暗的",
+    "def": "not transmitting or reflecting light or radiant energy; impenetrable to sight"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 白底",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opaques｜過去式 opaqued"
+ },
+ "opaquely": {
+  "ph": "/ə'peɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不透明地, 無光澤地",
+    "def": ""
+   }
+  ]
+ },
+ "opaqueness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 不透明性; 不透明度",
+    "def": ""
+   }
+  ]
+ },
+ "opcs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "人口普查局(Office of Population Censuses and Surveys)",
+    "def": ""
+   }
+  ]
+ },
+ "opec": {
+  "ph": "/'әjpek/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "歐佩克(石油輸出國家組織)",
+    "def": ""
+   }
+  ]
+ },
+ "opel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德國歐寶汽車",
+    "def": "German industrialist who was the first in Germany to use an assembly line in manufacturing automobiles (1871-1948)"
+   }
+  ]
+ },
+ "open": {
+  "ph": "/'әupәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公開, 戶外, 空曠",
+    "def": "a clear or unobstructed space or expanse of land or water"
+   },
+   {
+    "pos": "adj.",
+    "zh": "開著的, 開放的, 開闊的, 營業著的, 公開的, 懸而未決的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "開啟, 公開, 開放",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "展開, 開始, 展現",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 開啟指令; 開啟語句",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 opened｜過去分詞 opened｜現在分詞 opening｜第三人稱單數 opens"
+ },
+ "open letter": {
+  "ph": "/ˈəupən ˈletə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公開信",
+    "def": ""
+   }
+  ]
+ },
+ "open market": {
+  "ph": "/ˈəupən ˈmɑ:kit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "公開市場",
+    "def": ""
+   }
+  ]
+ },
+ "open university": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 開發大學計算機系統",
+    "def": ""
+   }
+  ]
+ },
+ "open-air": {
+  "ph": "/'әjpən'eә(r)/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "戶外的, 野外的, 露天的",
+    "def": ""
+   }
+  ]
+ },
+ "open-book": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "開卷的",
+    "def": ""
+   }
+  ]
+ },
+ "open-door": {
+  "ph": "/'әjpən'dɔ:(r)/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "公開的, 門戶開放的",
+    "def": ""
+   }
+  ]
+ },
+ "open-ended": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可修訂的, 可調整的, 無確定答案的, 末端開口的, 自由回答的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 可擴充的",
+    "def": ""
+   }
+  ]
+ },
+ "open-minded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "思想開闊的, 無偏見的",
+    "def": ""
+   }
+  ]
+ },
+ "opencast": {
+  "ph": "/'әupәnkɑ:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "露天開採的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 opencasting"
+ },
+ "opened": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "開啟, 開啟（open過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 opened｜過去分詞 opened"
+ },
+ "opener": {
+  "ph": "/'әupәnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開...的人, 開局人, 開創人, 開具, 開啟工具, 首項",
+    "def": "the first event in a series"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 申請開證人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 openers"
+ },
+ "opening": {
+  "ph": "/'әupәniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開始, 口子, 穴, 揭幕",
+    "def": "an open or empty space in or between things"
+   },
+   {
+    "pos": "adj.",
+    "zh": "開始的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 opening｜複數 openings"
+ },
+ "opening night": {
+  "ph": "/ˈəupəniŋ nait/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（戲等）上演的第一夜",
+    "def": ""
+   }
+  ]
+ },
+ "openly": {
+  "ph": "/'әjpәnli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "公開地, 坦率地, 直率地, 公然地",
+    "def": ""
+   }
+  ]
+ },
+ "openness": {
+  "ph": "/'әupәnnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公開；寬闊；率真",
+    "def": "without obstructions to passage or view"
+   }
+  ]
+ },
+ "openwork": {
+  "ph": "/'әupәnwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "透孔織物, 透雕細工",
+    "def": "ornamental work (such as embroidery or latticework) having a pattern of openings"
+   }
+  ]
+ },
+ "opera": {
+  "ph": "/'ɒpәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌劇",
+    "def": "a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes"
+   }
+  ],
+  "forms": "複數 operas"
+ },
+ "opera house": {
+  "ph": "/ˈɔpərə haus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌劇院",
+    "def": ""
+   }
+  ]
+ },
+ "operability": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可操作性",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 操作性",
+    "def": ""
+   }
+  ]
+ },
+ "operable": {
+  "ph": "/'ɒpәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可操作的, 可實施的, 可手術治療的",
+    "def": "capable of being treated by surgical operation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 可行手術的",
+    "def": ""
+   }
+  ]
+ },
+ "operand": {
+  "ph": "/'ɔpә,rænd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 運算物件",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 運算元, 運算數, 運算物件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 operands"
+ },
+ "operant": {
+  "ph": "/'ɔpәrənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發生作用之人或物, 工作之人或物",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "動作的",
+    "def": ""
+   }
+  ]
+ },
+ "operate": {
+  "ph": "/'ɒpәreit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "操作, 運轉, 動手術, 活動",
+    "def": "direct or control; projects, businesses, etc."
+   }
+  ],
+  "forms": "現在分詞 operating｜過去分詞 operated｜第三人稱單數 operates｜過去式 operated"
+ },
+ "operatic": {
+  "ph": "/.ɒpә'rætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "歌劇的, 歌劇風格的",
+    "def": "of or relating to or characteristic of opera"
+   }
+  ],
+  "forms": "複數 operatics"
+ },
+ "operating": {
+  "ph": "/'ɔpәreitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "操作的, 工作的, 營業上的, 業務的, 關於收支的, 關於損益的, 外科手術的",
+    "def": "involved in a kind of operation"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 運轉費用",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 operating"
+ },
+ "operating system": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "作業系統",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 作業系統",
+    "def": ""
+   }
+  ]
+ },
+ "operation": {
+  "ph": "/.ɒpә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "操作, 動作, 手術, 運算, 作用, 業務",
+    "def": "the state of being in effect or being operative"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 運算",
+    "def": ""
+   }
+  ],
+  "forms": "複數 operations"
+ },
+ "operational": {
+  "ph": "/.ɒpә'reiʃәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "操作的, 運作的",
+    "def": "pertaining to a process or series of actions for achieving a result"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 操作上的, 業務上的, 可起作用的",
+    "def": ""
+   }
+  ]
+ },
+ "operationalization": {
+  "ph": "/ˌɒpə'reɪʃənəlaɪzeɪʃəŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "操作化",
+    "def": ""
+   }
+  ]
+ },
+ "operationalize": {
+  "ph": "/,ɔpә'reiʃәnlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使用於操作,使開始運轉,實施",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 operationalized｜現在分詞 operationalizing｜過去式 operationalized"
+ },
+ "operationally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "運作上",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "操作上",
+    "def": ""
+   }
+  ]
+ },
+ "operative": {
+  "ph": "/'ɒpәrәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "動作的, 運轉的, 有效的, 關鍵的, 手術的",
+    "def": "being in force or having or exerting force"
+   },
+   {
+    "pos": "n.",
+    "zh": "技工, 偵探",
+    "def": ""
+   }
+  ],
+  "forms": "複數 operatives"
+ },
+ "operator": {
+  "ph": "/'ɒpәreitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "操作員, 行家, 經紀人, 運算元, 運算子",
+    "def": "(mathematics) a symbol or function representing a mathematical operation"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 運算子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 operators"
+ },
+ "operetta": {
+  "ph": "/.ɒpә'retә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小歌劇, 輕歌劇",
+    "def": "a short amusing opera"
+   }
+  ],
+  "forms": "複數 operettas"
+ },
+ "ophelia": {
+  "ph": "/әu'fi:liә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧菲莉婭(①女子名 ②莎士比亞劇作《哈姆雷特》中女主人公名)",
+    "def": ""
+   }
+  ]
+ },
+ "ophthalmic": {
+  "ph": "/ɒf'θælmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "眼睛的, 眼科的, 眼炎的, 眼用的",
+    "def": "of or relating to the eye"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 眼的",
+    "def": ""
+   }
+  ]
+ },
+ "ophthalmologic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "眼科學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 眼科學的",
+    "def": ""
+   }
+  ]
+ },
+ "ophthalmologist": {
+  "ph": "/.ɒfθæl'mɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "眼科醫師",
+    "def": "a medical doctor specializing in the diagnosis and treatment of diseases of the eye"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 眼科學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ophthalmologists"
+ },
+ "ophthalmology": {
+  "ph": "/.ɒfθæl'mɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "眼科學",
+    "def": "the branch of medicine concerned with the eye and its diseases"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 眼科學",
+    "def": ""
+   }
+  ]
+ },
+ "opiate": {
+  "ph": "/'әupiit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鴉片製劑, 鎮靜劑",
+    "def": "a narcotic drug that contains opium or an opium derivative"
+   },
+   {
+    "pos": "adj.",
+    "zh": "含鴉片的, 催眠的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使麻醉, 使緩和",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opiates｜第三人稱單數 opiates"
+ },
+ "opie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Opie)人名；(英)奧佩",
+    "def": "Opium."
+   }
+  ]
+ },
+ "opine": {
+  "ph": "/әu'pain/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "想, 以為",
+    "def": "express one's opinion openly and without fear or hesitation"
+   }
+  ],
+  "forms": "過去式 opined｜第三人稱單數 opines｜現在分詞 opining｜複數 opines｜過去分詞 opined"
+ },
+ "opinion": {
+  "ph": "/ә'pinjәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "意見, 評價, 主張",
+    "def": "a personal belief or judgment that is not founded on proof or certainty"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 意見",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opinions"
+ },
+ "opinion poll": {
+  "ph": "/əˈpinjən pəul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "選舉投票, 民意測驗",
+    "def": ""
+   }
+  ]
+ },
+ "opinionate": {
+  "ph": "/ə'pɪnjəneɪt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "以意見為依據的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 opinionated｜過去分詞 opinionated"
+ },
+ "opinionated": {
+  "ph": "/ә'pinjәneitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "固執己見的, 武斷的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 opinionated｜過去分詞 opinionated"
+ },
+ "opioid": {
+  "ph": "/əʊ'pi:əʊɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "類鴉片（引起）的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "類鴉片活性肽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opioids"
+ },
+ "opium": {
+  "ph": "/'әupjәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鴉片",
+    "def": "an addictive narcotic extracted from seed capsules of the opium poppy"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 阿片; 鴉片",
+    "def": ""
+   }
+  ]
+ },
+ "oporto": {
+  "ph": "/әu'pɔ:tu:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(=Porto)波爾圖(葡萄牙港市)",
+    "def": ""
+   }
+  ]
+ },
+ "opossum": {
+  "ph": "/ә'pɒsәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "負鼠科",
+    "def": "nocturnal arboreal marsupial having a naked prehensile tail found from southern North America to northern South America"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 負鼠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opossums"
+ },
+ "oppenheim": {
+  "ph": "/'ɔpәnhaim/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧本海姆(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "oppenheimer": {
+  "ph": "/'ɔpәnhaimә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧本海默(①姓氏 ②Julius Robert, 1904-1967, 美國原子物理學家, 原子彈計劃主持人)",
+    "def": ""
+   }
+  ]
+ },
+ "opponent": {
+  "ph": "/ә'pәunәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對手, 敵手, 反對者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "敵對的, 反對的, 對面的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opponents"
+ },
+ "opportune": {
+  "ph": "/.ɒpә'tju:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "恰好的, 時機適宜的, 適當的",
+    "def": "suitable or at a time that is suitable or advantageous especially for a particular purpose"
+   }
+  ]
+ },
+ "opportunism": {
+  "ph": "/.ɒpә'tju:nizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機會主義",
+    "def": "taking advantage of opportunities without regard for the consequences for others"
+   }
+  ]
+ },
+ "opportunist": {
+  "ph": "/.ɒpә'tju:nist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機會主義者, 投機取巧者",
+    "def": "a person who places expediency above principle"
+   }
+  ],
+  "forms": "複數 opportunists"
+ },
+ "opportunistic": {
+  "ph": "/.ɒpәtju:'nistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "機會主義的, 投機取巧的",
+    "def": ""
+   }
+  ]
+ },
+ "opportunistically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "opportunistic的變形",
+    "def": ""
+   }
+  ]
+ },
+ "opportunities": {
+  "ph": "/ˌɒpə'tju:nɪtɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機會( opportunity的名詞複數 ); 適當的時機; 條件; 就業（或晉升、進步等）的良機",
+    "def": ""
+   }
+  ]
+ },
+ "opportunity": {
+  "ph": "/.ɒpә'tju:niti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機會, 時機",
+    "def": "a possibility due to a favorable combination of circumstances"
+   }
+  ],
+  "forms": "複數 opportunities"
+ },
+ "opposable": {
+  "ph": "/ә'pәuzәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可反對的, 可對抗的, 可對立的",
+    "def": "capable of being placed opposite to something"
+   }
+  ]
+ },
+ "oppose": {
+  "ph": "/ә'pәuz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "反對, 以...對抗, 抗爭",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "反對",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 opposed｜過去式 opposed｜現在分詞 opposing｜第三人稱單數 opposes"
+ },
+ "opposed": {
+  "ph": "/ә'pәuzd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反對的, 敵對的, 對抗的, 相對的",
+    "def": "being in opposition or having an opponent"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 反對的, 相反的, 對立的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 opposed｜過去分詞 opposed"
+ },
+ "opposed to": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "反對；反對…的",
+    "def": ""
+   }
+  ]
+ },
+ "opposing": {
+  "ph": "/ә'pәuziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "對面的, 反對的, 相反的, 相對的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 opposing"
+ },
+ "opposite": {
+  "ph": "/'ɒpәzit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相對的, 相反的, 對面的",
+    "def": "of leaves etc; growing in pairs on either side of a stem"
+   },
+   {
+    "pos": "prep.",
+    "zh": "對面",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "對立面",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opposites"
+ },
+ "opposite number": {
+  "ph": "/ˈɔpəzit ˈnʌmbə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對應的人, 對應的物",
+    "def": ""
+   }
+  ]
+ },
+ "opposite sex": {
+  "ph": "/ˈɔpəzit seks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "異性",
+    "def": ""
+   }
+  ]
+ },
+ "oppositely": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "對面, 對立, 相反, 相對",
+    "def": ""
+   }
+  ]
+ },
+ "opposition": {
+  "ph": "/.ɒpә'ziʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反對, 敵對, 相反, 在野黨",
+    "def": "the relation between opposed entities"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 對生, 對向, 反抗, 反對症",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oppositions"
+ },
+ "oppositional": {
+  "ph": "/,ɔpә'ziʃənәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反對的, 對抗的",
+    "def": ""
+   }
+  ]
+ },
+ "oppositionist": {
+  "ph": "/,ɔpә'ziʃənist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反對黨人,反對派成員",
+    "def": "One who belongs to the opposition party."
+   }
+  ],
+  "forms": "複數 oppositionists"
+ },
+ "oppress": {
+  "ph": "/ә'pres/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "壓迫, 壓抑, 使煩惱",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 oppressed｜過去式 oppressed｜現在分詞 oppressing｜第三人稱單數 oppresses"
+ },
+ "oppressed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受壓制的, 受壓迫的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 oppressed｜過去式 oppressed"
+ },
+ "oppression": {
+  "ph": "/ә'preʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壓抑, 沉悶, 壓迫手段",
+    "def": "the act of subjugating by cruelty"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 壓迫, 壓抑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oppressions"
+ },
+ "oppressive": {
+  "ph": "/ә'presiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "壓制性的, 壓迫的, 沉重的",
+    "def": ""
+   }
+  ]
+ },
+ "oppressively": {
+  "ph": "/ə'presɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "沉重地; 煩悶地; 壓迫地",
+    "def": ""
+   }
+  ]
+ },
+ "oppressiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "壓迫",
+    "def": ""
+   }
+  ]
+ },
+ "oppressor": {
+  "ph": "/ә'presә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壓迫者, 壓制者",
+    "def": "a person of authority who subjects others to undue pressures"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 壓迫者, 壓制者, 強迫者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oppressors"
+ },
+ "opprobrious": {
+  "ph": "/ә'prәubriәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嘴不乾淨的, 無禮的, 粗野的, 辱罵的, 該罵的",
+    "def": ""
+   }
+  ]
+ },
+ "opprobrium": {
+  "ph": "/ә'prәubriәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汙名, 恥辱, 咒罵",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 輕蔑, 責罵, 不名譽",
+    "def": ""
+   }
+  ]
+ },
+ "oprah": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧普拉（美國電視節目主持人）",
+    "def": ""
+   }
+  ]
+ },
+ "opt": {
+  "ph": "/ɒpt/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "選擇",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 opting｜過去分詞 opted｜過去式 opted｜第三人稱單數 opts"
+ },
+ "opt-out": {
+  "ph": "/ɔpt aut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自願退出; 不參加",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opt-outs"
+ },
+ "optic": {
+  "ph": "/'ɒptik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "眼睛的, 視覺的, 光學的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "鏡片",
+    "def": ""
+   }
+  ]
+ },
+ "optical": {
+  "ph": "/'ɒptikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "眼睛的, 視覺的, 光學的",
+    "def": "of or relating to or involving light or optics"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 光學上的, 光學的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opticals"
+ },
+ "optically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "眼睛地；視力地；光學地",
+    "def": ""
+   }
+  ]
+ },
+ "optician": {
+  "ph": "/ɒp'tiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光學儀器商, 眼鏡商, 光學儀器製造廠",
+    "def": "a worker who makes glasses for remedying defects of vision"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 眼鏡師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 opticians"
+ },
+ "optics": {
+  "ph": "/'ɒptiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光學",
+    "def": "the branch of physics that studies the physical properties of light"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 光學",
+    "def": ""
+   }
+  ]
+ },
+ "optimal": {
+  "ph": "/'ɒptimәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最佳的, 最理想的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 最優的",
+    "def": ""
+   }
+  ]
+ },
+ "optimality": {
+  "ph": "/,ɔpti'mæliti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 最佳性",
+    "def": ""
+   }
+  ]
+ },
+ "optimally": {
+  "ph": "/'əptəməli/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "最佳",
+    "def": ""
+   }
+  ]
+ },
+ "optimisation": {
+  "ph": "/ɒptɪmaɪ'seɪʃən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]最佳化, 最優法; 最最佳化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 optimisations"
+ },
+ "optimise": {
+  "ph": "/'ɒptɪmaɪz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使最最佳化, 使儘可能有效",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 optimised｜現在分詞 optimising｜過去式 optimised｜第三人稱單數 optimises"
+ },
+ "optimised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最佳化的, 最佳的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 optimised｜過去分詞 optimised"
+ },
+ "optimism": {
+  "ph": "/'ɒptimizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樂觀主義, 樂觀, 樂天",
+    "def": "the optimistic feeling that all is going to turn out well"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 樂觀主義, 樂觀",
+    "def": ""
+   }
+  ]
+ },
+ "optimist": {
+  "ph": "/'ɔptimist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樂觀者, 樂觀主義者",
+    "def": "a person disposed to take a favorable view of things"
+   }
+  ],
+  "forms": "複數 optimists"
+ },
+ "optimistic": {
+  "ph": "/.ɒpti'mistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "樂觀的, 樂觀主義的, 樂天的",
+    "def": "expecting the best in this best of all possible worlds"
+   }
+  ]
+ },
+ "optimistically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "樂觀地；樂天地",
+    "def": ""
+   }
+  ]
+ },
+ "optimization": {
+  "ph": "/.ɒptimai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "最佳化, 最最佳化",
+    "def": "the act of rendering optimal"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 最佳化",
+    "def": ""
+   }
+  ]
+ },
+ "optimize": {
+  "ph": "/'ɒptimaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使完美, 使完善, 充分利用, 樂觀地對待, 最佳化",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "持樂觀態度",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 最佳化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 optimized｜現在分詞 optimizing｜第三人稱單數 optimizes｜過去式 optimized"
+ },
+ "optimized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最佳化的；儘量充分利用",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 optimized"
+ },
+ "optimizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 最佳化, 最佳化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 optimizing"
+ },
+ "optimum": {
+  "ph": "/'ɒptimәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "最適條件, 最佳效果",
+    "def": "most favorable conditions or greatest degree or amount possible under given circumstances"
+   },
+   {
+    "pos": "adj.",
+    "zh": "最優的, 最適宜的",
+    "def": ""
+   }
+  ]
+ },
+ "option": {
+  "ph": "/'ɒpʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "選擇權, 挑選, 選項",
+    "def": "the right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 選項",
+    "def": ""
+   }
+  ],
+  "forms": "複數 options"
+ },
+ "optional": {
+  "ph": "/'ɒpʃәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可選擇的, 隨意的",
+    "def": "possible but not necessary; left to personal choice"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 選購的",
+    "def": ""
+   }
+  ]
+ },
+ "optionally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "隨意地",
+    "def": ""
+   }
+  ]
+ },
+ "options": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "選擇；期權；選擇項（option的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "optoelectronic": {
+  "ph": "/,ɔptәuilek'trɔnik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 光電子的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 optoelectronics"
+ },
+ "optometrist": {
+  "ph": "/ɒp'tɒmitrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驗光師, 配鏡師",
+    "def": "a person skilled in testing for defects of vision in order to prescribe corrective glasses"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 驗光師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 optometrists"
+ },
+ "optometry": {
+  "ph": "/ɒp'tɒmitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "視力測定(法), 驗光配鏡(法)",
+    "def": "the practice of an optometrist"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 視力測定法, 驗光[法]",
+    "def": ""
+   }
+  ]
+ },
+ "opulence": {
+  "ph": "/'ɒpjulәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "富裕, 豐富, 大量",
+    "def": ""
+   }
+  ]
+ },
+ "opulent": {
+  "ph": "/'ɒpjulәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "富裕的, 豪華的, 奢侈的, 豐富的, 大量的",
+    "def": ""
+   }
+  ]
+ },
+ "opus": {
+  "ph": "/'әupәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "作品",
+    "def": ""
+   }
+  ]
+ }
+}

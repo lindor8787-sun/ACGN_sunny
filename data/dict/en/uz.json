@@ -1,0 +1,28 @@
+{
+ "uzbek": {
+  "ph": "/'uzbek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏茲別克語；烏茲別克人；烏茲別克族",
+    "def": "a member of a Turkic people of Uzbekistan and neighboring areas"
+   },
+   {
+    "pos": "adj.",
+    "zh": "烏茲別克族的；烏茲別克人的；烏茲別克語的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 uzbeks"
+ },
+ "uzbekistan": {
+  "ph": "/,uzbeki'stɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏茲別克",
+    "def": "a landlocked republic in west central Asia; formerly an Asian soviet"
+   }
+  ]
+ }
+}

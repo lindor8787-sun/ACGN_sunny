@@ -1,0 +1,1461 @@
+{
+ "nu": {
+  "ph": "/nju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘字母第13字",
+    "def": "the 13th letter of the Greek alphabet"
+   }
+  ],
+  "forms": "複數 nus｜比較級 nuer"
+ },
+ "nuance": {
+  "ph": "/nju:'ɑ:ns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細微差別",
+    "def": "a subtle difference in meaning or opinion or attitude"
+   }
+  ],
+  "forms": "複數 nuances｜過去分詞 nuanced｜現在分詞 nuancing"
+ },
+ "nuanced": {
+  "ph": "/'nju:ɔnst, 'nu:-';nju:'ɔnst/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(色彩、音調、措詞、意味、香韻、感情等)有細微差別的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 nuanced"
+ },
+ "nub": {
+  "ph": "/nʌb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小塊, 瘤, 結節, 要點",
+    "def": "a small lump or protuberance"
+   }
+  ],
+  "forms": "複數 nubs"
+ },
+ "nubbin": {
+  "ph": "/'nʌbin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小瘤, 小節, (玉蜀黍)發育不良的穗",
+    "def": "a small nub (especially an undeveloped fruit or ear of corn)"
+   }
+  ],
+  "forms": "複數 nubbins"
+ },
+ "nubby": {
+  "ph": "/'nʌbi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有瘤的, 有節的, 塊狀的",
+    "def": ""
+   }
+  ]
+ },
+ "nubian": {
+  "ph": "/'nju:biәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "努比亞人",
+    "def": "a native or inhabitant of Nubia"
+   },
+   {
+    "pos": "adj.",
+    "zh": "努比亞人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nubians"
+ },
+ "nubile": {
+  "ph": "/'nju:bail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適婚的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 適合結婚的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nubiles"
+ },
+ "nucella": {
+  "ph": "/n'ju:slə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]珠心",
+    "def": ""
+   }
+  ]
+ },
+ "nuclear": {
+  "ph": "/'nju:kliә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "核子的, 原子能的, 核的, 中心的",
+    "def": "(weapons) deriving destructive energy from the release of atomic energy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 核的",
+    "def": ""
+   }
+  ]
+ },
+ "nuclear reactor": {
+  "ph": "/ˈnju:kliə ri:ˈæktə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核反應堆",
+    "def": ""
+   }
+  ]
+ },
+ "nuclearization": {
+  "ph": "/,nju:kliәrai'zeiʃәn; -ri'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提供核武器[核動力]",
+    "def": ""
+   }
+  ]
+ },
+ "nucleate": {
+  "ph": "/'nju:klieit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)成核",
+    "def": "form into a nucleus"
+   },
+   {
+    "pos": "adj.",
+    "zh": "有核的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 nucleating｜過去式 nucleated｜第三人稱單數 nucleates｜過去分詞 nucleated"
+ },
+ "nucleated": {
+  "ph": "/etɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）成核( nucleate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 nucleated"
+ },
+ "nucleation": {
+  "ph": "/,nju:kli'eiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 成核作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nucleations"
+ },
+ "nuclei": {
+  "ph": "/'nju:kliai/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "核心, 核子, 原子核",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 核",
+    "def": ""
+   }
+  ]
+ },
+ "nucleic": {
+  "ph": "/nju:'kli:ik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "核的",
+    "def": ""
+   }
+  ]
+ },
+ "nucleon": {
+  "ph": "/'nju:kliɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核子",
+    "def": "a constituent (proton or neutron) of an atomic nucleus"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 核子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nucleons"
+ },
+ "nucleoside": {
+  "ph": "/'nju:kliәsaid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 核苷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 核甙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nucleosides"
+ },
+ "nucleosynthesis": {
+  "ph": "/,nju:kliәu'sinθisis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 核合成; 元素的核合成",
+    "def": ""
+   }
+  ]
+ },
+ "nucleotide": {
+  "ph": "/'nju:kliәtaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核苷酸",
+    "def": "a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 核苷酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nucleotides"
+ },
+ "nucleus": {
+  "ph": "/'nju:kliәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核心, 核子, 原子核, 起點",
+    "def": "a part of the cell containing DNA and RNA and responsible for growth and reproduction"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 核心程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nuclei"
+ },
+ "nuclide": {
+  "ph": "/'nju:klaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核素",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 核素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nuclides"
+ },
+ "nude": {
+  "ph": "/nju:d/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裸的, 肉色的, 無裝飾的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "裸體畫, 裸體",
+    "def": "a painting of a naked human figure"
+   }
+  ],
+  "forms": "複數 nudes｜比較級 nuder"
+ },
+ "nudge": {
+  "ph": "/nʌdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用肘輕推, 推動, 討厭傢伙",
+    "def": "a slight push or shake"
+   }
+  ],
+  "forms": "過去式 nudged｜現在分詞 nudging｜過去分詞 nudged｜第三人稱單數 nudges｜複數 nudges"
+ },
+ "nudist": {
+  "ph": "/'nju:dist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裸體主義者",
+    "def": "a person who practices nudity for reasons of health or religion"
+   }
+  ],
+  "forms": "複數 nudists"
+ },
+ "nudity": {
+  "ph": "/'nju:diti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裸露, 裸露物, 裸體像",
+    "def": ""
+   }
+  ]
+ },
+ "nuffield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Nuffield)人名；(英)納菲爾德",
+    "def": "British industrialist who manufactured automobiles and created a philanthropic foundation (1877-1963)"
+   }
+  ]
+ },
+ "nugatory": {
+  "ph": "/'nju:gәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無價值的, 無用的, 無效的, 瑣碎的",
+    "def": ""
+   }
+  ]
+ },
+ "nugent": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Nugent)人名；(英)紐金特",
+    "def": ""
+   }
+  ]
+ },
+ "nugget": {
+  "ph": "/'nʌgit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金塊, 貴金屬塊, 小塊",
+    "def": "a solid lump of a precious metal (especially gold) as found in the earth"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 熔核",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nuggets｜第三人稱單數 nuggets"
+ },
+ "nuisance": {
+  "ph": "/'nju:sns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "討厭的東西, 討厭的人, 損害",
+    "def": "(law) a broad legal concept including anything that disturbs the reasonable use of your property or endangers life and health or is offensive"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 損害, 討厭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nuisances"
+ },
+ "nuit": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "努特（埃及神話中的天空之神）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nuits"
+ },
+ "nuj": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英）全國記者協會（National Union of Journalists）",
+    "def": ""
+   }
+  ]
+ },
+ "nuke": {
+  "ph": "/nju:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核武器, 核電廠, 原子核",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "以核武器攻擊, 把...打垮",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "核武器的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nukes｜過去分詞 nuked｜現在分詞 nuking｜過去式 nuked｜第三人稱單數 nukes"
+ },
+ "null": {
+  "ph": "/nʌl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無效力的, 無效的, 無價值的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "零, 空, 零位",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 空",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 nulling｜過去分詞 nulled｜過去式 nulled｜複數 nulls｜第三人稱單數 nulls"
+ },
+ "nullification": {
+  "ph": "/.nʌlifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無效, 廢棄, 取消",
+    "def": "the states'-rights doctrine that a state can refuse to recognize or to enforce a federal law passed by the United States Congress"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無效, 廢棄, 取消",
+    "def": ""
+   }
+  ]
+ },
+ "nullify": {
+  "ph": "/'nʌlifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使無效, 廢棄, 取消",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 使等於零; 作廢",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 nullified｜現在分詞 nullifying｜過去式 nullified｜第三人稱單數 nullifies"
+ },
+ "nullity": {
+  "ph": "/'nʌliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無效, 無效行為, 無效證書",
+    "def": "something that is null (especially an enactment that has no legal validity)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無效, 作廢, 無效的行為",
+    "def": ""
+   }
+  ]
+ },
+ "num": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "號碼（number）；數字（numeral）",
+    "def": ""
+   }
+  ]
+ },
+ "numb": {
+  "ph": "/nʌm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "麻木的, 失去知覺的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使麻木, 使昏迷, 使失去知覺",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 numbed｜現在分詞 numbing｜第三人稱單數 numbs｜過去式 numbed｜比較級 number"
+ },
+ "numbed": {
+  "ph": "/nʌmd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使麻木, 使麻痺( numb的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 numbed｜過去式 numbed"
+ },
+ "number": {
+  "ph": "/'nʌmbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "數, 數字, 數目, 號碼",
+    "def": "the property possessed by a sum or total or indefinite quantity of units or individuals"
+   },
+   {
+    "pos": "vt.",
+    "zh": "數, 計算, 共計",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "計算, 報數",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 數字",
+    "def": ""
+   }
+  ],
+  "forms": "複數 numbers｜過去分詞 numbered｜過去式 numbered｜現在分詞 numbering｜第三人稱單數 numbs"
+ },
+ "number one": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "自己, 自己的利益, 頭號, 頭等",
+    "def": ""
+   }
+  ]
+ },
+ "number plate": {
+  "ph": "/ˈnʌmbə pleit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（車輛的）牌照, 號碼牌; （住宅的）門牌",
+    "def": ""
+   }
+  ]
+ },
+ "numbered": {
+  "ph": "/'nʌmbәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "計數的, 編號的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 numbered｜過去式 numbered"
+ },
+ "numbering": {
+  "ph": "/'nʌmbәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "編號方式",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 編號方式",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 numbering"
+ },
+ "numberless": {
+  "ph": "/'nʌmbәlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無數的, 無號數的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 無數的, 數不清的",
+    "def": ""
+   }
+  ]
+ },
+ "numbing": {
+  "ph": "/'nʌmiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使失去感覺的；使麻木的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 numbing"
+ },
+ "numbly": {
+  "ph": "/'nʌmli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "失去知覺, 麻木",
+    "def": ""
+   }
+  ]
+ },
+ "numbness": {
+  "ph": "/'nʌmnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻木, 麻痺",
+    "def": "partial or total lack of sensation in a part of the body; a symptom of nerve damage or dysfunction"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 麻木",
+    "def": ""
+   }
+  ]
+ },
+ "numbskull": {
+  "ph": "/'nʌmskʌl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(=numskull)笨蛋, 傻瓜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 numbskulls"
+ },
+ "numeracy": {
+  "ph": "/'njumәrәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "識數,計算能力",
+    "def": "skill with numbers and mathematics"
+   }
+  ]
+ },
+ "numeral": {
+  "ph": "/'nju:mәrәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "數字, 數",
+    "def": "a symbol used to represent a number"
+   },
+   {
+    "pos": "adj.",
+    "zh": "數字的, 表示數字的",
+    "def": "of or relating to or denoting numbers"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 數字",
+    "def": ""
+   }
+  ],
+  "forms": "複數 numerals"
+ },
+ "numerate": {
+  "ph": "/'nju:mәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "算出來, 列舉, 讀出",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 numerating｜過去式 numerated｜第三人稱單數 numerates｜過去分詞 numerated"
+ },
+ "numeration": {
+  "ph": "/.nju:mә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計算, 命數法, 數字的讀法",
+    "def": "naming numbers"
+   }
+  ]
+ },
+ "numerator": {
+  "ph": "/'nju:mәreitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分子, 計算者, 計算的東西",
+    "def": "the dividend of a fraction"
+   }
+  ],
+  "forms": "複數 numerators"
+ },
+ "numeric": {
+  "ph": "/nju:'merik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "數值的, 數字的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "數, 數字",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 數字的; 數值; 數值的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 numerics"
+ },
+ "numerical": {
+  "ph": "/nju:'merikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "數字的, 數值的, 以數字表示的, 擅長於計數的",
+    "def": "relating to or having ability to think in or work with numbers"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 數字的, 用數字表示的",
+    "def": ""
+   }
+  ]
+ },
+ "numerically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "數字, 數值, 用數字表示",
+    "def": ""
+   }
+  ]
+ },
+ "numerology": {
+  "ph": "/.nju:mә'rɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "命理學；數字命理學",
+    "def": "the study of the supposed occult influence of numbers on human affairs"
+   }
+  ]
+ },
+ "numerous": {
+  "ph": "/'nju:mәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "很多的, 數目眾多的, 多數的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 多數的, 甚多的",
+    "def": ""
+   }
+  ]
+ },
+ "numinous": {
+  "ph": "/'nju:minәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精神上的, 超自然的",
+    "def": "of or relating to or characteristic of a numen"
+   }
+  ]
+ },
+ "numismatic": {
+  "ph": "/.nju:miz'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貨幣的, 獎章的, 古幣學的",
+    "def": "Alt. of Numismatical"
+   }
+  ]
+ },
+ "numismatist": {
+  "ph": "/nju:'mizmәtist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錢幣(或獎章)收藏家",
+    "def": "a collector and student of money (and coins in particular)"
+   }
+  ],
+  "forms": "複數 numismatists"
+ },
+ "nun": {
+  "ph": "/nʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修女, 尼姑",
+    "def": "a woman religious"
+   }
+  ],
+  "forms": "複數 nuns"
+ },
+ "nunc": {
+  "ph": "/'nʌŋk/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "nuncupative 口述的",
+    "def": ""
+   }
+  ]
+ },
+ "nunciature": {
+  "ph": "/'nʌnʃiәtʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羅馬教皇使節之職",
+    "def": "The office of a nuncio."
+   }
+  ]
+ },
+ "nuncio": {
+  "ph": "/'nʌnʃiәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羅馬教廷大使",
+    "def": "(Roman Catholic Church) a diplomatic representative of the Pope having ambassadorial status"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 羅馬教王的使節, 教廷大使",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nuncios"
+ },
+ "nuneaton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐尼頓（英國城市）",
+    "def": ""
+   }
+  ]
+ },
+ "nunn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Nunn)人名；(英)納恩；(匈)努恩",
+    "def": ""
+   }
+  ]
+ },
+ "nunnery": {
+  "ph": "/'nʌnәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女修道院, 尼姑庵",
+    "def": "the convent of a community of nuns"
+   }
+  ],
+  "forms": "複數 nunneries"
+ },
+ "nupe": {
+  "ph": "/'nu:pei/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "National Union of Public Employees(英國)全國公務員聯合會",
+    "def": ""
+   }
+  ]
+ },
+ "nuptial": {
+  "ph": "/'nʌpʃәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婚禮",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "婚姻的, 婚禮的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nuptials"
+ },
+ "nuptials": {
+  "ph": "/ˈnʌpʃlz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婚禮; 婚禮( nuptial的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "nur": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "全國鐵路工人聯合會（National Union of Railwaymen）",
+    "def": ""
+   }
+  ]
+ },
+ "nuremberg": {
+  "ph": "/'njurәmbә:g/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐倫堡",
+    "def": "a city in southeastern Germany; site of Allied trials of Nazi war criminals (1945-46)"
+   }
+  ]
+ },
+ "nurse": {
+  "ph": "/nә:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "護士, 保姆, 奶媽",
+    "def": "one skilled in caring for young children or the sick (usually under the supervision of a physician)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "看護, 照顧, 培養",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "餵奶, 看護病人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nurses｜現在分詞 nursing｜過去式 nursed｜過去分詞 nursed｜第三人稱單數 nurses"
+ },
+ "nursemaid": {
+  "ph": "/'nә:smeid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "保姆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nursemaids｜現在分詞 nursemaiding"
+ },
+ "nursery": {
+  "ph": "/'nә:sәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "託兒所, 苗圃, 溫床",
+    "def": "a child's room for a baby"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 嬰兒室, 託兒所",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nurseries"
+ },
+ "nursery school": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "幼兒園",
+    "def": ""
+   }
+  ]
+ },
+ "nurseryman": {
+  "ph": "/'n\\\\\\\\:sәrimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苗木培養工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nurserymen"
+ },
+ "nursing": {
+  "ph": "/'nә:siŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "看護, 養育",
+    "def": "the work of caring for the sick or injured or infirm"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 護理[法], 餵乳[法]",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 nursing"
+ },
+ "nursing home": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "私人療養院",
+    "def": ""
+   }
+  ]
+ },
+ "nurturance": {
+  "ph": "/'nә:tʃәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "養育, 養成, 培育",
+    "def": "physical and emotional care and nourishment"
+   }
+  ]
+ },
+ "nurturant": {
+  "ph": "/'nətʃərənt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "撫育的；撫養的",
+    "def": ""
+   }
+  ]
+ },
+ "nurture": {
+  "ph": "/'nә:tʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "養育, 營養物, 培育",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "養育, 供給營養物, 教養",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 nurtured｜現在分詞 nurturing｜過去式 nurtured｜第三人稱單數 nurtures｜複數 nurtures"
+ },
+ "nurturer": {
+  "ph": "/'nɜ:tʃərə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "養育者, 營養物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nurturers"
+ },
+ "nurturing": {
+  "ph": "/ˈnə:tʃərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "養育( nurture的現在分詞 ); 培育; 滋長; 助長",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 nurturing"
+ },
+ "nut": {
+  "ph": "/nʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堅果, 核心, 螺帽",
+    "def": "usually large hard-shelled seed"
+   },
+   {
+    "pos": "",
+    "zh": "[計] Novell NetWare伺服器實用程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nuts｜現在分詞 nutting｜第三人稱單數 nuts｜過去式 nutted｜過去分詞 nutted"
+ },
+ "nutcase": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘋子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nutcases"
+ },
+ "nutcracker": {
+  "ph": "/'nʌt.krækә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軋碎堅果的鉗子, 星鴉",
+    "def": "a compound lever used to crack nuts open"
+   }
+  ],
+  "forms": "複數 nutcrackers"
+ },
+ "nuthatch": {
+  "ph": "/'nʌthætʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[鳥]五子雀",
+    "def": "any of various small short-tailed songbirds with strong feet and a sharp beak that feed on small nuts and insects"
+   }
+  ],
+  "forms": "複數 nuthatches"
+ },
+ "nuthouse": {
+  "ph": "/'nʌthaʊs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精神病院",
+    "def": ""
+   }
+  ]
+ },
+ "nutmeg": {
+  "ph": "/'nʌtmeg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肉豆蔻",
+    "def": "East Indian tree widely cultivated in the tropics for its aromatic seed; source of two spices: nutmeg and mace"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 肉豆蔻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nutmegs｜過去式 nutmegged"
+ },
+ "nutraceutical": {
+  "ph": "/ˌnju:trəˈsu:tɪkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "營養食品, 保健食品",
+    "def": ""
+   }
+  ]
+ },
+ "nutria": {
+  "ph": "/'nju:triә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海狸鼠, 海狸鼠毛皮",
+    "def": ""
+   }
+  ]
+ },
+ "nutrient": {
+  "ph": "/'nju:triәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "營養的, 滋養的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "營養物, 滋養物",
+    "def": "any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis"
+   }
+  ],
+  "forms": "複數 nutrients"
+ },
+ "nutriment": {
+  "ph": "/'nju:trimәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "營養物, 食物, 營養素",
+    "def": "a source of materials to nourish the body"
+   }
+  ]
+ },
+ "nutrition": {
+  "ph": "/nju:'triʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "營養, 營養學",
+    "def": "(physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 營養, 營養品",
+    "def": ""
+   }
+  ]
+ },
+ "nutritional": {
+  "ph": "/nju: 'triʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "營養的, 滋養的",
+    "def": "of or relating to or providing nutrition"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 營養的",
+    "def": ""
+   }
+  ]
+ },
+ "nutritionally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "滋養地",
+    "def": ""
+   }
+  ]
+ },
+ "nutritionist": {
+  "ph": "/nju:'triʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "營養學家",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 營養學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nutritionists"
+ },
+ "nutritious": {
+  "ph": "/nju:'triʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "滋養的, 營養的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有營養的",
+    "def": ""
+   }
+  ]
+ },
+ "nutritiously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有營養成份地；營養豐富地",
+    "def": ""
+   }
+  ]
+ },
+ "nutritive": {
+  "ph": "/'nju:tritiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有營養的, 滋養的, 與營養有關的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "富有營養的食物",
+    "def": ""
+   }
+  ]
+ },
+ "nuts": {
+  "ph": "/nʌts/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狂熱的, 發狂的, 瘋的",
+    "def": ""
+   },
+   {
+    "pos": "interj.",
+    "zh": "呸, 胡說",
+    "def": ""
+   }
+  ]
+ },
+ "nutshell": {
+  "ph": "/'nʌtʃel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堅果殼, 極小的東西",
+    "def": "the shell around the kernel of a nut"
+   }
+  ],
+  "forms": "複數 nutshells"
+ },
+ "nuttall": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Nuttall)人名；(英)納托爾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "納托爾",
+    "def": ""
+   }
+  ]
+ },
+ "nutter": {
+  "ph": "/'nʌtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘋子；拾堅果的人",
+    "def": "a person who is regarded as eccentric or mad"
+   }
+  ],
+  "forms": "複數 nutters"
+ },
+ "nuttier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "nutty（多堅果的, 產堅果的）的比較級形式",
+    "def": ""
+   }
+  ]
+ },
+ "nuttiness": {
+  "ph": "/'nʌtɪnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘋狂, 瀟灑",
+    "def": ""
+   }
+  ]
+ },
+ "nutting": {
+  "ph": "/'nʌtiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "採拾堅果",
+    "def": ""
+   }
+  ]
+ },
+ "nutty": {
+  "ph": "/'nʌti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "產堅果的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nutties"
+ },
+ "nuzzle": {
+  "ph": "/'nʌzl/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "將鼻插入, 用鼻掘, 蜷臥",
+    "def": "rub noses"
+   }
+  ],
+  "forms": "過去式 nuzzled｜現在分詞 nuzzling｜第三人稱單數 nuzzles｜過去分詞 nuzzled｜複數 nuzzles"
+ }
+}

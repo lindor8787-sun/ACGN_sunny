@@ -1,0 +1,5761 @@
+{
+ "li": {
+  "ph": "/li:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 鋰(3號元素)",
+    "def": ""
+   }
+  ]
+ },
+ "liability": {
+  "ph": "/laiә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "責任, 債務, 傾向",
+    "def": "the state of being legally obliged and responsible"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 責任, 義務, 負債",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liabilities"
+ },
+ "liable": {
+  "ph": "/'laiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有義務的, 應負責的, 有...傾向的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有責任的, 可受處理的, 應受罰的",
+    "def": ""
+   }
+  ]
+ },
+ "liaise": {
+  "ph": "/li'eiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "保持聯絡, 擔任聯絡官",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 liaising｜第三人稱單數 liaises｜過去分詞 liaised｜過去式 liaised"
+ },
+ "liaison": {
+  "ph": "/li:'eizɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聯絡",
+    "def": "a channel for communication between groups"
+   }
+  ],
+  "forms": "複數 liaisons"
+ },
+ "liam": {
+  "ph": "/liæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利亞姆（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "liana": {
+  "ph": "/li'ɑ:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藤本植物",
+    "def": "a woody climbing usually tropical plant"
+   }
+  ],
+  "forms": "複數 lianas"
+ },
+ "liar": {
+  "ph": "/'laiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說謊者",
+    "def": "a person who has lied or who lies repeatedly"
+   }
+  ],
+  "forms": "複數 liars"
+ },
+ "lib": {
+  "ph": "/lib/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[口]解放的（等於liberal）；解放論者的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 libs｜現在分詞 libbing"
+ },
+ "lib dem": {
+  "ph": "/,lib'dem/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Liberal Democrat 自由民主黨黨員(或支持者)",
+    "def": ""
+   }
+  ]
+ },
+ "libation": {
+  "ph": "/lai'beiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獻酒, 奠酒, 飲酒",
+    "def": "(facetious) a serving of an alcoholic beverage"
+   }
+  ],
+  "forms": "複數 libations"
+ },
+ "libber": {
+  "ph": "/'libә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擁護解放者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 libbers"
+ },
+ "libby": {
+  "ph": "/'libi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉比（等於Elizabeth, 女子名）",
+    "def": "United States chemist who developed a method of radiocarbon dating (1908-1980)"
+   }
+  ]
+ },
+ "libel": {
+  "ph": "/'laibәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "以文字損害名譽, 誹謗罪, 侮辱",
+    "def": "a false and malicious publication printed for the purpose of defaming a living person"
+   },
+   {
+    "pos": "v.",
+    "zh": "誹謗, 中傷, 損害名譽",
+    "def": "print slanderous statements against"
+   }
+  ],
+  "forms": "過去分詞 libelled｜複數 libels｜過去式 libelled｜第三人稱單數 libels｜現在分詞 libelling"
+ },
+ "libellous": {
+  "ph": "/'laibәlәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "誹謗的, 敗壞名譽的, 愛誹謗的, 誹謗性的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 誹謗的, 誹謗性的, 中傷的",
+    "def": ""
+   }
+  ]
+ },
+ "libelous": {
+  "ph": "/'laibәlәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "誹謗的, 敗壞名譽的, 愛誹謗的, 誹謗性的",
+    "def": ""
+   }
+  ]
+ },
+ "liber": {
+  "ph": "/'laibә, 'li:beә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 韌皮的, 自由的, 遊離的",
+    "def": ""
+   }
+  ]
+ },
+ "liberace": {
+  "ph": "/'li:bəreis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列勃拉斯（美國鋼琴演奏家）",
+    "def": ""
+   }
+  ]
+ },
+ "liberal": {
+  "ph": "/'libәrәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由主義者",
+    "def": "a person who favors a political philosophy of progress and reform and the protection of civil liberties"
+   },
+   {
+    "pos": "adj.",
+    "zh": "慷慨的, 不拘泥的, 寬大的, 自由主義的",
+    "def": "tolerant of change; not bound by authoritarianism, orthodoxy, or tradition"
+   }
+  ],
+  "forms": "複數 liberals"
+ },
+ "liberal democrat": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "自民黨人；自由民主黨（成員）",
+    "def": ""
+   }
+  ]
+ },
+ "liberal party": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由黨",
+    "def": ""
+   }
+  ]
+ },
+ "liberalisation": {
+  "ph": "/,libərəlai'zeiʃən, -li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由化；開放",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liberalisations"
+ },
+ "liberalise": {
+  "ph": "/'lɪbərəlaɪz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使自由化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 liberalised｜現在分詞 liberalising｜過去式 liberalised｜第三人稱單數 liberalises"
+ },
+ "liberalising": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "使自由化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 liberalising"
+ },
+ "liberalism": {
+  "ph": "/'libәrәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由主義",
+    "def": "a political orientation that favors social progress by reform and by changing laws rather than by revolution"
+   }
+  ]
+ },
+ "liberality": {
+  "ph": "/,libә'ræliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慷慨, 寬宏大量, 心胸寬大, 胸懷廣闊, 公正, 豐富, 寬闊, 豐滿",
+    "def": "an inclination to favor progress and individual freedom"
+   }
+  ]
+ },
+ "liberalization": {
+  "ph": "/.libәrәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由主義化, 寬大",
+    "def": "the act of making less strict"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 自由化",
+    "def": ""
+   }
+  ]
+ },
+ "liberalize": {
+  "ph": "/'libәrәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "寬大, 使自由主義化",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "自由主義化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 liberalizing｜過去式 liberalized｜過去分詞 liberalized｜第三人稱單數 liberalizes"
+ },
+ "liberalized": {
+  "ph": "/ˈlibərəlaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使自由化( liberalize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "liberalizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 自由化",
+    "def": ""
+   }
+  ]
+ },
+ "liberally": {
+  "ph": "/'libәrәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "寬大地, 大方地, 自由地",
+    "def": ""
+   }
+  ]
+ },
+ "liberate": {
+  "ph": "/'libәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "解放, 釋放, 使自由",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 釋出, 放出",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 liberated｜過去式 liberated｜第三人稱單數 liberates｜現在分詞 liberating"
+ },
+ "liberated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "解放的, 自由的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 liberated｜過去式 liberated"
+ },
+ "liberating": {
+  "ph": "/ˈlibəreitɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "解放, 釋放( liberate的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 liberating"
+ },
+ "liberation": {
+  "ph": "/.libә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釋放, 解放",
+    "def": "the act of liberating someone or something"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 發出; 釋放; 放出",
+    "def": ""
+   }
+  ]
+ },
+ "liberationist": {
+  "ph": "/,libә'reiʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(尤指婦女)解放論者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "主張(婦女)解放論的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liberationists"
+ },
+ "liberator": {
+  "ph": "/'libәreitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "解放者, 釋放者",
+    "def": "someone who releases people from captivity or bondage"
+   }
+  ],
+  "forms": "複數 liberators"
+ },
+ "liberatory": {
+  "ph": "/'lɪbərətərɪ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "釋放的, 同意釋放的",
+    "def": "Tending, or serving, to liberate."
+   }
+  ]
+ },
+ "liberia": {
+  "ph": "/lai'biәriә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賴比瑞亞",
+    "def": "a republic in West Africa; established in 1822 by Americans as a way to free negro slaves"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 利比利亞",
+    "def": ""
+   }
+  ]
+ },
+ "liberian": {
+  "ph": "/lai'biәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賴比瑞亞人",
+    "def": "a native or inhabitant of Liberia"
+   },
+   {
+    "pos": "adj.",
+    "zh": "賴比瑞亞人的",
+    "def": "of or relating to Liberia or its people"
+   }
+  ],
+  "forms": "複數 liberians"
+ },
+ "libero": {
+  "ph": "/lɪ'bɪərəʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（足球賽中在後場最後一道防線左右來回跑動的）自由防守型選手, 自由後衛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liberos"
+ },
+ "libertarian": {
+  "ph": "/.libә'tєәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由意志主義支持者, 行動自由者",
+    "def": "an advocate of libertarianism"
+   },
+   {
+    "pos": "adj.",
+    "zh": "自由意志主義支持者的, 主張個人思想的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 libertarians"
+ },
+ "libertarianism": {
+  "ph": "/ˌlɪbə'teərɪənɪzəm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "自由意志論, 公民擁有充分自由權論, 自由主義",
+    "def": ""
+   }
+  ]
+ },
+ "libertine": {
+  "ph": "/'libәti:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放蕩者, 玩樂者, 浪子, 自由思想家",
+    "def": "a dissolute person; usually a man who is morally unrestrained"
+   },
+   {
+    "pos": "adj.",
+    "zh": "放蕩的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 libertines"
+ },
+ "liberty": {
+  "ph": "/'libәli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由, 特權, 許可, 冒失",
+    "def": "freedom of choice"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 自由, 自由權, 自由區域",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liberties"
+ },
+ "libidinal": {
+  "ph": "/li'bidinәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "性慾的",
+    "def": "belonging to the libido"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 性慾的, 色情的",
+    "def": ""
+   }
+  ]
+ },
+ "libidinous": {
+  "ph": "/li'bidinәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好色的",
+    "def": ""
+   }
+  ]
+ },
+ "libido": {
+  "ph": "/li'bi:dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "性的衝動, 性慾",
+    "def": "(psychoanalysis) a Freudian term for sexual urge or desire"
+   }
+  ],
+  "forms": "複數 libidos"
+ },
+ "libor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Libor)人名；(法、匈)利博爾",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "倫敦銀行間拆放款利率",
+    "def": ""
+   }
+  ]
+ },
+ "libra": {
+  "ph": "/'laibrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磅, 天秤座",
+    "def": "(astrology) a person who is born while the sun is in Libra"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 磅",
+    "def": ""
+   }
+  ]
+ },
+ "librarian": {
+  "ph": "/lai'brєәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖書館員, 圖書管理員",
+    "def": "a professional person trained in library science and engaged in library services"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 程式庫管理程式; 程式庫生成程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 librarians"
+ },
+ "librarianship": {
+  "ph": "/lɪ'brɛərɪənʃɪp/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "圖書館長[圖書管理學專家]的職位[資格]",
+    "def": ""
+   }
+  ]
+ },
+ "libraries": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖書館查詢系統；函式庫；圖書館（library的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "library": {
+  "ph": "/'laibrәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖書館, 藏書, 庫",
+    "def": "a room where books are kept"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 庫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 libraries"
+ },
+ "libration": {
+  "ph": "/lai'breiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擺動, 天平動",
+    "def": "(astronomy) a real or apparent slow oscillation of a moon or satellite"
+   }
+  ],
+  "forms": "複數 librations"
+ },
+ "libre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（法）自由泳；（西）自由",
+    "def": ""
+   }
+  ],
+  "forms": "複數 libres"
+ },
+ "librettist": {
+  "ph": "/li'bretist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌詞作者",
+    "def": "author of words to be set to music in an opera or operetta"
+   }
+  ],
+  "forms": "複數 librettists"
+ },
+ "libretto": {
+  "ph": "/li'bretәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌詞集, 劇本",
+    "def": "the words of an opera or musical play"
+   }
+  ],
+  "forms": "複數 librettos"
+ },
+ "libya": {
+  "ph": "/'libiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利比亞",
+    "def": "a military dictatorship in northern Africa on the Mediterranean; consists almost entirely of desert; a major exporter of petroleum"
+   }
+  ]
+ },
+ "libyan": {
+  "ph": "/'libiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "利比亞的",
+    "def": "of or relating to Libya or its people"
+   },
+   {
+    "pos": "n.",
+    "zh": "利比亞人, 古代利比亞語",
+    "def": "a native or inhabitant of Libya"
+   }
+  ],
+  "forms": "複數 libyans"
+ },
+ "licence": {
+  "ph": "/'laisns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "執照, 許可證, 特許",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "許可, 特許, 認可",
+    "def": ""
+   }
+  ],
+  "forms": "複數 licences｜過去分詞 licenced｜現在分詞 licencing｜過去式 licenced｜第三人稱單數 licences"
+ },
+ "licencee": {
+  "ph": "/,laisәn'si:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領有許可證/執照者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 licencees"
+ },
+ "licencing": {
+  "ph": "/'laɪsnsɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "許可證交易",
+    "def": ""
+   }
+  ]
+ },
+ "license": {
+  "ph": "/'laisns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "執照, 許可證, 特許",
+    "def": "a legal document giving official permission to do something"
+   },
+   {
+    "pos": "vt.",
+    "zh": "許可, 特許",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 licensed｜現在分詞 licensing｜複數 licenses｜第三人稱單數 licenses｜過去式 licensed"
+ },
+ "licensed": {
+  "ph": "/'laisnst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "得到許可的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 領有執照的, 領到許可證的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 licensed｜過去式 licensed"
+ },
+ "licensee": {
+  "ph": "/.laisn'si:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獲許可的人, 領到執照的人",
+    "def": "someone to whom a license is granted"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 領有執照(或許可證)者的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 licensees"
+ },
+ "licensing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "許可；批准（license的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 licensing"
+ },
+ "licensure": {
+  "ph": "/'laisnʃuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發給許可證",
+    "def": "A licensing."
+   },
+   {
+    "pos": "",
+    "zh": "[法] 發給執照, 特許, 許可",
+    "def": ""
+   }
+  ]
+ },
+ "licentiate": {
+  "ph": "/lai'senʃiәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領有開業證書的人",
+    "def": "holds a license (degree) from a (European) university"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 開業證持有人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 licentiates"
+ },
+ "licentious": {
+  "ph": "/lai'senʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "放肆的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 放縱的, 無法無天的, 不守法的",
+    "def": ""
+   }
+  ]
+ },
+ "licentiousness": {
+  "ph": "/laɪ'sɛnʃəsnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放蕩；放肆",
+    "def": "the quality of being lewd and lascivious"
+   }
+  ]
+ },
+ "lichen": {
+  "ph": "/'laikәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "青苔, 地衣, 苔蘚病",
+    "def": "any of several eruptive skin diseases characterized by hard thick lesions grouped together and resembling lichens growing on rocks"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 地衣, 苔癬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lichens"
+ },
+ "lichfield": {
+  "ph": "/'litʃ,fi:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利奇菲爾德（英國英格蘭中部斯塔福德郡東南部城鎮）",
+    "def": ""
+   }
+  ]
+ },
+ "lichtenstein": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利希滕斯坦（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "licit": {
+  "ph": "/'lisit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "合法的, 正當的",
+    "def": "sanctioned by custom or morality especially sexual morality"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 合法的, 正當的",
+    "def": ""
+   }
+  ]
+ },
+ "lick": {
+  "ph": "/lik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舔, 少許, 打",
+    "def": "touching with the tongue"
+   },
+   {
+    "pos": "vt.",
+    "zh": "舔, 捲過, 鞭打",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "輕輕拍打",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 licked｜現在分詞 licking｜第三人稱單數 licks｜過去分詞 licked｜複數 licks"
+ },
+ "licking": {
+  "ph": "/'likiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舔, 挫折, 鞭打",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lickings｜現在分詞 licking"
+ },
+ "licorice": {
+  "ph": "/'likәris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甘草",
+    "def": "deep-rooted coarse-textured plant native to the Mediterranean region having blue flowers and pinnately compound leaves; widely cultivated in Europe for its long"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 甘草",
+    "def": ""
+   }
+  ]
+ },
+ "lid": {
+  "ph": "/lid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蓋子, 限制, 眼瞼",
+    "def": "a movable top or cover (hinged or separate) for closing the opening at the top of a box, chest, jar, pan, etc."
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...蓋蓋子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lids｜過去式 lidded"
+ },
+ "lidar": {
+  "ph": "/'laidɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐳射雷達",
+    "def": "a measuring system that detects and locates objects on the same principle as radar but uses light from a laser; a potential technology for detecting air turbule"
+   }
+  ]
+ },
+ "lidded": {
+  "ph": "/'lidid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有蓋子的, 長著...眼瞼的, 蓋著的",
+    "def": "having or covered with a lid or lids; often used in combination"
+   }
+  ],
+  "forms": "過去式 lidded｜過去分詞 lidded"
+ },
+ "liddell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利德爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "liddle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Liddle)人名；(英)利德爾",
+    "def": ""
+   }
+  ]
+ },
+ "lidless": {
+  "ph": "/'lidlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無蓋的, 無眼瞼的, 注視的",
+    "def": "not having or covered with a lid or lids"
+   }
+  ]
+ },
+ "lido": {
+  "ph": "/'li:dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公共露天游泳池",
+    "def": "a recreational facility including a swimming pool for water sports"
+   }
+  ],
+  "forms": "複數 lidos"
+ },
+ "lidocaine": {
+  "ph": "/'lidәjkein/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 利多卡因",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 利多卡因, 塞羅卡因",
+    "def": ""
+   }
+  ]
+ },
+ "lie": {
+  "ph": "/lai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謊言, 假象, 位置",
+    "def": "a statement that deviates from or perverts the truth"
+   },
+   {
+    "pos": "vi.",
+    "zh": "躺著, 說謊, 位於, 展現, 存在, 停泊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "謊騙",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lay｜現在分詞 lying｜第三人稱單數 lies｜複數 lies｜過去分詞 lain"
+ },
+ "lie-down": {
+  "ph": "/'laidajn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "躺臥, 休息, 臥地抗議示威",
+    "def": ""
+   }
+  ]
+ },
+ "lie-in": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懶覺, 躺臥示威",
+    "def": "a long stay in bed in the morning"
+   }
+  ],
+  "forms": "複數 lie-ins"
+ },
+ "lieberman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利伯曼（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "liechtenstein": {
+  "ph": "/'liktәn,stain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(中歐國家)列支敦斯登的",
+    "def": ""
+   }
+  ]
+ },
+ "lieder": {
+  "ph": "/'li:dә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "民謠, 抒情曲",
+    "def": ""
+   }
+  ]
+ },
+ "liege": {
+  "ph": "/li:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "君主, 王侯, 臣下",
+    "def": "a feudal lord entitled to allegiance and service"
+   },
+   {
+    "pos": "adj.",
+    "zh": "君主的, 臣下的, 君臣關係的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lieges"
+ },
+ "lien": {
+  "ph": "/'li:әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "留置權, 扣押權",
+    "def": "the right to take another's property if an obligation is not discharged"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 脾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liens"
+ },
+ "lieu": {
+  "ph": "/lu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "場所",
+    "def": ""
+   }
+  ]
+ },
+ "lieut": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "海軍上尉（lieutenant）",
+    "def": ""
+   }
+  ]
+ },
+ "lieutenancy": {
+  "ph": "/lef'tenәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中尉之軍銜",
+    "def": "the position of a lieutenant"
+   }
+  ],
+  "forms": "複數 lieutenancies"
+ },
+ "lieutenant": {
+  "ph": "/lef'tenәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中尉, 助理人員, 副官",
+    "def": "a commissioned military officer"
+   }
+  ],
+  "forms": "複數 lieutenants"
+ },
+ "life": {
+  "ph": "/laif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生活, 生命, 人生, 世事, 生物, 壽命, 一生, 生命力, 靈魂, 無期徒刑",
+    "def": "a characteristic state or mode of living"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生活, 生存, 生命, 壽命",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lives"
+ },
+ "life assurance": {
+  "ph": "/laif əˈʃuərəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人壽保險; （保險公司付給的）人壽保險金; （被保險人繳納的）人壽保險費",
+    "def": ""
+   }
+  ]
+ },
+ "life cycle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生活週期",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 生存期",
+    "def": ""
+   }
+  ]
+ },
+ "life expectancy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 估計壽命, 預期使用壽命",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 耐用期限",
+    "def": ""
+   }
+  ]
+ },
+ "life imprisonment": {
+  "ph": "/laif ɪmˈprɪznmənt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "無期徒刑",
+    "def": ""
+   }
+  ]
+ },
+ "life insurance": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "人壽保險",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人壽保險",
+    "def": ""
+   }
+  ]
+ },
+ "life sentence": {
+  "ph": "/laif ˈsentəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無期徒刑的判決",
+    "def": ""
+   }
+  ]
+ },
+ "life-threatening": {
+  "ph": "/laɪf 'θretnɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "威脅生命的",
+    "def": ""
+   }
+  ]
+ },
+ "lifebelt": {
+  "ph": "/ˈlaɪfbelt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救生帶, 救生圈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lifebelts"
+ },
+ "lifeblood": {
+  "ph": "/'laifblʌd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鮮血, 血, 生機的根源",
+    "def": "the blood considered as the seat of vitality"
+   }
+  ]
+ },
+ "lifeboat": {
+  "ph": "/'laifbәjt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救生艇",
+    "def": "a strong sea boat designed to rescue people from a sinking ship"
+   }
+  ],
+  "forms": "複數 lifeboats"
+ },
+ "lifeguard": {
+  "ph": "/'laifgɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衛兵, 禁衛軍, 救生員",
+    "def": "an attendant employed at a beach or pool to protect swimmers from accidents"
+   }
+  ],
+  "forms": "複數 lifeguards｜現在分詞 lifeguarding"
+ },
+ "lifeless": {
+  "ph": "/'laiflis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無生命的, 無趣味的, 死氣沉沉的",
+    "def": ""
+   }
+  ]
+ },
+ "lifelessly": {
+  "ph": "/'laiflisli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無生命地",
+    "def": ""
+   }
+  ]
+ },
+ "lifelessness": {
+  "ph": "/'laiflisnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "枯燥無味）；無生命（死",
+    "def": ""
+   }
+  ]
+ },
+ "lifelike": {
+  "ph": "/'laiflaik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "栩栩如生的, 逼真的, 酷象實物的",
+    "def": ""
+   }
+  ]
+ },
+ "lifeline": {
+  "ph": "/'laiflain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救生索, 生命線",
+    "def": "support that enables people to survive or to continue doing something (often by providing an essential connection)"
+   }
+  ],
+  "forms": "複數 lifelines"
+ },
+ "lifelong": {
+  "ph": "/'laiflɒŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "終身的, 畢生的",
+    "def": ""
+   }
+  ]
+ },
+ "lifer": {
+  "ph": "/'laifә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無期徒刑者, 職業軍人",
+    "def": "a prisoner serving a term of life imprisonment"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無期徒刑犯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lifers"
+ },
+ "lifesaver": {
+  "ph": "/'laifseivә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救命者, 救生員, 濟急的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lifesavers"
+ },
+ "lifesaving": {
+  "ph": "/'laifseiviŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "救命的, 救生用的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lifesaving"
+ },
+ "lifesize": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "原尺寸的",
+    "def": ""
+   }
+  ]
+ },
+ "lifespan": {
+  "ph": "/'laifspæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "預期生命期限；壽命；預期使用期限",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lifespans"
+ },
+ "lifestyle": {
+  "ph": "/'laifstail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生活方式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lifestyles"
+ },
+ "lifetime": {
+  "ph": "/'laiftaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一生, 終生",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "一生的, 終生的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lifetimes"
+ },
+ "lifework": {
+  "ph": "/'laif'w\\\\\\\\:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畢生的事業, 一生中最重要的工作",
+    "def": "the principal work of your career"
+   }
+  ]
+ },
+ "liffe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "倫敦國際金融期貨交易所（London International Financial Futures and Options Exchange）",
+    "def": ""
+   }
+  ]
+ },
+ "liffey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利菲河",
+    "def": ""
+   }
+  ]
+ },
+ "lift": {
+  "ph": "/lift/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舉起, 幫助, 昂揚, 電梯",
+    "def": "the act of giving temporary assistance"
+   },
+   {
+    "pos": "vt.",
+    "zh": "升高, 提高, 鼓舞, 清償, 空運, 舉起, 剽竊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "升起, 消散, 聳立",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lifted｜過去分詞 lifted｜現在分詞 lifting｜複數 lifts｜第三人稱單數 lifts"
+ },
+ "lift-off": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "離地升空",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lift-offs"
+ },
+ "lifter": {
+  "ph": "/'liftә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舉起的人, 賊, 升降機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 提砂鉤, 夾鉗, 升降杆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lifters"
+ },
+ "lifting": {
+  "ph": "/'liftiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 吊裝; 提升",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lifting｜複數 liftings"
+ },
+ "liftoff": {
+  "ph": "/'lɪftˌɒf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（火箭發射時）起飛, 啟動",
+    "def": "the initial ascent of a rocket from its launching pad"
+   }
+  ]
+ },
+ "ligament": {
+  "ph": "/'ligәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結帶, 紐帶, 韌帶",
+    "def": "a sheet or band of tough fibrous tissue connecting bones or cartilages or supporting muscles or organs"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 韌帶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ligaments"
+ },
+ "ligand": {
+  "ph": "/'li^әnd, 'lai^әnd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 配體; 配基",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ligands｜第三人稱單數 ligands"
+ },
+ "ligate": {
+  "ph": "/lai'geit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "結紮, 綁",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 結紮",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ligated｜過去式 ligated｜現在分詞 ligating｜第三人稱單數 ligates"
+ },
+ "ligation": {
+  "ph": "/lai'geiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結紮, 綁",
+    "def": "(surgery) tying a duct or blood vessel with a ligature (as to prevent bleeding during surgery)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 絡合物形成; 絡合物形成作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ligations"
+ },
+ "ligature": {
+  "ph": "/'ligәtʃuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "繩, 索, 縛帶",
+    "def": "(music) a group of notes connected by a slur"
+   },
+   {
+    "pos": "vt.",
+    "zh": "縛, 捆, 結紮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ligatures｜第三人稱單數 ligatures"
+ },
+ "light": {
+  "ph": "/lait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光, 光亮, 燈, 日光, 發光體, 光源, 傑出人物, 火花, 眼光",
+    "def": "(physics) electromagnetic radiation that can produce a visual sensation"
+   },
+   {
+    "pos": "adj.",
+    "zh": "輕的, 少量的, 輕微的, 輕快的, 輕浮的, 明亮的, 淡色的, 容易的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "點燃, 照亮",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "點著, 變亮, 突降, 偶然碰到",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "輕地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lights｜過去式 lit｜過去分詞 lit｜比較級 lighter｜現在分詞 lighting｜最高級 lightest｜第三人稱單數 lights"
+ },
+ "light bulb": {
+  "ph": "/lait bʌlb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燈泡",
+    "def": ""
+   }
+  ]
+ },
+ "light year": {
+  "ph": "/lait jə:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光年",
+    "def": ""
+   }
+  ]
+ },
+ "light-hearted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "輕鬆的, 無憂無慮的",
+    "def": ""
+   }
+  ]
+ },
+ "lighted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "light的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 lighted｜過去式 lighted"
+ },
+ "lighten": {
+  "ph": "/'laitn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "照亮, 點亮, 減輕, 使輕鬆, 閃出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發亮, 打閃, 變輕",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 lightened｜現在分詞 lightening｜過去式 lightened｜第三人稱單數 lightens"
+ },
+ "lightening": {
+  "ph": "/'laitniŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 孕腹輕鬆(產前數星期子宮下降所致的感覺)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lightening｜複數 lightenings"
+ },
+ "lighter": {
+  "ph": "/'laitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "點火者, 點燈工人, 打火機, 駁船",
+    "def": "a device for lighting or igniting fuel or charges or fires"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以駁船搬運",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lighters"
+ },
+ "lightfoot": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊特福特（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lightfooted"
+ },
+ "lighthearted": {
+  "ph": "/'lait'hɑ:tid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "快樂的, 心情愉快的；無憂無慮的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lighthearted｜過去分詞 lighthearted"
+ },
+ "lightheartedly": {
+  "ph": "/'laɪthɑ:tɪdlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "自由自在地, 無憂無慮地",
+    "def": ""
+   }
+  ]
+ },
+ "lightheartedness": {
+  "ph": "/'laɪt'hɑ:tɪdnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由自在, 無憂無慮",
+    "def": ""
+   }
+  ]
+ },
+ "lighthouse": {
+  "ph": "/'laithaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燈塔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lighthouses"
+ },
+ "lighting": {
+  "ph": "/'laitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "照明, 照明裝置, 舞臺燈光",
+    "def": "apparatus for supplying artificial light effects for the stage or a film"
+   }
+  ],
+  "forms": "現在分詞 lighting"
+ },
+ "lightless": {
+  "ph": "/'laitlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無光的, 不發光的",
+    "def": ""
+   }
+  ]
+ },
+ "lightly": {
+  "ph": "/'laitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "輕輕地, 少許, 不費力地",
+    "def": ""
+   }
+  ]
+ },
+ "lightness": {
+  "ph": "/'laitnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光亮度, (顏色的)淺淡, 輕率, 輕佻, 輕浮, 輕盈, 輕鬆, 輕巧, 精巧, 優美",
+    "def": "the property of being comparatively small in weight"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 亮度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lightnesses"
+ },
+ "lightning": {
+  "ph": "/'laitniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閃電",
+    "def": "abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light"
+   },
+   {
+    "pos": "vi.",
+    "zh": "閃電",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "閃電的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lightnings"
+ },
+ "lights": {
+  "ph": "/laits/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（供食用的）家畜的肺臟；燈光（light的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "lightship": {
+  "ph": "/'laitʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航路標誌燈船, 燈塔船",
+    "def": "a ship equipped like a lighthouse and anchored where a permanent lighthouse would be impracticable"
+   }
+  ],
+  "forms": "複數 lightships"
+ },
+ "lightweight": {
+  "ph": "/'laitweit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不到平均重量的人/物, 輕量級, 無足輕重的人, 性格不夠強的人",
+    "def": "a professional boxer who weighs between 131 and 135 pounds"
+   },
+   {
+    "pos": "adj.",
+    "zh": "平均重量以下的, 重量輕的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 輕便的, 輕量的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lightweights"
+ },
+ "ligneous": {
+  "ph": "/'ligniәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "似木的, 木質的, 木製的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 木樣的",
+    "def": ""
+   }
+  ]
+ },
+ "lignin": {
+  "ph": "/'lignin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "木質素",
+    "def": "a complex polymer; the chief constituent of wood other than carbohydrates; binds to cellulose fibers to harden and strengthen cell walls of plants"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 木質素; 木素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lignins"
+ },
+ "lignite": {
+  "ph": "/'lignait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "褐煤",
+    "def": "intermediate between peat and bituminous coal"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 褐煤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lignites"
+ },
+ "liguria": {
+  "ph": "/li'^jjәriә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利古里亞區[義大利行政區名]",
+    "def": ""
+   }
+  ]
+ },
+ "ligurian": {
+  "ph": "/l'i^jjәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利古里亞人, 義大利土語",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "利古里亞人[語]的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ligurians"
+ },
+ "likability": {
+  "ph": "/.laikә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可愛",
+    "def": ""
+   }
+  ]
+ },
+ "likable": {
+  "ph": "/'laikәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可愛的",
+    "def": ""
+   }
+  ]
+ },
+ "like": {
+  "ph": "/laik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相似的, 同樣的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "喜歡, 願意, 想",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "喜歡, 希望",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "愛好, 同樣的人(或物)",
+    "def": "a similar kind"
+   },
+   {
+    "pos": "prep.",
+    "zh": "象, 如同",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "可能",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 liked｜第三人稱單數 likes｜過去分詞 liked｜複數 likes｜現在分詞 liking"
+ },
+ "likeable": {
+  "ph": "/'laikәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可愛的, 值得喜歡的, 迷人的",
+    "def": ""
+   }
+  ]
+ },
+ "liked": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "喜歡（like的過去式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 liked｜過去式 liked"
+ },
+ "likelihood": {
+  "ph": "/'laiklihud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可能, 可能性",
+    "def": "the probability of a specified outcome"
+   }
+  ],
+  "forms": "複數 likelihoods"
+ },
+ "likely": {
+  "ph": "/'laikli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有可能的, 合適的, 前途有望的",
+    "def": "has a good chance of being the case or of coming about"
+   },
+   {
+    "pos": "adv.",
+    "zh": "或許, 可能",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 likeliest"
+ },
+ "liken": {
+  "ph": "/'laikәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "比喻, 比擬",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 likened｜過去式 likened｜第三人稱單數 likens｜現在分詞 likening"
+ },
+ "likeness": {
+  "ph": "/'laiknis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "相象, 相似物, 樣子",
+    "def": "similarity in appearance or character or nature between persons or things"
+   }
+  ],
+  "forms": "複數 likenesses"
+ },
+ "likewise": {
+  "ph": "/'laikwaiz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "同樣地, 也",
+    "def": ""
+   }
+  ]
+ },
+ "liking": {
+  "ph": "/'laikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛好, 嗜好",
+    "def": "a feeling of pleasure and enjoyment"
+   }
+  ],
+  "forms": "現在分詞 liking｜複數 likings"
+ },
+ "likud": {
+  "ph": "/li:'ku:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利庫德集團(以色列右翼黨派的政治聯盟,長期為以色列執政黨)",
+    "def": ""
+   }
+  ]
+ },
+ "lil": {
+  "ph": "/lil/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "國際月球實驗室（Lunar International Laboratory）",
+    "def": ""
+   }
+  ]
+ },
+ "lilac": {
+  "ph": "/'lailәk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "丁香, 丁香花, 淡紫色",
+    "def": "any of various plants of the genus Syringa having large panicles of usually fragrant flowers"
+   },
+   {
+    "pos": "adj.",
+    "zh": "淡紫色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lilacs"
+ },
+ "lili": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉莉（女子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lili"
+ },
+ "lilian": {
+  "ph": "/'liliәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉蓮（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "lille": {
+  "ph": "/li:l/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "里爾[法國北部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "lilley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lilley)人名；(英)利利",
+    "def": ""
+   }
+  ]
+ },
+ "lillian": {
+  "ph": "/'liliәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉蓮（女子名, 等於Lilian）",
+    "def": ""
+   }
+  ]
+ },
+ "lillie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lillie)人名；(英)利利；(瑞典)利耶",
+    "def": "British actress (born in Canada) (1898-1989)"
+   },
+   {
+    "pos": "",
+    "zh": "利利",
+    "def": ""
+   }
+  ]
+ },
+ "lilliput": {
+  "ph": "/'lilipʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(<<格列佛遊記>>中的)小人國",
+    "def": "a land imagined by Jonathan Swift that was inhabited by tiny people"
+   }
+  ]
+ },
+ "lilliputian": {
+  "ph": "/.lili'pju:ʃjәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "小人國的, 小的",
+    "def": "tiny; relating to or characteristic of the imaginary country of Lilliput"
+   },
+   {
+    "pos": "n.",
+    "zh": "小人, 侏儒",
+    "def": "a very small person (resembling a Lilliputian)"
+   }
+  ],
+  "forms": "複數 lilliputians"
+ },
+ "lilly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉莉（女子名）；麗萊（香港時裝公司）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lillies"
+ },
+ "lilt": {
+  "ph": "/lilt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "唱輕快的調子, 輕快地動",
+    "def": "articulate in a very careful and rhythmic way"
+   },
+   {
+    "pos": "n.",
+    "zh": "輕快活潑的調子, 輕快的動作",
+    "def": "a jaunty rhythm in music"
+   }
+  ],
+  "forms": "現在分詞 lilting｜過去式 lilted｜第三人稱單數 lilts｜複數 lilts｜過去分詞 lilted"
+ },
+ "lilting": {
+  "ph": "/liltɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "像音樂般美妙的（聲音）",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "唱輕快的調子, 輕快地動( lilt的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lilting"
+ },
+ "lily": {
+  "ph": "/'lili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "百合, 百合花",
+    "def": "any liliaceous plant of the genus Lilium having showy pendulous flowers"
+   },
+   {
+    "pos": "adj.",
+    "zh": "潔白的, 純白色的, 純潔的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lilies"
+ },
+ "lim": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "潛象儲存器（Latent Image Memory）；秘魯利馬機場的代號",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 lims｜複數 lims"
+ },
+ "lima": {
+  "ph": "/'li:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利馬（秘魯首都）",
+    "def": "capital and largest city and economic center of Peru; located in western Peru; was capital of the Spanish empire in the New World until the 19th century"
+   }
+  ]
+ },
+ "limassol": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利馬索爾（塞普勒斯地名）",
+    "def": ""
+   }
+  ]
+ },
+ "limb": {
+  "ph": "/lim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四肢, 枝幹, 翼, 邊緣",
+    "def": "one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper"
+   },
+   {
+    "pos": "vt.",
+    "zh": "切斷...之手足",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limbs｜過去式 limbed"
+ },
+ "limber": {
+  "ph": "/'limbә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "柔軟的, 敏捷的, 富於彈性的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使柔軟",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "做準備活動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 limbering｜複數 limbers｜第三人稱單數 limbers｜過去式 limbered｜過去分詞 limbered"
+ },
+ "limbic": {
+  "ph": "/'limbik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 緣的",
+    "def": ""
+   }
+  ]
+ },
+ "limbless": {
+  "ph": "/'limlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無肢的, 無枝叉的, 無翼的",
+    "def": "having no limbs"
+   }
+  ]
+ },
+ "limbo": {
+  "ph": "/'limbәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地獄邊緣, 監獄, 忘卻",
+    "def": "an imaginary place for lost or neglected things"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 監獄, 拘禁, 忘卻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limbos"
+ },
+ "lime": {
+  "ph": "/laim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石灰, 粘鳥膠, 酸橙",
+    "def": "any of various related trees bearing limes"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以石灰處理, 粘鳥膠於, 撒石灰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limes｜現在分詞 liming｜過去分詞 limed｜過去式 limed｜第三人稱單數 limes"
+ },
+ "limeade": {
+  "ph": "/'laimeid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用酸橙所調的飲料, 酸橙汽水",
+    "def": "sweetened beverage of lime juice and water"
+   }
+  ]
+ },
+ "limed": {
+  "ph": "/'laɪmd/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "撒石灰於（lime的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 limed"
+ },
+ "limehouse": {
+  "ph": "/'laimhajs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊姆豪斯(倫敦區名, 舊時為華人聚居區)",
+    "def": ""
+   }
+  ]
+ },
+ "limelight": {
+  "ph": "/'laimlait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石灰光, 石灰光燈, 以石灰光燈照射的舞臺",
+    "def": "a focus of public attention"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使受到注目, 使顯露頭角",
+    "def": ""
+   }
+  ]
+ },
+ "limerick": {
+  "ph": "/'limәrik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "五行打油詩",
+    "def": "port city in southwestern Ireland"
+   }
+  ],
+  "forms": "複數 limericks"
+ },
+ "limestone": {
+  "ph": "/'laimstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石灰石",
+    "def": "a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 石灰石; 石灰岩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limestones"
+ },
+ "limey": {
+  "ph": "/'laimi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國海軍, 英國人",
+    "def": "a man of English descent"
+   }
+  ],
+  "forms": "複數 limeys"
+ },
+ "liminal": {
+  "ph": "/'liminl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "閾限的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 閥的",
+    "def": ""
+   }
+  ]
+ },
+ "liminality": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "閾限",
+    "def": ""
+   }
+  ]
+ },
+ "limit": {
+  "ph": "/'limit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "界限, 邊界, 限度, 極限, 限制",
+    "def": "the greatest possible degree of something"
+   },
+   {
+    "pos": "vt.",
+    "zh": "限制, 限定",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limits｜過去分詞 limited｜第三人稱單數 limits｜現在分詞 limiting｜過去式 limited"
+ },
+ "limitation": {
+  "ph": "/.limi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "限制, 缺陷, 限額",
+    "def": "the quality of being limited or restricted"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 限界, 限制, 限度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limitations"
+ },
+ "limited": {
+  "ph": "/'limitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有限制的, 有限的, 有限責任的",
+    "def": "small in range or scope"
+   },
+   {
+    "pos": "n.",
+    "zh": "特別快車",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 limited｜過去式 limited"
+ },
+ "limited edition": {
+  "ph": "/ˈlimitid iˈdiʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發行額有限的限定版",
+    "def": ""
+   }
+  ]
+ },
+ "limiter": {
+  "ph": "/'limitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "限制物, 限幅器",
+    "def": "(electronics) a nonlinear electronic circuit whose output is limited in amplitude; used to limit the instantaneous amplitude of a waveform (to clip off the peak"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 限幅器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limiters"
+ },
+ "limiting": {
+  "ph": "/'limitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "限制的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 極限",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 limiting"
+ },
+ "limitless": {
+  "ph": "/'limitlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無限的, 無界限的",
+    "def": ""
+   }
+  ]
+ },
+ "limitlessness": {
+  "ph": "/'lɪmɪtləsnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "limitless（無限的）的變形",
+    "def": ""
+   }
+  ]
+ },
+ "limn": {
+  "ph": "/lim/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "描寫, 描繪",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 limned｜過去分詞 limned｜現在分詞 limning｜第三人稱單數 limns"
+ },
+ "limner": {
+  "ph": "/'limnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畫家, 畫匠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limners"
+ },
+ "limnology": {
+  "ph": "/lim'nɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湖沼學, 湖泊學",
+    "def": "the scientific study of bodies of fresh water for their biological and physical and geological properties"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 淡水生物學",
+    "def": ""
+   }
+  ]
+ },
+ "limo": {
+  "ph": "/'limәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 檸檬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limos"
+ },
+ "limoge": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Limoge)人名；(法)利摩日",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limoges"
+ },
+ "limousin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] [法國] 利穆贊（地區）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 limousins"
+ },
+ "limousine": {
+  "ph": "/'limәzi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轎車",
+    "def": "large luxurious car; usually driven by a chauffeur"
+   }
+  ],
+  "forms": "複數 limousines"
+ },
+ "limp": {
+  "ph": "/limp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跛行",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "柔軟的, 無力的, 軟弱的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "跛行",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 limped｜現在分詞 limping｜過去分詞 limped｜第三人稱單數 limps｜複數 limps｜最高級 limpest"
+ },
+ "limpet": {
+  "ph": "/'limpit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糾纏者",
+    "def": "mollusk with a low conical shell"
+   }
+  ],
+  "forms": "複數 limpets"
+ },
+ "limpid": {
+  "ph": "/'limpid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "清澈的, 透明的, 平靜的",
+    "def": ""
+   }
+  ]
+ },
+ "limping": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 跛行",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 limping"
+ },
+ "limply": {
+  "ph": "/'limpli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "跛行地, 勉強地",
+    "def": ""
+   }
+  ]
+ },
+ "limpness": {
+  "ph": "/'lɪmpnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柔弱, 疲倦",
+    "def": ""
+   }
+  ]
+ },
+ "lin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "林",
+    "def": "United States sculptor and architect whose public works include the memorial to veterans of the Vietnam War in Washington (born in 1959)"
+   }
+  ],
+  "forms": "現在分詞 linning"
+ },
+ "lina": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉娜（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "linac": {
+  "ph": "/'lainæk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 直線加速器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 linacs"
+ },
+ "linage": {
+  "ph": "/'lainidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排列, 行數, 按行數支付",
+    "def": "the number of lines in a piece of printed material"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 行數",
+    "def": ""
+   }
+  ]
+ },
+ "linchpin": {
+  "ph": "/'lintʃpin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "制輪楔, 關鍵",
+    "def": "pin inserted through an axletree to hold a wheel on"
+   }
+  ],
+  "forms": "複數 linchpins"
+ },
+ "lincoln": {
+  "ph": "/'liŋkәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "林肯",
+    "def": "16th President of the United States; saved the Union during the American Civil War and emancipated the slaves; was assassinated by Booth (1809-1865)"
+   }
+  ]
+ },
+ "lincolnshire": {
+  "ph": "/'liŋkәnʃiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "林肯郡(英格蘭郡名)",
+    "def": "an agricultural county of eastern England on the North Sea"
+   }
+  ]
+ },
+ "lincs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(Lincolnshire)林肯郡",
+    "def": ""
+   }
+  ]
+ },
+ "lind": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利德（姓氏）",
+    "def": "Swedish soprano who toured the United States under the management of P. T. Barnum (1820-1887)"
+   }
+  ],
+  "forms": "複數 linds"
+ },
+ "linda": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "琳達（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "lindane": {
+  "ph": "/'lindein/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 林旦; 林丹; 高丙體666",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 林丹, γ-六六六",
+    "def": ""
+   }
+  ]
+ },
+ "lindbergh": {
+  "ph": "/'lindbә:^/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "林德伯格(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "linden": {
+  "ph": "/'lindәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "椴, 菩提樹",
+    "def": "any of various deciduous trees of the genus Tilia with heart-shaped leaves and drooping cymose clusters of yellowish often fragrant flowers; several yield valua"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 椴樹(菩提樹)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lindens"
+ },
+ "lindi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lindi)人名；(意)林迪",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "林迪",
+    "def": ""
+   }
+  ]
+ },
+ "lindisfarne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "林迪斯法恩（Lindisfarne, 地名）",
+    "def": ""
+   }
+  ]
+ },
+ "lindley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lindley)人名；(英、西、葡)林德利",
+    "def": ""
+   }
+  ]
+ },
+ "lindsay": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "琳賽〔女子名）",
+    "def": "United States playwright who collaborated with Russel Crouse on several musicals (1889-1931)"
+   }
+  ]
+ },
+ "lindsey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "林德賽（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "lindy": {
+  "ph": "/'lindi/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "跳林迪舞",
+    "def": ""
+   }
+  ]
+ },
+ "line": {
+  "ph": "/lain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "列, 線, 繩, 電線, 線路, 路線, 航線, 作業線, 界線, 戰線, 外形, 排, 家系",
+    "def": "a formation of people or things one beside another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "排成一行, 順...排列, 劃線於, 加襯裡, 使有線條, 使起皺紋",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "排隊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 線路",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lines｜過去分詞 lined｜現在分詞 lining｜過去式 lined｜第三人稱單數 lines"
+ },
+ "line-up": {
+  "ph": "/lain ʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一排人; 一組人; （用途相同的）一批東西; （比賽時）球員的陣容",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "排成行, 排成直線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 line-ups"
+ },
+ "lineage": {
+  "ph": "/'liniidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "血統, 直系",
+    "def": "the descendants of one individual"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 血統, 世系",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lineages｜第三人稱單數 lineages"
+ },
+ "lineal": {
+  "ph": "/'liniәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "直系的, 正統的, 嫡出的",
+    "def": "in a straight unbroken line of descent from parent to child"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 直系的, 世襲的, 繼承的",
+    "def": ""
+   }
+  ]
+ },
+ "lineament": {
+  "ph": "/'liniәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "容貌, 相貌, 輪廓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lineaments"
+ },
+ "lineaments": {
+  "ph": "/ˈlɪniəmənts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<正>（面部等的）特徵, 輪廓",
+    "def": ""
+   }
+  ]
+ },
+ "linear": {
+  "ph": "/'liniә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "線的, 直線的, 線狀的",
+    "def": "designating or involving an equation whose terms are of the first degree"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 線性",
+    "def": ""
+   }
+  ]
+ },
+ "linearity": {
+  "ph": "/.lini'ærәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "線性, 直線性",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 直線性",
+    "def": ""
+   }
+  ]
+ },
+ "linearly": {
+  "ph": "/'liniәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "線, 長條形, 線狀, 線性, 直線, 長度",
+    "def": ""
+   }
+  ]
+ },
+ "linebacker": {
+  "ph": "/'lainbækә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中後衛球員",
+    "def": "a defensive football player who takes a position close behind the linemen"
+   }
+  ],
+  "forms": "複數 linebackers"
+ },
+ "linebacking": {
+  "ph": "/'lain,bækiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "後衛球員,中後衛的技術",
+    "def": ""
+   }
+  ]
+ },
+ "lined": {
+  "ph": "/laind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有內襯的；具線紋的",
+    "def": "having a lining or a liner; often used in combination"
+   }
+  ],
+  "forms": "過去分詞 lined｜過去式 lined"
+ },
+ "lineman": {
+  "ph": "/'lainmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "線務員, 線路工人, 護路工, 養路工",
+    "def": "one of the players on the line of scrimmage"
+   }
+  ],
+  "forms": "複數 linemen"
+ },
+ "linen": {
+  "ph": "/'linin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞麻布, 亞麻線, 亞麻製品",
+    "def": "a fabric woven with fibers from the flax plant"
+   },
+   {
+    "pos": "adj.",
+    "zh": "亞麻布制的, 亞麻的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 linens"
+ },
+ "lineout": {
+  "ph": "/laɪ'nɪət/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（橄欖球）列隊爭球",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lineouts"
+ },
+ "liner": {
+  "ph": "/'lainә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "班機, 劃線者, 定期船, 襯裡",
+    "def": "(baseball) a hit that flies straight out from the batter"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 襯墊; 墊帶; 套管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liners"
+ },
+ "linesman": {
+  "ph": "/'lainzmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "常備步兵, 線路保養工, 邊線裁判員",
+    "def": "official (in tennis, soccer, football, etc.) who assists the referee in some way (especially by watching for out of bounds or offside)"
+   }
+  ],
+  "forms": "複數 linesmen"
+ },
+ "lineup": {
+  "ph": "/'lainʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陣容, 陣形, 佈陣, 一組人",
+    "def": "a line of persons arranged by police for inspection or identification"
+   }
+  ],
+  "forms": "複數 lineups"
+ },
+ "linford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Linford)人名；(英、西)林福德",
+    "def": ""
+   }
+  ]
+ },
+ "ling": {
+  "ph": "/liŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鱈魚, 帚石南",
+    "def": "water chestnut whose spiny fruit has two rather than 4 prongs"
+   }
+  ],
+  "forms": "複數 lings"
+ },
+ "lingcod": {
+  "ph": "/'liŋkɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藍鱈",
+    "def": "the lean flesh of a fish caught off the Pacific coast of the United States"
+   }
+  ]
+ },
+ "linger": {
+  "ph": "/'liŋgә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "逗留, 消磨, 徘徊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "消磨",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lingered｜第三人稱單數 lingers｜過去分詞 lingered｜現在分詞 lingering"
+ },
+ "lingerie": {
+  "ph": "/,lænʒә'ri:, 'læn-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女式內衣",
+    "def": "women's underwear and nightclothes"
+   }
+  ]
+ },
+ "lingering": {
+  "ph": "/'liŋɡәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "拖延的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lingering"
+ },
+ "lingeringly": {
+  "ph": "/'lɪŋɡərɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "延遲地, 逗留不去地",
+    "def": ""
+   }
+  ]
+ },
+ "lingo": {
+  "ph": "/'liŋgәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外國話, 隱語",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 行話, 航業暗語",
+    "def": ""
+   }
+  ]
+ },
+ "lingua": {
+  "ph": "/'liŋgwә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舌",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 舌",
+    "def": ""
+   }
+  ]
+ },
+ "lingual": {
+  "ph": "/'liŋgwәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "舌的, 舌音的, 語言的",
+    "def": "pertaining to or resembling or lying near the tongue"
+   },
+   {
+    "pos": "n.",
+    "zh": "舌音",
+    "def": "a consonant that is produced with the tongue and other speech organs"
+   }
+  ]
+ },
+ "linguine": {
+  "ph": "/'liŋ^wi:ni:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(義大利)扁麵條",
+    "def": "pasta in long slender flat strips"
+   }
+  ]
+ },
+ "linguini": {
+  "ph": "/'lɪngwɪnɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（義大利）扁麵條",
+    "def": ""
+   }
+  ],
+  "forms": "複數 linguini"
+ },
+ "linguist": {
+  "ph": "/liŋ'gwist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語言學家",
+    "def": "a specialist in linguistics"
+   }
+  ],
+  "forms": "複數 linguists"
+ },
+ "linguistic": {
+  "ph": "/liŋ'^wistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "語言的, 語言學的",
+    "def": "consisting of or related to language"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 語言的, 語言學的",
+    "def": ""
+   }
+  ]
+ },
+ "linguistically": {
+  "ph": "/liŋ'gwistikəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "語言學方面",
+    "def": ""
+   }
+  ]
+ },
+ "linguistics": {
+  "ph": "/liŋ'gwistiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語言學",
+    "def": "the scientific study of language"
+   }
+  ]
+ },
+ "liniment": {
+  "ph": "/'linimәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塗敷藥",
+    "def": "a medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 搽劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liniments"
+ },
+ "lining": {
+  "ph": "/'lainiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "襯裡, 內層, 襯墊",
+    "def": "a protective covering that protects an inside surface"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 襯裡; 襯墊; 襯套; 襯層",
+    "def": ""
+   }
+  ],
+  "forms": "複數 linings｜現在分詞 lining"
+ },
+ "link": {
+  "ph": "/liŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "環, 連結物, 連結, 火把",
+    "def": "the means of connection between things linked in series"
+   },
+   {
+    "pos": "vt.",
+    "zh": "連結, 聯合, 挽住",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "連線起來",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 連線, 鏈路",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 linked｜複數 links｜現在分詞 linking｜第三人稱單數 links｜過去式 linked"
+ },
+ "link-up": {
+  "ph": "/liŋk ʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聯絡; 連線; 聯接",
+    "def": ""
+   }
+  ],
+  "forms": "複數 link-ups"
+ },
+ "linkage": {
+  "ph": "/'liŋkidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聯合, 連鎖, 結合, 聯動",
+    "def": "an associative relation"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 連線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 linkages"
+ },
+ "linked": {
+  "ph": "/liŋkt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "連線的；顯示連環遺傳的；聯合的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 linked｜過去式 linked"
+ },
+ "linker": {
+  "ph": "/'liŋkә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 連線程式, 連結程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 linkers"
+ },
+ "linking": {
+  "ph": "/'liŋkiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 連線, 連結",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 linking｜複數 linkings"
+ },
+ "links": {
+  "ph": "/liŋks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高爾夫球場",
+    "def": "a golf course that is built on sandy ground near a shore"
+   }
+  ]
+ },
+ "linlithgow": {
+  "ph": "/'lin'liθɡəu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "林利斯戈（蘇格蘭地名）",
+    "def": ""
+   }
+  ]
+ },
+ "linnaean": {
+  "ph": "/li'ni:ən/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "林奈的（瑞典博物學家）；林奈式動植物分類法的",
+    "def": "of or relating to Linnaeus or to the system of taxonomic classification that Linnaeus proposed"
+   }
+  ]
+ },
+ "linnaeus": {
+  "ph": "/li'ni(:)әs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "林奈(①姓氏 ②Carolus, 1707-1778, 瑞典博物學家, 瑞典原名為 Karl von LinnМ)",
+    "def": ""
+   }
+  ]
+ },
+ "linnean": {
+  "ph": "/'lɪni:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]Linnaeus分類系統：同linnaean",
+    "def": ""
+   }
+  ]
+ },
+ "linnet": {
+  "ph": "/'linit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朱頂雀",
+    "def": "small Old World finch whose male has a red breast and forehead"
+   }
+  ],
+  "forms": "複數 linnets"
+ },
+ "lino": {
+  "ph": "/'lainәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油地氈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 linos"
+ },
+ "linocut": {
+  "ph": "/'lainә,kʌt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[刷]油氈浮雕的印刷圖樣, 亞麻油氈浮雕版",
+    "def": ""
+   }
+  ],
+  "forms": "複數 linocuts"
+ },
+ "linoleum": {
+  "ph": "/li'nәuliәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油地氈, 漆布",
+    "def": "a floor covering"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 油氈; 亞麻油氈",
+    "def": ""
+   }
+  ]
+ },
+ "linotype": {
+  "ph": "/'lainәutaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "整行鑄造排字機",
+    "def": "a typesetting machine operated from a keyboard that casts an entire line as a single slug of metal"
+   },
+   {
+    "pos": "vi.",
+    "zh": "以整行排字機排字",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "以整行排字機排",
+    "def": ""
+   }
+  ]
+ },
+ "linseed": {
+  "ph": "/'linsi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞麻籽",
+    "def": "the seed of flax used as a source of oil"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 亞麻子",
+    "def": ""
+   }
+  ]
+ },
+ "lint": {
+  "ph": "/lint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "繃帶用麻布, 皮棉",
+    "def": "fine ravellings of cotton or linen fibers"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 絨布(外科用布)",
+    "def": ""
+   }
+  ]
+ },
+ "lintel": {
+  "ph": "/'lintәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過樑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lintels"
+ },
+ "linton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "林頓",
+    "def": ""
+   }
+  ]
+ },
+ "linz": {
+  "ph": "/lints/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "林茨[奧地利北部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "lion": {
+  "ph": "/'laiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獅子, 獅子(星)座, 國際獅子會會員",
+    "def": "large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male"
+   }
+  ],
+  "forms": "複數 lions"
+ },
+ "lion's share": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "最大的份額",
+    "def": ""
+   }
+  ]
+ },
+ "lionel": {
+  "ph": "/'laiәnl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊昂內爾（男子名）",
+    "def": "The whelp of a lioness; a young lion."
+   }
+  ]
+ },
+ "lioness": {
+  "ph": "/'laiәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雌獅",
+    "def": "a female lion"
+   }
+  ],
+  "forms": "複數 lionesses"
+ },
+ "lionfish": {
+  "ph": "/'laiәn,fiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[魚]蓑鮋",
+    "def": "brightly striped fish of the tropical Pacific having elongated spiny fins"
+   }
+  ]
+ },
+ "lionize": {
+  "ph": "/'laiәnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "將...以名人待之, 遊覽...的名勝",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "結交名流",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lionized｜過去分詞 lionized｜現在分詞 lionizing｜第三人稱單數 lionizes"
+ },
+ "lions": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腰角；雄獅；獅子（lion的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "lip": {
+  "ph": "/lip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唇, 口緣, 唇狀構造",
+    "def": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以嘴唇碰, 輕輕說出",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "口頭上的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 大型互連網資訊包",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lips｜過去分詞 lipped"
+ },
+ "lip service": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "口惠",
+    "def": ""
+   }
+  ]
+ },
+ "lipid": {
+  "ph": "/'lipid, 'laipid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脂類, 類脂物, 脂質",
+    "def": "an oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrat"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 類脂; 脂質; 脂類",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lipids"
+ },
+ "lipless": {
+  "ph": "/'liplis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有嘴唇的, (器皿)沒有嘴的",
+    "def": "without a lip or lips"
+   }
+  ]
+ },
+ "lipman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lipman)人名；(英、法、葡)李普曼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "李普曼",
+    "def": ""
+   }
+  ]
+ },
+ "lipophilic": {
+  "ph": "/.lipәu'filik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "親脂性的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 親油的; 親脂的",
+    "def": ""
+   }
+  ]
+ },
+ "lipoprotein": {
+  "ph": "/.lipә'prәuti:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脂蛋白",
+    "def": "a conjugated protein having a lipid component; the principal means for transporting lipids in the blood"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 脂蛋白",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lipoproteins"
+ },
+ "liposome": {
+  "ph": "/'lipәjsәjm,'lai-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 脂質體",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 微脂粒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liposomes"
+ },
+ "liposuction": {
+  "ph": "/ˈlɪpəʊsʌkʃn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "脂肪抽吸[術]",
+    "def": ""
+   }
+  ]
+ },
+ "lipped": {
+  "ph": "/lipt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有嘴的, 長著嘴唇的",
+    "def": "having a lip or lips"
+   }
+  ],
+  "forms": "過去分詞 lipped"
+ },
+ "lippy": {
+  "ph": "/'lipi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛頂嘴的, 無禮的",
+    "def": ""
+   }
+  ]
+ },
+ "lipstick": {
+  "ph": "/'lipstik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "口紅, 唇膏",
+    "def": "makeup that is used to color the lips"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 口紅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lipsticks｜現在分詞 lipsticking｜過去式 lipsticked"
+ },
+ "lipsticked": {
+  "ph": "/'lɪpstɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "口紅；唇膏",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "塗口紅",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 lipsticked"
+ },
+ "lipton": {
+  "ph": "/'liptәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "李普頓（姓氏）；立頓公司（英國公司名, 出品茶飲料等）",
+    "def": ""
+   }
+  ]
+ },
+ "liquefaction": {
+  "ph": "/.likwi'fækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "液化, 溶解, 液化作用",
+    "def": "the conversion of a solid or a gas into a liquid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 液化; 液化作用",
+    "def": ""
+   }
+  ]
+ },
+ "liquefied": {
+  "ph": "/'lɪkwɪfaɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "液化的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "液化, 溶解( liquefy的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 liquefied"
+ },
+ "liquefy": {
+  "ph": "/'likwifai/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)溶解, (使)液化",
+    "def": "become liquid"
+   }
+  ],
+  "forms": "過去式 liquefied｜第三人稱單數 liquefies｜現在分詞 liquefying｜過去分詞 liquefied"
+ },
+ "liqueur": {
+  "ph": "/li'kjuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利口酒",
+    "def": "strong highly flavored sweet liquor usually drunk after a meal"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 香酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liqueurs"
+ },
+ "liquid": {
+  "ph": "/'likwid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "液體, 流體, 流音",
+    "def": "a substance that is liquid at room temperature and pressure"
+   },
+   {
+    "pos": "adj.",
+    "zh": "液體的, 透明的, 明亮的, 流動的, 易變的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liquids"
+ },
+ "liquidate": {
+  "ph": "/'likwideit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "償付, 清算, 掃除, 整理, 變賣, 消滅",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "清算, 清理",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 liquidated｜現在分詞 liquidating｜過去式 liquidated｜第三人稱單數 liquidates"
+ },
+ "liquidated": {
+  "ph": "/'lɪkwɪdeɪtɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "清算( liquidate的過去式和過去分詞 ); 清除（某人）; 清償; 變賣",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 liquidated｜過去分詞 liquidated"
+ },
+ "liquidation": {
+  "ph": "/.likwi'deiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "償還, 償付, 清算",
+    "def": "termination of a business operation by using its assets to discharge its liabilities"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 液化; 溶離法; 溶化分離法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liquidations"
+ },
+ "liquidator": {
+  "ph": "/'likwideitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清算人",
+    "def": "(law) a person (usually appointed by a court of law) who liquidates assets or preserves them for the benefit of affected parties"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 清算人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liquidators"
+ },
+ "liquidise": {
+  "ph": "/'likwidaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "<主英>=liquidize",
+    "def": ""
+   }
+  ]
+ },
+ "liquidity": {
+  "ph": "/li'kwiditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流動性, 流暢",
+    "def": "being in cash or easily convertible to cash; debt paying ability"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 流動性",
+    "def": ""
+   }
+  ]
+ },
+ "liquify": {
+  "ph": "/'likwifai/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)溶解, (使)液化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 liquified｜第三人稱單數 liquifies｜現在分詞 liquifying｜過去式 liquified"
+ },
+ "liquor": {
+  "ph": "/'likә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酒, 液體, 汁, 溶液",
+    "def": "an alcoholic beverage that is distilled rather than fermented"
+   },
+   {
+    "pos": "vt.",
+    "zh": "浸水",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "喝酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liquors"
+ },
+ "liquorice": {
+  "ph": "/'likәris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甘草",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 甘草",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liquorices"
+ },
+ "lira": {
+  "ph": "/'liәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "里拉",
+    "def": "the basic unit of money on Malta; equal to 100 cents"
+   }
+  ],
+  "forms": "複數 liras"
+ },
+ "lire": {
+  "ph": "/ˈlɪərə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（義大利和土耳其的貨幣單位）里拉( lira的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "lisa": {
+  "ph": "/'li:zә, 'laizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麗莎（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "lisbon": {
+  "ph": "/'lizbәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "里斯本(葡萄牙首都)",
+    "def": "capital and largest city and economic and cultural center of Portugal; a major port in western Portugal on Tagus River where it broadens and empties into the At"
+   }
+  ]
+ },
+ "lisburn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利斯本",
+    "def": ""
+   }
+  ]
+ },
+ "lise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麗絲（庫肯霍夫鬱金香公園名）",
+    "def": ""
+   }
+  ]
+ },
+ "lisle": {
+  "ph": "/lail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊爾線, 萊爾線織物",
+    "def": "a fabric woven with lisle thread"
+   },
+   {
+    "pos": "adj.",
+    "zh": "萊爾線的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lisles"
+ },
+ "lisp": {
+  "ph": "/lisp/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "咬著舌說",
+    "def": "speak with a lisp"
+   },
+   {
+    "pos": "n.",
+    "zh": "口齒不清",
+    "def": "a speech defect that involves pronouncing `s' like voiceless `th' and `z' like voiced `th'"
+   }
+  ],
+  "forms": "過去式 lisped｜第三人稱單數 lisps｜現在分詞 lisping｜複數 lisps｜過去分詞 lisped"
+ },
+ "lissa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lissa)人名；(意、瑞典、斯里)利薩；(德)莉薩",
+    "def": ""
+   }
+  ]
+ },
+ "lissome": {
+  "ph": "/'lisәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "柔軟的, 敏捷的",
+    "def": ""
+   }
+  ]
+ },
+ "list": {
+  "ph": "/list/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "目錄, 名單, 明細表, 布條, 條紋, 列表, 序列, 資料清單",
+    "def": "a database containing an ordered array of items (names or topics)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "列出, 列於表上, 記入名單內, 裝布條",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "列於表上",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 列表, 序列, 資料清單",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lists｜過去分詞 listed｜過去式 listed｜第三人稱單數 lists｜現在分詞 listing"
+ },
+ "listed": {
+  "ph": "/'listid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "列出的",
+    "def": "on a list"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 上市的, 已登入的, 表列的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 listed｜過去分詞 listed"
+ },
+ "listen": {
+  "ph": "/'lisn/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "聽, 傾聽, 聽從",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "聽, 傾聽",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 listened｜現在分詞 listening｜過去分詞 listened｜第三人稱單數 listens"
+ },
+ "listenable": {
+  "ph": "/'lisәnәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "值得一聽的",
+    "def": ""
+   }
+  ]
+ },
+ "listener": {
+  "ph": "/'lisnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "收聽者, 聽眾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 listeners"
+ },
+ "listenership": {
+  "ph": "/'lisәnәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聽眾(人數)",
+    "def": ""
+   }
+  ]
+ },
+ "listening": {
+  "ph": "/'lisniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聽, 監聽",
+    "def": "the act of hearing attentively"
+   },
+   {
+    "pos": "adj.",
+    "zh": "助聽用的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 listening｜複數 listenings"
+ },
+ "lister": {
+  "ph": "/'listә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙耕犁, 製表人",
+    "def": "English surgeon who was the first to use antiseptics (1827-1912)"
+   }
+  ],
+  "forms": "複數 listers"
+ },
+ "listeria": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 李司忒氏菌屬",
+    "def": ""
+   }
+  ]
+ },
+ "listeriosis": {
+  "ph": "/lis,tiәri'әjsis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 李司忒氏菌病",
+    "def": ""
+   }
+  ]
+ },
+ "listing": {
+  "ph": "/'listiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 列表, 清單, 編目",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 掛牌, 上市, 編表",
+    "def": ""
+   }
+  ],
+  "forms": "複數 listings｜現在分詞 listing"
+ },
+ "listless": {
+  "ph": "/'listlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "倦怠的, 無精打采的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 交易清淡的",
+    "def": ""
+   }
+  ]
+ },
+ "listlessly": {
+  "ph": "/'lɪstləslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無精打采地, 冷淡地",
+    "def": ""
+   }
+  ]
+ },
+ "listlessness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精神萎靡；無精打采",
+    "def": "inactivity resulting from lethargy and lack of vigor or energy"
+   }
+  ]
+ },
+ "liston": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利斯頓",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "狹絲帶",
+    "def": ""
+   }
+  ]
+ },
+ "listserv": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 郵寄名單服務程式",
+    "def": ""
+   }
+  ]
+ },
+ "liszt": {
+  "ph": "/list/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "李斯特(Franz, 1811-1886, 匈牙利鋼琴家、作曲家)",
+    "def": ""
+   }
+  ]
+ },
+ "lit": {
+  "ph": "/lit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "light的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lits"
+ },
+ "litany": {
+  "ph": "/'litәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連禱, 連續",
+    "def": "any long and tedious address or recital"
+   }
+  ],
+  "forms": "複數 litanies"
+ },
+ "lite": {
+  "ph": "/lait/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "低鹽的；清淡的；簡化的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lites"
+ },
+ "liter": {
+  "ph": "/'li:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公升",
+    "def": "a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or appr"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 升",
+    "def": ""
+   }
+  ]
+ },
+ "literacy": {
+  "ph": "/'litәrәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "讀寫能力, 識字, 精通文學",
+    "def": "the ability to read and write"
+   }
+  ],
+  "forms": "複數 literacies"
+ },
+ "literal": {
+  "ph": "/'litәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "逐字的, 字面上的, 文字的, 字母的",
+    "def": "limited to the explicit meaning of a word or text"
+   },
+   {
+    "pos": "n.",
+    "zh": "印刷錯誤",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 文字; 直接量; 字面量; 句節",
+    "def": ""
+   }
+  ],
+  "forms": "複數 literals"
+ },
+ "literalism": {
+  "ph": "/'litәrәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拘泥於字句",
+    "def": "the doctrine of realistic (literal) portrayal in art or literature"
+   }
+  ]
+ },
+ "literalization": {
+  "ph": "/,lɪtərəlɪ'zeʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "照字面解釋",
+    "def": "The act of literalizing; reduction to a literal"
+   }
+  ]
+ },
+ "literalize": {
+  "ph": "/'litәrәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "照字義解釋, 拘泥於字句",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 literalized｜第三人稱單數 literalizes｜現在分詞 literalizing｜過去式 literalized"
+ },
+ "literally": {
+  "ph": "/'litәrәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "逐字地, 按照字面上地, 不誇張地",
+    "def": ""
+   }
+  ]
+ },
+ "literalness": {
+  "ph": "/'litәrәlnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "字義上, 無修飾",
+    "def": "adhereing to the concrete construal of something"
+   }
+  ]
+ },
+ "literarily": {
+  "ph": "/'litәrәrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "文學上地, 學術上地",
+    "def": ""
+   }
+  ]
+ },
+ "literariness": {
+  "ph": "/'litәrәrinis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "文學性, 文藝性",
+    "def": ""
+   }
+  ]
+ },
+ "literary": {
+  "ph": "/'litәrәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "文學的, 文藝的, 精通文學的",
+    "def": "of or relating to or characteristic of literature"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 文學的, 從事文學的, 從事寫作的",
+    "def": ""
+   }
+  ]
+ },
+ "literate": {
+  "ph": "/'litәrit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學者",
+    "def": "a person who can read and write"
+   },
+   {
+    "pos": "adj.",
+    "zh": "有讀寫能力的, 精通文學的, 受過教育的",
+    "def": "able to read and write"
+   }
+  ],
+  "forms": "複數 literates"
+ },
+ "literati": {
+  "ph": "/.litә'rɑ:ti:. 'rɑ:ti:. -'reitai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文人（literatus的複數）；文學界",
+    "def": "the literary intelligentsia"
+   }
+  ],
+  "forms": "複數 literati"
+ },
+ "literature": {
+  "ph": "/'litәrәtʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文學, 文藝, 著作",
+    "def": "creative writing of recognized artistic value"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 廣告, 商品介紹等文學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 literatures"
+ },
+ "lithe": {
+  "ph": "/laið/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "柔軟的",
+    "def": ""
+   }
+  ]
+ },
+ "lithely": {
+  "ph": "/laɪðlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "柔軟地, 易變地",
+    "def": "In a lithe, pliant, or flexible manner."
+   }
+  ]
+ },
+ "lithium": {
+  "ph": "/'liθiәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鋰",
+    "def": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鋰Li",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lithiums"
+ },
+ "litho": {
+  "ph": "/'laiθәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石版印刷, 石版畫",
+    "def": ""
+   }
+  ]
+ },
+ "lithograph": {
+  "ph": "/'liθәugræf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平版印刷品, 石版畫",
+    "def": "a print produced by lithography"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以平版印刷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lithographs｜第三人稱單數 lithographs｜過去分詞 lithographed｜現在分詞 lithographing｜過去式 lithographed"
+ },
+ "lithographed": {
+  "ph": "/'lɪθəgrɑːf; 'laɪ-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[印刷]石印；平版畫(指石版或金屬版畫)；石版印刷品, 平版印刷品",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": ",vi. 用石版印刷, 用平版印刷術印刷",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lithographed"
+ },
+ "lithographer": {
+  "ph": "/li'θɒgrәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石版家, 石印工",
+    "def": "a printmaker who uses lithography"
+   }
+  ],
+  "forms": "複數 lithographers"
+ },
+ "lithographic": {
+  "ph": "/.liθә'græfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平版印刷的, 石版的",
+    "def": "of or produced by or involved in lithography"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 平版的; 平版印刷的; 石印的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lithographics"
+ },
+ "lithography": {
+  "ph": "/li'θɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平版印刷術",
+    "def": "a method of planographic printing from a metal or stone surface"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 平版印刷; 石印術",
+    "def": ""
+   }
+  ]
+ },
+ "lithosphere": {
+  "ph": "/'liθәu.sfiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "岩石圈, 陸界",
+    "def": "the solid part of the earth consisting of the crust and outer mantle"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 岩石圈",
+    "def": ""
+   }
+  ]
+ },
+ "lithotripsy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 碎石術",
+    "def": ""
+   }
+  ]
+ },
+ "lithuania": {
+  "ph": "/,liθju(:)'einjә, -niә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立陶宛",
+    "def": "a republic in northeastern Europe on the Baltic Sea"
+   }
+  ]
+ },
+ "lithuanian": {
+  "ph": "/.liθju:'einiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立陶宛人",
+    "def": "a native or inhabitant of Lithuania"
+   },
+   {
+    "pos": "adj.",
+    "zh": "立陶宛的, 立陶宛人的, 立陶宛語的",
+    "def": "of or relating to or characteristic of Lithuania or its people or language"
+   }
+  ],
+  "forms": "複數 lithuanians"
+ },
+ "litigant": {
+  "ph": "/'litigәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "訴訟的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "訴訟當事人, 訴訟關係人",
+    "def": "(law) a party to a lawsuit; someone involved in litigation"
+   }
+  ],
+  "forms": "複數 litigants"
+ },
+ "litigate": {
+  "ph": "/'litigeit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "對簿法庭",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "在法庭相爭, 訴訟",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 litigated｜現在分詞 litigating｜過去式 litigated｜第三人稱單數 litigates"
+ },
+ "litigated": {
+  "ph": "/ˈlitiɡeitid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "提出訴訟( litigate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "litigation": {
+  "ph": "/.liti'geiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訴訟, 起訴",
+    "def": "a legal proceeding in a court; a judicial contest to determine and enforce legal rights"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 訴訟, 糾葛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 litigations"
+ },
+ "litigator": {
+  "ph": "/'lɪtɪgeɪtə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訴訟律師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 litigators"
+ },
+ "litigious": {
+  "ph": "/li'tidʒәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好訴訟的, 好爭論的",
+    "def": "of or relating to litigation"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 關於訴訟的, 可引起訴訟的, 好訴訟的",
+    "def": ""
+   }
+  ]
+ },
+ "litmus": {
+  "ph": "/'litmәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石蕊",
+    "def": "a coloring material (obtained from lichens) that turns red in acid solutions and blue in alkaline solutions; used as a very rough acid-base indicator"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 石蕊",
+    "def": ""
+   }
+  ]
+ },
+ "litre": {
+  "ph": "/li:tә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "升, 公升",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 升",
+    "def": ""
+   }
+  ],
+  "forms": "複數 litres"
+ },
+ "litter": {
+  "ph": "/'litә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "垃圾, 雜亂, 轎, 擔架",
+    "def": "the offspring at one birth of a multiparous mammal"
+   },
+   {
+    "pos": "vt.",
+    "zh": "亂丟, 鋪草, 弄亂",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "產仔, 亂丟垃圾",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 littered｜複數 litters｜過去式 littered｜現在分詞 littering｜第三人稱單數 litters"
+ },
+ "littered": {
+  "ph": "/ˈlitəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使雜亂( litter的過去式和過去分詞 ); 亂丟雜物; 亂扔; 使飽含",
+    "def": ""
+   }
+  ]
+ },
+ "littermate": {
+  "ph": "/'litәmeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同窩出生仔畜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 littermates"
+ },
+ "little": {
+  "ph": "/'litl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一點點, 少許, 一會兒, 短時間",
+    "def": "a small amount or duration"
+   },
+   {
+    "pos": "adj.",
+    "zh": "小的, 很少的, 幼小的, 瑣碎的, 短暫的, 矮小的",
+    "def": "(quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with `a') at least some"
+   },
+   {
+    "pos": "adv.",
+    "zh": "很少, 稍微, 完全不",
+    "def": ""
+   }
+  ]
+ },
+ "little finger": {
+  "ph": "/ˈlitl ˈfiŋɡə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小指",
+    "def": ""
+   }
+  ]
+ },
+ "littlehampton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利特爾漢普頓",
+    "def": ""
+   }
+  ]
+ },
+ "littlejohn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Littlejohn)人名；(英)利特爾約翰",
+    "def": ""
+   }
+  ]
+ },
+ "littleness": {
+  "ph": "/'litlnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "些許, 少量",
+    "def": ""
+   }
+  ]
+ },
+ "littler": {
+  "ph": "/'lɪt(ə)l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "小的, 不大的；(表示否定)(數量)微量的；不多的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "(表示否定)很少, 少到幾乎沒有；微小；[a little]",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(表示否定)微少；沒有多少；幾乎沒有；[a little](表示肯定)；少量；少許",
+    "def": ""
+   }
+  ]
+ },
+ "littleton": {
+  "ph": "/'litltәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利特爾頓（姓氏）；立託頓（美國一小鎮）",
+    "def": ""
+   }
+  ]
+ },
+ "littlewood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Littlewood)人名；(英)利特爾伍德",
+    "def": ""
+   }
+  ],
+  "forms": "複數 littlewoods"
+ },
+ "littlewoods": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(Littlewood 的複數) n. (Littlewood)人名；(英)利特爾伍德",
+    "def": ""
+   }
+  ]
+ },
+ "litton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利頓（英格蘭人姓氏）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "利通資源勘探儀器公司",
+    "def": ""
+   }
+  ]
+ },
+ "littoral": {
+  "ph": "/'litәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "海濱的, 湖岸的, 沿海的",
+    "def": "of or relating to a coastal or shore region"
+   },
+   {
+    "pos": "n.",
+    "zh": "沿海地, 沿海地區",
+    "def": "the region of the shore of a lake or sea or ocean"
+   }
+  ]
+ },
+ "liturgical": {
+  "ph": "/li'tә:dʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "禮拜儀式的",
+    "def": "of or relating to or in accord with liturgy"
+   }
+  ]
+ },
+ "liturgist": {
+  "ph": "/'litәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "禮拜儀式的權威",
+    "def": "an authority on liturgies"
+   }
+  ],
+  "forms": "複數 liturgists"
+ },
+ "liturgy": {
+  "ph": "/'litәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "禮拜儀式, 禱告文, 聖餐儀式",
+    "def": "a rite or body of rites prescribed for public worship"
+   }
+  ],
+  "forms": "複數 liturgies"
+ },
+ "liu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "線路介面單元；劉（中國姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "livability": {
+  "ph": "/,livә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(牲畜)存活率",
+    "def": ""
+   }
+  ]
+ },
+ "livable": {
+  "ph": "/'livәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生活過得有價值的, (生活)過得去的, 值得過的, 適於居住的",
+    "def": "fit or suitable to live in or with"
+   }
+  ]
+ },
+ "live": {
+  "ph": "/liv.laiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "活的, 生動的, 精力充沛的, 實況轉播的",
+    "def": "actually being performed at the time of hearing or viewing"
+   },
+   {
+    "pos": "vi.",
+    "zh": "活, 生存, 居住",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "過著, 度過, 經歷",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "實況地",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lived｜現在分詞 living｜第三人稱單數 lives｜過去分詞 lived｜複數 lives"
+ },
+ "liveable": {
+  "ph": "/'livәb(ә)l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生活過得有價值的, (生活)過得去的, 值得過的, 適於居住的",
+    "def": ""
+   }
+  ]
+ },
+ "livelihood": {
+  "ph": "/'laivlihud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生計, 營生, 生活",
+    "def": ""
+   }
+  ],
+  "forms": "複數 livelihoods"
+ },
+ "liveliness": {
+  "ph": "/'laivlinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "活潑, 快活, 熱鬧",
+    "def": "general activity and motion"
+   }
+  ]
+ },
+ "livelong": {
+  "ph": "/'livlɒŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "整個的",
+    "def": ""
+   }
+  ]
+ },
+ "lively": {
+  "ph": "/'laivli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "活潑的, 鮮明的, 生動的",
+    "def": "full of life and energy"
+   }
+  ],
+  "forms": "比較級 livelier｜最高級 liveliest"
+ },
+ "liven": {
+  "ph": "/'laivәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使高興, 使快活",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "快活起來",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 liven｜過去式 livened｜現在分詞 livening｜第三人稱單數 livens"
+ },
+ "liver": {
+  "ph": "/'livә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肝臟, 生活者, 居民",
+    "def": "large and complicated reddish-brown glandular organ located in the upper right portion of the abdominal cavity; secretes bile and functions in metabolism of pro"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 肝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 livers"
+ },
+ "liveried": {
+  "ph": "/'livәrid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿制服的, 穿號衣的",
+    "def": "wearing livery"
+   }
+  ],
+  "forms": "過去式 liveried"
+ },
+ "livermore": {
+  "ph": "/'livə,mɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利弗莫爾（美國加利福尼亞州西部城市）",
+    "def": "United States suffragist (1820-1905)"
+   }
+  ]
+ },
+ "liverpool": {
+  "ph": "/'livәpu:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利物浦",
+    "def": "a large city in northwestern England; its port is the country's major outlet for industrial exports"
+   }
+  ]
+ },
+ "liverpudlian": {
+  "ph": "/.livә'pʌdliәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "利物浦的",
+    "def": "of or relating to Liverpool or its people"
+   },
+   {
+    "pos": "n.",
+    "zh": "利物浦市民",
+    "def": "a native or resident of Liverpool"
+   }
+  ],
+  "forms": "複數 liverpudlians"
+ },
+ "liverwort": {
+  "ph": "/'livәwә:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葉苔",
+    "def": "any of numerous small green nonvascular plants of the class Hepaticopsida growing in wet places and resembling green seaweeds or leafy mosses"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 苔類植物, 地錢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liverworts"
+ },
+ "liverwurst": {
+  "ph": "/'livәwә:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肝泥香腸",
+    "def": ""
+   }
+  ]
+ },
+ "livery": {
+  "ph": "/'livәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "制服, 侍從",
+    "def": "uniform worn by some menservants and chauffeurs"
+   },
+   {
+    "pos": "adj.",
+    "zh": "象肝的, 有肝病症狀的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liveries｜過去式 liveried｜過去分詞 liveried"
+ },
+ "livesey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Livesey)人名；(英)利夫西",
+    "def": ""
+   }
+  ],
+  "forms": "複數 liveseys"
+ },
+ "livestock": {
+  "ph": "/'laivstɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家畜",
+    "def": "any animals kept for use or profit"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 牲畜, 家畜",
+    "def": ""
+   }
+  ]
+ },
+ "livid": {
+  "ph": "/'livid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鐵青的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 青紫的",
+    "def": ""
+   }
+  ]
+ },
+ "lividity": {
+  "ph": "/'lividiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐵青",
+    "def": "a state of fury so great the face becomes discolored"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 紺, 青紫",
+    "def": ""
+   }
+  ]
+ },
+ "living": {
+  "ph": "/'liviŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生活, 生計, 生存",
+    "def": "people who are still living"
+   },
+   {
+    "pos": "adj.",
+    "zh": "活的, 逼真的, 現存的",
+    "def": "pertaining to living persons"
+   }
+  ],
+  "forms": "現在分詞 living｜複數 livings"
+ },
+ "living room": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "客廳, 起居室",
+    "def": ""
+   }
+  ]
+ },
+ "living standard": {
+  "ph": "/ˈliviŋ ˈstændəd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生活標準; 生活水平",
+    "def": ""
+   }
+  ]
+ },
+ "living-room": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "起居室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 living-rooms"
+ },
+ "livingston": {
+  "ph": "/'liviŋstən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利文斯頓（美國新澤西州東北部城鎮）",
+    "def": "American Revolutionary leader who served in the Continental Congress and as minister to France (1746-1813)"
+   }
+  ]
+ },
+ "livingstone": {
+  "ph": "/'liviŋstәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "利文斯敦[尚比亞西南部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "livre": {
+  "ph": "/'li:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡弗赫(古時法國貨幣名)",
+    "def": "A French money of account, afterward a silver coin equal to"
+   }
+  ],
+  "forms": "複數 livres"
+ },
+ "liz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉斯（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "liza": {
+  "ph": "/'laizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉莎（女子名）",
+    "def": "similar to the striped mullet and takes its place in the Caribbean region"
+   }
+  ]
+ },
+ "lizard": {
+  "ph": "/'lizәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜥蜴",
+    "def": "relatively long-bodied reptile with usually two pairs of legs and a tapering tail"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蜥蜴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lizards"
+ },
+ "lizzie": {
+  "ph": "/'lizi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉齊（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "lizzy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利齊（女名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lizzies"
+ }
+}

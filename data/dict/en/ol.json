@@ -1,0 +1,708 @@
+{
+ "o level": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "普通程度；普通水平",
+    "def": ""
+   }
+  ]
+ },
+ "ol": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 油",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ols"
+ },
+ "ola": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "occipito-laeva anterior 左前枕骨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 olas"
+ },
+ "olaf": {
+  "ph": "/'әulәf, 'ɔl-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧拉夫（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "old": {
+  "ph": "/әuld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "以前, 往昔",
+    "def": "past times (especially in the phrase `in days of old')"
+   },
+   {
+    "pos": "adj.",
+    "zh": "老的, 舊的, 古老的, 年長的, 老練的",
+    "def": "(used especially of persons) having lived for a relatively long time or attained a specific age"
+   }
+  ],
+  "forms": "比較級 older｜最高級 oldest｜複數 olds"
+ },
+ "old age": {
+  "ph": "/əuld eidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晚年; 白頭; 老境; 老年期",
+    "def": ""
+   }
+  ]
+ },
+ "old boy": {
+  "ph": "/əuld bɔi/",
+  "senses": [
+   {
+    "pos": "na.",
+    "zh": "校友, 老同學; （英國公學的）畢業生; 〈謔〉魔鬼",
+    "def": ""
+   }
+  ]
+ },
+ "old fashioned": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "古典雞尾酒",
+    "def": ""
+   }
+  ]
+ },
+ "old girl": {
+  "ph": "/əuld ɡə:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女校友; 老太婆; 姑娘, 大姐（用於打招呼）",
+    "def": ""
+   }
+  ]
+ },
+ "old guard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "保守派",
+    "def": ""
+   }
+  ]
+ },
+ "old lady": {
+  "ph": "/əuld ˈleidi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老婦人, 母親; 老太太",
+    "def": ""
+   }
+  ]
+ },
+ "old man": {
+  "ph": "/əuld mæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "非正式用語; 有些人稱它們的父親、丈夫或男性朋友為“老頭兒”; 老爸; 丈夫 （非正式用語）",
+    "def": ""
+   }
+  ]
+ },
+ "old master": {
+  "ph": "/əuld ˈmɑ:stə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（早期的）繪畫大師, 早期繪畫大師的作品",
+    "def": ""
+   }
+  ]
+ },
+ "old testament": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "基督教的《舊約全書》",
+    "def": ""
+   }
+  ]
+ },
+ "old-style": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "舊式的, 老派的",
+    "def": ""
+   }
+  ]
+ },
+ "old-time": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "從前的, 舊式的, 老練的",
+    "def": ""
+   }
+  ]
+ },
+ "olde": {
+  "ph": "/əʊld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（用於地名或廣告）古的, 老的",
+    "def": ""
+   }
+  ]
+ },
+ "olden": {
+  "ph": "/әuldn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "古時的, 從前的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使衰老",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變老",
+    "def": ""
+   }
+  ]
+ },
+ "oldenburg": {
+  "ph": "/'əuldənbə:ɡ; -buk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧爾登堡（德國西南部城市名）",
+    "def": "United States sculptor (born in Sweden); a leader of the pop art movement who was noted for giant sculptures of common objects (born in 1929)"
+   }
+  ]
+ },
+ "oldfield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧德菲爾德",
+    "def": ""
+   }
+  ]
+ },
+ "oldham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧爾德姆（英國一座城市）",
+    "def": ""
+   }
+  ]
+ },
+ "oldie": {
+  "ph": "/'әjldi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老人, 陳舊之物",
+    "def": "a song that was formerly popular"
+   }
+  ]
+ },
+ "oldish": {
+  "ph": "/'әuldiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "稍老的, 稍舊的",
+    "def": ""
+   }
+  ]
+ },
+ "oldman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧德曼（姓）",
+    "def": ""
+   }
+  ]
+ },
+ "oldness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "年老；陳腐；陳舊",
+    "def": "the opposite of youngness"
+   }
+  ]
+ },
+ "oldster": {
+  "ph": "/'әuldstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老人",
+    "def": "an elderly person"
+   }
+  ],
+  "forms": "複數 oldsters"
+ },
+ "oldy": {
+  "ph": "/'әuldi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老人；陳舊之物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oldies"
+ },
+ "ole": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "物件連結和嵌入",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 物件連結和嵌入",
+    "def": ""
+   }
+  ]
+ },
+ "oleander": {
+  "ph": "/.әuli'ændә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歐洲夾竹桃",
+    "def": "an ornamental but poisonous flowering shrub having narrow evergreen leaves and clusters of fragrant white to pink or red flowers: native to East Indies but wide"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 夾竹桃",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oleanders"
+ },
+ "olefin": {
+  "ph": "/'әulifin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石蠟, 烯烴",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 烯烴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 olefins"
+ },
+ "oleg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧列格（俄羅斯名）",
+    "def": ""
+   }
+  ]
+ },
+ "oleo": {
+  "ph": "/'әuliәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人造黃油, 人造乳酪",
+    "def": ""
+   }
+  ]
+ },
+ "olfaction": {
+  "ph": "/ɒl'fækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嗅覺",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 嗅覺, 嗅",
+    "def": ""
+   }
+  ]
+ },
+ "olfactory": {
+  "ph": "/ɒl'fæktәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嗅覺的, 味道的",
+    "def": "of or relating to olfaction"
+   },
+   {
+    "pos": "n.",
+    "zh": "嗅覺器官, 嗅神經",
+    "def": ""
+   }
+  ]
+ },
+ "olga": {
+  "ph": "/'ɔl^ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧爾加（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "oligarch": {
+  "ph": "/'ɒligɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寡頭政治執政者",
+    "def": "one of the rulers in an oligarchy"
+   }
+  ],
+  "forms": "複數 oligarchs"
+ },
+ "oligarchic": {
+  "ph": "/,ɔli'^ɑ:kik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 少數的, 寡頭的",
+    "def": ""
+   }
+  ]
+ },
+ "oligarchy": {
+  "ph": "/'ɒligɑ:ki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寡頭政治, 寡頭政治的政府",
+    "def": "a political system governed by a few people"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 寡頭政治, 寡頭政治集團, 少數人壟斷的組織",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oligarchies"
+ },
+ "oligonucleotide": {
+  "ph": "/,ɔli^әj'nju:kliәjtaid,-tid,ә,li-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 低核苷酸; 低聚核苷酸; 寡核苷酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oligonucleotides｜第三人稱單數 oligonucleotides"
+ },
+ "oligopolistic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "由少數把持的; 寡佔的; 由少數壟斷的",
+    "def": ""
+   }
+  ]
+ },
+ "oligopoly": {
+  "ph": "/.ɒli'gɒpәli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "求過於供的市場情況, 寡頭買主壟斷",
+    "def": "(economics) a market in which control over the supply of a commodity is in the hands of a small number of producers and each one can influence prices and affect"
+   }
+  ],
+  "forms": "複數 oligopolies"
+ },
+ "oliphant": {
+  "ph": "/'ɔlifәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(古代獵人用的)象牙號角",
+    "def": ""
+   }
+  ]
+ },
+ "olive": {
+  "ph": "/'ɒliv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橄欖, 橄欖樹, 橄欖色, 橄欖枝",
+    "def": "small ovoid fruit of the European olive tree; important food and source of oil"
+   },
+   {
+    "pos": "adj.",
+    "zh": "黃綠色的, 黃褐色的, 橄欖色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 olives"
+ },
+ "olive oil": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "橄欖油",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 橄欖油",
+    "def": ""
+   }
+  ]
+ },
+ "oliveira": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Oliveira)人名；(西、葡)奧利韋拉",
+    "def": ""
+   }
+  ]
+ },
+ "oliver": {
+  "ph": "/'ɒlivә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳踏鐵錘",
+    "def": "United States jazz musician who influenced the style of Louis Armstrong (1885-1938)"
+   }
+  ]
+ },
+ "olivetti": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好利獲得（義大利電信公司）；奧利維蒂（義大利豔星）",
+    "def": ""
+   }
+  ]
+ },
+ "olivia": {
+  "ph": "/'ɔliviә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧利維亞（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "olivier": {
+  "ph": "/əu'liviə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧利維爾（男子名）",
+    "def": "English actor best know for his Shakespearean roles (1907-1989)"
+   }
+  ]
+ },
+ "olivine": {
+  "ph": "/.ɒli'vi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橄欖石",
+    "def": "a mineral consisting of magnesium iron silicate; a source of magnesium"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 橄欖石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 olivines｜第三人稱單數 olivines"
+ },
+ "ollie": {
+  "ph": "/'ɔli/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧利(男子名, Oliver 的暱稱)",
+    "def": ""
+   }
+  ]
+ },
+ "olney": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（人名）奧爾尼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "奧爾尼",
+    "def": ""
+   }
+  ]
+ },
+ "olomouc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧洛莫烏茨",
+    "def": ""
+   }
+  ]
+ },
+ "olsen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧爾森（姓氏）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 olsens"
+ },
+ "olson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Olson)人名；(瑞典、芬、西、印尼)奧爾松；(英)奧爾森",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "奧爾森",
+    "def": ""
+   }
+  ]
+ },
+ "olympia": {
+  "ph": "/әu'limpiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧林匹亞",
+    "def": "capital of the state of Washington; located in western Washington on Puget Sound"
+   }
+  ]
+ },
+ "olympiad": {
+  "ph": "/әu'limpiæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(四年一次的)奧林匹克世界運動大會, 四年週期",
+    "def": "one of the four-year intervals between Olympic Games; used to reckon time in ancient Greece for twelve centuries beginning in 776 BC"
+   }
+  ]
+ },
+ "olympian": {
+  "ph": "/әu'limpiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "威嚴的；奧林匹克競賽的；奧林匹斯山的",
+    "def": "of the region of Olympia in Greece or its inhabitants"
+   }
+  ],
+  "forms": "複數 olympians"
+ },
+ "olympic": {
+  "ph": "/әu'limpik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奧林匹亞的, 奧林匹斯山的, 強有力的, 巨大的",
+    "def": "of or relating to the Olympic Games"
+   }
+  ],
+  "forms": "複數 olympics"
+ },
+ "olympic games": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧運會",
+    "def": ""
+   }
+  ]
+ },
+ "olympics": {
+  "ph": "/әu'limpiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧林匹克運動會",
+    "def": ""
+   }
+  ]
+ },
+ "olympus": {
+  "ph": "/әu'limpәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧林匹斯山, 天堂",
+    "def": "a mountain peak in northeast Greece near the Aegean coast; believed by ancient Greeks to be the dwelling place of the gods (9,570 feet high)"
+   }
+  ]
+ }
+}

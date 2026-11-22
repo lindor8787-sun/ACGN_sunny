@@ -1,0 +1,73 @@
+{
+ "pp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "包裹郵遞, 包裹郵件, 郵包, 包裹郵務處, 過去分詞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 並行列印, 並行處理器, 列印位置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pps"
+ },
+ "ppd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "郵費付訖的",
+    "def": ""
+   }
+  ]
+ },
+ "ppg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "聚丙二醇；脈衝程式發生器（ programme pulse generator）；每加侖脈衝數（Pulses Per Gallon）；聚醚",
+    "def": ""
+   }
+  ]
+ },
+ "ppl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "等離子體物理實驗所[美]（Plasma Physics Laboratory）；等離子體噴射推進實驗所[美]（Plasma Propulsion Laboratory）；多用途程式設計語言（Polymorphic Programming Language）",
+    "def": ""
+   }
+  ]
+ },
+ "ppm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 百萬分率",
+    "def": ""
+   }
+  ]
+ },
+ "ppp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 點到點協議",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] PPP法",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,978 @@
+{
+ "kn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "海里（knot）；克朗（krona）",
+    "def": ""
+   }
+  ]
+ },
+ "knack": {
+  "ph": "/næk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熟練技術, 巧妙手法, 訣竅",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 竅門",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knacks｜過去式 knacked"
+ },
+ "knacker": {
+  "ph": "/'nækә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屠馬業者, 收買廢屋船業者",
+    "def": "someone who buys old buildings or ships and breaks them up to recover the materials in them"
+   },
+   {
+    "pos": "v.",
+    "zh": "殺死, 使筋疲力盡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knackers｜過去式 knackered｜過去分詞 knackered"
+ },
+ "knackered": {
+  "ph": "/'nækәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "筋疲力盡的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 knackered｜過去式 knackered"
+ },
+ "knapp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "打碎；打；敲；咬；拗斷",
+    "def": ""
+   }
+  ]
+ },
+ "knapsack": {
+  "ph": "/'næpsæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "揹包",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knapsacks"
+ },
+ "knapweed": {
+  "ph": "/'næpwi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黑矢車菊",
+    "def": "any of various plants of the genus Centaurea having purple thistlelike flowers"
+   }
+  ]
+ },
+ "knave": {
+  "ph": "/neiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惡棍, 騙徒, (紙牌的)傑克",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 流氓行為, 無賴, 惡棍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knaves"
+ },
+ "knead": {
+  "ph": "/ni:d/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "揉, 按摩, 捏",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 揉合",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 kneading｜過去式 kneaded｜第三人稱單數 kneads｜過去分詞 kneaded"
+ },
+ "kneaded": {
+  "ph": "/'ni:dɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "揉( knead的過去式和過去分詞 ); 捏（麵糰、溼粘土等）; 按摩; 揉捏（肌肉等）",
+    "def": ""
+   }
+  ]
+ },
+ "kneading": {
+  "ph": "/'ni:diŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 捏和; 捏合",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 揉捏法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 kneading"
+ },
+ "knee": {
+  "ph": "/ni:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膝, 膝蓋",
+    "def": "hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella"
+   },
+   {
+    "pos": "vt.",
+    "zh": "膝行, 用膝蓋碰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knees｜現在分詞 kneeing"
+ },
+ "kneecap": {
+  "ph": "/'ni:kæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膝蓋骨, 護膝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 kneecaps｜現在分詞 kneecapping｜過去式 kneecapped｜第三人稱單數 kneecaps｜過去分詞 kneecapped"
+ },
+ "kneel": {
+  "ph": "/ni:l/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "跪下",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 knelt｜現在分詞 kneeling｜第三人稱單數 kneels｜過去分詞 knelt"
+ },
+ "kneeler": {
+  "ph": "/'ni:lә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跪者, 跪拜者, 跪臺",
+    "def": "a person in a kneeling position"
+   }
+  ],
+  "forms": "複數 kneelers"
+ },
+ "kneeling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跪著, 跪下",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 kneeling"
+ },
+ "knell": {
+  "ph": "/nel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喪鐘聲, 哀傷的聲音, 凶兆",
+    "def": "the sound of a bell rung slowly to announce a death or a funeral or the end of something"
+   },
+   {
+    "pos": "v.",
+    "zh": "鳴喪鐘",
+    "def": "ring as in announcing death"
+   }
+  ],
+  "forms": "過去分詞 knelled｜複數 knells｜現在分詞 knelling｜過去式 knelled｜第三人稱單數 knells"
+ },
+ "knesset": {
+  "ph": "/'kneset/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(以色列)議會",
+    "def": "the Israeli unicameral parliament"
+   }
+  ]
+ },
+ "knicker": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "女褲",
+    "def": ""
+   }
+  ]
+ },
+ "knickerbocker": {
+  "ph": "/'nikәbɔkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荷蘭移民的後代, 紐約人, 燈籠褲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knickerbockers｜過去式 knickerbockered"
+ },
+ "knickers": {
+  "ph": "/'nikәz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短褲, 燈籠褲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knickers"
+ },
+ "knickknacks": {
+  "ph": "/'nɪknæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小玩意兒；小衣飾；小擺設；[輕] 小裝飾物",
+    "def": ""
+   }
+  ]
+ },
+ "knife": {
+  "ph": "/naif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小刀, 匕首",
+    "def": "edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle"
+   },
+   {
+    "pos": "vt.",
+    "zh": "切割, 傷害, 切, 戳",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "劈開, 穿過",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knives｜過去分詞 knifed｜現在分詞 knifing｜過去式 knifed｜第三人稱單數 knifes"
+ },
+ "knifepoint": {
+  "ph": "/'naifpɔint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刀尖",
+    "def": ""
+   }
+  ]
+ },
+ "knight": {
+  "ph": "/nait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎士, 爵士",
+    "def": "originally a person of noble birth trained to arms and chivalry; today in Great Britain a person honored by the sovereign for personal merit"
+   },
+   {
+    "pos": "vt.",
+    "zh": "授以爵位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knights｜過去分詞 knighted｜過去式 knighted｜第三人稱單數 knights｜現在分詞 knighting"
+ },
+ "knighthood": {
+  "ph": "/'naithud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎士身分, 騎士氣質, 騎士",
+    "def": "aristocrats holding the rank of knight"
+   }
+  ],
+  "forms": "複數 knighthoods"
+ },
+ "knightley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奈特利（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "knightly": {
+  "ph": "/'naitli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "騎士的, 勇敢的, 俠義的",
+    "def": ""
+   }
+  ]
+ },
+ "knighton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Knighton)人名；(英)奈頓",
+    "def": ""
+   }
+  ]
+ },
+ "knightsbridge": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "騎士橋（倫敦街道名）",
+    "def": ""
+   }
+  ]
+ },
+ "knit": {
+  "ph": "/nit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "編織, 結合",
+    "def": "make (textiles) by knitting"
+   }
+  ],
+  "forms": "現在分詞 knitting｜過去分詞 knitted｜過去式 knit｜第三人稱單數 knits｜複數 knits"
+ },
+ "knitted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "knit的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 knitted｜過去分詞 knitted｜複數 knitteds"
+ },
+ "knitter": {
+  "ph": "/'nitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "編結者, 編織工人, 編織機, 針織機",
+    "def": "someone who makes garments (or fabrics) by intertwining yarn or thread"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 編織機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knitters"
+ },
+ "knitting": {
+  "ph": "/'nitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "編結, 針織法, 針織, 編結法, 編結物, 針織品",
+    "def": "creating knitted wear"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 骨癒合",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 knitting"
+ },
+ "knitwear": {
+  "ph": "/'nit,weә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "針織品",
+    "def": "knitted clothing"
+   }
+  ]
+ },
+ "kno": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Kano, Nigeria (tracking station) 卡努搜查局, 奈及利亞",
+    "def": ""
+   }
+  ]
+ },
+ "knob": {
+  "ph": "/nɒb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "把手, 瘤, 旋鈕, 球形突出物",
+    "def": "a circular rounded projection or protuberance"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使有球形突出物",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "鼓起",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knobs｜過去式 knobbed｜現在分詞 knobbing"
+ },
+ "knobbly": {
+  "ph": "/'nɔbli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有球形突出物的, 有小圓塊的, 多疙瘩的, 有節的, 有小節的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 knobblier"
+ },
+ "knobby": {
+  "ph": "/'nɒbi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多節的, 多瘤的",
+    "def": ""
+   }
+  ]
+ },
+ "knock": {
+  "ph": "/nɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敲, 敲打, 敲門",
+    "def": "the sound of knocking (as on a door or in an engine or bearing)"
+   },
+   {
+    "pos": "v.",
+    "zh": "敲擊, 互撞, 攻擊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 knocked｜過去分詞 knocked｜現在分詞 knocking｜複數 knocks｜第三人稱單數 knocks"
+ },
+ "knock-on": {
+  "ph": "/'nɔk'ɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漏球",
+    "def": ""
+   }
+  ]
+ },
+ "knockabout": {
+  "ph": "/'nɒkәbaut/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亂打的, 喧囂的, 放蕩性的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "喧鬧的爭論(或吵架), 單桅帆船",
+    "def": "a sloop with a simplified rig and no bowsprit"
+   }
+  ],
+  "forms": "複數 knockabouts"
+ },
+ "knockdown": {
+  "ph": "/'nɒkdaun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "擊倒的, 可拆卸的, 廉價的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "壓倒, 可拆卸傢俱",
+    "def": "a blow that knocks the opponent off his feet"
+   }
+  ],
+  "forms": "複數 knockdowns"
+ },
+ "knocker": {
+  "ph": "/'nɒkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敲擊者(或物), 敲門者, 門環",
+    "def": "(Yiddish) a big shot who knows it and acts that way; a boastful immoderate person"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 開錘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knockers"
+ },
+ "knocking": {
+  "ph": "/'nɔkiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 爆震內燃機",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 knocking｜複數 knockings"
+ },
+ "knockoff": {
+  "ph": "/'nɒkɔ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "名牌仿製品; 冒牌服裝",
+    "def": "an unauthorized copy or imitation"
+   }
+  ]
+ },
+ "knockout": {
+  "ph": "/'nɔ'kaut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(拳擊)擊倒對方, 被擊倒, 擊倒, (非正式)令人傾慕的人/物, 轟動的事物",
+    "def": "a blow that renders the opponent unconscious"
+   },
+   {
+    "pos": "adj.",
+    "zh": "擊倒的, 引人注目的, 轟動的, 使昏迷的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knockouts"
+ },
+ "knoll": {
+  "ph": "/nәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小山, 圓丘",
+    "def": "a small natural hill"
+   },
+   {
+    "pos": "vt.",
+    "zh": "敲鐘",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "敲響",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knolls｜過去分詞 knolled"
+ },
+ "knopf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Knopf)人名；(德、瑞典、捷)克諾普夫；(英)克諾夫",
+    "def": ""
+   }
+  ]
+ },
+ "knossos": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克諾索斯（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "knot": {
+  "ph": "/nɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結, 群, 難題",
+    "def": "a tight cluster of people or things"
+   },
+   {
+    "pos": "v.",
+    "zh": "打結, (使)糾纏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knots｜過去式 knotted｜過去分詞 knotted｜現在分詞 knotting｜第三人稱單數 knots"
+ },
+ "knothole": {
+  "ph": "/'nɒthәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節孔",
+    "def": "a hole in a board where a knot came out"
+   }
+  ],
+  "forms": "複數 knotholes"
+ },
+ "knott": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Knott)人名；(德)克諾特；(英)諾特",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 knotts"
+ },
+ "knotted": {
+  "ph": "/'nɔtid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多節的, 有節的；棘手的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 knotted｜過去式 knotted"
+ },
+ "knotty": {
+  "ph": "/'nɒti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有結的, 多節的, 多瘤的, 棘手的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 knottiest｜比較級 knottier"
+ },
+ "know": {
+  "ph": "/nәu/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "知道, 瞭解, 認識, 確信",
+    "def": "be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about"
+   }
+  ],
+  "forms": "過去式 knew｜過去分詞 known｜第三人稱單數 knows｜現在分詞 knowing"
+ },
+ "know-all": {
+  "ph": "/'nәj ɔ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自以為無所不知的人, 自稱無所不知的人, 知識裡手, 萬寶全書",
+    "def": ""
+   }
+  ],
+  "forms": "複數 know-alls"
+ },
+ "know-how": {
+  "ph": "/'nәuhau/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實際知識, 技術秘訣, 訣竅",
+    "def": "the (technical) knowledge and skill required to do something"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 技術訣竅",
+    "def": ""
+   }
+  ]
+ },
+ "knowable": {
+  "ph": "/'nәuәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可知的, 能認識的, 易知的",
+    "def": "capable of being known"
+   }
+  ]
+ },
+ "knower": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "認識者；理解者",
+    "def": "a person who knows or apprehends"
+   }
+  ],
+  "forms": "複數 knowers"
+ },
+ "knowhow": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "情報；實際的能力；專門技術；訣竅, 技巧",
+    "def": ""
+   }
+  ]
+ },
+ "knowing": {
+  "ph": "/'nәuiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "博學的, 聰穎的, 精明的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 knowing"
+ },
+ "knowingly": {
+  "ph": "/'nәjiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "會意地, 心照不宣地, 故意地, 有意地, 老練地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 心照不宣地, 故意地, 有意地",
+    "def": ""
+   }
+  ]
+ },
+ "knowingness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "知道",
+    "def": "shrewdness demonstrated by knowledge"
+   }
+  ]
+ },
+ "knowledgable": {
+  "ph": "/'nɔlidʒәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "知識淵博的, 有見識的",
+    "def": ""
+   }
+  ]
+ },
+ "knowledge": {
+  "ph": "/'nɒlidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "知識, 學問, 認識, 知道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knowledges"
+ },
+ "knowledgeable": {
+  "ph": "/'nɒlidʒәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聰明的, 有知識的",
+    "def": ""
+   }
+  ]
+ },
+ "knowledgeably": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有知識地；聰明地",
+    "def": ""
+   }
+  ]
+ },
+ "knowles": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國樓氏電子",
+    "def": ""
+   }
+  ]
+ },
+ "knowlton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "諾爾頓",
+    "def": ""
+   }
+  ]
+ },
+ "known": {
+  "ph": "/nәun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "已知的, 有名的",
+    "def": "apprehended with certainty"
+   },
+   {
+    "pos": "",
+    "zh": "know的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 known｜過去式 known"
+ },
+ "knowsley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "諾斯利",
+    "def": ""
+   }
+  ]
+ },
+ "knox": {
+  "ph": "/nɔks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "諾克斯（姓氏）",
+    "def": "Scottish theologian who founded Presbyterianism in Scotland and wrote a history of the Reformation in Scotland (1514-1572)"
+   }
+  ]
+ },
+ "knuckle": {
+  "ph": "/'nʌkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "指節, 蹄爪, 膝關節",
+    "def": "a joint of a finger when the fist is closed"
+   },
+   {
+    "pos": "v.",
+    "zh": "以指節打, 以手指射",
+    "def": "press or rub with the knuckles"
+   }
+  ],
+  "forms": "複數 knuckles｜過去式 knuckled｜現在分詞 knuckling｜第三人稱單數 knuckles｜過去分詞 knuckled"
+ },
+ "knuckleball": {
+  "ph": "/'nʌklbɔ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[棒](投手投出的)不旋轉球",
+    "def": "a baseball pitch thrown with little speed or spin"
+   }
+  ]
+ },
+ "knuckleballer": {
+  "ph": "/'nʌkl,bɔ:lә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[棒]不旋轉球投手",
+    "def": ""
+   }
+  ]
+ },
+ "knuckleduster": {
+  "ph": "/'nʌkl,dʌstә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[常作～s]=brass knuckles",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knuckledusters"
+ },
+ "knucklehead": {
+  "ph": "/'nʌklhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美> 蠢人, 傻瓜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 knuckleheads"
+ },
+ "knurled": {
+  "ph": "/nɜ:ld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有節的, 有凸邊的",
+    "def": "Full of knots; gnarled."
+   }
+  ],
+  "forms": "過去式 knurled"
+ },
+ "knutsford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Knutsford)人名；(英)納茨福德",
+    "def": ""
+   }
+  ]
+ }
+}

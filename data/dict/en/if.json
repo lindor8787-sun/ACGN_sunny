@@ -1,0 +1,68 @@
+{
+ "if": {
+  "ph": "/if/",
+  "senses": [
+   {
+    "pos": "conj.",
+    "zh": "如果, 是否, 無論何時, 假設, 即使",
+    "def": "In case that; granting, allowing, or supposing that; --"
+   },
+   {
+    "pos": "n.",
+    "zh": "條件",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] DOS批處理命令:根據所測試的條件決定是否執行另一條命令",
+    "def": ""
+   }
+  ]
+ },
+ "ifa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "整合檔案銜接器（Integrated File Adapter）；國際演員聯合會（International Federation of Actors）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ifas"
+ },
+ "iff": {
+  "ph": "/if/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 如果僅僅, 當且僅當, \"等價\"",
+    "def": ""
+   }
+  ]
+ },
+ "iffy": {
+  "ph": "/'ifi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "富於偶然性的, 可懷疑的, 未確定的",
+    "def": ""
+   }
+  ]
+ },
+ "ifs": {
+  "ph": "/ifs/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "installable file system 可安裝檔案系統; integral flange and skirt 綜合邊緣和環繞",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "不確定的事, 無把握的事( if的名詞複數 )",
+    "def": ""
+   }
+  ]
+ }
+}

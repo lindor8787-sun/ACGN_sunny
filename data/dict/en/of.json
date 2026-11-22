@@ -1,0 +1,749 @@
+{
+ "of": {
+  "ph": "/ɒv/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "的, 屬於",
+    "def": "In a general sense, from, or out from; proceeding from;"
+   }
+  ]
+ },
+ "of course": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "當然",
+    "def": ""
+   }
+  ]
+ },
+ "off": {
+  "ph": "/ɒf/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "關著的, 不再生效的, 處於...境況的, 休假的, 空閒的",
+    "def": "not in operation or operational"
+   },
+   {
+    "pos": "adv.",
+    "zh": "走開, ...掉, ...下, 休息, 出發, 隔斷",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "離開, 脫落, 不在從事......, 在...之外",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "離開, 滾開",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "殺死",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "關閉狀態",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 關閉, 清屏命令",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 offing｜過去式 offed｜第三人稱單數 offs｜過去分詞 offed"
+ },
+ "off duty": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "下班的",
+    "def": ""
+   }
+  ]
+ },
+ "off-balance": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不平衡的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "不平衡地",
+    "def": ""
+   }
+  ]
+ },
+ "off-key": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "走調的, 不正常的, 不適合的, 不和諧的",
+    "def": ""
+   }
+  ]
+ },
+ "off-the-wall": {
+  "ph": "/'ɔ:fðə'wɔ:l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "異乎尋常的; 古怪的; 瘋狂的; 瘋瘋癲癲的",
+    "def": ""
+   }
+  ]
+ },
+ "offa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Offa)人名；(英)奧法",
+    "def": ""
+   }
+  ]
+ },
+ "offal": {
+  "ph": "/'ɒfәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碎屑, 殘渣, 下水, 不能吃的部份, 垃圾, 被鄙棄的人",
+    "def": "viscera and trimmings of a butchered animal often considered inedible by humans"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 廢料; 下角料",
+    "def": ""
+   }
+  ],
+  "forms": "複數 offals"
+ },
+ "offbeat": {
+  "ph": "/'ɒfbi:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不平常的, 離奇的, 不落俗套的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "弱拍",
+    "def": ""
+   }
+  ]
+ },
+ "offcut": {
+  "ph": "/ˈɒfkʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（木材等的）斜料, 紙邊; 邊角料",
+    "def": "That which is cut off."
+   }
+  ],
+  "forms": "複數 offcuts"
+ },
+ "offenbach": {
+  "ph": "/'ɔ:fәnbɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧芬巴赫（德意志聯邦共和國中部城市）",
+    "def": "French composer of many operettas and an opera (1819-1880)"
+   }
+  ]
+ },
+ "offence": {
+  "ph": "/ә'fens/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犯罪, 冒犯, 違反, 罪過, 過錯, 攻擊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 犯法, 罪過, 過錯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 offences"
+ },
+ "offend": {
+  "ph": "/ә'fend/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "犯罪, 冒犯, 違反, 進攻",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 offended｜過去式 offended｜第三人稱單數 offends｜現在分詞 offending"
+ },
+ "offended": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不舒服, 生氣",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 offended｜過去式 offended"
+ },
+ "offender": {
+  "ph": "/ә'fendә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "罪犯, 無禮的人, 得罪人的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 offenders"
+ },
+ "offending": {
+  "ph": "/ә'fendiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不愉快的；厭惡的",
+    "def": "offending against or breaking a law or rule"
+   }
+  ],
+  "forms": "現在分詞 offending"
+ },
+ "offense": {
+  "ph": "/ә'fens/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犯罪, 傷感情, 攻擊",
+    "def": "the team that has the ball (or puck) and is trying to score"
+   }
+  ],
+  "forms": "複數 offenses"
+ },
+ "offensive": {
+  "ph": "/ә'fensiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人不快的, 侮辱的, 攻擊性的",
+    "def": "for the purpose of attack rather than defense"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 攻擊的, 進攻的, 冒犯的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 offensives"
+ },
+ "offensively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "冒犯地；討厭地",
+    "def": ""
+   }
+  ]
+ },
+ "offensiveness": {
+  "ph": "/ə'fensivnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冒犯；令人討厭；進攻",
+    "def": "the quality of being offensive"
+   }
+  ]
+ },
+ "offer": {
+  "ph": "/'ɒfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "給予(物), 出價, 提議, 意圖, 報價",
+    "def": "the verbal act of offering"
+   },
+   {
+    "pos": "vt.",
+    "zh": "提供, 出價, 奉獻, 試圖, 使出現, 演出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "出現, 獻祭, 提議, 求婚",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 offered｜第三人稱單數 offers｜現在分詞 offering｜過去式 offered｜複數 offers"
+ },
+ "offered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "提供, 提議；奉獻（offer過去時態）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 offered｜過去分詞 offered"
+ },
+ "offering": {
+  "ph": "/'ɒfәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提供, 奉獻物, 牲禮, 上市的股票(或證券等)",
+    "def": "money contributed to a religious organization"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 出售物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 offerings｜現在分詞 offering"
+ },
+ "offeror": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 報價(盤)人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 offerors"
+ },
+ "offertory": {
+  "ph": "/'ɒfәtәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奉獻儀式, 捐款, 奉獻曲",
+    "def": "the offerings of the congregation at a religious service"
+   }
+  ]
+ },
+ "offhand": {
+  "ph": "/'ɒf'hænd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "即時的, 即席的, 無準備的, 隨便的, 簡慢的, 不友好的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "即時地, 即席地, 隨便地",
+    "def": ""
+   }
+  ]
+ },
+ "offhandedly": {
+  "ph": "/ˌɒf'hændɪdlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "立即地; 即席地; 未經準備地; 不客氣地",
+    "def": ""
+   }
+  ]
+ },
+ "office": {
+  "ph": "/'ɒfis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辦公室, 部, 公職, 職責",
+    "def": "place of business where professional or clerical duties are performed"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 辦公室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 offices"
+ },
+ "officeholder": {
+  "ph": "/'ɔfis,hәjldә(r),'ɔ:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "官員",
+    "def": "someone who is appointed or elected to an office and who holds a position of trust"
+   }
+  ],
+  "forms": "複數 officeholders"
+ },
+ "officer": {
+  "ph": "/'ɒfisә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍官, 主管, 官員, 公務員",
+    "def": "a person authorized to serve in a position of authority on a vessel"
+   },
+   {
+    "pos": "vt.",
+    "zh": "指揮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 officers｜現在分詞 officering｜過去式 officered｜第三人稱單數 officers｜過去分詞 officered"
+ },
+ "official": {
+  "ph": "/ә'fiʃәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "官員, 公務員, 職員",
+    "def": "a worker who holds or is invested with an office"
+   },
+   {
+    "pos": "adj.",
+    "zh": "公務的, 官方的, 正式的",
+    "def": "having official authority or sanction"
+   }
+  ],
+  "forms": "複數 officials"
+ },
+ "officialdom": {
+  "ph": "/ә'fiʃәldәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "官場, 官僚圈子, 公務員, 官僚主義",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 官場, 公務員界, 官吏",
+    "def": ""
+   }
+  ]
+ },
+ "officially": {
+  "ph": "/ә'fiʃәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "作為公務員, 職務上, 官方地",
+    "def": ""
+   }
+  ]
+ },
+ "officiant": {
+  "ph": "/ә'fiʃiәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宗教儀式的司儀",
+    "def": "a clergyman who officiates at a religious ceremony or service"
+   }
+  ],
+  "forms": "複數 officiants"
+ },
+ "officiate": {
+  "ph": "/ә'fiʃieit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "執行, 司儀, 擔任(體育比賽)裁判",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "主持宗教儀式, 行使職務",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 officiating｜過去式 officiated｜過去分詞 officiated｜第三人稱單數 officiates"
+ },
+ "officiating": {
+  "ph": "/əˈfɪʃi:ˌeɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "行使（職務）( officiate的現在分詞 ); 主持（宗教儀式）",
+    "def": ""
+   }
+  ]
+ },
+ "officinale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "鐵皮石斛（植物名）",
+    "def": ""
+   }
+  ]
+ },
+ "officious": {
+  "ph": "/ә'fiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多管閒事的, 非官方的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 非官方的, 非正式的",
+    "def": ""
+   }
+  ]
+ },
+ "officiously": {
+  "ph": "/ə'fɪʃəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "過分殷勤地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "非官方地, 過分殷勤地",
+    "def": ""
+   }
+  ]
+ },
+ "offing": {
+  "ph": "/'ɒ:fiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海面, 離岸距離",
+    "def": "the near or foreseeable future"
+   }
+  ]
+ },
+ "offish": {
+  "ph": "/'ɒ:fiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不親熱的, 冷漠的, 疏遠的, 健康較差的",
+    "def": ""
+   }
+  ]
+ },
+ "offline": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 掛線, 離線",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 offlined｜現在分詞 offlining｜複數 offlines"
+ },
+ "offload": {
+  "ph": "/'ɔflәjd, ɔf'lәjd; (?@) 'ɔ:flәjd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "卸下, 卸貨",
+    "def": "transfer to a peripheral device, of computer data"
+   }
+  ],
+  "forms": "過去分詞 offloaded｜現在分詞 offloading｜第三人稱單數 offloads｜過去式 offloaded"
+ },
+ "offscreen": {
+  "ph": "/u:fsk'ri:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "畫面以外的, 實際生活中的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在電影攝影機拍攝距離外地",
+    "def": ""
+   }
+  ]
+ },
+ "offseason": {
+  "ph": "/ɔ:f'si:zn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淡季",
+    "def": ""
+   }
+  ]
+ },
+ "offset": {
+  "ph": "/'ɒ:fset/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抵消, 把...並列, 旁系, 支管, 用膠印法印",
+    "def": "a plate makes an inked impression on a rubber-blanketed cylinder, which in turn transfers it to the paper"
+   },
+   {
+    "pos": "vt.",
+    "zh": "彌補, 抵消, 膠印",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "裝支管",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "偏移量",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 偏移量",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 offset｜第三人稱單數 offsets｜現在分詞 offsetting｜過去式 offset｜複數 offsets"
+ },
+ "offsetting": {
+  "ph": "/'ɔ:f,setiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "位移；位移指線路；斜率, 不均勻性",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 offsetting"
+ },
+ "offshoot": {
+  "ph": "/'ɒ:fʃu:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分支, 旁系, 衍生事物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 offshoots"
+ },
+ "offshore": {
+  "ph": "/ɒ:f'ʃɒ:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "海面的, 吹向海面的, 近海的",
+    "def": "(of winds) coming from the land"
+   },
+   {
+    "pos": "adv.",
+    "zh": "向海面",
+    "def": ""
+   }
+  ]
+ },
+ "offside": {
+  "ph": "/'ɒ:f'said/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外側, 越位",
+    "def": "(sport) the mistake of occupying an illegal position on the playing field (in football, soccer, ice hockey, field hockey, etc.)"
+   }
+  ],
+  "forms": "複數 offsides"
+ },
+ "offspring": {
+  "ph": "/'ɒ:fspriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "子孫, 後代, 產物",
+    "def": "the immediate descendants of a person"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 後輩, 子孫, 後裔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 offsprings"
+ },
+ "offstage": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臺後, 幕內",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "臺後的, 幕內的",
+    "def": "situated or taking place in the area of a stage not visible to the audience"
+   }
+  ]
+ },
+ "oft": {
+  "ph": "/ɒ:ft/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "常常, 再三",
+    "def": ""
+   }
+  ]
+ },
+ "often": {
+  "ph": "/'ɒ:fn/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "時常, 常常",
+    "def": ""
+   }
+  ]
+ },
+ "oftentimes": {
+  "ph": "/'ɒ:fntaimz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "時常地",
+    "def": ""
+   }
+  ]
+ },
+ "ofttimes": {
+  "ph": "/'ɔft,taimz, 'ɔ:-/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "時常",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "gn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幾內亞（等於Guinea）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gns"
+ },
+ "gnarled": {
+  "ph": "/nɑ:ld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多節的, 扭曲的, 多瘤的, 粗糙的, 乖僻的, 乖戾的",
+    "def": ""
+   }
+  ]
+ },
+ "gnarly": {
+  "ph": "/'nɑ:li/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多瘤的, 粗糙的",
+    "def": ""
+   }
+  ]
+ },
+ "gnash": {
+  "ph": "/næʃ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "咬牙切齒",
+    "def": "grind together, of teeth"
+   },
+   {
+    "pos": "n.",
+    "zh": "咬",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 gnashing｜過去式 gnashed｜第三人稱單數 gnashes｜過去分詞 gnashed"
+ },
+ "gnashing": {
+  "ph": "/'næʃiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "氣得咬牙（gnash的ing形式）",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "氣得咬牙",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 gnashing｜複數 gnashings"
+ },
+ "gnat": {
+  "ph": "/næt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小昆蟲, 蚊子, 小煩擾",
+    "def": "any of various small biting flies: midges; biting midges; black flies; sand flies"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蚊, 蚋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gnats｜第三人稱單數 gnats"
+ },
+ "gnatcatcher": {
+  "ph": "/'næt,kætʃә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動]食蟲鳴禽",
+    "def": "very small North American and South American warblers"
+   }
+  ]
+ },
+ "gnaw": {
+  "ph": "/nɒ:/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "咬, 啃, 侵蝕, 消耗, 折磨",
+    "def": "bite or chew on with the teeth"
+   }
+  ],
+  "forms": "現在分詞 gnawing｜過去式 gnawed｜過去分詞 gnawed｜第三人稱單數 gnaws｜複數 gnaws"
+ },
+ "gnawing": {
+  "ph": "/'nɒ:iŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咬, 不斷的苦痛",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "咬的, 令人苦惱的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 gnawing"
+ },
+ "gneiss": {
+  "ph": "/nais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "片麻岩",
+    "def": "a laminated metamorphic rock similar to granite"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 片麻岩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gneisses"
+ },
+ "gnome": {
+  "ph": "/nәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格言, 箴言, 侏儒, 土地神",
+    "def": "a legendary creature resembling a tiny old man; lives in the depths of the earth and guards buried treasure"
+   }
+  ],
+  "forms": "複數 gnomes｜過去式 gnomed"
+ },
+ "gnomic": {
+  "ph": "/'nәumik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "格言的, 含格言的",
+    "def": "relating to or containing gnomes"
+   }
+  ]
+ },
+ "gnomon": {
+  "ph": "/'nәumɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "指時針；日晷",
+    "def": "indicator provided by the stationary arm whose shadow indicates the time on the sundial"
+   }
+  ]
+ },
+ "gnosis": {
+  "ph": "/'nәusis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 感悟",
+    "def": ""
+   }
+  ]
+ },
+ "gnostic": {
+  "ph": "/'nɔstik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 認識的, 感悟的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gnostics"
+ },
+ "gnp": {
+  "ph": "/dʒi:en'pi:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "國民生產總值",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 國民生產毛額",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gnps"
+ },
+ "gnu": {
+  "ph": "/nju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛羚, 角馬",
+    "def": "large African antelope having a head with horns like an ox and a long tufted tail"
+   }
+  ],
+  "forms": "複數 gnus"
+ }
+}

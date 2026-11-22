@@ -1,0 +1,754 @@
+{
+ "o'clock": {
+  "ph": "/ә'klɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "...點鐘, 鐘頭",
+    "def": ""
+   }
+  ]
+ },
+ "oc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 操作碼, 操作控制器",
+    "def": ""
+   }
+  ]
+ },
+ "occam": {
+  "ph": "/'ɔkәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧卡姆（姓氏）；奧克姆（品牌）",
+    "def": "English scholastic philosopher and assumed author of Occam's Razor (1285-1349)"
+   }
+  ]
+ },
+ "occasion": {
+  "ph": "/ә'keiʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "場合, 時機, 機會, 誘因, 理由",
+    "def": "reason"
+   },
+   {
+    "pos": "vt.",
+    "zh": "惹起, 引起",
+    "def": ""
+   }
+  ],
+  "forms": "複數 occasions｜過去分詞 occasioned｜現在分詞 occasioning｜過去式 occasioned｜第三人稱單數 occasions"
+ },
+ "occasional": {
+  "ph": "/ә'keiʒәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偶然的, 臨時的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 偶然的, 特殊場合的",
+    "def": ""
+   }
+  ]
+ },
+ "occasionally": {
+  "ph": "/ә'keiʒәnli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有時候, 偶而",
+    "def": ""
+   }
+  ]
+ },
+ "occidental": {
+  "ph": "/.ɒksi'dentәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歐美人, 西方人",
+    "def": "a native inhabitant of the Occident"
+   },
+   {
+    "pos": "adj.",
+    "zh": "歐美的, 西方的, 西方國家的",
+    "def": ""
+   }
+  ]
+ },
+ "occipital": {
+  "ph": "/ɒk'sipitl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "枕部的, 枕骨的",
+    "def": "of or relating to the occiput"
+   },
+   {
+    "pos": "n.",
+    "zh": "枕骨",
+    "def": ""
+   }
+  ]
+ },
+ "occlude": {
+  "ph": "/ә'klu:d/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使閉塞, 隔斷, 擋住",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "咬合",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 occludes｜過去分詞 occluded｜過去式 occluded｜現在分詞 occluding"
+ },
+ "occluded": {
+  "ph": "/əˈklu:did/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "堵塞( occlude的過去式和過去分詞 ); 阻隔; 吸收（氣體）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 occluded｜過去分詞 occluded"
+ },
+ "occlusion": {
+  "ph": "/ә'klu:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閉塞, 咬合, 包藏",
+    "def": "closure or blockage (as of a blood vessel)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 包藏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 occlusions"
+ },
+ "occlusive": {
+  "ph": "/ә'klu:siv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "閉塞的, 咬合的, 閉塞音的",
+    "def": "tending to occlude"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] Ж的, 咬合的, 閉塞的, 閉合的",
+    "def": ""
+   }
+  ]
+ },
+ "occult": {
+  "ph": "/ә'kʌlt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神秘的, 不可思議的, 超自然的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "掩蔽, 隱藏",
+    "def": "become concealed or hidden from view or have its light extinguished"
+   },
+   {
+    "pos": "n.",
+    "zh": "神秘之事, 神秘學",
+    "def": "supernatural practices and techniques"
+   }
+  ],
+  "forms": "現在分詞 occulting｜過去式 occulted｜第三人稱單數 occults｜過去分詞 occulted"
+ },
+ "occultation": {
+  "ph": "/.ɒkʌl'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "掩蔽, 遮掩, 掩星",
+    "def": ""
+   }
+  ],
+  "forms": "複數 occultations"
+ },
+ "occultism": {
+  "ph": "/ә'kʌltizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神秘學",
+    "def": "the study of the supernatural"
+   }
+  ]
+ },
+ "occultist": {
+  "ph": "/'ɔkәltist,-kʌl-,ә'kʌl-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神秘學者,術士",
+    "def": "a believer in occultism; someone versed in the occult arts"
+   }
+  ],
+  "forms": "複數 occultists"
+ },
+ "occupancy": {
+  "ph": "/'ɒkjupәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佔有, 居住, 佔用",
+    "def": "an act of being a tenant or occupant"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 佔據, 據有, 佔用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 occupancies"
+ },
+ "occupant": {
+  "ph": "/'ɒkjupәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佔有者, 居住者, 佔用者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 occupants"
+ },
+ "occupants": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "居住者；購買者；租賃人（occupant的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "occupation": {
+  "ph": "/.ɒkju'peiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "職業, 佔有, 佔有期, 佔領, 佔領軍",
+    "def": "the principal activity in your life that you do to earn money"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 佔有, 佔用, 職業",
+    "def": ""
+   }
+  ],
+  "forms": "複數 occupations"
+ },
+ "occupational": {
+  "ph": "/.ɒkju'peiʃәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "職業的, 軍事佔領的",
+    "def": "of or relating to the activity or business for which you are trained"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 職業的",
+    "def": ""
+   }
+  ]
+ },
+ "occupationally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "職業引起地",
+    "def": ""
+   }
+  ]
+ },
+ "occupied": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "已佔用的；使用中的；無空閒的",
+    "def": "held or filled or in use"
+   }
+  ],
+  "forms": "過去分詞 occupied｜過去式 occupied"
+ },
+ "occupier": {
+  "ph": "/'ɔkjjpaiә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佔用者, 居住者, 軍事佔領者",
+    "def": "a member of a military force who is residing in a conquered foreign country"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 佔用者, 居住者, 軍事佔領者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 occupiers"
+ },
+ "occupy": {
+  "ph": "/'ɒkjupai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "佔領, 佔(時間、空間等), 住進, 擔任, 使從事, 使全神貫注",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 佔領, 佔據, 佔有",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 occupied｜第三人稱單數 occupies｜過去式 occupied｜現在分詞 occupying"
+ },
+ "occupying": {
+  "ph": "/ˈɔkjupaiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "佔領( occupy的現在分詞 ); 使用; 使從事; 任職",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 occupying"
+ },
+ "occur": {
+  "ph": "/ә'kә:/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "發生, 被想到, 存在",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 occurs｜過去式 occurred｜過去分詞 occurred｜現在分詞 occurring"
+ },
+ "occurrence": {
+  "ph": "/ә'kʌrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發生, 事件, 出現",
+    "def": "an instance of something occurring"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 發生",
+    "def": ""
+   }
+  ],
+  "forms": "複數 occurrences"
+ },
+ "occurring": {
+  "ph": "/ә'kә:riŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "事件；事故；事變",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 occurring"
+ },
+ "ocean": {
+  "ph": "/'әuʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海洋, 廣闊, 許多, 一大片",
+    "def": "a large body of water constituting a principal part of the hydrosphere"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 海洋, 海",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oceans"
+ },
+ "oceanarium": {
+  "ph": "/,әuʃә'neәriәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大型水族館",
+    "def": ""
+   }
+  ]
+ },
+ "oceanfront": {
+  "ph": "/'әjʃәnfrʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海濱",
+    "def": "land bordering an ocean"
+   }
+  ]
+ },
+ "oceania": {
+  "ph": "/.әuʃi'æniә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大洋洲",
+    "def": "a large group of islands in the south Pacific including Melanesia and Micronesia and Polynesia (and sometimes Australasia and the Malay Archipelago)"
+   }
+  ]
+ },
+ "oceanic": {
+  "ph": "/.әuʃi'ænik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "海洋的, 產于海洋的, 在海洋中生活的, 廣闊的",
+    "def": "relating to or occurring or living in or frequenting the open ocean"
+   }
+  ],
+  "forms": "複數 oceanics"
+ },
+ "oceanographer": {
+  "ph": "/.әuʃiә'nɒgrәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海洋學家",
+    "def": "a scientist who studies physical and biological aspects of the seas"
+   }
+  ],
+  "forms": "複數 oceanographers"
+ },
+ "oceanographic": {
+  "ph": "/,әjʃiәnәj'^ræfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "海洋學",
+    "def": ""
+   }
+  ]
+ },
+ "oceanography": {
+  "ph": "/.әuʃiә'nɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海洋學",
+    "def": "the branch of science dealing with physical and biological aspects of the oceans"
+   }
+  ]
+ },
+ "ocelot": {
+  "ph": "/'әusilɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豹貓, 豹貓毛皮",
+    "def": "nocturnal wildcat of Central America and South America having a dark-spotted buff-brown coat"
+   }
+  ],
+  "forms": "複數 ocelots"
+ },
+ "och": {
+  "ph": "/ɒk/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "阿, 哦, 喲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ochs"
+ },
+ "ocher": {
+  "ph": "/'әjkә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃土, 赭土",
+    "def": "a moderate yellow-orange to orange color"
+   }
+  ]
+ },
+ "ochre": {
+  "ph": "/'әukә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "赭石, 赭色",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗赭色於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ochres"
+ },
+ "ocker": {
+  "ph": "/'ɔkә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<澳俚> n.無教養的澳大利亞人,粗魯的澳大利亞人",
+    "def": ""
+   }
+  ]
+ },
+ "ocotillo": {
+  "ph": "/,әjkә'ti:ljәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]墨西哥刺木,馬鞭,蔓仙人掌",
+    "def": "desert shrub of southwestern United States and Mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flow"
+   }
+  ]
+ },
+ "ocr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "光學字元識別, 光學字元閱讀器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 光學字元閱讀器, 光學字元讀出, 光學字元識別",
+    "def": ""
+   }
+  ]
+ },
+ "ocs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（美國）候補軍官學校（Officer Candidate School）；超速控制系統；振盪彩色順序",
+    "def": ""
+   }
+  ]
+ },
+ "oct": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "十月（October）",
+    "def": ""
+   }
+  ]
+ },
+ "oct.": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "十月",
+    "def": ""
+   }
+  ]
+ },
+ "octagon": {
+  "ph": "/'ɒktәgɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "八邊形, 八角形",
+    "def": "an eight-sided polygon"
+   }
+  ],
+  "forms": "複數 octagons"
+ },
+ "octagonal": {
+  "ph": "/ɒk'tægәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "八邊形的, 八角形的",
+    "def": ""
+   }
+  ]
+ },
+ "octamer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 八聚物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 octamers"
+ },
+ "octane": {
+  "ph": "/'ɒktein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛烷",
+    "def": "any isomeric saturated hydrocarbon found in petroleum and used as a fuel and solvent"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 辛烷; 正辛烷; 辛烷; 辛級烷",
+    "def": ""
+   }
+  ]
+ },
+ "octave": {
+  "ph": "/'ɔkteiv, -tiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "八音度, 低八度音, 高八度音",
+    "def": "a feast day and the seven days following it"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 八音度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 octaves"
+ },
+ "octavia": {
+  "ph": "/ɔk'teiviә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧克塔維亞（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "octavo": {
+  "ph": "/ɒk'teivәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "八開紙, 八開本",
+    "def": "the size of a book whose pages are made by folding a sheet of paper three times to form eight leaves"
+   }
+  ]
+ },
+ "octet": {
+  "ph": "/ɔk'tet/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 八位二進位制數的位組; 八位位元組",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 八隅體; 八角; 八角體; 八重態; 八重線; 八重峰",
+    "def": ""
+   }
+  ]
+ },
+ "october": {
+  "ph": "/ɒk'tәubә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "十月",
+    "def": "the month following September and preceding November"
+   }
+  ]
+ },
+ "octogenarian": {
+  "ph": "/.ɒktәudʒә'nєәriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "80歲到90歲(的人)的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "80歲到90歲的人",
+    "def": "someone whose age is in the eighties"
+   }
+  ],
+  "forms": "複數 octogenarians"
+ },
+ "octopus": {
+  "ph": "/'ɒktәpәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "章魚",
+    "def": "tentacles of octopus prepared as food"
+   }
+  ]
+ },
+ "octreotide": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧曲肽",
+    "def": ""
+   }
+  ]
+ },
+ "ocular": {
+  "ph": "/'ɒkjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "眼睛的, 用眼的, 憑視覺的, 目擊的",
+    "def": "of or relating to or resembling the eye"
+   },
+   {
+    "pos": "n.",
+    "zh": "目鏡",
+    "def": ""
+   }
+  ]
+ },
+ "oculus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 眼",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "uk": {
+  "ph": "/ju: 'kei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聯合王國",
+    "def": ""
+   }
+  ]
+ },
+ "ukaea": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "英國原子能局（United Kingdom Atomic Energy Authority）",
+    "def": ""
+   }
+  ]
+ },
+ "uke": {
+  "ph": "/ju:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尤克裡裡琴(吉他型四弦撥奏樂器)",
+    "def": "a small guitar having four strings"
+   }
+  ]
+ },
+ "ukelele": {
+  "ph": "/ʌk'leɪli:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尤克裡裡琴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ukeleles"
+ },
+ "ukraine": {
+  "ph": "/ju(:)'krein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏克蘭（原蘇聯一加盟共和國, 現已獨立）",
+    "def": "a republic in southeastern Europe; formerly a European soviet; the center of the original Russian state which came into existence in the ninth century"
+   }
+  ]
+ },
+ "ukrainian": {
+  "ph": "/ju(:)'kreinjәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "烏克蘭的；烏克蘭人的",
+    "def": "of or relating to or characteristic of Ukraine or its people or culture"
+   }
+  ],
+  "forms": "複數 ukrainians"
+ },
+ "ukulele": {
+  "ph": "/.ju:kә'leili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尤克裡裡琴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ukuleles"
+ }
+}

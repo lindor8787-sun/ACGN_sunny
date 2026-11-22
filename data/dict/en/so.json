@@ -1,0 +1,5320 @@
+{
+ "so": {
+  "ph": "/sәu/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "如此, 如是, 如...那樣",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "所以, 因此",
+    "def": ""
+   },
+   {
+    "pos": "pron.",
+    "zh": "這樣",
+    "def": ""
+   }
+  ]
+ },
+ "so that": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "所以",
+    "def": ""
+   }
+  ]
+ },
+ "so-and-so": {
+  "ph": "/'sәu, әn(d)sәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "某某人, 某某事",
+    "def": ""
+   }
+  ],
+  "forms": "複數 so-and-sos"
+ },
+ "so-called": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "所謂的, 號稱的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 所謂的, 據稱的",
+    "def": ""
+   }
+  ]
+ },
+ "so-so": {
+  "ph": "/'sәusәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平常的, 還過得去的, 馬馬虎虎的, 一般的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "平常地, 還過得去地, 馬馬虎虎地, 一般地",
+    "def": ""
+   }
+  ]
+ },
+ "soak": {
+  "ph": "/sәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "浸, 溼透, 大雨",
+    "def": "the process of becoming softened and saturated as a consequence of being immersed in water (or other liquid)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使上下溼透, 浸, 吸入, 吸收, 浸洗掉",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "浸泡, 滲透",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 soaking｜過去分詞 soaked｜過去式 soaked｜第三人稱單數 soaks｜複數 soaks"
+ },
+ "soaked": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溼透的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 soaked｜過去式 soaked"
+ },
+ "soaker": {
+  "ph": "/'sәukә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "浸洗人, 酒量大的人, 傾盆大雨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 裂化反應室; 浸漬劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soakers"
+ },
+ "soaking": {
+  "ph": "/'sәukiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溼透的, 使人溼透的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "溼透地",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "浸, 漬, 泡",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 soaking"
+ },
+ "soames": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "索姆斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "soane": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Soane)人名；(英)索恩",
+    "def": ""
+   }
+  ]
+ },
+ "soap": {
+  "ph": "/sәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肥皂, 阿諛",
+    "def": "a cleansing agent made from the salts of vegetable or animal fats"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以肥皂洗, 阿諛",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 評語",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soaps｜現在分詞 soaping｜過去式 soaped｜第三人稱單數 soaps｜過去分詞 soaped"
+ },
+ "soap opera": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "肥皂劇",
+    "def": ""
+   }
+  ]
+ },
+ "soapbox": {
+  "ph": "/'sәupbɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肥皂盒, 臨時演說臺",
+    "def": "a crate for packing soap"
+   },
+   {
+    "pos": "adj.",
+    "zh": "街頭演說的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soapboxes"
+ },
+ "soapstone": {
+  "ph": "/'sәupstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "皂石",
+    "def": "a soft heavy compact variety of talc having a soapy feel; used to make hearths and tabletops and ornaments"
+   }
+  ]
+ },
+ "soapsuds": {
+  "ph": "/'sәjpsʌdz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "起泡沫的肥皂水, 肥皂溶液, 濃肥皂水, 肥皂泡沫, (非正式)啤酒",
+    "def": "the froth produced by soaps or detergents"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 起泡皂水",
+    "def": ""
+   }
+  ]
+ },
+ "soapy": {
+  "ph": "/'sәupi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "塗著肥皂的, 諂媚的, 圓滑的",
+    "def": ""
+   }
+  ]
+ },
+ "soar": {
+  "ph": "/sɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高揚, 翱翔",
+    "def": "the act of rising upward into the air"
+   },
+   {
+    "pos": "vi.",
+    "zh": "往上飛舞, 高聳, 翱翔",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 soared｜現在分詞 soaring｜過去分詞 soared｜第三人稱單數 soars"
+ },
+ "soaraway": {
+  "ph": "/'sɔ:rә,wei/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "騰飛的,進展神速的",
+    "def": ""
+   }
+  ]
+ },
+ "soares": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Soares)人名；(英)索爾斯；(葡)蘇亞雷斯",
+    "def": ""
+   }
+  ]
+ },
+ "soaring": {
+  "ph": "/'sɔ:riŋ 'sɔәr-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高飛的, 翱翔的, 高聳入雲的, 崇高的, 高漲的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 飛漲的, 高漲的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 soaring"
+ },
+ "sob": {
+  "ph": "/sɒb/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "啜泣, 嗚咽",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "哭訴, 哭得使",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "啜泣, 嗚咽",
+    "def": "convulsive gasp made while weeping"
+   }
+  ],
+  "forms": "現在分詞 sobbing｜過去式 sobbed｜複數 sobs｜過去分詞 sobbed｜第三人稱單數 sobs"
+ },
+ "soba": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] [厄利垂亞、奈及利亞] 索巴; [地名] [俄羅斯] 索巴河",
+    "def": ""
+   }
+  ]
+ },
+ "sobbing": {
+  "ph": "/'sɔbiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 嗚咽",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sobbing｜複數 sobbings"
+ },
+ "sober": {
+  "ph": "/'sәubә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "未醉的, 穩重的, 節制的, 嚴肅的, 不誇大的, 合理的, 樸素的",
+    "def": "not affected by a chemical substance (especially alcohol)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使醒酒, 使嚴肅",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "從醉裡醒來, 變嚴肅",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sobered｜第三人稱單數 sobers｜過去分詞 sobered｜現在分詞 sobering"
+ },
+ "sobering": {
+  "ph": "/ˈsəʊbərɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有節制的; 清醒的, 冷靜的; 樸素的, 柔和的; 持重的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使清醒(sober的ing形式); 使冷靜",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sobering"
+ },
+ "soberly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嚴肅地；冷靜地；樸素地",
+    "def": ""
+   }
+  ]
+ },
+ "sobriety": {
+  "ph": "/sә'braiiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節制飲酒, 戒酒, 節制, 一本正經, 莊重",
+    "def": "moderation in or abstinence from alcohol or other drugs"
+   }
+  ]
+ },
+ "sobriquet": {
+  "ph": "/'sәubrikei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綽號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sobriquets"
+ },
+ "soc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 社科新聞類",
+    "def": ""
+   }
+  ],
+  "forms": "複數 socs"
+ },
+ "socal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "南加州（Southern California）",
+    "def": ""
+   }
+  ]
+ },
+ "soccer": {
+  "ph": "/'sɒkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英式足球",
+    "def": "a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal"
+   }
+  ]
+ },
+ "sociability": {
+  "ph": "/.sәuʃә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社交活動, 好交際, 善於交際",
+    "def": "the relative tendency or disposition to be sociable or associate with one's fellows"
+   }
+  ],
+  "forms": "複數 sociabilities"
+ },
+ "sociable": {
+  "ph": "/'sәuʃәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好交際的, 社交的, 過社會生活的",
+    "def": "inclined to or conducive to companionship with others"
+   },
+   {
+    "pos": "n.",
+    "zh": "聯誼會",
+    "def": "a party of people assembled to promote sociability and communal activity"
+   }
+  ]
+ },
+ "social": {
+  "ph": "/'sәuʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會的, 群居的, 社交的",
+    "def": "relating to human society and its members"
+   },
+   {
+    "pos": "n.",
+    "zh": "聯歡會",
+    "def": ""
+   }
+  ]
+ },
+ "social democratic": {
+  "ph": "/ˈsəuʃəl ˌdeməˈkrætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會民主主義的; 社會民主黨的",
+    "def": ""
+   }
+  ]
+ },
+ "social life": {
+  "ph": "/ˈsəuʃəl laif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會生活; 社交生活",
+    "def": ""
+   }
+  ]
+ },
+ "social order": {
+  "ph": "/ˈsəuʃəl ˈɔ:də/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法]社會秩序",
+    "def": ""
+   }
+  ]
+ },
+ "social science": {
+  "ph": "/ˈsəuʃəl ˈsaiəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會科學",
+    "def": ""
+   }
+  ]
+ },
+ "social security": {
+  "ph": "/ˈsəuʃəl siˈkjuəriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會保障, 社會保險; <美>政府的公共福利計劃",
+    "def": ""
+   }
+  ]
+ },
+ "social services": {
+  "ph": "/ˈsəuʃəl /ˈsɜːvɪsis//",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "社會服務, 社會福利事業",
+    "def": ""
+   }
+  ]
+ },
+ "social work": {
+  "ph": "/ˈsəuʃəl wə:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會服務; 社會福利工作",
+    "def": ""
+   }
+  ]
+ },
+ "social worker": {
+  "ph": "/ˈsəuʃəl ˈwə:kə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會工作者",
+    "def": ""
+   }
+  ]
+ },
+ "socialisation": {
+  "ph": "/,səuʃəlai'zeiʃən, -li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會化",
+    "def": ""
+   }
+  ]
+ },
+ "socialise": {
+  "ph": "/'sәjʃәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使社會化, 使社會主義化, 使適合社會需要",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "(美)(非正式)參加社交活動, 發生社交往來",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 socialising｜過去分詞 socialised｜過去式 socialised｜複數 socialises｜第三人稱單數 socialises"
+ },
+ "socialised": {
+  "ph": "/'səʊʃəlaɪz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使社會化；使社會主義化",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "參加社交活動；發生社交往來（等於socialize）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 socialised｜過去式 socialised"
+ },
+ "socialising": {
+  "ph": "/'səʊʃəlaɪz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使社會化；使社會主義化",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "參加社交活動；發生社交往來（等於socialize）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 socialising"
+ },
+ "socialism": {
+  "ph": "/'sәuʃәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會主義, 社會主義運動",
+    "def": "a political theory advocating state ownership of industry"
+   }
+  ],
+  "forms": "複數 socialisms"
+ },
+ "socialist": {
+  "ph": "/'sәuʃәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會主義者, 社會黨黨員",
+    "def": "a political advocate of socialism"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 社會主義的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 socialists"
+ },
+ "socialistic": {
+  "ph": "/.sәuʃә'listik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會主義的",
+    "def": "advocating or following the socialist principles"
+   }
+  ]
+ },
+ "socialite": {
+  "ph": "/'sәuʃәlait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社交名流",
+    "def": "a socially prominent person"
+   }
+  ],
+  "forms": "複數 socialites"
+ },
+ "sociality": {
+  "ph": "/,sәuʃi'æliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好交際, 社交性, 社交行為, 社會性, 群居性",
+    "def": "the tendency to associate with others and to form social groups"
+   }
+  ]
+ },
+ "socialization": {
+  "ph": "/.sәuʃәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會化, 社會主義化",
+    "def": "the action of establishing on a socialist basis"
+   }
+  ]
+ },
+ "socialize": {
+  "ph": "/'sәuʃәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使社會化, 使社會主義化, 使適合社會需要",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "(美)(非正式)參加社交活動, 發生社交往來",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 socialized｜現在分詞 socializing｜過去式 socialized｜第三人稱單數 socializes"
+ },
+ "socialized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 socialized"
+ },
+ "socializing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "交往, 交際",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 socializing"
+ },
+ "socially": {
+  "ph": "/'sәuʃәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在社會上, 在社交上, 以社會生活方式",
+    "def": ""
+   }
+  ]
+ },
+ "societal": {
+  "ph": "/sә'saiәtl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會的",
+    "def": ""
+   }
+  ]
+ },
+ "societe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "興業",
+    "def": ""
+   }
+  ]
+ },
+ "society": {
+  "ph": "/sә'saiәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會；社交界；交往；社團",
+    "def": "an extended social group having a distinctive cultural and economic organization"
+   }
+  ],
+  "forms": "複數 societies"
+ },
+ "socio-economic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會經濟學的",
+    "def": ""
+   }
+  ]
+ },
+ "sociobiological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]社會生物學的",
+    "def": ""
+   }
+  ]
+ },
+ "sociobiologist": {
+  "ph": "/səʊsi:əʊba'ɪɒlədʒɪst/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]社會生物學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sociobiologists"
+ },
+ "sociobiology": {
+  "ph": "/,sәuʃiәu,bai'ɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物社會學",
+    "def": "the branch of biology that conducts comparative studies of the social organization of animals (including human beings) with regard to its evolutionary history"
+   }
+  ]
+ },
+ "sociocultural": {
+  "ph": "/.sәuʃiәu'kʌltʃrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會文化的",
+    "def": "relating to both social and cultural matters"
+   }
+  ]
+ },
+ "sociodemographic": {
+  "ph": "/səʊsi'ːəʊˌdeməˈɡræfɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會統計學的",
+    "def": ""
+   }
+  ]
+ },
+ "socioeconomic": {
+  "ph": "/'sәuʃiәu,i:kә'nɔmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會經濟學的",
+    "def": "involving social as well as economic factors"
+   }
+  ],
+  "forms": "複數 socioeconomics"
+ },
+ "socioeconomically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "socioeconomic的變形",
+    "def": ""
+   }
+  ]
+ },
+ "sociolinguist": {
+  "ph": "/ˌsəusiəuˈliŋɡwist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會語言學家",
+    "def": "a linguist who studies the social and cultural factors that influence linguistic communication"
+   }
+  ],
+  "forms": "複數 sociolinguists"
+ },
+ "sociolinguistic": {
+  "ph": "/,sәuʃiәuliŋ^'wistik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "社會語言學的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sociolinguistics"
+ },
+ "sociological": {
+  "ph": "/.sәusiә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會的, 社會學的",
+    "def": "of or relating to or determined by sociology"
+   }
+  ]
+ },
+ "sociologically": {
+  "ph": "/ˌsəʊsɪə'lɒdʒɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在社會學上地",
+    "def": ""
+   }
+  ]
+ },
+ "sociologist": {
+  "ph": "/.sәusi'ɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會學家",
+    "def": "a social scientist who studies the institutions and development of human society"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 社會學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sociologists"
+ },
+ "sociology": {
+  "ph": "/.sәusi'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會學",
+    "def": "the study and classification of human societies"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 社會學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sociologies"
+ },
+ "sociometric": {
+  "ph": "/səʊsi:əʊ'metrɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "社會經濟的",
+    "def": ""
+   }
+  ]
+ },
+ "sociopath": {
+  "ph": "/'sәusiәpæθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反社會的人",
+    "def": "someone with a sociopathic personality; a person with an antisocial personality disorder (`psychopath' was once widely used but has now been superseded by `soci"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 反社會者(一種精神病人)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sociopaths"
+ },
+ "sociopathic": {
+  "ph": "/sәusiәu'pæθik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反社會的, 不愛社交的",
+    "def": "of or relating to a sociopathic personality disorder"
+   }
+  ]
+ },
+ "sociopolitical": {
+  "ph": "/.sәusiәupә'litikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會政治的",
+    "def": ""
+   }
+  ]
+ },
+ "socioreligious": {
+  "ph": "/,sәjsiәjri'lidʒәs, -ʃi-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社會宗教的,同時涉及社會和宗教的",
+    "def": ""
+   }
+  ]
+ },
+ "sock": {
+  "ph": "/sɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短襪, 鞋墊, 一擊",
+    "def": "hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee"
+   },
+   {
+    "pos": "vt.",
+    "zh": "重擊, 猛投, 給...穿襪",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "打擊",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "正著地, 不偏不倚地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "非常成功的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 socks｜過去分詞 socked｜現在分詞 socking｜過去式 socked｜第三人稱單數 socks"
+ },
+ "socked": {
+  "ph": "/sɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短襪；一擊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "重擊；給……穿襪",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "正著地；不偏不倚地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "非常成功的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Sock)人名；(德)佐克",
+    "def": ""
+   }
+  ]
+ },
+ "socket": {
+  "ph": "/'sɒkit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窩, 穴, 插座, 眼窩",
+    "def": "a bony hollow into which a structure fits"
+   },
+   {
+    "pos": "vt.",
+    "zh": "插進插座",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 套接字",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sockets"
+ },
+ "sockeye": {
+  "ph": "/'sɒkai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紅大馬哈魚",
+    "def": "small salmon with red flesh; found in rivers and tributaries of the northern Pacific and valued as food; adults die after spawning"
+   }
+  ]
+ },
+ "socks": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "短襪, 襪子, 鞋內的襯墊, 輕軟鞋, 鉅款, 存款, 存錢處, 銀箱, 拳打, 一擊, 重擊",
+    "def": ""
+   }
+  ]
+ },
+ "socle": {
+  "ph": "/'sɒkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臺石, 柱腳",
+    "def": "a plain plinth that supports a wall"
+   }
+  ]
+ },
+ "socrates": {
+  "ph": "/'sɒkrәti:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇格拉底",
+    "def": "ancient Athenian philosopher; teacher of Plato and Xenophon (470-399 BC)"
+   }
+  ]
+ },
+ "socratic": {
+  "ph": "/sɔ'krætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蘇格拉底的",
+    "def": "of or relating to Socrates or to his method of teaching"
+   }
+  ]
+ },
+ "sod": {
+  "ph": "/sɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草地, (鋪草坪用的)草皮, 故鄉",
+    "def": "an informal British term for a youth or man"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鋪上草皮, 以生草土覆蓋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sods｜現在分詞 sodding｜第三人稱單數 sods｜過去分詞 sodded｜過去式 sodded"
+ },
+ "soda": {
+  "ph": "/'sәudә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇打, 碳酸水",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 純鹼; 蘇打; 碳酸鈉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sodas"
+ },
+ "sodality": {
+  "ph": "/sәu'dæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "友好, 夥伴關係, 慈善團體, 聯誼會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sodalities"
+ },
+ "sodden": {
+  "ph": "/'sɒdn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "渾身溼透的, 飽含的, (因沉湎於酒而)迷糊的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "拿水浸, 使變呆",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被浸溼",
+    "def": ""
+   }
+  ]
+ },
+ "sodding": {
+  "ph": "/ˈsɒdɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給予幫助( succor的過去式和過去分詞 ); 激動, 大怒; 強壓怒火; 生悶氣(~with sth|~ at sth)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sodding"
+ },
+ "sodium": {
+  "ph": "/'sәudiәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鈉",
+    "def": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鈉Na",
+    "def": ""
+   }
+  ]
+ },
+ "sodom": {
+  "ph": "/'sɒdәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "所多瑪(罪惡之地)",
+    "def": "any location known for vice and corruption"
+   }
+  ]
+ },
+ "sodomite": {
+  "ph": "/'sɒdәmait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雞姦者",
+    "def": "someone who engages in anal copulation (especially a male who engages in anal copulation with another male)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 雞姦者, 獸姦者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sodomites"
+ },
+ "sodomize": {
+  "ph": "/'sɔdәmaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對…雞姦(或口交、獸姦等)",
+    "def": ""
+   }
+  ]
+ },
+ "sodomy": {
+  "ph": "/'sɔdәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雞姦, 獸姦",
+    "def": "intercourse via the anus, committed by a man with a man or woman"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 雞姦, 獸姦, 猥褻行為",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sodomies"
+ },
+ "soe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "事件順序記錄（Sequence Of Event）；特殊行動執行局（Special Operations Executive）；索尼線上娛樂公司（Sony Online Entertainment）；國有企業（state-owned enterprises）；特別行動處（Special Operations Executive）",
+    "def": ""
+   }
+  ]
+ },
+ "sofa": {
+  "ph": "/'sәufә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙發",
+    "def": "an upholstered seat for more than one person"
+   }
+  ],
+  "forms": "複數 sofas"
+ },
+ "soffit": {
+  "ph": "/'sɒfit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拱圈內面, 拱腹",
+    "def": "the underside of a part of a building (such as an arch or overhang or beam etc.)"
+   }
+  ],
+  "forms": "複數 soffits"
+ },
+ "sofia": {
+  "ph": "/'sәufjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索非亞（保加利亞首都）",
+    "def": "capital and largest city of Bulgaria located in western Bulgaria"
+   }
+  ]
+ },
+ "soft": {
+  "ph": "/sɒft/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "軟的, 溫和的, 柔和的, 柔滑的, 溫柔的, 軟弱的, 坡度小的, 笨的, 紙幣的",
+    "def": "yielding readily to pressure or weight"
+   },
+   {
+    "pos": "n.",
+    "zh": "柔軟的東西, 笨人, 紙幣",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "柔軟地, 溫和地",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 softer｜最高級 softest"
+ },
+ "soft drink": {
+  "ph": "/sɔft driŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不含酒精的飲料",
+    "def": ""
+   }
+  ]
+ },
+ "softball": {
+  "ph": "/'sɒftbɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壘球運動, 壘球",
+    "def": "ball used in playing softball"
+   }
+  ]
+ },
+ "softcover": {
+  "ph": "/sɒft'kʌvər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟封面; 平裝（書）",
+    "def": ""
+   }
+  ]
+ },
+ "soften": {
+  "ph": "/'sɒftn/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)變柔軟, (使)變柔和",
+    "def": "make (images or sounds) soft or softer"
+   }
+  ],
+  "forms": "過去分詞 softened｜現在分詞 softening｜第三人稱單數 softens｜過去式 softened"
+ },
+ "softened": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "退火的, 軟化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 softened｜過去式 softened"
+ },
+ "softener": {
+  "ph": "/'sɔfnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟化劑, 硬水軟化器",
+    "def": "a substance added to another to make it less hard"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 軟化劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 softeners"
+ },
+ "softening": {
+  "ph": "/'sɔfniŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 軟化處理",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 softening｜複數 softenings"
+ },
+ "softie": {
+  "ph": "/'sɔ(:)fti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "1.柔弱的人 2.笨人",
+    "def": ""
+   }
+  ]
+ },
+ "softly": {
+  "ph": "/'sɒftli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "柔和地, 靜靜地, 溫柔地",
+    "def": ""
+   }
+  ]
+ },
+ "softness": {
+  "ph": "/'sɒftnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柔和, 溫柔",
+    "def": "the property of giving little resistance to pressure and being easily cut or molded"
+   }
+  ],
+  "forms": "複數 softnesses"
+ },
+ "software": {
+  "ph": "/'sɒftwєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟體",
+    "def": "(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in "
+   },
+   {
+    "pos": "",
+    "zh": "[計] 軟裝置",
+    "def": ""
+   }
+  ]
+ },
+ "softwood": {
+  "ph": "/'sɒftwud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟木材",
+    "def": "wood that is easy to saw (from conifers such as pine or fir)"
+   }
+  ],
+  "forms": "複數 softwoods"
+ },
+ "softy": {
+  "ph": "/'sɒfti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傻子, 多愁善感的人",
+    "def": "a person who is weak and excessively sentimental"
+   }
+  ],
+  "forms": "複數 softies"
+ },
+ "soggy": {
+  "ph": "/'sɒgi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "浸水的, 沉悶的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 欠硫; 硫化不足",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 soggiest"
+ },
+ "soho": {
+  "ph": "/sәu'hәu/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "哈, 嗬",
+    "def": ""
+   }
+  ]
+ },
+ "soil": {
+  "ph": "/sɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土壤, 土地, 國家, 國土, 溫床, 汙物, 糞便, 水池",
+    "def": "the part of the earth's surface consisting of humus and disintegrated rock"
+   },
+   {
+    "pos": "vt.",
+    "zh": "弄髒, 汙辱",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變髒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soils｜過去分詞 soiled｜過去式 soiled｜現在分詞 soiling｜第三人稱單數 soils"
+ },
+ "soiled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "汙染的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 soiled｜過去分詞 soiled"
+ },
+ "soiling": {
+  "ph": "/sɔilɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "弄髒, 汙辱( soil的現在分詞 ); 喂青飼料",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 soiling｜複數 soilings"
+ },
+ "soiree": {
+  "ph": "/swɑ:'rei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晚會, 社交聚會",
+    "def": "a party of people assembled in the evening (usually at a private house)"
+   }
+  ],
+  "forms": "複數 soirees"
+ },
+ "soisson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Soisson)人名；(法)蘇瓦松",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soissons"
+ },
+ "sojourn": {
+  "ph": "/'sɒdʒә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逗留, 旅居",
+    "def": "a temporary stay (e.g., as a guest)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "逗留, 旅居",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sojourns｜過去分詞 sojourned｜現在分詞 sojourning｜過去式 sojourned｜第三人稱單數 sojourns"
+ },
+ "sojourner": {
+  "ph": "/'sɔdʒ\\\\\\\\:nә(r),'sʌ-,sәj'dʒ-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅居的人, 逗留的人",
+    "def": "a temporary resident"
+   }
+  ],
+  "forms": "複數 sojourners"
+ },
+ "sokolov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sokolov)人名；(俄、芬、保、塞)索科洛夫；(烏克)索科洛夫",
+    "def": ""
+   }
+  ]
+ },
+ "sol": {
+  "ph": "/sәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溶膠, 索爾(秘魯貨幣單位)",
+    "def": "a colloid that has a continuous liquid phase in which a solid is suspended in a liquid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 溶膠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sols"
+ },
+ "solace": {
+  "ph": "/'sɒlis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安慰, 安慰之物",
+    "def": "comfort in disappointment or misery"
+   },
+   {
+    "pos": "vt.",
+    "zh": "安慰, 撫慰, 給與安慰, 使輕鬆",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 solaced｜過去分詞 solaced｜現在分詞 solacing｜第三人稱單數 solaces"
+ },
+ "solana": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索拉納（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "solar": {
+  "ph": "/'sәulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "太陽的, 日光的, 源自太陽的",
+    "def": "relating to or derived from the sun or utilizing the energies of the sun"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 太陽的; 腹腔叢的",
+    "def": ""
+   }
+  ]
+ },
+ "solaris": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] Solaris作業系統",
+    "def": ""
+   }
+  ]
+ },
+ "solarium": {
+  "ph": "/sәu'lєәriәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日光浴室, 日晷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 日光浴室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solariums"
+ },
+ "solarization": {
+  "ph": "/.sәulәrai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "負感作用, 曬",
+    "def": "exposure to the rays of the sun"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 日曬, 曝曬",
+    "def": ""
+   }
+  ]
+ },
+ "sold": {
+  "ph": "/sәuld/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "sell的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sold｜過去式 sold"
+ },
+ "sold out": {
+  "ph": "/səʊld aut/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "賣光(sell-out的過去式和過去分詞); 脫銷; 演出（或比賽等的）滿座; 背叛",
+    "def": ""
+   }
+  ]
+ },
+ "solder": {
+  "ph": "/'sɒldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焊接劑, 接合物",
+    "def": "an alloy (usually of lead and tin) used when melted to join two metal surfaces"
+   },
+   {
+    "pos": "v.",
+    "zh": "施以焊接, 焊合, 聯結",
+    "def": "join or fuse with solder"
+   }
+  ],
+  "forms": "過去分詞 soldered｜現在分詞 soldering｜複數 solders｜第三人稱單數 solders｜過去式 soldered"
+ },
+ "soldered": {
+  "ph": "/ˈsɔdəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）焊接, 焊合( solder的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 soldered"
+ },
+ "soldering": {
+  "ph": "/'sɔldәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 錫焊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 釺焊; 軟釺焊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 soldering"
+ },
+ "soldier": {
+  "ph": "/'sәuldʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍人, 士兵, 兵蟻",
+    "def": "an enlisted man or woman who serves in an army"
+   },
+   {
+    "pos": "vi.",
+    "zh": "從軍, 盡職, 偷懶, 磨洋工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soldiers｜過去式 soldiered｜現在分詞 soldiering｜第三人稱單數 soldiers｜過去分詞 soldiered"
+ },
+ "soldiering": {
+  "ph": "/'sәuldʒәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "當兵",
+    "def": "skills that are required for the life of soldier"
+   }
+  ],
+  "forms": "現在分詞 soldiering"
+ },
+ "soldierly": {
+  "ph": "/'sәuldʒәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "軍人的, 像軍人的, 適於軍人的",
+    "def": ""
+   }
+  ]
+ },
+ "soldiery": {
+  "ph": "/'sәuldʒәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍事訓練, 軍人, 軍隊",
+    "def": ""
+   }
+  ]
+ },
+ "sole": {
+  "ph": "/sәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳掌, 鞋底, 底部",
+    "def": "the underside of footwear or a golf club"
+   },
+   {
+    "pos": "adj.",
+    "zh": "唯一的, 僅有的, 單獨的, 獨身的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "上鞋底, 觸底",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soles｜過去分詞 soled｜現在分詞 soling｜過去式 soled｜第三人稱單數 soles"
+ },
+ "solecism": {
+  "ph": "/'sɒlisizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語法錯誤, 失禮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solecisms"
+ },
+ "soleil": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇蕾（女子名、姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "solely": {
+  "ph": "/'sәulli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "僅僅, 單獨地",
+    "def": ""
+   }
+  ]
+ },
+ "solemn": {
+  "ph": "/'sɒlәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嚴肅的, 鄭重的, 莊嚴的",
+    "def": ""
+   }
+  ]
+ },
+ "solemnity": {
+  "ph": "/sә'lemniti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嚴肅, 一本正經",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 要式, 莊嚴的儀式, 嚴肅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solemnities"
+ },
+ "solemnize": {
+  "ph": "/'sɒlәmnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "隆重地慶祝, 莊重舉行, 使莊嚴",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 solemnized｜過去式 solemnized｜現在分詞 solemnizing｜第三人稱單數 solemnizes"
+ },
+ "solemnly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "莊嚴地；嚴肅地",
+    "def": ""
+   }
+  ]
+ },
+ "solenoid": {
+  "ph": "/'sәulinɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "螺線管",
+    "def": "a coil of wire around an iron core; becomes a magnet when current passes through the coil"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 螺線管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solenoids"
+ },
+ "solent": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索倫特海峽（瀕臨英吉利海峽北側）",
+    "def": "a strait of the English Channel between the coast of Hampshire and the Isle of Wight"
+   }
+  ]
+ },
+ "soleus": {
+  "ph": "/'sәjliәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 比目魚肌",
+    "def": ""
+   }
+  ]
+ },
+ "soley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Soley)人名；(西)索萊；(英)索利；(土)索萊伊",
+    "def": ""
+   }
+  ]
+ },
+ "solicit": {
+  "ph": "/sә'lisit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "請求, 乞求, 招攬, 徵求",
+    "def": "make a solicitation or entreaty for something; request urgently or persistently"
+   }
+  ],
+  "forms": "現在分詞 soliciting｜過去分詞 solicited｜過去式 solicited｜第三人稱單數 solicits"
+ },
+ "solicitation": {
+  "ph": "/sә.lisi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懇求, 懇請, 教唆, 誘惑",
+    "def": "an entreaty addressed to someone of superior status"
+   }
+  ],
+  "forms": "複數 solicitations"
+ },
+ "solicited": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "請求的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 solicited"
+ },
+ "solicitor": {
+  "ph": "/sә'lisitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(英)律師, 初級律師, (美)法務官, (美)掮客, 遊說者, (美)募捐者",
+    "def": "a petitioner who solicits contributions or trade or votes"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 募損者, 律師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solicitors"
+ },
+ "solicitous": {
+  "ph": "/sә'lisitәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "關心的, 渴望的, 熱切期望的, 十分講究的",
+    "def": ""
+   }
+  ]
+ },
+ "solicitously": {
+  "ph": "/sə'lɪsɪtəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "熱心地, 熱切地",
+    "def": ""
+   }
+  ]
+ },
+ "solicitude": {
+  "ph": "/sә'lisitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焦慮, 關心, 擔心, 掛念, 渴望, 擔心的事情",
+    "def": "a feeling of excessive concern"
+   }
+  ]
+ },
+ "solid": {
+  "ph": "/'sɒlid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "固體",
+    "def": "matter that is solid at room temperature and pressure"
+   },
+   {
+    "pos": "adj.",
+    "zh": "堅硬的, 穩固的, 固體的, 實心的, 純質的, 立體的, 立方的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 原色",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solids"
+ },
+ "solidarity": {
+  "ph": "/.sɒli'dæriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "團結, 團結一致, 共同一致",
+    "def": "a union of interests or purposes or sympathies among members of a group"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 團結, 共同責任",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solidarities"
+ },
+ "solider": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "機動戰士",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soliders"
+ },
+ "solidification": {
+  "ph": "/sә.lidifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "團結, 凝固, 固體化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 凝固",
+    "def": ""
+   }
+  ]
+ },
+ "solidified": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "固化的, 變硬的；凝固的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 solidified｜過去分詞 solidified"
+ },
+ "solidify": {
+  "ph": "/sә'lidifai/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)凝固, (使)團結, 鞏固",
+    "def": "make solid or more solid; cause to solidify"
+   }
+  ],
+  "forms": "現在分詞 solidifying｜第三人稱單數 solidifies｜過去式 solidified｜過去分詞 solidified"
+ },
+ "solidity": {
+  "ph": "/sә'liditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "固體性, 堅硬, 堅固, 穩健, 體積",
+    "def": "the consistency of a solid"
+   }
+  ],
+  "forms": "複數 solidities"
+ },
+ "solidly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "堅硬地；堅固地；團結一致地",
+    "def": ""
+   }
+  ]
+ },
+ "solidness": {
+  "ph": "/'sɒlɪdnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堅硬, 厚重",
+    "def": ""
+   }
+  ]
+ },
+ "solidus": {
+  "ph": "/'sɒlidәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇勒德斯(古羅馬金幣), 斜線",
+    "def": "a punctuation mark (/) used to separate related items of information"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 固相線",
+    "def": ""
+   }
+  ]
+ },
+ "solihull": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "索利哈爾（地名, 英國）",
+    "def": ""
+   }
+  ]
+ },
+ "soliloquy": {
+  "ph": "/sә'lilәkwi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自言自語, 獨白",
+    "def": "speech you make to yourself"
+   }
+  ],
+  "forms": "複數 soliloquies"
+ },
+ "solipsism": {
+  "ph": "/'sɒlipsizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唯我論",
+    "def": "(philosophy) the philosophical theory that the self is all that you know to exist"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 唯我論",
+    "def": ""
+   }
+  ]
+ },
+ "solipsistic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 唯我論的",
+    "def": ""
+   }
+  ]
+ },
+ "solitaire": {
+  "ph": "/.sɒli'tєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單人紙牌戲",
+    "def": "a gem (usually a diamond) in a setting by itself"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 紙牌",
+    "def": ""
+   }
+  ]
+ },
+ "solitary": {
+  "ph": "/'sɒlitәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獨居者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "孤獨的, 獨居的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solitaries"
+ },
+ "solitude": {
+  "ph": "/'sɒlitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孤獨, 單獨, 孤寂",
+    "def": "a state of social isolation"
+   }
+  ],
+  "forms": "複數 solitudes"
+ },
+ "solly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "索利（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "solo": {
+  "ph": "/'sәulәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獨奏, 獨唱, 單獨表演",
+    "def": "any activity that is performed alone without assistance"
+   },
+   {
+    "pos": "adj.",
+    "zh": "單獨的, 獨奏的, 獨唱的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "放單飛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solos｜現在分詞 soloing｜過去式 soloed｜第三人稱單數 solos｜過去分詞 soloed"
+ },
+ "soloist": {
+  "ph": "/'sәulәuist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獨奏者, 獨唱者",
+    "def": "a musician who performs a solo"
+   }
+  ],
+  "forms": "複數 soloists"
+ },
+ "solomon": {
+  "ph": "/'sɒlәmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "所羅門(古以色列國王), 聰明人, 賢人",
+    "def": "(Old Testament) son of David and king of Israel noted for his wisdom (10th century BC)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 所羅門陣列處理機",
+    "def": ""
+   }
+  ]
+ },
+ "solomonic": {
+  "ph": "/,sɔlə'mɔnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "所羅門王的；大智大慧的, 智的",
+    "def": "exhibiting or requiring the wisdom of Solomon in making difficult decisions"
+   }
+  ]
+ },
+ "solomons": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "所羅門斯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "所羅門人",
+    "def": ""
+   }
+  ]
+ },
+ "solon": {
+  "ph": "/'sɔlәn. -lɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賢人；議員",
+    "def": ""
+   }
+  ]
+ },
+ "solstice": {
+  "ph": "/'sɒlstis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "至, 至日, 至點, 極限, 決定性時刻",
+    "def": "either of the two times of the year when the sun is at its greatest distance from the celestial equator"
+   }
+  ],
+  "forms": "複數 solstices"
+ },
+ "solubility": {
+  "ph": "/.sɒlju'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可溶性, 溶解度, 解決之可能性",
+    "def": "the quantity of a particular substance that can dissolve in a particular solvent (yielding a saturated solution)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 溶解度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solubilities"
+ },
+ "soluble": {
+  "ph": "/'sɒljubl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溶解的, 可溶解的, 可以解決的",
+    "def": "(of a substance) capable of being dissolved in some solvent (usually water)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 溶解的, 可溶的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solubles"
+ },
+ "solute": {
+  "ph": "/'sɒlju:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溶解物, 溶質",
+    "def": "the dissolved matter in a solution; the component of a solution that changes its state"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 溶質",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solutes"
+ },
+ "solution": {
+  "ph": "/sә'lu:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "解決, 解答, 溶液",
+    "def": "a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 溶液",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solutions"
+ },
+ "solvable": {
+  "ph": "/'sɒlvәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可以解的, 可以解決的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 溶解的, 可溶的",
+    "def": ""
+   }
+  ]
+ },
+ "solve": {
+  "ph": "/sɒlv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "解決, 付給, 溶解",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "求解",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "求解",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 求解",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 solved｜現在分詞 solving｜第三人稱單數 solves｜過去式 solved"
+ },
+ "solved": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "解決了的",
+    "def": "explained or answered; problems resolved and unresolved\""
+   }
+  ],
+  "forms": "過去分詞 solved｜過去式 solved"
+ },
+ "solvency": {
+  "ph": "/'sɒlvәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "償付能力, 溶解力",
+    "def": "the ability to meet maturing obligations as they come due"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有清償能力, 償付能力, 支付能力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solvencies"
+ },
+ "solvent": {
+  "ph": "/'sɒlvәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溶劑",
+    "def": "a liquid substance capable of dissolving other substances"
+   },
+   {
+    "pos": "adj.",
+    "zh": "有償付能力的, 有溶解力的",
+    "def": "capable of meeting financial obligations"
+   }
+  ],
+  "forms": "複數 solvents"
+ },
+ "solver": {
+  "ph": "/'sɔlvә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 解算機, 求解程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 solvers"
+ },
+ "solving": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "解決",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 solving"
+ },
+ "solzhenitsyn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Solzhenitsyn)人名；(俄)索爾仁尼琴",
+    "def": "Soviet writer and political dissident whose novels exposed the brutality of Soviet labor camps (born in 1918)"
+   }
+  ]
+ },
+ "som": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 報文開始符",
+    "def": ""
+   }
+  ]
+ },
+ "soma": {
+  "ph": "/'sәumә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "身體, 肉體, 身體細胞",
+    "def": "leafless East Indian vine; its sour milky juice formerly used to make an intoxicating drink"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 體, 軀體",
+    "def": ""
+   }
+  ]
+ },
+ "somali": {
+  "ph": "/sәu'mɑ:li/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索馬利亞人",
+    "def": "the Cushitic language spoken by the Somali"
+   }
+  ],
+  "forms": "複數 somalis"
+ },
+ "somalia": {
+  "ph": "/sәu'mɑ:liә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索馬利亞",
+    "def": "a republic in extreme eastern Africa on the Somali peninsula; subject to tribal warfare"
+   }
+  ]
+ },
+ "somalian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": ", n. Somalia的變形",
+    "def": "of or relating to the African republic of Somalia or its people or their language and culture"
+   }
+  ],
+  "forms": "複數 somalians"
+ },
+ "somatic": {
+  "ph": "/sәu'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "身體的, 肉體的, 壁體的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 軀體的, 體壁的",
+    "def": ""
+   }
+  ]
+ },
+ "somatostatin": {
+  "ph": "/sәumætәu'stætin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 促生長素抑制素; 生長抑素; 生長激素釋抑制因子",
+    "def": ""
+   }
+  ]
+ },
+ "somber": {
+  "ph": "/'sɒmbә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "昏暗的, 陰天的, 嚴峻的, 憂鬱的",
+    "def": ""
+   }
+  ]
+ },
+ "somberly": {
+  "ph": "/'sɒmbəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "昏暗地, 陰沉地",
+    "def": ""
+   }
+  ]
+ },
+ "somberness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暗淡；昏暗",
+    "def": ""
+   }
+  ]
+ },
+ "sombre": {
+  "ph": "/'sɔmbә(r)/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "昏暗的, 陰沉的, 陰暗的, 憂鬱的, 暗淡的, 淺黑的",
+    "def": ""
+   }
+  ]
+ },
+ "sombrely": {
+  "ph": "/'sɔmbəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "昏暗地；陰沉沉地；憂鬱地；嚴肅地",
+    "def": ""
+   }
+  ]
+ },
+ "sombrero": {
+  "ph": "/sɒm'brerәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "闊邊帽",
+    "def": "one of the islands of Saint Christopher-Nevis"
+   }
+  ],
+  "forms": "複數 sombreros"
+ },
+ "some": {
+  "ph": "/sʌm/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "一些, 一部分, 若干",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "大約",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "一些的, 少許的, 某一的",
+    "def": "quantifier; used with either mass nouns or plural count nouns to indicate an unspecified number or quantity"
+   }
+  ]
+ },
+ "some day": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "來日",
+    "def": ""
+   }
+  ]
+ },
+ "somebody": {
+  "ph": "/'sʌmbɒdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "了不起的人, 大人物",
+    "def": ""
+   },
+   {
+    "pos": "pron.",
+    "zh": "有人, 某人",
+    "def": ""
+   }
+  ]
+ },
+ "someday": {
+  "ph": "/'sʌmdei/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有一天",
+    "def": ""
+   }
+  ],
+  "forms": "複數 somedays"
+ },
+ "somehow": {
+  "ph": "/'sʌmhau/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不知何故",
+    "def": ""
+   }
+  ]
+ },
+ "someone": {
+  "ph": "/'sʌmwʌn/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "有人, 某人",
+    "def": ""
+   }
+  ]
+ },
+ "someplace": {
+  "ph": "/'sʌmpleis/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在某處",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "某處",
+    "def": ""
+   }
+  ]
+ },
+ "somers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薩默斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "somersault": {
+  "ph": "/'sʌmәsɒ:lt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "筋斗",
+    "def": "an acrobatic feat in which the feet roll over the head (either forward or backward) and return"
+   },
+   {
+    "pos": "vi.",
+    "zh": "翻筋斗",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 somersaulted｜複數 somersaults｜現在分詞 somersaulting｜第三人稱單數 somersaults｜過去分詞 somersaulted"
+ },
+ "somerset": {
+  "ph": "/'sʌmәsit. -set/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有襯墊的馬鞍（獨腿者乘坐的）",
+    "def": "a county in southwestern England on the Bristol Channel"
+   }
+  ]
+ },
+ "somerton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Somerton)人名；(英)薩默頓",
+    "def": ""
+   }
+  ]
+ },
+ "somerville": {
+  "ph": "/'sʌmәvil/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "薩默維爾[美國馬薩諸塞州東部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "something": {
+  "ph": "/'sʌmθiŋ/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "某事, 某物",
+    "def": ""
+   }
+  ]
+ },
+ "sometime": {
+  "ph": "/'sʌmtaim/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "以前的, 某一時間的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "改天, 來日",
+    "def": ""
+   }
+  ]
+ },
+ "sometimes": {
+  "ph": "/'sʌmtaimz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有時, 時常, 往往",
+    "def": ""
+   }
+  ]
+ },
+ "somewhat": {
+  "ph": "/'sʌmhwɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "某物, 幾分",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "多少, 幾分",
+    "def": ""
+   }
+  ]
+ },
+ "somewhere": {
+  "ph": "/'sʌmhwєә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "到某處, 在某處",
+    "def": ""
+   }
+  ]
+ },
+ "somewheres": {
+  "ph": "/'sʌmweə/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在某處；到某處",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "某個地方",
+    "def": ""
+   }
+  ]
+ },
+ "somme": {
+  "ph": "/sɔm; sʌm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索姆（法國一省份）；索姆河（法國一河流）",
+    "def": "battle of World War II (1944)"
+   }
+  ],
+  "forms": "複數 sommes"
+ },
+ "sommelier": {
+  "ph": "/.sʌmә'ljei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斟酒服務員",
+    "def": "a waiter who manages wine service in a hotel or restaurant"
+   }
+  ],
+  "forms": "複數 sommeliers"
+ },
+ "sommer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[建] 大梁；[建] 地梁；凜條",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Sommer)人名；(德)佐默；(英)薩默；(西)松梅爾",
+    "def": ""
+   }
+  ]
+ },
+ "somnolence": {
+  "ph": "/'sɔmnәlәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "思睡, 睏倦, 瞌睡, 嗜眠, 嗜眠症",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瞌睡, 欲睡; 嗜眠",
+    "def": ""
+   }
+  ]
+ },
+ "somnolent": {
+  "ph": "/'sɒmnәlәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "想睡的, 催眠的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瞌睡的; 嗜眠的",
+    "def": ""
+   }
+  ]
+ },
+ "son": {
+  "ph": "/sʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兒子, 女婿, 子孫",
+    "def": "a male human offspring"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 兒子, 女婿, 養子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sons"
+ },
+ "son-in-law": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女婿",
+    "def": "the husband of your daughter"
+   }
+  ],
+  "forms": "複數 son-in-laws"
+ },
+ "sonar": {
+  "ph": "/'sәunɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲納",
+    "def": "a measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 聲納",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sonars"
+ },
+ "sonata": {
+  "ph": "/sә'nɑ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奏鳴曲",
+    "def": "a musical composition of 3 or 4 movements of contrasting forms"
+   }
+  ],
+  "forms": "複數 sonatas"
+ },
+ "sondheim": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "桑德海姆（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "song": {
+  "ph": "/sɒŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌, 曲, 鳴聲, 歌唱, 歌曲, 詩歌",
+    "def": "a short musical composition with words"
+   }
+  ],
+  "forms": "複數 songs"
+ },
+ "songbird": {
+  "ph": "/'sɒŋbә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燕雀, 歌鳥, 女歌手",
+    "def": "any bird having a musical call"
+   }
+  ],
+  "forms": "複數 songbirds"
+ },
+ "songbook": {
+  "ph": "/'sɒŋbuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌謠集, 歌集",
+    "def": "a book containing a collection of songs"
+   }
+  ],
+  "forms": "複數 songbooks"
+ },
+ "songster": {
+  "ph": "/'sɒŋstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌手, 作曲者, 詩人, 鳴禽",
+    "def": "a person who sings"
+   }
+  ],
+  "forms": "複數 songsters"
+ },
+ "songstress": {
+  "ph": "/'sɒŋstris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女歌手, 女詩人",
+    "def": "a woman songster (especially of popular songs)"
+   }
+  ],
+  "forms": "複數 songstresses"
+ },
+ "songwriter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流行歌曲的作者",
+    "def": "a composer of words or music for popular songs"
+   }
+  ],
+  "forms": "複數 songwriters"
+ },
+ "songwriting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "歌曲創作",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 songwriting"
+ },
+ "sonia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索尼亞（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "sonic": {
+  "ph": "/'sɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "音波的, 音速的, 聲音的",
+    "def": "(of speed) having or caused by speed approximately equal to that of sound in air at sea level"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 音波",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sonics"
+ },
+ "sonically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "sonic的變形",
+    "def": ""
+   }
+  ]
+ },
+ "sonja": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索尼婭（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "sonnet": {
+  "ph": "/'sɒnit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "十四行詩",
+    "def": "a verse form consisting of 14 lines with a fixed rhyme scheme"
+   }
+  ],
+  "forms": "複數 sonnets｜現在分詞 sonneting｜過去式 sonneted｜第三人稱單數 sonnets｜過去分詞 sonneted"
+ },
+ "sonny": {
+  "ph": "/'sʌni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寶貝, 小傢伙",
+    "def": ""
+   }
+  ]
+ },
+ "sonogram": {
+  "ph": "/'sɔnә,^ræm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "語圖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sonograms"
+ },
+ "sonography": {
+  "ph": "/sә'nɔ^rәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[醫]超聲波檢查法, 超聲波掃描術",
+    "def": "using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily or"
+   }
+  ]
+ },
+ "sonority": {
+  "ph": "/sәu'nɒriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "響亮, 響亮程度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sonorities"
+ },
+ "sonorous": {
+  "ph": "/sәu'nɒ:rәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宏亮的, 響亮的, 作響的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 響聲的, 作響的",
+    "def": ""
+   }
+  ]
+ },
+ "sonorously": {
+  "ph": "/'sɒnərəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "圓潤低沉地; 感人地; 堂皇地; 朗朗地",
+    "def": ""
+   }
+  ]
+ },
+ "sontag": {
+  "ph": "/'sɔntæ^/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "針織披肩[斗篷]",
+    "def": ""
+   }
+  ]
+ },
+ "sony": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索尼（日本電子娛樂公司）",
+    "def": ""
+   }
+  ]
+ },
+ "soo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "超氧化物歧化酶；單點登入系統；銷售訂單",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 soo"
+ },
+ "soon": {
+  "ph": "/su:n/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不久, 早, 快, 寧可",
+    "def": ""
+   }
+  ]
+ },
+ "sooner": {
+  "ph": "/'su:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(美)(非正式)搶先佔有土地者, 搶先而獲得不正當利益的人",
+    "def": ""
+   }
+  ]
+ },
+ "soonest": {
+  "ph": "/su:nɪst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不久( soon的最高階 ); 即刻; 早; 快",
+    "def": ""
+   }
+  ]
+ },
+ "soot": {
+  "ph": "/sut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煤煙, 炭黑色",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "燻以煤煙",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sooted｜現在分詞 sooting｜過去式 sooted｜第三人稱單數 soots"
+ },
+ "sooth": {
+  "ph": "/su:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "真實",
+    "def": "truth or reality"
+   },
+   {
+    "pos": "adj.",
+    "zh": "真實的",
+    "def": ""
+   }
+  ]
+ },
+ "soothe": {
+  "ph": "/su:ð/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "緩和, 使安靜, 安慰, 奉承",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "起安慰作用",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 soothed｜過去分詞 soothed｜第三人稱單數 soothes｜複數 soothes｜現在分詞 soothing"
+ },
+ "soother": {
+  "ph": "/'su:ðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撫慰者, 橡皮奶頭",
+    "def": "One who, or that which, soothes."
+   }
+  ],
+  "forms": "複數 soothers"
+ },
+ "soothing": {
+  "ph": "/'su:ðiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "撫慰的, 使人寬心的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 緩解的, 安撫的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 soothing"
+ },
+ "soothingly": {
+  "ph": "/su:ðɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "撫慰地, 安慰地; 鎮痛地",
+    "def": ""
+   }
+  ]
+ },
+ "soothsayer": {
+  "ph": "/'su:θseiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "預言者, 占卜者, 預測未來者, 螳螂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soothsayers"
+ },
+ "sooty": {
+  "ph": "/'suti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "煤煙燻黑的, 烏黑的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sooties"
+ },
+ "sop": {
+  "ph": "/sɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麵包片, 溼透的東西, 一灘(液體), 小賄賂, 懦夫",
+    "def": "piece of solid food for dipping in a liquid"
+   },
+   {
+    "pos": "vt.",
+    "zh": "浸溼, 吸水, 賄賂",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "滲透, 溼透",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sops｜過去式 sopped｜過去分詞 sopped｜現在分詞 sopping｜第三人稱單數 sops"
+ },
+ "soper": {
+  "ph": "/'sәjpә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[醫]迷睡, 昏睡, 酣睡",
+    "def": ""
+   }
+  ]
+ },
+ "sophia": {
+  "ph": "/sә'faiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索菲婭（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "sophie": {
+  "ph": "/'sәufi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索菲（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "sophism": {
+  "ph": "/'sɒfizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詭辯",
+    "def": "a deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone"
+   }
+  ],
+  "forms": "複數 sophisms"
+ },
+ "sophist": {
+  "ph": "/'sɒfist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詭辯者, 詭辨家, 學者",
+    "def": "any of a group of Greek philosophers and teachers in the 5th century BC who speculated on a wide range of subjects"
+   }
+  ]
+ },
+ "sophisticate": {
+  "ph": "/sә'fistikeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "久經世故的人, 精於...之道的人",
+    "def": "a worldly-wise person"
+   },
+   {
+    "pos": "vt.",
+    "zh": "篡改, 曲解, 使變得世故, 摻合, 弄複雜",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "詭辯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sophisticates｜過去分詞 sophisticated｜現在分詞 sophisticating｜過去式 sophisticated｜第三人稱單數 sophisticates"
+ },
+ "sophisticated": {
+  "ph": "/sә'fistikeitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "複雜的, 久經世故的",
+    "def": "having or appealing to those having worldly knowledge and refinement and savoir-faire"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 尖端的, 高階的, 非常有經驗的",
+    "def": ""
+   }
+  ]
+ },
+ "sophistication": {
+  "ph": "/sә.fisti'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詭辯, 老於世故, 複雜(性)",
+    "def": "being expert or having knowledge of some technical subject"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 摻假",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sophistications"
+ },
+ "sophistry": {
+  "ph": "/'sɒfistri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詭辯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 詭辯, 辯術, 詭辯法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sophistries"
+ },
+ "sophocles": {
+  "ph": "/'sɔfəkli:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索福克勒斯（古希臘悲劇詩人）",
+    "def": "one of the great tragedians of ancient Greece (496-406 BC)"
+   }
+  ]
+ },
+ "sophomore": {
+  "ph": "/'sɒfәmɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(大學)二年級生",
+    "def": "a second-year undergraduate"
+   },
+   {
+    "pos": "adj.",
+    "zh": "二年級學生的, 二年級的",
+    "def": ""
+   }
+  ]
+ },
+ "sophomoric": {
+  "ph": "/,sɔfә'mɔ:rik, -'mɔ-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "二年級學生的, 一知半解的, 幼稚而自大的",
+    "def": "Alt. of Sophomorical"
+   }
+  ]
+ },
+ "sophy": {
+  "ph": "/'sәufi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇菲（古波斯統治者）",
+    "def": ""
+   }
+  ]
+ },
+ "soporific": {
+  "ph": "/.sәupә'rifik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "催眠的, 想睡的, 令人麻木不仁的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "催眠劑, 安眠藥",
+    "def": "a drug that induces sleep"
+   }
+  ]
+ },
+ "sopping": {
+  "ph": "/'sɒpiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "渾身溼透的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sopping"
+ },
+ "soppy": {
+  "ph": "/'sɒpi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "渾身溼透的, 多雨的, 假情假義的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 soppier"
+ },
+ "soprano": {
+  "ph": "/sә'prænәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女高音, 最高音部, 女高音歌手",
+    "def": "a female singer"
+   },
+   {
+    "pos": "adj.",
+    "zh": "女高音的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sopranos"
+ },
+ "sopwith": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "索普威斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "sor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "特殊操作要求（Specific Operating Requirement）；逐次超松馳（Successive Over-Relaxation）；標準操作報告（Standard Operating Report）；計劃遠景報告（Schedule Outlook Report）",
+    "def": ""
+   }
+  ]
+ },
+ "sorbet": {
+  "ph": "/'sɔ:bәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "加果汁的冰水",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sorbets"
+ },
+ "sorbitol": {
+  "ph": "/'sɔ:bitәl, 'sɔ:bitәul/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 山梨醇; 山梨糖醇",
+    "def": ""
+   }
+  ]
+ },
+ "sorbonne": {
+  "ph": "/sɔ:'bɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索邦神學院(巴黎大學的前身),巴黎大學",
+    "def": ""
+   }
+  ]
+ },
+ "sorbus": {
+  "ph": "/'sɔ:bәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "山梨",
+    "def": ""
+   }
+  ]
+ },
+ "sorcerer": {
+  "ph": "/'sɒ:sәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男巫士, 魔術師",
+    "def": "one who practices magic or sorcery"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 男巫師, 魔法師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sorcerers"
+ },
+ "sorceress": {
+  "ph": "/'sɔ:sәris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女巫女術士, 女魔術師",
+    "def": "a woman sorcerer"
+   }
+  ],
+  "forms": "複數 sorceresses"
+ },
+ "sorcery": {
+  "ph": "/'sɒ:sәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巫術, 魔術",
+    "def": "the belief in magical spells that harness occult forces or evil spirits to produce unnatural effects in the world"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 巫術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sorceries"
+ },
+ "sordid": {
+  "ph": "/'sɒ:did/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "骯髒的, 貪婪的, 卑鄙的, 惡劣的, 暗淡的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 汙色的",
+    "def": ""
+   }
+  ]
+ },
+ "sore": {
+  "ph": "/sɒ:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "悲傷的, 痛的, 引起痛苦的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "痛處, 潰瘍, 瘡",
+    "def": "an open skin infection"
+   }
+  ],
+  "forms": "複數 sores｜比較級 sorer"
+ },
+ "sorely": {
+  "ph": "/'sɒ:li/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "疼痛地, 強烈地, 非常",
+    "def": ""
+   }
+  ]
+ },
+ "soren": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Soren)人名；(阿拉伯)蘇林",
+    "def": ""
+   }
+  ]
+ },
+ "soreness": {
+  "ph": "/'sɒ:nis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "痛苦, 悲傷, 憤慨",
+    "def": ""
+   }
+  ]
+ },
+ "sorensen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sorensen)人名；(英、西、瑞典)索倫森",
+    "def": "Danish chemist who devised the pH scale (1868-1939)"
+   },
+   {
+    "pos": "",
+    "zh": "索楞遜",
+    "def": ""
+   }
+  ]
+ },
+ "sorghum": {
+  "ph": "/'sɒ:gәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高粱, 蘆黍糖漿, 甜得發膩的東西",
+    "def": "economically important Old World tropical cereal grass"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蜀黍, 高梁",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sorghums"
+ },
+ "sorority": {
+  "ph": "/sә'rɒ:riti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婦女聯誼會, 女學生聯誼會",
+    "def": "a social club for female undergraduates"
+   }
+  ],
+  "forms": "複數 sororities"
+ },
+ "soros": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索羅斯（投資專家）；索羅斯基金",
+    "def": ""
+   }
+  ]
+ },
+ "sorrel": {
+  "ph": "/'sɒ:rәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "栗色的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "栗色, 栗色動物, 三歲雄鹿, 酸模, 酢漿草",
+    "def": "large sour-tasting arrowhead-shaped leaves used in salads and sauces"
+   }
+  ],
+  "forms": "複數 sorrels"
+ },
+ "sorrow": {
+  "ph": "/'sɒrәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "悲傷, 哀惜, 不幸",
+    "def": "an emotion of great sadness associated with loss or bereavement"
+   },
+   {
+    "pos": "vi.",
+    "zh": "悲傷, 懊悔, 遺憾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sorrows｜過去式 sorrowed｜過去分詞 sorrowed｜現在分詞 sorrowing｜第三人稱單數 sorrows"
+ },
+ "sorrowful": {
+  "ph": "/'sɒrәuful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "悲傷的",
+    "def": "experiencing or marked by or expressing sorrow especially that associated with irreparable loss"
+   }
+  ]
+ },
+ "sorrowfully": {
+  "ph": "/'sɒrəʊfəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "傷心地, 悲傷地",
+    "def": ""
+   }
+  ]
+ },
+ "sorrowing": {
+  "ph": "/'sɒrəʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "悲傷；懊悔；傷心事",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "懊悔；遺憾；感到悲傷",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "為…悲痛",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sorrowing"
+ },
+ "sorry": {
+  "ph": "/'sɒri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "難過的, 悲哀的, 遺憾的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 sorrier"
+ },
+ "sort": {
+  "ph": "/sɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "種類, 方式, 品質, 態度, 舉止",
+    "def": "an approximate definition or example"
+   },
+   {
+    "pos": "vt.",
+    "zh": "分類, 排序, 挑選",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "交往, 協調",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 排序; DOS外部命令:從標準輸入裝置接收資料, 整個資料輸入完後",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "對它以行為單位進行排序, 然後在標準輸出裝置上輸出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sorts｜過去分詞 sorted｜現在分詞 sorting｜過去式 sorted｜第三人稱單數 sorts"
+ },
+ "sorta": {
+  "ph": "/'sɔ:tә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有幾分地",
+    "def": ""
+   }
+  ]
+ },
+ "sorted": {
+  "ph": "/'sɔ:tid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分選的；分類的；挑選的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sorted｜過去式 sorted"
+ },
+ "sorter": {
+  "ph": "/'sɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "從事分類的人, 分揀的人",
+    "def": "a clerk who sorts things (as letters at the post office)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 分類機; 分類人員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sorters"
+ },
+ "sortie": {
+  "ph": "/'sɒ:ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出擊, 突圍",
+    "def": "a military action in which besieged troops burst forth from their position"
+   }
+  ],
+  "forms": "複數 sorties"
+ },
+ "sorting": {
+  "ph": "/'sɔ:tiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 排序",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 分類揀選, 整理",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sorting"
+ },
+ "sos": {
+  "ph": "/esәj'es/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "緊急呼救訊號",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 獨立作業系統",
+    "def": ""
+   }
+  ]
+ },
+ "sot": {
+  "ph": "/sɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醉鬼, 酗酒者",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "因酗酒浪費掉",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "酗酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sots"
+ },
+ "soteriological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "救贖論",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "救贖性",
+    "def": ""
+   }
+  ]
+ },
+ "soteriology": {
+  "ph": "/sәtiәri'ɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[宗]耶穌救世學, 救世神學",
+    "def": "the branch of Christian theology that deals with salvation as the effect of a divine agency"
+   }
+  ]
+ },
+ "sotheby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇富比；索斯比（拍賣公司名, 等於Sotheby's）",
+    "def": ""
+   }
+  ]
+ },
+ "soto": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索托（手錶品牌）",
+    "def": ""
+   }
+  ]
+ },
+ "sou": {
+  "ph": "/su:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇（昔日法國之一種銅幣）；無價值之物",
+    "def": "a former French coin of low denomination; often used of any small amount of money"
+   }
+  ]
+ },
+ "soubriquet": {
+  "ph": "/'sәubrikei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綽號, 渾名",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soubriquets"
+ },
+ "souffle": {
+  "ph": "/'su:fl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雜音",
+    "def": "light fluffy dish of egg yolks and stiffly beaten egg whites mixed with e.g. cheese or fish or fruit"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 雜音, 吹氣音",
+    "def": ""
+   }
+  ],
+  "forms": "複數 souffles"
+ },
+ "sough": {
+  "ph": "/sau/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "颯颯聲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "颯颯響, 嘩嘩地響",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 soughing｜過去式 soughed｜複數 soughs｜第三人稱單數 soughs｜過去分詞 soughed"
+ },
+ "sought": {
+  "ph": "/sɒ:t/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "seek的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sought｜過去分詞 sought"
+ },
+ "sought-after": {
+  "ph": "/'sɔ:tɑ:ftə/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "很吃香的, 廣受歡迎的",
+    "def": ""
+   }
+  ]
+ },
+ "souk": {
+  "ph": "/su:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（穆斯林國家的）露天劇場",
+    "def": "an open-air market in an Arabian city"
+   }
+  ],
+  "forms": "複數 souks"
+ },
+ "soul": {
+  "ph": "/sәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靈魂, 心靈, 精神, 精髓, 人, 化身, 典型, 鬼魂",
+    "def": "the immaterial part of a person; the actuating cause of an individual life"
+   },
+   {
+    "pos": "adj.",
+    "zh": "黑人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 souls"
+ },
+ "soulful": {
+  "ph": "/'sәulful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "充滿精神的, 感情上的, 高尚的",
+    "def": ""
+   }
+  ]
+ },
+ "soulfully": {
+  "ph": "/'səulfuli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "充滿感情地, 深情地",
+    "def": ""
+   }
+  ]
+ },
+ "soulfulness": {
+  "ph": "/'səulfulnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "充滿感情, 深情",
+    "def": ""
+   }
+  ]
+ },
+ "soulless": {
+  "ph": "/'sәullis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有精神的, 沒有靈魂的, 洩氣的",
+    "def": ""
+   }
+  ]
+ },
+ "soulmate": {
+  "ph": "/ˈsəʊlmeɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "心靈伴侶, 知音, 夢中情人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soulmates"
+ },
+ "sound": {
+  "ph": "/saund/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲音, 語音, 吵鬧, 聲調, 聽力範圍, 探條, 海峽",
+    "def": "the particular auditory effect produced by a given cause"
+   },
+   {
+    "pos": "adj.",
+    "zh": "健全的, 可靠的, 合理的, 健康的, 徹底的, 資金充實的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "徹底地, 充分地",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發出聲音, 迴響, 測深, 試探, 聽起來",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使發聲, 宣告, 聽診, 測...深, 試探",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 聲音",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 sounds｜複數 sounds｜過去式 sounded｜現在分詞 sounding｜過去分詞 sounded｜比較級 sounder"
+ },
+ "sound system": {
+  "ph": "/saund ˈsistəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音響系統",
+    "def": ""
+   }
+  ]
+ },
+ "soundbite": {
+  "ph": "/'saʊndbaɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（通常指新聞節目中引自政客演講的）簡短引述, 原話片段",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soundbites"
+ },
+ "soundboard": {
+  "ph": "/'saʊndbɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "共鳴板, 響板; 音板",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soundboards"
+ },
+ "sounded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vbl.",
+    "zh": "聽起來",
+    "def": ""
+   }
+  ]
+ },
+ "sounder": {
+  "ph": "/'saundә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發聲者, 鳴響的東西, 音響發聲器, 測深員",
+    "def": "a device for making soundings"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 音響器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sounders"
+ },
+ "sounding": {
+  "ph": "/'saundiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發出聲音的, 響亮的, 誇大的, 聽上去堂皇的, 誇張的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "測深, 水深測量, 探空, 試探, 調查, 蒐集意見",
+    "def": "a measure of the depth of water taken with a sounding line"
+   }
+  ],
+  "forms": "複數 soundings｜現在分詞 sounding"
+ },
+ "soundless": {
+  "ph": "/'saundlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無聲的, 完全靜寂的, 靜悄悄的",
+    "def": ""
+   }
+  ]
+ },
+ "soundlessly": {
+  "ph": "/'saundlisli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無聲地, 完全靜寂地, 靜悄悄地",
+    "def": ""
+   }
+  ]
+ },
+ "soundly": {
+  "ph": "/'saundli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "完全地, 健全地, 堅牢地",
+    "def": ""
+   }
+  ]
+ },
+ "soundman": {
+  "ph": "/'saʊndmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "負責音響效果的人",
+    "def": "a technician in charge of amplifying sound or producing sound effects (as for a TV or radio broadcast)"
+   }
+  ]
+ },
+ "soundness": {
+  "ph": "/'saundnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "完全堅固, 穩固, 公正",
+    "def": "a state or condition free from damage or decay"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 無疵",
+    "def": ""
+   }
+  ]
+ },
+ "soundproof": {
+  "ph": "/'saundpru:f/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "隔音的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 soundproofing｜過去分詞 soundproofed｜過去式 soundproofed｜第三人稱單數 soundproofs"
+ },
+ "soundproofing": {
+  "ph": "/saʊndp'ru:fɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給（房屋等）裝以隔音裝置, 使隔音( soundproof的現在分詞 ); 消聲",
+    "def": ""
+   }
+  ]
+ },
+ "soundscape": {
+  "ph": "/'saundskeip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音響範圍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soundscapes"
+ },
+ "soundtrack": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲跡, 聲槽, 聲帶",
+    "def": "sound recording on a narrow strip of a motion picture film"
+   }
+  ],
+  "forms": "複數 soundtracks｜現在分詞 soundtracking"
+ },
+ "soup": {
+  "ph": "/su:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湯, 馬力",
+    "def": "liquid food especially of meat or fish or vegetable stock often containing pieces of solid food"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加速, 增加馬力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soups｜過去式 souped｜現在分詞 souping｜第三人稱單數 soups｜過去分詞 souped"
+ },
+ "soupcon": {
+  "ph": "/su:p'sɒŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細微的痕跡, 少許, 些微, 點滴暗示",
+    "def": ""
+   }
+  ]
+ },
+ "soupy": {
+  "ph": "/'su:pi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "湯汁一樣的, 糊狀的, 霧濃的",
+    "def": ""
+   }
+  ]
+ },
+ "sour": {
+  "ph": "/'sauә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "酸的, 酸臭的, 發酵的, 慍怒的, 討厭的, 拙劣的, 不健全的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變酸, 發酵, 厭煩, 變壞",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使變酸, 使失望",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "酸味, 酸飲料",
+    "def": "a cocktail made of a liquor (especially whiskey or gin) mixed with lemon or lime juice and sugar"
+   }
+  ],
+  "forms": "過去分詞 soured｜過去式 soured｜第三人稱單數 sours｜現在分詞 souring｜比較級 sourer｜最高級 sourest"
+ },
+ "source": {
+  "ph": "/sɒ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "來源, 水源, 根源, 原始資料, 源",
+    "def": "a document (or organization) from which information is obtained"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 來源, 源程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sources｜過去分詞 sourced｜現在分詞 sourcing｜過去式 sourced｜第三人稱單數 sources"
+ },
+ "sourcebook": {
+  "ph": "/'sɔ:sbjk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "原始資料(集),資料讀物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sourcebooks"
+ },
+ "sourceless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "source的變形",
+    "def": ""
+   }
+  ]
+ },
+ "sources": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輸入源；發起者；來源（source的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "sourcing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 純源化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sourcing"
+ },
+ "sourdough": {
+  "ph": "/'sajәdәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "含酵母的麵糰",
+    "def": "a leaven of dough in which fermentation is active; used by pioneers for making bread"
+   }
+  ]
+ },
+ "soured": {
+  "ph": "/ˈsauəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使某物）變酸, 變餿, （使某人）陰鬱( sour的過去式和過去分詞 ); 關係、態度、人等（使）變壞, 惡化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 soured"
+ },
+ "souring": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "變酸；發酵；變質（sour的現在分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "sourly": {
+  "ph": "/'sauәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "性情乖僻地, 陰鬱地, 壞心眼地",
+    "def": ""
+   }
+  ]
+ },
+ "sourness": {
+  "ph": "/'sauәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酸味, 性情乖僻, 壞心眼",
+    "def": "the property of being acidic"
+   }
+  ]
+ },
+ "sourpuss": {
+  "ph": "/'sauәpus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "整天繃著臉的人, 討人嫌的傢伙",
+    "def": "someone with a habitually sullen or gloomy expression"
+   }
+  ],
+  "forms": "複數 sourpusses"
+ },
+ "sourwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 酸漿樹",
+    "def": ""
+   }
+  ]
+ },
+ "sous": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇斯（摩洛哥地區）",
+    "def": ""
+   }
+  ]
+ },
+ "sousa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "蘇薩（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "sousaphone": {
+  "ph": "/'su:zәfәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘇薩號",
+    "def": ""
+   }
+  ]
+ },
+ "souse": {
+  "ph": "/saus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "濺落, 浸入, 醃漬用鹽汁, 醃製物, 浸水",
+    "def": "pork trimmings chopped and pickled and jelled"
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...浸如水中, 醃製, 弄醉",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被浸透, 喝醉",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "撲通一聲地, 出其不意地",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 soused｜現在分詞 sousing｜過去分詞 soused｜第三人稱單數 souses"
+ },
+ "souter": {
+  "ph": "/'su:tә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<蘇格蘭>鞋匠",
+    "def": "A shoemaker; a cobbler."
+   }
+  ]
+ },
+ "south": {
+  "ph": "/sauθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "南方, 南",
+    "def": "the region of the United States lying to the south of the Mason-Dixon line"
+   },
+   {
+    "pos": "adj.",
+    "zh": "南的, 向南的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在南方",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "轉向南方",
+    "def": ""
+   }
+  ]
+ },
+ "south-eastern": {
+  "ph": "/sauθ ˈi:stən/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "東南的; 位於東南方的",
+    "def": ""
+   }
+  ]
+ },
+ "southall": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Southall)人名；(英)索撒爾",
+    "def": ""
+   }
+  ]
+ },
+ "southampton": {
+  "ph": "/sauθ'æmptәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "南安普敦（英國港市）",
+    "def": ""
+   }
+  ]
+ },
+ "southbound": {
+  "ph": "/'sajθbajnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向南行的, 向南行駛的",
+    "def": ""
+   }
+  ]
+ },
+ "southeast": {
+  "ph": "/sauθ'i:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東南, 東南地區",
+    "def": "the compass point midway between south and east; at 135 degrees"
+   },
+   {
+    "pos": "adj.",
+    "zh": "東南的, 向東南的, 來自東南的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "往東南, 來自東南",
+    "def": ""
+   }
+  ]
+ },
+ "southeasterly": {
+  "ph": "/sauθ'i:stәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "往東南的, 來自東南的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "往東南, 來自東南",
+    "def": ""
+   }
+  ]
+ },
+ "southeastern": {
+  "ph": "/sauθ'i:stәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "東南方的",
+    "def": ""
+   }
+  ]
+ },
+ "southeastward": {
+  "ph": "/sauθ'i:stwәd/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "往東南",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "朝東南的方向",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "向東南的",
+    "def": ""
+   }
+  ]
+ },
+ "southend": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索森德； 紹森德",
+    "def": ""
+   }
+  ]
+ },
+ "southerly": {
+  "ph": "/'sʌðәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向南的, 來自南方的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "南風",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向南, 從南面",
+    "def": ""
+   }
+  ]
+ },
+ "southern": {
+  "ph": "/'sʌðәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "南方人, 男風",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "向南方的, 來自南方的",
+    "def": "in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line"
+   }
+  ]
+ },
+ "southerner": {
+  "ph": "/'sʌðәnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "南方人",
+    "def": "an American who lives in the South"
+   }
+  ],
+  "forms": "複數 southerners"
+ },
+ "southernmost": {
+  "ph": "/'sʌð(ә)nmәjst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最南的",
+    "def": ""
+   }
+  ]
+ },
+ "southey": {
+  "ph": "/'sauði, 'sʌði/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騷塞（姓氏）",
+    "def": "English poet and friend of Wordsworth and Coleridge (1774-1843)"
+   }
+  ]
+ },
+ "southgate": {
+  "ph": "/'sauθɡeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索思蓋特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "southland": {
+  "ph": "/'sajθlәnd, -lænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "南國, 南部地方",
+    "def": "any region lying in or toward the south"
+   }
+  ],
+  "forms": "複數 southlands"
+ },
+ "southpaw": {
+  "ph": "/'sauθpɒ:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用左手的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "用左手的運動員, 用左手投球的投手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 southpaws"
+ },
+ "southport": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紹斯波特",
+    "def": ""
+   }
+  ]
+ },
+ "southsea": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "南海城",
+    "def": ""
+   }
+  ]
+ },
+ "southside": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電影]荒誕拳擊手",
+    "def": ""
+   }
+  ]
+ },
+ "southward": {
+  "ph": "/'sauθwәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朝南的方向(或地點、地區)",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "在南方的, 往南方的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "往南",
+    "def": ""
+   }
+  ]
+ },
+ "southwards": {
+  "ph": "/'sajθwәdz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在南方",
+    "def": ""
+   }
+  ]
+ },
+ "southwark": {
+  "ph": "/'sʌðək/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薩瑟克區（倫敦自治市）；南華克區",
+    "def": ""
+   }
+  ]
+ },
+ "southwell": {
+  "ph": "/'sauθwәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "索斯韋爾(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "southwest": {
+  "ph": "/sauθ'west/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西南, 西南方, 西南地區",
+    "def": "the compass point midway between south and west; at 225 degrees"
+   },
+   {
+    "pos": "adj.",
+    "zh": "西南的, 來自西南方的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "往西南, 來自西南",
+    "def": ""
+   }
+  ]
+ },
+ "southwesterly": {
+  "ph": "/sauθ'westәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "往西南的, 來自西南的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "往西南, 來自西南",
+    "def": ""
+   }
+  ]
+ },
+ "southwestern": {
+  "ph": "/sauθ'westәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "西南的, 向西南的, 來自西南的, 西南部的",
+    "def": ""
+   }
+  ]
+ },
+ "southwold": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Southwold)人名；(英)索思沃爾德",
+    "def": ""
+   }
+  ]
+ },
+ "southwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "索思伍德（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "southworth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Southworth)人名；(英)索思沃思",
+    "def": ""
+   }
+  ]
+ },
+ "souvenir": {
+  "ph": "/.su:vә'niә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紀念品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 souvenirs"
+ },
+ "souvenirs": {
+  "ph": "/su:və'nɪəz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紀念品( souvenir的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "souza": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Souza)人名；(西、葡)索薩；(法)蘇扎",
+    "def": ""
+   }
+  ]
+ },
+ "sov": {
+  "ph": "/sɔv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<口>蘇聯人,蘇聯領導人,蘇聯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sovs｜第三人稱單數 sovs"
+ },
+ "sovereign": {
+  "ph": "/'sɒvrin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "元首, 獨立國",
+    "def": "a nation's ruler or head of state usually by hereditary right"
+   },
+   {
+    "pos": "adj.",
+    "zh": "具有主權的, 至高無上的, 國王的, 完全的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sovereigns"
+ },
+ "sovereignty": {
+  "ph": "/'sɒvrәnti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主權, 獨立國",
+    "def": "government free from external control"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 主權, 主權國家, 統治權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sovereignties"
+ },
+ "soviet": {
+  "ph": "/'sәuviәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代表會議, 蘇維埃, 蘇聯",
+    "def": "an elected governmental council in a communist country (especially one that is a member of the Union of Soviet Socialist Republics)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "蘇維埃的, 蘇聯的",
+    "def": "of or relating to or characteristic of the former Soviet Union or its people"
+   }
+  ],
+  "forms": "複數 soviets"
+ },
+ "sow": {
+  "ph": "/sau. sәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "母豬, 懶胖女人",
+    "def": "an adult female hog"
+   },
+   {
+    "pos": "vt.",
+    "zh": "播種, 散佈, 使密佈",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "播種",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sown｜複數 sows｜現在分詞 sowing｜過去式 sowed｜第三人稱單數 sows"
+ },
+ "sower": {
+  "ph": "/'sәuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "播種者, 播種機, 四下傳播的人",
+    "def": "someone who sows"
+   }
+  ],
+  "forms": "複數 sowers"
+ },
+ "sowerby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sowerby)人名；(英)索爾比",
+    "def": ""
+   }
+  ]
+ },
+ "soweto": {
+  "ph": "/sɔ:'wetj/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "索韋託[南非]",
+    "def": ""
+   }
+  ]
+ },
+ "sowing": {
+  "ph": "/'sәuiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "播種",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sowing｜複數 sowings"
+ },
+ "soy": {
+  "ph": "/sɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醬油, 大豆",
+    "def": "a source of oil; used for forage and soil improvement and as food"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 大豆; 醬油",
+    "def": ""
+   }
+  ]
+ },
+ "soya": {
+  "ph": "/'sɔiә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 大豆",
+    "def": ""
+   }
+  ]
+ },
+ "soybean": {
+  "ph": "/'sɒibi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大豆",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 大豆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 soybeans"
+ },
+ "soymilk": {
+  "ph": "/'sɔimilk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豆奶,豆漿",
+    "def": ""
+   }
+  ]
+ }
+}

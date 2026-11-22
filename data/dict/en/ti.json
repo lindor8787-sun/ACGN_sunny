@@ -1,0 +1,3142 @@
+{
+ "ti": {
+  "ph": "/ti:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 終端介面, 得州儀器公司, 變換實現",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鈦(22號元素)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ti"
+ },
+ "tia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "先謝了（Thanks In Advance）",
+    "def": ""
+   }
+  ]
+ },
+ "tian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天；田（漢語拼音）",
+    "def": ""
+   }
+  ]
+ },
+ "tiananmen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天安門",
+    "def": ""
+   }
+  ]
+ },
+ "tiara": {
+  "ph": "/ti'ɑ:rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冕狀頭飾",
+    "def": "a jeweled headdress worn by women on formal occasions"
+   }
+  ],
+  "forms": "複數 tiaras"
+ },
+ "tiber": {
+  "ph": "/'taibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臺伯河（義大利中部, 流經羅馬）",
+    "def": "a river of central Italy; flows through Rome to the Tyrrhenian Sea"
+   }
+  ]
+ },
+ "tiberius": {
+  "ph": "/tai'biәriәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "臺比留(前42-37, 全名為 Tiberius Claudius Nero Caesar, 公元1世紀14-37年間為羅馬皇帝)",
+    "def": ""
+   }
+  ]
+ },
+ "tibet": {
+  "ph": "/ti'bet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西藏",
+    "def": "an autonomous region of the Peoples Republic of China; located in the Himalayas"
+   }
+  ]
+ },
+ "tibetan": {
+  "ph": "/ti'betn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "西藏的",
+    "def": "of or relating to or characteristic of Tibet or its people or their language"
+   },
+   {
+    "pos": "n.",
+    "zh": "藏語, 西藏人",
+    "def": "Himalayish language spoken in Tibet"
+   }
+  ],
+  "forms": "複數 tibetans"
+ },
+ "tibia": {
+  "ph": "/'tibiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脛骨, 脛節, 羅馬古笛",
+    "def": "the inner and thicker of the two bones of the human leg between the knee and ankle"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 脛骨",
+    "def": ""
+   }
+  ]
+ },
+ "tibial": {
+  "ph": "/'tibiәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "脛骨的",
+    "def": "relating to or located near a tibia"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 脛骨的",
+    "def": ""
+   }
+  ]
+ },
+ "tibialis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 脛骨肌; 脛骨的",
+    "def": ""
+   }
+  ]
+ },
+ "tic": {
+  "ph": "/tik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "痙攣, 三叉神經痛",
+    "def": "a local and habitual twitching especially in the face"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 任務中斷控制, 技術情報中心",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tics"
+ },
+ "tick": {
+  "ph": "/tik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滴答聲, 一瞬間, 壁蝨, 褥套, 信用, 賒欠",
+    "def": "a metallic tapping sound"
+   },
+   {
+    "pos": "vi.",
+    "zh": "滴答響, 活動",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "滴答地記錄, 標記號於",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ticking｜複數 ticks｜過去式 ticked｜過去分詞 ticked｜第三人稱單數 ticks"
+ },
+ "ticker": {
+  "ph": "/'tikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滴答響的東西, 斷續器",
+    "def": "a character printer that automatically prints stock quotations on ticker tape"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 股票行情自動收錄器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tickers"
+ },
+ "tickertape": {
+  "ph": "/'tɪkəteɪp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（電報、電傳機等用的）紙帶, （供歡迎名人時拋用的）彩色紙帶",
+    "def": ""
+   }
+  ]
+ },
+ "ticket": {
+  "ph": "/'tikit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "票, 券, 車票, 標籤, 入場券, 證明書",
+    "def": "a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加標籤於, 為...購票",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tickets｜現在分詞 ticketing｜過去式 ticketed｜第三人稱單數 tickets｜過去分詞 ticketed"
+ },
+ "ticketed": {
+  "ph": "/ˈtɪkɪtɪd/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "售票（ticket的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "ticketing": {
+  "ph": "/ˈtɪkɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "售票；出票",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ticketing"
+ },
+ "ticketless": {
+  "ph": "/'tɪkɪtlɪs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "無票的",
+    "def": ""
+   }
+  ]
+ },
+ "tickets": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "票；罰單（ticket的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "ticking": {
+  "ph": "/'tikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堅質棉布",
+    "def": "a strong fabric used for mattress and pillow covers"
+   }
+  ],
+  "forms": "現在分詞 ticking"
+ },
+ "tickle": {
+  "ph": "/'tikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胳肢, 癢",
+    "def": "a cutaneous sensation often resulting from light stroking"
+   },
+   {
+    "pos": "vt.",
+    "zh": "胳肢, 使發癢, 使快樂, 逗樂",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "覺得癢, 使人癢",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tickling｜過去式 tickled｜過去分詞 tickled｜第三人稱單數 tickles｜複數 tickles"
+ },
+ "tickler": {
+  "ph": "/'tiklә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "難題, 難事, 備忘錄, 呵癢的人",
+    "def": "a file of memoranda or notices that remind of things to be done"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 備忘錄, 記事本, 到期票據記錄簿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ticklers"
+ },
+ "tickling": {
+  "ph": "/'tikliŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 撩癢",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tickling"
+ },
+ "ticklish": {
+  "ph": "/'tikliʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易倒的, 不穩定的, 難對付的, 怕癢的",
+    "def": ""
+   }
+  ]
+ },
+ "tidal": {
+  "ph": "/'taidl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "潮汐的, 受潮汐影響的",
+    "def": "of or relating to or caused by tides"
+   }
+  ]
+ },
+ "tidal wave": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "潮汐波, 浪潮",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 潮波",
+    "def": ""
+   }
+  ]
+ },
+ "tidbit": {
+  "ph": "/'tidbit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "少量的美食, 珍饈, 珍品, 珍聞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tidbits｜第三人稱單數 tidbits"
+ },
+ "tiddler": {
+  "ph": "/'tidlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[英口]小魚；小孩兒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tiddlers"
+ },
+ "tiddly": {
+  "ph": "/'tidli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "很小的, 微不足道的",
+    "def": ""
+   }
+  ]
+ },
+ "tide": {
+  "ph": "/taid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潮, 潮汐, 趨勢, 潮流, 漲潮, 高潮",
+    "def": "the periodic rise and fall of the sea level under the gravitational pull of the moon"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使隨潮漂流",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "順潮行駛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tides｜現在分詞 tiding｜過去式 tided｜第三人稱單數 tides｜過去分詞 tided"
+ },
+ "tideline": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（海灘上的）潮汐線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tidelines"
+ },
+ "tidemark": {
+  "ph": "/'taidmɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潮痕, 潮水標",
+    "def": "indicator consisting of a line at the highwater or low-water limits of the tides"
+   }
+  ],
+  "forms": "複數 tidemarks"
+ },
+ "tidepool": {
+  "ph": "/'taidpu:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蓄潮池; 潮間帶水坑",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "進行潮間生物觀察",
+    "def": ""
+   }
+  ]
+ },
+ "tidewater": {
+  "ph": "/'taidwɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潮水, 有潮水域, 低窪海岸",
+    "def": "low-lying coastal land drained by tidal streams"
+   }
+  ]
+ },
+ "tideway": {
+  "ph": "/'taidwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潮路, 強潮流",
+    "def": "a channel in which a tidal current runs"
+   }
+  ]
+ },
+ "tidily": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "整潔地, 整齊地",
+    "def": ""
+   }
+  ]
+ },
+ "tidiness": {
+  "ph": "/'taidinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "整齊, 整潔",
+    "def": "the habit of being tidy"
+   }
+  ]
+ },
+ "tiding": {
+  "ph": "/'taɪdɪŋ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "順應潮水航行（tide的現在分詞形式）; 隨潮漂移；潮汐漲落",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tidings"
+ },
+ "tidy": {
+  "ph": "/'taidi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "椅子的背罩, 裝雜物的容器",
+    "def": "receptacle that holds odds and ends (as sewing materials)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "整齊的, 有條理的",
+    "def": "marked by order and cleanliness in appearance or habits"
+   },
+   {
+    "pos": "vt.",
+    "zh": "弄整齊, 收拾, 整理",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "整理, 收拾",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tidying｜過去式 tidied｜過去分詞 tidied｜比較級 tidier｜第三人稱單數 tidies｜最高級 tidiest｜複數 tidies"
+ },
+ "tie": {
+  "ph": "/tai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶子, 線, 鞋帶, 領帶, 領結, 關係, 束縛, 平局, 不分勝負",
+    "def": "equality of score in a contest"
+   },
+   {
+    "pos": "vt.",
+    "zh": "系, 打結, 扎, 約束, 與...成平局",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "結合, 打結, 不分勝負",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tied｜複數 ties｜過去式 tied｜現在分詞 tying｜第三人稱單數 ties"
+ },
+ "tie sth up": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "連線, 聯絡, 密切聯絡",
+    "def": ""
+   }
+  ]
+ },
+ "tieback": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窗簾鉤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tiebacks"
+ },
+ "tiebreaker": {
+  "ph": "/ˈtaɪbreɪkə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "搶7決勝局； 線路中斷器",
+    "def": "overtime play in order to break a tie; e.g. tennis and soccer"
+   }
+  ],
+  "forms": "複數 tiebreakers"
+ },
+ "tied": {
+  "ph": "/taid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "系（tie的過去式和過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tied｜過去式 tied"
+ },
+ "tied up": {
+  "ph": "/taɪd ʌp/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "忙得不可開交的；不得閒的；正在使用的",
+    "def": ""
+   }
+  ]
+ },
+ "tien": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天津飯；天山",
+    "def": ""
+   }
+  ]
+ },
+ "tientsin": {
+  "ph": "/'tjen'tsin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天津(=tcanjin)",
+    "def": ""
+   }
+  ]
+ },
+ "tier": {
+  "ph": "/tiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排, 層, 等級",
+    "def": "any one of two or more competitors who tie one another"
+   }
+  ],
+  "forms": "複數 tiers"
+ },
+ "tiered": {
+  "ph": "/tɪəd/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "層層排列, 使層疊（tier的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "tierney": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tierney)人名；(英)蒂爾尼",
+    "def": ""
+   }
+  ]
+ },
+ "tierra": {
+  "ph": "/ti'erә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "高山氣候帶",
+    "def": ""
+   }
+  ]
+ },
+ "tiff": {
+  "ph": "/tif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一口淡酒, 小爭吵, 小口角, 淡酒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "小爭吵, 生氣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tiffs｜第三人稱單數 tiffs"
+ },
+ "tiffany": {
+  "ph": "/'tifәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "絲紗羅",
+    "def": "United States artist who developed Tiffany glass (1848-1933)"
+   }
+  ]
+ },
+ "tiger": {
+  "ph": "/'taigә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老虎, 虎, 兇暴的人",
+    "def": "a fierce or audacious person"
+   }
+  ],
+  "forms": "複數 tigers"
+ },
+ "tigerish": {
+  "ph": "/'taigәriʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "虎一般的, 狂暴的, 殘忍的",
+    "def": ""
+   }
+  ]
+ },
+ "tight": {
+  "ph": "/tait/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "緊的, 密封的, 吝嗇的, 嚴厲的",
+    "def": "closely constrained or constricted or constricting"
+   },
+   {
+    "pos": "adv.",
+    "zh": "緊緊地",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 tighter｜複數 tights｜最高級 tightest"
+ },
+ "tighten": {
+  "ph": "/'taitn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "勒緊, 使變緊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變緊, 繃緊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tightened｜過去分詞 tightened｜現在分詞 tightening｜第三人稱單數 tightens"
+ },
+ "tightened": {
+  "ph": "/ˈtaɪtnd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "收緊( tighten的過去式和過去分詞 ); （使）變緊; （使）繃緊; 加緊",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tightened｜過去式 tightened"
+ },
+ "tightening": {
+  "ph": "/'taitniŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 擰緊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tightening"
+ },
+ "tighter": {
+  "ph": "/taitə/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "緊的( tight的比較級 ); （安排）緊湊的; 緊身的; 嚴密的",
+    "def": ""
+   }
+  ]
+ },
+ "tightfisted": {
+  "ph": "/'tait'fistid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吝嗇的",
+    "def": ""
+   }
+  ]
+ },
+ "tightly": {
+  "ph": "/'taitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "緊緊地, 堅固地",
+    "def": ""
+   }
+  ]
+ },
+ "tightness": {
+  "ph": "/'taitnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堅固, 緊密",
+    "def": "lack of movement or room for movement"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 緊度; 嚴密度",
+    "def": ""
+   }
+  ]
+ },
+ "tightrope": {
+  "ph": "/'taitrәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉緊的繩索",
+    "def": "tightly stretched rope or wire on which acrobats perform high above the ground"
+   }
+  ],
+  "forms": "過去式 tightroped｜複數 tightropes"
+ },
+ "tights": {
+  "ph": "/taits/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊身衣褲",
+    "def": "skintight knit hose covering the body from the waist to the feet worn by acrobats and dancers and as stockings by women and girls"
+   }
+  ]
+ },
+ "tightwad": {
+  "ph": "/'taitwɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吝嗇鬼",
+    "def": ""
+   }
+  ]
+ },
+ "tigre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tigre)人名；(西)蒂格雷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "蒂格雷人",
+    "def": ""
+   }
+  ]
+ },
+ "tigress": {
+  "ph": "/'taigris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "母虎, 雌虎",
+    "def": "a female tiger"
+   }
+  ],
+  "forms": "複數 tigresses｜第三人稱單數 tigresses"
+ },
+ "tigris": {
+  "ph": "/'tai^ris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "底格里斯河（西南亞, 流經土爾其和伊拉克）",
+    "def": "an Asian river; a tributary of the Euphrates River"
+   }
+  ]
+ },
+ "tike": {
+  "ph": "/taik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雜狗（一種雄虎與雌獅交配所生的雜交獸）；粗野村夫（等於tyke）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tikes"
+ },
+ "tiki": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提基（波利尼西亞神話中人類的始祖）；木或石刻的提基像；提基像做的護身符",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tiki"
+ },
+ "tikka": {
+  "ph": "/ˈtɪkə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（源自印地語）切成小塊的肉, 通常用調味汁浸泡後烤炙而成; 葉斑",
+    "def": ""
+   }
+  ]
+ },
+ "til": {
+  "ph": "/til/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芝麻",
+    "def": ""
+   }
+  ]
+ },
+ "tilapia": {
+  "ph": "/ti'leipiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[魚]羅非魚",
+    "def": "a genus of Cichlidae"
+   }
+  ],
+  "forms": "複數 tilapias"
+ },
+ "tilbury": {
+  "ph": "/'tilbәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕便雙輪馬車",
+    "def": "A kind of gig or two-wheeled carriage, without a top or"
+   }
+  ]
+ },
+ "tilda": {
+  "ph": "/'tildә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒂爾達(Mathilda 的暱稱)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "tilde": {
+  "ph": "/'tildә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "波浪字元；加在西班牙語n字上的發音符號",
+    "def": "a diacritical mark (~) placed over the letter n in Spanish to indicate a palatal nasal sound or over a vowel in Portuguese to indicate nasalization"
+   }
+  ]
+ },
+ "tile": {
+  "ph": "/tail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磚瓦, 瓷磚, 瓦片",
+    "def": "a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鋪以瓦, 鋪以瓷磚",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 平鋪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tiles｜過去分詞 tiled｜現在分詞 tiling｜過去式 tiled｜第三人稱單數 tiles"
+ },
+ "tiled": {
+  "ph": "/taid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用磚瓦覆蓋的, 瓦狀疊覆的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 平鋪的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tiled｜過去分詞 tiled"
+ },
+ "tiler": {
+  "ph": "/'tailә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磚瓦匠, 秘密會所看守人",
+    "def": "a worker who lays tile"
+   }
+  ],
+  "forms": "複數 tilers"
+ },
+ "tiles": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瓷磚（tile的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "tiling": {
+  "ph": "/'tailiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蓋瓦, 鋪瓷磚, 瓦類, 花磚",
+    "def": "the application of tiles to cover a surface"
+   }
+  ],
+  "forms": "現在分詞 tiling"
+ },
+ "till": {
+  "ph": "/til/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "直到, 在...以前, 迄",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "直到...為止",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "耕種",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "放錢的抽屜, 備用現金, 冰磧",
+    "def": "unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together"
+   }
+  ],
+  "forms": "複數 tills｜現在分詞 tilling｜過去式 tilled｜過去分詞 tilled｜第三人稱單數 tills"
+ },
+ "tillage": {
+  "ph": "/'tilidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耕種, 耕地, 耕作",
+    "def": "the cultivation of soil for raising crops"
+   }
+  ]
+ },
+ "tilled": {
+  "ph": "/tild/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "耕作, 犁地( till的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tilled"
+ },
+ "tiller": {
+  "ph": "/'tilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耕種者, 分櫱",
+    "def": "a shoot that sprouts from the base of a grass"
+   },
+   {
+    "pos": "vi.",
+    "zh": "分櫱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tillers｜現在分詞 tillering｜過去式 tillered｜第三人稱單數 tillers｜過去分詞 tillered"
+ },
+ "tilley": {
+  "ph": "/'tili/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[植]巴豆籽",
+    "def": ""
+   }
+  ]
+ },
+ "tilling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "耕耘；耕種（till的現在分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "tillotson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tillotson)人名；(英)蒂洛森",
+    "def": ""
+   }
+  ]
+ },
+ "tilly": {
+  "ph": "/'tili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒂莉(Mathilda 的暱稱,亦作 Tillie)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "tilt": {
+  "ph": "/tilt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾斜, 傾向, 船篷, 車篷",
+    "def": "a slight but noticeable partiality"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使傾斜, 使傾側, 用帆布篷遮蓋",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "傾斜, 翹起, 衝, 評擊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 傾斜",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tilted｜現在分詞 tilting｜過去分詞 tilted｜第三人稱單數 tilts｜複數 tilts"
+ },
+ "tilted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傾斜的, 翹起的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tilted｜過去分詞 tilted"
+ },
+ "tilth": {
+  "ph": "/tilθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耕作, 耕地",
+    "def": "the state of aggregation of soil and its condition for supporting plant growth"
+   }
+  ]
+ },
+ "tilting": {
+  "ph": "/'tiltiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 傾斜",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tilting"
+ },
+ "tim": {
+  "ph": "/tim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒂姆（男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tims"
+ },
+ "timbale": {
+  "ph": "/tæm'bɑ:l, 'timbәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "香烤三味(用雞、蝦、魚, 加入大量作料, 在鼓形容器內烘烤)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timbales"
+ },
+ "timber": {
+  "ph": "/'timbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "木材, 木料",
+    "def": "a beam made of wood"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用木材建造",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timbers｜過去式 timbered｜過去分詞 timbered"
+ },
+ "timbered": {
+  "ph": "/'timbәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "長滿樹木的, 樹木茂盛的, 木製的",
+    "def": "furnished with or made of wood or timbers"
+   }
+  ],
+  "forms": "過去式 timbered"
+ },
+ "timberland": {
+  "ph": "/'timbәlænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "森林, 林地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timberlands"
+ },
+ "timberline": {
+  "ph": "/'timbәlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "林木線",
+    "def": ""
+   }
+  ]
+ },
+ "timbre": {
+  "ph": "/'timbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音色, 音質",
+    "def": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 音色, 音品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timbres"
+ },
+ "timbuktu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "廷巴克圖",
+    "def": ""
+   }
+  ]
+ },
+ "time": {
+  "ph": "/taim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時間, 時侯, 時機, 時期, 期限, 次數, 節拍, 暫停, 規定時間",
+    "def": "an instance or single occasion for some event"
+   },
+   {
+    "pos": "vt.",
+    "zh": "測定...的時間, 記錄...的時間, 計時, 定時",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "時間的, 記時的, 定時的, 定期的, 分期的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] DOS內部命令:用於顯示或設定系統的時間",
+    "def": ""
+   }
+  ],
+  "forms": "複數 times｜過去分詞 timed｜現在分詞 timing｜過去式 timed｜第三人稱單數 times"
+ },
+ "time limit": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "期限",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 限期, 期限",
+    "def": ""
+   }
+  ]
+ },
+ "time out": {
+  "ph": "/taim aut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[體]暫停比賽時間; [計]超時",
+    "def": ""
+   }
+  ]
+ },
+ "time trial": {
+  "ph": "/taim ˈtraiəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計時賽",
+    "def": ""
+   },
+   {
+    "pos": "un.",
+    "zh": "計時測驗",
+    "def": ""
+   }
+  ]
+ },
+ "time zone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "時區",
+    "def": ""
+   }
+  ]
+ },
+ "time-consuming": {
+  "ph": "/'taimkәn,sju:miŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "耗時的",
+    "def": ""
+   }
+  ]
+ },
+ "timebomb": {
+  "ph": "/taɪm'bɒm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "定時炸彈",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 timebombs"
+ },
+ "timecard": {
+  "ph": "/table/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工作時間記錄卡,考勤卡",
+    "def": "a card recording an employee's starting and quitting times each work day"
+   }
+  ]
+ },
+ "timed": {
+  "ph": "/taimd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "時控的；定時的, 同步的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 timed｜過去式 timed"
+ },
+ "timeframe": {
+  "ph": "/taɪmfreɪm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時間表",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timeframes"
+ },
+ "timekeeper": {
+  "ph": "/'taim.ki:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工作時間記錄員, 計時員, 鐘錶",
+    "def": "(sports) an official who keeps track of the time elapsed"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 記時員, 計工員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timekeepers"
+ },
+ "timekeeping": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 計時",
+    "def": ""
+   }
+  ]
+ },
+ "timeless": {
+  "ph": "/'taimlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無時間限制的, 不受時間影響的, 永恆的",
+    "def": ""
+   }
+  ]
+ },
+ "timelessly": {
+  "ph": "/'taɪmləslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無日期地; 永久地, 無限地",
+    "def": "In a timeless manner; unseasonably."
+   }
+  ]
+ },
+ "timelessness": {
+  "ph": "/'taɪmləsnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無時間限制",
+    "def": ""
+   }
+  ]
+ },
+ "timeline": {
+  "ph": "/ˈtaɪmlaɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時間軸, 時間表",
+    "def": "a sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom)"
+   }
+  ],
+  "forms": "複數 timelines"
+ },
+ "timeliness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 時間性, 及時性",
+    "def": ""
+   }
+  ]
+ },
+ "timely": {
+  "ph": "/'taili/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "及時的, 適時的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "及時地",
+    "def": ""
+   }
+  ]
+ },
+ "timepiece": {
+  "ph": "/'taimpi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時鐘, 鍾",
+    "def": "a measuring instrument or device for keeping time"
+   }
+  ],
+  "forms": "複數 timepieces"
+ },
+ "timer": {
+  "ph": "/'taimә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計時員, 計時器",
+    "def": "a timepiece that measures a time interval and signals its end"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 計時器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timers"
+ },
+ "times": {
+  "ph": "/taimz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時代, 境遇, 時報",
+    "def": "a more or less definite period of time now or previously present"
+   }
+  ]
+ },
+ "timescale": {
+  "ph": "/ˈtaɪmskeɪl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "時間表[尺度], 時標, 時間量程",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timescales"
+ },
+ "timeshare": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分時享用度假別墅的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timeshares｜現在分詞 timesharing"
+ },
+ "timespan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]（羅氏公司）定時釋放片劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timespans"
+ },
+ "timetable": {
+  "ph": "/'taimteibl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時間表",
+    "def": "a schedule listing events and the times at which they will take place"
+   }
+  ],
+  "forms": "複數 timetables｜現在分詞 timetabling｜過去分詞 timetabled｜過去式 timetabled"
+ },
+ "timetabled": {
+  "ph": "/'taɪmteɪb(ə)l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(火車、飛機等的)時刻表；計劃表；時間表；課程表",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": ", vi. [英國英語]為…編(或制定)時間表(或課程表)；把…編入時間表(或課程表)；按照時間表(或課程表)安排(活動)：",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 timetabled"
+ },
+ "timetabling": {
+  "ph": "/'taɪm,teblɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（英）為…編時間表（timetable的ing形式）",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "根據時間表安排；制定時間表",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 timetabling"
+ },
+ "timeworn": {
+  "ph": "/'taimwɒ:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陳舊的, 老朽的",
+    "def": ""
+   }
+  ]
+ },
+ "timex": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天美時（品牌手錶）",
+    "def": ""
+   }
+  ]
+ },
+ "timid": {
+  "ph": "/'timid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "膽小的, 羞怯的",
+    "def": "showing fear and lack of confidence"
+   }
+  ]
+ },
+ "timidity": {
+  "ph": "/ti'miditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膽小, 膽怯, 羞怯",
+    "def": "fear of the unknown or unfamiliar or fear of making decisions"
+   }
+  ],
+  "forms": "複數 timidities"
+ },
+ "timidly": {
+  "ph": "/'tɪmɪdlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "膽小地, 羞怯地",
+    "def": ""
+   }
+  ]
+ },
+ "timing": {
+  "ph": "/'taimiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時間選擇, 時間測定, 定時, 調速",
+    "def": "the time when something happens"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 定時器時鐘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timings｜現在分詞 timing"
+ },
+ "timisoara": {
+  "ph": "/,ti:mi:'ʃwɑ:rɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒂米什瓦拉（羅馬尼亞西部城市）",
+    "def": ""
+   }
+  ]
+ },
+ "timms": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人工智慧] TIMM開發工具",
+    "def": ""
+   }
+  ]
+ },
+ "timmy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒂米（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "timor": {
+  "ph": "/'ti:mɔ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "帝汶島(馬來群島中一島)",
+    "def": ""
+   }
+  ]
+ },
+ "timorese": {
+  "ph": "/,ti:mɔ:'ri:z; -'ri:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "帝汶(島)的",
+    "def": "of or relating to or characteristic of Timor or its inhabitants"
+   },
+   {
+    "pos": "n.",
+    "zh": "帝汶人",
+    "def": "a native or inhabitant of Timor"
+   }
+  ]
+ },
+ "timorous": {
+  "ph": "/'timәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "膽怯的, 膽小的, 羞怯的",
+    "def": ""
+   }
+  ]
+ },
+ "timothy": {
+  "ph": "/'timәθi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梯牧草",
+    "def": "grass with long cylindrical spikes grown in northern United States and Europe for hay"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 梯牧草, 牛草",
+    "def": ""
+   }
+  ]
+ },
+ "timpani": {
+  "ph": "/'timpәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "定音鼓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 timpani"
+ },
+ "timpanist": {
+  "ph": "/'timpәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼓手",
+    "def": ""
+   }
+  ]
+ },
+ "tin": {
+  "ph": "/tin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錫, 馬口鐵, 罐頭",
+    "def": "a silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterit"
+   },
+   {
+    "pos": "vt.",
+    "zh": "在...鍍錫於",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "錫制的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] tin閱讀程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tins｜現在分詞 tinning｜過去分詞 tinned｜過去式 tinned｜第三人稱單數 tins"
+ },
+ "tina": {
+  "ph": "/'ti:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒂娜（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "tincture": {
+  "ph": "/'tiŋktʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酊, 顏色, 色調, 染料, 氣息, 氣味",
+    "def": "a substances that colors metals"
+   },
+   {
+    "pos": "vt.",
+    "zh": "染, 使有氣息",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tinctures｜第三人稱單數 tinctures｜過去分詞 tinctured｜過去式 tinctured｜現在分詞 tincturing"
+ },
+ "tindal": {
+  "ph": "/'tindәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(英國殖民統治時期的)印度籍海軍軍士,印度籍監工",
+    "def": ""
+   }
+  ]
+ },
+ "tinder": {
+  "ph": "/'tindә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火絨盒",
+    "def": ""
+   }
+  ]
+ },
+ "tinderbox": {
+  "ph": "/'tindәbɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火絨合, 高度易燃物, 容易發火的人",
+    "def": "a dangerous state of affairs; a situation that is a potential source of violence"
+   }
+  ]
+ },
+ "tine": {
+  "ph": "/tain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "齒, 尖頭",
+    "def": "prong on a fork or pitchfork or antler"
+   }
+  ],
+  "forms": "複數 tines"
+ },
+ "tinea": {
+  "ph": "/'tiniә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "癬",
+    "def": "infections of the skin or nails caused by fungi and appearing as itching circular patches"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 癬",
+    "def": ""
+   }
+  ]
+ },
+ "tined": {
+  "ph": "/taind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尖端的；有齒的",
+    "def": ""
+   }
+  ]
+ },
+ "tines": {
+  "ph": "/tainz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尖頭( tine的名詞複數 ); 齒; 叉",
+    "def": ""
+   }
+  ]
+ },
+ "tinfoil": {
+  "ph": "/'tinfɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錫箔",
+    "def": "foil made of tin or an alloy of tin and lead"
+   }
+  ]
+ },
+ "ting": {
+  "ph": "/tiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叮噹聲, 叮叮聲",
+    "def": "a light clear metallic sound as of a small bell"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)發叮叮聲",
+    "def": "cause to make a ting"
+   }
+  ],
+  "forms": "複數 tings｜現在分詞 tinging｜過去式 tinged｜第三人稱單數 tings｜過去分詞 tinged"
+ },
+ "tinge": {
+  "ph": "/tindʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "色調, 色彩, 氣味, 氣息",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "染, 使帶氣息",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tinged｜過去式 tinged｜複數 tinges｜第三人稱單數 tinges｜現在分詞 tingeing"
+ },
+ "tingle": {
+  "ph": "/'tiŋgl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "激動, 感到刺痛, 抖動",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使感刺痛",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "刺痛, 震顫, 耳鳴",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tingling｜過去式 tingled｜複數 tingles｜第三人稱單數 tingles｜過去分詞 tingled"
+ },
+ "tingling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 麻刺感",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tingling"
+ },
+ "tink": {
+  "ph": "/tiŋk/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "& n.(發)丁當聲,(發)丁零聲",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 tinks｜現在分詞 tinking"
+ },
+ "tinker": {
+  "ph": "/'tiŋkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "補鍋匠, 會做各種修補活計的人",
+    "def": "a person who enjoys fixing and experimenting with machines and their parts"
+   },
+   {
+    "pos": "vi.",
+    "zh": "做焊鍋匠, 笨拙的修補",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "修補",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tinkering｜複數 tinkers｜過去式 tinkered｜過去分詞 tinkered｜第三人稱單數 tinkers"
+ },
+ "tinkerbell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小叮噹；小仙女（彼得・潘故事中的人物）",
+    "def": ""
+   }
+  ]
+ },
+ "tinkerer": {
+  "ph": "/'tɪŋkərər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喜歡搗鼓小器具、小發明的人",
+    "def": "an unskilled person who tries to fix or mend"
+   }
+  ],
+  "forms": "複數 tinkerers"
+ },
+ "tinkering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 鑄補",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tinkering｜複數 tinkerings"
+ },
+ "tinkle": {
+  "ph": "/'tiŋkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叮噹聲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使發丁當的聲, 叮噹地發出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "叮噹作響",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tinkled｜現在分詞 tinkling｜複數 tinkles｜第三人稱單數 tinkles｜過去分詞 tinkled"
+ },
+ "tinkling": {
+  "ph": "/'tiŋkliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叮叮聲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tinklings｜現在分詞 tinkling"
+ },
+ "tinkly": {
+  "ph": "/'tiŋkli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "叮噹響的",
+    "def": ""
+   }
+  ]
+ },
+ "tinned": {
+  "ph": "/tind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鍍錫的, 包馬口鐵的, 包錫的, (英)罐裝的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 鍍錫的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tinned"
+ },
+ "tinnitus": {
+  "ph": "/ti'naitәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耳鳴",
+    "def": "a ringing or booming sensation in one or both ears; a symptom of an ear infection or Meniere's disease"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 耳鳴",
+    "def": ""
+   }
+  ]
+ },
+ "tinny": {
+  "ph": "/'tini/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "錫的, 含錫的, 像錫的",
+    "def": "of or containing tin"
+   }
+  ]
+ },
+ "tinplate": {
+  "ph": "/'tinpleit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鍍錫鐵皮, 馬口鐵",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鍍錫薄鋼板",
+    "def": ""
+   }
+  ]
+ },
+ "tinsel": {
+  "ph": "/'tinsl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金屬絲, 金屬箔, 俗麗的東西",
+    "def": "a showy decoration that is basically valueless"
+   },
+   {
+    "pos": "adj.",
+    "zh": "金屬箔制的, 閃亮的, 俗麗的, 華而不實的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用金屬箔裝飾, 虛飾",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tinselling｜複數 tinsels｜過去式 tinselled｜第三人稱單數 tinsels｜過去分詞 tinselled"
+ },
+ "tinseltown": {
+  "ph": "/'tinsəltaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "浮華城（指好萊塢）",
+    "def": ""
+   }
+  ]
+ },
+ "tinsley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tinsley)人名；(英)廷斯利",
+    "def": ""
+   }
+  ]
+ },
+ "tinsmith": {
+  "ph": "/'tinsmiθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錫匠, 洋鐵匠",
+    "def": "someone who makes or repairs tinware"
+   }
+  ],
+  "forms": "複數 tinsmiths"
+ },
+ "tint": {
+  "ph": "/tint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "色彩, 淺色",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "染色於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tints｜過去式 tinted｜過去分詞 tinted｜現在分詞 tinting｜第三人稱單數 tints"
+ },
+ "tinted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "著色的, 帶色彩的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tinted｜過去分詞 tinted"
+ },
+ "tinting": {
+  "ph": "/'tintiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "著色, 染色(的階段或過程)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tintings｜現在分詞 tinting"
+ },
+ "tinto": {
+  "ph": "/'tintәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[西]染色葡萄",
+    "def": ""
+   }
+  ]
+ },
+ "tintoretto": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "丁託列託（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "tintype": {
+  "ph": "/'tintaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐵版照相法",
+    "def": "Same as Ferrotype."
+   }
+  ]
+ },
+ "tinware": {
+  "ph": "/'tinweә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洋鐵(錫)細工",
+    "def": "articles of commerce made of tin plate"
+   }
+  ]
+ },
+ "tiny": {
+  "ph": "/'taini/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "很少的, 微小的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 tiniest｜比較級 tinier｜複數 tinies"
+ },
+ "tion": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "象徵式互動；支票電託收",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tions"
+ },
+ "tip": {
+  "ph": "/tip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頂, 尖端, 梢, 末端, 傾斜, 垃圾場, 小費, 輕擊, 指點, 秘密訊息",
+    "def": "the extreme end of something; especially something pointed"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝頂端, 使傾斜, 使翻倒, 洩露, 告誡, 暗示, 給...小費, 輕擊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "傾斜, 翻倒, 傾覆, 踮腳走, 給小費",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 終端介面處理器, 提示, 技巧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tips｜過去分詞 tipped｜過去式 tipped｜現在分詞 tipping｜第三人稱單數 tips"
+ },
+ "tip-off": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "透露情報, 密報, 跳球",
+    "def": "inside information that something is going to happen"
+   }
+  ],
+  "forms": "複數 tip-offs"
+ },
+ "tipi": {
+  "ph": "/'ti:pi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國印第安人的圓錐形帳篷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tipi"
+ },
+ "tipper": {
+  "ph": "/'tipә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 翻斗車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tippers"
+ },
+ "tipperary": {
+  "ph": "/'tipə'rεəri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒂珀雷裡（愛爾蘭地名）",
+    "def": ""
+   }
+  ]
+ },
+ "tippet": {
+  "ph": "/'tipit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女式披肩, (圍巾等的)下垂部分",
+    "def": "a woman's fur shoulder cape with hanging ends; often consisting of the whole fur of a fox or marten"
+   }
+  ],
+  "forms": "複數 tippets"
+ },
+ "tippett": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tippett)人名；(英)蒂皮特",
+    "def": ""
+   }
+  ]
+ },
+ "tippex": {
+  "ph": "/'tɪpeks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]修正液",
+    "def": ""
+   }
+  ]
+ },
+ "tipping": {
+  "ph": "/'tipiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾卸臺",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tipping"
+ },
+ "tipple": {
+  "ph": "/'tipl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "(習慣性地)少量飲(酒)",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "飲酒",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "酒, 含酒飲料",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tippling｜複數 tipples｜第三人稱單數 tipples｜過去分詞 tippled｜過去式 tippled"
+ },
+ "tippy": {
+  "ph": "/'tipi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頭等的, 容易傾斜的, 多絨尖的",
+    "def": ""
+   }
+  ]
+ },
+ "tipster": {
+  "ph": "/'tipstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "情報販子",
+    "def": "one who sells advice about gambling or speculation (especially at the racetrack)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 通報秘密訊息者, 洩露內情者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tipsters"
+ },
+ "tipsy": {
+  "ph": "/'tipsi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喝醉的, 傾斜的",
+    "def": ""
+   }
+  ]
+ },
+ "tiptoe": {
+  "ph": "/'tiptәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳尖",
+    "def": "the tip of a toe"
+   },
+   {
+    "pos": "vi.",
+    "zh": "用腳尖走",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "踮著腳",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "踮著腳走的, 偷偷摸摸的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tiptoed｜現在分詞 tiptoeing｜複數 tiptoes｜過去分詞 tiptoed｜第三人稱單數 tiptoes"
+ },
+ "tiptop": {
+  "ph": "/'tiptɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頂點, 絕頂, 頭等",
+    "def": "the extreme top or summit"
+   },
+   {
+    "pos": "adj.",
+    "zh": "最高的, 極好的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在頂點, 非常好地",
+    "def": ""
+   }
+  ]
+ },
+ "tirade": {
+  "ph": "/'taireid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "激烈的長篇演說",
+    "def": "a speech of violent denunciation"
+   }
+  ],
+  "forms": "複數 tirades"
+ },
+ "tiramisu": {
+  "ph": "/ˌtɪrəmɪ'sʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提拉米蘇",
+    "def": "an Italian dessert consisting of layers of sponge cake soaked with coffee and brandy or liqueur layered with mascarpone cheese and topped with grated chocolate"
+   }
+  ]
+ },
+ "tirana": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地拉那（阿爾巴尼亞的首都）",
+    "def": "the capital and largest city of Albania in the center of the country"
+   }
+  ]
+ },
+ "tire": {
+  "ph": "/taiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輪胎, 頭飾",
+    "def": "hoop that covers a wheel"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使疲倦, 使厭煩, 打扮",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "疲勞, 厭倦",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tired｜第三人稱單數 tires｜過去分詞 tired｜現在分詞 tiring"
+ },
+ "tired": {
+  "ph": "/taiәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "疲累的, 疲乏的, 厭倦的",
+    "def": "depleted of strength or energy"
+   }
+  ],
+  "forms": "過去分詞 tired｜過去式 tired"
+ },
+ "tiredly": {
+  "ph": "/ˈtaɪədlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "疲勞地, 累地, 疲倦地",
+    "def": ""
+   }
+  ]
+ },
+ "tiredness": {
+  "ph": "/'taiәdnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "疲勞, 疲倦",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 疲憊, 疲倦",
+    "def": ""
+   }
+  ]
+ },
+ "tireless": {
+  "ph": "/'taiәlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不疲倦的, 不厭倦的, 不屈不撓的",
+    "def": ""
+   }
+  ]
+ },
+ "tirelessly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不知疲倦地；不屈不撓地",
+    "def": ""
+   }
+  ]
+ },
+ "tiresome": {
+  "ph": "/'taiәsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "累人的, 煩人的",
+    "def": ""
+   }
+  ]
+ },
+ "tiresomely": {
+  "ph": "/'taiəsəmli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人厭倦地；累人地",
+    "def": ""
+   }
+  ]
+ },
+ "tiring": {
+  "ph": "/'taiәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "引起疲勞的, 累人的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 輪箍術(髕骨骨折時)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tiring"
+ },
+ "tisane": {
+  "ph": "/ti'zæn=/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "煎藥, 湯藥 (=ptisan)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tisanes"
+ },
+ "tissue": {
+  "ph": "/'tiʃu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄的織物, 薄紗, 棉紙, 組織, 一套",
+    "def": "part of an organism consisting of an aggregate of cells having a similar structure and function"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 組織",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tissues｜現在分詞 tissuing｜過去式 tissued｜第三人稱單數 tissues｜過去分詞 tissued"
+ },
+ "tit": {
+  "ph": "/tit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山雀, 打擊, 輕佻女人, 奶頭, 按鈕",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 三碘甲狀腺氨酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tits"
+ },
+ "titan": {
+  "ph": "/'taitn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提坦, 太陽神, 巨人",
+    "def": "(Greek mythology) any of the primordial giant gods who ruled the Earth until overthrown by Zeus; the Titans were offspring of Uranus (Heaven) and Gaea (Earth)"
+   }
+  ],
+  "forms": "複數 titans"
+ },
+ "titania": {
+  "ph": "/tai'teiniә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 二氧化鈦",
+    "def": ""
+   }
+  ]
+ },
+ "titanic": {
+  "ph": "/tai'tænik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "四價鈦的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鈦; 正鈦; 四價鈦",
+    "def": ""
+   }
+  ]
+ },
+ "titanium": {
+  "ph": "/tai'teiniәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鈦",
+    "def": "a light strong grey lustrous corrosion-resistant metallic element used in strong lightweight alloys (as for airplane parts); the main sources are rutile and ilm"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鈦Ti",
+    "def": ""
+   }
+  ]
+ },
+ "titbit": {
+  "ph": "/'titbit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "珍品, 珍聞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 titbits｜第三人稱單數 titbits"
+ },
+ "titch": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（用於談論或稱呼）小不點兒, 娃兒",
+    "def": ""
+   }
+  ]
+ },
+ "titchy": {
+  "ph": "/ 'tɪtʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非常小的",
+    "def": ""
+   }
+  ]
+ },
+ "titer": {
+  "ph": "/'taitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滴定度, 滴定量",
+    "def": "the concentration of a solution as determined by titration"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 滴定度",
+    "def": ""
+   }
+  ]
+ },
+ "titford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 蒂特福德",
+    "def": ""
+   }
+  ],
+  "forms": "複數 titfords"
+ },
+ "tithe": {
+  "ph": "/taið/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "什一稅, 十分之一, 小部分",
+    "def": "a levy of one tenth of something"
+   },
+   {
+    "pos": "vt.",
+    "zh": "課什一稅",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "繳什一稅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tithes｜現在分詞 tithing｜過去式 tithed｜第三人稱單數 tithes｜過去分詞 tithed"
+ },
+ "tithing": {
+  "ph": "/'taiðiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "什一的課稅, 十家區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tithings"
+ },
+ "titi": {
+  "ph": "/ti'ti:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "狨(絹毛猴)(產於巴西和玻利維亞)",
+    "def": ""
+   }
+  ]
+ },
+ "titian": {
+  "ph": "/'tiʃiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "赤褐色, 橙紅色",
+    "def": "old master of the Venetian school (1490-1576)"
+   }
+  ]
+ },
+ "titillate": {
+  "ph": "/'titileit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "呵...癢, 使覺得癢, 使興奮, 使高興, 使愉快",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 titillating｜過去式 titillated｜過去分詞 titillated｜第三人稱單數 titillates"
+ },
+ "titillating": {
+  "ph": "/ˈtitileitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使人癢癢的； 使人激動的, 令人興奮的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使覺得癢( titillate的現在分詞 ); 逗引; 激發; 使高興",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 titillating"
+ },
+ "titillation": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 搔癢, 撩癢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 titillations"
+ },
+ "title": {
+  "ph": "/'taitl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頭銜, 名稱, 標題, 書名, 扉頁, 權利, 資格, 冠軍, 字幕",
+    "def": "a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with"
+   },
+   {
+    "pos": "vt.",
+    "zh": "授予頭銜, 加標題於",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 標題",
+    "def": ""
+   }
+  ],
+  "forms": "複數 titles｜過去分詞 titled｜現在分詞 titling｜過去式 titled｜第三人稱單數 titles"
+ },
+ "title track": {
+  "ph": "/ˈtaitl træk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（與專輯同名的）主打曲目, 主打歌",
+    "def": ""
+   }
+  ]
+ },
+ "titled": {
+  "ph": "/'taitld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有頭銜的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有官銜的, 有爵位的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 titled"
+ },
+ "titling": {
+  "ph": "/'taitliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "標題的燙印, 燙印的標題",
+    "def": ""
+   }
+  ]
+ },
+ "titlist": {
+  "ph": "/'taitlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冠軍保持者",
+    "def": ""
+   }
+  ]
+ },
+ "titmouse": {
+  "ph": "/'titmaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山雀",
+    "def": "small insectivorous birds"
+   }
+  ]
+ },
+ "titmuss": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Titmuss)人名；(英)蒂特馬斯",
+    "def": ""
+   }
+  ]
+ },
+ "tito": {
+  "ph": "/'ti:tәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提託（男子名）",
+    "def": "Yugoslav statesman who led the resistance to German occupation during World War II and established a communist state after the war (1892-1980)"
+   }
+  ]
+ },
+ "titrate": {
+  "ph": "/'titreit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用滴定法測量",
+    "def": "measure by (the volume or concentration of solutions) by titration"
+   }
+  ],
+  "forms": "過去分詞 titrated｜過去式 titrated｜現在分詞 titrating｜第三人稱單數 titrates"
+ },
+ "titration": {
+  "ph": "/ti'treiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滴定",
+    "def": "a measured amount of a solution of unknown concentration is added to a known volume of a second solution until the reaction between them is just complete; the c"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 滴定; 滴定法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 titrations"
+ },
+ "titre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滴定率, 效價, 滴度, 滴定度",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 滴度; 滴定度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 titres"
+ },
+ "titter": {
+  "ph": "/'titә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嗤笑, 傻笑",
+    "def": "a nervous restrained laugh"
+   },
+   {
+    "pos": "vi.",
+    "zh": "吃吃地笑, 傻笑",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tittered｜複數 titters｜現在分詞 tittering｜第三人稱單數 titters｜過去分詞 tittered"
+ },
+ "tittle": {
+  "ph": "/'titl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小符號, 微量, 一點點, 小點",
+    "def": ""
+   }
+  ]
+ },
+ "titty": {
+  "ph": "/'titi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳房, 乳頭（等於teat）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 titties"
+ },
+ "titular": {
+  "ph": "/'titjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "享有所有權的, 名譽上的, 有名無實的, 有頭銜的",
+    "def": "of or relating to a legal title to something"
+   },
+   {
+    "pos": "n.",
+    "zh": "只有稱號的人",
+    "def": ""
+   }
+  ]
+ },
+ "titus": {
+  "ph": "/'taitәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提圖斯(古羅馬皇帝), <<提多書>>(<<聖經>>的一卷)",
+    "def": "a Greek disciple and helper of Saint Paul"
+   }
+  ]
+ },
+ "tiverton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tiverton)人名；(英)蒂弗頓",
+    "def": ""
+   }
+  ]
+ },
+ "tivoli": {
+  "ph": "/'tivəli:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒂沃利（義大利中部城市）",
+    "def": "a town twenty miles to the east of Rome (Tibur is the ancient name); a summer resort during the Roman empire; noted for its waterfalls"
+   }
+  ]
+ },
+ "tizard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tizard)人名；(英)蒂澤德",
+    "def": ""
+   }
+  ]
+ },
+ "tizzy": {
+  "ph": "/'tizi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萬分驚訝",
+    "def": ""
+   }
+  ]
+ }
+}

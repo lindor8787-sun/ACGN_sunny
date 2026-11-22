@@ -1,0 +1,122 @@
+{
+ "yi": {
+  "ph": "/ji:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "彝人；彝語",
+    "def": ""
+   }
+  ]
+ },
+ "yiddish": {
+  "ph": "/'jidiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "意第緒語,依地語(猶太人使用的國際語)",
+    "def": "a dialect of High German including some Hebrew and other words; spoken in Europe as a vernacular by many Jews; written in the Hebrew script"
+   },
+   {
+    "pos": "adj.",
+    "zh": "意第緒語的,依地語,<俚>猶太人的",
+    "def": ""
+   }
+  ]
+ },
+ "yield": {
+  "ph": "/ji:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生產量, 投資收益",
+    "def": "an amount of a product"
+   },
+   {
+    "pos": "vt.",
+    "zh": "出產, 給予, 讓出, 放棄, 使屈服",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "出產, 屈服, 投降, 倒塌",
+    "def": ""
+   }
+  ],
+  "forms": "複數 yields｜第三人稱單數 yields｜過去式 yielded｜過去分詞 yielded｜現在分詞 yielding"
+ },
+ "yielder": {
+  "ph": "/'ji:ldә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "讓步者, 屈服者,提供產品的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 yielders"
+ },
+ "yielding": {
+  "ph": "/'ji:ldiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生產的, 屈從的, 柔順的, 易彎曲的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 屈服",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 yielding"
+ },
+ "yin": {
+  "ph": "/jin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中國思想裡的“陰”（與“陽”相對）；中國的殷代；（蘇格蘭）一個（等於one）",
+    "def": "the dark negative feminine principle in Chinese dualistic cosmology"
+   }
+  ],
+  "forms": "複數 yins"
+ },
+ "yip": {
+  "ph": "/jip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犬吠聲, 叫喊聲",
+    "def": "a sharp high-pitched cry (especially by a dog)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "尖聲狂吠, 尖聲叫喊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 yips｜過去式 yipped｜現在分詞 yipping｜第三人稱單數 yips｜過去分詞 yipped"
+ },
+ "yippee": {
+  "ph": "/'jipi/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "(表示開心、快樂)咦吡, 好啊",
+    "def": ""
+   }
+  ]
+ },
+ "yitzhak": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Yitzhak)人名；(以)伊扎克",
+    "def": ""
+   }
+  ]
+ }
+}

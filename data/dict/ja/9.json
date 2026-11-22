@@ -1,0 +1,7522 @@
+{
+ "草臥れる": {
+  "ph": "くたびれる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to get tired; to become exhausted; to grow weary"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to become worn out; to become battered (from long use)"
+   },
+   {
+    "pos": "助動詞",
+    "zh": "",
+    "def": "to get tired of (doing); to get fed up with"
+   }
+  ]
+ },
+ "悉く": {
+  "ph": "ことごとく",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "altogether; entirely"
+   }
+  ]
+ },
+ "ドキッと": {
+  "ph": "ドキッと",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "being startled; getting a shock"
+   }
+  ]
+ },
+ "ドキっと": {
+  "ph": "ドキッと",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "being startled; getting a shock"
+   }
+  ]
+ },
+ "ドキドキ": {
+  "ph": "ドキドキ",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "thump-thump; bang-bang; pit-a-pat; pitapat"
+   },
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to beat fast (of one's heart); to throb; to pound; to palpitate"
+   }
+  ]
+ },
+ "ドキンドキン": {
+  "ph": "ドキドキ",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "thump-thump; bang-bang; pit-a-pat; pitapat"
+   },
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to beat fast (of one's heart); to throb; to pound; to palpitate"
+   }
+  ]
+ },
+ "ドッキドキ": {
+  "ph": "ドキドキ",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "thump-thump; bang-bang; pit-a-pat; pitapat"
+   },
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to beat fast (of one's heart); to throb; to pound; to palpitate"
+   }
+  ]
+ },
+ "ドシドシ": {
+  "ph": "どしどし",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "one after another; in rapid succession; in large numbers"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "without reservation; without hesitation; unreservedly; freely"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "tramping; stomping"
+   }
+  ]
+ },
+ "ドタバタ": {
+  "ph": "ドタバタ",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "noisily (running around); with heavy feet"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "in a fluster; in a flurry; in a panic"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "slapstick"
+   }
+  ]
+ },
+ "ドッと": {
+  "ph": "どっと",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "bursting out (laughter); breaking out (applause); roaring; whooping"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "in a rush; in a surge; flooding in; pouring in"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "suddenly; all of a sudden"
+   }
+  ]
+ },
+ "ドっと": {
+  "ph": "どっと",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "bursting out (laughter); breaking out (applause); roaring; whooping"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "in a rush; in a surge; flooding in; pouring in"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "suddenly; all of a sudden"
+   }
+  ]
+ },
+ "ドロドロ": {
+  "ph": "どろどろ",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "viscous; mushy; pulpy; thick"
+   },
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "muddy; dirty (with oil, grease, etc.)"
+   },
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to be in an ugly state (of emotions, relations, etc.); to be murky; to be sordid"
+   }
+  ]
+ },
+ "ドンドン": {
+  "ph": "どんどん",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "drumming (noise); beating; pounding; banging"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "rapidly; quickly; steadily"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "continuously; one after the other; in succession"
+   }
+  ]
+ },
+ "等閑": {
+  "ph": "なおざり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "neglect; negligence; disregard; making light of"
+   }
+  ]
+ },
+ "らしい": {
+  "ph": "らしい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "seeming ...; appearing ..."
+   },
+   {
+    "pos": "接尾語",
+    "zh": "",
+    "def": "-ish; like a ...; typical of ...; appropriate for ..."
+   }
+  ]
+ },
+ "安母尼亜": {
+  "ph": "アンモニア",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ammonia"
+   }
+  ]
+ },
+ "ω": {
+  "ph": "オメガ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "omega (last letter of the Greek alphabet)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "end; conclusion; ending; finality"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ohm (unit of electrical resistance)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "angular velocity"
+   }
+  ]
+ },
+ "吉利支丹": {
+  "ph": "キリシタン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "Christianity (in feudal Japan); Christian"
+   }
+  ]
+ },
+ "三鞭酒": {
+  "ph": "シャンパン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "champagne"
+   }
+  ]
+ },
+ "ドラスチック": {
+  "ph": "ドラスチック",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "drastic"
+   }
+  ]
+ },
+ "ドラスティック": {
+  "ph": "ドラスチック",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "drastic"
+   }
+  ]
+ },
+ "ドーク": {
+  "ph": "ドーク",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "moderates (politics); centrists"
+   }
+  ]
+ },
+ "ドーナツ": {
+  "ph": "ドーナツ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "doughnut; donut"
+   }
+  ]
+ },
+ "ドーナッツ": {
+  "ph": "ドーナツ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "doughnut; donut"
+   }
+  ]
+ },
+ "ドーピング": {
+  "ph": "ドーピング",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "doping (in sports)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "doping (of a semiconductor)"
+   }
+  ]
+ },
+ "ドーマーウインドー": {
+  "ph": "ドーマーウインドー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dormer window"
+   }
+  ]
+ },
+ "ドーマー・ウインドー": {
+  "ph": "ドーマーウインドー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dormer window"
+   }
+  ]
+ },
+ "ドーム": {
+  "ph": "ドーム",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dome"
+   }
+  ]
+ },
+ "ドア": {
+  "ph": "ドア",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "door"
+   }
+  ]
+ },
+ "ドアー": {
+  "ph": "ドア",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "door"
+   }
+  ]
+ },
+ "ドイツ語": {
+  "ph": "ドイツご",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "German (language)"
+   }
+  ]
+ },
+ "ドイツご": {
+  "ph": "ドイツご",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "German (language)"
+   }
+  ]
+ },
+ "ドキュメンタリー": {
+  "ph": "ドキュメンタリー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "documentary"
+   }
+  ]
+ },
+ "ドキュメンタリ": {
+  "ph": "ドキュメンタリー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "documentary"
+   }
+  ]
+ },
+ "ドキュメント": {
+  "ph": "ドキュメント",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "document"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "document"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "documentation"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "documentary; reportage"
+   }
+  ]
+ },
+ "ドクター": {
+  "ph": "ドクター",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "doctor"
+   }
+  ]
+ },
+ "ドクトル": {
+  "ph": "ドクター",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "doctor"
+   }
+  ]
+ },
+ "ドクトリン": {
+  "ph": "ドクトリン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "doctrine"
+   }
+  ]
+ },
+ "ドッキング": {
+  "ph": "ドッキング",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "docking"
+   }
+  ]
+ },
+ "ドック": {
+  "ph": "ドック",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dock"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "thorough physical examination"
+   }
+  ]
+ },
+ "ドッグ": {
+  "ph": "ドック",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dock"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "thorough physical examination"
+   }
+  ]
+ },
+ "ドッグファイト": {
+  "ph": "ドッグファイト",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dogfight (aircraft); dog fight"
+   }
+  ]
+ },
+ "ドッグ・ファイト": {
+  "ph": "ドッグファイト",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dogfight (aircraft); dog fight"
+   }
+  ]
+ },
+ "ドックファイト": {
+  "ph": "ドッグファイト",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dogfight (aircraft); dog fight"
+   }
+  ]
+ },
+ "ドッジボール": {
+  "ph": "ドッジボール",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dodgeball"
+   }
+  ]
+ },
+ "ドッヂボール": {
+  "ph": "ドッジボール",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dodgeball"
+   }
+  ]
+ },
+ "ドッチボール": {
+  "ph": "ドッジボール",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dodgeball"
+   }
+  ]
+ },
+ "ドット": {
+  "ph": "ドット",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dot; point"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "polka dots"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dot; pixel"
+   }
+  ]
+ },
+ "ドナー": {
+  "ph": "ドナー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "donor (blood, organ, etc.)"
+   }
+  ]
+ },
+ "ドミノ": {
+  "ph": "ドミノ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "domino (game); dominoes"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "domino effect"
+   }
+  ]
+ },
+ "ドライ": {
+  "ph": "ドライ",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "dry"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "dry (tone, humour, etc.); unemotional; matter-of-fact; businesslike"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "dry (of alcohol)"
+   }
+  ]
+ },
+ "ドライバー": {
+  "ph": "ドライバー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "driver (of a vehicle); motorist"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "screwdriver"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "driver (club)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(device) driver"
+   }
+  ]
+ },
+ "ドライバ": {
+  "ph": "ドライバー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "driver (of a vehicle); motorist"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "screwdriver"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "driver (club)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(device) driver"
+   }
+  ]
+ },
+ "ドライフラワー": {
+  "ph": "ドライフラワー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dried flowers; dried flower"
+   }
+  ]
+ },
+ "ドライ・フラワー": {
+  "ph": "ドライフラワー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dried flowers; dried flower"
+   }
+  ]
+ },
+ "ドライブ": {
+  "ph": "ドライブ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drive; trip by car; driving"
+   },
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to (go for a) drive; to go on a trip by car"
+   },
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to drive (e.g. a car)"
+   },
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to drive (innovation, change, etc.); to propel"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drive"
+   }
+  ]
+ },
+ "ドライヤー": {
+  "ph": "ドライヤー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dryer (esp. hair); drier; blower"
+   }
+  ]
+ },
+ "ドライアー": {
+  "ph": "ドライヤー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dryer (esp. hair); drier; blower"
+   }
+  ]
+ },
+ "ドライヤ": {
+  "ph": "ドライヤー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dryer (esp. hair); drier; blower"
+   }
+  ]
+ },
+ "ドラゴン": {
+  "ph": "ドラゴン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dragon (as depicted in Western myths)"
+   }
+  ]
+ },
+ "ドラッグ": {
+  "ph": "ドラッグ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drug; medicine"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(illegal) drug; narcotics"
+   }
+  ]
+ },
+ "ドラック": {
+  "ph": "ドラッグ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drug; medicine"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(illegal) drug; narcotics"
+   }
+  ]
+ },
+ "ドラッグストア": {
+  "ph": "ドラッグストア",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drugstore; pharmacy"
+   }
+  ]
+ },
+ "ドラックストア": {
+  "ph": "ドラッグストア",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drugstore; pharmacy"
+   }
+  ]
+ },
+ "ドラッグストアー": {
+  "ph": "ドラッグストア",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drugstore; pharmacy"
+   }
+  ]
+ },
+ "ドラックストアー": {
+  "ph": "ドラッグストア",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drugstore; pharmacy"
+   }
+  ]
+ },
+ "ドラフト": {
+  "ph": "ドラフト",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "draft (esp. in baseball)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "draft; rough copy; rough sketch"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "draught (beer); draft"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "draft (air current); draught"
+   }
+  ]
+ },
+ "ドラマ": {
+  "ph": "ドラマ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(non-documentary) television series; TV drama; teledrama; play"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drama; dramatic incident; spectacle; tragedy"
+   }
+  ]
+ },
+ "ドラマー": {
+  "ph": "ドラマー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drummer"
+   }
+  ]
+ },
+ "ドラマチック": {
+  "ph": "ドラマチック",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "dramatic"
+   }
+  ]
+ },
+ "ドラマティック": {
+  "ph": "ドラマチック",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "dramatic"
+   }
+  ]
+ },
+ "ドラム": {
+  "ph": "ドラム",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drum; drums; drum kit"
+   }
+  ]
+ },
+ "ドラ息子": {
+  "ph": "どらむすこ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "lazy son; profligate son"
+   }
+  ]
+ },
+ "ドリー": {
+  "ph": "ドリー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dolly"
+   }
+  ]
+ },
+ "ドーリー": {
+  "ph": "ドリー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dolly"
+   }
+  ]
+ },
+ "ドリーム": {
+  "ph": "ドリーム",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dream"
+   }
+  ]
+ },
+ "ドリアン": {
+  "ph": "ドリアン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "durian (fruit)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "Dorian (mode, column)"
+   }
+  ]
+ },
+ "ドリブル": {
+  "ph": "ドリブル",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dribble (of a ball or puck); dribbling"
+   }
+  ]
+ },
+ "ドリル": {
+  "ph": "ドリル",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drill bit; drill"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drill (practice)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drill (Mandrillus leucophaeus)"
+   }
+  ]
+ },
+ "ドリンク": {
+  "ph": "ドリンク",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drink"
+   }
+  ]
+ },
+ "ドル": {
+  "ph": "ドル",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dollar"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "money; cash"
+   }
+  ]
+ },
+ "ドルフィンキック": {
+  "ph": "ドルフィンキック",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dolphin kick (swimming)"
+   }
+  ]
+ },
+ "ドルフィン・キック": {
+  "ph": "ドルフィンキック",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dolphin kick (swimming)"
+   }
+  ]
+ },
+ "ドレス": {
+  "ph": "ドレス",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dress"
+   }
+  ]
+ },
+ "ドレッシング": {
+  "ph": "ドレッシング",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dressing"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dressing; putting on clothes"
+   }
+  ]
+ },
+ "ドロー": {
+  "ph": "ドロー",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "draw; tie"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "draw (to decide pairings in a competition)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "draw (shot)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drawing"
+   }
+  ]
+ },
+ "ドローイング": {
+  "ph": "ドローイング",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drawing"
+   }
+  ]
+ },
+ "ドロップ": {
+  "ph": "ドロップ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drop (candy)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drop (fall)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "curve ball with a vertical drop"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dropping (an unplayable ball)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dropping (mouse gesture)"
+   }
+  ]
+ },
+ "拉麺": {
+  "ph": "ラーメン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ramen; Chinese-style noodles"
+   }
+  ]
+ },
+ "らーめん": {
+  "ph": "ラーメン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ramen; Chinese-style noodles"
+   }
+  ]
+ },
+ "らあめん": {
+  "ph": "ラーメン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ramen; Chinese-style noodles"
+   }
+  ]
+ },
+ "拉丁": {
+  "ph": "ラテン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "Latin (language)"
+   },
+   {
+    "pos": "",
+    "zh": "",
+    "def": "Latin-American; Latin; Latino"
+   },
+   {
+    "pos": "",
+    "zh": "",
+    "def": "Latin (i.e. relating to the literature, culture, etc. of ancient Rome); Roman"
+   }
+  ]
+ },
+ "拉丁語": {
+  "ph": "ラテンご",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "Latin (language)"
+   }
+  ]
+ },
+ "安い": {
+  "ph": "やすい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "cheap; inexpensive"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "calm; peaceful; quiet"
+   }
+  ]
+ },
+ "廉い": {
+  "ph": "やすい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "cheap; inexpensive"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "calm; peaceful; quiet"
+   }
+  ]
+ },
+ "安っぽい": {
+  "ph": "やすっぽい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "cheap-looking; tawdry; insignificant"
+   }
+  ]
+ },
+ "安らか": {
+  "ph": "やすらか",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "peaceful; tranquil; calm; restful"
+   }
+  ]
+ },
+ "安らぎ": {
+  "ph": "やすらぎ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "peace (of mind); tranquility; tranquillity; serenity"
+   }
+  ]
+ },
+ "安易": {
+  "ph": "あんい",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "easy; simple"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "easygoing; lighthearted; simplistic; irresponsible"
+   }
+  ]
+ },
+ "安価": {
+  "ph": "あんか",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "low-priced; cheap; inexpensive"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "shallow (e.g. sympathy); superficial; cheap (e.g. government)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "link back to discussion group, bulletin board, etc. posting"
+   }
+  ]
+ },
+ "安楽死": {
+  "ph": "あんらくし",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "euthanasia"
+   }
+  ]
+ },
+ "安住": {
+  "ph": "あんじゅう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "living in peace; living a quiet life"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "being content with one's present position; being satisfied with one's lot"
+   }
+  ]
+ },
+ "安上がり": {
+  "ph": "やすあがり",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "cheap; economical"
+   }
+  ]
+ },
+ "安上り": {
+  "ph": "やすあがり",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "cheap; economical"
+   }
+  ]
+ },
+ "安心": {
+  "ph": "あんしん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "peace of mind; relief; (sense of) security; safety"
+   }
+  ]
+ },
+ "安神": {
+  "ph": "あんしん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "peace of mind; relief; (sense of) security; safety"
+   }
+  ]
+ },
+ "安静": {
+  "ph": "あんせい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "rest; quiet; repose"
+   }
+  ]
+ },
+ "安全": {
+  "ph": "あんぜん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "safety; security"
+   }
+  ]
+ },
+ "安全保障": {
+  "ph": "あんぜんほしょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(guarantee of) security"
+   }
+  ]
+ },
+ "安打": {
+  "ph": "あんだ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "safe hit"
+   }
+  ]
+ },
+ "安泰": {
+  "ph": "あんたい",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "security; stability; safety; peace"
+   }
+  ]
+ },
+ "安値": {
+  "ph": "やすね",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "low price"
+   }
+  ]
+ },
+ "安定": {
+  "ph": "あんてい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "stability; steadiness; consistency; equilibrium"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "stable"
+   }
+  ]
+ },
+ "安売り": {
+  "ph": "やすうり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bargain sale; selling cheaply; selling at a low price"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "giving out (too) readily; handing out freely; selling (oneself) short"
+   }
+  ]
+ },
+ "安否": {
+  "ph": "あんぴ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "safety; welfare; well-being"
+   }
+  ]
+ },
+ "安物": {
+  "ph": "やすもの",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cheap article; poor-quality article"
+   }
+  ]
+ },
+ "安もの": {
+  "ph": "やすもの",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cheap article; poor-quality article"
+   }
+  ]
+ },
+ "安もん": {
+  "ph": "やすもの",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cheap article; poor-quality article"
+   }
+  ]
+ },
+ "安保": {
+  "ph": "あんぽ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "security (e.g. national security)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "US-Japan Security Treaty"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "campaign against the Japan-US Security Treaty (1959-60, 1970)"
+   }
+  ]
+ },
+ "安眠": {
+  "ph": "あんみん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "sound sleep; good sleep; quiet sleep"
+   }
+  ]
+ },
+ "按摩": {
+  "ph": "あんま",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "massage (esp. anma, a traditional form of Japanese massage)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "masseur; masseuse; massager"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "blind person"
+   }
+  ]
+ },
+ "偉い": {
+  "ph": "えらい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "great; excellent; admirable; commendable"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "distinguished; important; high-ranking; powerful"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "awful; terrible; serious; tremendous"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "tiring; tough; hard"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "very; extremely"
+   }
+  ]
+ },
+ "偉業": {
+  "ph": "いぎょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "great achievement; great feat; great work; great undertaking"
+   }
+  ]
+ },
+ "偉人": {
+  "ph": "いじん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "great person; eminent figure"
+   }
+  ]
+ },
+ "偉大": {
+  "ph": "いだい",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "great; grand; magnificent; outstanding"
+   }
+  ]
+ },
+ "鴉": {
+  "ph": "カラス",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "crow (Corvus spp.); raven"
+   }
+  ]
+ },
+ "らく": {
+  "ph": "らく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "comfort; ease; relief; (at) peace"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "easy; simple; without trouble; without hardships"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "(economically) comfortable"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "raku pottery"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "sukha (happiness)"
+   }
+  ]
+ },
+ "愉しい": {
+  "ph": "たのしい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "enjoyable; fun; pleasant; happy"
+   }
+  ]
+ },
+ "愉しみ": {
+  "ph": "たのしみ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "enjoyment; pleasure; amusement; delight"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "anticipation; looking forward to; something to look forward to"
+   }
+  ]
+ },
+ "愉しむ": {
+  "ph": "たのしむ",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to enjoy; to take pleasure in; to have a good time; to have fun"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to look forward to"
+   }
+  ]
+ },
+ "らくえん": {
+  "ph": "らくえん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "paradise; Eden"
+   }
+  ]
+ },
+ "らっかん": {
+  "ph": "らっかん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "optimism; taking an optimistic view"
+   }
+  ]
+ },
+ "らっかんてき": {
+  "ph": "らっかんてき",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "optimistic; hopeful"
+   }
+  ]
+ },
+ "らくてんか": {
+  "ph": "らくてんか",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "optimist; easy-going person"
+   }
+  ]
+ },
+ "らくてんてき": {
+  "ph": "らくてんてき",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "optimistic"
+   }
+  ]
+ },
+ "嬉しい": {
+  "ph": "うれしい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "happy; glad; pleased; delighted"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "joyful; delightful; gratifying; pleasant"
+   }
+  ]
+ },
+ "吉兆": {
+  "ph": "きっちょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "lucky omen; good omen"
+   }
+  ]
+ },
+ "吉徴": {
+  "ph": "きっちょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "lucky omen; good omen"
+   }
+  ]
+ },
+ "吉報": {
+  "ph": "きっぽう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "good news"
+   }
+  ]
+ },
+ "安まる": {
+  "ph": "やすまる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be rested; to feel at ease; to repose; to be relieved"
+   }
+  ]
+ },
+ "曉": {
+  "ph": "あかつき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dawn; daybreak"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "event (e.g. \"in the event of ...\"); occasion; occurrence"
+   }
+  ]
+ },
+ "枉げる": {
+  "ph": "まげる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to bend; to crook; to bow; to curve"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to lean; to tilt; to incline; to slant"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to bend (the truth); to distort; to twist; to pervert"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to yield (a point); to depart (from a principle); to ignore (what one really thinks)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to pawn"
+   }
+  ]
+ },
+ "玉": {
+  "ph": "たま",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ball; sphere; globe; orb"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bead (of sweat, dew, etc.); drop; droplet"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ball (in sports); pitch (e.g. in baseball)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "pile (of noodles, etc.)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bullet"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bulb (i.e. a light bulb)"
+   }
+  ]
+ },
+ "玉砕": {
+  "ph": "ぎょくさい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "honorable death; death without surrender; honorable defeat"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "trying but being utterly beaten; being completely rejected when professing one's love"
+   }
+  ]
+ },
+ "玉摧": {
+  "ph": "ぎょくさい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "honorable death; death without surrender; honorable defeat"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "trying but being utterly beaten; being completely rejected when professing one's love"
+   }
+  ]
+ },
+ "玉虫色": {
+  "ph": "たまむしいろ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "iridescent colour"
+   },
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "equivocal (reply, statement, etc.); ambiguous; vague"
+   }
+  ]
+ },
+ "玉ねぎ": {
+  "ph": "たまねぎ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "onion (Allium cepa)"
+   }
+  ]
+ },
+ "玉葱": {
+  "ph": "たまねぎ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "onion (Allium cepa)"
+   }
+  ]
+ },
+ "玉ネギ": {
+  "ph": "たまねぎ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "onion (Allium cepa)"
+   }
+  ]
+ },
+ "玉蜀黍": {
+  "ph": "とうもろこし",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "corn (Zea mays); maize"
+   }
+  ]
+ },
+ "勉める": {
+  "ph": "つとめる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to endeavor (to do); to endeavour; to try hard; to work hard"
+   }
+  ]
+ },
+ "叉": {
+  "ph": "また",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "groin; thigh; crotch; crutch"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "fork (in a tree, road, river, etc.); tines (of a fork)"
+   }
+  ]
+ },
+ "呉れる": {
+  "ph": "くれる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to give; to let (one) have"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to give"
+   },
+   {
+    "pos": "助動詞",
+    "zh": "",
+    "def": "to do for one; to take the trouble to do"
+   },
+   {
+    "pos": "助動詞",
+    "zh": "",
+    "def": "to do to someone's disadvantage"
+   }
+  ]
+ },
+ "呉れ呉れも": {
+  "ph": "くれぐれも",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "sincerely; earnestly; wholeheartedly"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "repeatedly; over and over; again and again"
+   }
+  ]
+ },
+ "呉々も": {
+  "ph": "くれぐれも",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "sincerely; earnestly; wholeheartedly"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "repeatedly; over and over; again and again"
+   }
+  ]
+ },
+ "呉呉も": {
+  "ph": "くれぐれも",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "sincerely; earnestly; wholeheartedly"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "repeatedly; over and over; again and again"
+   }
+  ]
+ },
+ "呉越同舟": {
+  "ph": "ごえつどうしゅう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bitter enemies in the same boat; rivals finding themselves together by chance; strange bedfellows"
+   }
+  ]
+ },
+ "呉服": {
+  "ph": "ごふく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cloth (for Japanese clothes); kimono fabrics; textile; drapery"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "silk fabrics"
+   }
+  ]
+ },
+ "鯉": {
+  "ph": "こい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "common carp (Cyprinus carpio); koi carp"
+   }
+  ]
+ },
+ "光": {
+  "ph": "ひかり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "light"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "illumination; ray; beam; gleam"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "happiness; hope"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "influence; power"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "vision; eyesight"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "optical fiber; optical fibre"
+   }
+  ]
+ },
+ "光り輝く": {
+  "ph": "ひかりかがやく",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to shine; to glitter"
+   }
+  ]
+ },
+ "光輝く": {
+  "ph": "ひかりかがやく",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to shine; to glitter"
+   }
+  ]
+ },
+ "光る": {
+  "ph": "ひかる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to shine; to glitter; to be bright"
+   }
+  ]
+ },
+ "光栄": {
+  "ph": "こうえい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "honour; honor; glory; privilege"
+   }
+  ]
+ },
+ "光学": {
+  "ph": "こうがく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "optics"
+   }
+  ]
+ },
+ "光輝": {
+  "ph": "こうき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "brightness; splendour; splendor"
+   }
+  ]
+ },
+ "光景": {
+  "ph": "こうけい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "scene; spectacle; sight; view"
+   }
+  ]
+ },
+ "光彩": {
+  "ph": "こうさい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "brilliance; splendour; splendor; lustre"
+   }
+  ]
+ },
+ "光線": {
+  "ph": "こうせん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ray (of light); beam; light"
+   }
+  ]
+ },
+ "光沢": {
+  "ph": "こうたく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "brilliance; polish; lustre; luster"
+   }
+  ]
+ },
+ "光熱費": {
+  "ph": "こうねつひ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cost of fuel and lighting; cost of heat and electricity; energy bill; utility cost"
+   }
+  ]
+ },
+ "光年": {
+  "ph": "こうねん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "light-year"
+   }
+  ]
+ },
+ "光明": {
+  "ph": "こうみょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bright light"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "hope; bright future"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "light emanating from a buddha or bodhisattva, symbolizing their wisdom and compassion"
+   }
+  ]
+ },
+ "有る": {
+  "ph": "ある",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be; to exist; to live"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to have"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be located"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be equipped with"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to happen; to come about"
+   },
+   {
+    "pos": "助動詞",
+    "zh": "",
+    "def": "to exist (in a completed state); to be (something unchanged in its current state)"
+   }
+  ]
+ },
+ "三つ": {
+  "ph": "みっつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three years of age"
+   }
+  ]
+ },
+ "三回": {
+  "ph": "さんかい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three times"
+   }
+  ]
+ },
+ "三角": {
+  "ph": "さんかく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "triangle; triangular shape"
+   }
+  ]
+ },
+ "三月": {
+  "ph": "さんがつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "March"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "third month of the lunar calendar"
+   }
+  ]
+ },
+ "三権": {
+  "ph": "さんけん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "the three powers of government (legislative, executive and judicial)"
+   }
+  ]
+ },
+ "三時": {
+  "ph": "さんじ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "3 o'clock"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "afternoon snack (eaten around 3 o'clock)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three ages of Buddhism (following the death of Gautama Buddha; age of the true law, age of the copied law, and age of the degeneration of the law); three ages of the dharma"
+   }
+  ]
+ },
+ "三次元": {
+  "ph": "さんじげん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three dimensions; 3D; 3-D"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "real world; IRL; in real life"
+   }
+  ]
+ },
+ "三十日": {
+  "ph": "さんじゅうにち",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "30th day of the month"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "30 days"
+   }
+  ]
+ },
+ "三〇日": {
+  "ph": "さんじゅうにち",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "30th day of the month"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "30 days"
+   }
+  ]
+ },
+ "三十八度線": {
+  "ph": "さんじゅうはちどせん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "38th parallel (that demarcates North Korea and South Korea)"
+   }
+  ]
+ },
+ "三女": {
+  "ph": "さんじょ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "third daughter"
+   }
+  ]
+ },
+ "三省": {
+  "ph": "さんせい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "frequent reflection; frequent meditation"
+   }
+  ]
+ },
+ "三振": {
+  "ph": "さんしん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "strikeout"
+   }
+  ]
+ },
+ "三人": {
+  "ph": "さんにん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three people"
+   }
+  ]
+ },
+ "三千": {
+  "ph": "さんぜん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "3000; three thousand"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "many"
+   }
+  ]
+ },
+ "三〇〇〇": {
+  "ph": "さんぜん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "3000; three thousand"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "many"
+   }
+  ]
+ },
+ "三選": {
+  "ph": "さんせん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "third-term election"
+   }
+  ]
+ },
+ "三男": {
+  "ph": "さんなん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three sons"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "third son"
+   }
+  ]
+ },
+ "三日": {
+  "ph": "みっか",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "3rd day of the month"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three days"
+   }
+  ]
+ },
+ "三日月": {
+  "ph": "みかづき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "crescent moon; young moon"
+   }
+  ]
+ },
+ "三百": {
+  "ph": "さんびゃく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "300; three hundred"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "300 mon; trifling amount; two-bit item"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "shyster"
+   }
+  ]
+ },
+ "三〇〇": {
+  "ph": "さんびゃく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "300; three hundred"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "300 mon; trifling amount; two-bit item"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "shyster"
+   }
+  ]
+ },
+ "三本": {
+  "ph": "さんぼん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three (long cylindrical things)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three-of-a-kind (in a dealt hand)"
+   }
+  ]
+ },
+ "三枚": {
+  "ph": "さんまい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three flat objects (sheets of paper, pieces of cloth, etc.)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cutting a fish into two boneless fillets and a piece with the skeleton"
+   }
+  ]
+ },
+ "三役": {
+  "ph": "さんやく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three highest ranks (wrestling, unions, etc.)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three parts; three divisions"
+   }
+  ]
+ },
+ "三流": {
+  "ph": "さんりゅう",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "third-rate; third-class"
+   }
+  ]
+ },
+ "三輪": {
+  "ph": "さんりん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three wheels"
+   }
+  ]
+ },
+ "三塁": {
+  "ph": "さんるい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "third base"
+   }
+  ]
+ },
+ "三塁手": {
+  "ph": "さんるいしゅ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "third baseman"
+   }
+  ]
+ },
+ "三塁打": {
+  "ph": "さんるいだ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three-base hit; triple"
+   }
+  ]
+ },
+ "姉": {
+  "ph": "あね",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "older sister; elder sister"
+   }
+  ]
+ },
+ "姉さん": {
+  "ph": "ねえさん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "older sister; elder sister"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "young lady"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "miss"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ma'am"
+   }
+  ]
+ },
+ "嫉妬": {
+  "ph": "しっと",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "jealousy; envy"
+   }
+  ]
+ },
+ "玉算": {
+  "ph": "しゅざん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "calculation on an abacus"
+   }
+  ]
+ },
+ "殉職": {
+  "ph": "じゅんしょく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dying at one's post; being killed in the line of duty"
+   }
+  ]
+ },
+ "殉難": {
+  "ph": "じゅんなん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "martyrdom"
+   }
+  ]
+ },
+ "渉外": {
+  "ph": "しょうがい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "public relations; client liaison; client relations"
+   }
+  ]
+ },
+ "嫉ける": {
+  "ph": "やける",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to burn; to burn down; to go down in flames"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to be roasted; to be thoroughly cooked"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to be sunburnt; to fade (in the sun)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to glow red (i.e. of the sky at sunset)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to become hot (from the sun)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to be jealous; to be envious"
+   }
+  ]
+ },
+ "證據": {
+  "ph": "しょうこ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "evidence; proof"
+   }
+  ]
+ },
+ "證券": {
+  "ph": "しょうけん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bond; bill; certificate; security"
+   }
+  ]
+ },
+ "杉": {
+  "ph": "すぎ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "Japanese cedar (Cryptomeria japonica)"
+   }
+  ]
+ },
+ "斉える": {
+  "ph": "ととのえる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to put in order; to arrange; to tidy up; to fix"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to get ready; to prepare; to arrange; to supply"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to adjust; to regulate (e.g. rhythm, tune, one's breathing)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to work out (e.g. business deal); to arrange (e.g. marriage); to settle"
+   }
+  ]
+ },
+ "斉唱": {
+  "ph": "せいしょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "singing in unison; chanting in unison"
+   }
+  ]
+ },
+ "蝉": {
+  "ph": "せみ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cicada; locust"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "small-sized pulley"
+   }
+  ]
+ },
+ "泉": {
+  "ph": "いずみ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "spring; fountain"
+   }
+  ]
+ },
+ "泉水": {
+  "ph": "せんすい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "garden pond; miniature lake"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "fountain"
+   }
+  ]
+ },
+ "倉庫": {
+  "ph": "そうこ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "storehouse; warehouse; godown"
+   }
+  ]
+ },
+ "倉敷": {
+  "ph": "くらしき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "Kurashiki (city)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "storage charges"
+   }
+  ]
+ },
+ "争い": {
+  "ph": "あらそい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "fight; dispute; feud; conflict"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "competition; contest; rivalry"
+   }
+  ]
+ },
+ "争う": {
+  "ph": "あらそう",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to compete; to contest; to contend"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to quarrel; to argue; to dispute; to be at variance"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to deny (e.g. evidence)"
+   }
+  ]
+ },
+ "争議": {
+  "ph": "そうぎ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dispute; quarrel; strike"
+   }
+  ]
+ },
+ "争奪": {
+  "ph": "そうだつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "struggle (for); scramble; contest"
+   }
+  ]
+ },
+ "争点": {
+  "ph": "そうてん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "point at issue"
+   }
+  ]
+ },
+ "草": {
+  "ph": "くさ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "grass; weed; herb; thatch"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ninja"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "marijuana; cannabis"
+   },
+   {
+    "pos": "接頭語",
+    "zh": "",
+    "def": "not genuine; substandard"
+   },
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "LOL; haha"
+   }
+  ]
+ },
+ "草の根": {
+  "ph": "くさのね",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "roots of grass"
+   },
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "grassroots (e.g. of a political party); rank and file"
+   },
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "places hidden from sight"
+   }
+  ]
+ },
+ "草案": {
+  "ph": "そうあん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "draft (for a speech, bill, etc.)"
+   }
+  ]
+ },
+ "草花": {
+  "ph": "くさばな",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "flower; flowering plant"
+   }
+  ]
+ },
+ "草原": {
+  "ph": "そうげん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "grassy field; grassland; meadow"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "grass-covered plain; savannah; prairie; steppe"
+   }
+  ]
+ },
+ "草はら": {
+  "ph": "そうげん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "grassy field; grassland; meadow"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "grass-covered plain; savannah; prairie; steppe"
+   }
+  ]
+ },
+ "草稿": {
+  "ph": "そうこう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "notes; draft; manuscript"
+   }
+  ]
+ },
+ "草書": {
+  "ph": "そうしょ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "highly cursive style (of writing Chinese characters); grass style"
+   }
+  ]
+ },
+ "草履": {
+  "ph": "ぞうり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "zori; traditional Japanese thonged sandals"
+   }
+  ]
+ },
+ "藉す": {
+  "ph": "かす",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to lend; to loan"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to rent out; to hire out"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to hand (over); to give"
+   }
+  ]
+ },
+ "ドングリ": {
+  "ph": "どんぐり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "acorn"
+   }
+  ]
+ },
+ "築き上げる": {
+  "ph": "きずきあげる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to build; to construct; to put up"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to build up (a fortune, reputation, enterprise, etc.); to establish (a relationship, system, etc.); to create"
+   }
+  ]
+ },
+ "築きあげる": {
+  "ph": "きずきあげる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to build; to construct; to put up"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to build up (a fortune, reputation, enterprise, etc.); to establish (a relationship, system, etc.); to create"
+   }
+  ]
+ },
+ "築く": {
+  "ph": "きずく",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to build; to construct; to erect"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to build up (a reputation, position, fortune, etc.); to establish (a relationship, household, tradition, etc.); to lay (a foundation)"
+   }
+  ]
+ },
+ "築山": {
+  "ph": "つきやま",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "artificial hill (in a garden)"
+   }
+  ]
+ },
+ "捉む": {
+  "ph": "つかむ",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seize; to catch; to grasp; to grip"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to obtain; to acquire; to get; to win"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to understand; to grasp; to comprehend"
+   }
+  ]
+ },
+ "閉まる": {
+  "ph": "しまる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be shut; to close; to be closed"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be firm (of a body, face, etc.); to be well-knit"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be locked"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to tighten; to be tightened"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to become sober; to become tense"
+   }
+  ]
+ },
+ "ドロ沼": {
+  "ph": "どろぬま",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bog; marsh; swamp; quagmire"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "quandary; dire situation from which one cannot extricate oneself; imbroglio"
+   }
+  ]
+ },
+ "ドロぬま": {
+  "ph": "どろぬま",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bog; marsh; swamp; quagmire"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "quandary; dire situation from which one cannot extricate oneself; imbroglio"
+   }
+  ]
+ },
+ "轉送": {
+  "ph": "てんそう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "transfer (of a call, patient, etc.); forwarding (a letter, email, etc.); redirection"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "transfer (of data); transmission"
+   }
+  ]
+ },
+ "轉任": {
+  "ph": "てんにん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change of post"
+   }
+  ]
+ },
+ "嫉む": {
+  "ph": "ねたむ",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be jealous of; to envy; to begrudge"
+   }
+  ]
+ },
+ "渉る": {
+  "ph": "わたる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to cross over; to go across"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to extend; to cover; to range; to span"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to pass (into; someone's possession); to change hands; to be transferred"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be distributed (among); to reach (each recipient); to go around"
+   }
+  ]
+ },
+ "勉めて": {
+  "ph": "つとめて",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "as much as possible; as far as possible; to the best of one's ability; diligently"
+   }
+  ]
+ },
+ "ドシャ降り": {
+  "ph": "どしゃぶり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "downpour; pouring rain; heavy rain; pelting rain"
+   }
+  ]
+ },
+ "等しい": {
+  "ph": "ひとしい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "equal; identical; the same"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "no different (from); just like; equivalent"
+   }
+  ]
+ },
+ "斉しい": {
+  "ph": "ひとしい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "equal; identical; the same"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "no different (from); just like; equivalent"
+   }
+  ]
+ },
+ "等価": {
+  "ph": "とうか",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "equivalence; equal value; parity"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(logical) equivalence"
+   }
+  ]
+ },
+ "等級": {
+  "ph": "とうきゅう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "grade; class; degree; rank"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "magnitude"
+   }
+  ]
+ },
+ "等身": {
+  "ph": "とうしん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "body proportions"
+   }
+  ]
+ },
+ "等分": {
+  "ph": "とうぶん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "division into equal parts; equal parts"
+   }
+  ]
+ },
+ "酉": {
+  "ph": "とり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "the Rooster (tenth sign of the Chinese zodiac); the Cock; the Chicken; the Bird"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "hour of the Rooster (around 6pm, 5-7pm, or 6-8pm)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "west"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "eight month of the lunar calendar"
+   }
+  ]
+ },
+ "肉": {
+  "ph": "にく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "flesh"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "meat"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "flesh (of a fruit); pulp"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "the physical body (as opposed to the spirit); flesh"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "thickness"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "content; substance; flesh"
+   }
+  ]
+ },
+ "肉屋": {
+  "ph": "にくや",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "butcher's shop; butcher; meat shop"
+   }
+  ]
+ },
+ "肉眼": {
+  "ph": "にくがん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "naked eye"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "the physical eye"
+   }
+  ]
+ },
+ "肉食": {
+  "ph": "にくしょく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "meat eating; eating of meat; meat diet"
+   },
+   {
+    "pos": "",
+    "zh": "",
+    "def": "carnivorous"
+   }
+  ]
+ },
+ "肉親": {
+  "ph": "にくしん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "blood relationship; blood relative"
+   }
+  ]
+ },
+ "肉体": {
+  "ph": "にくたい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "the body; the flesh; the outer man; one's physique"
+   }
+  ]
+ },
+ "肉薄": {
+  "ph": "にくはく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "closing in on (the enemy, first place, etc.); coming close to; pressing hard"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "pressing hard (e.g. with a question); taking to task; grilling"
+   }
+  ]
+ },
+ "肉迫": {
+  "ph": "にくはく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "closing in on (the enemy, first place, etc.); coming close to; pressing hard"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "pressing hard (e.g. with a question); taking to task; grilling"
+   }
+  ]
+ },
+ "肉筆": {
+  "ph": "にくひつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "one's own handwriting; autograph"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "as written with a brush"
+   }
+  ]
+ },
+ "肉まん": {
+  "ph": "にくまん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "manjū with a meat filling; steamed yeast bun with a meat filling"
+   }
+  ]
+ },
+ "肉饅": {
+  "ph": "にくまん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "manjū with a meat filling; steamed yeast bun with a meat filling"
+   }
+  ]
+ },
+ "扉": {
+  "ph": "とびら",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "door; gate; opening"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "title page"
+   }
+  ]
+ },
+ "眉": {
+  "ph": "まゆ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "eyebrow; eyebrows"
+   }
+  ]
+ },
+ "眉毛": {
+  "ph": "まゆげ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "eyebrow"
+   }
+  ]
+ },
+ "藉く": {
+  "ph": "しく",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to spread out (e.g. a futon); to lay out"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to lay down (e.g. a cushion)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to impose widely (e.g. martial law); to promulgate"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to pin down; to hold down"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to lay (e.g. railway tracks)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to deploy (e.g. troops)"
+   }
+  ]
+ },
+ "粉": {
+  "ph": "こな",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "flour; meal; powder; dust"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "heroin"
+   }
+  ]
+ },
+ "粉ミルク": {
+  "ph": "こなミルク",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "milk powder"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "baby formula; infant formula; formula; baby milk"
+   }
+  ]
+ },
+ "粉砕": {
+  "ph": "ふんさい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "pulverization; pulverisation"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "reducing to pieces; crushing; smashing; demolishing"
+   }
+  ]
+ },
+ "粉飾": {
+  "ph": "ふんしょく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "embellishment (e.g. of a story); ornamentation; decoration"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "putting on makeup"
+   }
+  ]
+ },
+ "粉末": {
+  "ph": "ふんまつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "fine powder"
+   }
+  ]
+ },
+ "閉ざす": {
+  "ph": "とざす",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to shut; to close; to fasten; to lock"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to block (a street, entrance, etc.)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to shut in (with snow, ice, etc.); to shut off; to cut off; to cover (e.g. in darkness)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to consume (with negative feelings); to fill (e.g. with sadness); to bury (e.g. in grief)"
+   }
+  ]
+ },
+ "閉じる": {
+  "ph": "とじる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to close (e.g. book, eyes, meeting, etc.); to shut"
+   }
+  ]
+ },
+ "閉じ込める": {
+  "ph": "とじこめる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to lock up; to shut up; to imprison"
+   }
+  ]
+ },
+ "閉じこめる": {
+  "ph": "とじこめる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to lock up; to shut up; to imprison"
+   }
+  ]
+ },
+ "閉込める": {
+  "ph": "とじこめる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to lock up; to shut up; to imprison"
+   }
+  ]
+ },
+ "閉じこもる": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉じ籠もる": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉じ篭もる": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉じ込もる": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉じ籠る": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉じ篭る": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉籠もる": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉篭もる": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉籠る": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉篭る": {
+  "ph": "とじこもる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to seclude oneself; to shut oneself away"
+   }
+  ]
+ },
+ "閉める": {
+  "ph": "しめる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to close; to shut"
+   }
+  ]
+ },
+ "閉会": {
+  "ph": "へいかい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "closure (of a ceremony, event, meeting, etc.)"
+   }
+  ]
+ },
+ "閉口": {
+  "ph": "へいこう",
+  "senses": [
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to be stumped; to be at a loss; to be at one's wits' end; to be nonplussed"
+   },
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to be fed up; to be tired (of); to be unable to bear; to be annoyed"
+   }
+  ]
+ },
+ "閉鎖": {
+  "ph": "へいさ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "closing; closure"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "shutdown; lockout"
+   }
+  ]
+ },
+ "閉塞": {
+  "ph": "へいそく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "blockage; blockade; blocking up; stoppage"
+   }
+  ]
+ },
+ "閉そく": {
+  "ph": "へいそく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "blockage; blockade; blocking up; stoppage"
+   }
+  ]
+ },
+ "閉店": {
+  "ph": "へいてん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "closing up shop (for the day)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "stopping business; going out of business"
+   }
+  ]
+ },
+ "閉幕": {
+  "ph": "へいまく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "falling of the curtain"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(coming to an) end; close"
+   }
+  ]
+ },
+ "変": {
+  "ph": "へん",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "strange; odd; peculiar; weird"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "unexpected"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "incident; disturbance; disaster; accident"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "flat"
+   }
+  ]
+ },
+ "変える": {
+  "ph": "かえる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to change; to alter; to transform; to convert"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to reform; to revise; to amend"
+   }
+  ]
+ },
+ "変わった": {
+  "ph": "かわった",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "",
+    "def": "unusual; abnormal; strange; odd"
+   }
+  ]
+ },
+ "変わらない": {
+  "ph": "かわらない",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "constant; invariant"
+   }
+  ]
+ },
+ "変わり": {
+  "ph": "かわり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change; alteration"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "difference; distinction"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "something wrong; abnormality; unusual event; accident"
+   }
+  ]
+ },
+ "変り": {
+  "ph": "かわり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change; alteration"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "difference; distinction"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "something wrong; abnormality; unusual event; accident"
+   }
+  ]
+ },
+ "変わる": {
+  "ph": "かわる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to change; to be transformed; to be altered; to vary"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to move to"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be different; to be uncommon; to be unusual"
+   }
+  ]
+ },
+ "変る": {
+  "ph": "かわる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to change; to be transformed; to be altered; to vary"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to move to"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be different; to be uncommon; to be unusual"
+   }
+  ]
+ },
+ "変移": {
+  "ph": "へんい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change; alteration; transmutation; mutation"
+   }
+  ]
+ },
+ "変化": {
+  "ph": "へんか",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change; variation; alteration; mutation"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "variety; diversity"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "inflection; declension; conjugation"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "henka; evasive sidestep at the beginning of a bout"
+   }
+  ]
+ },
+ "変化球": {
+  "ph": "へんかきゅう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "breaking ball (pitch); curve ball; screwball"
+   }
+  ]
+ },
+ "変革": {
+  "ph": "へんかく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change; transformation; reform; revolution"
+   }
+  ]
+ },
+ "変換": {
+  "ph": "へんかん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change; conversion; transformation"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "transformation"
+   }
+  ]
+ },
+ "変形": {
+  "ph": "へんけい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "transformation; variation; metamorphosis; modification"
+   }
+  ]
+ },
+ "変更": {
+  "ph": "へんこう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change; modification; alteration; revision"
+   }
+  ]
+ },
+ "変質": {
+  "ph": "へんしつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "alteration (of character or essence); change in quality; transformation; deterioration"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "perversion (esp. sexual)"
+   }
+  ]
+ },
+ "変身": {
+  "ph": "へんしん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "metamorphosis; disguise; transformation; shapeshifting"
+   }
+  ]
+ },
+ "変人": {
+  "ph": "へんじん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "eccentric; crank; weirdo; oddball"
+   }
+  ]
+ },
+ "変遷": {
+  "ph": "へんせん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change; transition; vicissitudes"
+   }
+  ]
+ },
+ "変造": {
+  "ph": "へんぞう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "alteration; defacement; debasement; falsification"
+   }
+  ]
+ },
+ "変則": {
+  "ph": "へんそく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "irregularity; anomaly"
+   }
+  ]
+ },
+ "変態": {
+  "ph": "へんたい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "transformation"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "abnormality"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "sexual perversion; pervert"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "metamorphosis"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "transformation; transition; modification"
+   }
+  ]
+ },
+ "変動": {
+  "ph": "へんどう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change; fluctuation"
+   }
+  ]
+ },
+ "変貌": {
+  "ph": "へんぼう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "transfiguration; transformation; change of appearance"
+   }
+  ]
+ },
+ "変ぼう": {
+  "ph": "へんぼう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "transfiguration; transformation; change of appearance"
+   }
+  ]
+ },
+ "変容": {
+  "ph": "へんよう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "change in appearance; transformation"
+   }
+  ]
+ },
+ "勉学": {
+  "ph": "べんがく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "study; pursuit of knowledge"
+   }
+  ]
+ },
+ "勉強": {
+  "ph": "べんきょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "study"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "diligence; working hard"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "experience; knowledge; lesson (for the future)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "discount; price reduction"
+   }
+  ]
+ },
+ "勉強中": {
+  "ph": "べんきょうちゅう",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "while studying; presently studying"
+   }
+  ]
+ },
+ "捉まる": {
+  "ph": "つかまる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be caught; to be arrested"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to hold on to; to grasp"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to find (e.g. proof); to get (e.g. a taxi)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be detained by"
+   }
+  ]
+ },
+ "奉公": {
+  "ph": "ほうこう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "live-in domestic service; live-in apprenticeship"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "public duty; public service"
+   }
+  ]
+ },
+ "奉行": {
+  "ph": "ぶぎょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "magistrate; shogunate administrator"
+   }
+  ]
+ },
+ "奉仕": {
+  "ph": "ほうし",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "service; ministry; attendance; church work"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "offering goods at a reduced price; providing a service for free"
+   }
+  ]
+ },
+ "奉納": {
+  "ph": "ほうのう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dedication; offering; presentation; oblation"
+   }
+  ]
+ },
+ "奉げる": {
+  "ph": "ささげる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to lift up; to hold up; to hold above eye level"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to give; to offer; to consecrate"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to devote; to sacrifice; to dedicate"
+   }
+  ]
+ },
+ "脉": {
+  "ph": "みゃく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "pulse"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "vein"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "chain (of mountains, etc.)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "hope"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "thread (of an argument)"
+   }
+  ]
+ },
+ "棉": {
+  "ph": "めん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cotton"
+   }
+  ]
+ },
+ "草綿": {
+  "ph": "わた",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cotton plant (Gossypium spp.)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "batting; wadding; padding"
+   }
+  ]
+ },
+ "愉快": {
+  "ph": "ゆかい",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "pleasant; delightful; enjoyable; joyful"
+   }
+  ]
+ },
+ "有": {
+  "ph": "ゆう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "existence"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "possession; having"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "limited company"
+   }
+  ]
+ },
+ "有する": {
+  "ph": "ゆうする",
+  "senses": [
+   {
+    "pos": "サ變動詞",
+    "zh": "",
+    "def": "to have; to possess; to own; to be endowed with"
+   }
+  ]
+ },
+ "有りそう": {
+  "ph": "ありそう",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "probable; likely"
+   }
+  ]
+ },
+ "有りのまま": {
+  "ph": "ありのまま",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "as it is; plain (truth); bare; undisguised"
+   }
+  ]
+ },
+ "有りの儘": {
+  "ph": "ありのまま",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "as it is; plain (truth); bare; undisguised"
+   }
+  ]
+ },
+ "有りの侭": {
+  "ph": "ありのまま",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "as it is; plain (truth); bare; undisguised"
+   }
+  ]
+ },
+ "有り触れた": {
+  "ph": "ありふれた",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "",
+    "def": "common; commonplace; ordinary; familiar"
+   }
+  ]
+ },
+ "有りふれた": {
+  "ph": "ありふれた",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "",
+    "def": "common; commonplace; ordinary; familiar"
+   }
+  ]
+ },
+ "有難うございます": {
+  "ph": "ありがとうございます",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "thank you"
+   }
+  ]
+ },
+ "有り難うございます": {
+  "ph": "ありがとうございます",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "thank you"
+   }
+  ]
+ },
+ "有難う御座います": {
+  "ph": "ありがとうございます",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "thank you"
+   }
+  ]
+ },
+ "有り難う御座います": {
+  "ph": "ありがとうございます",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "thank you"
+   }
+  ]
+ },
+ "有様": {
+  "ph": "ありさま",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "state; condition; circumstances; sight"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "the way things should be; ideal state"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "truth"
+   }
+  ]
+ },
+ "有り様": {
+  "ph": "ありさま",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "state; condition; circumstances; sight"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "the way things should be; ideal state"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "truth"
+   }
+  ]
+ },
+ "有りさま": {
+  "ph": "ありさま",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "state; condition; circumstances; sight"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "the way things should be; ideal state"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "truth"
+   }
+  ]
+ },
+ "有意義": {
+  "ph": "ゆういぎ",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "significant; useful; meaningful; worthwhile"
+   }
+  ]
+ },
+ "有益": {
+  "ph": "ゆうえき",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "beneficial; profitable; useful; helpful"
+   }
+  ]
+ },
+ "有価証券": {
+  "ph": "ゆうかしょうけん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "marketable securities; stocks and bonds"
+   }
+  ]
+ },
+ "有害": {
+  "ph": "ゆうがい",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "harmful; hazardous"
+   }
+  ]
+ },
+ "有機": {
+  "ph": "ゆうき",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "",
+    "def": "organic"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "organic chemistry"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "organic compound"
+   }
+  ]
+ },
+ "有給": {
+  "ph": "ゆうきゅう",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "salaried; paid; with pay"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "paid vacation; paid holiday; paid leave"
+   }
+  ]
+ },
+ "有権者": {
+  "ph": "ゆうけんしゃ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(eligible) voter; elector; constituent; the electorate"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "holder of a right; rightsholder; right holder"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bigwig; person with political clout"
+   }
+  ]
+ },
+ "有限": {
+  "ph": "ゆうげん",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "finite; limited"
+   }
+  ]
+ },
+ "有効": {
+  "ph": "ゆうこう",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "valid; effective"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "yuko (judo)"
+   }
+  ]
+ },
+ "有罪": {
+  "ph": "ゆうざい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "guilt; culpability"
+   }
+  ]
+ },
+ "有志": {
+  "ph": "ゆうし",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "interested person; volunteer; supporter"
+   }
+  ]
+ },
+ "有識者": {
+  "ph": "ゆうしきしゃ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "expert; knowledgeable person; authority (on a subject)"
+   }
+  ]
+ },
+ "有償": {
+  "ph": "ゆうしょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(involving) payment; (involving) compensation; paying a fee"
+   }
+  ]
+ },
+ "有人": {
+  "ph": "ゆうじん",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "manned; occupied; piloted"
+   }
+  ]
+ },
+ "有数": {
+  "ph": "ゆうすう",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "prominent; eminent; leading; foremost"
+   }
+  ]
+ },
+ "有線": {
+  "ph": "ゆうせん",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "wired; cabled"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "communication by wire"
+   }
+  ]
+ },
+ "有頂天": {
+  "ph": "うちょうてん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ecstasy"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "highest heaven"
+   }
+  ]
+ },
+ "有頂点": {
+  "ph": "うちょうてん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ecstasy"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "highest heaven"
+   }
+  ]
+ },
+ "有毒": {
+  "ph": "ゆうどく",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "poisonous; toxic"
+   }
+  ]
+ },
+ "有難い": {
+  "ph": "ありがたい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "grateful; thankful; welcome; appreciated"
+   }
+  ]
+ },
+ "有り難い": {
+  "ph": "ありがたい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "grateful; thankful; welcome; appreciated"
+   }
+  ]
+ },
+ "有能": {
+  "ph": "ゆうのう",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "able; capable; competent; talented"
+   }
+  ]
+ },
+ "有望": {
+  "ph": "ゆうぼう",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "promising; hopeful; full of promise"
+   }
+  ]
+ },
+ "有無": {
+  "ph": "うむ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "existence or nonexistence; presence or absence"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "consent or refusal; yes or no"
+   }
+  ]
+ },
+ "有名": {
+  "ph": "ゆうめい",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "famous; well-known"
+   }
+  ]
+ },
+ "有名人": {
+  "ph": "ゆうめいじん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "celebrity; famous person; public figure; big name"
+   }
+  ]
+ },
+ "有用": {
+  "ph": "ゆうよう",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "useful; helpful"
+   }
+  ]
+ },
+ "有料": {
+  "ph": "ゆうりょう",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "fee-charging; paid; not free"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "toll road"
+   }
+  ]
+ },
+ "有力": {
+  "ph": "ゆうりょく",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "influential; prominent; leading"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "strong; powerful; likely; plausible"
+   }
+  ]
+ },
+ "誉れ": {
+  "ph": "ほまれ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "honour; honor; glory; renown"
+   }
+  ]
+ },
+ "葉": {
+  "ph": "は",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "leaf; blade (of grass); (pine) needle; frond"
+   }
+  ]
+ },
+ "葉巻": {
+  "ph": "はまき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cigar"
+   }
+  ]
+ },
+ "葉巻き": {
+  "ph": "はまき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cigar"
+   }
+  ]
+ },
+ "葉書": {
+  "ph": "はがき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "postcard"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "memo; note; card"
+   }
+  ]
+ },
+ "葉書き": {
+  "ph": "はがき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "postcard"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "memo; note; card"
+   }
+  ]
+ },
+ "らしんばん": {
+  "ph": "らしんばん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "compass"
+   }
+  ]
+ },
+ "られつ": {
+  "ph": "られつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "enumeration; citation; listing"
+   }
+  ]
+ },
+ "らふ": {
+  "ph": "らふ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "nude woman; female nude"
+   }
+  ]
+ },
+ "らい": {
+  "ph": "らい",
+  "senses": [
+   {
+    "pos": "接頭語",
+    "zh": "",
+    "def": "next (year, spring, etc.); coming"
+   },
+   {
+    "pos": "接尾語",
+    "zh": "",
+    "def": "since (e.g. last month); for (e.g. 20 years)"
+   }
+  ]
+ },
+ "らいげつ": {
+  "ph": "らいげつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "next month"
+   }
+  ]
+ },
+ "らいしゅう": {
+  "ph": "らいしゅう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(incoming) attack; raid; invasion; assault"
+   }
+  ]
+ },
+ "らいてん": {
+  "ph": "らいてん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "coming to a store (restaurant, bar, shop, etc.)"
+   }
+  ]
+ },
+ "らいにち": {
+  "ph": "らいにち",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "coming to Japan; visit to Japan; arrival in Japan"
+   }
+  ]
+ },
+ "らいねん": {
+  "ph": "らいねん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "next year"
+   }
+  ]
+ },
+ "らいひん": {
+  "ph": "らいひん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "guest; visitor; visitor's arrival"
+   }
+  ]
+ },
+ "らいほう": {
+  "ph": "らいほう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "visit (from someone); call"
+   }
+  ]
+ },
+ "らいう": {
+  "ph": "らいう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "thunderstorm; thundershower"
+   }
+  ]
+ },
+ "らいめい": {
+  "ph": "らいめい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "thunder; thunderclap; crash of thunder"
+   }
+  ]
+ },
+ "らっか": {
+  "ph": "らっか",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "fall; drop; descent; coming down"
+   }
+  ]
+ },
+ "らくご": {
+  "ph": "らくご",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "rakugo; traditional Japanese comic storytelling; comic story (told by a professional storyteller)"
+   }
+  ]
+ },
+ "らくごか": {
+  "ph": "らくごか",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "rakugo story teller; comic story teller"
+   }
+  ]
+ },
+ "らくさ": {
+  "ph": "らくさ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "difference in elevation (between two points in a body of water); head; drop (e.g. of a waterfall); fall distance"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "difference; gap"
+   }
+  ]
+ },
+ "らくさつ": {
+  "ph": "らくさつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "successful bid; winning a tender"
+   }
+  ]
+ },
+ "らくがき": {
+  "ph": "らくがき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "scrawl; scribble; graffiti; doodle"
+   }
+  ]
+ },
+ "らくだい": {
+  "ph": "らくだい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "failure (in an examination); failing to advance (to the next year)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "falling short of the standard; not making the grade"
+   }
+  ]
+ },
+ "らくたん": {
+  "ph": "らくたん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "discouragement; despondency; dejection; disappointment"
+   }
+  ]
+ },
+ "らくらい": {
+  "ph": "らくらい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "lightning strike; lightning bolt"
+   }
+  ]
+ },
+ "らくのう": {
+  "ph": "らくのう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dairy farming"
+   }
+  ]
+ },
+ "らんざつ": {
+  "ph": "らんざつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "disorder; confusion; clutter; mess"
+   }
+  ]
+ },
+ "らんとう": {
+  "ph": "らんとう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "confused fight; brawl; melee; scuffle"
+   }
+  ]
+ },
+ "らんぱつ": {
+  "ph": "らんぱつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "random firing; reckless firing"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "excessive issue"
+   }
+  ]
+ },
+ "らんぼう": {
+  "ph": "らんぼう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "violence; assault; rowdiness; wildness"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "rough (handling, language, etc.); reckless; careless; coarse"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "rape; sexual assault"
+   }
+  ]
+ },
+ "らん用": {
+  "ph": "らんよう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "abuse; misuse; misappropriation; using to excess"
+   }
+  ]
+ },
+ "らんよう": {
+  "ph": "らんよう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "abuse; misuse; misappropriation; using to excess"
+   }
+  ]
+ },
+ "らんりつ": {
+  "ph": "らんりつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "standing close together in a disorderly way (of buildings, etc.); standing side by side"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "standing (for election) in (excessively) large numbers; (too many candidates) competing with each other"
+   }
+  ]
+ },
+ "玉子": {
+  "ph": "たまご",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "eggs; egg; spawn; roe"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(hen's) egg"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "a ... in the making; future (lawyer, doctor, etc.); budding ..."
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "beginning; origin; infancy"
+   }
+  ]
+ },
+ "らんかん": {
+  "ph": "らんかん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "fallopian tube; oviduct"
+   }
+  ]
+ },
+ "らんし": {
+  "ph": "らんし",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ovum; ovule; egg cell"
+   }
+  ]
+ },
+ "らんそう": {
+  "ph": "らんそう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ovary"
+   }
+  ]
+ },
+ "らん": {
+  "ph": "らん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "section (e.g. in a newspaper); column; page"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "field (in a form, web page, etc.); blank"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "handrail; railing; banister; balustrade"
+   }
+  ]
+ },
+ "らんがい": {
+  "ph": "らんがい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "margin"
+   }
+  ]
+ },
+ "閉てる": {
+  "ph": "たてる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to stand (something) up; to put upright; to set up; to erect"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to thrust into; to bury into; to dig into"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to make (a noise); to let out; to produce (a sound)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to raise (a cloud of dust, smoke, etc.); to kick up; to stir up; to cause (waves, ripples, etc.)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to make (plans); to formulate (an idea); to lay out; to establish (a goal)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to spread (a rumor); to circulate"
+   }
+  ]
+ },
+ "遉": {
+  "ph": "さすが",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "as one would expect; just as you'd expect (from); just like (someone)"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "still; all the same; after all"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "even ... (e.g. \"even a genius\")"
+   }
+  ]
+ },
+ "有繋": {
+  "ph": "さすが",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "as one would expect; just as you'd expect (from); just like (someone)"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "still; all the same; after all"
+   },
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "even ... (e.g. \"even a genius\")"
+   }
+  ]
+ },
+ "凉しい": {
+  "ph": "すずしい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "cool; refreshing"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "clear (e.g. eyes); bright"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "clear; distinct"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "composed (facial expression); unruffled; unconcerned"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "pure; upright; innocent"
+   }
+  ]
+ },
+ "凉む": {
+  "ph": "すずむ",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to cool oneself; to cool off; to enjoy the cool air"
+   }
+  ]
+ },
+ "琉璃": {
+  "ph": "るり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "lapis lazuli"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "lapis lazuli (color)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "beryl"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "mall blue passerine bird (esp. the blue-and-white flycatcher and the Siberian blue robin, but also the red-flanked bluetail)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "glass"
+   }
+  ]
+ },
+ "廉価": {
+  "ph": "れんか",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "low price; moderate price"
+   }
+  ]
+ },
+ "廉売": {
+  "ph": "れんばい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bargain sale"
+   }
+  ]
+ },
+ "煉瓦": {
+  "ph": "れんが",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "brick"
+   }
+  ]
+ },
+ "煉る": {
+  "ph": "ねる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to knead; to thicken into a paste (stirring over a flame)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to polish (a plan, etc.); to refine; to elaborate; to work out"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to train; to drill; to exercise"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to gloss (silk); to soften; to degum"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to tan (leather)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to temper (steel)"
+   }
+  ]
+ },
+ "婉曲": {
+  "ph": "えんきょく",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "euphemistic; circumlocutory; periphrastic; roundabout"
+   }
+  ]
+ },
+ "拉致": {
+  "ph": "らち",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "taking captive; carrying away; kidnapping; kidnaping"
+   }
+  ]
+ },
+ "らち": {
+  "ph": "らち",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "taking captive; carrying away; kidnapping; kidnaping"
+   }
+  ]
+ },
+ "らっち": {
+  "ph": "らち",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "taking captive; carrying away; kidnapping; kidnaping"
+   }
+  ]
+ },
+ "揉む": {
+  "ph": "もむ",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to rub; to crumple"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to massage"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to argue; to have a heated discussion"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to train; to coach"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to jostle; to crowd; to shake; to rock"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to have various experiences (out in the world)"
+   }
+  ]
+ },
+ "揉める": {
+  "ph": "もめる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to disagree; to dispute; to fight (over)"
+   }
+  ]
+ },
+ "呉蓙": {
+  "ph": "ござ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "rush mat; matting; mat"
+   }
+  ]
+ },
+ "鉉": {
+  "ph": "つる",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bowstring"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "string (of shamisen, guitar, violin, etc.)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "bail (arched pot handle)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "diagonal levelling wire across the top of a masu"
+   }
+  ]
+ },
+ "三": {
+  "ph": "さん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three; 3"
+   }
+  ]
+ },
+ "三角形": {
+  "ph": "さんかくけい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "triangle"
+   }
+  ]
+ },
+ "三方": {
+  "ph": "さんぼう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three sides"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "small offering stand"
+   }
+  ]
+ },
+ "三味線": {
+  "ph": "しゃみせん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "shamisen; samisen; three-stringed Japanese lute"
+   }
+  ]
+ },
+ "姉妹": {
+  "ph": "しまい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "sisters"
+   }
+  ]
+ },
+ "草木": {
+  "ph": "くさき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "plants; vegetation"
+   }
+  ]
+ },
+ "等": {
+  "ph": "など",
+  "senses": [
+   {
+    "pos": "助詞",
+    "zh": "",
+    "def": "et cetera; etc.; and the like; and so forth"
+   },
+   {
+    "pos": "助詞",
+    "zh": "",
+    "def": "or something"
+   },
+   {
+    "pos": "助詞",
+    "zh": "",
+    "def": "the likes of"
+   },
+   {
+    "pos": "助詞",
+    "zh": "",
+    "def": "for example; for instance; for one"
+   }
+  ]
+ },
+ "らせん": {
+  "ph": "らせん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "spiral; helix"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "screw"
+   }
+  ]
+ },
+ "らいきゃく": {
+  "ph": "らいきゃく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "visitor; caller"
+   }
+  ]
+ },
+ "らいかく": {
+  "ph": "らいきゃく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "visitor; caller"
+   }
+  ]
+ },
+ "らいしゅん": {
+  "ph": "らいしゅん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "next spring"
+   }
+  ]
+ },
+ "らいはる": {
+  "ph": "らいしゅん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "next spring"
+   }
+  ]
+ },
+ "らくよう": {
+  "ph": "おちば",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "fallen leaves; leaf litter; falling leaves"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "leaf fall; dropping leaves; defoliation"
+   },
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "deciduous"
+   }
+  ]
+ },
+ "らんけい": {
+  "ph": "らんけい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "oval shape; egg shape"
+   }
+  ]
+ },
+ "有らゆる": {
+  "ph": "あらゆる",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "",
+    "def": "all; every"
+   }
+  ]
+ },
+ "有難う": {
+  "ph": "ありがとう",
+  "senses": [
+   {
+    "pos": "感嘆詞",
+    "zh": "",
+    "def": "thank you; thanks"
+   }
+  ]
+ },
+ "有り難う": {
+  "ph": "ありがとう",
+  "senses": [
+   {
+    "pos": "感嘆詞",
+    "zh": "",
+    "def": "thank you; thanks"
+   }
+  ]
+ },
+ "有りがとう": {
+  "ph": "ありがとう",
+  "senses": [
+   {
+    "pos": "感嘆詞",
+    "zh": "",
+    "def": "thank you; thanks"
+   }
+  ]
+ },
+ "按配": {
+  "ph": "あんばい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "seasoning; flavour; flavor; taste"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "condition; state; situation"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(state of) health; physical condition"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "arrangement; assignment; adjustment; handling"
+   }
+  ]
+ },
+ "按排": {
+  "ph": "あんばい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "seasoning; flavour; flavor; taste"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "condition; state; situation"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(state of) health; physical condition"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "arrangement; assignment; adjustment; handling"
+   }
+  ]
+ },
+ "安排": {
+  "ph": "あんばい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "seasoning; flavour; flavor; taste"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "condition; state; situation"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "(state of) health; physical condition"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "arrangement; assignment; adjustment; handling"
+   }
+  ]
+ },
+ "偉力": {
+  "ph": "いりょく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "power; might; authority; influence"
+   }
+  ]
+ },
+ "嘉留太": {
+  "ph": "かるた",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "karuta; traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta"
+   }
+  ]
+ },
+ "暉麗": {
+  "ph": "きれい",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "pretty; lovely; beautiful; fair"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "clean; clear; pure; tidy"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "completely; entirely"
+   }
+  ]
+ },
+ "倉": {
+  "ph": "くら",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "warehouse; storehouse; cellar; magazine"
+   }
+  ]
+ },
+ "載録": {
+  "ph": "さいろく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "recording; transcription"
+   }
+  ]
+ },
+ "閉め切り": {
+  "ph": "しめきり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "deadline; closing; cut-off"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "closing (a door, window, etc.)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cofferdam"
+   }
+  ]
+ },
+ "閉切り": {
+  "ph": "しめきり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "deadline; closing; cut-off"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "closing (a door, window, etc.)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "cofferdam"
+   }
+  ]
+ },
+ "閉め切る": {
+  "ph": "しめきる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to close up; to shut up (e.g. behind doors)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to cut off (e.g. because a deadline has expired); to close off (e.g. subscription list)"
+   }
+  ]
+ },
+ "閉切る": {
+  "ph": "しめきる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to close up; to shut up (e.g. behind doors)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to cut off (e.g. because a deadline has expired); to close off (e.g. subscription list)"
+   }
+  ]
+ },
+ "閉め出す": {
+  "ph": "しめだす",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to shut out; to bar; to lock out; to exclude"
+   }
+  ]
+ },
+ "閉めだす": {
+  "ph": "しめだす",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to shut out; to bar; to lock out; to exclude"
+   }
+  ]
+ },
+ "捉まえる": {
+  "ph": "つかまえる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to catch; to capture; to arrest; to seize"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to grab; to clutch; to grasp; to seize"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to catch hold of (someone); to stop (e.g. a stranger in the street); to hail (a taxi, waiter, etc.); to hold (someone) back"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "towards (someone); at (someone); in (someone's) face"
+   }
+  ]
+ },
+ "斉う": {
+  "ph": "ととのう",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be ready; to be prepared; to be arranged"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be in order; to be put in order; to be well-ordered; to be well-proportioned"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be adjusted; to be regulated; to be refined (e.g. of a face)"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be settled (e.g. treaty, contract); to be completed"
+   }
+  ]
+ },
+ "捉える": {
+  "ph": "とらえる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to catch; to capture; to seize; to arrest"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to grasp (e.g. meaning); to perceive; to capture (e.g. features)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to captivate; to move (one's heart)"
+   }
+  ]
+ },
+ "捉われる": {
+  "ph": "とらわれる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to be caught; to be captured; to be taken prisoner; to be arrested"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to be seized with (fear, etc.); to be a slave to; to stick to; to adhere to"
+   }
+  ]
+ },
+ "ドイツ": {
+  "ph": "ドイツ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "Germany"
+   }
+  ]
+ },
+ "ドロボー": {
+  "ph": "どろぼう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "thief; burglar; robber"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "theft; burglary; robbery"
+   }
+  ]
+ },
+ "載せる": {
+  "ph": "のせる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to place on (something)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to give (someone) a ride; to give a lift; to pick up; to help on board"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to load (luggage); to carry; to take on board"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to send out (on the airwaves, etc.)"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to deceive; to take for a ride"
+   },
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to (sing) along with (musical accompaniment)"
+   }
+  ]
+ },
+ "喉": {
+  "ph": "のど",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "throat"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "singing voice"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "gutter (inner margins of a book)"
+   }
+  ]
+ },
+ "誉める": {
+  "ph": "ほめる",
+  "senses": [
+   {
+    "pos": "一段動詞",
+    "zh": "",
+    "def": "to praise; to commend; to compliment; to speak well of"
+   }
+  ]
+ },
+ "有利": {
+  "ph": "ゆうり",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "advantageous; favourable; better; stronger"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "profitable; lucrative; gainful; paying"
+   }
+  ]
+ },
+ "吉い": {
+  "ph": "よい",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "good; excellent; fine; nice"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "sufficient; enough; ready; prepared"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "profitable (deal, business offer, etc.); beneficial"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "OK; all right; fine; no problem"
+   },
+   {
+    "pos": "接尾語",
+    "zh": "",
+    "def": "easy to ..."
+   }
+  ]
+ },
+ "らんかく": {
+  "ph": "らんかく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "overfishing; overhunting; indiscriminate fishing; indiscriminate hunting"
+   }
+  ]
+ },
+ "草食": {
+  "ph": "そうしょく",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "herbivorous; plant-eating; graminivorous"
+   }
+  ]
+ },
+ "有り合わせ": {
+  "ph": "ありあわせ",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "on hand; readily available"
+   }
+  ]
+ },
+ "有り合せ": {
+  "ph": "ありあわせ",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "on hand; readily available"
+   }
+  ]
+ },
+ "有りあわせ": {
+  "ph": "ありあわせ",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "on hand; readily available"
+   }
+  ]
+ },
+ "葉っぱ": {
+  "ph": "はっぱ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "leaf; blade (of grass); (pine) needle"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "marijuana; weed; cannabis"
+   }
+  ]
+ },
+ "有機物": {
+  "ph": "ゆうきぶつ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "organic matter"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "organic compound"
+   }
+  ]
+ },
+ "有耶無耶": {
+  "ph": "うやむや",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "indefinite; hazy; vague; unsettled"
+   }
+  ]
+ },
+ "ドラム缶": {
+  "ph": "ドラムかん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drum (e.g. oil, gasoline); metal barrel"
+   }
+  ]
+ },
+ "ドラムかん": {
+  "ph": "ドラムかん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "drum (e.g. oil, gasoline); metal barrel"
+   }
+  ]
+ },
+ "ドル買い": {
+  "ph": "ドルかい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dollar purchase"
+   }
+  ]
+ },
+ "ドルかい": {
+  "ph": "ドルかい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dollar purchase"
+   }
+  ]
+ },
+ "安らぐ": {
+  "ph": "やすらぐ",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to feel at ease"
+   }
+  ]
+ },
+ "安心感": {
+  "ph": "あんしんかん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "sense of security"
+   }
+  ]
+ },
+ "安芸": {
+  "ph": "あき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "Aki (former province located in the west of present-day Hiroshima Prefecture)"
+   }
+  ]
+ },
+ "草分け": {
+  "ph": "くさわけ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "pathfinder; trailblazer; early settler"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "pioneer; founder; originator; groundbreaker"
+   }
+  ]
+ },
+ "煉り": {
+  "ph": "ねり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "kneading; gloss; tempering"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "paste (e.g. bean paste, mustard paste)"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "parading of portable shrines and floats at festivals"
+   }
+  ]
+ },
+ "肉声": {
+  "ph": "にくせい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "natural voice (without a microphone)"
+   }
+  ]
+ },
+ "らくせん": {
+  "ph": "らくせん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "failing to be elected; election defeat; losing an election"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "not being accepted (for a prize, exhibition, etc.); rejection; failing to win a prize"
+   }
+  ]
+ },
+ "炉心": {
+  "ph": "ろしん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "nuclear reactor core"
+   }
+  ]
+ },
+ "三次": {
+  "ph": "さんじ",
+  "senses": [
+   {
+    "pos": "の形容詞",
+    "zh": "",
+    "def": "third"
+   },
+   {
+    "pos": "",
+    "zh": "",
+    "def": "tertiary"
+   },
+   {
+    "pos": "",
+    "zh": "",
+    "def": "cubic (function, equation, etc.); third-order"
+   }
+  ]
+ },
+ "三者": {
+  "ph": "さんしゃ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three persons; three parties"
+   }
+  ]
+ },
+ "三種": {
+  "ph": "さんしゅ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three kinds; three varieties"
+   }
+  ]
+ },
+ "三代": {
+  "ph": "さんだい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three generations; three periods"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "third generation"
+   }
+  ]
+ },
+ "三度": {
+  "ph": "さんど",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three times; thrice"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "third (interval)"
+   }
+  ]
+ },
+ "三部": {
+  "ph": "さんぶ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three parts; three copies"
+   }
+  ]
+ },
+ "三部作": {
+  "ph": "さんぶさく",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "trilogy"
+   }
+  ]
+ },
+ "有力者": {
+  "ph": "ゆうりょくしゃ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "influential person; man of importance"
+   }
+  ]
+ },
+ "築地": {
+  "ph": "ついじ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "mud wall with a roof; roofed mud wall"
+   }
+  ]
+ },
+ "築墻": {
+  "ph": "ついじ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "mud wall with a roof; roofed mud wall"
+   }
+  ]
+ },
+ "有事": {
+  "ph": "ゆうじ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "emergency"
+   }
+  ]
+ },
+ "有りがち": {
+  "ph": "ありがち",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "common; frequent"
+   }
+  ]
+ },
+ "有り勝ち": {
+  "ph": "ありがち",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "common; frequent"
+   }
+  ]
+ },
+ "三年": {
+  "ph": "さんねん",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "three years"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "third school year (e.g. of high school)"
+   }
+  ]
+ },
+ "三冠馬": {
+  "ph": "さんかんば",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "winner of Japan's three main horse races"
+   }
+  ]
+ },
+ "草刈り": {
+  "ph": "くさかり",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "mowing; mower"
+   }
+  ]
+ },
+ "らんばい": {
+  "ph": "らんばい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "selling at a fire-sale price; clearance sale; dumping"
+   }
+  ]
+ },
+ "らんちょう": {
+  "ph": "らんちょう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "confusion"
+   }
+  ]
+ },
+ "肉体的": {
+  "ph": "にくたいてき",
+  "senses": [
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "bodily; physical; corporeal"
+   },
+   {
+    "pos": "な形容詞",
+    "zh": "",
+    "def": "sexual; sensual; of the flesh"
+   }
+  ]
+ },
+ "等々": {
+  "ph": "とうとう",
+  "senses": [
+   {
+    "pos": "接尾語",
+    "zh": "",
+    "def": "etc.; et cetera; and so on"
+   }
+  ]
+ },
+ "等等": {
+  "ph": "とうとう",
+  "senses": [
+   {
+    "pos": "接尾語",
+    "zh": "",
+    "def": "etc.; et cetera; and so on"
+   }
+  ]
+ },
+ "三十": {
+  "ph": "さんじゅう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "thirty; 30"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "6am"
+   }
+  ]
+ },
+ "三〇": {
+  "ph": "さんじゅう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "thirty; 30"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "6am"
+   }
+  ]
+ },
+ "有りとあらゆる": {
+  "ph": "ありとあらゆる",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "every conceivable; every single; every possible; all kinds of"
+   }
+  ]
+ },
+ "有りと有らゆる": {
+  "ph": "ありとあらゆる",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "every conceivable; every single; every possible; all kinds of"
+   }
+  ]
+ },
+ "ら": {
+  "ph": "ら",
+  "senses": [
+   {
+    "pos": "接尾語",
+    "zh": "",
+    "def": "pluralizing suffix"
+   },
+   {
+    "pos": "接尾語",
+    "zh": "",
+    "def": "or so; rough indicator of direction, location, amount, etc."
+   },
+   {
+    "pos": "接尾語",
+    "zh": "",
+    "def": "nominalizing suffix"
+   }
+  ]
+ },
+ "有り得ない": {
+  "ph": "ありえない",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "impossible"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "unthinkable; unbelievable; ridiculous; absurd"
+   }
+  ]
+ },
+ "有得ない": {
+  "ph": "ありえない",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "impossible"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "unthinkable; unbelievable; ridiculous; absurd"
+   }
+  ]
+ },
+ "有りえない": {
+  "ph": "ありえない",
+  "senses": [
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "impossible"
+   },
+   {
+    "pos": "い形容詞",
+    "zh": "",
+    "def": "unthinkable; unbelievable; ridiculous; absurd"
+   }
+  ]
+ },
+ "拉致問題": {
+  "ph": "らちもんだい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "abduction issue (esp. of those Japanese abducted by North Korea)"
+   }
+  ]
+ },
+ "らちもんだい": {
+  "ph": "らちもんだい",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "abduction issue (esp. of those Japanese abducted by North Korea)"
+   }
+  ]
+ },
+ "ドッグフード": {
+  "ph": "ドッグフード",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dog food"
+   }
+  ]
+ },
+ "ドッグ・フード": {
+  "ph": "ドッグフード",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dog food"
+   }
+  ]
+ },
+ "ドックフード": {
+  "ph": "ドッグフード",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dog food"
+   }
+  ]
+ },
+ "変更届": {
+  "ph": "へんこうとどけ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "notification of change; alteration report; registration of modification"
+   }
+  ]
+ },
+ "変更届け": {
+  "ph": "へんこうとどけ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "notification of change; alteration report; registration of modification"
+   }
+  ]
+ },
+ "光学式文字認識": {
+  "ph": "こうがくしきもじにんしき",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "optical character recognition; OCR"
+   }
+  ]
+ },
+ "有って無い": {
+  "ph": "あってない",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "lacking in some desired property (size, usefulness, etc.)"
+   }
+  ]
+ },
+ "ドクターヘリ": {
+  "ph": "ドクターヘリ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "air ambulance; helicopter emergency medical service; helicopter ambulance"
+   }
+  ]
+ },
+ "ドクター・ヘリ": {
+  "ph": "ドクターヘリ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "air ambulance; helicopter emergency medical service; helicopter ambulance"
+   }
+  ]
+ },
+ "載る": {
+  "ph": "のる",
+  "senses": [
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to be placed on; to be set on; to be piled on; to be loaded on"
+   },
+   {
+    "pos": "五段動詞",
+    "zh": "",
+    "def": "to appear (in print); to be mentioned; to be recorded; to be reported"
+   }
+  ]
+ },
+ "琉球": {
+  "ph": "りゅうきゅう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "Ryukyu; chain of southwestern Japanese islands comprising Okinawa Prefecture"
+   }
+  ]
+ },
+ "三十一日": {
+  "ph": "さんじゅういちにち",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "31st day of the month"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "31 days"
+   }
+  ]
+ },
+ "三一日": {
+  "ph": "さんじゅういちにち",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "31st day of the month"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "31 days"
+   }
+  ]
+ },
+ "ドッグラン": {
+  "ph": "ドッグラン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dog park"
+   }
+  ]
+ },
+ "ドッグ・ラン": {
+  "ph": "ドッグラン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dog park"
+   }
+  ]
+ },
+ "ドックラン": {
+  "ph": "ドッグラン",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "dog park"
+   }
+  ]
+ },
+ "有難うございました": {
+  "ph": "ありがとうございました",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "thank you"
+   }
+  ]
+ },
+ "有り難うございました": {
+  "ph": "ありがとうございました",
+  "senses": [
+   {
+    "pos": "慣用表現",
+    "zh": "",
+    "def": "thank you"
+   }
+  ]
+ },
+ "ドブ": {
+  "ph": "どぶ",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "ditch; drain; gutter; trench"
+   },
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "gap (between cutting guides)"
+   }
+  ]
+ },
+ "ドドン": {
+  "ph": "ドドン",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "with a boom; with a crash; with a rumble"
+   }
+  ]
+ },
+ "ドドーン": {
+  "ph": "ドドン",
+  "senses": [
+   {
+    "pos": "副詞",
+    "zh": "",
+    "def": "with a boom; with a crash; with a rumble"
+   }
+  ]
+ },
+ "有効活用": {
+  "ph": "ゆうこうかつよう",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "",
+    "def": "effective use; making effective use (of)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "pc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "個人計算機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 外部控制, 個人計算機, 光電導體, 偽碼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pcs"
+ },
+ "pca": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "汙染控制局（Pollution Control Agency）；極地冷空氣堆吸收, 極冠吸收（Polar Cap Absorption）；波特蘭水泥協會（Portland Cement Association）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pcas"
+ },
+ "pcb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "零用現金簿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 印製電路板, 過程控制塊, 程式控制塊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pcbs"
+ },
+ "pcc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "程式控制電腦（program-controlled computer）；（美）物價管理委員會（Price Control Commission）；政治協商會議（Political Consulative Conference）",
+    "def": ""
+   }
+  ]
+ },
+ "pcf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 程式控制裝置",
+    "def": ""
+   }
+  ]
+ },
+ "pcp": {
+  "ph": "/,pi:si:'pi:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "五氯苯酚（pentachlorophenol, 一種迷幻藥）；苯環己哌啶（phencyclidine, 等於angel dust, 醫用麻醉藥）；主控程式（Primary Control Program）",
+    "def": ""
+   }
+  ]
+ },
+ "pcr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "光電導繼電器（Photo-conductive Relay）；程式控制暫存器（program control register）",
+    "def": ""
+   }
+  ]
+ },
+ "pcw": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製程冷卻水；物理化學加工",
+    "def": ""
+   }
+  ]
+ },
+ "pcx": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖形檔案（DOS副檔名）",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "周視凸面（periscope convex）",
+    "def": ""
+   }
+  ]
+ }
+}

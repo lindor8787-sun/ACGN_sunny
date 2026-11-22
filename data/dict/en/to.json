@@ -1,0 +1,4855 @@
+{
+ "to": {
+  "ph": "/tu:/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "到, 向, 趨於",
+    "def": "The preposition to primarily indicates approach and arrival,"
+   },
+   {
+    "pos": "adv.",
+    "zh": "向前",
+    "def": ""
+   }
+  ]
+ },
+ "toad": {
+  "ph": "/tәud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蟾蜍, 癩蛤蟆, 討厭的傢伙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toads｜第三人稱單數 toads"
+ },
+ "toadstool": {
+  "ph": "/'tәudstu:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傘菌",
+    "def": "common name for an inedible or poisonous agaric (contrasting with the edible mushroom)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 傘菌(蕈狀毒菌)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toadstools"
+ },
+ "toady": {
+  "ph": "/'tәudi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "諂媚者, 馬屁精",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "諂媚, 拍馬屁",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 toadying｜複數 toadies｜過去分詞 toadied｜過去式 toadied｜第三人稱單數 toadies"
+ },
+ "toast": {
+  "ph": "/tәust/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吐司, 烤麵包, 乾杯",
+    "def": "slices of bread that have been toasted"
+   },
+   {
+    "pos": "vt.",
+    "zh": "敬酒, 烤, 使暖和",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "烤, 烘",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 toasting｜複數 toasts｜過去式 toasted｜過去分詞 toasted｜第三人稱單數 toasts"
+ },
+ "toasted": {
+  "ph": "/təustid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "向…祝酒, 為…乾杯( toast的過去式和過去分詞 ); 烤火, 取暖, 使暖和",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 toasted｜過去分詞 toasted"
+ },
+ "toaster": {
+  "ph": "/'tәjstә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烤麵包器, 烤麵包爐, 祝酒人",
+    "def": "someone who proposes a toast; someone who drinks to the health of success of someone or some venture"
+   }
+  ],
+  "forms": "複數 toasters"
+ },
+ "toasting": {
+  "ph": "/təustɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "向…祝酒, 為…乾杯( toast的現在分詞 ); 烤火, 取暖, 使暖和",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 toasting"
+ },
+ "toastmaster": {
+  "ph": "/'tәjstmɑ:stә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宴會主持人",
+    "def": "the person who proposes toasts and introduces speakers at a banquet"
+   }
+  ],
+  "forms": "複數 toastmasters"
+ },
+ "toasty": {
+  "ph": "/ˈtəʊsti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溫暖舒適的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toasties"
+ },
+ "tobacco": {
+  "ph": "/tә'bækәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菸草, 香菸",
+    "def": "leaves of the tobacco plant dried and prepared for smoking or ingestion"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 菸草",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tobaccos"
+ },
+ "tobacconist": {
+  "ph": "/tә'bækәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菸草商",
+    "def": "a retail dealer in tobacco and tobacco-related articles"
+   }
+  ],
+  "forms": "複數 tobacconists"
+ },
+ "tobago": {
+  "ph": "/tә'bei^әj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多巴哥島（南美洲千里達及托巴哥的第二大島）",
+    "def": "island in West Indies"
+   }
+  ]
+ },
+ "tobermory": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "託伯莫里",
+    "def": ""
+   }
+  ]
+ },
+ "tobia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tobia)人名；(西)托維亞；(意)託比亞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tobias"
+ },
+ "tobin": {
+  "ph": "/'tәubin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(=tobin's tube, tobin's ventilator)託賓式室內通風機",
+    "def": ""
+   }
+  ]
+ },
+ "toboggan": {
+  "ph": "/tә'bɔ^әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平底雪橇",
+    "def": "a long narrow sled without runners; boards curve upward in front"
+   },
+   {
+    "pos": "vi.",
+    "zh": "突然下降",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toboggans｜現在分詞 tobogganing｜過去式 tobogganed｜第三人稱單數 toboggans｜過去分詞 tobogganed"
+ },
+ "tobruk": {
+  "ph": "/'tәubruk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "託布魯克[利比亞東北部港市]",
+    "def": ""
+   }
+  ]
+ },
+ "toby": {
+  "ph": "/'tәubi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人形水罐",
+    "def": "a drinking mug in the shape of a stout man wearing a three-cornered hat"
+   }
+  ]
+ },
+ "tock": {
+  "ph": "/tɔk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "託科鳥",
+    "def": ""
+   }
+  ]
+ },
+ "tocopherol": {
+  "ph": "/tәu'kɔfәrәul/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 生育酚; 維生素E",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生育酚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tocopherols"
+ },
+ "tocotrienol": {
+  "ph": "/'təʊkəʊtrɪənɒl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]生育三烯酸",
+    "def": ""
+   }
+  ]
+ },
+ "tocqueville": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "托克維爾(人名）",
+    "def": ""
+   }
+  ]
+ },
+ "tod": {
+  "ph": "/tɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狐, 託德(羊毛重量單位), 叢",
+    "def": "a unit of weight for wool equal to about 28 pounds"
+   }
+  ]
+ },
+ "today": {
+  "ph": "/tә'dei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "今天, 當今, 現在",
+    "def": "the present time or age"
+   },
+   {
+    "pos": "adv.",
+    "zh": "今天, 當今",
+    "def": ""
+   }
+  ],
+  "forms": "複數 todays"
+ },
+ "todd": {
+  "ph": "/tɔd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "託德（姓氏, 英國化學家, 曾獲1957年諾貝爾化學獎）",
+    "def": "Scottish chemist noted for his research into the structure of nucleic acids (born in 1907)"
+   }
+  ]
+ },
+ "toddle": {
+  "ph": "/'tɒdl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "東倒西歪地走, 蹣跚學步, 溜達",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "東倒西歪的走路, 蹣跚",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 toddling｜過去式 toddled｜第三人稱單數 toddles｜複數 toddles｜過去分詞 toddled"
+ },
+ "toddler": {
+  "ph": "/'tɔdlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蹣跚行走的人, 學步的小孩, 學步的幼兒, (非正式)信步走的人",
+    "def": "a young child"
+   }
+  ],
+  "forms": "複數 toddlers"
+ },
+ "toddy": {
+  "ph": "/'tɒdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "棕櫚汁, 棕櫚酒",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 棕櫚汁; 棕櫚酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toddies"
+ },
+ "todorov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "託多洛夫（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "toe": {
+  "ph": "/tәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "足趾, 趾部, 腳趾",
+    "def": "one of the digits of the foot"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以趾踏觸, 用腳尖走",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "動腳尖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toes｜過去式 toed｜現在分詞 toeing｜過去分詞 toed｜第三人稱單數 toes"
+ },
+ "toecap": {
+  "ph": "/ˈtəʊkæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋尖裝飾, 鞋頭",
+    "def": "a protective leather or steel cover for the toe of a boot or shoe, reinforcing or decorating it"
+   }
+  ],
+  "forms": "複數 toecaps｜過去式 toecapped"
+ },
+ "toed": {
+  "ph": "/tәjd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有趾的, 斜著釘進去的",
+    "def": "having a toe or toes of a specified kind; often used in combination"
+   }
+  ]
+ },
+ "toehold": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不穩的小立足點, 克服困難的辦法, 微小的優勢",
+    "def": "a relatively insignificant position from which future progress might be made"
+   }
+  ],
+  "forms": "複數 toeholds"
+ },
+ "toenail": {
+  "ph": "/'tәuneil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳趾甲, 斜釘",
+    "def": "the nail at the end of a toe"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 趾甲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toenails｜現在分詞 toenailing｜過去式 toenailed｜第三人稱單數 toenails｜過去分詞 toenailed"
+ },
+ "toepiece": {
+  "ph": "/'tәjpi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋尖裝飾, 鞋頭",
+    "def": ""
+   }
+  ]
+ },
+ "toff": {
+  "ph": "/tɒf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花花公子, 有錢人, 愛打扮的人",
+    "def": "informal term for an upper-class or wealthy person"
+   }
+  ],
+  "forms": "複數 toffs｜第三人稱單數 toffs"
+ },
+ "toffee": {
+  "ph": "/'tɒfi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳脂糖, 太妃糖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toffees"
+ },
+ "toft": {
+  "ph": "/tɔft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宅地, 屋基",
+    "def": "A knoll or hill."
+   },
+   {
+    "pos": "",
+    "zh": "[法] 屋基, 宅地, 小丘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tofts"
+ },
+ "tofu": {
+  "ph": "/'tәufu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豆腐",
+    "def": ""
+   }
+  ]
+ },
+ "tog": {
+  "ph": "/tɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣服",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "給穿上",
+    "def": ""
+   }
+  ],
+  "forms": "複數 togs｜過去式 togged｜過去分詞 togged｜現在分詞 togging｜第三人稱單數 togs"
+ },
+ "toga": {
+  "ph": "/'tәugә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寬外袍, 參議員的職位",
+    "def": "a one-piece cloak worn by men in ancient Rome"
+   }
+  ],
+  "forms": "複數 togas"
+ },
+ "together": {
+  "ph": "/tә'geðә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "一起, 共同, 彼此",
+    "def": ""
+   }
+  ]
+ },
+ "togetherness": {
+  "ph": "/tә'^eðәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "和睦, 友好",
+    "def": "affectionate closeness"
+   }
+  ]
+ },
+ "toggle": {
+  "ph": "/'tɒgl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "繩針, 套索釘",
+    "def": "any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time"
+   },
+   {
+    "pos": "vt.",
+    "zh": "拴牢",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 切換",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toggles｜過去分詞 toggled｜現在分詞 toggling｜第三人稱單數 toggles｜過去式 toggled"
+ },
+ "togo": {
+  "ph": "/'tәu^әu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多哥（西非國家）",
+    "def": "a republic on the western coast of Africa on the Gulf of Guinea; formerly under French control"
+   }
+  ]
+ },
+ "togolese": {
+  "ph": "/,təuɡəu'li:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多哥人",
+    "def": "a native or inhabitant of Togo"
+   },
+   {
+    "pos": "adj.",
+    "zh": "多哥的；多哥人的",
+    "def": "of or relating to the African country of Togo or its people"
+   }
+  ]
+ },
+ "toil": {
+  "ph": "/tɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛苦, 苦工, 網, 羅網, 圈套",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "苦幹, 跋涉",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 toiled｜複數 toils｜現在分詞 toiling｜過去分詞 toiled｜第三人稱單數 toils"
+ },
+ "toile": {
+  "ph": "/twɑ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種棉質印花布；一種薄麻布",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toiles"
+ },
+ "toiler": {
+  "ph": "/'tɒilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛苦工作的人, 勞動者",
+    "def": "one who works strenuously"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 勞動者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toilers"
+ },
+ "toilet": {
+  "ph": "/'tɒilit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廁所, 梳妝",
+    "def": "a room or building equipped with one or more toilets"
+   },
+   {
+    "pos": "vi.",
+    "zh": "梳妝, 打扮, 上廁所",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...梳妝打扮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toilets"
+ },
+ "toileting": {
+  "ph": "/ˈtɔɪlɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廁所, 盥洗室；梳妝, 打扮",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "梳妝, 打扮",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "給…梳妝打扮",
+    "def": ""
+   }
+  ]
+ },
+ "toiletry": {
+  "ph": "/'tɔilitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "化妝用品, 梳妝用具, 化妝用具",
+    "def": "artifacts used in making your toilet (washing and taking care of your body)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 化妝用品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toiletries"
+ },
+ "toilette": {
+  "ph": "/twɑ:'let/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "化妝, 打扮",
+    "def": ""
+   }
+  ]
+ },
+ "toiling": {
+  "ph": "/'tɔɪlɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "長時間或辛苦地工作( toil的現在分詞 ); 艱難緩慢地移動, 跋涉",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 toiling｜複數 toilings"
+ },
+ "toilsome": {
+  "ph": "/'tɒilsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "費力的, 辛苦的, 勞苦的",
+    "def": ""
+   }
+  ]
+ },
+ "tokai": {
+  "ph": "/'tɔkei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(匈牙利產)託開葡萄酒",
+    "def": ""
+   }
+  ]
+ },
+ "tokamak": {
+  "ph": "/'tɔkәmæk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 託卡馬克; 託卡馬克磁約束聚變環流器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tokamaks"
+ },
+ "toke": {
+  "ph": "/tәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[英俚]食物；[美俚]一口煙；賭場小費",
+    "def": "a puff of a marijuana or hashish cigarette"
+   }
+  ],
+  "forms": "現在分詞 toking｜複數 tokes"
+ },
+ "token": {
+  "ph": "/'tәukәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表徵, 記號, 代幣",
+    "def": "an individual instance of a type of symbol"
+   },
+   {
+    "pos": "adj.",
+    "zh": "象徵的, 表意的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 記號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tokens"
+ },
+ "tokenism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝門面, 表面文章",
+    "def": ""
+   }
+  ]
+ },
+ "tokugawa": {
+  "ph": "/'tәjku:'^ɑ:wɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "德川(建立日本德川幕府的德川家族)",
+    "def": ""
+   }
+  ]
+ },
+ "tokyo": {
+  "ph": "/'tәukjәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東京",
+    "def": "the capital and largest city of Japan; the economic and cultural center of Japan"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 東京",
+    "def": ""
+   }
+  ]
+ },
+ "told": {
+  "ph": "/tәuld/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "tell的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 told｜過去分詞 told｜複數 tolds"
+ },
+ "tole": {
+  "ph": "/tәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬口鐵, 金屬薄片",
+    "def": "enameled or lacquered metalware (usually gilded and elaborately painted); popular in the 18th century"
+   }
+  ]
+ },
+ "toledo": {
+  "ph": "/tә'li:dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "托萊多（美國港市）",
+    "def": "an industrial city in northwestern Ohio on Lake Erie"
+   }
+  ]
+ },
+ "tolerability": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可忍性, 尚可",
+    "def": ""
+   }
+  ]
+ },
+ "tolerable": {
+  "ph": "/'tɒlәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可容忍的, 可以的",
+    "def": "capable of being borne or endured"
+   }
+  ]
+ },
+ "tolerably": {
+  "ph": "/'tɒlәrәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可容忍地, 差不多地, 相當地",
+    "def": ""
+   }
+  ]
+ },
+ "tolerance": {
+  "ph": "/'tɒlәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寬容, 忍受, 容忍, 容許量, 公差",
+    "def": "the power or capacity of an organism to tolerate unfavorable environmental conditions"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 允許誤差",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tolerances"
+ },
+ "tolerant": {
+  "ph": "/'tɒlәrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "寬容的, 容忍的, (對冷、熱)能耐的",
+    "def": "showing respect for the rights or opinions or practices of others"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 能耐受的",
+    "def": ""
+   }
+  ]
+ },
+ "tolerantly": {
+  "ph": "/'tɔlərəntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "寬容地, 容忍地",
+    "def": ""
+   }
+  ]
+ },
+ "tolerate": {
+  "ph": "/'tɒlәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "寬容, 容許, 有耐力",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tolerated｜過去式 tolerated｜現在分詞 tolerating｜第三人稱單數 tolerates"
+ },
+ "toleration": {
+  "ph": "/.tɒlә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寬容, 預設, 信仰自由",
+    "def": "a disposition to tolerate or accept people or situations"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 耐量; 耐受性, 耐力",
+    "def": ""
+   }
+  ]
+ },
+ "tolkien": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tolkien)人名；(英)托爾金",
+    "def": "British philologist and writer of fantasies (born in South Africa) (1892-1973)"
+   },
+   {
+    "pos": "",
+    "zh": "托爾金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tolkiens"
+ },
+ "toll": {
+  "ph": "/tәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通行費, 代價, 鐘聲",
+    "def": "a fee levied for the use of roads or bridges (used for maintenance)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "徵收, 敲鐘, 鳴鐘, 勾引, 引誘",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "徵稅, 鳴鐘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tolls｜過去式 tolled｜現在分詞 tolling｜第三人稱單數 tolls｜過去分詞 tolled"
+ },
+ "tollbooth": {
+  "ph": "/'tәulbu:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "收費亭",
+    "def": "a booth at a tollgate where the toll collector collects tolls"
+   }
+  ]
+ },
+ "tolling": {
+  "ph": "/təulɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[財]來料加工",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tolling"
+ },
+ "tollway": {
+  "ph": "/'tәjlwei,'tɔl-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>收費公路",
+    "def": ""
+   }
+  ]
+ },
+ "tolpuddle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] [英國] 托爾帕德爾",
+    "def": ""
+   }
+  ]
+ },
+ "tolstoy": {
+  "ph": "/'tɔlstɔi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "托爾斯泰（俄國小說家）",
+    "def": "Russian author remembered for two great novels (1828-1910)"
+   }
+  ]
+ },
+ "toluene": {
+  "ph": "/'tɔljui:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甲苯",
+    "def": "a colorless flammable liquid obtained from petroleum or coal tar; used as a solvent for gums and lacquers and in high-octane fuels"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 甲苯",
+    "def": ""
+   }
+  ]
+ },
+ "tom": {
+  "ph": "/tɒm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雄性動物, 雄貓",
+    "def": "(ethnic slur) offensive and derogatory name for a Black man who is abjectly servile and deferential to Whites"
+   }
+  ],
+  "forms": "複數 toms"
+ },
+ "tomahawk": {
+  "ph": "/'tɒmәhɒ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(印第安)戰斧, 短柄小斧",
+    "def": "weapon consisting of a fighting ax; used by North American Indians"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用戰斧斬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tomahawks"
+ },
+ "tomas": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "托馬斯",
+    "def": ""
+   }
+  ]
+ },
+ "tomatillo": {
+  "ph": "/,tәumә'ti:lәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]粘果酸漿",
+    "def": "Mexican annual naturalized in eastern North America having yellow to purple edible fruit resembling small tomatoes"
+   }
+  ]
+ },
+ "tomato": {
+  "ph": "/tә'mɑ:tәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "番茄, 西紅柿",
+    "def": "mildly acid red or yellow pulpy fruit eaten as a vegetable"
+   }
+  ],
+  "forms": "複數 tomatoes"
+ },
+ "tomb": {
+  "ph": "/tu:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墳墓, 死亡",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "埋葬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tombs"
+ },
+ "tombola": {
+  "ph": "/'tɒmbәlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "\"翻筋斗\"賭戲",
+    "def": "a lottery in which tickets are drawn from a revolving drum"
+   }
+  ],
+  "forms": "複數 tombolas"
+ },
+ "tomboy": {
+  "ph": "/'tɒmbɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "似男孩的頑皮姑娘, 假小子",
+    "def": "a girl who behaves in a boyish manner"
+   }
+  ],
+  "forms": "複數 tomboys"
+ },
+ "tomboyish": {
+  "ph": "/'tɔm,bɔiiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頑皮的, 放肆的",
+    "def": ""
+   }
+  ]
+ },
+ "tombstone": {
+  "ph": "/'tu:mstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墓石, 墓碑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 墓碑, 墓誌銘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tombstones"
+ },
+ "tomcat": {
+  "ph": "/'tɒmkæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雄貓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tomcats"
+ },
+ "tome": {
+  "ph": "/tәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冊, 卷, 大本書",
+    "def": "a (usually) large and scholarly book"
+   }
+  ],
+  "forms": "複數 tomes"
+ },
+ "tomfoolery": {
+  "ph": "/tɒm'fu:lәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愚蠢的舉動, 無聊的小玩意",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tomfooleries"
+ },
+ "tomlin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "湯姆林",
+    "def": ""
+   }
+  ]
+ },
+ "tomlinson": {
+  "ph": "/'tɔmlinsn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "湯姆林森(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "tommaso": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tommaso)人名；(法、意)托馬索",
+    "def": ""
+   }
+  ]
+ },
+ "tommy": {
+  "ph": "/'tɒmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "配給麵包, 實物工資制",
+    "def": "Bread, -- generally a penny roll; the supply of food carried"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 實物工資制",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tommies"
+ },
+ "tomographic": {
+  "ph": "/,təumə'ɡræfik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]DSA體層攝影數字減影血管造影（術）",
+    "def": ""
+   }
+  ]
+ },
+ "tomography": {
+  "ph": "/tә'mɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "X線斷層攝影術",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] X線體層照相術, X線斷層照相術",
+    "def": ""
+   }
+  ]
+ },
+ "tomorrow": {
+  "ph": "/tә'mɒ:rәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "明天, 未來",
+    "def": "the day after today"
+   },
+   {
+    "pos": "adv.",
+    "zh": "明天, 未來地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tomorrows"
+ },
+ "tompkins": {
+  "ph": "/'tɔmpkinz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "湯普金斯(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "ton": {
+  "ph": "/tʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 噸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tons｜現在分詞 toning｜比較級 tonner"
+ },
+ "tonal": {
+  "ph": "/'tәunl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "音調的, 色調的",
+    "def": "having tonality; i.e. tones and chords organized in relation to one tone such as a keynote or tonic"
+   }
+  ]
+ },
+ "tonality": {
+  "ph": "/tәu'næliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音調, 色調",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tonalities"
+ },
+ "tonally": {
+  "ph": "/'tәunәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在調子上, 就音色方面",
+    "def": ""
+   }
+  ]
+ },
+ "tonbridge": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tonbridge)人名；(英)湯布里奇",
+    "def": ""
+   }
+  ]
+ },
+ "tondo": {
+  "ph": "/'tɔndәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓形的浮雕或畫",
+    "def": ""
+   }
+  ]
+ },
+ "tone": {
+  "ph": "/tәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音調, 音質, 語調, 語氣, 色調, 氣氛, 狀況, 思想狀態",
+    "def": "the quality of a person's voice"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...定色調, 增強, 使...的聲調和諧, 定音調",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "顏色調和",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 雙音訊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tones｜過去分詞 toned｜過去式 toned｜第三人稱單數 tones｜現在分詞 toning"
+ },
+ "toned": {
+  "ph": "/'tәund/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有聲調的, 年久變色的",
+    "def": "having or distinguished by a tone; often used in combination"
+   }
+  ],
+  "forms": "過去式 toned"
+ },
+ "toneless": {
+  "ph": "/'tәunlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "缺乏聲調的, 單調的, 沉悶的",
+    "def": "lacking in tone or expression"
+   }
+  ]
+ },
+ "tonelessly": {
+  "ph": "/'təʊnləslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "聲調平板地",
+    "def": ""
+   }
+  ]
+ },
+ "toner": {
+  "ph": "/'tәunә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "調色劑",
+    "def": "a solution containing chemicals that can change the color of a photographic print"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 增色劑; 色粉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toners"
+ },
+ "tones": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲調；基本音色（tone的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "tong": {
+  "ph": "/tɒŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉗子, 幫會",
+    "def": "Alt. of Tonge"
+   },
+   {
+    "pos": "v.",
+    "zh": "用鉗子鉗起",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tongs｜現在分詞 tonging"
+ },
+ "tonga": {
+  "ph": "/'tɔŋ^ә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 雅司病",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tongas"
+ },
+ "tongs": {
+  "ph": "/tɔŋz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉗子, 夾具",
+    "def": "any of various devices for taking hold of objects; usually have two hinged legs with handles above and pointed hooks below"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鉗",
+    "def": ""
+   }
+  ]
+ },
+ "tongue": {
+  "ph": "/tʌŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舌, 語言能力, 講話方式, 語言",
+    "def": "a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity"
+   },
+   {
+    "pos": "vt.",
+    "zh": "舔, 斥責, 發...的音",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "使用舌頭, 吹管樂器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tongues｜現在分詞 tonguing｜過去式 tongued｜第三人稱單數 tongues｜過去分詞 tongued"
+ },
+ "tongued": {
+  "ph": "/tʌŋd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有...舌頭的, 有...說話方式的",
+    "def": "provided with or resembling a tongue; often used in combination"
+   }
+  ],
+  "forms": "過去分詞 tongued"
+ },
+ "tongueless": {
+  "ph": "/'tʌŋlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有舌頭的, 緘默的, 啞的",
+    "def": "lacking a tongue"
+   }
+  ]
+ },
+ "toni": {
+  "ph": "/'tәuni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "託妮（女子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toni"
+ },
+ "tonic": {
+  "ph": "/'tɒnik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "補藥, (音樂)主調音或基音",
+    "def": "lime- or lemon-flavored carbonated water containing quinine"
+   },
+   {
+    "pos": "adj.",
+    "zh": "滋補的, 聲調的, 使精神振作的",
+    "def": "of or relating to or producing normal tone or tonus in muscles or tissue"
+   }
+  ],
+  "forms": "複數 tonics"
+ },
+ "tonier": {
+  "ph": "/ˈtəuniə/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高貴的, 時髦的( tony的比較級 )",
+    "def": ""
+   }
+  ]
+ },
+ "toniest": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高貴的, 時髦的( tony的最高階 )",
+    "def": ""
+   }
+  ]
+ },
+ "tonight": {
+  "ph": "/tә'nait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "今晚, 今夜",
+    "def": "the present or immediately coming night"
+   },
+   {
+    "pos": "adv.",
+    "zh": "今晚, 今夜",
+    "def": ""
+   }
+  ]
+ },
+ "toning": {
+  "ph": "/'tәuniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過調；調色；化妝水, 爽膚水",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 toning"
+ },
+ "tonkin": {
+  "ph": "/'tɔn'kin,'tɔŋ-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東京(越南北部一地區的舊稱)",
+    "def": ""
+   }
+  ]
+ },
+ "tonks": {
+  "ph": "/tɔŋk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "[英國俚語]猛打；徹底擊敗",
+    "def": ""
+   }
+  ]
+ },
+ "tonnage": {
+  "ph": "/'tʌnidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噸位",
+    "def": "a tax imposed on ships that enter the US; based on the tonnage of the ship"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 噸位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tonnages｜第三人稱單數 tonnages"
+ },
+ "tonne": {
+  "ph": "/tʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噸, 公噸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 噸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tonnes"
+ },
+ "tonneau": {
+  "ph": "/'tɒnәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汽車後面有座位的部分",
+    "def": ""
+   }
+  ]
+ },
+ "tonsil": {
+  "ph": "/'tɒnsl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扁桃體",
+    "def": "either of two masses of lymphatic tissue one on each side of the oral pharynx"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 扁桃體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tonsils｜第三人稱單數 tonsils"
+ },
+ "tonsillar": {
+  "ph": "/'tɔnsilә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 扁桃體的",
+    "def": ""
+   }
+  ]
+ },
+ "tonsillectomy": {
+  "ph": "/.tɒnsi'lektәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扁桃體切除術",
+    "def": "surgical removal of the palatine tonsils; commonly performed along with adenoidectomy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 扁桃體切除術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tonsillectomies"
+ },
+ "tonsillitis": {
+  "ph": "/.tɒnsi'laitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扁桃腺炎",
+    "def": "inflammation of the tonsils (especially the palatine tonsils)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 扁桃體炎",
+    "def": ""
+   }
+  ]
+ },
+ "tonsorial": {
+  "ph": "/tɒn'sɒ:riәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "理髮師的, 理髮的",
+    "def": "of or relating to barbers and barbering"
+   }
+  ]
+ },
+ "tonsure": {
+  "ph": "/'tɒnʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剃髮, 剃去頭髮的部分, 削髮儀式",
+    "def": "the shaved crown of a monk's or priest's head"
+   },
+   {
+    "pos": "vt.",
+    "zh": "剃",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tonsured｜複數 tonsures｜過去式 tonsured｜現在分詞 tonsuring｜第三人稱單數 tonsures"
+ },
+ "tonus": {
+  "ph": "/'tәunәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 緊張",
+    "def": ""
+   }
+  ]
+ },
+ "tony": {
+  "ph": "/'tәuni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高貴的, 時髦的",
+    "def": ""
+   }
+  ]
+ },
+ "too": {
+  "ph": "/tu:/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "也, 非常, 太",
+    "def": ""
+   }
+  ]
+ },
+ "tool": {
+  "ph": "/tu:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工具, 機床, 傀儡",
+    "def": "an implement used in the practice of a vocation"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用工具加工",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "使用工具",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tools｜現在分詞 tooling｜過去式 tooled｜第三人稱單數 tools｜過去分詞 tooled"
+ },
+ "toolbar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 工具欄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toolbars"
+ },
+ "toolbox": {
+  "ph": "/'tu:lbɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工具箱",
+    "def": "a box or chest or cabinet for holding hand tools"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 工具箱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toolboxes"
+ },
+ "tooled": {
+  "ph": "/tu:ld/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用工具給…加工（tool的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tooled"
+ },
+ "tooling": {
+  "ph": "/'tu:liŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機床安裝",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tooling"
+ },
+ "toolkit": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 工具包",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toolkits｜第三人稱單數 toolkits"
+ },
+ "toolmaker": {
+  "ph": "/ˈtu:lmeɪkə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精密工具製造者",
+    "def": "someone skilled in making or repairing tools"
+   }
+  ],
+  "forms": "複數 toolmakers"
+ },
+ "tools": {
+  "ph": "/tu:lz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工具, 工具選單；工具箱（tool的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "toolshed": {
+  "ph": "/'tu:lʃed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(園藝工具等的)工具房,工具室",
+    "def": "a shed for storing tools"
+   }
+  ]
+ },
+ "toon": {
+  "ph": "/tu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紅椿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toons"
+ },
+ "toot": {
+  "ph": "/tu:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘟嘟聲, 作樂",
+    "def": "a blast of a horn"
+   },
+   {
+    "pos": "vi.",
+    "zh": "吹喇叭",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "吹奏出",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tooted｜現在分詞 tooting｜複數 toots｜第三人稱單數 toots｜過去分詞 tooted"
+ },
+ "tooth": {
+  "ph": "/tu:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牙齒, 齒狀物, 愛好",
+    "def": "hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝以齒, 將...切成齒狀",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "齧合",
+    "def": ""
+   }
+  ],
+  "forms": "複數 teeth"
+ },
+ "toothache": {
+  "ph": "/'tu:θeik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牙痛",
+    "def": "an ache localized in or around a tooth"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 牙痛",
+    "def": ""
+   }
+  ]
+ },
+ "toothbrush": {
+  "ph": "/'tu:θbrʌʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牙刷",
+    "def": "small brush; has long handle; used to clean teeth"
+   }
+  ],
+  "forms": "複數 toothbrushes｜現在分詞 toothbrushing"
+ },
+ "toothcomb": {
+  "ph": "/'tu:θkәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細齒梳子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toothcombs"
+ },
+ "toothed": {
+  "ph": "/tu:θt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有齒的, 鋸齒的, 鋸齒狀的",
+    "def": "having teeth especially of a certain number or type; often used in combination"
+   }
+  ]
+ },
+ "toothless": {
+  "ph": "/'tu:θlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無齒的",
+    "def": "lacking teeth"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無牙的",
+    "def": ""
+   }
+  ]
+ },
+ "toothpaste": {
+  "ph": "/'tu:θpeist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牙膏",
+    "def": "a dentifrice in the form of a paste"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 牙膏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toothpastes"
+ },
+ "toothpick": {
+  "ph": "/'tu:θpik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牙籤",
+    "def": "pick consisting of a small strip of wood or plastic; used to pick food from between the teeth"
+   }
+  ],
+  "forms": "複數 toothpicks｜過去分詞 toothpicked"
+ },
+ "toothsome": {
+  "ph": "/'tu:θsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可口的, 美味的",
+    "def": ""
+   }
+  ]
+ },
+ "toothy": {
+  "ph": "/'tu:θi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "露齒的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 toothiest"
+ },
+ "tooting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖庭（位於倫敦南部）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tooting"
+ },
+ "tootle": {
+  "ph": "/'tu:tl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連續的嘟嘟吹奏, 休閒旅行",
+    "def": "the sound of casual playing on a musical instrument"
+   },
+   {
+    "pos": "vi.",
+    "zh": "連續輕吹, (悠閒自得地)去",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "嘟嘟地發出",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tootling｜過去式 tootled｜第三人稱單數 tootles｜過去分詞 tootled"
+ },
+ "tootsie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寶貝兒, 親愛的",
+    "def": ""
+   }
+  ]
+ },
+ "top": {
+  "ph": "/tɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頂部, 頂端, 極點, 上面, 上部, 頂篷, 最高地位, 首位, 陀螺",
+    "def": "the upper part of anything"
+   },
+   {
+    "pos": "adj.",
+    "zh": "最高的, 頂上的, 頭等的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "蓋, 加以頂, 高達, 超越",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "結束, 達到頂點, 高出",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] TOP協議",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tops｜過去分詞 topped｜過去式 topped｜現在分詞 topping｜第三人稱單數 tops"
+ },
+ "top secret": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 絕密",
+    "def": ""
+   }
+  ]
+ },
+ "top-class": {
+  "ph": "/tɔp klɑ:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "一流的；頂級的",
+    "def": ""
+   }
+  ]
+ },
+ "top-level": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最高階的",
+    "def": ""
+   }
+  ]
+ },
+ "top-up": {
+  "ph": "/ ˈtɒpʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新增的飲料; 追加的貸款",
+    "def": "an amount needed to restore something to its former level"
+   },
+   {
+    "pos": "adj.",
+    "zh": "額外的, 附加的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "補充",
+    "def": ""
+   }
+  ],
+  "forms": "複數 top-ups"
+ },
+ "topaz": {
+  "ph": "/'tәupæz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃晶, 黃玉, 南美蜂島",
+    "def": "a yellow quartz"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 黃玉",
+    "def": ""
+   }
+  ]
+ },
+ "topcoat": {
+  "ph": "/'tɔpkәjt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夾大衣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 topcoats"
+ },
+ "toper": {
+  "ph": "/'tәupә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豪飲者, 酒徒",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 醉漢, 酒徒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 topers"
+ },
+ "topiary": {
+  "ph": "/'tәupiәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "修剪成形的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "灌木修剪法",
+    "def": "a garden having shrubs clipped or trimmed into decorative shapes especially of animals"
+   }
+  ],
+  "forms": "過去式 topiaried"
+ },
+ "topic": {
+  "ph": "/'tɒpik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主題, 論題, 話題",
+    "def": "some situation or event that is thought about"
+   }
+  ],
+  "forms": "複數 topics"
+ },
+ "topical": {
+  "ph": "/'tɒpikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "論題的, 題目的, 時事問題的, 區域性的",
+    "def": "of or relating to or arranged by topics"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 區域性的",
+    "def": ""
+   }
+  ]
+ },
+ "topicality": {
+  "ph": "/tɔpi'kæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時事性, 時事性話題",
+    "def": "the attribute of being of interest at the present time"
+   }
+  ]
+ },
+ "topically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "總論地；時事問題地",
+    "def": ""
+   }
+  ]
+ },
+ "topics": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "總聯機程式和資訊控制系統（Total On-line Program and Information Control System）",
+    "def": ""
+   }
+  ]
+ },
+ "topknot": {
+  "ph": "/'tɒpnɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頭飾, 羽冠, 頂髻",
+    "def": "headdress consisting of a decorative ribbon or bow worn in the hair"
+   }
+  ],
+  "forms": "複數 topknots"
+ },
+ "topless": {
+  "ph": "/'tɒplis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無頂的, 袒胸的",
+    "def": "having no top"
+   }
+  ]
+ },
+ "topmost": {
+  "ph": "/'tɒpmәust/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最高的, 頂端的",
+    "def": ""
+   }
+  ]
+ },
+ "topo": {
+  "ph": "/'tɔpәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（等於toppo）威尼斯平底漁船",
+    "def": ""
+   }
+  ],
+  "forms": "複數 topos"
+ },
+ "topographer": {
+  "ph": "/tә'pɒgrәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地誌學者, 地形學者",
+    "def": "One who is skilled in the science of topography; one"
+   }
+  ],
+  "forms": "複數 topographers"
+ },
+ "topographic": {
+  "ph": "/.tɒpә'græfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地形的, 地形學的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 區域性解剖的, 區域性記載的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 topographics"
+ },
+ "topographical": {
+  "ph": "/,tɔpә'^ræfikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地形的, 地形學的, 地形測量的",
+    "def": "concerned with topography"
+   }
+  ]
+ },
+ "topographically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "從地形上；在地形構造方面",
+    "def": ""
+   }
+  ]
+ },
+ "topography": {
+  "ph": "/tә'pɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地誌, 地形學, 地勢, 區域性解剖學",
+    "def": "the configuration of a surface and the relations among its man-made and natural features"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 區域性解剖, 區域性記載",
+    "def": ""
+   }
+  ],
+  "forms": "複數 topographies"
+ },
+ "topological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地誌學, 拓撲學, 區域性解剖學",
+    "def": "of or relating to topology"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 佈局的",
+    "def": ""
+   }
+  ]
+ },
+ "topology": {
+  "ph": "/tәu'pɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地誌學, 拓撲學, 區域性解剖學",
+    "def": "topographic study of a given place (especially the history of the place as indicated by its topography)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 拓撲結構, 網路的佈局",
+    "def": ""
+   }
+  ],
+  "forms": "複數 topologies"
+ },
+ "toponym": {
+  "ph": "/'tɒpәnim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地名, 以地名命名者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 部位名稱",
+    "def": ""
+   }
+  ]
+ },
+ "topos": {
+  "ph": "/'tɔpɔs,-әs,'tәjpɔs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(文學創作的)傳統主題,(修辭學上的)慣用語句",
+    "def": "a traditional theme or motif or literary convention"
+   }
+  ]
+ },
+ "topper": {
+  "ph": "/'tɔpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "第一流的人物, 高檔的東西, 勝過以前同類物的東西, 大禮帽, 輕便大衣",
+    "def": "a worker who makes or adds the top to something"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 高檔貨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toppers"
+ },
+ "topping": {
+  "ph": "/'tɒpiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "極好的, 主要的, 一流的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "除頂部, 修剪樹稍, 剪落之小樹枝",
+    "def": "a flavorful addition on top of a dish"
+   }
+  ],
+  "forms": "現在分詞 topping｜複數 toppings"
+ },
+ "topple": {
+  "ph": "/'tɒpl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "推翻, 顛覆",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "倒塌, 搖搖欲墜",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 toppled｜過去分詞 toppled｜現在分詞 toppling｜第三人稱單數 topples"
+ },
+ "toppled": {
+  "ph": "/ˈtɔpld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "不穩而倒下( topple的過去式和過去分詞 ); 將…推翻, 打倒",
+    "def": ""
+   }
+  ]
+ },
+ "toppling": {
+  "ph": "/ˈtɔplɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "不穩而倒下( topple的現在分詞 ); 將…推翻, 打倒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 toppling"
+ },
+ "topsail": {
+  "ph": "/'tɒpsәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上桅帆",
+    "def": "a sail (or either of a pair of sails) immediately above the lowermost sail of a mast and supported by a topmast"
+   }
+  ]
+ },
+ "topside": {
+  "ph": "/'tɒpsaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幹舷部",
+    "def": "(usually plural) weather deck; the part of a ship's hull that is above the waterline"
+   }
+  ],
+  "forms": "複數 topsides"
+ },
+ "topsoil": {
+  "ph": "/'tɒpsɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上層土, 表層土",
+    "def": "the layer of soil on the surface"
+   }
+  ],
+  "forms": "複數 topsoils｜過去分詞 topsoiled"
+ },
+ "topspin": {
+  "ph": "/ˈtɒpspɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<網球>上旋",
+    "def": "forward spin (usually of a moving ball) that is imparted by an upward stroke"
+   }
+  ],
+  "forms": "複數 topspins"
+ },
+ "topsy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混天倒地（歌曲名）",
+    "def": ""
+   }
+  ]
+ },
+ "topsy-turvy": {
+  "ph": "/.tɒpsi'tә:vi/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "顛倒地, 亂七八糟地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "顛倒的, 亂七八糟的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "顛倒, 混亂",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使顛倒, 使混亂",
+    "def": ""
+   }
+  ]
+ },
+ "toque": {
+  "ph": "/tәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無邊女帽, 羽飾絲絨帽",
+    "def": "a tall white hat with a pouched crown; worn by chefs"
+   }
+  ],
+  "forms": "複數 toques"
+ },
+ "tor": {
+  "ph": "/tɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石山",
+    "def": "a prominent rock or pile of rocks on a hill"
+   }
+  ],
+  "forms": "複數 tors"
+ },
+ "torah": {
+  "ph": "/'tәurә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教導, 律法, <<舊約>>之首五卷",
+    "def": "the whole body of the Jewish sacred writings and tradition including the oral tradition"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 教訓, 神論, 法律",
+    "def": ""
+   }
+  ]
+ },
+ "torbay": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Torbay)人名；(阿拉伯)圖爾巴伊",
+    "def": ""
+   }
+  ]
+ },
+ "torch": {
+  "ph": "/tɒ:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火把, 啟發之物",
+    "def": "a light usually carried in the hand; consists of some flammable substance"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 火炬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 torches｜過去式 torched｜過去分詞 torched｜現在分詞 torching｜第三人稱單數 torches"
+ },
+ "torchbearer": {
+  "ph": "/'tɒ:tʃbєәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "持火炬者, 啟蒙者",
+    "def": "a leader in a campaign or movement"
+   }
+  ],
+  "forms": "複數 torchbearers"
+ },
+ "torched": {
+  "ph": "/tɔ:tʃt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "用火炬點燃的",
+    "def": ""
+   }
+  ]
+ },
+ "torching": {
+  "ph": "/'tɔ:tʃɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "燒去漆; 噴灰泥",
+    "def": ""
+   }
+  ]
+ },
+ "torchlight": {
+  "ph": "/'tɒ:tʃlait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火炬之光",
+    "def": "light from a torch or torches"
+   }
+  ],
+  "forms": "複數 torchlights"
+ },
+ "toreador": {
+  "ph": "/'tɔriәdɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬥牛士",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toreadors"
+ },
+ "torero": {
+  "ph": "/tәu'rєәrәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬥牛士",
+    "def": "a matador or one of the supporting team during a bull fight"
+   }
+  ]
+ },
+ "torino": {
+  "ph": "/tɔ'ri:nɔ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "托里諾[義大利西北部城市](即都靈)",
+    "def": ""
+   }
+  ]
+ },
+ "torment": {
+  "ph": "/'tɒ:ment/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使人痛苦的東西, 折磨者, 苦痛",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使苦惱, 糾纏, 歪曲, 拷問",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tormented｜現在分詞 tormenting｜複數 torments｜過去式 tormented｜第三人稱單數 torments"
+ },
+ "tormented": {
+  "ph": "/ˈtɔ:mentid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "飽受折磨的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使備受折磨, 使痛苦, 煩擾( torment的過去式和過去分詞 ); 折磨, 戲弄, 煩擾",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tormented｜過去式 tormented"
+ },
+ "tormenter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "折磨者",
+    "def": "a flat at each side of the stage to prevent the audience from seeing into the wings"
+   }
+  ],
+  "forms": "複數 tormenters"
+ },
+ "tormenting": {
+  "ph": "/tɔ: 'mentiŋ, 'tɔ: m-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使痛苦的, 使苦惱的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tormenting"
+ },
+ "tormentor": {
+  "ph": "/tɒ:'mentә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使人苦痛之人, 使苦惱之物, 長肉叉",
+    "def": "someone who torments"
+   }
+  ],
+  "forms": "複數 tormentors"
+ },
+ "torn": {
+  "ph": "/tɒ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "tear的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 torn"
+ },
+ "tornadic": {
+  "ph": "/tɔ:'nædik,-'nei-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "龍捲風(似)的,旋風(似)的",
+    "def": ""
+   }
+  ]
+ },
+ "tornado": {
+  "ph": "/tɒ:'neidәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋風, 龍捲風, 大雷雨",
+    "def": "a localized and violently destructive windstorm occurring over land characterized by a funnel-shaped cloud extending toward the ground"
+   }
+  ],
+  "forms": "複數 tornados"
+ },
+ "toroidal": {
+  "ph": "/tɔ:'rɔidәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 環形的",
+    "def": ""
+   }
+  ]
+ },
+ "toronto": {
+  "ph": "/tә'rɔntәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多倫多（加拿大城市）",
+    "def": "the provincial capital and largest city in Ontario (and the largest city in Canada)"
+   }
+  ]
+ },
+ "torpedo": {
+  "ph": "/tɒ:'pi:dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魚雷, 水雷, 地雷",
+    "def": "an explosive device that is set off in an oil well (or a gas well) to start or to increase the flow of oil (or gas)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用魚雷襲擊, 破壞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 torpedoing｜複數 torpedos｜過去式 torpedoed｜第三人稱單數 torpedos｜過去分詞 torpedoed"
+ },
+ "torpid": {
+  "ph": "/'tɒ:pid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "麻痺的, 遲緩的, 遲鈍的, 蟄伏的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 遲鈍的, 不活潑的, 緩慢的",
+    "def": ""
+   }
+  ]
+ },
+ "torpor": {
+  "ph": "/'tɒ:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻木, 無感覺, 遲鈍",
+    "def": "a state of motor and mental inactivity with a partial suspension of sensibility"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 遲鈍, 不活潑",
+    "def": ""
+   }
+  ]
+ },
+ "torquay": {
+  "ph": "/'tɔ:'ki:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "託基（英格蘭西南部原德文郡南部城市, 1968年與託貝合併）",
+    "def": ""
+   }
+  ]
+ },
+ "torque": {
+  "ph": "/tɒ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扭轉力, 轉矩, 項圈",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 轉矩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 torques"
+ },
+ "torr": {
+  "ph": "/tɔ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 託",
+    "def": ""
+   }
+  ]
+ },
+ "torrance": {
+  "ph": "/'tɔrәns,'tɔ:-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "託蘭斯[美國加利福尼亞州西南部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "torre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Torre)人名；(英、法)托爾；(德、西、意、葡、塞)託雷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "托爾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "託雷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 torres"
+ },
+ "torrent": {
+  "ph": "/'tɒ:rәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奔流, 傾盆大雨, 傾注, 迸發",
+    "def": "a violently fast stream of water (or other liquid)"
+   }
+  ],
+  "forms": "複數 torrents"
+ },
+ "torrential": {
+  "ph": "/tɒ'renʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奔流的, 急流的, 猛烈的",
+    "def": "relating to or resulting from the action of a torrent"
+   }
+  ]
+ },
+ "torres": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "託雷斯（西班牙球星）",
+    "def": ""
+   }
+  ]
+ },
+ "torrid": {
+  "ph": "/'tɒ:rid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "曬熱的, 酷熱的, 炎熱的",
+    "def": ""
+   }
+  ]
+ },
+ "torrington": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Torrington)人名；(英)託林頓",
+    "def": ""
+   }
+  ]
+ },
+ "torsion": {
+  "ph": "/'tɒ:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扭轉, 轉矩",
+    "def": "a twisting force"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 扭轉",
+    "def": ""
+   }
+  ]
+ },
+ "torsional": {
+  "ph": "/'tɒ:ʃәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "扭力的, 扭轉的",
+    "def": "Of or pertaining to torsion; resulting from torsion, or"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 扭轉的",
+    "def": ""
+   }
+  ]
+ },
+ "torso": {
+  "ph": "/'tɔ:sәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軀幹, 裸體軀幹雕像",
+    "def": "the body excluding the head and neck and limbs"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 軀幹",
+    "def": ""
+   }
+  ],
+  "forms": "複數 torsos"
+ },
+ "tort": {
+  "ph": "/tɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "民事侵權行為",
+    "def": "(law) any wrongdoing for which an action for damages may be brought"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 侵犯行為(不包括違約), 非法行為",
+    "def": ""
+   }
+  ],
+  "forms": "複數 torts｜第三人稱單數 torts"
+ },
+ "torte": {
+  "ph": "/tɔ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德國大蛋糕,果子奶油蛋糕",
+    "def": "rich cake usually covered with cream and fruit or nuts; originated in Austria"
+   }
+  ]
+ },
+ "tortellini": {
+  "ph": "/,tɔ:tә'li:ni/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[復]n.(義大利式)餃子",
+    "def": ""
+   }
+  ]
+ },
+ "tortilla": {
+  "ph": "/tɔ:'tilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玉米餅",
+    "def": "thin unleavened pancake made from cornmeal or wheat flour"
+   }
+  ],
+  "forms": "複數 tortillas"
+ },
+ "tortious": {
+  "ph": "/'tɒ:ʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "侵權行為的",
+    "def": "of or pertaining to the nature of a tort"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 不法佔有的, 民事上侵害的, 侵犯行為的",
+    "def": ""
+   }
+  ]
+ },
+ "tortoise": {
+  "ph": "/'tɒ:tәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "龜, 行動遲緩的人",
+    "def": "usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except Australia and Antarctica"
+   }
+  ],
+  "forms": "複數 tortoises｜現在分詞 tortoising｜過去式 tortoised"
+ },
+ "tortoiseshell": {
+  "ph": "/'tɔ:tәʃel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "龜甲, 玳瑁殼, 龜板, 玳瑁色",
+    "def": "the mottled horny substance of the shell of some turtles"
+   }
+  ],
+  "forms": "複數 tortoiseshells｜第三人稱單數 tortoiseshells"
+ },
+ "tortuous": {
+  "ph": "/'tɒ:tʃuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "扭曲的, 彎曲的, 轉彎抹角的, 欺騙的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 紆曲的, 彎曲的",
+    "def": ""
+   }
+  ]
+ },
+ "tortuously": {
+  "ph": "/'tɔ:tjuəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "彎曲地；欺騙地；居心叵測地；轉彎抹角地",
+    "def": ""
+   }
+  ]
+ },
+ "torture": {
+  "ph": "/'tɒ:tʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拷問, 苦悶",
+    "def": "unbearable physical pain"
+   },
+   {
+    "pos": "vt.",
+    "zh": "拷問, 曲解, 折磨, 使彎曲",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tortured｜過去式 tortured｜現在分詞 torturing｜複數 tortures｜第三人稱單數 tortures"
+ },
+ "tortured": {
+  "ph": "/ˈtɔ:tʃəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使痛苦( torture的過去式和過去分詞 ); 使苦惱; 使焦急",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tortured｜過去分詞 tortured"
+ },
+ "torturer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拷問者, 虐待者",
+    "def": "someone who inflicts severe physical pain (usually for punishment or coercion)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 拷問者, 虐待者, 酷吏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 torturers"
+ },
+ "torturing": {
+  "ph": "/'tɔ:tʃәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拷問的；使受苦的；使痛苦的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 torturings"
+ },
+ "torturous": {
+  "ph": "/'tɒ:tʃәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "折磨人的, 極端痛苦的",
+    "def": ""
+   }
+  ]
+ },
+ "torus": {
+  "ph": "/'tɒ:rәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花托, 隆凸, 環面",
+    "def": "a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 螺繞環",
+    "def": ""
+   }
+  ]
+ },
+ "tory": {
+  "ph": "/'tɒ:ri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "託利黨黨員, 保守黨員, 親英分子",
+    "def": "an American who favored the British side during the American Revolution"
+   },
+   {
+    "pos": "adj.",
+    "zh": "保守分子的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tories"
+ },
+ "toryism": {
+  "ph": "/'tɒ:riizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國保守黨, 英國保守黨黨員的主義",
+    "def": "The principles of the Tories."
+   }
+  ]
+ },
+ "tosca": {
+  "ph": "/'tɔskә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碳酸鈣沉積",
+    "def": ""
+   }
+  ]
+ },
+ "toscanini": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Toscanini)人名；(意)托斯卡尼尼",
+    "def": "Italian conductor of many orchestras worldwide (1867-1957)"
+   }
+  ],
+  "forms": "複數 toscanini"
+ },
+ "tosh": {
+  "ph": "/tɒʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡說, 夢話",
+    "def": ""
+   }
+  ]
+ },
+ "toshiba": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "東芝（公司名, 財富500強公司之一, 總部所在地日本, 主要經營電子電氣）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toshibas"
+ },
+ "toshiki": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Toshiki)人名；(日)美喜 (名)；(日)塗師木 (姓)",
+    "def": ""
+   }
+  ]
+ },
+ "toss": {
+  "ph": "/tɒs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "投擲, 拋, 搖擺, 震盪, 擲錢幣決定",
+    "def": "an abrupt movement"
+   },
+   {
+    "pos": "vt.",
+    "zh": "投擲, 猛抬, 搖盪, 使不安, 擲錢幣決定",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被到處扔, 搖擺, 顛簸, 輾轉, 擲錢幣決定某事",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tossed｜現在分詞 tossing｜過去分詞 tossed｜第三人稱單數 tosses｜複數 tosses"
+ },
+ "tosser": {
+  "ph": "/ˈtɒsə(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "二傳隊員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tossers"
+ },
+ "tossing": {
+  "ph": "/'tɔsiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗礦；抖動, 搖動；顛簸",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tossing"
+ },
+ "tostada": {
+  "ph": "/tәjs'tɑ:dә,tɔ:s'tɑ:ðɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "炸玉米粉圓餅(亦作tostado)",
+    "def": "a flat tortilla with various fillings piled on it"
+   }
+  ]
+ },
+ "tot": {
+  "ph": "/tɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小孩, 少量, 合計",
+    "def": "a small amount (especially of a drink)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "合計, 總計為",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "加",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 全體, 總數, 傳送開銷時間",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tots｜現在分詞 totting｜過去式 totted｜過去分詞 totted｜第三人稱單數 tots"
+ },
+ "total": {
+  "ph": "/'tәutl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "全體的, 總的, 全然的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "計算...的總和, 共計為",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "合計",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "總數, 全體, 合計",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "統統",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 totalling｜過去式 totalled｜複數 totals｜第三人稱單數 totals｜過去分詞 totalled"
+ },
+ "totaled": {
+  "ph": "/'təʊt(ə)l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "全部的；完全的；整個的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "總數達",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "合計",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "總數, 合計",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Total)人名；(法、德)託塔爾",
+    "def": ""
+   }
+  ]
+ },
+ "totalitarian": {
+  "ph": "/.tәutæli'tєәriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "極權主義的",
+    "def": "of or relating to the principles of totalitarianism according to which the state regulates every realm of life"
+   },
+   {
+    "pos": "n.",
+    "zh": "極權主義者",
+    "def": "an adherent of totalitarian principles or totalitarian government"
+   }
+  ],
+  "forms": "複數 totalitarians"
+ },
+ "totalitarianism": {
+  "ph": "/,tәjtæli'teәriәnizəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "極權主義",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 極權主義",
+    "def": ""
+   }
+  ],
+  "forms": "複數 totalitarianisms"
+ },
+ "totality": {
+  "ph": "/'tәutæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "全體, 總數, 全食",
+    "def": "the quality of being complete and indiscriminate"
+   }
+  ],
+  "forms": "複數 totalities"
+ },
+ "totalization": {
+  "ph": "/təʊtəlaɪ'zeɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "求和",
+    "def": ""
+   }
+  ],
+  "forms": "複數 totalizations"
+ },
+ "totalize": {
+  "ph": "/'tәutәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "計算...的總數",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 totalizing｜過去分詞 totalized｜第三人稱單數 totalizes｜過去式 totalized"
+ },
+ "totalizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 總計, 累加",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 totalizing"
+ },
+ "totally": {
+  "ph": "/'tәutli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "完全地",
+    "def": ""
+   }
+  ]
+ },
+ "tote": {
+  "ph": "/tәut/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "提, 負, 攜帶, 加, 合計",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "負擔, 攜帶",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 toting｜複數 totes｜過去分詞 toted｜過去式 toted｜第三人稱單數 totes"
+ },
+ "totem": {
+  "ph": "/'tәutәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖騰, 標誌物, 崇拜物",
+    "def": "a clan or tribe identified by their kinship to a common totemic object"
+   }
+  ],
+  "forms": "複數 totems"
+ },
+ "totemic": {
+  "ph": "/tәu'temik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "圖騰的",
+    "def": "relating to totemism"
+   }
+  ]
+ },
+ "totnes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "托特尼斯 (英國國會選區)",
+    "def": ""
+   }
+  ]
+ },
+ "toto": {
+  "ph": "/'tәutәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "全部；總數",
+    "def": ""
+   }
+  ]
+ },
+ "tottenham": {
+  "ph": "/'tɔtnəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "托特納姆（倫敦的一個區）",
+    "def": ""
+   }
+  ]
+ },
+ "totter": {
+  "ph": "/'tɒtә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "蹣跚, 動搖",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "蹣跚的步子",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tottered｜現在分詞 tottering｜第三人稱單數 totters｜過去分詞 tottered"
+ },
+ "tottering": {
+  "ph": "/'tɒtәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蹣跚的, 動搖的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tottering"
+ },
+ "toucan": {
+  "ph": "/'tu:kәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巨嘴鳥",
+    "def": "brilliantly colored arboreal fruit-eating bird of tropical America having a very large thin-walled beak"
+   }
+  ],
+  "forms": "複數 toucans"
+ },
+ "touch": {
+  "ph": "/tʌtʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觸覺, 碰, 觸, 機靈, 輕觸, 格調, 少許, 缺點, 彈力",
+    "def": "the event of something coming in contact with the body"
+   },
+   {
+    "pos": "vt.",
+    "zh": "接觸, 觸控, 觸及, 使接觸, 達到, 涉及, 影響到, 使輕度受害, 感動",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "觸控, 接近, 涉及, 提到",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 touched｜過去分詞 touched｜現在分詞 touching｜複數 touches｜第三人稱單數 touches"
+ },
+ "touchable": {
+  "ph": "/'tʌtʃәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可觸的, 可使感動的",
+    "def": ""
+   }
+  ]
+ },
+ "touchback": {
+  "ph": "/'tʌtʃbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[美橄]持球觸地",
+    "def": "(American football) a play in which the opposing team has kicked the football into your end zone"
+   }
+  ]
+ },
+ "touchdown": {
+  "ph": "/'tʌtʃdaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觸地, 觸地得分, 著地",
+    "def": "a score in American football; being in possession of the ball across the opponents' goal line"
+   }
+  ],
+  "forms": "複數 touchdowns"
+ },
+ "touche": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "講得好！；一針見血。",
+    "def": ""
+   }
+  ]
+ },
+ "touched": {
+  "ph": "/tʌtʃt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精神不太正常的, 受感動的",
+    "def": "having come into contact"
+   }
+  ],
+  "forms": "過去分詞 touched｜過去式 touched"
+ },
+ "touching": {
+  "ph": "/'tʌtʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "動人的, 令人同情的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 touching｜複數 touchings"
+ },
+ "touchingly": {
+  "ph": "/'tʌtʃɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人同情地, 感人地, 動人地",
+    "def": ""
+   }
+  ]
+ },
+ "touchline": {
+  "ph": "/'tʌtʃlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊線",
+    "def": "either of the sidelines in soccer or rugby"
+   }
+  ],
+  "forms": "複數 touchlines"
+ },
+ "touchpad": {
+  "ph": "/'tʌtʃpæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觸控式螢幕裝置, 觸控板",
+    "def": ""
+   }
+  ]
+ },
+ "touchpaper": {
+  "ph": "/ˈtʌtʃpeɪpə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火絨線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 touchpapers"
+ },
+ "touchscreen": {
+  "ph": "/tʌtʃɪzk'ri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觸控式螢幕",
+    "def": ""
+   }
+  ]
+ },
+ "touchstone": {
+  "ph": "/'tʌtʃstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "試金石, 檢驗標準",
+    "def": ""
+   }
+  ],
+  "forms": "複數 touchstones"
+ },
+ "touchy": {
+  "ph": "/'tʌtʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易怒的, 難以取悅的, 過於敏感的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 touchier"
+ },
+ "tough": {
+  "ph": "/tʌf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惡棍",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "強硬的, 艱苦的, 堅固的, 堅韌的, 粗暴的, 咬不動的",
+    "def": "not given to gentleness or sentimentality"
+   }
+  ],
+  "forms": "比較級 tougher｜最高級 toughest｜複數 toughs"
+ },
+ "toughen": {
+  "ph": "/'tʌfn/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)變堅韌, (使)變頑強",
+    "def": "make tough or tougher"
+   }
+  ],
+  "forms": "過去分詞 toughened｜過去式 toughened｜第三人稱單數 toughens｜現在分詞 toughening"
+ },
+ "toughened": {
+  "ph": "/ˈtʌfnd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使某物[人]）堅韌, 堅強, 強硬( toughen的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 toughened｜過去分詞 toughened"
+ },
+ "toughie": {
+  "ph": "/'tʌfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流氓, 惡棍, 生是非者, 難題, 勁敵",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 土匪, 惡棍, 難題",
+    "def": ""
+   }
+  ]
+ },
+ "toughly": {
+  "ph": "/'tʌfli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "強硬地, 有粘性地, 固執地",
+    "def": ""
+   }
+  ]
+ },
+ "toughness": {
+  "ph": "/'tʌfnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有粘性, 強硬, 強健",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 韌性",
+    "def": ""
+   }
+  ]
+ },
+ "toulon": {
+  "ph": "/tu:'lɔ:ŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "土倫[法國東南部港市](海軍基地)",
+    "def": ""
+   }
+  ]
+ },
+ "toulouse": {
+  "ph": "/tu:'lu:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖盧茲（法國南部城市）",
+    "def": "a city on the Garonne River in southern France to the southeast of Bordeaux; a cultural center of medieval Europe"
+   }
+  ]
+ },
+ "toupee": {
+  "ph": "/'tu:pei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男子假髮",
+    "def": "a small hairpiece to cover partial baldness"
+   }
+  ],
+  "forms": "複數 toupees"
+ },
+ "tour": {
+  "ph": "/tuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅遊, 觀光旅行, 任期",
+    "def": "a journey or route all the way around a particular place or area"
+   },
+   {
+    "pos": "vi.",
+    "zh": "旅行, 周遊, 巡迴",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "周遊, 觀光, 遊歷, 使巡迴演出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tours｜現在分詞 touring｜過去式 toured｜過去分詞 toured｜第三人稱單數 tours"
+ },
+ "tour operator": {
+  "ph": "/tuə ˈɔpəreitə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅遊經營者",
+    "def": ""
+   }
+  ]
+ },
+ "tourer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遊覽車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tourers"
+ },
+ "touring": {
+  "ph": "/'tuәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遊覽",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "遊覽的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 touring"
+ },
+ "tourism": {
+  "ph": "/'tuәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀光業, 遊覽",
+    "def": "the business of providing services to tourists"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 旅遊業",
+    "def": ""
+   }
+  ]
+ },
+ "tourist": {
+  "ph": "/'tuәrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀光客, 旅行者",
+    "def": "someone who travels for pleasure"
+   },
+   {
+    "pos": "adj.",
+    "zh": "旅遊的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tourists"
+ },
+ "touristic": {
+  "ph": "/tuəˈristik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "觀光的, 旅遊者的",
+    "def": ""
+   }
+  ]
+ },
+ "tourists": {
+  "ph": "/'tʊərɪsts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅行者, 觀光客( tourist的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "touristy": {
+  "ph": "/'tuәristi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遊覽者的, 遊覽者喜歡的",
+    "def": ""
+   }
+  ]
+ },
+ "tourmaline": {
+  "ph": "/'tuәmәli:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 電氣石",
+    "def": ""
+   }
+  ]
+ },
+ "tournai": {
+  "ph": "/'tuə'nei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖爾奈（比利時西南部城市）",
+    "def": ""
+   }
+  ]
+ },
+ "tournament": {
+  "ph": "/'tә:nәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比賽, 競賽, 錦標賽, 聯賽",
+    "def": "a sporting competition in which contestants play a series of games to decide the winner"
+   }
+  ],
+  "forms": "複數 tournaments"
+ },
+ "tournedos": {
+  "ph": "/tuәni'dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "tournedos 腓裡牛排",
+    "def": "thick steak cut from the beef tenderloin"
+   }
+  ]
+ },
+ "tourney": {
+  "ph": "/'tuәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "參加比賽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tourneys｜過去式 tourneyed｜現在分詞 tourneying｜第三人稱單數 tourneys｜過去分詞 tourneyed"
+ },
+ "tourniquet": {
+  "ph": "/'tuәniket/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "止血器, 壓脈器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 止血帶, 壓脈器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tourniquets"
+ },
+ "tours": {
+  "ph": "/tuәz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖爾斯（姓氏）；圖爾市（法國城市名）",
+    "def": "an industrial city in western France on the Loire River"
+   }
+  ]
+ },
+ "tous": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淘氣小熊（品牌名）",
+    "def": ""
+   }
+  ]
+ },
+ "tousle": {
+  "ph": "/'tauzl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使蓬亂, 弄亂",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "亂髮, 雜亂, 凌亂",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tousled｜過去分詞 tousled｜現在分詞 tousling｜第三人稱單數 tousles"
+ },
+ "tousled": {
+  "ph": "/ˈtaʊzəld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使（尤指頭髮）蓬亂( tousle的過去式和過去分詞 ); 粗魯地處理",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tousled"
+ },
+ "tout": {
+  "ph": "/taut/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "招徠顧客, 兜售物品",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "招徠, 刺探...情報",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "兜售者, 偵查者",
+    "def": "someone who buys tickets to an event in order to resell them at a profit"
+   }
+  ],
+  "forms": "過去分詞 touted｜現在分詞 touting｜複數 touts｜過去式 touted｜第三人稱單數 touts"
+ },
+ "tow": {
+  "ph": "/tәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拖, 拖繩, 拖輪",
+    "def": "the act of hauling something (as a vehicle) by means of a hitch or rope"
+   },
+   {
+    "pos": "vt.",
+    "zh": "拖, 拉, 牽引",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 towed｜現在分詞 towing｜過去式 towed｜複數 tows｜第三人稱單數 tows"
+ },
+ "toward": {
+  "ph": "/tә'wɒ:d/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "向, 對於, 為了",
+    "def": "Alt. of Towards"
+   },
+   {
+    "pos": "adj.",
+    "zh": "即將來臨的, 進行中的",
+    "def": ""
+   }
+  ]
+ },
+ "towards": {
+  "ph": "/tә'wɔ:dz/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "向, 對於, 為了",
+    "def": "In the direction of; to."
+   }
+  ]
+ },
+ "towboat": {
+  "ph": "/'tәubәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拖船",
+    "def": ""
+   }
+  ]
+ },
+ "towed": {
+  "ph": "/təud/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "拖, 拉, 拽( tow的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "towel": {
+  "ph": "/'tauәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手巾, 毛巾",
+    "def": "a rectangular piece of absorbent cloth (or paper) for drying or wiping"
+   },
+   {
+    "pos": "v.",
+    "zh": "擦乾身子",
+    "def": "wipe with a towel"
+   }
+  ],
+  "forms": "複數 towels｜過去式 towelled｜現在分詞 towelling｜第三人稱單數 towels｜過去分詞 towelled"
+ },
+ "towelette": {
+  "ph": "/'tәuәlit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 小毛巾(外科醫師或產科醫師用)",
+    "def": ""
+   }
+  ]
+ },
+ "toweling": {
+  "ph": "/'tauәliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毛巾料",
+    "def": "any of various fabrics (linen or cotton) used to make towels"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 巾擦法",
+    "def": ""
+   }
+  ]
+ },
+ "towelling": {
+  "ph": "/'tauәliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "制毛巾的布料",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 towelling"
+ },
+ "tower": {
+  "ph": "/'tauә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔, 高樓, 堡壘",
+    "def": "a structure taller than its diameter; can stand alone or be attached to a larger building"
+   },
+   {
+    "pos": "vi.",
+    "zh": "高聳, 翱翔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 towers｜過去式 towered｜現在分詞 towering｜第三人稱單數 towers｜過去分詞 towered"
+ },
+ "tower block": {
+  "ph": "/ˈtauə blɔk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（高層建築）塔式大樓",
+    "def": ""
+   }
+  ]
+ },
+ "towering": {
+  "ph": "/'tauәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高聳的, 激烈的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 towering"
+ },
+ "towers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔；塔器；空中跳臺（tower的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "towhead": {
+  "ph": "/'tәuhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淡黃色頭髮的人",
+    "def": "a person with light blond hair"
+   }
+  ]
+ },
+ "towing": {
+  "ph": "/'tәjiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拖車, 拖吊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 towing"
+ },
+ "towline": {
+  "ph": "/'tәulain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拖繩, 拖纜",
+    "def": "(nautical) a rope used in towing"
+   }
+  ],
+  "forms": "複數 towlines"
+ },
+ "town": {
+  "ph": "/taun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "城鎮, 市, 鎮",
+    "def": "an urban area with a fixed boundary that is smaller than a city"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 城鎮, 城市, 鬧市",
+    "def": ""
+   }
+  ],
+  "forms": "複數 towns"
+ },
+ "town hall": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "市政廳",
+    "def": ""
+   }
+  ]
+ },
+ "townend": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Townend)人名；(英)湯恩德",
+    "def": ""
+   }
+  ]
+ },
+ "townhome": {
+  "ph": "/'taunhəum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[美國英語]（市內）連棟房屋, 排房 （= town house）",
+    "def": ""
+   }
+  ]
+ },
+ "townhouse": {
+  "ph": "/'taʊnhaʊz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連棟房屋; 城市住房",
+    "def": "A building devoted to the public used of a town; a"
+   }
+  ]
+ },
+ "townie": {
+  "ph": "/'tajni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "城市生活的",
+    "def": ""
+   }
+  ]
+ },
+ "townley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Townley)人名；(英)湯利",
+    "def": ""
+   }
+  ]
+ },
+ "townscape": {
+  "ph": "/ˈtaʊnskeɪp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "城鎮的風景, 城鎮風光",
+    "def": ""
+   }
+  ],
+  "forms": "複數 townscapes"
+ },
+ "townsend": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湯森（男子名）",
+    "def": "United States social reformer who proposed an old-age pension sponsored by the federal government; his plan was a precursor to Social Security (1867-1960)"
+   }
+  ]
+ },
+ "townsfolk": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鎮民, 市民, 城裡生長的人, 城鎮居民",
+    "def": ""
+   }
+  ],
+  "forms": "複數 townsfolk"
+ },
+ "townshend": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Townshend)人名；(英)湯曾德",
+    "def": ""
+   }
+  ]
+ },
+ "township": {
+  "ph": "/'taunʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小鎮, 鎮區",
+    "def": "an administrative division of a county"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 鎮區, 鄉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 townships"
+ },
+ "townsite": {
+  "ph": "/taʊn'saɪt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "城鎮所在地; 城址",
+    "def": ""
+   }
+  ]
+ },
+ "townsman": {
+  "ph": "/'taunzmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鎮民, 城裡人, 市民, 同鎮人, 同鄉, 同市人",
+    "def": "a person from the same town as yourself"
+   }
+  ],
+  "forms": "複數 townsmen"
+ },
+ "townspeople": {
+  "ph": "/'tajnzpi:p(ә)l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鎮民, 市民, 城裡生長的人, 城鎮居民",
+    "def": ""
+   }
+  ]
+ },
+ "townswomen": {
+  "ph": "/'taunz,wimin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "townswoman的變形",
+    "def": ""
+   }
+  ]
+ },
+ "towny": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "城裡的, 城市生活的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 townies"
+ },
+ "towpath": {
+  "ph": "/'tәupæθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纖路",
+    "def": "a path along a canal or river used by animals towing boats"
+   }
+  ],
+  "forms": "複數 towpaths"
+ },
+ "toxaphene": {
+  "ph": "/'tɔksәfi:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 毒殺芬, 氟化莰烯, 毒氣萜(一種人工合成氟代烴類殺蟲劑)",
+    "def": ""
+   }
+  ]
+ },
+ "toxemia": {
+  "ph": "/tɔk'si:miә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毒血癥, 血中毒症",
+    "def": "blood poisoning caused by bacterial toxic substances in the blood"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 毒血癥",
+    "def": ""
+   }
+  ]
+ },
+ "toxic": {
+  "ph": "/'tɒksik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有毒的, 中毒的",
+    "def": "of or relating to or caused by a toxin or poison"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 中毒的, 毒物的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toxics"
+ },
+ "toxicant": {
+  "ph": "/'tɒksikәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有毒物, 毒藥",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 毒的; 毒物",
+    "def": ""
+   }
+  ]
+ },
+ "toxicity": {
+  "ph": "/tɒk'sisiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毒性",
+    "def": "the degree to which something is poisonous"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 毒力, 毒性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toxicities"
+ },
+ "toxicological": {
+  "ph": "/.tɒksikә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "毒理學的, 毒物學的",
+    "def": "of or relating to toxicology"
+   }
+  ]
+ },
+ "toxicologist": {
+  "ph": "/.tɒksi'kɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毒理學者, 毒物學者",
+    "def": "one who studies the nature and effects of poisons and their treatment"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 毒理學家, 毒物學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toxicologists"
+ },
+ "toxicology": {
+  "ph": "/.tɒksi'kɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毒理學, 毒物學",
+    "def": "the branch of pharmacology that deals with the nature and effects and treatments of poisons"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 毒理學, 毒物學",
+    "def": ""
+   }
+  ]
+ },
+ "toxics": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毒物（toxic的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "toxin": {
+  "ph": "/'tɒksin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毒素",
+    "def": "a poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and animal species"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 毒素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toxins"
+ },
+ "toxoid": {
+  "ph": "/'tɒksɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "類毒素",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 類毒素",
+    "def": ""
+   }
+  ]
+ },
+ "toxoplasma": {
+  "ph": "/,tɔksә? 'plæzmә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 弓形體屬, 弓漿蟲屬",
+    "def": ""
+   }
+  ]
+ },
+ "toxoplasmosis": {
+  "ph": "/,tɔksәuplæz'mәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弓形體病, 弓漿蟲病",
+    "def": "infection caused by parasites transmitted to humans from infected cats; if contracted by a pregnant woman it can result in serious damage to the fetus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 弓形體病",
+    "def": ""
+   }
+  ]
+ },
+ "toy": {
+  "ph": "/tɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玩具, 小玩藝兒, 小型的東西, 消遣",
+    "def": "a nonfunctional replica of something else (frequently used as a modifier)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "供玩耍的, 作為玩具的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "玩弄, 戲弄, 調情",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toys｜過去式 toyed｜現在分詞 toying｜過去分詞 toyed｜第三人稱單數 toys"
+ },
+ "toyboy": {
+  "ph": "/'tɔɪbɔɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（年紀比女友小得多的）小情郎, 小情夫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toyboys"
+ },
+ "toye": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人姓氏] 託伊 Toy的變體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toyes"
+ },
+ "toymaker": {
+  "ph": "/'tɔɪmeɪkə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "玩具製造者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 toymakers"
+ },
+ "toynbee": {
+  "ph": "/'tɔinbi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "託因比（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "toyota": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日本豐田汽車（公司名）",
+    "def": "an industrial city of Japan in southern Honshu"
+   }
+  ]
+ },
+ "toys": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玩具（toy的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "toyshop": {
+  "ph": "/'tɒiʃɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玩具店",
+    "def": "shop where toys are sold"
+   }
+  ],
+  "forms": "複數 toyshops"
+ },
+ "toytown": {
+  "ph": "/'tɔɪtaʊn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "幼稚愚蠢的；毫無價值的",
+    "def": ""
+   }
+  ]
+ }
+}

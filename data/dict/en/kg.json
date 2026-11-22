@@ -1,0 +1,38 @@
+{
+ "kg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "千克, 公斤",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 千克, 公斤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 kgs"
+ },
+ "kg.": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公斤, 千克",
+    "def": ""
+   }
+  ]
+ },
+ "kgb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "克格勃, 蘇聯國家安全委員會（Komitet Gosudarstvennoi Bezopasnosti）",
+    "def": ""
+   }
+  ]
+ }
+}

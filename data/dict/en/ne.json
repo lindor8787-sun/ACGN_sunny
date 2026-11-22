@@ -1,0 +1,4635 @@
+{
+ "ne": {
+  "ph": "/nei/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "原姓...的, 原名...的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氖(10元素)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nes"
+ },
+ "ne'er": {
+  "ph": "/neә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "決不",
+    "def": ""
+   }
+  ]
+ },
+ "nea": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "東北航空公司(美國)",
+    "def": ""
+   }
+  ]
+ },
+ "neal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尼爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "neale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尼爾（英格蘭人姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "neandertal": {
+  "ph": "/ni'ændәtɑ:l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穴居人的",
+    "def": ""
+   }
+  ]
+ },
+ "neanderthal": {
+  "ph": "/ni'ændәtɑ:l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穴居人的",
+    "def": "relating to or belonging to or resembling Neanderthal man"
+   }
+  ],
+  "forms": "複數 neanderthals"
+ },
+ "neap": {
+  "ph": "/ni:p/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "小潮的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "小潮, 最低潮",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "漸趨向小潮, 達小潮的最高點",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使(船)因小潮受阻",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] Novell教育學術團體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neaps"
+ },
+ "neapolitan": {
+  "ph": "/niә'pɔlitәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "那不勒斯的,那不勒斯人的",
+    "def": "of or relating to or characteristic of Naples or its people"
+   },
+   {
+    "pos": "n.",
+    "zh": "那不勒斯人",
+    "def": "a native or inhabitant of Naples"
+   }
+  ],
+  "forms": "複數 neapolitans"
+ },
+ "near": {
+  "ph": "/niә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "近的, 近親的, 近似的",
+    "def": "not far distant in time or space or degree or circumstances"
+   },
+   {
+    "pos": "adv.",
+    "zh": "接近, 親近",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "靠近, 近似於",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "接近, 走近",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 nearest｜比較級 nearer｜現在分詞 nearing｜過去式 neared｜第三人稱單數 nears｜過去分詞 neared"
+ },
+ "nearby": {
+  "ph": "/'niәbai/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "附近的, 近旁的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在附近, 近旁地",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "在...附近",
+    "def": ""
+   }
+  ]
+ },
+ "nearer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "較近",
+    "def": ""
+   }
+  ]
+ },
+ "nearest": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最近的（near的最高階）",
+    "def": ""
+   }
+  ]
+ },
+ "nearly": {
+  "ph": "/'niәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "幾乎, 密切地",
+    "def": ""
+   }
+  ]
+ },
+ "nearness": {
+  "ph": "/'niәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "接近；密切；近似",
+    "def": "the spatial property resulting from a relatively small distance"
+   }
+  ],
+  "forms": "複數 nearnesses"
+ },
+ "nearside": {
+  "ph": "/'niәsaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "近的一邊, 左邊",
+    "def": "the side of a vehicle nearest the kerb"
+   },
+   {
+    "pos": "adj.",
+    "zh": "左側的",
+    "def": ""
+   }
+  ]
+ },
+ "nearsighted": {
+  "ph": "/niә'saitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "近視的, 淺見的",
+    "def": "unable to see distant objects clearly"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 近視的",
+    "def": ""
+   }
+  ]
+ },
+ "nearsightedness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 近視",
+    "def": ""
+   }
+  ]
+ },
+ "neat": {
+  "ph": "/ni:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "整潔的, 巧妙的, 勻稱的, 簡潔的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "牛",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 neater｜最高級 neatest"
+ },
+ "neaten": {
+  "ph": "/'ni:tn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "整理, 整頓",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 neatened｜過去分詞 neatened｜現在分詞 neatening｜第三人稱單數 neatens"
+ },
+ "neath": {
+  "ph": "/ni:θ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在...之下",
+    "def": ""
+   }
+  ]
+ },
+ "neatly": {
+  "ph": "/'ni:tli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "整潔地, 乾淨地, 勻稱地",
+    "def": ""
+   }
+  ]
+ },
+ "neatness": {
+  "ph": "/'ni:tnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "整潔, 乾淨",
+    "def": "the state of being neat and smart and trim"
+   }
+  ]
+ },
+ "neatnik": {
+  "ph": "/'ni:tnik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美俚>愛整潔的人[仿beatnik]",
+    "def": ""
+   }
+  ]
+ },
+ "neave": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尼夫（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 neaves"
+ },
+ "neb": {
+  "ph": "/neb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘴, 鼻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nebs"
+ },
+ "nebbish": {
+  "ph": "/'nebiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不受重視的人, 無用的人",
+    "def": "(Yiddish) a timid unfortunate simpleton"
+   }
+  ],
+  "forms": "複數 nebbishes"
+ },
+ "nebraska": {
+  "ph": "/ni'bræskә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 內布拉斯加州, (美國中西部的一州)",
+    "def": ""
+   }
+  ]
+ },
+ "nebula": {
+  "ph": "/'nebjulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星雲, 角膜雲翳",
+    "def": "a medicinal liquid preparation intended for use in an atomizer"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 薄翳; 角膜翳, 角膜雲翳; 噴霧劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nebulae"
+ },
+ "nebular": {
+  "ph": "/'nebjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "星雲的",
+    "def": "of or relating to or resembling a nebula"
+   }
+  ]
+ },
+ "nebulosity": {
+  "ph": "/.nebju'lɒsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星雲狀態, 星雲狀物, 朦朧",
+    "def": "The state or quality of being nebulous; cloudiness;"
+   }
+  ],
+  "forms": "複數 nebulosities"
+ },
+ "nebulous": {
+  "ph": "/'nebjulәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "星雲的, 星雲狀的, 朦朧的",
+    "def": ""
+   }
+  ]
+ },
+ "nec": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "日本電氣公司",
+    "def": ""
+   }
+  ]
+ },
+ "necessarily": {
+  "ph": "/'nesisәrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "必然地, 必須地, 必要地",
+    "def": ""
+   }
+  ]
+ },
+ "necessary": {
+  "ph": "/'nesisәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "必要的；必然的；必需的",
+    "def": "absolutely essential"
+   }
+  ],
+  "forms": "複數 necessaries"
+ },
+ "necessitate": {
+  "ph": "/ni'sesiteit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "迫使, 使成為必需, 需要",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 necessitated｜第三人稱單數 necessitates｜過去分詞 necessitated｜現在分詞 necessitating"
+ },
+ "necessitous": {
+  "ph": "/ni'sesitәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貧乏的, 窮困的, 緊迫的, 必需的",
+    "def": ""
+   }
+  ]
+ },
+ "necessity": {
+  "ph": "/ni'sesәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "需要, 必需品, 必然",
+    "def": "the condition of being essential or indispensable"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 必要性, 必然性, 必要",
+    "def": ""
+   }
+  ],
+  "forms": "複數 necessities"
+ },
+ "neck": {
+  "ph": "/nek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脖子, 衣領, 頸",
+    "def": "the part of an organism (human or animal) that connects the head to the rest of the body"
+   },
+   {
+    "pos": "vi.",
+    "zh": "擁抱, 擁吻, 收縮",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "割頸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 necks｜現在分詞 necking｜過去式 necked｜第三人稱單數 necks｜過去分詞 necked"
+ },
+ "neckband": {
+  "ph": "/'nekbænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "襯衫領子, (作裝飾用的)領圈",
+    "def": "a band around the collar of a garment"
+   }
+  ],
+  "forms": "複數 neckbands｜第三人稱單數 neckbands"
+ },
+ "necked": {
+  "ph": "/nekt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(衣服)有...式樣的領圈的",
+    "def": "having a neck or having a neck especially as specified (often used in combination)"
+   }
+  ],
+  "forms": "過去式 necked"
+ },
+ "neckerchief": {
+  "ph": "/'nekәtʃif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圍巾, 頸巾",
+    "def": "a kerchief worn around the neck"
+   }
+  ],
+  "forms": "複數 neckerchiefs"
+ },
+ "necklace": {
+  "ph": "/'neklis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "項鍊",
+    "def": "jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)"
+   }
+  ],
+  "forms": "複數 necklaces｜過去式 necklaced｜現在分詞 necklacing"
+ },
+ "neckline": {
+  "ph": "/'neklain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領口, 領圈",
+    "def": "the line formed by the edge of a garment around the neck"
+   }
+  ],
+  "forms": "複數 necklines"
+ },
+ "neckpiece": {
+  "ph": "/'nekpi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "皮圍巾",
+    "def": "an article of apparel worn about the neck"
+   }
+  ]
+ },
+ "necktie": {
+  "ph": "/'nektai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領帶",
+    "def": "neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front"
+   }
+  ]
+ },
+ "neckwear": {
+  "ph": "/'nekwєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領子, 領帶, 圍巾",
+    "def": "articles of clothing worn about the neck"
+   }
+  ]
+ },
+ "necromancer": {
+  "ph": "/'nekrәumænsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巫師",
+    "def": "one who practices divination by conjuring up the dead"
+   }
+  ],
+  "forms": "複數 necromancers"
+ },
+ "necromancy": {
+  "ph": "/'nekrәumænsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巫術",
+    "def": "conjuring up the dead, especially for prophesying"
+   }
+  ]
+ },
+ "necrophilia": {
+  "ph": "/.nekrә'filiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戀屍狂",
+    "def": "an irresistible sexual attraction to dead bodies"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 戀屍欲, 屍體色情, 姦屍",
+    "def": ""
+   }
+  ]
+ },
+ "necropolis": {
+  "ph": "/ne'krɒpәlis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大墓地, 史前墳場",
+    "def": ""
+   }
+  ]
+ },
+ "necropsy": {
+  "ph": "/'nekrɒpsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驗屍",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 屍體剖檢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 necropsies"
+ },
+ "necrosis": {
+  "ph": "/ne'krәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壞死, 枯斑",
+    "def": "the localized death of living cells (as from infection or the interruption of blood supply)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 壞死",
+    "def": ""
+   }
+  ]
+ },
+ "necrotic": {
+  "ph": "/ne'krɒtik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "壞死的, 枯斑的",
+    "def": "relating to or affected by necrosis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 壞死的",
+    "def": ""
+   }
+  ]
+ },
+ "necrotizing": {
+  "ph": "/'nekrә,taiziŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 引起壞死的",
+    "def": ""
+   }
+  ]
+ },
+ "nectar": {
+  "ph": "/'nektә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神酒, 甜美飲料, 甘露",
+    "def": "a sweet liquid secretion that is attractive to pollinators"
+   }
+  ],
+  "forms": "複數 nectars"
+ },
+ "nectarine": {
+  "ph": "/'nektәri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜜桃",
+    "def": "variety or mutation of the peach bearing fruit with smooth skin and (usually) yellow flesh"
+   }
+  ],
+  "forms": "複數 nectarines"
+ },
+ "ned": {
+  "ph": "/ned/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "牛津大詞典",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neds"
+ },
+ "neddy": {
+  "ph": "/'nedi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驢, 馬",
+    "def": "A pet name for a donkey."
+   }
+  ]
+ },
+ "nederland": {
+  "ph": "/'neidәrlɑ:nt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<荷蘭語>= Netherlands",
+    "def": ""
+   }
+  ]
+ },
+ "nee": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "孃家姓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nees"
+ },
+ "need": {
+  "ph": "/ni:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "需要, 必須, 缺乏",
+    "def": "a condition requiring relief"
+   },
+   {
+    "pos": "vt.",
+    "zh": "需要, 必需",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "貧困, 有必要",
+    "def": ""
+   },
+   {
+    "pos": "aux.",
+    "zh": "需要",
+    "def": ""
+   }
+  ],
+  "forms": "複數 needs｜第三人稱單數 needs｜過去分詞 needed｜過去式 needed｜現在分詞 needing"
+ },
+ "needed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "需要的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 needed｜過去式 needed"
+ },
+ "needful": {
+  "ph": "/'ni:dful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "必要的, 需要的",
+    "def": ""
+   }
+  ]
+ },
+ "needham": {
+  "ph": "/'ni:dәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尼達姆(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "needier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貧困的；貧窮的；生活艱苦的 (needy的變形)",
+    "def": ""
+   }
+  ]
+ },
+ "neediness": {
+  "ph": "/'ni:dinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窮困, 貧窮",
+    "def": "the quality of needing attention and affection and reassurance to a marked degree"
+   }
+  ]
+ },
+ "needle": {
+  "ph": "/'ni:dl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "針, 尖",
+    "def": "a slender pointer for indicating the reading on the scale of a measuring instrument"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用針縫",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "縫紉",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 探針",
+    "def": ""
+   }
+  ],
+  "forms": "複數 needles｜現在分詞 needling｜過去式 needled｜第三人稱單數 needles｜過去分詞 needled"
+ },
+ "needlepoint": {
+  "ph": "/'ni:dlpɒint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "針尖, 針繡花邊",
+    "def": "embroidery consisting of allover embroidered canvas resembling tapestry"
+   }
+  ],
+  "forms": "複數 needlepoints"
+ },
+ "needless": {
+  "ph": "/'ni:dlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不需要的, 不必要的",
+    "def": ""
+   }
+  ]
+ },
+ "needlessly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不必要地；無用地",
+    "def": ""
+   }
+  ]
+ },
+ "needlewoman": {
+  "ph": "/'ni:dlwumәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縫紉女工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 needlewomen"
+ },
+ "needlework": {
+  "ph": "/'ni:dlwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刺繡, 縫紉",
+    "def": "a creation created or assembled by needle and thread"
+   }
+  ]
+ },
+ "needling": {
+  "ph": "/'ni:dliŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 針刺, 針術",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 needling"
+ },
+ "needy": {
+  "ph": "/'ni:di/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貧窮的, 貧困的, 生活艱苦的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 neediest"
+ },
+ "neem": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] 角（愛沙尼亞語）",
+    "def": ""
+   }
+  ]
+ },
+ "nefarious": {
+  "ph": "/ni'feәriәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惡毒的, 極壞的",
+    "def": ""
+   }
+  ]
+ },
+ "negate": {
+  "ph": "/ni'geit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "否定, 否認, 取消",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 非",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 negated｜過去式 negated｜第三人稱單數 negates｜現在分詞 negating｜複數 negates"
+ },
+ "negation": {
+  "ph": "/ni'geiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "否定, 反面, 不存在",
+    "def": "a negative statement; a statement that is a refusal or denial of some other statement"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 否定, 否認",
+    "def": ""
+   }
+  ],
+  "forms": "複數 negations"
+ },
+ "negative": {
+  "ph": "/'negәtiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "否定, 否定語, 負數, 底片",
+    "def": "a reply of denial"
+   },
+   {
+    "pos": "adj.",
+    "zh": "否定的, 消極的, 負的, 陰性的",
+    "def": "characterized by or displaying negation or denial or opposition or resistance; having no positive features"
+   },
+   {
+    "pos": "n.",
+    "zh": "負數, 負值",
+    "def": "a piece of photographic film showing an image with light and shade or colors reversed"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 負數, 負值",
+    "def": ""
+   }
+  ],
+  "forms": "複數 negatives｜過去分詞 negatived｜過去式 negatived｜現在分詞 negativing｜第三人稱單數 negatives"
+ },
+ "negatively": {
+  "ph": "/'ne^әtivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "否定地, 消極地",
+    "def": ""
+   }
+  ]
+ },
+ "negativism": {
+  "ph": "/'negәtivizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "否定論, 否定態度, 抗拒性",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 違拗症, 抗拒症",
+    "def": ""
+   }
+  ]
+ },
+ "negativity": {
+  "ph": "/.negә'tiviti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "否定性, 消極性",
+    "def": "the character of the negative electric pole"
+   }
+  ]
+ },
+ "negev": {
+  "ph": "/'ne^ev/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "內蓋夫(西南亞巴勒斯坦南部一地區)",
+    "def": ""
+   }
+  ]
+ },
+ "neglect": {
+  "ph": "/ni'glekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "疏忽, 忽略, 漏做",
+    "def": "the state of something that has been unused and neglected"
+   },
+   {
+    "pos": "vt.",
+    "zh": "疏忽, 忽視, 不顧",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 neglected｜現在分詞 neglecting｜第三人稱單數 neglects｜過去式 neglected"
+ },
+ "neglected": {
+  "ph": "/ni'^lektid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被忽視的, 未被好好照管的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 未被好好照管的, 被忽視的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 neglected｜過去式 neglected"
+ },
+ "neglectful": {
+  "ph": "/ni'glektful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不小心的, 疏忽的",
+    "def": ""
+   }
+  ]
+ },
+ "negligee": {
+  "ph": "/.negli:'ʒei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隨便的衣著, 休閒服, 女便服",
+    "def": "a loose dressing gown for women"
+   }
+  ],
+  "forms": "複數 negligees"
+ },
+ "negligence": {
+  "ph": "/'neglidʒәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "疏忽, 粗心大意, 忽視",
+    "def": "failure to act with the prudence that a reasonable person would exercise under the same circumstances"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 疏忽, 過失",
+    "def": ""
+   }
+  ]
+ },
+ "negligent": {
+  "ph": "/'neglidʒәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "疏忽的, 粗心的, 不在意的",
+    "def": "characterized by neglect and undue lack of concern"
+   }
+  ],
+  "forms": "比較級 negligenter"
+ },
+ "negligently": {
+  "ph": "/'neglidʒəntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "疏忽地；粗心大意地",
+    "def": ""
+   }
+  ]
+ },
+ "negligible": {
+  "ph": "/'neglidʒәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可以忽略的, 不足取的, 無用的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 可不計的, 可忽視的",
+    "def": ""
+   }
+  ]
+ },
+ "negligibly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可忽視地",
+    "def": ""
+   }
+  ]
+ },
+ "negotiable": {
+  "ph": "/ni'gәuʃiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可磋商的, 可轉讓的, 可通行的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 可流通的, 可轉讓的",
+    "def": ""
+   }
+  ]
+ },
+ "negotiate": {
+  "ph": "/ni'gәuʃieit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "商議, 談判, 交涉",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "談妥, 轉讓, 處理",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 negotiating｜過去分詞 negotiated｜過去式 negotiated｜第三人稱單數 negotiates"
+ },
+ "negotiated": {
+  "ph": "/niˈɡəuʃieitid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "談判, 協商, 議定( negotiate的過去式和過去分詞 ); 兌現（支票等）; 透過, 越過（險要路段）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 negotiated｜過去式 negotiated"
+ },
+ "negotiating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "談判",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 negotiating"
+ },
+ "negotiating table": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "談判桌",
+    "def": ""
+   }
+  ]
+ },
+ "negotiation": {
+  "ph": "/ni.gәuʃi'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "談判, 磋商, 交涉",
+    "def": "a discussion intended to produce an agreement"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 談判, 協商",
+    "def": ""
+   }
+  ],
+  "forms": "複數 negotiations"
+ },
+ "negotiator": {
+  "ph": "/ni'gәuʃieitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磋商者, 交涉者, 議定者",
+    "def": "someone who negotiates (confers with others in order to reach a settlement)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 談判者, 交易者, 協商者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 negotiators"
+ },
+ "negress": {
+  "ph": "/'ni:gris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女黑人",
+    "def": "a Black woman or girl"
+   }
+  ],
+  "forms": "複數 negresses"
+ },
+ "negritude": {
+  "ph": "/'ne^ritju:d, 'ni:^ri-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黑人文化傳統的認同, 對黑人文化傳統的自豪感",
+    "def": "an ideological position that holds Black culture to be independent and valid on its own terms; an affirmation of the African cultural heritage"
+   }
+  ]
+ },
+ "negro": {
+  "ph": "/'ni:grәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黑人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "黑人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 negros"
+ },
+ "negroid": {
+  "ph": "/'ni:grɒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "黑人似的, 象黑人的, 黑人特性的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "黑人",
+    "def": ""
+   }
+  ]
+ },
+ "nehru": {
+  "ph": "/'neiru:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尼赫魯（前印度總理）",
+    "def": "Indian statesman and leader with Gandhi in the struggle for home rule; was the first prime minister of the Republic of India from 1947 to 1964 (1889-1964)"
+   }
+  ]
+ },
+ "neigh": {
+  "ph": "/nei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬嘶聲",
+    "def": "the characteristic sounds made by a horse"
+   },
+   {
+    "pos": "vi.",
+    "zh": "馬嘶",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 neighed｜現在分詞 neighing｜複數 neighs｜第三人稱單數 neighs｜過去分詞 neighed"
+ },
+ "neighbor": {
+  "ph": "/'neibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鄰居",
+    "def": "a person who lives (or is located) near another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鄰接",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "毗鄰而居, 友好",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "鄰近的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neighbors｜現在分詞 neighboring｜過去式 neighbored｜第三人稱單數 neighbors｜過去分詞 neighbored"
+ },
+ "neighborhood": {
+  "ph": "/'neibәhud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附近, 鄰近",
+    "def": "people living near one another"
+   }
+  ],
+  "forms": "複數 neighborhoods"
+ },
+ "neighboring": {
+  "ph": "/'neibәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "附近的, 鄰近的, 鄰接的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 neighboring"
+ },
+ "neighborliness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睦鄰, 親近, 和睦",
+    "def": "a disposition to be friendly and helpful to neighbors"
+   }
+  ]
+ },
+ "neighborly": {
+  "ph": "/'neibәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "附近的, 鄰近的, 鄰人的, 睦鄰的",
+    "def": ""
+   }
+  ]
+ },
+ "neighbour": {
+  "ph": "/'neibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鄰居, 鄰接的東西, 鄰國, 鄰座, 鄰人, 世人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "鄰接的, 鄰近的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "vt. 鄰近, 與...結鄰, 鄰接",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neighbours｜現在分詞 neighbouring｜過去式 neighboured｜第三人稱單數 neighbours｜過去分詞 neighboured"
+ },
+ "neighbourhood": {
+  "ph": "/'neibәhud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鄰接, 周圍, 附近一帶, 鄰近, 鄰居關係, 地區, 街道, 街坊, 四鄰",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 鄰域",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neighbourhoods"
+ },
+ "neighbouring": {
+  "ph": "/'neibәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鄰近的, 接壤的, 附近的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 鄰近的, 附近的, 接壤的",
+    "def": ""
+   }
+  ]
+ },
+ "neighbourliness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "睦鄰, 親近, 和睦",
+    "def": ""
+   }
+  ]
+ },
+ "neighbourly": {
+  "ph": "/'neibәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鄰人似的, 友好的, 睦鄰的",
+    "def": ""
+   }
+  ]
+ },
+ "neil": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尼爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "neill": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Neill)人名；(法)內伊；(英)尼爾",
+    "def": ""
+   }
+  ]
+ },
+ "neilson": {
+  "ph": "/'ni:lsn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尼爾遜(人名)",
+    "def": ""
+   }
+  ]
+ },
+ "neither": {
+  "ph": "/'naiðә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "皆不, 兩個都不",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "(兩者)都不的",
+    "def": ""
+   },
+   {
+    "pos": "pron.",
+    "zh": "兩者都不",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "既非, 既不",
+    "def": ""
+   }
+  ]
+ },
+ "nel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "海軍電子研究所（Naval Electronics Laboratory）",
+    "def": ""
+   }
+  ]
+ },
+ "nell": {
+  "ph": "/nel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內爾（女子名, 等於Helen）",
+    "def": ""
+   }
+  ]
+ },
+ "nellie": {
+  "ph": "/'neli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內莉（女子名, 等於Nelly或Nell）",
+    "def": ""
+   }
+  ]
+ },
+ "nelly": {
+  "ph": "/'neli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內麗（女子名, 等於Eleanor, Ellen, Helen）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nellies"
+ },
+ "nelson": {
+  "ph": "/'nelsn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(摔跤用語)肩下握頸",
+    "def": "English admiral who defeated the French fleets of Napoleon but was mortally wounded at Trafalgar (1758-1805)"
+   }
+  ]
+ },
+ "nematode": {
+  "ph": "/'nemәtәud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "線蟲",
+    "def": "unsegmented worms with elongated rounded body pointed at both ends; mostly free-living but some are parasitic"
+   },
+   {
+    "pos": "adj.",
+    "zh": "線蟲綱的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nematodes｜第三人稱單數 nematodes"
+ },
+ "nemesis": {
+  "ph": "/'nemisis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "復仇女神, 給與懲罰的人, 天罰, 報應",
+    "def": "(Greek mythology) the goddess of divine retribution and vengeance"
+   }
+  ]
+ },
+ "nemo": {
+  "ph": "/'ni:mәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "現場轉播節目",
+    "def": ""
+   }
+  ]
+ },
+ "nene": {
+  "ph": "/'nei,nei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[鳥] 夏威夷雁(棕灰色,現瀕臨滅絕)",
+    "def": ""
+   }
+  ]
+ },
+ "neo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 最新式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neos"
+ },
+ "neoclassic": {
+  "ph": "/.ni:әu'klæsik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "新古典主義的",
+    "def": ""
+   }
+  ]
+ },
+ "neoclassical": {
+  "ph": "/'ni:әuklæsikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "新古典主義的",
+    "def": ""
+   }
+  ]
+ },
+ "neoclassicism": {
+  "ph": "/.ni:әu'klæsisizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新古典主義",
+    "def": "revival of a classical style (in art or literature or architecture or music) but from a new perspective or with a new motivation"
+   }
+  ]
+ },
+ "neocon": {
+  "ph": "/,ni:əu'kɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新保守主義；新保守主義者（等於neoconservative）",
+    "def": ""
+   }
+  ]
+ },
+ "neoconservative": {
+  "ph": "/,ni:әjkәn's\\\\\\\\:vәtiv/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<美>n.(前自由派在政治上轉向保守的) 新保守主義者, 新保守派",
+    "def": ""
+   }
+  ]
+ },
+ "neocortex": {
+  "ph": "/,niәu'kɔ:teks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 新[大腦]皮質",
+    "def": ""
+   }
+  ]
+ },
+ "neodymium": {
+  "ph": "/.ni:әu'dimiәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釹",
+    "def": "a yellow trivalent metallic element of the rare earth group; occurs in monazite and bastnasite in association with cerium and lanthanum and praseodymium"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 釹Nd",
+    "def": ""
+   }
+  ]
+ },
+ "neoliberal": {
+  "ph": "/ˌni:əʊ'lɪbərəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新自由主義者",
+    "def": "a liberal who subscribes to neoliberalism"
+   }
+  ],
+  "forms": "複數 neoliberals"
+ },
+ "neoliberalism": {
+  "ph": "/,niәu'libәrәlizәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "新自由主義",
+    "def": ""
+   }
+  ]
+ },
+ "neolithic": {
+  "ph": "/.ni:әu'liθik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "新石器時代的",
+    "def": "of or relating to the most recent period of the Stone Age (following the mesolithic)"
+   }
+  ]
+ },
+ "neologism": {
+  "ph": "/ni:'ɒlәdʒizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新語, 使用新語, 創造新語",
+    "def": "a newly invented word or phrase"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 新語症; 語詞新作, 新詞症",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neologisms"
+ },
+ "neomycin": {
+  "ph": "/.ni:әu'maisin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新黴素",
+    "def": "an antibiotic obtained from an actinomycete and used (as a sulphate under the trade name Neobiotic) as an intestinal antiseptic in surgery"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 新黴素",
+    "def": ""
+   }
+  ]
+ },
+ "neon": {
+  "ph": "/'ni:ɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氖",
+    "def": "a colorless odorless gaseous element that give a red glow in a vacuum tube; one of the six inert gasses; occurs in the air in small amounts"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氖Ne",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neons"
+ },
+ "neonatal": {
+  "ph": "/,ni:әu'neitәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "出生不滿一個月的嬰兒",
+    "def": "relating to or affecting the infant during the first month after birth"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 新生[期]的",
+    "def": ""
+   }
+  ]
+ },
+ "neonate": {
+  "ph": "/'ni:әuneit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嬰兒",
+    "def": "a baby from birth to four weeks"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 新生兒; 新生的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neonates｜第三人稱單數 neonates"
+ },
+ "neonatology": {
+  "ph": "/,ni:әunә'tɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 新生兒科學",
+    "def": ""
+   }
+  ]
+ },
+ "neophyte": {
+  "ph": "/'ni:әufait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新入教者, 新信徒",
+    "def": "a plant that is found in an area where it had not been recorded previously"
+   }
+  ],
+  "forms": "複數 neophytes"
+ },
+ "neoplasia": {
+  "ph": "/'ni(:)әu'pleizʒә, -ʒiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘤形成",
+    "def": "the pathological process that results in the formation and growth of a tumor"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瘤形成",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neoplasias"
+ },
+ "neoplasm": {
+  "ph": "/'ni(:)әuplæzәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "贅生物, 瘤",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 新生物, [腫]瘤, 贅生物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neoplasms"
+ },
+ "neoplastic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "贅生物的, 瘤的, 腫瘤的, 贅生的, 新生物的",
+    "def": "of or related to or having the properties of a neoplasm"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 新生物的, [腫]瘤的; 瘤形成的",
+    "def": ""
+   }
+  ]
+ },
+ "neoplatonic": {
+  "ph": "/,ni:əuplə'tɔnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "Neoplatonism的變形",
+    "def": "Of, pertaining to, or resembling, Neoplatonism or the"
+   }
+  ]
+ },
+ "neoplatonism": {
+  "ph": "/.ni:әu'pleitәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新柏拉圖派哲學",
+    "def": "a system of philosophical and theological doctrines composed of elements of Platonism and Aristotelianism and oriental mysticism; its most distinctive doctrine "
+   }
+  ]
+ },
+ "neoprene": {
+  "ph": "/'ni:әupri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氯丁(二烯)橡膠",
+    "def": "a synthetic rubber that is resistant to oils and aging; used in waterproof products"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氯丁橡膠; 氯丁二烯橡膠",
+    "def": ""
+   }
+  ]
+ },
+ "neotropical": {
+  "ph": "/,ni:әj'trɔpikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[地]新熱帶區的",
+    "def": "Belonging to, or designating, a region of the earth's"
+   }
+  ]
+ },
+ "nep": {
+  "ph": "/nep/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "New Economic Policy (羅斯福)新政",
+    "def": ""
+   }
+  ]
+ },
+ "nepal": {
+  "ph": "/ni'pɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尼泊爾",
+    "def": "a small landlocked Asian country high in the Himalayas between India and China"
+   }
+  ]
+ },
+ "nepalese": {
+  "ph": "/.nepә'li:z/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尼泊爾的",
+    "def": "of or pertaining to or characteristic of Nepal or its people or language or culture"
+   },
+   {
+    "pos": "n.",
+    "zh": "尼泊爾人",
+    "def": "a native or inhabitant of Nepal"
+   }
+  ]
+ },
+ "nepali": {
+  "ph": "/ni'pɒ:li/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尼泊爾人, 尼泊爾語",
+    "def": "the official state language of Nepal"
+   },
+   {
+    "pos": "adj.",
+    "zh": "尼泊爾的",
+    "def": ""
+   }
+  ]
+ },
+ "nephew": {
+  "ph": "/'nefju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "侄子, 外甥",
+    "def": "a son of your brother or sister"
+   }
+  ],
+  "forms": "複數 nephews"
+ },
+ "nephrectomy": {
+  "ph": "/ne'frektәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腎切除術",
+    "def": "surgical removal of a kidney"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腎切除術",
+    "def": ""
+   }
+  ]
+ },
+ "nephritis": {
+  "ph": "/ne'fraitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腎炎",
+    "def": "an inflammation of the kidney"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腎炎",
+    "def": ""
+   }
+  ]
+ },
+ "nephrologist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腎病學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nephrologists"
+ },
+ "nephropathy": {
+  "ph": "/ni'frɔpәθi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腎病",
+    "def": ""
+   }
+  ]
+ },
+ "nephrotoxic": {
+  "ph": "/,nefrә'tɔksik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腎中毒的",
+    "def": ""
+   }
+  ]
+ },
+ "nepotism": {
+  "ph": "/'nepәtizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偏袒親屬, 起用親戚",
+    "def": "favoritism shown to relatives or close friends by those in power (as by giving them jobs)"
+   }
+  ]
+ },
+ "nepotistic": {
+  "ph": "/,nepə'tistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裙帶關係的；重用親戚的；任人唯親的",
+    "def": ""
+   }
+  ]
+ },
+ "neptune": {
+  "ph": "/'neptju:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海王星",
+    "def": "(Roman mythology) god of the sea; counterpart of Greek Poseidon"
+   }
+  ]
+ },
+ "nerc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）全國環境研究委員會（National Environment Research Council）；（英國）全國電子研究委員會（National Electronics Research Council）；（美國）全國電力安全委員會（National Electric Reliability Council）",
+    "def": ""
+   }
+  ]
+ },
+ "nerd": {
+  "ph": "/nә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "討厭的人；呆子",
+    "def": "an intelligent but single-minded expert in a particular technical field or profession"
+   }
+  ],
+  "forms": "複數 nerds"
+ },
+ "nerdy": {
+  "ph": "/'nɜːdi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傻瓜似的；蠢的",
+    "def": ""
+   }
+  ]
+ },
+ "nero": {
+  "ph": "/'niәrәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尼祿（古羅馬暴君）",
+    "def": "Roman Emperor notorious for his monstrous vice and fantastic luxury (was said to have started a fire that destroyed much of Rome in 64) but the Roman Empire rem"
+   }
+  ]
+ },
+ "nerve": {
+  "ph": "/nә:v/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精神, 勇氣, 葉脈, 神經",
+    "def": "any bundle of nerve fibers running to various organs and tissues of the body"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鼓起勇氣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nerves｜過去式 nerved｜現在分詞 nerving｜過去分詞 nerved｜第三人稱單數 nerves"
+ },
+ "nerveless": {
+  "ph": "/'nә:vlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無力的, 無力氣的, 鬆懈的",
+    "def": ""
+   }
+  ]
+ },
+ "nervosa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經衰弱",
+    "def": ""
+   }
+  ]
+ },
+ "nervous": {
+  "ph": "/'nә:vәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經緊張的, 不安的, 神經的",
+    "def": "of or relating to the nervous system"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經的; 神經質的, 神經過敏的",
+    "def": ""
+   }
+  ]
+ },
+ "nervous breakdown": {
+  "ph": "/ˈnə:vəs ˈbreikdaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經失常",
+    "def": ""
+   }
+  ]
+ },
+ "nervous system": {
+  "ph": "/ˈnə:vəs ˈsistəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經系統",
+    "def": ""
+   }
+  ]
+ },
+ "nervously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "焦急地；神經質地；提心吊膽地",
+    "def": ""
+   }
+  ]
+ },
+ "nervousness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經, 神經元, 易激動, 緊張不安, 神經過敏, 神經質, 擔憂, 害怕, 簡練, 剛勁",
+    "def": "an uneasy psychological state"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經過敏",
+    "def": ""
+   }
+  ]
+ },
+ "nervy": {
+  "ph": "/'nә:vi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有勇氣的, 易激動的",
+    "def": ""
+   }
+  ]
+ },
+ "nesbit": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "內斯位元（美國城市或蘇格蘭人、北方英格蘭人姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "nesbitt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Nesbitt)人名；(英、葡)內斯位元",
+    "def": ""
+   }
+  ]
+ },
+ "nescafe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雀巢咖啡",
+    "def": ""
+   }
+  ]
+ },
+ "ness": {
+  "ph": "/nes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海角",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nesses"
+ },
+ "nessie": {
+  "ph": "/'nesi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<口>(英國蘇格蘭北部的)尼斯湖水怪",
+    "def": ""
+   }
+  ]
+ },
+ "nest": {
+  "ph": "/nest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巢, 窩, 休息所, 隱匿處",
+    "def": "a structure in which animals lay eggs or give birth to their young"
+   },
+   {
+    "pos": "vi.",
+    "zh": "築巢, 找鳥巢",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "為...設窩, 使套疊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 巢狀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nests｜現在分詞 nesting｜過去分詞 nested｜第三人稱單數 nests｜過去式 nested"
+ },
+ "nested": {
+  "ph": "/'nestid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "巢狀的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 巢狀的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 nested｜過去式 nested"
+ },
+ "nester": {
+  "ph": "/'nestә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穴居的獸；築巢的鳥；放牧地自耕農；試驗篩組的單位篩",
+    "def": "a bird that has built (or is building) a nest"
+   }
+  ],
+  "forms": "複數 nesters"
+ },
+ "nesting": {
+  "ph": "/'nestiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 巢狀",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 nesting｜複數 nestings"
+ },
+ "nestle": {
+  "ph": "/'nesl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "舒適地坐定, 挨靠, 偎依",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "抱, 安置",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 nestling｜過去式 nestled｜第三人稱單數 nestles｜過去分詞 nestled"
+ },
+ "nestled": {
+  "ph": "/ˈnesəld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "舒適而溫暖地安定下來( nestle的過去式和過去分詞 ); 依偎; 溫暖舒服地靠攏; 偎依",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 nestled"
+ },
+ "nestling": {
+  "ph": "/'nesliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剛孵出的雛, 未離巢的雛, 幼兒",
+    "def": "young bird not yet fledged"
+   }
+  ],
+  "forms": "複數 nestlings"
+ },
+ "nestor": {
+  "ph": "/'nestɔ:, -tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內斯特；聰明的長者",
+    "def": "(Greek mythology) a wise old counselor to the Greeks at Troy"
+   }
+  ]
+ },
+ "net": {
+  "ph": "/net/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網, 網狀物, 羅網, 淨利, 淨價",
+    "def": "a trap made of netting to catch fish or birds or insects"
+   },
+   {
+    "pos": "adj.",
+    "zh": "淨的, 最終的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用網捕, 撒網, 淨賺, 得到",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "編網",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 網路, 網路分析程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nets｜過去式 netted｜過去分詞 netted｜現在分詞 netting｜第三人稱單數 nets"
+ },
+ "netball": {
+  "ph": "/'netbɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無擋板藍球",
+    "def": "a team game that resembles basketball; a soccer ball is to be thrown so that it passes through a ring on the top of a post"
+   }
+  ]
+ },
+ "nether": {
+  "ph": "/'neðә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "下面的, 下方的, 地下的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 天然鹼",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 nethers"
+ },
+ "netherland": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荷蘭（正式名稱為尼德蘭王國The Kingdom of the Netherlands）",
+    "def": ""
+   }
+  ]
+ },
+ "netherlands": {
+  "ph": "/'neðәlәndz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荷蘭",
+    "def": "a constitutional monarchy in western Europe on the North Sea; half the country lies below sea level"
+   }
+  ]
+ },
+ "nethermost": {
+  "ph": "/'neðәmәust/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最低的, 最下面的",
+    "def": ""
+   }
+  ]
+ },
+ "netherworld": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陰間, 下層社會",
+    "def": ""
+   }
+  ]
+ },
+ "netiquette": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 網路格式, 網路禮儀",
+    "def": ""
+   }
+  ]
+ },
+ "nets": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網（net的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "nett": {
+  "ph": "/net/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 淨餘, 淨額",
+    "def": ""
+   }
+  ]
+ },
+ "netted": {
+  "ph": "/'netid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用網捕獲的, 張網的, 網狀的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 netted"
+ },
+ "netter": {
+  "ph": "/'netә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網客；網友；網蟲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 netters"
+ },
+ "netting": {
+  "ph": "/'netiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網, 結網, 網魚",
+    "def": "creating nets"
+   }
+  ],
+  "forms": "現在分詞 netting｜複數 nettings"
+ },
+ "nettle": {
+  "ph": "/'netl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蕁麻",
+    "def": "any of numerous plants having stinging hairs that cause skin irritation on contact (especially of the genus Urtica or family Urticaceae)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以蕁麻刺, 激怒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nettles｜過去式 nettled｜過去分詞 nettled｜現在分詞 nettling｜第三人稱單數 nettles"
+ },
+ "nettlesome": {
+  "ph": "/'netlsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人激惱的, 煩人的, 易怒的",
+    "def": ""
+   }
+  ]
+ },
+ "netware": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] NetWare網路作業系統",
+    "def": ""
+   }
+  ]
+ },
+ "network": {
+  "ph": "/'netwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網路, 廣播網, 網狀物",
+    "def": "an interconnected system of things or people"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 網路",
+    "def": ""
+   }
+  ],
+  "forms": "複數 networks｜現在分詞 networking｜過去分詞 networked｜過去式 networked｜第三人稱單數 networks"
+ },
+ "networked": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "網路的；廣播電視聯播的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 networked"
+ },
+ "networker": {
+  "ph": "/ˈnetwə:kə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "致力於建立關係網的人",
+    "def": ""
+   }
+  ]
+ },
+ "networking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 連網, 建網",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 networking"
+ },
+ "neue": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尼（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "neumann": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 諾伊曼",
+    "def": ""
+   }
+  ]
+ },
+ "neural": {
+  "ph": "/'njuәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經的, 神經系統的, 神經中樞的, 背的",
+    "def": "of or relating to neurons"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經的",
+    "def": ""
+   }
+  ]
+ },
+ "neuralgia": {
+  "ph": "/nju'rældʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經痛",
+    "def": "acute spasmodic pain along the course of one or more nerves"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經痛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neuralgias"
+ },
+ "neuralgic": {
+  "ph": "/nju'rældʒik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經痛的",
+    "def": "of or relating to or suffering from neuralgia"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經痛的",
+    "def": ""
+   }
+  ]
+ },
+ "neurasthenia": {
+  "ph": "/.njurәs'θi:niә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經衰弱症",
+    "def": "nervous breakdown (not in technical use)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經衰弱, 比爾德氏病",
+    "def": ""
+   }
+  ]
+ },
+ "neurasthenic": {
+  "ph": "/.njurәs'θenik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經衰弱的",
+    "def": "of or relating to or suffering from neurasthenia"
+   },
+   {
+    "pos": "n.",
+    "zh": "神經衰弱者",
+    "def": "a person suffering a nervous breakdown"
+   }
+  ]
+ },
+ "neuritis": {
+  "ph": "/nju'raitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經炎",
+    "def": "inflammation of a nerve accompanied by pain and sometimes loss of function"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經炎",
+    "def": ""
+   }
+  ]
+ },
+ "neuroanatomy": {
+  "ph": "/,njuәrәuә'nætәmi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經解剖學",
+    "def": ""
+   }
+  ]
+ },
+ "neurobehavioral": {
+  "ph": "/nju:rəʊbɪheɪ'vi:əʊrəl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]神經行為的：與透過觀察行為衡量神經的狀態有關的",
+    "def": ""
+   }
+  ]
+ },
+ "neurobiological": {
+  "ph": "/,njuərəu,baiə'lɔdʒikəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經生物學的",
+    "def": "of or relating to the biological study of the nervous system"
+   }
+  ]
+ },
+ "neurobiologist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]神經生物學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neurobiologists"
+ },
+ "neurobiology": {
+  "ph": "/,njuәrәubai'ɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經生物學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neurobiologies"
+ },
+ "neurochemical": {
+  "ph": "/,njjәrәj'kemikəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "影響神經系統的化學物質",
+    "def": "any organic substance that occurs in neural activity"
+   }
+  ]
+ },
+ "neurochemistry": {
+  "ph": "/,njuәrә'kemistri/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經化學",
+    "def": ""
+   }
+  ]
+ },
+ "neurodegenerative": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經變性的",
+    "def": ""
+   }
+  ]
+ },
+ "neurodevelopmental": {
+  "ph": "/nərəʊdi:'veləpmentl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]神經發育的",
+    "def": ""
+   }
+  ]
+ },
+ "neuroendocrine": {
+  "ph": "/,nju:rә'endәkrain/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經內分泌的",
+    "def": ""
+   }
+  ]
+ },
+ "neurofibroma": {
+  "ph": "/,njjәrәjfai'brәjmә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經纖維瘤",
+    "def": ""
+   }
+  ]
+ },
+ "neurofibromatosis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經纖維瘤病, 多發性神經纖維瘤",
+    "def": ""
+   }
+  ]
+ },
+ "neurogenic": {
+  "ph": "/njuәrәu'dʒenik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經原的, 神經性的",
+    "def": "arising in or stimulated by nerve tissues"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 發生神經的; 神經原[性]的",
+    "def": ""
+   }
+  ]
+ },
+ "neurologic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經病學",
+    "def": ""
+   }
+  ]
+ },
+ "neurological": {
+  "ph": "/.njurә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經病學上的",
+    "def": "of or relating to or used in or practicing neurology"
+   }
+  ]
+ },
+ "neurologist": {
+  "ph": "/nju'rɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經病學者, 神經科醫師",
+    "def": "a medical specialist in the nervous system and the disorders affecting it"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經病學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neurologists"
+ },
+ "neurology": {
+  "ph": "/nju'rɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經病學",
+    "def": "the branch of medical science that deals with the nervous system"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經病學",
+    "def": ""
+   }
+  ]
+ },
+ "neuroma": {
+  "ph": "/nju'rәumә, nu-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經瘤",
+    "def": "any tumor derived from cells of the nervous system"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經瘤",
+    "def": ""
+   }
+  ]
+ },
+ "neuromuscular": {
+  "ph": "/njuәrәu'mʌskjulә, nuәr-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經肌肉的",
+    "def": "affecting or characteristic of both neural and muscular tissue"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經肌肉的",
+    "def": ""
+   }
+  ]
+ },
+ "neuron": {
+  "ph": "/'njuәrɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經原, 軸索, 神經細胞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 神經元",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neurons"
+ },
+ "neuronal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經原, 軸索, 神經細胞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 二乙基溴乙醯胺",
+    "def": ""
+   }
+  ]
+ },
+ "neurone": {
+  "ph": "/'njuәrɔn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經元; 軸索; 腦脊髓軸(罕用)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neurones｜第三人稱單數 neurones"
+ },
+ "neuropathic": {
+  "ph": "/.njurә'pæθik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經病的",
+    "def": "Of or pertaining to neuropathy; of the nature of, or"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經病的",
+    "def": ""
+   }
+  ]
+ },
+ "neuropathy": {
+  "ph": "/nju'rɒpәθi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經病",
+    "def": "any pathology of the peripheral nerves"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經病",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neuropathies"
+ },
+ "neuropeptide": {
+  "ph": "/,njjәrә'peptaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[生化]神經肽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neuropeptides"
+ },
+ "neurophysiological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經生理學的; 神經生理的",
+    "def": "of or concerned with neurophysiology"
+   }
+  ]
+ },
+ "neurophysiologist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]神經生理學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neurophysiologists"
+ },
+ "neurophysiology": {
+  "ph": "/,njuәrәu,fizi'ɔlәdʒi, ,nuә-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經生理學",
+    "def": "the branch of neuroscience that studies the physiology of the nervous system"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經生理學",
+    "def": ""
+   }
+  ]
+ },
+ "neuropsychiatric": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神經精神病學的",
+    "def": "of or relating to neuropsychiatry"
+   }
+  ]
+ },
+ "neuropsychiatry": {
+  "ph": "/,njuәrәusi'kaiәtri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經精神病學",
+    "def": "the branch of medicine dealing with mental disorders attributable to diseases of the nervous system"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經精神病學",
+    "def": ""
+   }
+  ]
+ },
+ "neuropsychological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "神經心理學",
+    "def": ""
+   }
+  ]
+ },
+ "neuropsychologist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "神經心理學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neuropsychologists"
+ },
+ "neuropsychology": {
+  "ph": "/,njjәrәjsai'kɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經心理學",
+    "def": ""
+   }
+  ]
+ },
+ "neuroscience": {
+  "ph": "/,njuәrәu'saiәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經系統科學( 指神經病學、 神經化學等)",
+    "def": "the scientific study of the nervous system"
+   }
+  ],
+  "forms": "複數 neurosciences"
+ },
+ "neuroscientist": {
+  "ph": "/'njʊərəʊsaɪəntɪst/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]神經科學家：神經科學各分支的專家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neuroscientists"
+ },
+ "neurosis": {
+  "ph": "/nju'rәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經症, 神經機能病",
+    "def": "a mental or personality disturbance not attributable to any known neurological or organic dysfunction"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經機能病, 神經[官能]症",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neuroses"
+ },
+ "neurosurgeon": {
+  "ph": "/,njjәrәj's\\\\\\\\:dʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經外科醫師",
+    "def": "someone who does surgery on the nervous system (especially the brain)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經外科醫師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neurosurgeons"
+ },
+ "neurosurgery": {
+  "ph": "/, njuәrәu'sә:dʒәri, nuә-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經外科學",
+    "def": ""
+   }
+  ]
+ },
+ "neurosurgical": {
+  "ph": "/ˌnjʊərəʊˈsɜ:dʒɪkl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<醫>神經外科的",
+    "def": ""
+   }
+  ]
+ },
+ "neurotic": {
+  "ph": "/nju'rɒtik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經症患者",
+    "def": "a person suffering from neurosis"
+   },
+   {
+    "pos": "adj.",
+    "zh": "神經質的, 神經症的",
+    "def": "characteristic of or affected by neurosis"
+   }
+  ],
+  "forms": "複數 neurotics"
+ },
+ "neurotically": {
+  "ph": "/njuə'rɔtikəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "神經質地；神經過敏地",
+    "def": ""
+   }
+  ]
+ },
+ "neuroticism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經過敏症",
+    "def": ""
+   }
+  ]
+ },
+ "neurotoxic": {
+  "ph": "/,njuәrәu'tɔksik, nuә-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "毒害神經的",
+    "def": "poisonous to nerves or nerve cells"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經中毒的",
+    "def": ""
+   }
+  ]
+ },
+ "neurotoxin": {
+  "ph": "/,njuәrәu'tɔksin, nuә-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 神經毒素",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 神經毒素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neurotoxins"
+ },
+ "neurotransmitter": {
+  "ph": "/,njuәrәtræns'mitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神經遞質",
+    "def": "a neurochemical that transmits nerve impulses across a synapse"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 神經遞質",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neurotransmitters｜第三人稱單數 neurotransmitters"
+ },
+ "neurovascular": {
+  "ph": "/,njjәrәj'væskjjlә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 神經血管的",
+    "def": ""
+   }
+  ]
+ },
+ "neuter": {
+  "ph": "/'nju:tә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中性的, 不及物的, 生殖器不完全的",
+    "def": "of grammatical gender"
+   },
+   {
+    "pos": "n.",
+    "zh": "中性詞, 無性動物, 閹割動物",
+    "def": "a gender that refers chiefly (but not exclusively) to inanimate objects (neither masculine nor feminine)"
+   }
+  ],
+  "forms": "過去分詞 neutered｜過去式 neutered｜現在分詞 neutering｜複數 neuters｜第三人稱單數 neuters"
+ },
+ "neutered": {
+  "ph": "/'njuːtə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無性動物；中性名詞；閹割動物",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "中性的；不及物的；無性的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 neutered"
+ },
+ "neutering": {
+  "ph": "/'njuːtə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無性動物；中性名詞；閹割動物",
+    "def": "the sterilization of an animal"
+   },
+   {
+    "pos": "adj.",
+    "zh": "中性的；不及物的；無性的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 neutering"
+ },
+ "neutral": {
+  "ph": "/'nju:trәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中立者, 中立國, 非彩色, 空檔",
+    "def": "one who does not side with any party in a war or dispute"
+   },
+   {
+    "pos": "adj.",
+    "zh": "中立的, 中性的, 無色的",
+    "def": "possessing no distinctive quality or characteristics"
+   }
+  ],
+  "forms": "複數 neutrals"
+ },
+ "neutralisation": {
+  "ph": "/,nju:trәlai'zeiʃәn;-li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中立狀態,[軍]壓制,[化]中和(作用),[電]中和,平衡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neutralisations"
+ },
+ "neutralise": {
+  "ph": "/'nju:trәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使中立化, 使成為無效",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "vi. 抵銷, (使)中和",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 neutralised｜現在分詞 neutralising｜第三人稱單數 neutralises｜過去式 neutralised｜複數 neutralises"
+ },
+ "neutralised": {
+  "ph": "/'nju:trəlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "中和；使中立；使無效",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "中和",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 neutralised｜過去式 neutralised"
+ },
+ "neutrality": {
+  "ph": "/nju:'træliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中立, 不偏不倚, 中間狀態",
+    "def": "nonparticipation in a dispute or war"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 中性; 無作用[性]",
+    "def": ""
+   }
+  ]
+ },
+ "neutralization": {
+  "ph": "/,nju:trәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中立化, 中立狀態, 中和",
+    "def": "action intended to keep a country politically neutral or exclude it from a possible war"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 中和; 中和作用; 抵消; 使失效",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neutralizations"
+ },
+ "neutralize": {
+  "ph": "/'nju:trәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使中立, 使成中立地帶, 使中和, 抵銷",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "中立化, 變無效, 中和",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 neutralized｜現在分詞 neutralizing｜過去式 neutralized｜第三人稱單數 neutralizes"
+ },
+ "neutralized": {
+  "ph": "/ˈnu:trəˌlaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使失效( neutralize的過去式和過去分詞 ); 抵消; 中和; 使（一個國家）中立化",
+    "def": ""
+   }
+  ]
+ },
+ "neutralizer": {
+  "ph": "/'nju:trәlaizә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 中和器; 中和劑",
+    "def": ""
+   }
+  ]
+ },
+ "neutralizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 中和",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 neutralizing"
+ },
+ "neutrally": {
+  "ph": "/'nju:trәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "中立, 保持中立",
+    "def": "In a neutral manner; without taking part with either"
+   }
+  ]
+ },
+ "neutrino": {
+  "ph": "/nju:'tri:nәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中微子",
+    "def": "an elementary particle with zero charge and zero mass"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 中微子; 微中子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neutrinos"
+ },
+ "neutrogena": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "露得清（化妝品品牌）",
+    "def": ""
+   }
+  ]
+ },
+ "neutron": {
+  "ph": "/'nju:trɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中子",
+    "def": "an elementary particle with 0 charge and mass about equal to a proton; enters into the structure of the atomic nucleus"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 中子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 neutrons"
+ },
+ "neutropenia": {
+  "ph": "/,nju:trәu'pi:niә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嗜中性白血球減少症",
+    "def": "leukopenia in which the decrease is primarily in number of neutrophils (the chief phagocytic leukocyte)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 中性白細胞減少[症]",
+    "def": ""
+   }
+  ]
+ },
+ "neutrophil": {
+  "ph": "/'nju:trәfil/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嗜中性的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "嗜中性白細胞, 嗜中性白血球",
+    "def": "the chief phagocytic leukocyte; stains with either basic or acid dyes"
+   }
+  ],
+  "forms": "複數 neutrophils｜第三人稱單數 neutrophils"
+ },
+ "nev": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "內華達（美國州名, Nevada）",
+    "def": ""
+   }
+  ]
+ },
+ "nevada": {
+  "ph": "/ni'vædә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內華達",
+    "def": "a state in the southwestern United States"
+   }
+  ]
+ },
+ "never": {
+  "ph": "/'nevә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "從不, 決不, 不曾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 永不, 決不, 從來沒有",
+    "def": ""
+   }
+  ]
+ },
+ "never-ending": {
+  "ph": "/'nevәr,endiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不停的, 無限的",
+    "def": ""
+   }
+  ]
+ },
+ "nevermore": {
+  "ph": "/.nevә'mɒ:/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "決不再",
+    "def": ""
+   }
+  ]
+ },
+ "nevertheless": {
+  "ph": "/.nevәðә'les/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "然而, 雖然如此",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "然而",
+    "def": ""
+   }
+  ]
+ },
+ "nevil": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "內維爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "nevill": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Nevill)人名；(英)內維爾",
+    "def": ""
+   }
+  ]
+ },
+ "neville": {
+  "ph": "/'nevil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內維爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "nevin": {
+  "ph": "/'nevin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "內文(姓氏, 男子名)",
+    "def": ""
+   }
+  ]
+ },
+ "nevis": {
+  "ph": "/'ni:vis,'ne-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尼維斯島",
+    "def": ""
+   }
+  ]
+ },
+ "new": {
+  "ph": "/nju:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "新的, 陌生的, 最近的, 不熟悉的",
+    "def": "not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 新發現的, 新的, 重新開始的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 newer｜最高級 newest"
+ },
+ "new age": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新時代；新世紀",
+    "def": ""
+   }
+  ]
+ },
+ "new found": {
+  "ph": "/'nju:faund/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "新發現的；新得到的",
+    "def": ""
+   }
+  ]
+ },
+ "new testament": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新約全書",
+    "def": ""
+   }
+  ]
+ },
+ "new town": {
+  "ph": "/nju: taun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英>新市鎮; 新區; 衛星城",
+    "def": ""
+   }
+  ]
+ },
+ "new wave": {
+  "ph": "/nju: weiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新潮流, 新風尚, 新趨勢",
+    "def": ""
+   }
+  ]
+ },
+ "new world": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "新世界（指西半球或南、北美洲及其附近島嶼）",
+    "def": ""
+   }
+  ]
+ },
+ "new year": {
+  "ph": "/'nju:'jә:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "新年",
+    "def": ""
+   }
+  ]
+ },
+ "newall": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Newall)人名；(英)紐沃爾",
+    "def": ""
+   }
+  ]
+ },
+ "newark": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐瓦克市（美國新澤西州港市）",
+    "def": "the largest city in New Jersey; located in northeastern New Jersey"
+   }
+  ]
+ },
+ "newbie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 新成員",
+    "def": ""
+   }
+  ]
+ },
+ "newborn": {
+  "ph": "/'nju:bɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嬰兒",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "新生的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newborns"
+ },
+ "newbridge": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "紐布里奇（英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "newburgh": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Newburgh)人名；(英)紐伯格",
+    "def": "a town on the Hudson River in New York; in 1782 and 1783 it was George Washington's headquarters"
+   }
+  ]
+ },
+ "newbury": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Newbury)人名；(英)紐伯裡",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "紐伯裡",
+    "def": ""
+   }
+  ]
+ },
+ "newby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐比（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "newcastle": {
+  "ph": "/'nju:,kɑ:sl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐卡斯爾（英國港市）",
+    "def": "a port city in northeastern England on the River Tyne; a center for coal exports (giving rise to the expression `carry coals to Newcastle' meaning to do somethi"
+   }
+  ]
+ },
+ "newcombe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Newcombe)人名；(英)紐科姆",
+    "def": ""
+   }
+  ]
+ },
+ "newcomen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Newcomen)人名；(英)紐科門",
+    "def": ""
+   }
+  ]
+ },
+ "newcomer": {
+  "ph": "/nju:'kʌmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新來者",
+    "def": "any new participant in some activity"
+   }
+  ],
+  "forms": "複數 newcomers"
+ },
+ "newel": {
+  "ph": "/'nju:әl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(螺旋型樓梯的)中心柱, 樓梯端柱",
+    "def": "the central pillar of a circular staircase"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 盤旋柱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newels"
+ },
+ "newell": {
+  "ph": "/'nju:әl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐厄爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "newfangled": {
+  "ph": "/'nju:fæŋgld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "新奇的, 最新式的, 最新流行的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 newfangled"
+ },
+ "newfound": {
+  "ph": "/'nju:fajnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "新發現的",
+    "def": ""
+   }
+  ]
+ },
+ "newfoundland": {
+  "ph": "/,nju:fәnd'lænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐芬蘭",
+    "def": "a breed of very large heavy dogs with a thick coarse usually black coat; highly intelligent dogs and vigorous swimmers; developed in Newfoundland"
+   }
+  ]
+ },
+ "newgate": {
+  "ph": "/'nju:git/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐蓋特監獄",
+    "def": "a former prison in London notorious for its unsanitary conditions and burnt down in riots in 1780; a new prison was built on the same spot but was torn down in "
+   },
+   {
+    "pos": "",
+    "zh": "[法] 新門監獄",
+    "def": ""
+   }
+  ]
+ },
+ "newham": {
+  "ph": "/'nju:әm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "紐漢[英國英格蘭東南部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "newhaven": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐黑文（美國古城）",
+    "def": ""
+   }
+  ]
+ },
+ "newington": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "紐因頓",
+    "def": ""
+   }
+  ]
+ },
+ "newish": {
+  "ph": "/'nju:iʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尚新的",
+    "def": "Somewhat new; nearly new."
+   }
+  ]
+ },
+ "newland": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Newland)人名；(英)紐蘭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newlands"
+ },
+ "newly": {
+  "ph": "/'nju:li/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "重新, 最近",
+    "def": ""
+   }
+  ]
+ },
+ "newlywed": {
+  "ph": "/'nju:liwed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新(婚的)人, 新婚夫婦",
+    "def": "someone recently married"
+   }
+  ],
+  "forms": "複數 newlyweds"
+ },
+ "newman": {
+  "ph": "/'nju:mәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 牛曼",
+    "def": ""
+   }
+  ]
+ },
+ "newmarket": {
+  "ph": "/'nju:,mɑ:kit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "紐馬克特[英國英格蘭東南部城鎮](著名的賽馬中心)",
+    "def": ""
+   }
+  ]
+ },
+ "newness": {
+  "ph": "/'nju:nis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嶄新, 新奇, 珍奇",
+    "def": "the quality of being new; the opposite of oldness"
+   }
+  ]
+ },
+ "newnham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Newnham)人名；(英)紐納姆",
+    "def": ""
+   }
+  ]
+ },
+ "newport": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新港；紐波特（美國羅得島之避暑勝地）",
+    "def": "a port city in southeastern Wales"
+   }
+  ]
+ },
+ "newquay": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "紐基",
+    "def": ""
+   }
+  ]
+ },
+ "newry": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "紐裡",
+    "def": ""
+   }
+  ]
+ },
+ "news": {
+  "ph": "/nju:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞, 訊息, 報導",
+    "def": "information about recent and important events"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 新聞, 訊息, 新聞報導",
+    "def": ""
+   }
+  ]
+ },
+ "news conference": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "記者招待會",
+    "def": ""
+   }
+  ]
+ },
+ "newsagent": {
+  "ph": "/'nju:zeidʒәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "報刊經銷商",
+    "def": "someone who sells newspapers"
+   }
+  ],
+  "forms": "複數 newsagents"
+ },
+ "newsboy": {
+  "ph": "/'nju:zbɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "報童, 送報人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newsboys"
+ },
+ "newscast": {
+  "ph": "/'nju:zkɑ:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞廣播",
+    "def": "a broadcast of news or commentary on the news"
+   }
+  ],
+  "forms": "複數 newscasts｜第三人稱單數 newscasts｜過去式 newscast"
+ },
+ "newscaster": {
+  "ph": "/'nju:z.kɑ:stә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞廣播員, 新聞評論廣播員",
+    "def": "someone who broadcasts the news"
+   }
+  ],
+  "forms": "複數 newscasters"
+ },
+ "newsdesk": {
+  "ph": "/'nju:zdesk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(報社、電視臺等的)新聞組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newsdesks"
+ },
+ "newsflash": {
+  "ph": "/'nju:zflæʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "簡明新聞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newsflashes"
+ },
+ "newsgroup": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 新聞組",
+    "def": ""
+   }
+  ]
+ },
+ "newshound": {
+  "ph": "/'nju:zhajnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞記者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newshounds"
+ },
+ "newsletter": {
+  "ph": "/'nju:z.letә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時事通訊, 業務通訊, 時事傳報",
+    "def": "report or open letter giving informal or confidential news of interest to a special group"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 時事通訊, 時事信札",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newsletters"
+ },
+ "newsmaker": {
+  "ph": "/'nju:z.meikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "值得報道的事件, 新聞人物",
+    "def": ""
+   }
+  ]
+ },
+ "newsman": {
+  "ph": "/'nju:zmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "報童, 送報人, 新聞記者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newsmen"
+ },
+ "newsome": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Newsome)人名；(英)紐瑟姆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newsomes"
+ },
+ "newspaper": {
+  "ph": "/'nju:z.peipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "報紙",
+    "def": "a daily or weekly publication on folded sheets; contains news and articles and advertisements"
+   }
+  ],
+  "forms": "複數 newspapers"
+ },
+ "newspaperman": {
+  "ph": "/'nju:s,peipәmæn,'nju:z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞記者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newspapermen"
+ },
+ "newspapers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "報紙, 報章（newspaper的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "newspeak": {
+  "ph": "/'nju:spi:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(以規避,迂迴,含混為特點的)官方宣傳語言",
+    "def": "deliberately ambiguous and contradictory language use to mislead and manipulate the public"
+   }
+  ]
+ },
+ "newspeople": {
+  "ph": "/'nju:z,pi:pl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[復]n.記者",
+    "def": ""
+   }
+  ]
+ },
+ "newsprint": {
+  "ph": "/'nju:zprint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞紙",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 新聞紙",
+    "def": ""
+   }
+  ]
+ },
+ "newsreader": {
+  "ph": "/'nju:zri:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞廣播員",
+    "def": "someone who reads out broadcast news bulletin"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 新聞閱讀器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newsreaders"
+ },
+ "newsreel": {
+  "ph": "/'nju:zri:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞影片",
+    "def": "a short film and commentary about current events"
+   }
+  ],
+  "forms": "複數 newsreels"
+ },
+ "newsroom": {
+  "ph": "/'nju:zru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞編輯部, 報刊閱覽室, 售報處",
+    "def": "the staff of a newspaper or the news department of a periodical"
+   }
+  ],
+  "forms": "複數 newsrooms"
+ },
+ "newssheet": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單張報紙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newssheets"
+ },
+ "newsstand": {
+  "ph": "/'nju:zstænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "報攤, 報刊出售處",
+    "def": "a stall where newspapers and other periodicals are sold"
+   }
+  ],
+  "forms": "複數 newsstands"
+ },
+ "newstead": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Newstead)人名；(贊)紐斯特德",
+    "def": ""
+   }
+  ]
+ },
+ "newsweek": {
+  "ph": "/nju:zwi:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新聞週刊（美國一雜誌）",
+    "def": ""
+   }
+  ]
+ },
+ "newswire": {
+  "ph": "/ˈnju:zwaɪə(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "新聞專線",
+    "def": ""
+   }
+  ]
+ },
+ "newswoman": {
+  "ph": "/'nju:z,wumən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女新聞記者; 女編輯; 女報刊經售人",
+    "def": "a female newsperson"
+   }
+  ]
+ },
+ "newsworthiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "有新聞價值",
+    "def": ""
+   }
+  ]
+ },
+ "newsworthy": {
+  "ph": "/'nju:zwә:ði/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有報導價值的",
+    "def": ""
+   }
+  ]
+ },
+ "newsy": {
+  "ph": "/'nju:si/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多新聞的, 有報道價值的, 愛閒話的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "報童",
+    "def": ""
+   }
+  ]
+ },
+ "newt": {
+  "ph": "/nju:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水螈",
+    "def": "small usually bright-colored semiaquatic salamanders of North America and Europe and northern Asia"
+   }
+  ],
+  "forms": "複數 newts｜第三人稱單數 newts"
+ },
+ "newton": {
+  "ph": "/'nju:tn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛頓",
+    "def": "English mathematician and physicist; remembered for developing the calculus and for his law of gravitation and his three laws of motion (1642-1727)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 牛頓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 newtons"
+ },
+ "newtonian": {
+  "ph": "/nju:'tәuniәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "牛頓的, 牛頓學說的",
+    "def": "of or relating to or inspired by Sir Isaac Newton or his science"
+   },
+   {
+    "pos": "n.",
+    "zh": "信仰牛頓學說的人",
+    "def": "a follower of Isaac Newton"
+   }
+  ],
+  "forms": "複數 newtonians"
+ },
+ "newtown": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐鎮（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "next": {
+  "ph": "/'nekst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下一個",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "下一個的, 其次的, 貼近的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "然後, 下次, 次於",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 近鄰干擾",
+    "def": ""
+   }
+  ]
+ },
+ "next door": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "隔壁",
+    "def": ""
+   }
+  ]
+ },
+ "next to": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "幾乎",
+    "def": ""
+   }
+  ]
+ },
+ "nextstep": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "一種作業系統",
+    "def": ""
+   }
+  ]
+ },
+ "nexus": {
+  "ph": "/'neksәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連結, 關係",
+    "def": "a connected series or group"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 融合膜",
+    "def": ""
+   }
+  ]
+ },
+ "nez": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Nez)人名；(法)內；(西)內斯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "北方經濟區（northern economic zone ）",
+    "def": ""
+   }
+  ]
+ }
+}

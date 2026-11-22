@@ -1,0 +1,6216 @@
+{
+ "gr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "射擊場, 總預備隊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 喱, 格令, 谷(英國重量單位)",
+    "def": ""
+   }
+  ]
+ },
+ "grab": {
+  "ph": "/græb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抓握, 掠奪, 強佔, 東方沿岸帆船",
+    "def": "a mechanical device for gripping an object"
+   },
+   {
+    "pos": "vi.",
+    "zh": "抓取, 搶去",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "攫取, 捕獲, 霸佔",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grabbed｜現在分詞 grabbing｜過去分詞 grabbed｜第三人稱單數 grabs｜複數 grabs"
+ },
+ "grabber": {
+  "ph": "/'græbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貪心者, 強奪者, 強取者",
+    "def": "an unpleasant person who grabs inconsiderately"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 爪鉤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grabbers"
+ },
+ "grabbing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "抓；奪走；強烈吸引（grab的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grabbing"
+ },
+ "grabby": {
+  "ph": "/'græbi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貪婪的",
+    "def": ""
+   }
+  ]
+ },
+ "grace": {
+  "ph": "/greis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優雅, 風度, 慈悲, 恩惠, 體面, 赦免, 恩典, 謝恩禱告",
+    "def": "(Christian theology) a state of sanctification by God; the state of one who is under such divine influence"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使優美",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 graced｜複數 graces｜過去式 graced｜現在分詞 gracing｜第三人稱單數 graces"
+ },
+ "graceful": {
+  "ph": "/'greisful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "優美的",
+    "def": "characterized by beauty of movement, style, form, or execution"
+   }
+  ]
+ },
+ "gracefully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "優雅地；溫文地",
+    "def": ""
+   }
+  ]
+ },
+ "gracefulness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫文, 優雅；優美",
+    "def": "beautiful carriage"
+   }
+  ]
+ },
+ "graceless": {
+  "ph": "/'greislis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不知禮的, 不知恥的, 粗野的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 墮落的, 道德敗壞的, 邪惡的",
+    "def": ""
+   }
+  ]
+ },
+ "gracelessly": {
+  "ph": "/'greislisli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "笨拙地；不優美地",
+    "def": ""
+   }
+  ]
+ },
+ "gracie": {
+  "ph": "/'^reisi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格雷西(Grace的異體)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "gracilis": {
+  "ph": "/'^ræsilis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 股薄肌",
+    "def": ""
+   }
+  ]
+ },
+ "gracious": {
+  "ph": "/'greiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "親切的, 慈善的",
+    "def": "characterized by charm, good taste, and generosity of spirit"
+   }
+  ]
+ },
+ "graciously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "和藹地；仁慈地；雅緻地",
+    "def": ""
+   }
+  ]
+ },
+ "graciousness": {
+  "ph": "/.ɡreiʃi:'ɔsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "親切, 和藹；好心",
+    "def": "excellence of manners or social conduct"
+   }
+  ]
+ },
+ "grackle": {
+  "ph": "/'grækl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美洲黑羽椋鳥",
+    "def": "long-tailed American blackbird having iridescent black plumage"
+   }
+  ]
+ },
+ "grad": {
+  "ph": "/ɡræd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畢業生；校友",
+    "def": "one-hundredth of a right angle"
+   }
+  ],
+  "forms": "複數 grads"
+ },
+ "gradation": {
+  "ph": "/grei'deiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逐漸變化, 分等級, 階級, 順序",
+    "def": "relative position in a graded series"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 階度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gradations"
+ },
+ "grade": {
+  "ph": "/greid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "等級, 年級, 階段, 成績, 程度, 坡度, 斜坡",
+    "def": "a relative position or degree of value in a graded group"
+   },
+   {
+    "pos": "vt.",
+    "zh": "分等, 分級, 評分",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "屬於某等級, 逐漸變化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grades｜過去分詞 graded｜過去式 graded｜現在分詞 grading｜第三人稱單數 grades"
+ },
+ "graded": {
+  "ph": "/'ɡreidid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分等級的；按年級分的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 graded｜過去分詞 graded"
+ },
+ "grader": {
+  "ph": "/'^reidә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "把東西分類別的人/機器, 平路機, 推土機",
+    "def": "a judge who assigns grades to something"
+   }
+  ],
+  "forms": "複數 graders"
+ },
+ "gradient": {
+  "ph": "/'greidiәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾斜度, 梯度, 坡度, 斜率",
+    "def": "a graded change in the magnitude of some physical quantity or dimension"
+   },
+   {
+    "pos": "adj.",
+    "zh": "漸升的, 漸降的, 步行的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gradients"
+ },
+ "grading": {
+  "ph": "/'^reidiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 分級, 歸類",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grading｜複數 gradings"
+ },
+ "gradual": {
+  "ph": "/'grædʒuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "逐漸的, 漸增的",
+    "def": "proceeding in small stages"
+   },
+   {
+    "pos": "n.",
+    "zh": "彌撒升階聖歌",
+    "def": "(Roman Catholic Church) an antiphon (usually from the Book of Psalms) immediately after the epistle at Mass"
+   }
+  ]
+ },
+ "gradualism": {
+  "ph": "/'^rædʒuәlizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漸進主義",
+    "def": ""
+   }
+  ]
+ },
+ "gradualist": {
+  "ph": "/'ɡrædʒʊəlɪst/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "漸進主義者（的）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gradualists"
+ },
+ "gradually": {
+  "ph": "/'grædʒuәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "逐漸地",
+    "def": ""
+   }
+  ]
+ },
+ "graduate": {
+  "ph": "/'grædʒueit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畢業生, 量杯",
+    "def": "a measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts"
+   },
+   {
+    "pos": "adj.",
+    "zh": "已得學位的, 研究生的, 畢業的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "畢業, 得學位, 逐漸變為",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "准予...畢業, 授予...學位, 分等級, 刻刻度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 graduates｜過去式 graduated｜現在分詞 graduating｜過去分詞 graduated｜第三人稱單數 graduates"
+ },
+ "graduated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "畢業了的, 分等級的, 分度的, 刻度的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有刻度的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 graduated｜過去分詞 graduated"
+ },
+ "graduates": {
+  "ph": "/ˈɡrædjuits/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>畢業生( graduate的名詞複數 ); <英>大學畢業生; （已經取得學士學位正在攻讀高階學位的）研究生; 量筒",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "漸變( graduate的第三人稱單數 ); 漸漸變為（與into連用）; 漸漸消逝（與away連用）; 取得資格（與as連用）",
+    "def": ""
+   }
+  ]
+ },
+ "graduation": {
+  "ph": "/.grædʒu'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畢業, 得學位, 分劃, 刻度, 分等級",
+    "def": "the successful completion of a program of study"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 刻度, 分度, 畢業",
+    "def": ""
+   }
+  ],
+  "forms": "複數 graduations"
+ },
+ "grady": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格雷迪（男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gradys"
+ },
+ "graeme": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格雷姆（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "graf": {
+  "ph": "/^rɑ:f/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<德>n.(德國、奧地利、瑞典的) 伯爵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grafs"
+ },
+ "graffiti": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牆上亂寫亂畫的東西",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 graffitiing"
+ },
+ "graffito": {
+  "ph": "/grә'fi:tәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亂畫, 粗糙雕刻",
+    "def": "a rude decoration inscribed on rocks or walls"
+   }
+  ]
+ },
+ "graft": {
+  "ph": "/grɑ:ft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嫁接, 貪汙",
+    "def": "(surgery) tissue or organ transplanted from a donor to a recipient; in some cases the patient can be both donor and recipient"
+   },
+   {
+    "pos": "v.",
+    "zh": "嫁接, 移植, 貪汙",
+    "def": "cause to grow together parts from different plants"
+   }
+  ],
+  "forms": "過去分詞 grafted｜過去式 grafted｜複數 grafts｜現在分詞 grafting｜第三人稱單數 grafts"
+ },
+ "grafted": {
+  "ph": "/ɡrɑ:ftid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "<農>移植( graft的過去式和過去分詞 ); 嫁接; 使（思想、制度等）成為（…的一部份）; 植根",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 grafted｜過去式 grafted"
+ },
+ "grafting": {
+  "ph": "/'^rɑ:ftiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嫁接法, 移植法",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 移植[術], 嫁接",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grafting｜複數 graftings"
+ },
+ "grafton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格拉夫頓（位於澳大利亞新南威爾士州北部）",
+    "def": ""
+   }
+  ]
+ },
+ "graham": {
+  "ph": "/'ɡreiәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "全麥的；粗麵粉的；全麥粉製成的",
+    "def": ""
+   }
+  ]
+ },
+ "grahame": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格雷厄姆（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "grail": {
+  "ph": "/^reil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長期以來夢寐以求的東西",
+    "def": "the object of any prolonged endeavor"
+   }
+  ],
+  "forms": "複數 grails"
+ },
+ "grain": {
+  "ph": "/grein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穀粒, 顆粒, 穀類, 紋理, 本質",
+    "def": "a relatively small granular particle of a substance"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)成穀粒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grains｜過去分詞 grained｜過去式 grained｜現在分詞 graining｜第三人稱單數 grains"
+ },
+ "grained": {
+  "ph": "/greind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有木紋的, 漆成花紋的, 去毛的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grained"
+ },
+ "grainger": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Grainger)人名；(英)格蘭傑",
+    "def": "United States composer (born in Australia) who lived in London and collected English folk songs (1882-1961)"
+   }
+  ]
+ },
+ "graininess": {
+  "ph": "/'greininis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粒狀的, 多粒的, 木紋狀的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 微粒狀態(膠片乳膜不勻象)",
+    "def": ""
+   }
+  ]
+ },
+ "grainne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Grainne)人名；(英)格蘭妮",
+    "def": ""
+   }
+  ]
+ },
+ "grainy": {
+  "ph": "/'greini/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有紋理的, 粒狀的, 多粒的, 木紋狀的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 grainier"
+ },
+ "gram": {
+  "ph": "/græm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克, 綠豆, 鷹嘴豆",
+    "def": "a metric unit of weight equal to one thousandth of a kilogram"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 克",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grams"
+ },
+ "grama": {
+  "ph": "/'grɑ:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格蘭馬草",
+    "def": "pasture grass of plains of South America and western North America"
+   }
+  ]
+ },
+ "gramma": {
+  "ph": "/ɡ'rəmə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]（拉）克",
+    "def": ""
+   }
+  ]
+ },
+ "grammar": {
+  "ph": "/'græmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語法學, 入門書",
+    "def": "the branch of linguistics that deals with syntax and morphology (and sometimes also deals with semantics)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 語法檢查",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grammars"
+ },
+ "grammar school": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(美)小學或初級中學, (英)文法學校",
+    "def": ""
+   }
+  ]
+ },
+ "grammarian": {
+  "ph": "/grә'mєәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語法家, 語法教師",
+    "def": "a linguist who specializes in the study of grammar and syntax"
+   }
+  ],
+  "forms": "複數 grammarians"
+ },
+ "grammatical": {
+  "ph": "/grә'mætikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "語法的, 合乎語法的",
+    "def": "of or pertaining to grammar"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 語法上的, 符合語法規則的, 文法上的",
+    "def": ""
+   }
+  ]
+ },
+ "grammatically": {
+  "ph": "/ɡrə'mætɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "符合語法規則地",
+    "def": ""
+   }
+  ]
+ },
+ "gramme": {
+  "ph": "/græm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 克",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grammes"
+ },
+ "grammy": {
+  "ph": "/'græmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格蘭密唱片獎",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grammys"
+ },
+ "gramophone": {
+  "ph": "/'græmәfәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "留聲機",
+    "def": "an antique record player; the sound of the vibrating needle is amplified acoustically"
+   }
+  ],
+  "forms": "複數 gramophones"
+ },
+ "grampa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計]= GRAphical Manipulating PAckage,圖解處理程式包",
+    "def": ""
+   }
+  ]
+ },
+ "grampian": {
+  "ph": "/'^ræmpiәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格蘭扁區[英國蘇格蘭行政區名]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grampians"
+ },
+ "gramps": {
+  "ph": "/^ræmps/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爺爺, 老伯伯, 老大爺, 外公",
+    "def": ""
+   }
+  ]
+ },
+ "gramsci": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "葛蘭西（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gramsci"
+ },
+ "gran": {
+  "ph": "/'^ræn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外祖母, 祖母, 老奶奶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grans"
+ },
+ "granada": {
+  "ph": "/^rɑ:'nɑ:dɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格蘭納達薄呢",
+    "def": ""
+   }
+  ]
+ },
+ "granary": {
+  "ph": "/'grænәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穀倉, 穀物倉, 主要來源, 主要貯藏所",
+    "def": "a storehouse for threshed grain or animal feed"
+   }
+  ],
+  "forms": "複數 granaries"
+ },
+ "granby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 格蘭比; [地名] [加拿大、美國、英國] 格蘭比",
+    "def": ""
+   }
+  ]
+ },
+ "grand": {
+  "ph": "/grænd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "莊重的, 壯觀的, 顯赫的, 重大的, 最高的, 雄偉的, 宏大的, 豪華的, 傲慢的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 重大的, 主要的, 偉大的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 grander｜最高級 grandest｜複數 grands"
+ },
+ "grand jury": {
+  "ph": "/ɡrænd ˈdʒuəri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大陪審團",
+    "def": ""
+   }
+  ]
+ },
+ "grand prix": {
+  "ph": "/^rɑ:n 'pri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "國際長途大賽車",
+    "def": ""
+   }
+  ]
+ },
+ "grand slam": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "大滿貫；滿壘時的全壘打",
+    "def": ""
+   }
+  ]
+ },
+ "grandad": {
+  "ph": "/'^rændæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爺爺, 老太爺, 外公",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandads"
+ },
+ "grandaddy": {
+  "ph": "/ɡ'rændædɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<非正>祖師爺, 老祖宗； 爺爺, 祖父",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandaddies"
+ },
+ "grandbaby": {
+  "ph": "/'^rænd,beibi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小孫兒, 小孫女兒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandbabies"
+ },
+ "grandchild": {
+  "ph": "/'^rændtʃaild/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孫, 外孫女, 外孫, 孫女, 孫子",
+    "def": "a child of your son or daughter"
+   }
+  ]
+ },
+ "grandchildren": {
+  "ph": "/.tʃildrәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孫子, 孫輩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandchildren"
+ },
+ "granddad": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "爺爺, 老太爺, 外公",
+    "def": ""
+   }
+  ],
+  "forms": "複數 granddads"
+ },
+ "granddaddy": {
+  "ph": "/ˈgrændædi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<非正>祖師爺, 老祖宗； 爺爺, 祖父",
+    "def": ""
+   }
+  ]
+ },
+ "granddaughter": {
+  "ph": "/'^rændɔ:tә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孫女, 外孫女",
+    "def": "a female grandchild"
+   }
+  ],
+  "forms": "複數 granddaughters"
+ },
+ "grande": {
+  "ph": "/^rɑ:nd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "重大的, 顯要的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandes"
+ },
+ "grandee": {
+  "ph": "/græn'di:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大公, 顯貴之人",
+    "def": "a nobleman of highest rank in Spain or Portugal"
+   }
+  ],
+  "forms": "複數 grandees"
+ },
+ "grandeur": {
+  "ph": "/'grændʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莊嚴, 偉大, 壯麗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandeurs"
+ },
+ "grandfather": {
+  "ph": "/'grændfɑ:ðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祖父, 始祖",
+    "def": "the father of your father or mother"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 原始資料組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandfathers"
+ },
+ "grandfathered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "祖父級的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "給…特權；不受新法律規定的約束（grandfather的過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "grandfatherly": {
+  "ph": "/'^rænd,fɑ:ðәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "老祖父的, 慈祥的, 老祖父似的",
+    "def": "Like a grandfather in age or manner; kind;"
+   }
+  ]
+ },
+ "grandiloquent": {
+  "ph": "/græn'dilәkwәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大言不慚的, 誇張的, 誇大的",
+    "def": ""
+   }
+  ]
+ },
+ "grandiose": {
+  "ph": "/'grændiәus/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "宏偉的, 壯麗的, 誇張的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 誇大的",
+    "def": ""
+   }
+  ]
+ },
+ "grandiosely": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "grandiose的變形",
+    "def": ""
+   }
+  ]
+ },
+ "grandiosity": {
+  "ph": "/.grændi'ɒsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宏偉, 誇張",
+    "def": "high-flown style; excessive use of verbal ornamentation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 誇大",
+    "def": ""
+   }
+  ]
+ },
+ "grandkid": {
+  "ph": "/grændkid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（外）孫；（外）孫女",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandkids"
+ },
+ "grandly": {
+  "ph": "/'grændli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "宏偉地, 盛大地",
+    "def": ""
+   }
+  ]
+ },
+ "grandma": {
+  "ph": "/'grændmɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奶奶, 外婆",
+    "def": "the mother of your father or mother"
+   }
+  ],
+  "forms": "複數 grandmas"
+ },
+ "grandmama": {
+  "ph": "/'^rændmә,mɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奶奶, 外祖母",
+    "def": ""
+   }
+  ]
+ },
+ "grandmaster": {
+  "ph": "/ɡ'rændm'ɑ:stə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "大師（最高棋手等的稱號）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandmasters"
+ },
+ "grandmother": {
+  "ph": "/'grændmʌðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祖母, 女祖先",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandmothers"
+ },
+ "grandmotherly": {
+  "ph": "/'^rænd,mʌðәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "老祖母的, 嘮叨的, 溺愛的, 慈祥的, 老祖母似的",
+    "def": "Like a grandmother in age or manner; kind;"
+   }
+  ]
+ },
+ "grandnephew": {
+  "ph": "/'^rænd,nevju:;-,nefju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "侄孫, 甥外孫, 甥孫, 侄外孫",
+    "def": ""
+   }
+  ]
+ },
+ "grandness": {
+  "ph": "/'grændnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宏偉, 壯大, 偉大",
+    "def": ""
+   }
+  ]
+ },
+ "grandniece": {
+  "ph": "/'grændni:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "侄孫女, 侄外孫女",
+    "def": ""
+   }
+  ]
+ },
+ "grandpa": {
+  "ph": "/'^rænpɑ:, '^rændpɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "爺爺, 老太爺, 外公",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grandpas"
+ },
+ "grandparent": {
+  "ph": "/'grændperәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祖父母",
+    "def": "a parent of your father or mother"
+   }
+  ],
+  "forms": "複數 grandparents"
+ },
+ "grandparents": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外祖父母；祖父母（grandparent的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "grands": {
+  "ph": "/ɡrændz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一千美元, 一千英鎊( grand的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "grandson": {
+  "ph": "/'grændsʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孫子, 外孫",
+    "def": "a male grandchild"
+   }
+  ],
+  "forms": "複數 grandsons"
+ },
+ "grandstand": {
+  "ph": "/'grændstænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正面看臺, 觀眾",
+    "def": "the audience at a stadium or racetrack"
+   }
+  ],
+  "forms": "複數 grandstands｜現在分詞 grandstanding｜過去式 grandstanded｜第三人稱單數 grandstands｜過去分詞 grandstanded"
+ },
+ "grandstanding": {
+  "ph": "/ˈgrænstændɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "譁眾取寵；作秀",
+    "def": ""
+   }
+  ]
+ },
+ "grange": {
+  "ph": "/'greindʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農莊, 田莊",
+    "def": "an outlying farm"
+   }
+  ],
+  "forms": "複數 granges"
+ },
+ "grangemouth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格蘭傑默斯（蘇格蘭一港口）",
+    "def": ""
+   }
+  ]
+ },
+ "granger": {
+  "ph": "/'greindʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農夫, 農民",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grangers"
+ },
+ "granita": {
+  "ph": "/^ræ'ni:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格蘭尼它冰糕(一種義大利的粗製冰糕)",
+    "def": ""
+   }
+  ]
+ },
+ "granite": {
+  "ph": "/'grænit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花崗岩",
+    "def": "plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 花崗岩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 granites"
+ },
+ "granitic": {
+  "ph": "/græ'nitik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "花崗石的, 由花崗岩形成的",
+    "def": ""
+   }
+  ]
+ },
+ "grannie": {
+  "ph": "/'^ræni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奶奶, 老奶奶, 老婆婆, 外婆, 婆婆媽媽的人, 嘮叨挑剔的人, 接生婆",
+    "def": ""
+   }
+  ]
+ },
+ "granny": {
+  "ph": "/'^ræni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奶奶, 老奶奶, 老婆婆, 外婆, 婆婆媽媽的人, 嘮叨挑剔的人, 接生婆",
+    "def": "an old woman"
+   }
+  ],
+  "forms": "複數 grannies"
+ },
+ "granola": {
+  "ph": "/ɡrә'nәulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（早餐營養食品）格蘭諾拉燕麥卷",
+    "def": "cereal made of especially rolled oats with dried fruits and nuts and honey or brown sugar"
+   }
+  ]
+ },
+ "grant": {
+  "ph": "/grænt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "授予, 授予物, 允許",
+    "def": "any monetary aid"
+   },
+   {
+    "pos": "vt.",
+    "zh": "允許, 承認, 授與",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 授權命令",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 granted｜複數 grants｜過去式 granted｜現在分詞 granting｜第三人稱單數 grants"
+ },
+ "grant-maintained": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（英國學校）由中央政府撥款（或出資）的（縮略形式為GM）",
+    "def": ""
+   }
+  ]
+ },
+ "granta": {
+  "ph": "/'ɡræntə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格蘭塔河（英格蘭東部河流名, 等於Gam）；格蘭塔出版社（出版社名）",
+    "def": ""
+   }
+  ]
+ },
+ "grantee": {
+  "ph": "/græn'ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "受讓人, 被授予人",
+    "def": "a recipient of a grant"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 受讓人, 被授與者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grantees"
+ },
+ "grantham": {
+  "ph": "/'^rænθәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格蘭瑟姆(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "granting": {
+  "ph": "/ɡ'rɑ:ntɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（退一步）承認( grant的現在分詞 ); （尤指正式地或法律上）同意; 准許; 讓渡",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 granting"
+ },
+ "granton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Granton)人名；(瑞典)格蘭頓",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "格蘭頓",
+    "def": ""
+   }
+  ]
+ },
+ "grantor": {
+  "ph": "/'græntә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "授予者, 讓渡人",
+    "def": "a person who makes a grant in legal form"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 讓與人, 授與者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grantors"
+ },
+ "grants": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 補助金, 撥款, 津貼",
+    "def": ""
+   }
+  ]
+ },
+ "granular": {
+  "ph": "/'grænjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顆粒的, 粒狀的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 粒狀的, 顆粒狀的",
+    "def": ""
+   }
+  ]
+ },
+ "granularity": {
+  "ph": "/.grænju'læriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "間隔尺寸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 間隔尺寸",
+    "def": ""
+   }
+  ]
+ },
+ "granulate": {
+  "ph": "/'grænjuleit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "成粒狀, 粗糙, 形成肉芽",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成粒狀, 使表面粗糙",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 granulated｜過去分詞 granulated｜現在分詞 granulating｜第三人稱單數 granulates"
+ },
+ "granulated": {
+  "ph": "/'^rænjuleitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成顆粒的, 細粒的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 granulated"
+ },
+ "granulation": {
+  "ph": "/.grænju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使成粒狀, 粗糙",
+    "def": "new connective tissue and tiny blood vessels that form on the surfaces of a wound during the healing process"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 肉芽, 肉芽發生, 制粒法(片劑),[顆]粒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 granulations"
+ },
+ "granule": {
+  "ph": "/'grænju:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小粒, 細粒, 顆粒",
+    "def": "a tiny grain"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 區組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 granules"
+ },
+ "granulocyte": {
+  "ph": "/'^rænjulәsait/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 粒細胞, 粒性白細胞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 granulocytes"
+ },
+ "granuloma": {
+  "ph": "/,^rænju'lәumә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 肉芽腫, 肉芽瘤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 granulomas"
+ },
+ "granulomatous": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 肉芽腫的",
+    "def": ""
+   }
+  ]
+ },
+ "granville": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格蘭維爾（法國一城市）",
+    "def": ""
+   }
+  ]
+ },
+ "grape": {
+  "ph": "/greip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葡萄, 葡萄樹",
+    "def": "any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 葡萄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grapes"
+ },
+ "grapefruit": {
+  "ph": "/'greipfru:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葡萄軸",
+    "def": "citrus tree bearing large round edible fruit having a thick yellow rind and juicy somewhat acid pulp"
+   }
+  ],
+  "forms": "複數 grapefruits"
+ },
+ "grapeshot": {
+  "ph": "/'greipʃɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霰彈, 葡萄彈",
+    "def": "a cluster of small projectiles fired together from a cannon to produce a hail of shot"
+   }
+  ]
+ },
+ "grapevine": {
+  "ph": "/'greipvain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葡萄藤, 葡萄樹, 秘密情報網",
+    "def": "gossip spread by spoken communication"
+   }
+  ],
+  "forms": "複數 grapevines"
+ },
+ "graph": {
+  "ph": "/græf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "曲線圖, 圖表, 圖形",
+    "def": "a visual representation of the relations between certain quantities plotted with reference to a set of axes"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 圖形",
+    "def": ""
+   }
+  ],
+  "forms": "複數 graphs｜現在分詞 graphing｜過去式 graphed｜第三人稱單數 graphs｜過去分詞 graphed"
+ },
+ "grapheme": {
+  "ph": "/'græfi:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "書寫單位, 字素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 graphemes"
+ },
+ "graphic": {
+  "ph": "/'græfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生動的, 輪廓分明的, 繪畫似的, 圖解的",
+    "def": "of or relating to the graphic arts"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 圖形的",
+    "def": ""
+   }
+  ]
+ },
+ "graphical": {
+  "ph": "/'^ræfikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "圖的, 記錄的, 圖示的, 圖解的, 書法的, 繪畫的, 印刷的, 雕刻的, 詳盡的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 圖解式的",
+    "def": ""
+   }
+  ]
+ },
+ "graphically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "生動地, 活靈活現地, (正式)用圖表表示, 以圖顯示",
+    "def": ""
+   }
+  ]
+ },
+ "graphics": {
+  "ph": "/'græfiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製圖法, 製圖學, 圖解演算法, 圖形顯示",
+    "def": "the drawings and photographs in the layout of a book"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 圖形; DOS外部命令:列印圖形方式下的螢幕內容",
+    "def": ""
+   }
+  ]
+ },
+ "graphing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 繪製圖形",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 graphing"
+ },
+ "graphite": {
+  "ph": "/'græfait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石墨",
+    "def": "used as a lubricant and as a moderator in nuclear reactors"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 石墨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 graphites"
+ },
+ "graphology": {
+  "ph": "/græ'fɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "筆跡學, 筆跡相法, 圖表法",
+    "def": "the study of handwriting (especially as an indicator of the writer's character or disposition)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 筆跡學, 字型學",
+    "def": ""
+   }
+  ]
+ },
+ "grappa": {
+  "ph": "/'^rɑ:pɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<意>n.格拉巴酒(用酒渣釀製的一種白蘭地)",
+    "def": ""
+   }
+  ]
+ },
+ "grapple": {
+  "ph": "/græpl/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "抓住, 掌握",
+    "def": "to grip or seize, as in a wrestling match"
+   },
+   {
+    "pos": "n.",
+    "zh": "抓住, 繫緊, 掌握, 與...扭打",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grappling｜過去式 grappled｜過去分詞 grappled｜第三人稱單數 grapples｜複數 grapples"
+ },
+ "grappler": {
+  "ph": "/'^ræplә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抓鉤器, 格鬥者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grapplers"
+ },
+ "grappling": {
+  "ph": "/'^ræpliŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "=grapnel grappling iron (打撈用的)抓機, 爪鉤",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grappling｜複數 grapplings"
+ },
+ "graptolite": {
+  "ph": "/'^ræptәlait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[古生]筆石( 古元脊椎動物, 現存化石 )",
+    "def": "One of numerous species of slender and delicate"
+   }
+  ],
+  "forms": "複數 graptolites"
+ },
+ "grasmere": {
+  "ph": "/'^rɑ:smiә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格拉斯米爾( 英格蘭坎布里亞郡格拉斯米爾湖畔一村莊)",
+    "def": ""
+   }
+  ]
+ },
+ "grasp": {
+  "ph": "/græsp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "把握, 抓緊, 理解, 抓, 柄, 控制",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "抓住, 緊握, 領會",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "抓",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grasped｜過去分詞 grasped｜現在分詞 grasping｜第三人稱單數 grasps"
+ },
+ "graspable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能理解的, 可以懂的",
+    "def": ""
+   }
+  ]
+ },
+ "grasping": {
+  "ph": "/'græspiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抓的, 握的, 貪婪的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grasping"
+ },
+ "grass": {
+  "ph": "/græs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草, 草原, 牧場",
+    "def": "narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 草, 禾本",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grasses｜過去式 grassed｜過去分詞 grassed｜現在分詞 grassing｜第三人稱單數 grasses"
+ },
+ "grass roots": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "鄉村地區, 鄉村民眾, 基層, 基礎",
+    "def": ""
+   }
+  ]
+ },
+ "grassed": {
+  "ph": "/grɑ:st/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用草覆蓋（grass的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 grassed｜過去式 grassed"
+ },
+ "grasshopper": {
+  "ph": "/'græshɒpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蚱蜢, 蝗蟲",
+    "def": "terrestrial plant-eating insect with hind legs adapted for leaping"
+   }
+  ],
+  "forms": "複數 grasshoppers｜過去式 grasshoppered"
+ },
+ "grassland": {
+  "ph": "/'græslænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牧草地, 草原",
+    "def": "land where grass or grasslike vegetation grows and is the dominant form of plant life"
+   }
+  ],
+  "forms": "複數 grasslands"
+ },
+ "grassless": {
+  "ph": "/'græslis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無草的",
+    "def": "lacking grass"
+   }
+  ]
+ },
+ "grasslike": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "grass的變形",
+    "def": ""
+   }
+  ]
+ },
+ "grassroots": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "草根的；基層的；鄉村的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grassroots"
+ },
+ "grassy": {
+  "ph": "/'græsi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "草綠色的, 象草的, 長滿草的",
+    "def": "abounding in grass"
+   }
+  ],
+  "forms": "複數 grassies｜最高級 grassiest｜比較級 grassier"
+ },
+ "grate": {
+  "ph": "/^reit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爐格, 爐篦, 爐柵, 火爐, 壁爐, 格柵",
+    "def": "a frame of iron bars to hold a fire"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝格柵於, 磨擦, 軋碎, 磨碎, 使焦急, 觸怒, 使人煩躁, 刺激, 激怒",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "vi. 擦響, 發出刺耳的尖厲聲",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grated｜現在分詞 grating｜複數 grates｜第三人稱單數 grates｜過去分詞 grated"
+ },
+ "grated": {
+  "ph": "/'^reitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有格柵的, 有爐格的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grated"
+ },
+ "grateful": {
+  "ph": "/'greitful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "感謝的, 感激的, 令人快意的, 受歡迎的",
+    "def": "feeling or showing gratitude"
+   }
+  ]
+ },
+ "gratefully": {
+  "ph": "/'greitfuli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "感激地",
+    "def": ""
+   }
+  ]
+ },
+ "gratefulness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "感激, 感恩",
+    "def": "warm friendly feelings of gratitude"
+   }
+  ]
+ },
+ "grater": {
+  "ph": "/'^reitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磨擦者, 磨光機, 粗齒木銼",
+    "def": "utensil with sharp perforations for shredding foods (as vegetables or cheese)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 銼屑器, 銼刀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 graters"
+ },
+ "graticule": {
+  "ph": "/'grætikju:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製圖格網, 格子線",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 草木",
+    "def": ""
+   }
+  ],
+  "forms": "複數 graticules"
+ },
+ "gratification": {
+  "ph": "/.grætifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "令人滿足的事(或物), 滿足, 喜悅",
+    "def": "state of being gratified or satisfied"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 願望滿足, 滿意",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gratifications"
+ },
+ "gratified": {
+  "ph": "/ˈgrætəˌfaɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使高興, 使滿意( gratify的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 gratified｜過去式 gratified"
+ },
+ "gratify": {
+  "ph": "/'grætifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使滿足",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 gratified｜過去式 gratified｜現在分詞 gratifying｜第三人稱單數 gratifies"
+ },
+ "gratifying": {
+  "ph": "/'grætifaiiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "悅人的, 令人滿足的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 gratifying"
+ },
+ "gratifyingly": {
+  "ph": "/'grætifaiiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人滿意地；使人滿足地",
+    "def": ""
+   }
+  ]
+ },
+ "gratin": {
+  "ph": "/'^rætn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法]在食物上塗麵包和乾酪屑的烹調法, 表面有一層焦黃麵包和乾酪屑的食物, 焦黃麵包和乾酪屑塗層",
+    "def": ""
+   }
+  ]
+ },
+ "grating": {
+  "ph": "/'greitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光柵, 摩擦, 摩擦聲",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "令人氣惱的, 刺耳的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gratings｜現在分詞 grating"
+ },
+ "gratis": {
+  "ph": "/'greitis/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "免費地, 白送地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "免費的",
+    "def": ""
+   }
+  ]
+ },
+ "gratitude": {
+  "ph": "/'grætitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "感激之情",
+    "def": "a feeling of thankfulness and appreciation"
+   }
+  ]
+ },
+ "grattan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Grattan)人名；(英)格拉頓",
+    "def": ""
+   }
+  ]
+ },
+ "gratuitous": {
+  "ph": "/grә'tju:itәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "免費的, 無理由的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 無代價的",
+    "def": ""
+   }
+  ]
+ },
+ "gratuitously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不必要地；無緣無故地；無償地；平白地",
+    "def": ""
+   }
+  ]
+ },
+ "gratuitousness": {
+  "ph": "/ɡrə'tju:itəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "gratuitous（免費的, 無償的, 無報酬的, 不收酬勞的）的變形",
+    "def": ""
+   }
+  ]
+ },
+ "gratuity": {
+  "ph": "/grә'tju:iti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小費, 贈物, 賞錢",
+    "def": "a relatively small amount of money given for services rendered (as by a waiter)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 小帳, 賞金, 退職金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gratuities"
+ },
+ "grav": {
+  "ph": "/^ræv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格拉夫(加速度單位,等於自由落體加速度,即9.80665米/平方秒, 略作G)",
+    "def": ""
+   }
+  ]
+ },
+ "grave": {
+  "ph": "/greiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墓穴, 墳墓, 終結, 死亡",
+    "def": "death of a person"
+   },
+   {
+    "pos": "adj.",
+    "zh": "莊重的, 嚴肅的, 重大的, 低沉的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "雕刻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 graves｜最高級 gravest｜比較級 graver｜現在分詞 graving｜過去式 graven｜第三人稱單數 graves｜過去分詞 graven"
+ },
+ "gravedigger": {
+  "ph": "/'greivdigә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "挖墓者, 埋葬蟲",
+    "def": "a person who earns a living by digging graves"
+   }
+  ],
+  "forms": "複數 gravediggers"
+ },
+ "gravel": {
+  "ph": "/'grævәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "砂礫, 碎石",
+    "def": "rock fragments and pebbles"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 沙礫, 尿沙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gravels｜現在分詞 gravelling｜過去式 gravelled｜第三人稱單數 gravels｜過去分詞 gravelled"
+ },
+ "gravelled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 回升",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 gravelled"
+ },
+ "gravelly": {
+  "ph": "/'grævәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多碎石的, 鋪有碎石的, 碎石構成的",
+    "def": ""
+   }
+  ]
+ },
+ "gravely": {
+  "ph": "/'greivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "重大地, 嚴肅地, 莊重地",
+    "def": ""
+   }
+  ]
+ },
+ "graven": {
+  "ph": "/'greivәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "雕刻的, 不可磨滅的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "grave的過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "gravesend": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格雷夫森德",
+    "def": ""
+   }
+  ]
+ },
+ "graveside": {
+  "ph": "/'^reivsaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墳墓邊",
+    "def": ""
+   }
+  ]
+ },
+ "gravesite": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墓地；死網",
+    "def": ""
+   }
+  ]
+ },
+ "gravestone": {
+  "ph": "/'greivstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墓石, 墓碑",
+    "def": "a stone that is used to mark a grave"
+   }
+  ],
+  "forms": "複數 gravestones"
+ },
+ "graveyard": {
+  "ph": "/'greivjɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墓地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 graveyards"
+ },
+ "gravid": {
+  "ph": "/'grævid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懷孕的, 妊娠的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 妊娠的",
+    "def": ""
+   }
+  ]
+ },
+ "gravimetric": {
+  "ph": "/,^rævi'metrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "測定重量的, 重量分析的",
+    "def": ""
+   }
+  ]
+ },
+ "gravitate": {
+  "ph": "/'græviteit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "被重力吸引, 沉下, 下降",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使受重力吸引",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 gravitated｜現在分詞 gravitating｜過去分詞 gravitated｜第三人稱單數 gravitates｜複數 gravitates"
+ },
+ "gravitation": {
+  "ph": "/.grævi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "引力, 重力, 沉下",
+    "def": "movement downward resulting from gravitational attraction"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 引力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gravitations"
+ },
+ "gravitational": {
+  "ph": "/.grævi'teiʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "重力的",
+    "def": "of or relating to or caused by gravitation"
+   }
+  ]
+ },
+ "gravitationally": {
+  "ph": "/,ɡrævi'teiʃənəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "gravitational（萬有引力的）的變形",
+    "def": ""
+   }
+  ]
+ },
+ "graviton": {
+  "ph": "/'^rævitɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[核]引力子",
+    "def": "a gauge boson that mediates the (extremely weak) gravitational interactions between particles"
+   }
+  ],
+  "forms": "複數 gravitons"
+ },
+ "gravity": {
+  "ph": "/'græviti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地心引力, 重力",
+    "def": "(physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 重力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gravities"
+ },
+ "gravlax": {
+  "ph": "/'^rævlæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(用鹽、黑胡椒、小茴香、酒等醃製的)漬鮭魚片",
+    "def": ""
+   }
+  ]
+ },
+ "gravy": {
+  "ph": "/'greivi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肉汁, 外快",
+    "def": "a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats"
+   }
+  ],
+  "forms": "複數 gravies"
+ },
+ "gray": {
+  "ph": "/grei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灰色, 暗淡",
+    "def": "a neutral achromatic color midway between white and black"
+   },
+   {
+    "pos": "adj.",
+    "zh": "灰色的, 灰白的, 面色蒼白的, 年老的, 老練的, 陰沉的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)變灰色",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grays｜現在分詞 graying｜過去式 grayed｜第三人稱單數 grays｜過去分詞 grayed"
+ },
+ "graybeard": {
+  "ph": "/'greibiәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老人, 土製酒壺",
+    "def": ""
+   }
+  ]
+ },
+ "grayed": {
+  "ph": "/greɪd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "變灰的",
+    "def": ""
+   }
+  ]
+ },
+ "graying": {
+  "ph": "/'^reiiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 泛灰; 泛灰色",
+    "def": ""
+   }
+  ]
+ },
+ "grayish": {
+  "ph": "/'greiiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淺灰色的, 微帶灰色的",
+    "def": ""
+   }
+  ]
+ },
+ "grayling": {
+  "ph": "/'greiliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茴魚, 眼蝶",
+    "def": ""
+   }
+  ]
+ },
+ "grayness": {
+  "ph": "/'greinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灰色, 陰暗",
+    "def": ""
+   }
+  ]
+ },
+ "grayson": {
+  "ph": "/'^reisn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格雷森(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "graywater": {
+  "ph": "/'^rei,wɔ:tә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>可再利用廢水",
+    "def": ""
+   }
+  ]
+ },
+ "graz": {
+  "ph": "/^rɑ:ts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格拉茨（奧地利東南部城市）",
+    "def": "an industrial city is southeastern Austria"
+   }
+  ]
+ },
+ "graze": {
+  "ph": "/greiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吃草, 放牧, 擦傷, 輕擦",
+    "def": "a superficial abrasion"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)吃草, 放牧, 輕擦, 擦傷",
+    "def": "break the skin (of a body part) by scraping"
+   }
+  ],
+  "forms": "現在分詞 grazing｜過去分詞 grazed｜過去式 grazed｜第三人稱單數 grazes｜複數 grazes"
+ },
+ "grazed": {
+  "ph": "/ɡreizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（讓動物）吃草( graze的過去式和過去分詞 ); 輕擦, 擦破; 擦過; 掠過",
+    "def": ""
+   }
+  ]
+ },
+ "grazer": {
+  "ph": "/'greizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食草動物",
+    "def": "One that grazes; a creature which feeds on growing grass or"
+   }
+  ],
+  "forms": "複數 grazers"
+ },
+ "grazing": {
+  "ph": "/'greiziŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放牧, 牧草, 草場, 放牧法",
+    "def": "the act of brushing against while passing"
+   }
+  ],
+  "forms": "現在分詞 grazing｜複數 grazings"
+ },
+ "gre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國研究生入學考試（Graduate Record Examination）；地面雷達裝置（Ground Radar Equipment）",
+    "def": ""
+   }
+  ]
+ },
+ "grease": {
+  "ph": "/gri:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脂肪, 獸脂, 油脂, 賄賂",
+    "def": "a thick fatty oil (especially one used to lubricate machinery)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗脂於, 賄賂",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 greased｜現在分詞 greasing｜過去分詞 greased｜複數 greases｜第三人稱單數 greases"
+ },
+ "greased": {
+  "ph": "/^ri:zd, ^ri:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "灌足酒的；患踵炎症的；醉的；加過潤滑脂的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 greased｜過去分詞 greased"
+ },
+ "greaseless": {
+  "ph": "/'^ri:slis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "沒有油脂的",
+    "def": ""
+   }
+  ]
+ },
+ "greasepaint": {
+  "ph": "/'gri:speint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演員化妝用油",
+    "def": "a greasy substance used as makeup by actors"
+   }
+  ],
+  "forms": "複數 greasepaints"
+ },
+ "greaseproof": {
+  "ph": "/'gri:spru:f/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不透油的, 耐脂的",
+    "def": ""
+   }
+  ]
+ },
+ "greaser": {
+  "ph": "/'^ri:sә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "加油脂/塗油脂的工人, 加潤滑脂的器具, (美)(非正式)賄賂者",
+    "def": "(ethnic slur) offensive term for a person of Mexican descent"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 潤滑器具",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greasers"
+ },
+ "greasewood": {
+  "ph": "/'gri:swud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黑肉葉刺莖藜",
+    "def": "low hardy much-branched spiny shrub common in alkaline soils of western America"
+   }
+  ]
+ },
+ "greasy": {
+  "ph": "/'gri:zi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "油膩的, 含脂肪多的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 greasiest｜比較級 greasier"
+ },
+ "great": {
+  "ph": "/greit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大的, 非常的, 主要的, 重大的, 崇高的, 偉大的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "順利地, 得意地",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "全部, 大人物, 大師",
+    "def": "a person who has achieved distinction and honor in some field"
+   }
+  ],
+  "forms": "比較級 greater｜最高級 greatest｜複數 greats"
+ },
+ "great britain": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "大不列顛",
+    "def": ""
+   }
+  ]
+ },
+ "greatcoat": {
+  "ph": "/'^reitkәjt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厚大衣",
+    "def": "a heavy coat worn over clothes in winter"
+   }
+  ],
+  "forms": "複數 greatcoats"
+ },
+ "greater": {
+  "ph": "/'^reitә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 大的",
+    "def": ""
+   }
+  ]
+ },
+ "greatest": {
+  "ph": "/'^reitist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 最大的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greatests｜比較級 greatest"
+ },
+ "greatly": {
+  "ph": "/'greitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "很, 非常",
+    "def": ""
+   }
+  ]
+ },
+ "greatness": {
+  "ph": "/'greitnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大, 巨大, 廣大",
+    "def": "the property possessed by something or someone of outstanding importance or eminence"
+   }
+  ]
+ },
+ "greaves": {
+  "ph": "/gri:vz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油渣",
+    "def": "the residue that remains after animal fat has been rendered"
+   }
+  ]
+ },
+ "grebe": {
+  "ph": "/^ri:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種鳥",
+    "def": "small compact-bodied almost completely aquatic bird that builds floating nests; similar to loons but smaller and with lobate rather than webbed feet"
+   }
+  ],
+  "forms": "複數 grebes｜第三人稱單數 grebes"
+ },
+ "grecian": {
+  "ph": "/'gri:ʃәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "希臘的, 希臘式的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "希臘學家",
+    "def": "a native or resident of Greece"
+   }
+  ],
+  "forms": "複數 grecians"
+ },
+ "greco": {
+  "ph": "/'^rekәj/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 希臘",
+    "def": ""
+   }
+  ]
+ },
+ "greece": {
+  "ph": "/gri:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘",
+    "def": "a republic in southeastern Europe on the southern part of the Balkan peninsula; known for grapes and olives and olive oil"
+   }
+  ]
+ },
+ "greed": {
+  "ph": "/gri:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貪慾, 貪婪",
+    "def": "excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves"
+   }
+  ],
+  "forms": "複數 greeds"
+ },
+ "greedily": {
+  "ph": "/'gri:dili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "貪食地, 貪婪地",
+    "def": ""
+   }
+  ]
+ },
+ "greediness": {
+  "ph": "/'gri:dinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貪吃, 嘴饞, 貪慾",
+    "def": "an excessive desire for food"
+   }
+  ]
+ },
+ "greedy": {
+  "ph": "/'gri:di/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貪婪的, 貪得的, 貪吃的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 greedier｜最高級 greediest"
+ },
+ "greek": {
+  "ph": "/gri:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘人, 希臘語",
+    "def": "the Hellenic branch of the Indo-European family of languages"
+   },
+   {
+    "pos": "adj.",
+    "zh": "希臘的, 希臘人的",
+    "def": "of or relating to or characteristic of Greece or the Greeks or the Greek language"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 希臘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greeks"
+ },
+ "green": {
+  "ph": "/gri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠色, 綠色顏料",
+    "def": "green color or pigment; resembling the color of growing grass"
+   },
+   {
+    "pos": "adj.",
+    "zh": "綠色的, 未成熟的, 新鮮的, 青春的, 無經驗的, 臉色發青的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greens｜比較級 greener｜最高級 greenest"
+ },
+ "green party": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "綠黨（關於環境的政府部門）",
+    "def": ""
+   }
+  ]
+ },
+ "greenall": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Greenall)人名；(英)格里諾爾",
+    "def": ""
+   }
+  ]
+ },
+ "greenaway": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格里納韋（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "greenback": {
+  "ph": "/'gri:nbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美鈔, 綠背動物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 美鈔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greenbacks"
+ },
+ "greenbank": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Greenbank)人名；(英)格林班克",
+    "def": ""
+   }
+  ]
+ },
+ "greenbaum": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Greenbaum)人名；(英)戈林鮑姆",
+    "def": ""
+   }
+  ]
+ },
+ "greenbelt": {
+  "ph": "/'gri:nbelt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠色地帶",
+    "def": "a belt of parks or rural land surrounding a town or city"
+   }
+  ],
+  "forms": "複數 greenbelts"
+ },
+ "greenberg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格林伯格（人名）",
+    "def": "United States linguist who studied the historical relations among 5,000 languages (1916-2001)"
+   }
+  ]
+ },
+ "greenbrier": {
+  "ph": "/'gri:nbraiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓葉菝葜",
+    "def": ""
+   }
+  ]
+ },
+ "greene": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格林（姓氏）",
+    "def": "English novelist and Catholic (1904-1991)"
+   }
+  ]
+ },
+ "greenery": {
+  "ph": "/'gri:nәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠葉, 綠樹, 裝飾用的綠樹枝或葉",
+    "def": "green foliage"
+   }
+  ]
+ },
+ "greenfield": {
+  "ph": "/ˈgri:nfi:ld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "未開發地區的；待開發地區的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greenfields"
+ },
+ "greenfly": {
+  "ph": "/'gri:nflai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蚜",
+    "def": "greenish aphid; pest on garden and crop plants"
+   }
+  ],
+  "forms": "複數 greenflies"
+ },
+ "greenford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格林福德（英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "greengrocer": {
+  "ph": "/'gri:ngrәusә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蔬菜水果商, 菜販",
+    "def": "a grocer who sells fresh fruits and vegetables"
+   }
+  ],
+  "forms": "複數 greengrocers"
+ },
+ "greengrocery": {
+  "ph": "/'gri:ngrәusәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蔬菜水果店, 蔬菜水果業",
+    "def": "groceries sold by a greengrocer"
+   }
+  ],
+  "forms": "複數 greengroceries"
+ },
+ "greenhalgh": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格林哈爾希（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "greenham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Greenham)人名；(英)格里納姆",
+    "def": ""
+   }
+  ]
+ },
+ "greenhill": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Greenhill)人名；(英)格林希爾",
+    "def": ""
+   }
+  ]
+ },
+ "greenhorn": {
+  "ph": "/'gri:nhɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生手, 無經驗的人, 不懂世故的人",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 greenhorns｜複數 greenhorns"
+ },
+ "greenhouse": {
+  "ph": "/'gri:nhaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫室",
+    "def": "a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions"
+   }
+  ],
+  "forms": "複數 greenhouses"
+ },
+ "greenhouse effect": {
+  "ph": "/ˈɡri:nhaus iˈfekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫室效應",
+    "def": ""
+   }
+  ]
+ },
+ "greenhouse gas": {
+  "ph": "/ˈɡri:nhaus ɡæs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "二氧化碳、甲烷等導致溫室效應的氣體",
+    "def": ""
+   }
+  ]
+ },
+ "greening": {
+  "ph": "/'gri:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠皮蘋果, 恢復活力",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 greening"
+ },
+ "greenish": {
+  "ph": "/'gri:niʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "呈綠色的",
+    "def": ""
+   }
+  ]
+ },
+ "greenkeeper": {
+  "ph": "/'gri:nki:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高爾夫球場管理人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greenkeepers"
+ },
+ "greenland": {
+  "ph": "/'gri:nlәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格陵蘭",
+    "def": "the largest island in the world; lies between the North Atlantic and the Arctic Ocean; a self-governing province of Denmark"
+   }
+  ]
+ },
+ "greenly": {
+  "ph": "/'gri:nli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "綠色地, 未熟練",
+    "def": ""
+   }
+  ]
+ },
+ "greenness": {
+  "ph": "/'gri:nnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠色, 新鮮, 未熟",
+    "def": "the lush appearance of flourishing vegetation"
+   }
+  ]
+ },
+ "greenock": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格陵諾克（城市名）",
+    "def": ""
+   }
+  ]
+ },
+ "greenpeace": {
+  "ph": "/'gri:npi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠色和平組織（保護動物不遭捕獵等）",
+    "def": "an international organization that works for environmental conservation and the preservation of endangered species"
+   }
+  ]
+ },
+ "greenroom": {
+  "ph": "/'^ri:nru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "演員休息室",
+    "def": "a backstage room in a theater where performers rest or have visitors"
+   }
+  ]
+ },
+ "greenskeeper": {
+  "ph": "/'^ri:nz,ki:pә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高爾夫球場管理人",
+    "def": "someone responsible for the maintenance of a golf course"
+   }
+  ]
+ },
+ "greenstone": {
+  "ph": "/'gri:nstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠巖, 軟玉",
+    "def": "A name formerly applied rather loosely to certain"
+   }
+  ],
+  "forms": "複數 greenstones"
+ },
+ "greenstuff": {
+  "ph": "/'^ri:nstʌf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蔬菜, 草木",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greenstuffs"
+ },
+ "greensward": {
+  "ph": "/'gri:nswɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草皮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greenswards"
+ },
+ "greenway": {
+  "ph": "/'^ri:nwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<主美>[常用作定語]林蔭道路,園林路",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greenways"
+ },
+ "greenwell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Greenwell)人名；(英)格林韋爾",
+    "def": ""
+   }
+  ]
+ },
+ "greenwich": {
+  "ph": "/'grinidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格林威治",
+    "def": "a borough of Greater London on the Thames; zero degrees of longitude runs through Greenwich; time is measured relative to Greenwich Mean Time"
+   }
+  ]
+ },
+ "greenwood": {
+  "ph": "/'gri:nwud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠林, 溼材",
+    "def": "woodlands in full leaf"
+   }
+  ],
+  "forms": "複數 greenwoods"
+ },
+ "greeny": {
+  "ph": "/'gri:ni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "呈綠色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greenies"
+ },
+ "greer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Greer)人名；(英)格里爾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greers"
+ },
+ "greet": {
+  "ph": "/gri:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "問候, 致敬, 歡迎, 映入眼簾",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 greeted｜過去式 greeted｜現在分詞 greeting｜第三人稱單數 greets"
+ },
+ "greeter": {
+  "ph": "/ˈgri:tə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歡迎人員",
+    "def": "a person who greets"
+   }
+  ],
+  "forms": "複數 greeters"
+ },
+ "greeting": {
+  "ph": "/'gri:tiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祝賀, 問候",
+    "def": "(usually plural) an acknowledgment or expression of good will (especially on meeting)"
+   }
+  ],
+  "forms": "複數 greetings｜現在分詞 greeting"
+ },
+ "greg": {
+  "ph": "/greg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格雷格（男子名, 等於Gregory）",
+    "def": ""
+   }
+  ]
+ },
+ "gregarious": {
+  "ph": "/gre'gєәriәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社交的, 群居的",
+    "def": "(of animals) tending to form a group with others of the same species"
+   }
+  ]
+ },
+ "gregariousness": {
+  "ph": "/ɡrɪ'ɡerɪəsnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "叢集性; 簇聚性",
+    "def": ""
+   }
+  ]
+ },
+ "gregg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格雷格（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "gregor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格雷戈爾（德語姓名）",
+    "def": ""
+   }
+  ]
+ },
+ "gregorian": {
+  "ph": "/gre'gɒ:riәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "格列高利教皇的",
+    "def": "of or relating to Pope Gregory I or to the plainsong chants of the Roman Catholic Church"
+   }
+  ],
+  "forms": "複數 gregorians"
+ },
+ "gregorio": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格雷戈里奧(人名)",
+    "def": ""
+   }
+  ]
+ },
+ "gregory": {
+  "ph": "/'^re^әri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格雷戈裡（男子名, 古代羅馬教皇之名）",
+    "def": "(Roman Catholic Church) a church father known for his constant fight against perceived heresies; a saint and Doctor of the Church (329-391)"
+   }
+  ]
+ },
+ "gregson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Gregson)人名；(英)格雷格森",
+    "def": ""
+   }
+  ]
+ },
+ "greig": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格雷格（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "gremlin": {
+  "ph": "/'gremlin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小鬼, 造成煩的原因",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gremlins"
+ },
+ "grenada": {
+  "ph": "/^rә'neidә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格瑞那達",
+    "def": "an island state in the West Indies in the southeastern Caribbean Sea; an independent state within the British Commonwealth"
+   }
+  ]
+ },
+ "grenade": {
+  "ph": "/gri'neid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手榴彈",
+    "def": "a small explosive bomb thrown by hand or fired from a missile"
+   }
+  ],
+  "forms": "複數 grenades｜過去式 grenaded"
+ },
+ "grenadier": {
+  "ph": "/,^renә'diә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手榴彈兵,[軍]精銳部隊計程車兵",
+    "def": "an infantryman equipped with grenades"
+   }
+  ],
+  "forms": "複數 grenadiers"
+ },
+ "grenadine": {
+  "ph": "/'^renәdi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄布料的一種, 糖漿的一種",
+    "def": "thin syrup made from pomegranate juice; used in mixed drinks"
+   }
+  ]
+ },
+ "grenfell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Grenfell)人名；(英)格倫費爾",
+    "def": ""
+   }
+  ]
+ },
+ "grenoble": {
+  "ph": "/^rә'nәjbl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格勒諾布林[法國東南部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "grenville": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格倫維爾",
+    "def": ""
+   }
+  ]
+ },
+ "gresham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Gresham)人名；(英)格雷沙姆",
+    "def": "English financier (1519-1579)"
+   }
+  ]
+ },
+ "gresley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Gresley)人名；(英)格雷斯利",
+    "def": ""
+   }
+  ]
+ },
+ "greta": {
+  "ph": "/'^retә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格里塔（女子名, Margaret的暱稱, 等於Gretta）",
+    "def": ""
+   }
+  ]
+ },
+ "gretel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Gretel)人名；(法)格雷泰爾, 格蕾泰爾(女名)",
+    "def": ""
+   }
+  ]
+ },
+ "grey": {
+  "ph": "/grei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灰色",
+    "def": "United States writer of western adventure novels (1875-1939)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "灰色的, 陰沉的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)成灰色",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greys｜現在分詞 greying｜過去分詞 greyed｜過去式 greyed｜第三人稱單數 greys"
+ },
+ "greyhound": {
+  "ph": "/'greihaund/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "快速船",
+    "def": "a tall slender dog of an ancient breed noted for swiftness and keen sight; used as a racing dog"
+   }
+  ],
+  "forms": "複數 greyhounds"
+ },
+ "greying": {
+  "ph": "/'ɡreiiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "石墨化的；發灰色的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 greying"
+ },
+ "greyish": {
+  "ph": "/'^reiiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淡灰色的",
+    "def": ""
+   }
+  ]
+ },
+ "greyness": {
+  "ph": "/ɡreɪnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（鋼板酸洗缺陷）灰斑",
+    "def": ""
+   }
+  ]
+ },
+ "greystone": {
+  "ph": "/'^reistәjn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[地]玄武石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 greystones"
+ },
+ "grice": {
+  "ph": "/^rais/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "仔豬",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 gricing"
+ },
+ "grid": {
+  "ph": "/grid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格子, 柵格",
+    "def": "a pattern of regularly spaced horizontal and vertical lines"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 網格",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grids｜過去式 gridded"
+ },
+ "gridded": {
+  "ph": "/grɪd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(烤炙食物用的)烤架, 鐵篦子；(門窗等的)(鐵)格柵, 格子；[電子學]柵極,控制柵極(=control grid)",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "[美國俚語]橄欖球的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 gridded"
+ },
+ "griddle": {
+  "ph": "/'gridl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平底鍋, 礦篩",
+    "def": "cooking utensil consisting of a flat heated surface (as on top of a stove) on which food is cooked"
+   },
+   {
+    "pos": "vt.",
+    "zh": "篩, 用平底鍋烹調",
+    "def": ""
+   }
+  ],
+  "forms": "複數 griddles｜現在分詞 griddling｜過去式 griddled｜第三人稱單數 griddles｜過去分詞 griddled"
+ },
+ "gridiron": {
+  "ph": "/'gridaiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烤架, 格狀物",
+    "def": ""
+   }
+  ]
+ },
+ "gridlock": {
+  "ph": "/ˈgrɪdlɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "交通全面大堵塞; 僵局",
+    "def": "a traffic jam so bad that no movement is possible"
+   },
+   {
+    "pos": "v.",
+    "zh": "（交通等）堵塞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 gridlocked"
+ },
+ "gridlocked": {
+  "ph": "/'grɪdlɒk/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "交通阻塞",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "僵局；極端嚴重的全面交通壅塞",
+    "def": ""
+   }
+  ]
+ },
+ "grief": {
+  "ph": "/gri:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傷心, 憂愁, 悲痛, 不幸, 災難",
+    "def": "intense sorrow caused by loss of a loved one (especially by death)"
+   }
+  ],
+  "forms": "複數 griefs"
+ },
+ "grieg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葛利格（挪威音樂之父）；格里格（歌曲名）",
+    "def": "Norwegian composer whose work was often inspired by Norwegian folk music (1843-1907)"
+   }
+  ]
+ },
+ "grierson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Grierson)人名；(英)格里爾森",
+    "def": ""
+   }
+  ]
+ },
+ "grievance": {
+  "ph": "/'gri:vәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "委屈, 冤情, 苦況",
+    "def": "an allegation that something imposes an illegal obligation or denies some legal right or causes injustice"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 不滿(對僱用條件的)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grievances"
+ },
+ "grieve": {
+  "ph": "/gri:v/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使悲傷",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "悲痛, 傷心",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 grieves｜過去式 grieved｜現在分詞 grieving｜過去分詞 grieved"
+ },
+ "grieved": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傷心的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 grieved｜過去式 grieved"
+ },
+ "grieving": {
+  "ph": "/ɡri:vɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "感到悲痛, 傷心( grieve的現在分詞 ); 使…傷心",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grieving"
+ },
+ "grievous": {
+  "ph": "/'gri:vәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "痛苦的, 嚴重的, 充滿悲傷的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 極大的, 嚴重的, 慘無人道的",
+    "def": ""
+   }
+  ]
+ },
+ "grievously": {
+  "ph": "/ˈgri:vəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嚴重地",
+    "def": ""
+   }
+  ]
+ },
+ "griff": {
+  "ph": "/^rif/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[英方]深而狹的峽谷或溝壑",
+    "def": ""
+   }
+  ]
+ },
+ "griffin": {
+  "ph": "/'^rifin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新手, 未經世故的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 griffins"
+ },
+ "griffith": {
+  "ph": "/'^rifiθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格里菲思（女子名, Griffin的異體）",
+    "def": "United States film maker who was the first to use flashbacks and fade-outs (1875-1948)"
+   }
+  ]
+ },
+ "griffiths": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格里菲思（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "griffon": {
+  "ph": "/'ɡrɪfən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<希神>獅身鷲首的怪獸",
+    "def": "breed of various very small compact wiry-coated dogs of Belgian origin having a short bearded muzzle"
+   }
+  ],
+  "forms": "複數 griffons"
+ },
+ "grifter": {
+  "ph": "/'^riftә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賭棍, 小偷, 騙子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grifters"
+ },
+ "grigg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格里格（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "grill": {
+  "ph": "/gril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烤架, 鐵格子, 烤肉",
+    "def": "a framework of metal bars used as a partition or a grate"
+   },
+   {
+    "pos": "v.",
+    "zh": "燒, 烤, 嚴加盤問, 給...裝柵欄",
+    "def": "cook over a grill"
+   }
+  ],
+  "forms": "現在分詞 grilling｜複數 grills｜過去分詞 grilled｜過去式 grilled｜第三人稱單數 grills"
+ },
+ "grille": {
+  "ph": "/gril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格子, 鐵格子, 格子窗",
+    "def": "grating that admits cooling air to car's radiator"
+   }
+  ],
+  "forms": "複數 grilles"
+ },
+ "grilled": {
+  "ph": "/grild/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "烤的, 炙過的, 有格子的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grilled｜過去分詞 grilled"
+ },
+ "grilling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格柵",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grilling"
+ },
+ "grillwork": {
+  "ph": "/'^rilw\\\\\\\\:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格子形圖案, 花格形裝置",
+    "def": ""
+   }
+  ]
+ },
+ "grim": {
+  "ph": "/grim/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冷酷的, 堅強的, 殘忍的, 可怕的, 討厭的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 grimmer｜最高級 grimmest"
+ },
+ "grimace": {
+  "ph": "/gri'meis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬼臉, 怪相",
+    "def": "a contorted facial expression"
+   },
+   {
+    "pos": "vi.",
+    "zh": "扮鬼臉, 作怪相",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grimaced｜現在分詞 grimacing｜複數 grimaces｜第三人稱單數 grimaces｜過去分詞 grimaced"
+ },
+ "grimacing": {
+  "ph": "/grɪ'meɪsɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "扮鬼相, 做鬼臉( grimace的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grimacing"
+ },
+ "grime": {
+  "ph": "/graim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塵垢, 煤塵, 汙點",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使汙穢, 使...弄髒",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grimed｜過去分詞 grimed｜現在分詞 griming｜第三人稱單數 grimes"
+ },
+ "grimes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格蘭姆斯（廣州電氣公司名稱）",
+    "def": ""
+   }
+  ]
+ },
+ "grimley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Grimley)人名；(英)格里姆利",
+    "def": ""
+   }
+  ]
+ },
+ "grimly": {
+  "ph": "/'grimli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嚴格地, 冷酷地, 可怕地",
+    "def": ""
+   }
+  ]
+ },
+ "grimm": {
+  "ph": "/^rim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格林姆（姓氏）",
+    "def": "the younger of the two Grimm brothers remembered best for their fairy stories (1786-1859)"
+   }
+  ]
+ },
+ "grimness": {
+  "ph": "/'grimnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嚴格, 冷酷, 嚴峻",
+    "def": ""
+   }
+  ]
+ },
+ "grimsby": {
+  "ph": "/'ɡrimzbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格里姆斯比（英國城市）；格里姆斯比（足球隊名稱）；格里姆（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "grimy": {
+  "ph": "/'graimi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "汙穢的, 骯髒的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 grimier"
+ },
+ "grin": {
+  "ph": "/grin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "露齒笑",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "露齒而笑",
+    "def": "to draw back the lips and reveal the teeth, in a smile, grimace, or snarl"
+   }
+  ],
+  "forms": "過去式 grinned｜現在分詞 grinning｜複數 grins｜第三人稱單數 grins｜過去分詞 grinned"
+ },
+ "grinch": {
+  "ph": "/ɡ'rɪntʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "掃興的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grinches"
+ },
+ "grind": {
+  "ph": "/graind/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磨, 碾, 苦差, 摩擦聲, 用功的學生",
+    "def": "the grade of particle fineness to which a substance is ground"
+   },
+   {
+    "pos": "vt.",
+    "zh": "磨擦, 磨碎, 磨光, 折磨, 壓榨",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "磨, 磨碎, 苦幹",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ground｜過去式 ground｜現在分詞 grinding｜第三人稱單數 grinds｜複數 grinds"
+ },
+ "grinder": {
+  "ph": "/'graindә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "推磨的人, 研磨者",
+    "def": "a machine tool that polishes metal"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磨床; 磨木機; 研磨機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grinders"
+ },
+ "grinding": {
+  "ph": "/'graindiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "刺耳的, 沉重的, 劇烈的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 研磨; 磨碎",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grinding｜複數 grindings"
+ },
+ "grindstone": {
+  "ph": "/'graindstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磨石, 砂輪, 石磨",
+    "def": "a revolving stone shaped like a disk; used to grind or sharpen or polish edge tools"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 磨石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grindstones"
+ },
+ "gringa": {
+  "ph": "/'ɡriŋɡə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[貶義]外國女人(西班牙人和拉丁美洲人用以稱美英血統的人)",
+    "def": ""
+   }
+  ]
+ },
+ "gringo": {
+  "ph": "/'griŋgәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外國佬(貶)",
+    "def": "a Latin American (disparaging) term for foreigners (especially Americans and Englishmen)"
+   }
+  ],
+  "forms": "複數 gringos"
+ },
+ "grinning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "笑嘻嘻",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grinning｜複數 grinnings"
+ },
+ "griot": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（西非, 尤指舊時的）部族史（或傳統）說唱藝人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 griots"
+ },
+ "grip": {
+  "ph": "/grip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊握, 柄, 握力, 握手方式, 手提包, 掌握, 支配, 控制",
+    "def": "the friction between a body and the surface on which it moves (as between an automobile tire and the road)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "抓緊, 抱住, 吸住, 掌握",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "握牢, 有吸引力",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 gripped｜複數 grips｜現在分詞 gripping｜過去分詞 gripped｜第三人稱單數 grips"
+ },
+ "gripe": {
+  "ph": "/graip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊握, 柄, 把手, 控制",
+    "def": "informal terms for objecting"
+   },
+   {
+    "pos": "vt.",
+    "zh": "抓緊, 抱住, 使腸痛, 激怒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "腸絞痛, 抱怨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gripes｜現在分詞 griping｜第三人稱單數 gripes｜過去式 griped｜過去分詞 griped"
+ },
+ "griping": {
+  "ph": "/ˈgraɪpɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "感到或引起腹或腸絞痛( gripe的現在分詞 ); 抱怨（某人[某事物]）, 發牢騷; 偏舵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gripings"
+ },
+ "gripper": {
+  "ph": "/'^ripә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "握者, 抓爪, 抓器, 夾子",
+    "def": "One who, or that which, grips or seizes."
+   },
+   {
+    "pos": "",
+    "zh": "[計] 機械爪, 夾子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grippers"
+ },
+ "gripping": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抓的, 吸引人的, 扣人心絃的, 夾的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 gripping"
+ },
+ "grippy": {
+  "ph": "/ˈɡripi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<口>患流行性感冒的",
+    "def": ""
+   }
+  ]
+ },
+ "gris": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "網格資源資訊服務（ \tGrid Resource Information Service）",
+    "def": ""
+   }
+  ]
+ },
+ "grisaille": {
+  "ph": "/^ri'zeil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "純以灰色的裝飾畫法, 純灰色畫",
+    "def": "chiaroscuro painting or stained glass etc., in shades of grey imitating the effect of relief"
+   }
+  ]
+ },
+ "griselda": {
+  "ph": "/^ri'zeldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女子名, 順從而有耐心的女人",
+    "def": ""
+   }
+  ]
+ },
+ "grisly": {
+  "ph": "/'grizli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可怕的, 厲害的, 令人畏懼的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 grisliest"
+ },
+ "grist": {
+  "ph": "/grist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穀物, 麵粉, 碎麥芽, 大量",
+    "def": "grain intended to be or that has been ground"
+   }
+  ]
+ },
+ "gristle": {
+  "ph": "/'grisl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟骨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 軟骨",
+    "def": ""
+   }
+  ]
+ },
+ "gristmill": {
+  "ph": "/'gristmil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磨粉廠",
+    "def": "a mill for grinding grain (especially the customer's own grain)"
+   }
+  ]
+ },
+ "grit": {
+  "ph": "/grit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "砂礫, 粗砂石",
+    "def": "a hard coarse-grained siliceous sandstone"
+   },
+   {
+    "pos": "vt.",
+    "zh": "覆以砂礫, 咬牙切齒地說",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "摩擦作聲",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 gritted｜現在分詞 gritting｜過去分詞 gritted｜複數 grits｜第三人稱單數 grits"
+ },
+ "gritstone": {
+  "ph": "/'^ritstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粗砂岩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gritstones"
+ },
+ "gritted": {
+  "ph": "/grɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "以沙礫覆蓋（某物）, 撒沙礫於( grit的過去式和過去分詞 ); 咬緊牙關",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 gritted"
+ },
+ "grittiness": {
+  "ph": "/'gritinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有砂礫, 堅韌不拔",
+    "def": "The quality of being gritty."
+   }
+  ]
+ },
+ "gritty": {
+  "ph": "/'griti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有砂礫的, 堅韌不拔的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 grittier｜最高級 grittiest"
+ },
+ "grizzle": {
+  "ph": "/'grizl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灰色, 灰色物, 斑白頭髮",
+    "def": "a grey wig"
+   },
+   {
+    "pos": "vi.",
+    "zh": "變成灰色, 抱怨",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成灰色",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grizzled｜現在分詞 grizzling｜複數 grizzles｜第三人稱單數 grizzles｜過去分詞 grizzled"
+ },
+ "grizzled": {
+  "ph": "/'grizld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "灰色的, 頭髮斑白的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grizzled"
+ },
+ "grizzly": {
+  "ph": "/'grizli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "略為灰色的, 呈灰色的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "灰熊",
+    "def": "powerful brownish-yellow bear of the uplands of western North America"
+   }
+  ],
+  "forms": "複數 grizzlies｜最高級 grizzliest｜比較級 grizzlier"
+ },
+ "gro": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "格林威治皇家天文臺（Greenwich Royal Observatory）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 gros"
+ },
+ "groan": {
+  "ph": "/grәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呻吟, 嘆息",
+    "def": "an utterance expressing pain or disapproval"
+   },
+   {
+    "pos": "vi.",
+    "zh": "呻吟, 抱怨, 受壓迫",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "呻吟地說",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 groaned｜現在分詞 groaning｜複數 groans｜第三人稱單數 groans｜過去分詞 groaned"
+ },
+ "groaning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呻吟；活塞在氣缸內的不正常聲；哼聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 groaning｜複數 groanings"
+ },
+ "groat": {
+  "ph": "/grәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格羅特(英國古銀幣), 少量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groats｜第三人稱單數 groats"
+ },
+ "groats": {
+  "ph": "/^rәuts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碾去殼的燕麥(小麥)",
+    "def": "the hulled and crushed grain of various cereals"
+   }
+  ]
+ },
+ "grocer": {
+  "ph": "/'grәusә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食品商",
+    "def": "a retail merchant who sells foodstuffs (and some household supplies)"
+   }
+  ],
+  "forms": "複數 grocers"
+ },
+ "groceries": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食品, 雜貨",
+    "def": ""
+   }
+  ]
+ },
+ "grocery": {
+  "ph": "/'grәusәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食品雜貨店, 食品雜貨業",
+    "def": "(usually plural) consumer goods sold by a grocer"
+   }
+  ],
+  "forms": "複數 groceries"
+ },
+ "grog": {
+  "ph": "/grɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格羅格酒",
+    "def": "rum cut with water"
+   },
+   {
+    "pos": "vi.",
+    "zh": "飲格羅格酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grogs"
+ },
+ "grogan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Grogan)人名；(英)格羅根",
+    "def": ""
+   }
+  ]
+ },
+ "groggily": {
+  "ph": "/'grɒdʒɪlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "酒醉地, 東倒西歪地",
+    "def": ""
+   }
+  ]
+ },
+ "grogginess": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酒醉；東歪西倒",
+    "def": "a dazed and staggering state caused by alcohol"
+   }
+  ]
+ },
+ "groggy": {
+  "ph": "/'grɒgi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "酒醉的, 東歪西倒的, 搖搖晃晃的",
+    "def": ""
+   }
+  ]
+ },
+ "groin": {
+  "ph": "/^rɔin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腹股溝, 交叉拱",
+    "def": "the crease at the junction of the inner part of the thigh with the trunk together with the adjacent region and often including the external genitals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腹股溝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groins｜現在分詞 groining｜過去式 groined｜第三人稱單數 groins｜過去分詞 groined"
+ },
+ "grommet": {
+  "ph": "/'grɒmit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釦眼, 索環",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 金屬孔眼(衣服、皮革中)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grommets"
+ },
+ "groningen": {
+  "ph": "/'ɡrəuniŋən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格羅寧根（荷蘭城市）",
+    "def": ""
+   }
+  ]
+ },
+ "groom": {
+  "ph": "/gru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬伕, 新郎, 男僕",
+    "def": "a man participant in his own marriage ceremony"
+   },
+   {
+    "pos": "vt.",
+    "zh": "餵馬, 使...整潔, 推薦",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "打扮, 穿戴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grooms｜過去分詞 groomed｜現在分詞 grooming｜過去式 groomed｜第三人稱單數 grooms"
+ },
+ "groomed": {
+  "ph": "/gru:md/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "照料或梳洗（馬等）( groom的過去式和過去分詞 ); 使做好準備; 訓練; （給動物）擦洗",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 groomed"
+ },
+ "groomer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "美容師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groomers"
+ },
+ "grooming": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修飾",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grooming｜複數 groomings"
+ },
+ "groomsman": {
+  "ph": "/'gru:mzmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男儐相",
+    "def": "a male attendant of the bridegroom at a wedding"
+   }
+  ]
+ },
+ "groove": {
+  "ph": "/gru:v/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凹槽, 慣例, 理想境況",
+    "def": "a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "開槽於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grooves｜過去式 grooved｜現在分詞 grooving｜過去分詞 grooved｜第三人稱單數 grooves"
+ },
+ "grooved": {
+  "ph": "/ɡru:vd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "帶紋道的；表面有溝槽的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grooved"
+ },
+ "groovy": {
+  "ph": "/'gru:vi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "槽的, 墨守成規的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 grooviest｜複數 groovies"
+ },
+ "grope": {
+  "ph": "/grәup/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "摸索",
+    "def": "feel about uncertainly or blindly"
+   },
+   {
+    "pos": "n.",
+    "zh": "摸索",
+    "def": "the act of groping; and instance of groping"
+   }
+  ],
+  "forms": "過去式 groped｜現在分詞 groping｜過去分詞 groped｜第三人稱單數 gropes｜複數 gropes"
+ },
+ "groping": {
+  "ph": "/'ɡrɔpiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "暗中摸索的；探索的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 groping｜複數 gropings"
+ },
+ "gros": {
+  "ph": "/ɡrәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橫稜綢",
+    "def": "A heavy silk with a dull finish; as, gros de Naples; gros de"
+   }
+  ]
+ },
+ "grosbeak": {
+  "ph": "/'grәusbi:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "松雀",
+    "def": "any of various finches of Europe or America having a massive and powerful bill"
+   }
+  ],
+  "forms": "複數 grosbeaks"
+ },
+ "grosgrain": {
+  "ph": "/'grәusgrein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羅緞",
+    "def": "a silk or silklike fabric with crosswise ribs"
+   }
+  ]
+ },
+ "gross": {
+  "ph": "/grәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "總數, 總量",
+    "def": "twelve dozen"
+   },
+   {
+    "pos": "adj.",
+    "zh": "總共的, 未打折扣的, 惡劣的, 粗野的",
+    "def": "before any deductions"
+   },
+   {
+    "pos": "vt.",
+    "zh": "總共收入",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 grossed｜過去式 grossed｜比較級 grosser｜現在分詞 grossing｜最高級 grossest｜第三人稱單數 grosses"
+ },
+ "grossly": {
+  "ph": "/'grәusli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "非常, 很, 粗",
+    "def": ""
+   }
+  ]
+ },
+ "grossman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Grossman)人名；(德、英、捷)格羅斯曼",
+    "def": ""
+   }
+  ]
+ },
+ "grossness": {
+  "ph": "/'grәusnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肥滿, 粗雜, 粗劣",
+    "def": ""
+   }
+  ]
+ },
+ "grosvenor": {
+  "ph": "/'^rәuvnә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格羅夫納(①姓氏 ②Gilbert Hovey, 1875-1966, 美國地理學家)",
+    "def": ""
+   }
+  ]
+ },
+ "grosz": {
+  "ph": "/grɒ:ʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格羅希(波蘭貨幣單位)",
+    "def": "100 groszy equal 1 zloty in Poland"
+   }
+  ]
+ },
+ "grotesque": {
+  "ph": "/grәu'tesk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奇異風格, 怪異圖案",
+    "def": "art characterized by an incongruous mixture of parts of humans and animals interwoven with plants"
+   },
+   {
+    "pos": "adj.",
+    "zh": "奇怪的, 可笑的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grotesques"
+ },
+ "grotesquely": {
+  "ph": "/ɡrəʊ'tesklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "奇異地, 荒誕地",
+    "def": ""
+   }
+  ]
+ },
+ "grotesquerie": {
+  "ph": "/grәu'teskәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "怪異圖案, 奇怪, 可笑",
+    "def": ""
+   }
+  ]
+ },
+ "grotto": {
+  "ph": "/'grɒtәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洞穴, 巖穴, 洞室",
+    "def": "a small cave (usually with attractive features)"
+   }
+  ],
+  "forms": "複數 grottos"
+ },
+ "grotty": {
+  "ph": "/'^rɔti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "壞的, 惡劣的, 齷齪的",
+    "def": ""
+   }
+  ]
+ },
+ "grouch": {
+  "ph": "/grautʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脾氣的發作, 壞脾氣, 不高興的人, 心懷不滿",
+    "def": "a bad-tempered person"
+   },
+   {
+    "pos": "vi.",
+    "zh": "鬧脾氣, 發牢騷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grouches｜現在分詞 grouching｜過去式 grouched｜第三人稱單數 grouches｜過去分詞 grouched"
+ },
+ "groucho": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Groucho)人名；(英)格勞喬",
+    "def": ""
+   }
+  ]
+ },
+ "grouchy": {
+  "ph": "/'grautʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不高興的, 不平的",
+    "def": ""
+   }
+  ]
+ },
+ "ground": {
+  "ph": "/graund/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土地, 戰場, 場地, 地面, 範圍",
+    "def": "a position to be won or defended in battle (or as if in battle)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "土地的, 地面上的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "放在地上, 使擱淺, 打基礎, 給...以訓練",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "擱淺, 落地, 根據, 基於",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "磨過的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "grind的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grounds｜過去分詞 grounded｜過去式 grounded｜現在分詞 grinding｜第三人稱單數 grinds"
+ },
+ "ground floor": {
+  "ph": "/ɡraund flɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "第一層",
+    "def": ""
+   }
+  ]
+ },
+ "ground rule": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "程式",
+    "def": ""
+   }
+  ]
+ },
+ "ground work": {
+  "ph": "/ɡraund wə:k/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "基礎, 地基",
+    "def": ""
+   }
+  ]
+ },
+ "groundbreaking": {
+  "ph": "/ˈgraʊndbreɪkɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "開創性的, 突破性的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 groundbreaking"
+ },
+ "grounded": {
+  "ph": "/'^raundid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[物]接地的；有基礎的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 grounded｜過去式 grounded"
+ },
+ "grounder": {
+  "ph": "/'graundә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滾球, 創立者, 創業者",
+    "def": "(baseball) a hit that travels along the ground"
+   }
+  ]
+ },
+ "groundfish": {
+  "ph": "/'^rajndfiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "底棲魚,底層魚(指生活於海底的魚,如鱈等)",
+    "def": "fish that live on the sea bottom (particularly the commercially important gadoid fish like cod and haddock, or flatfish like flounder)"
+   }
+  ]
+ },
+ "groundhog": {
+  "ph": "/'graund'hɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土撥鼠",
+    "def": "reddish brown North American marmot"
+   }
+  ],
+  "forms": "複數 groundhogs"
+ },
+ "grounding": {
+  "ph": "/'graundiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "基礎教學, 基礎訓練",
+    "def": "fastening electrical equipment to earth"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 擱淺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groundings｜現在分詞 grounding"
+ },
+ "groundless": {
+  "ph": "/'^aundlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無根據的, 無理由的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無根據的, 無理由的",
+    "def": ""
+   }
+  ]
+ },
+ "groundling": {
+  "ph": "/'^raundliŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "匍匐植物, 沒鑑賞力的低俗觀眾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groundlings"
+ },
+ "groundnut": {
+  "ph": "/'graundnʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "野豆, 落花生",
+    "def": "a North American vine with fragrant blossoms and edible tubers; important food crop of Native Americans"
+   }
+  ],
+  "forms": "複數 groundnuts"
+ },
+ "groundout": {
+  "ph": "/'^rajndajt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[棒](擊球員擊出內場地滾球后的)被殺出局",
+    "def": ""
+   }
+  ]
+ },
+ "groundsheet": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鋪在地上的防潮布",
+    "def": "a waterproofed piece of cloth spread on the ground (as under a tent) to protect from moisture"
+   }
+  ],
+  "forms": "複數 groundsheets"
+ },
+ "groundskeeper": {
+  "ph": "/'ɡraundz,ki:pə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(運動場、莊園、墓地等的)場地管理員[亦作 groundkeeper]",
+    "def": ""
+   }
+  ]
+ },
+ "groundsman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "球場管理員, 大花園的園丁",
+    "def": "someone who maintains the grounds (of an estate or park or athletic field)"
+   }
+  ],
+  "forms": "複數 groundsmen"
+ },
+ "groundstroke": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "落地球（球落地彈起之後的一擊）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groundstrokes"
+ },
+ "groundswell": {
+  "ph": "/ˈgraʊndswel/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（颶風和地震引起的）海嘯, 淺水長湧",
+    "def": ""
+   }
+  ]
+ },
+ "groundwater": {
+  "ph": "/'graundwɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地下水",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groundwaters"
+ },
+ "groundwork": {
+  "ph": "/'graundwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地基, 基礎, 根據",
+    "def": "preliminary preparation as a basis or foundation"
+   }
+  ],
+  "forms": "複數 groundworks"
+ },
+ "group": {
+  "ph": "/gru:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "團體, 組, 團, 群",
+    "def": "any number of entities (members) considered as a unit"
+   },
+   {
+    "pos": "v.",
+    "zh": "聚合, 成群",
+    "def": "arrange into a group or groups"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 建立組; 組, 使用者組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groups｜過去分詞 grouped｜過去式 grouped｜現在分詞 grouping｜第三人稱單數 groups"
+ },
+ "group therapy": {
+  "ph": "/ɡru:p ˈθerəpi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "集體治療",
+    "def": ""
+   }
+  ]
+ },
+ "grouped": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "化合的；分組的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grouped｜過去分詞 grouped"
+ },
+ "grouper": {
+  "ph": "/'gru:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石斑魚",
+    "def": "flesh of a saltwater fish similar to sea bass"
+   }
+  ],
+  "forms": "複數 groupers"
+ },
+ "groupie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "追隨歌星的年輕女子, 歌星傾慕者",
+    "def": "an enthusiastic young fan (especially a young woman who follows rock groups around)"
+   }
+  ]
+ },
+ "grouping": {
+  "ph": "/'gru:piŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分組",
+    "def": "the activity of putting things together in groups"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groupings｜現在分詞 grouping"
+ },
+ "groups": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "群組, 組；使用者組；團體（group的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "groupthink": {
+  "ph": "/'^ru:pθiŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小集團思想",
+    "def": "decision making by a group (especially in a manner that discourages creativity or individual responsibility)"
+   }
+  ]
+ },
+ "groupware": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 集體件, 協同件, 組合件, 組用軟體",
+    "def": ""
+   }
+  ]
+ },
+ "groupy": {
+  "ph": "/'ɡru:pi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易於組合的；趨於歸組的；合群的, 不搞個人英雄主義的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groupies"
+ },
+ "grouse": {
+  "ph": "/graus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "松雞, 牢騷",
+    "def": "flesh of any of various grouse of the family Tetraonidae; usually roasted; flesh too dry to broil"
+   },
+   {
+    "pos": "vi.",
+    "zh": "埋怨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grouses｜現在分詞 grousing｜過去式 groused｜第三人稱單數 grouses｜過去分詞 groused"
+ },
+ "grousing": {
+  "ph": "/graʊsɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "抱怨, 發牢騷( grouse的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grousing"
+ },
+ "grout": {
+  "ph": "/graut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄泥漿, 水泥漿",
+    "def": "a thin mortar that can be poured and used to fill cracks in masonry or brickwork"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用薄泥漿填塞, (豬)用鼻子拱",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 grouted｜現在分詞 grouting｜複數 grouts｜過去式 grouted｜第三人稱單數 grouts"
+ },
+ "grouting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灌漿, 灌水泥漿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 灌漿",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grouting"
+ },
+ "grove": {
+  "ph": "/grәuv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小樹林",
+    "def": "a small growth of trees without underbrush"
+   }
+  ],
+  "forms": "複數 groves"
+ },
+ "grovel": {
+  "ph": "/'grɒvl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "趴, 匍匐, 卑躬屈膝",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grovelling｜過去式 grovelled｜第三人稱單數 grovels｜過去分詞 grovelled"
+ },
+ "grovelling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "趴著的, 卑躬屈節的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grovelling"
+ },
+ "grover": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格魯佛氏；調絃系統；卷絃器",
+    "def": ""
+   }
+  ]
+ },
+ "groves": {
+  "ph": "/grəuvz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格羅夫斯（男子名）（女子名）或（姓氏）",
+    "def": "United States general who served as military director of the atomic bomb project (1896-1970)"
+   }
+  ]
+ },
+ "grow": {
+  "ph": "/grәu/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "種植, 使長滿",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "生長, 變成, 發展",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grew｜過去分詞 grown｜現在分詞 growing｜第三人稱單數 grows"
+ },
+ "grow up": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "成熟, 成年, 發展, 逐漸形成",
+    "def": ""
+   }
+  ]
+ },
+ "grower": {
+  "ph": "/'grәuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "栽培者, 生長物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 growers"
+ },
+ "growing": {
+  "ph": "/'grәuiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成長的",
+    "def": "relating to or suitable for growth"
+   }
+  ],
+  "forms": "現在分詞 growing"
+ },
+ "growl": {
+  "ph": "/graul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吠聲, 咆哮聲",
+    "def": "the sound of growling (as made by animals)"
+   },
+   {
+    "pos": "v.",
+    "zh": "怒吠, 咆哮, 吼",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 growled｜現在分詞 growling｜複數 growls｜第三人稱單數 growls｜過去分詞 growled"
+ },
+ "growling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "咆哮的, 隆隆響的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 growling｜複數 growlings"
+ },
+ "grown": {
+  "ph": "/grәun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "長大的, 成年的, 長滿某物的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "grow的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grown"
+ },
+ "grown-up": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成熟的, 已經成人的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "成人, 大人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grown-ups"
+ },
+ "grownup": {
+  "ph": "/'ɡrәun.ʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成年人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grownups｜第三人稱單數 grownups"
+ },
+ "growth": {
+  "ph": "/grәuθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生長, 栽培, 增長",
+    "def": "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a s"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 等比級數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 growths"
+ },
+ "groyne": {
+  "ph": "/grɒin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "丁壩, 防波堤",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "築造防波堤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 groynes"
+ },
+ "grp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "接地繼電器盤（ground relay panel）；玻璃增強塑膠（Glass Reinforced Plastic）",
+    "def": ""
+   }
+  ]
+ },
+ "grub": {
+  "ph": "/grʌb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幼蟲, 乏味之人",
+    "def": "a soft thick wormlike larva of certain beetles and other insects"
+   },
+   {
+    "pos": "v.",
+    "zh": "尋找, 翻掘",
+    "def": "search about busily"
+   }
+  ],
+  "forms": "複數 grubs｜現在分詞 grubbing｜過去式 grubbed｜過去分詞 grubbed｜第三人稱單數 grubs"
+ },
+ "grubb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Grubb)人名；(英)格拉布；(瑞典)格魯布",
+    "def": ""
+   }
+  ]
+ },
+ "grubby": {
+  "ph": "/'grʌbi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "汙穢的, 骯髒的, 生蛆的",
+    "def": "infested with grubs"
+   }
+  ],
+  "forms": "比較級 grubbier｜過去式 grubbied｜最高級 grubbiest"
+ },
+ "grudge": {
+  "ph": "/grʌdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "怨恨, 惡意",
+    "def": "a resentment strong enough to justify retaliation"
+   },
+   {
+    "pos": "vt.",
+    "zh": "懷恨, 嫉妒, 吝惜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grudges｜過去式 grudged｜過去分詞 grudged｜現在分詞 grudging｜第三人稱單數 grudges"
+ },
+ "grudging": {
+  "ph": "/'grʌdʒiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不願的, 勉強的",
+    "def": ""
+   }
+  ]
+ },
+ "grudgingly": {
+  "ph": "/'grʌdʒiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "勉強地；不情願地",
+    "def": ""
+   }
+  ]
+ },
+ "gruel": {
+  "ph": "/'gru:әl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "稀粥",
+    "def": "a thin porridge (usually oatmeal or cornmeal)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使極度疲勞, 懲罰",
+    "def": ""
+   }
+  ]
+ },
+ "grueling": {
+  "ph": "/'^ruәliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "折磨人的, 使人精疲力盡的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "痛打, 懲罰",
+    "def": ""
+   }
+  ]
+ },
+ "gruelling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "折磨人的, 使人精疲力盡的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "痛打, 懲罰",
+    "def": ""
+   }
+  ]
+ },
+ "gruesome": {
+  "ph": "/'gru:sәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可怕的, 令人毛骨悚然的, 陰森的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 gruesomest"
+ },
+ "gruesomely": {
+  "ph": "/'ɡru:səmlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可怖地; 毛髮倒豎",
+    "def": ""
+   }
+  ]
+ },
+ "gruff": {
+  "ph": "/grʌf/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粗啞的, 粗魯的, 粗率的, 板著臉孔的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 gruffest｜複數 gruffs｜比較級 gruffer"
+ },
+ "gruffly": {
+  "ph": "/'grʌfli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "粗暴地, 粗聲地",
+    "def": ""
+   }
+  ]
+ },
+ "gruffness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生硬",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "粗魯",
+    "def": ""
+   }
+  ]
+ },
+ "grumble": {
+  "ph": "/'grʌmbl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "怨言, 滿腹牢騷",
+    "def": "a complaint uttered in a low and indistinct tone"
+   },
+   {
+    "pos": "vi.",
+    "zh": "抱怨, 發牢騷, 發隆隆聲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "抱怨",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grumbled｜現在分詞 grumbling｜複數 grumbles｜第三人稱單數 grumbles｜過去分詞 grumbled"
+ },
+ "grumbling": {
+  "ph": "/'^rʌmbliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "出怨言的；喃喃鳴不平的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 grumblings｜現在分詞 grumbling"
+ },
+ "grumman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "格魯曼（美國安全公司）",
+    "def": ""
+   }
+  ]
+ },
+ "grump": {
+  "ph": "/^rʌmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一陣壞脾氣, 發火, 脾氣壞的人",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "鬧情緒, 發牢騷",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grumped｜複數 grumps｜第三人稱單數 grumps｜現在分詞 grumping"
+ },
+ "grumpily": {
+  "ph": "/'ɡrʌmpɪlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "生氣地; 性情乖戾地, 脾氣粗暴地",
+    "def": ""
+   }
+  ]
+ },
+ "grumpiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴躁；乖戾",
+    "def": ""
+   }
+  ]
+ },
+ "grumpy": {
+  "ph": "/'grʌmpi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "性情乖戾的, 脾氣暴躁的, 生氣的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 grumpier｜複數 grumpies"
+ },
+ "grundy": {
+  "ph": "/'grʌndi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拘泥禮節的人",
+    "def": ""
+   }
+  ]
+ },
+ "grunge": {
+  "ph": "/^rʌndʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美俚>蹩腳貨,難看的東西,乏味的東西",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 grunged"
+ },
+ "grungy": {
+  "ph": "/'^rʌndʒi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<美俚>蹩腳的,低劣的,醜的,髒的,邋遢的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 grungier"
+ },
+ "grunt": {
+  "ph": "/grʌnt/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "作呼嚕聲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "咕噥",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "呼嚕聲, 咕噥",
+    "def": "the short low gruff noise of the kind made by hogs"
+   }
+  ],
+  "forms": "過去式 grunted｜複數 grunts｜現在分詞 grunting｜第三人稱單數 grunts｜過去分詞 grunted"
+ },
+ "grunting": {
+  "ph": "/'^rʌntiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "呼嚕的, 咕噥的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 嗯嗯聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 grunting｜複數 gruntings"
+ },
+ "gryphon": {
+  "ph": "/'^rifәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[希神]半獅半鷲的怪獸",
+    "def": "winged monster with the head of an eagle and the body of a lion"
+   }
+  ],
+  "forms": "複數 gryphons"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "mnemonic": {
+  "ph": "/ni:'mɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "記憶的, 助記的",
+    "def": "of or relating to or involved the practice of aiding the memory"
+   },
+   {
+    "pos": "n.",
+    "zh": "助記符",
+    "def": "a device (such as a rhyme or acronym) used to aid recall"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 助記的, 助記符",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mnemonics"
+ },
+ "mnemonics": {
+  "ph": "/ni:'mɒniks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "記憶術",
+    "def": "a method or system for improving the memory"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 記憶術",
+    "def": ""
+   }
+  ]
+ },
+ "mnp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] Microcom連網協議",
+    "def": ""
+   }
+  ]
+ },
+ "mnr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "mean neap rise 平均小潮升",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mnrs"
+ }
+}

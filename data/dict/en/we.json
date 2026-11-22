@@ -1,0 +1,3114 @@
+{
+ "we": {
+  "ph": "/wi:/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "我們",
+    "def": ""
+   }
+  ]
+ },
+ "we'd": {
+  "ph": "/wi:d/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "we had 我們已; we should 我們應",
+    "def": ""
+   }
+  ]
+ },
+ "we'll": {
+  "ph": "/wi:l/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(we shall或 we will 的常用口語形式)",
+    "def": ""
+   }
+  ]
+ },
+ "we're": {
+  "ph": "/wɪə(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(we are 的常用口語形式)",
+    "def": ""
+   }
+  ]
+ },
+ "we've": {
+  "ph": "/wi:v/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（尤當 have 為助動詞時, we have 的常用口語形式）",
+    "def": ""
+   }
+  ]
+ },
+ "wea": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）工人教育協會（Worker's Educational Association）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weas"
+ },
+ "weak": {
+  "ph": "/wi:k/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不牢固的, 弱的, 虛弱的, 軟弱的, 無力的, 無權力的, (論據等)不充分的",
+    "def": "wanting in physical strength"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 疲軟的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 weaker｜最高級 weakest"
+ },
+ "weaken": {
+  "ph": "/'wi:kәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "削弱, 減弱, 使虛弱",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變弱, 變軟弱",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 weakened｜現在分詞 weakening｜過去式 weakened｜第三人稱單數 weakens"
+ },
+ "weakened": {
+  "ph": "/ˈwi:kənd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "虛弱的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "（使）削弱, （使）變弱( weaken的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 weakened｜過去式 weakened"
+ },
+ "weakening": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 疲軟",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 weakening"
+ },
+ "weakest": {
+  "ph": "/wi:kɪst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "弱的( weak的最高階 ); 微弱的; 無說服力的; 淡的",
+    "def": ""
+   }
+  ]
+ },
+ "weakfish": {
+  "ph": "/'wi:kfɪʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細肉魚（一種食用魚）",
+    "def": "lean flesh of food and game fishes of the Atlantic coast of the United States"
+   }
+  ]
+ },
+ "weakling": {
+  "ph": "/'wi:kliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "虛弱的人, 弱小的動物, 低能兒",
+    "def": "a person who is physically weak and ineffectual"
+   },
+   {
+    "pos": "adj.",
+    "zh": "虛弱的, 懦弱的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weaklings"
+ },
+ "weakly": {
+  "ph": "/'wi:kli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "弱的, 虛弱的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "微弱地, 虛弱地",
+    "def": ""
+   }
+  ]
+ },
+ "weakness": {
+  "ph": "/'wi:knis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "虛弱, 薄弱, 弱點",
+    "def": "the property of lacking physical or mental strength; liability to failure under pressure or stress or strain"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 欲振乏力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weaknesses"
+ },
+ "weal": {
+  "ph": "/wi:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福利, 幸福, 鞭痕",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 鞭痕, 條痕, 傷根",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weals｜過去分詞 wealed"
+ },
+ "weald": {
+  "ph": "/wi:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "曠野, 林地",
+    "def": "an area of open or forested country"
+   }
+  ]
+ },
+ "wealden": {
+  "ph": "/'wi:ldən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威爾德統",
+    "def": "The Wealden group or strata."
+   },
+   {
+    "pos": "adj.",
+    "zh": "威爾德的；威爾德式的",
+    "def": "Of or pertaining to the lowest division of the Cretaceous"
+   }
+  ]
+ },
+ "wealth": {
+  "ph": "/welθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "財富, 資源, 財產, 豐富, 富裕, 大量",
+    "def": "the state of being rich and affluent; having a plentiful supply of material goods and money"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 財富",
+    "def": ""
+   }
+  ]
+ },
+ "wealthy": {
+  "ph": "/'welθi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "富有的, 豐裕的, 充分的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 wealthier｜最高級 wealthiest"
+ },
+ "wean": {
+  "ph": "/wi:n/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使斷奶, 使丟棄, 使斷念",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "小兒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 weaning｜過去分詞 weaned｜第三人稱單數 weans｜過去式 weaned"
+ },
+ "weaned": {
+  "ph": "/wi:nd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使斷奶( wean的過去式和過去分詞 ); （從早年）瞭解; 經歷過; （使）逐漸戒除惡習（或避免依賴…）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 weaned"
+ },
+ "weaning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 斷奶",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 weaning"
+ },
+ "weapon": {
+  "ph": "/'wepәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "武器, 兵器",
+    "def": "any instrument or instrumentality used in fighting or hunting"
+   },
+   {
+    "pos": "vt.",
+    "zh": "武裝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weapons"
+ },
+ "weaponization": {
+  "ph": "/,wepәnai'zeiʃәn;-ni'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "武器化, 武器研製",
+    "def": ""
+   }
+  ]
+ },
+ "weaponized": {
+  "ph": "/wi:'pənaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "把…改裝成武器, 使武器化( weaponize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "weaponless": {
+  "ph": "/'wepәnlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無武器的, 沒有武裝的",
+    "def": ""
+   }
+  ]
+ },
+ "weaponry": {
+  "ph": "/'wepәnri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "武器, 軍備, 武器設計研製學",
+    "def": "weapons considered collectively"
+   }
+  ]
+ },
+ "wear": {
+  "ph": "/wєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穿著, 戴, 使用, 耗損, 服裝, 耐久性",
+    "def": "impairment resulting from long use"
+   },
+   {
+    "pos": "vt.",
+    "zh": "穿著, 戴, 留(須、發等), 呈現, 磨損, 磨成, 耗損, 使疲乏, 消磨",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "磨損, 變舊, 耐久, 漸變, 漸漸消失",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 wearing｜過去式 wore｜過去分詞 worn｜第三人稱單數 wears"
+ },
+ "wearable": {
+  "ph": "/'wєәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可穿用的",
+    "def": "suitable for wear or able to be worn"
+   },
+   {
+    "pos": "n.",
+    "zh": "衣服",
+    "def": ""
+   }
+  ]
+ },
+ "wearer": {
+  "ph": "/'wєәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穿用者",
+    "def": "a person who wears or carries or displays something as a body covering or accessory"
+   }
+  ],
+  "forms": "複數 wearers"
+ },
+ "wearily": {
+  "ph": "/'wiәrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "疲倦地, 厭倦地, 無聊地",
+    "def": ""
+   }
+  ]
+ },
+ "weariness": {
+  "ph": "/'wiәrinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "疲倦, 厭倦, 疲勞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wearinesses"
+ },
+ "wearing": {
+  "ph": "/'wєәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿用的, 使疲憊的, 磨損的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 wearing｜複數 wearings"
+ },
+ "wearisome": {
+  "ph": "/'wiәrisәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使疲倦的, 使厭倦的, 乏味的",
+    "def": ""
+   }
+  ]
+ },
+ "weary": {
+  "ph": "/'wiәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "疲倦的, 萎靡的, 厭倦的, 厭煩的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使疲倦, 使厭煩",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "疲乏, 生厭, 不耐煩",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 wearied｜現在分詞 wearying｜過去式 wearied｜比較級 wearier｜複數 wearies｜最高級 weariest｜第三人稱單數 wearies"
+ },
+ "wearying": {
+  "ph": "/ˈwiəriŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）疲乏, （使）厭煩( weary的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 wearying"
+ },
+ "weasel": {
+  "ph": "/'wi:zl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼬鼠, 狡猾的人, 告密者, 狡辯之辭",
+    "def": "a person who is regarded as treacherous or sneaky"
+   },
+   {
+    "pos": "vi.",
+    "zh": "躲避, 告密",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weasels｜過去式 weaselled"
+ },
+ "weather": {
+  "ph": "/'weðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天氣, 氣象, 處境",
+    "def": "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation"
+   },
+   {
+    "pos": "adj.",
+    "zh": "迎風的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使受風吹雨打, 侵蝕, 使風化, 經受住",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "風化, 受侵蝕, 經受風雨",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 weathered｜複數 weathers｜過去式 weathered｜現在分詞 weathering｜第三人稱單數 weathers"
+ },
+ "weatherall": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Weatherall)人名；(英)韋瑟羅爾",
+    "def": ""
+   }
+  ]
+ },
+ "weatherbeaten": {
+  "ph": "/weðə'bi:tn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "風雨剝蝕[損耗]的, 飽經風霜的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 weatherbeaten"
+ },
+ "weathercock": {
+  "ph": "/'weðәkɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風標, 隨風倒的人",
+    "def": "weathervane with a vane in the form of a rooster"
+   }
+  ],
+  "forms": "現在分詞 weathercocking｜複數 weathercocks"
+ },
+ "weathered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "風化的, 傾斜的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 weathered｜過去分詞 weathered"
+ },
+ "weatherhead": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Weatherhead)人名；(英)韋瑟黑德",
+    "def": ""
+   }
+  ]
+ },
+ "weatherill": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Weatherill)人名；(英)韋瑟里爾",
+    "def": ""
+   }
+  ]
+ },
+ "weathering": {
+  "ph": "/'weðәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瀉水坡, 風化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 天然時效",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 weathering"
+ },
+ "weatherman": {
+  "ph": "/'weðәmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣象員；天氣預報員",
+    "def": "predicts the weather"
+   }
+  ],
+  "forms": "複數 weathermen"
+ },
+ "weatherproof": {
+  "ph": "/'weðәpru:f/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "防風雨的, 不受天氣影響的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使防風雨",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 weatherproofs｜過去分詞 weatherproofed｜過去式 weatherproofed｜現在分詞 weatherproofing"
+ },
+ "weathervane": {
+  "ph": "/ˈweðəveɪn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "政治風方向標的（指表明當前投票傾向的一種可靠依據, 由此可預測選舉結果）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weathervanes"
+ },
+ "weave": {
+  "ph": "/wi:v/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "編法, 織法, 編織式樣",
+    "def": "pattern of weaving or structure of a fabric"
+   },
+   {
+    "pos": "vt.",
+    "zh": "編織, 組合, 編排, 使迂迴前進",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "紡織, 迂迴行進",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 woven｜現在分詞 weaving｜過去式 wove｜第三人稱單數 weaves｜複數 weaves"
+ },
+ "weaver": {
+  "ph": "/'wi:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "織布者, 織工",
+    "def": "a craftsman who weaves cloth"
+   }
+  ],
+  "forms": "複數 weavers"
+ },
+ "weaverbird": {
+  "ph": "/'wi:vәbә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "織布鳥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weaverbirds"
+ },
+ "weaving": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 織動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 weaving｜複數 weavings"
+ },
+ "web": {
+  "ph": "/web/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網, 蛛絲, 蹼, 織物, 圈套, 捲筒紙",
+    "def": "an intricate network suggesting something that was formed by weaving or interweaving"
+   },
+   {
+    "pos": "vi.",
+    "zh": "結網, 形成網",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "織蜘蛛網於, 使落入圈套",
+    "def": ""
+   }
+  ],
+  "forms": "複數 webs｜現在分詞 webbing｜過去式 webbed｜第三人稱單數 webs｜過去分詞 webbed"
+ },
+ "webb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋勃（人名）；威布市（美國密蘇里州的城市名）",
+    "def": "English writer and a central member of the Fabian Society (1858-1943)"
+   }
+  ]
+ },
+ "webbed": {
+  "ph": "/'webd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "網狀的, 有網的",
+    "def": "(of the feet of some animals) having the digits connected by a thin fold of skin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有蹼的",
+    "def": ""
+   }
+  ]
+ },
+ "webber": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋伯（姓氏）",
+    "def": "One who forms webs; a weaver; a webster."
+   }
+  ]
+ },
+ "webbing": {
+  "ph": "/'webiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶子, 邊帶",
+    "def": "something forming a web (as between the toes of birds)"
+   }
+  ]
+ },
+ "webby": {
+  "ph": "/'webi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絲網的",
+    "def": ""
+   }
+  ]
+ },
+ "webcam": {
+  "ph": "/'webkæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網路攝像頭",
+    "def": "a digital camera designed to take digital photographs and transmit them over the internet"
+   }
+  ]
+ },
+ "webcast": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網路廣播；網路廣播；網路直播",
+    "def": ""
+   }
+  ]
+ },
+ "weber": {
+  "ph": "/'wi:bә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 韋伯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 韋伯, 庫侖",
+    "def": ""
+   }
+  ]
+ },
+ "weberian": {
+  "ph": "/vei'biəriən/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "韋伯式的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weberians"
+ },
+ "weblog": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網路日誌",
+    "def": ""
+   }
+  ]
+ },
+ "webmaster": {
+  "ph": "/'webmɑ:stә. -mæs-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網路管理員",
+    "def": "a technician who designs or maintains a website"
+   }
+  ]
+ },
+ "webpage": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網頁",
+    "def": ""
+   }
+  ]
+ },
+ "website": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網站（全球資訊網的主機站）",
+    "def": ""
+   }
+  ]
+ },
+ "webster": {
+  "ph": "/'webstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋伯斯特（姓氏或男子名）",
+    "def": "English playwright (1580-1625)"
+   }
+  ]
+ },
+ "wed": {
+  "ph": "/wed/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "與...結婚, 使結合",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "結婚",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 wed｜過去式 wed｜第三人稱單數 weds｜現在分詞 wedding"
+ },
+ "wedd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "韋德（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "wedded": {
+  "ph": "/'wedid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "已結婚的, 結婚的, 結合的, 熱愛...的, 執著的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "wed的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 wedded｜過去式 wedded"
+ },
+ "wedderburn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "納撒尼爾·韋德伯恩",
+    "def": ""
+   }
+  ]
+ },
+ "wedding": {
+  "ph": "/'wediŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婚禮, 結婚, 結婚週年紀念日, 結合",
+    "def": "the social event at which the ceremony of marriage is performed"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 結婚, 婚禮, 結婚紀念日",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weddings｜現在分詞 wedding"
+ },
+ "wedge": {
+  "ph": "/wedʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "楔子, 楔形物, 起因, 導致分裂的東西",
+    "def": "any shape that is triangular in cross section"
+   },
+   {
+    "pos": "vt.",
+    "zh": "楔住, 擠進, 楔入",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "楔入, 擠進",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wedges｜過去分詞 wedged｜過去式 wedged｜現在分詞 wedging｜第三人稱單數 wedges"
+ },
+ "wedge-shaped": {
+  "ph": "/'wedʒʃeipt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "楔形的",
+    "def": "shaped like a wedge"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 楔形",
+    "def": ""
+   }
+  ]
+ },
+ "wedged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "楔形的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 wedged"
+ },
+ "wedgie": {
+  "ph": "/'wedʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "楔形後跟的女鞋",
+    "def": "a shoe with a wedge heel"
+   }
+  ]
+ },
+ "wedgwood": {
+  "ph": "/'wedʒwud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋奇伍德裝飾陶瓷（商標名稱）",
+    "def": "English potter (1730-1795)"
+   }
+  ]
+ },
+ "wedlock": {
+  "ph": "/'wedlɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結婚生活",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 婚姻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wedlocks"
+ },
+ "wednesday": {
+  "ph": "/'wenzdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星期三",
+    "def": "the fourth day of the week; the third working day"
+   }
+  ],
+  "forms": "複數 wednesdays"
+ },
+ "wee": {
+  "ph": "/wi:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "很小的, 微小的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "一點點",
+    "def": "a short time"
+   }
+  ],
+  "forms": "過去分詞 weed｜複數 wees｜過去式 weed｜現在分詞 weeing｜第三人稱單數 wees｜比較級 weer｜最高級 weest"
+ },
+ "weed": {
+  "ph": "/wi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雜草, 野草",
+    "def": "any plant that crowds out cultivated plants"
+   },
+   {
+    "pos": "vi.",
+    "zh": "除草",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "除...的草, 剔除",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weeds｜現在分詞 weeding｜過去分詞 weeded｜過去式 weeded｜第三人稱單數 weeds"
+ },
+ "weeding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "除草；除雜草；（圖書館館藏）汰舊更新",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 weeding"
+ },
+ "weedkiller": {
+  "ph": "/ˈwi:dkɪlə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "除莠劑; 除草劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weedkillers"
+ },
+ "weedless": {
+  "ph": "/'wi:dlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無雜草的",
+    "def": "free from weeds"
+   }
+  ]
+ },
+ "weeds": {
+  "ph": "/wi:dz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喪服",
+    "def": "a black garment (dress) worn by a widow as a sign of mourning"
+   }
+  ]
+ },
+ "weedy": {
+  "ph": "/'wi:di/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "盡是雜草的, 似雜草的, 瘦弱的, 蔓生的",
+    "def": "abounding with or resembling weeds"
+   }
+  ],
+  "forms": "最高級 weediest｜比較級 weedier｜複數 weedies"
+ },
+ "week": {
+  "ph": "/wi:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星期, 周",
+    "def": "any period of seven consecutive days"
+   }
+  ],
+  "forms": "複數 weeks"
+ },
+ "weekday": {
+  "ph": "/'wi:kdei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "週日, 平日",
+    "def": "any day except Sunday (and sometimes except Saturday)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 工作日",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weekdays"
+ },
+ "weekdays": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在每個週日, 在平時每天",
+    "def": ""
+   }
+  ]
+ },
+ "weekend": {
+  "ph": "/'wi:kend/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "週末, 週末休假",
+    "def": "a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday"
+   }
+  ],
+  "forms": "複數 weekends｜現在分詞 weekending｜過去式 weekended｜第三人稱單數 weekends｜過去分詞 weekended"
+ },
+ "weekender": {
+  "ph": "/'wi:k.endә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外出度週末的人",
+    "def": "someone who vacations on a weekend"
+   }
+  ],
+  "forms": "複數 weekenders"
+ },
+ "weekends": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在每週末",
+    "def": ""
+   }
+  ]
+ },
+ "weekly": {
+  "ph": "/'wi:kli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "週刊, 週報",
+    "def": "a periodical that is published every week (or 52 issues per year)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "每週的, 一週一次的, 週刊的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "每週, 一週一次",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weeklies"
+ },
+ "weeknight": {
+  "ph": "/'wi:knait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "週日夜晚(指週末休息日以外的每個夜晚)",
+    "def": "any night of the week except Saturday or Sunday"
+   }
+  ],
+  "forms": "複數 weeknights"
+ },
+ "weeks": {
+  "ph": "/wi:ks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威克斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "weenie": {
+  "ph": "/'wi:ni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "微小的, 細小的",
+    "def": ""
+   }
+  ]
+ },
+ "weeny": {
+  "ph": "/'wi:ni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "微小的, 細小的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weenies｜最高級 weeniest"
+ },
+ "weep": {
+  "ph": "/wi:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "哭, 哭泣",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "哭泣, 流淚, 哀悼, 滴落",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "哭著使..., 悲嘆, 滴下",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 wept｜現在分詞 weeping｜過去分詞 wept｜第三人稱單數 weeps"
+ },
+ "weeper": {
+  "ph": "/'wi:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "哭泣者",
+    "def": "a person who weeps"
+   }
+  ],
+  "forms": "複數 weepers"
+ },
+ "weeping": {
+  "ph": "/'wi:piŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "哭泣, 流淚",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "哭泣的, 滴水的, 淚汪汪的, 下雨的, 多雨的, 垂枝的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 weeping｜複數 weepings"
+ },
+ "weepy": {
+  "ph": "/'wi:pi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "要哭的, 眼淚汪汪的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "傷感的電影(或小說、戲劇等)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weepies"
+ },
+ "weetabix": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "維他麥",
+    "def": ""
+   }
+  ]
+ },
+ "weevil": {
+  "ph": "/'wi:vil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "象甲",
+    "def": "any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 象鼻蟲(米麥倉蟲)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weevils｜第三人稱單數 weevils"
+ },
+ "weft": {
+  "ph": "/weft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "織物, 狹長求救訊號旗, 求救訊號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wefts"
+ },
+ "wegener": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Wegener)人名；(德、羅)韋格納",
+    "def": "German geophysicist who proposed the theory of continental drift (1880-1930)"
+   }
+  ]
+ },
+ "wehrmacht": {
+  "ph": "/'weirmaxt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<德>n.(納粹德國的)國防軍",
+    "def": ""
+   }
+  ]
+ },
+ "wei": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魏（姓氏）；魏（朝代）；渭河",
+    "def": "any of several imperial dynasties of China ruling from 220 to 265 and from 386 to 556"
+   }
+  ],
+  "forms": "複數 wei"
+ },
+ "weidenfeld": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Weidenfeld)人名；(德、羅)魏登費爾德；(英)韋登菲爾德",
+    "def": ""
+   }
+  ]
+ },
+ "weigh": {
+  "ph": "/wei/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "稱...重量, 衡量, 把...壓彎, 考慮, 權衡, 起錨",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "稱分量, 有意義, 重壓, 起錨",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "過秤, 稱分量",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 weighing｜過去式 weighed｜第三人稱單數 weighs｜過去分詞 weighed｜複數 weighs"
+ },
+ "weighbridge": {
+  "ph": "/'weibridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地秤, 橋秤",
+    "def": "platform scale flush with a roadway for weighing vehicles and cattle etc"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 地中衡; 稱量機; 地秤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weighbridges"
+ },
+ "weighing": {
+  "ph": "/'weiiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 稱量",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 weighing｜複數 weighings"
+ },
+ "weight": {
+  "ph": "/weit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重, 重量, 體重, 砝碼, 重大, 影響, 力量",
+    "def": "the vertical force exerted by a mass as a result of gravity"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加重量於, 壓迫, 使加權, 稱重量",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 粗細",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weights｜過去分詞 weighted｜過去式 weighted｜現在分詞 weighting｜第三人稱單數 weights"
+ },
+ "weighted": {
+  "ph": "/'weitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偏向的, 偏重的, 有利的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 加權的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 weighted｜過去式 weighted"
+ },
+ "weightily": {
+  "ph": "/'weitili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "重, 沉重地, 重要地",
+    "def": ""
+   }
+  ]
+ },
+ "weightiness": {
+  "ph": "/'weitinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重, 沉重, 重要性",
+    "def": ""
+   }
+  ]
+ },
+ "weighting": {
+  "ph": "/'weitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附加物, 地區生活補貼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 加權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weightings｜現在分詞 weighting"
+ },
+ "weightless": {
+  "ph": "/'weitlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無重量的, 失重的, 不重要的",
+    "def": "having little or no weight or apparent gravitational pull; light"
+   }
+  ]
+ },
+ "weightlessness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 失重",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 失重[狀態]",
+    "def": ""
+   }
+  ]
+ },
+ "weightlifter": {
+  "ph": "/ˈweitˌliftə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舉重者",
+    "def": "an athlete who lifts barbells"
+   }
+  ],
+  "forms": "複數 weightlifters"
+ },
+ "weighty": {
+  "ph": "/'weiti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "重的, 有份量的, 沉重的, 重大的, 嚴肅的",
+    "def": "having relatively great weight; heavy"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有影響力的, 重要的, 重的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 weightier｜最高級 weightiest"
+ },
+ "weil": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋伊（法國數學家）；韋伊（姓氏）",
+    "def": "French philosopher (1909-1943)"
+   }
+  ]
+ },
+ "weill": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "韋爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "weimar": {
+  "ph": "/'vaimɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "魏瑪",
+    "def": ""
+   }
+  ]
+ },
+ "weinberg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "溫伯格（人名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "魏恩貝格（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "weinberger": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Weinberger)人名；(瑞典)魏因貝里耶；(英)溫伯格；(德、匈、羅、捷)魏因貝格爾",
+    "def": ""
+   }
+  ]
+ },
+ "weiner": {
+  "ph": "/'wi:nә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（美）法蘭克福香腸（等於wiener）",
+    "def": ""
+   }
+  ]
+ },
+ "weinstock": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Weinstock)人名；(瑞典)魏因斯托克；(英)溫斯托克；(德、葡)魏因施托克",
+    "def": ""
+   }
+  ]
+ },
+ "weir": {
+  "ph": "/wiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堰, 魚梁",
+    "def": "a low dam built across a stream to raise its level or divert its flow"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 堰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weirs"
+ },
+ "weird": {
+  "ph": "/wiәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "怪異的, 超自然的, 不可思議的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "命運, 預言, 符咒",
+    "def": ""
+   }
+  ]
+ },
+ "weirdly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "古怪地",
+    "def": ""
+   }
+  ]
+ },
+ "weirdness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "命運；不可思議；離奇",
+    "def": ""
+   }
+  ]
+ },
+ "weirdo": {
+  "ph": "/ˈwɪədəʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古怪的人, 奇怪的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weirdos"
+ },
+ "weiss": {
+  "ph": "/wais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外斯（原子磁矩單位）；白色",
+    "def": ""
+   }
+  ],
+  "forms": "複數 weisses"
+ },
+ "welch": {
+  "ph": "/welʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋爾奇（姓氏）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 welched"
+ },
+ "welcome": {
+  "ph": "/'welkәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歡迎, 歡迎詞",
+    "def": "the state of being welcome"
+   },
+   {
+    "pos": "adj.",
+    "zh": "受歡迎的, 可隨意的, 可喜的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "歡迎, 接待",
+    "def": ""
+   },
+   {
+    "pos": "interj.",
+    "zh": "歡迎",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 welcomed｜過去式 welcomed｜第三人稱單數 welcomes｜現在分詞 welcoming｜複數 welcomes"
+ },
+ "welcoming": {
+  "ph": "/ˈwelkəmɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "歡迎( welcome的現在分詞 ); 迎接; 樂於接受; 希望有",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 welcoming"
+ },
+ "weld": {
+  "ph": "/weld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焊接處, 焊接",
+    "def": "United States abolitionist (1803-1895)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "焊接, 使密接, 使結合, 使成整體",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "焊牢",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 welded｜過去式 welded｜現在分詞 welding｜複數 welds｜第三人稱單數 welds"
+ },
+ "welded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "焊接；使結合（weld的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 welded｜過去式 welded"
+ },
+ "welder": {
+  "ph": "/'weldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焊接工",
+    "def": "joins pieces of metal by welding them together"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 焊機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 welders"
+ },
+ "welding": {
+  "ph": "/'weldiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "焊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 熔接, 焊接, 鍛接",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 welding"
+ },
+ "weldon": {
+  "ph": "/'weldәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋爾登（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "welfare": {
+  "ph": "/'welfєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福利, 安寧, 幸福, 福利事業",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "福利的",
+    "def": ""
+   }
+  ]
+ },
+ "welfare state": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "福利國家",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 福利國家",
+    "def": ""
+   }
+  ]
+ },
+ "well": {
+  "ph": "/wel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "井, 泉水, 源泉, 好",
+    "def": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine"
+   },
+   {
+    "pos": "v.",
+    "zh": "湧出",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "健康的, 良好的, 適宜的, 恰當的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "很好地, 適當地, 好意地, 很, 完全",
+    "def": ""
+   },
+   {
+    "pos": "interj.",
+    "zh": "好啦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wells｜現在分詞 welling｜過去式 welled｜第三人稱單數 wells｜過去分詞 welled"
+ },
+ "well done": {
+  "ph": "/wel dʌn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "做得不錯",
+    "def": ""
+   }
+  ]
+ },
+ "well known": {
+  "ph": "/wel nəʊn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "眾所周知的; 出名的",
+    "def": ""
+   }
+  ]
+ },
+ "well-balanced": {
+  "ph": "/wel'bælәnst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "勻稱的, 營養成分均衡的, 神志健全的, 明智的, 通情達理的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 良平衡的",
+    "def": ""
+   }
+  ]
+ },
+ "well-being": {
+  "ph": "/'welbiiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "安寧的, 康樂的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 well-being"
+ },
+ "well-defined": {
+  "ph": "/'weldi'faind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "定義明確的, 明確的",
+    "def": "accurately stated or described"
+   }
+  ]
+ },
+ "well-dressed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿得很體面的",
+    "def": ""
+   }
+  ]
+ },
+ "well-established": {
+  "ph": "/'weli'stæbliʃt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "得到確認的；固定下來的",
+    "def": ""
+   }
+  ]
+ },
+ "well-groomed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿得考究的, 十分整潔的, 穿著考究的",
+    "def": ""
+   }
+  ]
+ },
+ "well-informed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "訊息靈通的, 博識的, 見聞廣博的",
+    "def": ""
+   }
+  ]
+ },
+ "well-known": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "眾所周知的, 有名的",
+    "def": ""
+   }
+  ]
+ },
+ "well-meaning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "善意的, 出自好意的, 好心的",
+    "def": ""
+   }
+  ]
+ },
+ "well-off": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "境遇好的, 手頭寬裕的",
+    "def": ""
+   }
+  ]
+ },
+ "well-paid": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高工資的, 報酬優厚的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 高工資的, 報酬優厚的",
+    "def": ""
+   }
+  ]
+ },
+ "well-to-do": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "富有的, 小康的, 富裕的",
+    "def": ""
+   }
+  ]
+ },
+ "wella": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威娜（公司名）",
+    "def": ""
+   }
+  ]
+ },
+ "welland": {
+  "ph": "/'welәnd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "韋蘭[加拿大東南部港市](臨韋蘭運河) , Canal 韋蘭運河",
+    "def": ""
+   }
+  ]
+ },
+ "wellbeing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "健康, 幸福, 福利, 舒適, 安寧",
+    "def": "a contented state of being happy and healthy and prosperous"
+   }
+  ]
+ },
+ "wellcome": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頂好超市",
+    "def": ""
+   }
+  ]
+ },
+ "weller": {
+  "ph": "/'welә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國威樂（公司名）；韋勒（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "welles": {
+  "ph": "/welz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威爾斯（姓氏）",
+    "def": "United States actor and filmmaker (1915-1985)"
+   }
+  ]
+ },
+ "wellesley": {
+  "ph": "/'welzli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋爾茲利（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "wellhead": {
+  "ph": "/'welhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水源, 泉源",
+    "def": "the source of water for a well"
+   }
+  ],
+  "forms": "複數 wellheads"
+ },
+ "wellie": {
+  "ph": "/'welaɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英><口>威靈頓長統靴",
+    "def": ""
+   }
+  ]
+ },
+ "welling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威林（姓氏）；威靈電機（商品名稱）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 welling"
+ },
+ "wellingborough": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋靈伯勒",
+    "def": ""
+   }
+  ]
+ },
+ "wellington": {
+  "ph": "/'weliŋtәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惠靈頓長靴",
+    "def": "British general and statesman; he defeated Napoleon at Waterloo; subsequently served as Prime Minister (1769-1852)"
+   }
+  ],
+  "forms": "複數 wellingtons"
+ },
+ "wellman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Wellman)人名；(英、芬)韋爾曼",
+    "def": ""
+   }
+  ]
+ },
+ "wellness": {
+  "ph": "/'welnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "健康",
+    "def": ""
+   }
+  ]
+ },
+ "wells": {
+  "ph": "/welz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威爾斯（姓氏）",
+    "def": "prolific English writer best known for his science-fiction novels; he also wrote on contemporary social problems and wrote popular accounts of history and scien"
+   }
+  ]
+ },
+ "wellspring": {
+  "ph": "/'welspriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水源, 泉源",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wellsprings｜現在分詞 wellspring"
+ },
+ "welly": {
+  "ph": "/ˈweli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長筒雨靴；長筒膠靴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wellies｜過去分詞 wellied｜現在分詞 wellying｜過去式 wellied"
+ },
+ "welsh": {
+  "ph": "/welʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "威爾士的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "威爾士人",
+    "def": "a Celtic language of Wales"
+   },
+   {
+    "pos": "vi.",
+    "zh": "賴賭帳, 逃避責任",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 welshing｜過去式 welshed｜第三人稱單數 welshes｜過去分詞 welshed"
+ },
+ "welshman": {
+  "ph": "/'welʃmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威爾士男子",
+    "def": "a native or resident of Wales"
+   }
+  ],
+  "forms": "複數 welshmen"
+ },
+ "welt": {
+  "ph": "/welt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貼邊, 鞭痕, 毆打",
+    "def": "a raised or strengthened seam"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加貼邊, 鞭打",
+    "def": ""
+   }
+  ],
+  "forms": "複數 welts｜過去式 welted｜現在分詞 welting｜第三人稱單數 welts｜過去分詞 welted"
+ },
+ "weltanschauung": {
+  "ph": "/'velt'ɑ:nʃauәŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "世界觀, 人生觀",
+    "def": "a comprehensive view of the world and human life"
+   }
+  ]
+ },
+ "welter": {
+  "ph": "/'weltә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "翻滾, 滾動, 沉溺, 浸溼, 起伏",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "翻滾, 洶湧, 混亂, 起伏, 重量級騎手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 welters｜第三人稱單數 welters｜現在分詞 weltering｜過去式 weltered｜過去分詞 weltered"
+ },
+ "welterweight": {
+  "ph": "/'weltәweit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "次中量級拳擊手, 次中量級摔交運動員",
+    "def": "a weight of 28 pounds; sometimes imposed as a handicap in a horse race (such as a steeplechase)"
+   }
+  ],
+  "forms": "複數 welterweights"
+ },
+ "welton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Welton)人名；(英)韋爾頓",
+    "def": ""
+   }
+  ]
+ },
+ "wembley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "文布利",
+    "def": ""
+   }
+  ]
+ },
+ "wemyss": {
+  "ph": "/wi:mz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "威姆斯(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "wen": {
+  "ph": "/wen/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粉瘤, 擁擠不堪的城市",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 皮脂囊腫, 粉瘤, 表皮囊腫",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 wened｜複數 wens"
+ },
+ "wenceslas": {
+  "ph": "/'wensislɔ:s,-lәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "即Wenceslaus",
+    "def": ""
+   }
+  ]
+ },
+ "wench": {
+  "ph": "/wentʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "少婦, 鄉下姑娘, 女僕",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "私通, 嫖妓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wenches｜現在分詞 wenching｜過去式 wenched｜第三人稱單數 wenches｜過去分詞 wenched"
+ },
+ "wend": {
+  "ph": "/wend/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "行, 走",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "往",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 wending｜過去式 wended｜第三人稱單數 wends｜過去分詞 wended"
+ },
+ "wendell": {
+  "ph": "/'wendl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫德爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "wenders": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(wender 的複數)  [人名] 溫德",
+    "def": ""
+   }
+  ]
+ },
+ "wendt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Wendt)人名；(英、德、葡、捷、波、芬、挪、瑞典)文特",
+    "def": ""
+   }
+  ]
+ },
+ "wendy": {
+  "ph": "/'wendi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫迪（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "wenger": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威戈（姓氏）；威戈（瑞士軍刀品牌名, 也是箱包品牌名）",
+    "def": ""
+   }
+  ]
+ },
+ "wenlock": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文洛克（2012倫敦夏季奧運會吉祥物）; 文洛克（英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "wensleydale": {
+  "ph": "/'wenzlideil/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(英國 Yorkshire 產的)溫斯利代乾酪, 英國產的一種長毛羊",
+    "def": ""
+   }
+  ]
+ },
+ "wentworth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫特沃斯（英國一地名）；文特沃斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "wer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "文字差錯率（Word Error Rate）；[醫]風團紅斑反應（wheal erythema reaction）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wers"
+ },
+ "weren't": {
+  "ph": "/wә:nt, weәnt/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "不是",
+    "def": ""
+   }
+  ]
+ },
+ "werewolf": {
+  "ph": "/'wә:wulf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狼人, 豺狼般的人",
+    "def": "a monster able to change appearance from human to wolf and back again"
+   }
+  ],
+  "forms": "複數 werewolves"
+ },
+ "werner": {
+  "ph": "/'wә:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維爾納（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "wes": {
+  "ph": "/wes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋斯（Wesley的暱稱, 男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "wesley": {
+  "ph": "/'wezli, 'wesli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋斯利（男子名）",
+    "def": "English clergyman and brother of John Wesley who wrote many hymns (1707-1788)"
+   }
+  ]
+ },
+ "wesleyan": {
+  "ph": "/'wezliәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "衛斯理公會派的；約翰衛斯理的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wesleyans"
+ },
+ "wessels": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Wessels)人名；(法)韋塞爾；(德、西、荷)韋塞爾斯",
+    "def": ""
+   }
+  ]
+ },
+ "wessex": {
+  "ph": "/'wesiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋塞克斯（英國歷史上一個王國的名稱）",
+    "def": "a Saxon kingdom in southwestern England that became the most powerful English kingdom by the 10th century"
+   }
+  ]
+ },
+ "wesson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "韋森",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wessons"
+ },
+ "west": {
+  "ph": "/west/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西方, 西部",
+    "def": "the countries of (originally) Europe and (now including) North America and South America"
+   },
+   {
+    "pos": "adj.",
+    "zh": "西方的, 向西的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向西, 自西方, 在西方",
+    "def": ""
+   }
+  ]
+ },
+ "westbound": {
+  "ph": "/'westbajnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向西行的, 向西駛的",
+    "def": ""
+   }
+  ]
+ },
+ "westbrook": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "韋斯特布魯克（人名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "韋斯特布魯克（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "westbury": {
+  "ph": "/'westberi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋斯特伯裡（美國鎮名）",
+    "def": ""
+   }
+  ]
+ },
+ "westcott": {
+  "ph": "/'westkәt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "韋斯科特(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "wester": {
+  "ph": "/'westә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西風",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 westering｜過去式 westered"
+ },
+ "westering": {
+  "ph": "/'westәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(太陽)西沉的, 向西的, 西行的",
+    "def": "Passing to the west."
+   }
+  ]
+ },
+ "westerly": {
+  "ph": "/'westәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向西的, 自西的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向西, 往西, 自西",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "西風",
+    "def": ""
+   }
+  ],
+  "forms": "複數 westerlies"
+ },
+ "western": {
+  "ph": "/'westәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西方人, 西部片, 西部小說",
+    "def": "a film about life in the western United States during the period of exploration and development"
+   },
+   {
+    "pos": "adj.",
+    "zh": "向西方的, 來自西方的, 西方的, 西洋的, 西部的",
+    "def": "relating to or characteristic of the western parts of the world or the West as opposed to the eastern or oriental parts"
+   }
+  ],
+  "forms": "複數 westerns"
+ },
+ "westerner": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西方人, 西洋人",
+    "def": "an inhabitant of a western area; especially of the U.S."
+   }
+  ],
+  "forms": "複數 westerners"
+ },
+ "westernize": {
+  "ph": "/'westәnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "vi. (使)西洋化, (使)歐化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 westernized｜過去分詞 westernized｜現在分詞 westernizing｜第三人稱單數 westernizes"
+ },
+ "westernized": {
+  "ph": "/ˈwestəˌnaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）西化( westernize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 westernized"
+ },
+ "westernizer": {
+  "ph": "/'westənaɪz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": ",vi. (使)西方化, (使)歐美化；(使)具有美國西部特點[英國英語亦作 westernise]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 westernizers"
+ },
+ "westernmost": {
+  "ph": "/'westәnmәust/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最西的",
+    "def": ""
+   }
+  ]
+ },
+ "westfield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威勢飛（汽車品牌）；西田集團（澳大利亞商業地產上市公司）",
+    "def": ""
+   }
+  ]
+ },
+ "westinghouse": {
+  "ph": "/'westiŋhaus/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "威斯丁豪斯(①姓氏 ②George, 1846-1914, 美國發明家)",
+    "def": ""
+   }
+  ]
+ },
+ "westlake": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋斯特萊克（姓氏）；西湖",
+    "def": ""
+   }
+  ]
+ },
+ "westland": {
+  "ph": "/'westlənd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋斯特蘭；荷蘭西部地區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 westlands"
+ },
+ "westley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Westley)人名；(英)韋斯特利",
+    "def": ""
+   }
+  ]
+ },
+ "westmacott": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Westmacott)人名；(英、德)韋斯特馬科特",
+    "def": ""
+   }
+  ]
+ },
+ "westminster": {
+  "ph": "/'westminstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威斯敏斯特",
+    "def": "a borough of Greater London on the Thames; contains Buckingham Palace and the Houses of Parliament and Westminster Abbey"
+   }
+  ]
+ },
+ "westmoreland": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Westmoreland)人名；(英)威斯特摩蘭",
+    "def": ""
+   }
+  ]
+ },
+ "westmorland": {
+  "ph": "/'westmәlәnd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "威斯特摩蘭郡[英國英格蘭原郡名]",
+    "def": ""
+   }
+  ]
+ },
+ "weston": {
+  "ph": "/'westәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[電]韋斯頓標準電池；韋斯頓（姓氏）",
+    "def": "United States photographer(1886-1958)"
+   }
+  ]
+ },
+ "westphalia": {
+  "ph": "/west'feiliә, -'feiljә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "威斯特伐利亞[德意志聯邦共和國西北部一地區]",
+    "def": ""
+   }
+  ]
+ },
+ "westphalian": {
+  "ph": "/west'feiliən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "維斯法階",
+    "def": ""
+   }
+  ],
+  "forms": "複數 westphalians"
+ },
+ "westport": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋斯特波特（美國康州城市）",
+    "def": ""
+   }
+  ]
+ },
+ "westward": {
+  "ph": "/'westwәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朝西的方向",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "向西的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向西的",
+    "def": ""
+   }
+  ]
+ },
+ "westwards": {
+  "ph": "/'westwәdz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向西",
+    "def": ""
+   }
+  ]
+ },
+ "westwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國遊戲軟體公司",
+    "def": ""
+   }
+  ]
+ },
+ "wet": {
+  "ph": "/wet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溼氣, 潮溼, 水分, 雨天",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "溼的, 潮的, 搞錯的, 下雨的, 反對禁酒的",
+    "def": "covered or soaked with a liquid such as water"
+   },
+   {
+    "pos": "vi.",
+    "zh": "變溼",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使...溼",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 wet｜過去式 wet｜比較級 wetter｜現在分詞 wetting｜最高級 wettest｜複數 wets｜第三人稱單數 wets"
+ },
+ "wetback": {
+  "ph": "/'wetbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美口>“溼揹人”(尤指非法進入美國的墨西哥人)",
+    "def": ""
+   }
+  ]
+ },
+ "wether": {
+  "ph": "/'weðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閹羊",
+    "def": "male sheep especially a castrated one"
+   }
+  ],
+  "forms": "第三人稱單數 wethers｜過去式 wethered"
+ },
+ "wetherby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Wetherby)人名；(英)韋瑟比",
+    "def": ""
+   }
+  ]
+ },
+ "wetland": {
+  "ph": "/'wetlænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溼地, 沼澤地",
+    "def": "a low area where the land is saturated with water"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 溼地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wetlands"
+ },
+ "wetly": {
+  "ph": "/'wetli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "潮溼地, 有溼氣",
+    "def": ""
+   }
+  ]
+ },
+ "wetness": {
+  "ph": "/'wetnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溼潤, 下雨",
+    "def": "the condition of containing or being covered by a liquid (especially water)"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 水蒸氣溼度",
+    "def": ""
+   }
+  ]
+ },
+ "wetsuit": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潛水服；防寒泳衣；溼式保暖服",
+    "def": ""
+   }
+  ],
+  "forms": "複數 wetsuits"
+ },
+ "wetted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "wet的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 wetted"
+ },
+ "wetting": {
+  "ph": "/'wetiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "變溼",
+    "def": "the act of making something wet"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 潤溼; 潤溼",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 wetting｜複數 wettings"
+ },
+ "wetware": {
+  "ph": "/'wetweә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溼件(計算機專家用語,指軟體、硬體以外的\"件\",即人腦)",
+    "def": ""
+   }
+  ]
+ },
+ "weu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "西歐聯盟（Western European Union）",
+    "def": ""
+   }
+  ]
+ },
+ "wexford": {
+  "ph": "/'weksfəd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋克斯福德（愛爾蘭城市名、郡名）",
+    "def": ""
+   }
+  ]
+ },
+ "wey": {
+  "ph": "/wei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋 (舊時英國重量或容量單位)",
+    "def": "Way; road; path."
+   }
+  ]
+ },
+ "weybridge": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惠橋；威布里治（英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "weymouth": {
+  "ph": "/'weiməθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韋茅斯（英國港口名）",
+    "def": ""
+   }
+  ]
+ }
+}

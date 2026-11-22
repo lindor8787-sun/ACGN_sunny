@@ -1,0 +1,3189 @@
+{
+ "qu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合格單位",
+    "def": ""
+   }
+  ]
+ },
+ "qua": {
+  "ph": "/kwei/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "作為",
+    "def": ""
+   }
+  ]
+ },
+ "quack": {
+  "ph": "/kwæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鴨叫聲, 冒牌醫生, 冒充內行之人",
+    "def": "an untrained person who pretends to be a physician and who dispenses medical advice"
+   },
+   {
+    "pos": "adj.",
+    "zh": "冒牌醫生的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "嘎嘎叫, 當冒牌醫生, 誇大廣告",
+    "def": "utter quacking noises"
+   }
+  ],
+  "forms": "複數 quacks｜過去式 quacked｜現在分詞 quacking｜第三人稱單數 quacks｜過去分詞 quacked"
+ },
+ "quackery": {
+  "ph": "/'kwækәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騙人的治療, 招搖撞騙, 騙子的行為",
+    "def": "medical practice and advice based on observation and experience in ignorance of scientific findings"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 江湖醫術",
+    "def": ""
+   }
+  ]
+ },
+ "quad": {
+  "ph": "/kwɔd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉛塊, 監獄, 四方院子, 四胞胎, 四胞胎中的一個孩子, 成套的四件東西",
+    "def": "(printing) a block of type without a raised letter; used for spacing between words or sentences"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 四芯導線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quads"
+ },
+ "quadrangle": {
+  "ph": "/'kwɒdræŋgl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四角形, 四邊形, 四方院",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 四角形, 四角器(牙科)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quadrangles"
+ },
+ "quadrant": {
+  "ph": "/'kwɒdrәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四分之一圓, 象限, 象限儀",
+    "def": "a quarter of the circumference of a circle"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 四分體, 象限",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quadrants"
+ },
+ "quadratic": {
+  "ph": "/kwә'drætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "二次的",
+    "def": "of or relating to or resembling a square"
+   },
+   {
+    "pos": "n.",
+    "zh": "二次方程式",
+    "def": "a polynomial of the second degree"
+   }
+  ],
+  "forms": "複數 quadratics"
+ },
+ "quadrature": {
+  "ph": "/'kwɒdrәtʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "求面積, 正交, 弦",
+    "def": "the construction of a square having the same area as some other figure"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 正交",
+    "def": ""
+   }
+  ]
+ },
+ "quadrennial": {
+  "ph": "/kwɔ'drenjәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "連續四年的, 每四年一次的",
+    "def": "Comprising four years; as, a quadrennial period."
+   },
+   {
+    "pos": "n.",
+    "zh": "第四週年",
+    "def": ""
+   }
+  ]
+ },
+ "quadriceps": {
+  "ph": "/'kwɒdriseps/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四頭肌",
+    "def": "a muscle of the thigh that extends the leg"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 四頭肌, 四頭的",
+    "def": ""
+   }
+  ]
+ },
+ "quadrilateral": {
+  "ph": "/.kwɒdri'lætәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "四邊形的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 四邊形的, 四邊形",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quadrilaterals"
+ },
+ "quadrille": {
+  "ph": "/kwә'dril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誇德里爾牌戲, 四對舞, 四對舞曲",
+    "def": "music for dancing the quadrille"
+   }
+  ],
+  "forms": "複數 quadrilles"
+ },
+ "quadrillion": {
+  "ph": "/kwɔ'driljәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "千的五次方, 百萬之四次方",
+    "def": "the number that is represented as a one followed by 24 zeros"
+   },
+   {
+    "pos": "adj.",
+    "zh": "千之五次方的",
+    "def": ""
+   }
+  ]
+ },
+ "quadripartite": {
+  "ph": "/.kwɒdri'pɑ:tait/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分成四組的, 由四部分組成的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 四部的, 四分的",
+    "def": ""
+   }
+  ]
+ },
+ "quadriplegia": {
+  "ph": "/,kwɔdrә'pli:dʒiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四肢癱瘓",
+    "def": "paralysis of both arms and both legs"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 四肢麻痺, 四肢癱",
+    "def": ""
+   }
+  ]
+ },
+ "quadriplegic": {
+  "ph": "/,kwɔdri'pledʒik,-'pli:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四肢癱瘓者",
+    "def": "a person who is paralyzed in both arms and both legs"
+   },
+   {
+    "pos": "adj.",
+    "zh": "四肢癱瘓的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quadriplegics"
+ },
+ "quadruped": {
+  "ph": "/'kwɒdruped/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四足動物",
+    "def": "an animal especially a mammal having four limbs specialized for walking"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 四足的, 四足動物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quadrupeds｜過去式 quadruped"
+ },
+ "quadruple": {
+  "ph": "/'kwɒdrupl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "四倍的, 四重的, 四部分組成的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "四倍",
+    "def": "a quantity that is four times as great as another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成四倍",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成為四倍",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quadrupled｜過去式 quadrupled｜現在分詞 quadrupling｜第三人稱單數 quadruples"
+ },
+ "quadruplet": {
+  "ph": "/'kwɒdruplit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四個構成的一組, 成套的四件, 四胞胎之一",
+    "def": "one of four children born at the same time from the same pregnancy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 四胎兒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quadruplets"
+ },
+ "quadrupling": {
+  "ph": "/kwɔ'dru:pliŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 四倍",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 quadrupling"
+ },
+ "quadrupole": {
+  "ph": "/'kwɔdrә,pәul/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 四極",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quadrupoles"
+ },
+ "quaff": {
+  "ph": "/kwæf/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "狂飲, 大口地喝",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "大口喝下的酒, 痛飲",
+    "def": "a hearty draft"
+   }
+  ],
+  "forms": "過去式 quaffed｜現在分詞 quaffing｜第三人稱單數 quaffs｜過去分詞 quaffed"
+ },
+ "quagga": {
+  "ph": "/'kwægә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白氏斑馬",
+    "def": "mammal of South Africa that resembled a zebra; extinct since late 19th century"
+   }
+  ]
+ },
+ "quagmire": {
+  "ph": "/'kwæ^maiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沼澤地, 泥坑, 泥潭, 泥沼, 沼澤, 困境",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quagmires"
+ },
+ "quahog": {
+  "ph": "/'kwɑ:hɔ^, 'kwɔ:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(=quahaug)圓蛤類(產於北美)",
+    "def": "an edible American clam; the heavy shells were used as money by some American Indians"
+   }
+  ]
+ },
+ "quai": {
+  "ph": "/kei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<法>n.=quay",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quai"
+ },
+ "quail": {
+  "ph": "/kweil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鵪鶉",
+    "def": "flesh of quail; suitable for roasting or broiling if young; otherwise must be braised"
+   },
+   {
+    "pos": "vi.",
+    "zh": "膽怯, 畏縮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quails｜過去式 quailed｜第三人稱單數 quails｜過去分詞 quailed｜現在分詞 quailing"
+ },
+ "quaint": {
+  "ph": "/kweint/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "古雅的, 離奇有趣的, 奇怪的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 quainter"
+ },
+ "quaintly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "離奇地, 靈巧地",
+    "def": ""
+   }
+  ]
+ },
+ "quaintness": {
+  "ph": "/kweɪntnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "離奇有趣, 古怪的事物",
+    "def": "the quality of being quaint and old-fashioned; its quaintness was appealing\""
+   }
+  ]
+ },
+ "quake": {
+  "ph": "/kweik/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "顫抖, 地震",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "顫抖, 地震",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 quaking｜複數 quakes｜過去式 quaked｜第三人稱單數 quakes｜過去分詞 quaked"
+ },
+ "quaker": {
+  "ph": "/'kweikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貴格會教徒",
+    "def": "one who quakes and trembles with (or as with) fear"
+   }
+  ],
+  "forms": "複數 quakers"
+ },
+ "quaking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白揚",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 quaking"
+ },
+ "quale": {
+  "ph": "/'kweili:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 性狀, 性質",
+    "def": ""
+   }
+  ]
+ },
+ "qualification": {
+  "ph": "/.kwɒlifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "資格, 條件, 限制",
+    "def": "an attribute that must be met or complied with and that fits a person for something"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 限定",
+    "def": ""
+   }
+  ],
+  "forms": "複數 qualifications"
+ },
+ "qualifications": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "職位要求；任職資格；資格證書；限定性條件（qualification的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "qualified": {
+  "ph": "/'kwɒlifaid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有資格的",
+    "def": "meeting the proper standards and requirements and training for an office or position or task"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 合格的, 有條件的, 有限制的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 qualified｜過去式 qualified"
+ },
+ "qualifier": {
+  "ph": "/'kwɒlifaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "取得資格的人, 限定語",
+    "def": "a contestant who meets certain requirements and so qualifies to take part in the next stage of competition"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 限定詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 qualifiers"
+ },
+ "qualify": {
+  "ph": "/'kwɒlifai/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "取得資格, 有資格",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使有資格, 使合格, 限定, 限制, 准予",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 qualified｜過去式 qualified｜第三人稱單數 qualifies｜現在分詞 qualifying"
+ },
+ "qualifying": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 限定的, 限制的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 qualifying"
+ },
+ "qualitative": {
+  "ph": "/'kwɒlitәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "性質的, 質的, 定性的",
+    "def": "involving distinctions based on qualities"
+   }
+  ]
+ },
+ "qualitatively": {
+  "ph": "/'kwɒlɪtətɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "質量上",
+    "def": ""
+   }
+  ]
+ },
+ "quality": {
+  "ph": "/'kwɒlәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "品質, 特性, 才能, 質量",
+    "def": "an essential and distinguishing attribute of something or someone"
+   },
+   {
+    "pos": "adj.",
+    "zh": "優質的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 品質",
+    "def": ""
+   }
+  ],
+  "forms": "複數 qualities"
+ },
+ "quality control": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 質量控制, 質量管理",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 質量管理; 質量檢查",
+    "def": ""
+   }
+  ]
+ },
+ "qualm": {
+  "ph": "/kwɒ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暈眩, 不安, 疑慮",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 疑慮, 不安, 內疚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 qualms"
+ },
+ "qualms": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "良心之譴責；不安",
+    "def": ""
+   }
+  ]
+ },
+ "quandary": {
+  "ph": "/'kwɒndәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "困惑, 迷惑, 為難",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quandaries"
+ },
+ "quango": {
+  "ph": "/ˈkwæŋgəʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "半獨立國家的政府組織, 半官方機構",
+    "def": "a quasi nongovernmental organization; an organization that is financed by the government yet acts independently of the government"
+   }
+  ],
+  "forms": "複數 quangos"
+ },
+ "quant": {
+  "ph": "/kwænt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "篙",
+    "def": "A punting pole with a broad flange near the end to prevent"
+   },
+   {
+    "pos": "v.",
+    "zh": "用篙撐",
+    "def": ""
+   }
+  ]
+ },
+ "quanta": {
+  "ph": "/'kwɒntә/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "量, 量子",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 量子, 量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quantas"
+ },
+ "quantifiable": {
+  "ph": "/'kwɒntifaiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可以計量的",
+    "def": ""
+   }
+  ]
+ },
+ "quantification": {
+  "ph": "/,kwɔntifi'keiʃ(ә)n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 量化, 定量",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 定量比率",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quantifications"
+ },
+ "quantified": {
+  "ph": "/ˈkwɔntifaid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "確定…的數量( quantify的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quantified"
+ },
+ "quantifier": {
+  "ph": "/'kwɒntifaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "數量詞, 精於計算的人",
+    "def": "(logic) a word (such as `some' or `all' or `no') that binds the variables in a logical proposition"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 量詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quantifiers"
+ },
+ "quantify": {
+  "ph": "/'kwɒntifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "定量, 用數量表示, 測量",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quantified｜現在分詞 quantifying｜第三人稱單數 quantifies｜過去式 quantified"
+ },
+ "quantitative": {
+  "ph": "/'kwɒntitәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "數量的, 定量的",
+    "def": "expressible as a quantity or relating to or susceptible of measurement"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 定量的, 數量的",
+    "def": ""
+   }
+  ]
+ },
+ "quantitatively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "量, 數量上, 定量",
+    "def": ""
+   }
+  ]
+ },
+ "quantity": {
+  "ph": "/'kwɒntәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "量, 數量, 總量",
+    "def": "an adequate or large amount"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 數量; 量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quantities"
+ },
+ "quantization": {
+  "ph": "/,kwɔntai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "量子化",
+    "def": "the act of dividing into quanta or expressing in terms of quantum theory"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 量子化",
+    "def": ""
+   }
+  ]
+ },
+ "quantize": {
+  "ph": "/'kwɔntaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使量子化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 量化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quantized｜現在分詞 quantizing｜過去式 quantized｜第三人稱單數 quantizes"
+ },
+ "quantized": {
+  "ph": "/'kwɔntaizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "量化的；量子化的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 quantized"
+ },
+ "quantum": {
+  "ph": "/'kwɒntәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "量, 量子",
+    "def": "a discrete amount of something that is analogous to the quantities in quantum theory"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 量子",
+    "def": ""
+   }
+  ]
+ },
+ "quarantine": {
+  "ph": "/'kwɒrәnti:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隔離, 封鎖交通, 檢疫期",
+    "def": "enforced isolation of patients suffering from a contagious disease in order to prevent the spread of disease"
+   },
+   {
+    "pos": "vt.",
+    "zh": "隔離, 排斥",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quarantined｜複數 quarantines｜過去式 quarantined｜現在分詞 quarantining｜第三人稱單數 quarantines"
+ },
+ "quarantined": {
+  "ph": "/ˈkwɔ:rənˌti:nd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對…進行檢疫隔離( quarantine的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "quarantining": {
+  "ph": "/ˈkwɔ:rənˌti:nɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對…進行檢疫隔離( quarantine的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "quark": {
+  "ph": "/kwɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夸克",
+    "def": "(physics) hypothetical truly fundamental particle in mesons and baryons; there are supposed to be six flavors of quarks (and their antiquarks), which come in pa"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 夸克",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quarks｜第三人稱單數 quarks"
+ },
+ "quarrel": {
+  "ph": "/'kwɒrәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吵架, 反目, 怨言, 方頭鑿",
+    "def": "an angry dispute"
+   },
+   {
+    "pos": "vi.",
+    "zh": "吵架, 爭論, 挑剔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quarrels｜過去式 quarrelled｜現在分詞 quarrelling｜過去分詞 quarrelled｜第三人稱單數 quarrels"
+ },
+ "quarreling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "爭辯, 爭吵（quarrel的現在分詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "quarrelsome": {
+  "ph": "/'kwɒrәlsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喜歡吵架的, 好爭論的",
+    "def": ""
+   }
+  ]
+ },
+ "quarried": {
+  "ph": "/ˈkwɔ:ri:d/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "從採石場採得( quarry的過去式和過去分詞 ); 從（書本等中）努力發掘（資料等）; 在採石場採石",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 quarried"
+ },
+ "quarry": {
+  "ph": "/'kwɒri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "採石場, 方形石, 獵物, 被追求物, 來源",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "挖出, 努力挖掘",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "費力地找",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quarries｜現在分詞 quarrying｜過去分詞 quarried｜過去式 quarried｜第三人稱單數 quarries"
+ },
+ "quarrying": {
+  "ph": "/'kwɔriiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "採石",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 quarrying"
+ },
+ "quarryman": {
+  "ph": "/'kwɒrimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "採石工",
+    "def": "a man who works in a quarry"
+   }
+  ],
+  "forms": "複數 quarrymen"
+ },
+ "quart": {
+  "ph": "/kwɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夸脫",
+    "def": "a United States liquid unit equal to 32 fluid ounces; four quarts equal one gallon"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 夸脫(四分之一加侖)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quarts"
+ },
+ "quarter": {
+  "ph": "/'kwɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四分之一, 一刻鐘, 季度, 地區",
+    "def": "a district of a city having some distinguishing character"
+   },
+   {
+    "pos": "vt.",
+    "zh": "四等分, 肢解",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "駐紮, 住宿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quarters｜過去分詞 quartered｜現在分詞 quartering｜過去式 quartered｜第三人稱單數 quarters"
+ },
+ "quarter-final": {
+  "ph": "/'kwɔ:tәfain(ә)l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "四分之一決賽 的,複賽的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "複賽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quarter-finals"
+ },
+ "quarterback": {
+  "ph": "/'kwɒ:tәbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四分衛",
+    "def": "(football) the person who plays quarterback"
+   },
+   {
+    "pos": "vi.",
+    "zh": "擔任四分衛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quarterbacks"
+ },
+ "quarterdeck": {
+  "ph": "/'kwɔ:tәdek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "後甲板",
+    "def": "the stern area of a ship's upper deck"
+   }
+  ],
+  "forms": "複數 quarterdecks"
+ },
+ "quarterfinal": {
+  "ph": "/'kwɒ:tәfainәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "四分之一決賽的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "四分之一決賽",
+    "def": "one of the four competitions in an elimination tournament whose winners go on to play in the semifinals"
+   }
+  ],
+  "forms": "複數 quarterfinals"
+ },
+ "quarterly": {
+  "ph": "/'kwɔ:tәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "季度的, 按季度的, 每季的",
+    "def": "of or relating to or consisting of a quarter"
+   },
+   {
+    "pos": "adv.",
+    "zh": "按季, 每三個月, 每季一次",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "季刊",
+    "def": "a periodical that is published every quarter (or four issues per year)"
+   }
+  ],
+  "forms": "複數 quarterlies"
+ },
+ "quartermaster": {
+  "ph": "/'kwɒ:tә.mɑ:stә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍需官",
+    "def": "an army officer who provides clothing and subsistence for troops"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 軍需官, 後勤官, 軍需主任",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quartermasters"
+ },
+ "quarterstaff": {
+  "ph": "/'kwɔ:tәstɑ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐵頭木棒（英國舊時的一種武器, 長六英尺至八英尺）",
+    "def": "a long stout staff used as a weapon"
+   }
+  ]
+ },
+ "quartet": {
+  "ph": "/kwɒ:'tet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四重奏",
+    "def": "four performers or singers who perform together"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 四位位元組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quartets"
+ },
+ "quartier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Quartier)人名；(法)卡爾捷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quartiers"
+ },
+ "quartile": {
+  "ph": "/'kwɒ:tail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四分位數",
+    "def": "(statistics) any of three points that divide an ordered distribution into four parts each containing one quarter of the scores"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 四分值, 四分線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quartiles"
+ },
+ "quarto": {
+  "ph": "/'kwɒ:tәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四開, 四開大的書本",
+    "def": "the size of a book whose pages are made by folding a sheet of paper twice to form four leaves"
+   }
+  ],
+  "forms": "複數 quartos"
+ },
+ "quartz": {
+  "ph": "/kwɒ:ts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石英",
+    "def": "a hard glossy mineral consisting of silicon dioxide in crystal form; present in most rocks (especially sandstone and granite); yellow sand is quartz with iron o"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 石英",
+    "def": ""
+   }
+  ]
+ },
+ "quartzite": {
+  "ph": "/'kwɒ:tsait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石英岩",
+    "def": "hard metamorphic rock consisting essentially of interlocking quartz crystals"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 石英岩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quartzites"
+ },
+ "quasar": {
+  "ph": "/'kweisɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "類星射電源, 類星體",
+    "def": "a starlike object that may send out radio waves and other forms of energy; many have large red shifts"
+   }
+  ],
+  "forms": "複數 quasars"
+ },
+ "quash": {
+  "ph": "/kwɒʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "撤銷, 平息, 鎮壓",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 撤銷, 廢止, 宣佈無效",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quashed｜過去式 quashed｜現在分詞 quashing｜第三人稱單數 quashes｜複數 quashes"
+ },
+ "quasi": {
+  "ph": "/'kwɑ:zi:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "類似的, 準的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 半, 準; 類似的",
+    "def": ""
+   }
+  ]
+ },
+ "quaternary": {
+  "ph": "/kwә'tә:nәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "四個一組的, 四元的, 四價的, 季的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 四進位制的, 四元的",
+    "def": ""
+   }
+  ]
+ },
+ "quatrain": {
+  "ph": "/'kwɒtrein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四行詩",
+    "def": "a stanza of four lines"
+   }
+  ],
+  "forms": "複數 quatrains"
+ },
+ "quatro": {
+  "ph": "/'kwɑ:trәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "=cuatro[變體]",
+    "def": ""
+   }
+  ]
+ },
+ "quattro": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卡特羅牌汽車；四輪驅動系統",
+    "def": ""
+   }
+  ]
+ },
+ "quattrocento": {
+  "ph": "/,kwætrәu'tʃentәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "十五世紀(歐洲文藝復興的初期)",
+    "def": "the 15th century in Italian art and literature"
+   }
+  ]
+ },
+ "quaver": {
+  "ph": "/'kweivә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "發顫音, 顫抖",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "顫抖地說, 用顫聲唱出",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "顫抖, 顫聲, 八分音符",
+    "def": "a tremulous sound"
+   }
+  ],
+  "forms": "複數 quavers｜過去式 quavered｜現在分詞 quavering｜第三人稱單數 quavers｜過去分詞 quavered"
+ },
+ "quavering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顫抖的, 顫聲的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 quavering"
+ },
+ "quavery": {
+  "ph": "/'kweivәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "震音的, 顫聲的",
+    "def": ""
+   }
+  ]
+ },
+ "quay": {
+  "ph": "/ki:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碼頭, 駁岸",
+    "def": "wharf usually built parallel to the shoreline"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 貼岸碼頭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quays"
+ },
+ "quayle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Quayle)人名；(英)奎爾",
+    "def": ""
+   }
+  ]
+ },
+ "quayside": {
+  "ph": "/'ki:said/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碼頭區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quaysides"
+ },
+ "que": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佇列",
+    "def": "A half farthing."
+   }
+  ],
+  "forms": "現在分詞 quing｜複數 ques"
+ },
+ "queasily": {
+  "ph": "/'kwi:zili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人噁心地",
+    "def": ""
+   }
+  ]
+ },
+ "queasiness": {
+  "ph": "/'kwi:zinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噁心",
+    "def": "a mild state of nausea"
+   }
+  ]
+ },
+ "queasy": {
+  "ph": "/'kwi:zi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嘔吐的, 使人嘔吐的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 不穩定的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 queasier"
+ },
+ "quebec": {
+  "ph": "/kwi'bek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魁北克（加拿大港市省名）",
+    "def": "the French-speaking capital of the province of Quebec; situated on the Saint Lawrence River"
+   }
+  ]
+ },
+ "quechua": {
+  "ph": "/'ketʃwɑ:, -wә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蓋丘亞族（南美印第安人的一大分支）蓋丘亞族人[語]",
+    "def": "a member of a South American Indian people in Peru who were formerly the ruling class of the Inca empire"
+   }
+  ]
+ },
+ "queen": {
+  "ph": "/'kwi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "王后, 女王",
+    "def": "the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs"
+   },
+   {
+    "pos": "vt.",
+    "zh": "立為女王",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "做女王",
+    "def": ""
+   }
+  ],
+  "forms": "複數 queens｜現在分詞 queening｜過去式 queened｜第三人稱單數 queens｜過去分詞 queened"
+ },
+ "queenie": {
+  "ph": "/'kwi:ni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奎尼(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "queenly": {
+  "ph": "/'kwi:nli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "女王的",
+    "def": ""
+   }
+  ]
+ },
+ "queens": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "皇后區；女王（queen的複數形式）",
+    "def": "a borough of New York City"
+   }
+  ]
+ },
+ "queensberry": {
+  "ph": "/'kwi:nzb(ә)ri/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "昆斯伯裡(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "queensbury": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "昆斯伯裡（英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "queensland": {
+  "ph": "/'kwi:nzlәnd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 昆士蘭",
+    "def": ""
+   }
+  ]
+ },
+ "queensway": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "金鐘道",
+    "def": ""
+   }
+  ]
+ },
+ "queer": {
+  "ph": "/kwiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "怪人, 同性戀者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "奇怪的, 不舒服的, 可疑的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "搞糟",
+    "def": ""
+   }
+  ],
+  "forms": "複數 queers｜最高級 queerest｜現在分詞 queering｜比較級 queerer｜第三人稱單數 queers｜過去分詞 queered｜過去式 queered"
+ },
+ "queerly": {
+  "ph": "/'kwiәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "奇怪地",
+    "def": ""
+   }
+  ]
+ },
+ "queerness": {
+  "ph": "/'kwiәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奇妙, 不舒服",
+    "def": ""
+   }
+  ]
+ },
+ "quell": {
+  "ph": "/kwel/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "壓制, 平息, 減輕",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quelled｜現在分詞 quelling｜過去式 quelled｜第三人稱單數 quells"
+ },
+ "quelle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 奎爾; [地名] 泉、井（德語）",
+    "def": ""
+   }
+  ]
+ },
+ "quench": {
+  "ph": "/kwentʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "熄滅, 結束, 使冷卻, 將...淬火",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "熄滅, 平息",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 quenching｜過去分詞 quenched｜過去式 quenched｜第三人稱單數 quenches"
+ },
+ "quenelle": {
+  "ph": "/kә'nel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肉圓",
+    "def": "A kind of delicate forcemeat, commonly poached and used"
+   }
+  ],
+  "forms": "複數 quenelles"
+ },
+ "quentin": {
+  "ph": "/'kwentin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "昆廷（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "quercetin": {
+  "ph": "/'kwә:sitin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "槲皮苷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 櫟精酸; 櫟精",
+    "def": ""
+   }
+  ]
+ },
+ "querulous": {
+  "ph": "/'kwerulәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抱怨的, 愛發牢騷的, 易怒的",
+    "def": ""
+   }
+  ]
+ },
+ "querulously": {
+  "ph": "/'kwɛrələsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "抱怨地, 易怒地",
+    "def": ""
+   }
+  ]
+ },
+ "query": {
+  "ph": "/'kwiәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "疑問, 疑問號, 質問, 查詢",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "詢問, 質問",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 查詢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 queries｜過去式 queried｜過去分詞 queried｜現在分詞 querying｜第三人稱單數 queries"
+ },
+ "quesadilla": {
+  "ph": "/,keisә'di:jә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油炸玉米粉餅(一種墨西哥食品,以乾酪等為餡)",
+    "def": "a tortilla that is filled with cheese and heated"
+   }
+  ]
+ },
+ "quest": {
+  "ph": "/kwest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "探索, 尋求, 調查",
+    "def": "the act of searching for something"
+   },
+   {
+    "pos": "v.",
+    "zh": "尋找, 找, 追尋獵物",
+    "def": "make a search (for)"
+   }
+  ],
+  "forms": "複數 quests｜現在分詞 questing｜過去式 quested｜過去分詞 quested｜第三人稱單數 quests"
+ },
+ "questing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "探求的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 questing"
+ },
+ "question": {
+  "ph": "/'kwestʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "問題, 詢問",
+    "def": "an instance of questioning"
+   },
+   {
+    "pos": "v.",
+    "zh": "詢問, 審問, 懷疑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 詢問",
+    "def": ""
+   }
+  ],
+  "forms": "複數 questions｜過去分詞 questioned｜過去式 questioned｜現在分詞 questioning｜第三人稱單數 questions"
+ },
+ "question mark": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "問號",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 問號標記",
+    "def": ""
+   }
+  ]
+ },
+ "questionable": {
+  "ph": "/'kwestʃәnәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可疑的",
+    "def": "subject to question"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可疑的, 有問題的, 不可靠的",
+    "def": ""
+   }
+  ]
+ },
+ "questionably": {
+  "ph": "/'kwestʃənəblɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可疑地; 不真實地; 有問題地",
+    "def": ""
+   }
+  ]
+ },
+ "questioned": {
+  "ph": "/ˈkwestʃənd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "問（某人）問題( question的過去式和過去分詞 ); 對（某事物）表示[感到]懷疑",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 questioned｜過去式 questioned"
+ },
+ "questioner": {
+  "ph": "/'kwestʃәnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "質問者, 發問者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 質問者, 詢問者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 questioners"
+ },
+ "questioning": {
+  "ph": "/'kwestʃәniŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 審問, 訊問, 質問",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 questioning｜複數 questionings"
+ },
+ "questioningly": {
+  "ph": "/'kwestʃәniŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "質問地, 疑惑地",
+    "def": ""
+   }
+  ]
+ },
+ "questionnaire": {
+  "ph": "/kwestʃә'nєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "調查表, 問卷",
+    "def": "a form containing a set of questions; submitted to people to gain statistical information"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 調查表",
+    "def": ""
+   }
+  ],
+  "forms": "複數 questionnaires"
+ },
+ "questions": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "問題（question的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "questor": {
+  "ph": "/'kwestә, 'kwi:s-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刑事推事, 主管財務官吏",
+    "def": "An officer who had the management of the public treasure;"
+   }
+  ],
+  "forms": "複數 questors"
+ },
+ "queue": {
+  "ph": "/kju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辮子, 一隊人, 佇列",
+    "def": "a line of people or vehicles waiting for something"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使排隊, 將...梳成辮子",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "排隊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 佇列",
+    "def": ""
+   }
+  ],
+  "forms": "複數 queues｜現在分詞 queuing｜過去式 queued｜過去分詞 queued｜第三人稱單數 queues"
+ },
+ "queuing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 排隊論",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 queuing"
+ },
+ "qui": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "定量超聲指數（Quantitative Ultrasound Index）；門控；速度",
+    "def": ""
+   }
+  ]
+ },
+ "quibble": {
+  "ph": "/'kwibl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遁詞, 雙關語",
+    "def": "an evasion of the point of an argument by raising irrelevant distinctions or objections"
+   },
+   {
+    "pos": "vi.",
+    "zh": "吹毛求疵, 爭吵, 說模稜兩可的話",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "對...詭辯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quibbles｜現在分詞 quibbling｜過去式 quibbled｜第三人稱單數 quibbles｜過去分詞 quibbled"
+ },
+ "quibbling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詭辯, 吹毛求疵, 找碴子",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "吹毛求疵的, 挑剔的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 quibbling"
+ },
+ "quich": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Quichua 蓋丘亞族（南美印第安人的一大分支）, 蓋丘亞族人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quiches"
+ },
+ "quiche": {
+  "ph": "/ki:ʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳蛋餅",
+    "def": "a member of the Mayan people of south central Guatemala"
+   }
+  ]
+ },
+ "quick": {
+  "ph": "/kwik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "快的, 迅速的, 敏捷的, 靈敏的, 急速的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "快",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "新長出的肉, 要害, 核心, 感覺敏銳部位",
+    "def": "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)"
+   }
+  ],
+  "forms": "比較級 quicker｜最高級 quickest"
+ },
+ "quicken": {
+  "ph": "/'kwikәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "加快, 激發, 使有生氣, 鼓舞, 使復活",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "加快, 變活躍, 進入胎動期",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 quickened｜第三人稱單數 quickens｜過去分詞 quickened｜現在分詞 quickening"
+ },
+ "quickened": {
+  "ph": "/ˈkwɪkənd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）變快, 增速, 加快( quicken的過去式和過去分詞 ); 甦醒, 使有生機",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quickened"
+ },
+ "quickening": {
+  "ph": "/'kwikәniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胎動初期",
+    "def": "the process of showing signs of life"
+   },
+   {
+    "pos": "adj.",
+    "zh": "加快的, 活躍的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 quickening｜複數 quickenings"
+ },
+ "quicker": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "快些（quick的形容詞比較級）",
+    "def": ""
+   }
+  ]
+ },
+ "quickest": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最快的",
+    "def": ""
+   }
+  ]
+ },
+ "quickie": {
+  "ph": "/'kwiki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "匆匆做成的事",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "簡短的, 迅速的, 突發的",
+    "def": ""
+   }
+  ]
+ },
+ "quicklime": {
+  "ph": "/'kwiklaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生石灰",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生石灰; 氧化鈣",
+    "def": ""
+   }
+  ]
+ },
+ "quickly": {
+  "ph": "/'kwikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "很快地",
+    "def": ""
+   }
+  ]
+ },
+ "quickness": {
+  "ph": "/'kwiknis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "急速, 迅速, 速度",
+    "def": ""
+   }
+  ]
+ },
+ "quicksand": {
+  "ph": "/'kwiksænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流沙, 流沙區, 危險狀態",
+    "def": "a treacherous situation that tends to entrap and destroy"
+   }
+  ],
+  "forms": "複數 quicksands"
+ },
+ "quicksilver": {
+  "ph": "/'kwiksilvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水銀, 汞",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗水銀於",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "水銀似的, 易變的",
+    "def": ""
+   }
+  ]
+ },
+ "quid": {
+  "ph": "/kwid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一鎊金幣, 一鎊, 咀嚼物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quids"
+ },
+ "quidditch": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魁地奇球賽（出自《哈利·波特》系列故事）",
+    "def": ""
+   }
+  ]
+ },
+ "quiescence": {
+  "ph": "/kwai'esns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靜止, 不活動, 寂靜",
+    "def": "quiet and inactive restfulness"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 靜止",
+    "def": ""
+   }
+  ]
+ },
+ "quiescent": {
+  "ph": "/kwai'esnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "靜止的, 不活動的, 寂靜的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 靜息的, 靜止的",
+    "def": ""
+   }
+  ]
+ },
+ "quiet": {
+  "ph": "/'kwaiәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安靜, 閒適, 平靜",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "安靜的, 靜止的, 寂靜的, 樸素的, 從容的, 暗中的",
+    "def": "characterized by an absence or near absence of agitation or activity"
+   },
+   {
+    "pos": "vi.",
+    "zh": "平靜下來",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使平靜, 使平息, 使安心, 安慰",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 quieter｜最高級 quietest｜過去式 quieted｜現在分詞 quieting｜第三人稱單數 quiets｜過去分詞 quieted"
+ },
+ "quieten": {
+  "ph": "/'kwaiәtn/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "vt. (使)安靜, 平靜下來, (使)平息, (使)平靜, (使)鎮靜",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "撫慰, 安慰",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quietened｜過去式 quietened｜現在分詞 quietening｜第三人稱單數 quietens"
+ },
+ "quieting": {
+  "ph": "/'kwaiәtiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 靜態",
+    "def": ""
+   }
+  ]
+ },
+ "quietism": {
+  "ph": "/'kwaiәtizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寂靜主義, 清靜無為",
+    "def": "a form of religious mysticism requiring withdrawal from all human effort and passive contemplation of God"
+   }
+  ]
+ },
+ "quietist": {
+  "ph": "/'kwaiәtist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寂靜主義者",
+    "def": "a religious mystic who follows quietism"
+   }
+  ],
+  "forms": "複數 quietists"
+ },
+ "quietly": {
+  "ph": "/'kwaiәtli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "安靜地, 沉著地, 秘密地",
+    "def": ""
+   }
+  ]
+ },
+ "quietness": {
+  "ph": "/'kwaiәtnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平靜, 寂靜",
+    "def": "the property of making no sound"
+   }
+  ]
+ },
+ "quietude": {
+  "ph": "/'kwaiәtju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平靜, 寂靜",
+    "def": ""
+   }
+  ]
+ },
+ "quiff": {
+  "ph": "/kwif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下賤女人, 一陣微風",
+    "def": "a prominent forelock (especially one brushed upward from the forehead)"
+   }
+  ],
+  "forms": "複數 quiffs｜過去式 quiffed"
+ },
+ "quigley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奎格利（愛爾蘭姓氏, Quickley的變體）",
+    "def": ""
+   }
+  ]
+ },
+ "quill": {
+  "ph": "/kwil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羽根, 大翎毛, 羽毛筆",
+    "def": "pen made from a bird's feather"
+   },
+   {
+    "pos": "vt.",
+    "zh": "刺穿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quills｜現在分詞 quilling"
+ },
+ "quilled": {
+  "ph": "/kwild/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有硬毛的, 羽毛狀的",
+    "def": "Furnished with quills; also, shaped like quills."
+   }
+  ]
+ },
+ "quilt": {
+  "ph": "/kwilt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "棉被",
+    "def": "bedding made of two layers of cloth filled with stuffing and stitched together"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加軟襯料後縫製, 東拼西湊地編",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "縫被子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quilts｜現在分詞 quilting｜過去分詞 quilted｜過去式 quilted｜第三人稱單數 quilts"
+ },
+ "quilted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "縫攏了的, 絎縫過的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quilted"
+ },
+ "quilter": {
+  "ph": "/'kwiltә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縫被子的人",
+    "def": "One who, or that which, quilts."
+   }
+  ],
+  "forms": "複數 quilters"
+ },
+ "quilting": {
+  "ph": "/'kwiltiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被子絎縫, 被子料子",
+    "def": "stitching through layers of fabric and a filling so as to create a design"
+   }
+  ],
+  "forms": "現在分詞 quilting"
+ },
+ "quin": {
+  "ph": "/kwin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "五個一套；五胞胎（等於quintuplet）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quins"
+ },
+ "quince": {
+  "ph": "/kwins/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] ╂Т",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quinces"
+ },
+ "quincentenary": {
+  "ph": "/,kwinsen'ti:nәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "第五百週年",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "第五百週年的",
+    "def": ""
+   }
+  ]
+ },
+ "quincentennial": {
+  "ph": "/kwɪnsen'tenɪəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "第五百年的, 五百年的",
+    "def": "of or relating to a 500th anniversary"
+   }
+  ]
+ },
+ "quincey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Quincey)人名；(法)坎塞；(英)昆西",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "昆西",
+    "def": ""
+   }
+  ]
+ },
+ "quincy": {
+  "ph": "/'kwinsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "昆西(m.)",
+    "def": "American patriot who presented the colonists' grievances to the English king (1744-1775)"
+   }
+  ]
+ },
+ "quine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 奎因",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quines"
+ },
+ "quinine": {
+  "ph": "/kwi'ni:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奎寧",
+    "def": "a bitter alkaloid extracted from chinchona bark; used in malaria therapy"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 奎寧; 金雞納鹼; 金雞納霜",
+    "def": ""
+   }
+  ]
+ },
+ "quinlan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "昆蘭（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "quinn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奎恩（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "quinoa": {
+  "ph": "/ki'nәuә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[植]奎奴亞藜(產於安第斯山脈地區, 印第安人種植, 食用其粟)",
+    "def": ""
+   }
+  ]
+ },
+ "quint": {
+  "ph": "/kwint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "五度音程, 五胞胎之一, 五個一組, 籃球隊",
+    "def": ""
+   }
+  ]
+ },
+ "quinta": {
+  "ph": "/'ki:ntә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(西班牙和拉丁美洲的)別墅, (有葡萄園等的)鄉間邸宅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quintas"
+ },
+ "quintessence": {
+  "ph": "/kwin'tesns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精萃, 精華, 典範",
+    "def": "the fifth and highest element after air and earth and fire and water; was believed to be the substance composing all heavenly bodies"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 濃浸膏, 精華",
+    "def": ""
+   }
+  ]
+ },
+ "quintessential": {
+  "ph": "/.kwinti'senʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精萃的, 精髓的, 典範的",
+    "def": "representing the perfect example of a class or quality"
+   }
+  ]
+ },
+ "quintessentially": {
+  "ph": "/,kwinti'senʃəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "典型地, 標準地",
+    "def": ""
+   }
+  ]
+ },
+ "quintet": {
+  "ph": "/kwin'tet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "五重唱, 五部合奏曲, 五部合奏, 五重奏, 五人一組, 五件一套, 男子籃球隊",
+    "def": "a musical composition for five performers"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 五位位元組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quintets"
+ },
+ "quintin": {
+  "ph": "/'kwintn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "昆廷（男子名）",
+    "def": "See Quintain."
+   }
+  ]
+ },
+ "quinton": {
+  "ph": "/'kwintɔn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "五絃琴",
+    "def": ""
+   }
+  ]
+ },
+ "quintuple": {
+  "ph": "/'kwintjupl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "五倍的, 五重的, 五部分構成的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "五倍量, 五個一組",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成五倍",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 quintupled｜過去分詞 quintupled｜現在分詞 quintupling｜第三人稱單數 quintuples"
+ },
+ "quintuplet": {
+  "ph": "/'kwintjuplit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "五個一組, 五人一組, 五胞胎之一",
+    "def": "one of five children born at the same time from the same pregnancy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 五胎兒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quintuplets"
+ },
+ "quip": {
+  "ph": "/kwip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "妙語, 遁辭, 諷刺",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "說諷刺話, 嘲弄",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 quipped｜複數 quips｜第三人稱單數 quips｜現在分詞 quipping｜過去分詞 quipped"
+ },
+ "quire": {
+  "ph": "/'kwaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紙的一刀",
+    "def": "a quantity of paper; 24 or 25 sheets"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 刀",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 quires｜現在分詞 quiring｜複數 quires"
+ },
+ "quirk": {
+  "ph": "/kwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古怪舉動, 俏皮話, 急轉",
+    "def": "a narrow groove beside a beading"
+   }
+  ],
+  "forms": "複數 quirks｜過去式 quirked｜現在分詞 quirking"
+ },
+ "quirkiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詭詐；離奇；突變",
+    "def": ""
+   }
+  ]
+ },
+ "quirky": {
+  "ph": "/'kw\\\\\\\\:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "詭詐的, 突兀的, 古怪的, 離奇的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 詭詐的, 頗為曲折的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 quirkiest｜比較級 quirkier"
+ },
+ "quirt": {
+  "ph": "/kwә:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辮式短柄馬鞭",
+    "def": "whip with a leather thong at the end"
+   }
+  ]
+ },
+ "quisling": {
+  "ph": "/'kwizliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賣國賊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 賣國賊, 內奸, 通敵分子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quislings"
+ },
+ "quit": {
+  "ph": "/kwit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "離開, 辭職, 停止",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "離開, 放棄, 使解除, 停止",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "離開",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 結束, 退出",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 quit｜現在分詞 quitting｜過去分詞 quit｜第三人稱單數 quits"
+ },
+ "quitclaim": {
+  "ph": "/'kwitkleim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放棄權利",
+    "def": "document transferring title or right or claim to another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "放棄權利",
+    "def": ""
+   }
+  ]
+ },
+ "quite": {
+  "ph": "/kwait/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "相當, 完全, 十分",
+    "def": ""
+   }
+  ]
+ },
+ "quito": {
+  "ph": "/'ki:tәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "基多（厄瓜多的首都）",
+    "def": "the capital of Ecuador"
+   }
+  ]
+ },
+ "quits": {
+  "ph": "/kwits/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抵消的, 對等的",
+    "def": ""
+   }
+  ]
+ },
+ "quitter": {
+  "ph": "/'kwitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕易放棄的人, 懦夫, 逃避責任的人",
+    "def": "a person who gives up too easily"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 馬蹄疽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quitters"
+ },
+ "quiver": {
+  "ph": "/'kwivә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "震動, 顫抖, 箭袋",
+    "def": "case for holding arrows"
+   },
+   {
+    "pos": "vi.",
+    "zh": "顫抖, 振動",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使顫動",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "敏捷的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 quivered｜現在分詞 quivering｜第三人稱單數 quivers｜複數 quivers｜過去分詞 quivered"
+ },
+ "quivering": {
+  "ph": "/'kwivәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顫動的, 抖動的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 quivering｜複數 quiverings"
+ },
+ "quivery": {
+  "ph": "/'kwivәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顫抖的, 震動的",
+    "def": ""
+   }
+  ]
+ },
+ "quixote": {
+  "ph": "/'kwiksәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堂吉訶德",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quixotes"
+ },
+ "quixotic": {
+  "ph": "/kwik'sɔtik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "堂吉訶德式的, 愚俠的, 狂熱而俠義的, 理想而不實際的, 充滿幻想的",
+    "def": ""
+   }
+  ]
+ },
+ "quiz": {
+  "ph": "/kwiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考查, 課堂測驗, 惡作劇, 智力測驗",
+    "def": "an examination consisting of a few short questions"
+   },
+   {
+    "pos": "vt.",
+    "zh": "戲弄, 考查, 惡作劇",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quizzed｜過去式 quizzed｜現在分詞 quizzing｜第三人稱單數 quizzes"
+ },
+ "quizzical": {
+  "ph": "/'kwizikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "戲弄的, 探詢的, 古怪的",
+    "def": ""
+   }
+  ]
+ },
+ "quizzically": {
+  "ph": "/'kwɪzɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "疑問地, 戲弄地",
+    "def": ""
+   }
+  ]
+ },
+ "quo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "[古]說",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quos"
+ },
+ "quod": {
+  "ph": "/kwɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "監獄, 牢獄",
+    "def": "A quadrangle or court, as of a prison; hence, a prison."
+   },
+   {
+    "pos": "vt.",
+    "zh": "關押, 下獄",
+    "def": ""
+   }
+  ]
+ },
+ "quoit": {
+  "ph": "/kwɒit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圈環",
+    "def": "game equipment consisting of a ring of iron or circle of rope used in playing the game of quoits"
+   },
+   {
+    "pos": "vt.",
+    "zh": "擲(圈環)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quoits｜第三人稱單數 quoits"
+ },
+ "quorn": {
+  "ph": "/kwɔ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "闊恩（植物素肉）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quorns"
+ },
+ "quorum": {
+  "ph": "/'kwɒ:rәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法定人數, 挑選出的一組人",
+    "def": "a gathering of the minimal number of members of an organization to conduct business"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 法定決議票數, 法定人數",
+    "def": ""
+   }
+  ]
+ },
+ "quota": {
+  "ph": "/'kwәutә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "配額, 限額",
+    "def": "a prescribed number"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 定額",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quotas"
+ },
+ "quotable": {
+  "ph": "/'kwәutәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可引用的, 有引用價值的, 適於引用的",
+    "def": ""
+   }
+  ]
+ },
+ "quotation": {
+  "ph": "/kwәu'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "引用語, 語錄, 牌價, 報價",
+    "def": "a passage or expression that is quoted or cited"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 報價",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quotations"
+ },
+ "quote": {
+  "ph": "/kwәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "引用",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "引述, 舉證, 報(價)",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "引用",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quoted｜過去式 quoted｜現在分詞 quoting｜第三人稱單數 quotes｜複數 quotes"
+ },
+ "quoted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "引證（quote的過去式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 quoted｜過去式 quoted"
+ },
+ "quotidian": {
+  "ph": "/kwɒ'tidiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "每日的, 每日發作的, 司空見慣的, 平凡的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "日發熱",
+    "def": ""
+   }
+  ]
+ },
+ "quotient": {
+  "ph": "/'kwәuʃәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "商, 份額",
+    "def": "the ratio of two quantities to be divided"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 商",
+    "def": ""
+   }
+  ],
+  "forms": "複數 quotients"
+ },
+ "qur'an": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "《古蘭經》（伊斯蘭教經典）",
+    "def": ""
+   }
+  ]
+ },
+ "quran": {
+  "ph": "/kj'rɑ:n, -'ræn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(伊斯蘭教)可蘭經",
+    "def": ""
+   }
+  ]
+ },
+ "quranic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "古蘭經的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "可蘭經的",
+    "def": ""
+   }
+  ]
+ }
+}

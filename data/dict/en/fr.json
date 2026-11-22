@@ -1,0 +1,4302 @@
+{
+ "fr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 鍅(87號元素)",
+    "def": ""
+   }
+  ]
+ },
+ "fra": {
+  "ph": "/frɑ:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "聯邦鐵路局（Federal Railroad Administration）；聯邦儲備法（Federal Reserve Act）；流量警報記錄器（Flow Alarm Recorder）；自由基型（Free Radical Type）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fras"
+ },
+ "fracas": {
+  "ph": "/'frækɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喧噪, 吵鬧, 紛擾",
+    "def": ""
+   }
+  ]
+ },
+ "fractal": {
+  "ph": "/'fræktәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不規則碎片形",
+    "def": "(mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry"
+   }
+  ],
+  "forms": "複數 fractals"
+ },
+ "fraction": {
+  "ph": "/'frækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小部分, 破片, 分數",
+    "def": "a component of a mixture that has been separated by a fractional process"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 部分, 成分, 分散",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fractions｜現在分詞 fractioning｜過去式 fractioned｜第三人稱單數 fractions｜過去分詞 fractioned"
+ },
+ "fractional": {
+  "ph": "/'frækʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "部分的, 碎片的, 微少的, 斷片的, 分數的, 分餾的",
+    "def": "constituting or comprising a part or fraction of a possible whole or entirety"
+   },
+   {
+    "pos": "",
+    "zh": "[計] T1電路",
+    "def": ""
+   }
+  ]
+ },
+ "fractionally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "稍許, 一點點",
+    "def": "By fractions or separate portions; as, to distill a"
+   }
+  ]
+ },
+ "fractionate": {
+  "ph": "/'frækʃәneit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "分別, 使分餾",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fractionated｜過去式 fractionated｜第三人稱單數 fractionates｜複數 fractionates｜現在分詞 fractionating"
+ },
+ "fractionation": {
+  "ph": "/.frækʃә'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分別, 分餾法",
+    "def": "a process that uses heat to separate a substance into its components"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 分級; 分餾; 分凝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fractionations"
+ },
+ "fractious": {
+  "ph": "/'frækʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易怒的, 倔強的, 脾氣不好的",
+    "def": ""
+   }
+  ]
+ },
+ "fracture": {
+  "ph": "/'fræktʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "破碎, 骨折",
+    "def": "breaking of hard tissue such as bone"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)破碎, (使)破裂",
+    "def": "violate or abuse"
+   }
+  ],
+  "forms": "複數 fractures｜過去式 fractured｜過去分詞 fractured｜現在分詞 fracturing｜第三人稱單數 fractures"
+ },
+ "fractured": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "斷裂的；挫傷的；折裂的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fractured｜過去式 fractured"
+ },
+ "fracturing": {
+  "ph": "/'fræktʃәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 壓裂",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fracturing"
+ },
+ "fraenkel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fraenkel)人名；(英、德、西、瑞典)弗倫克爾",
+    "def": ""
+   }
+  ]
+ },
+ "frag": {
+  "ph": "/fræɡ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "蓄意殺傷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frags"
+ },
+ "fragile": {
+  "ph": "/'frædʒail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易碎的, 脆的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 脆弱的, 脆的",
+    "def": ""
+   }
+  ]
+ },
+ "fragility": {
+  "ph": "/frә'dʒiliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脆弱, 虛弱",
+    "def": "quality of being easily damaged or destroyed"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 易碎性",
+    "def": ""
+   }
+  ]
+ },
+ "fragment": {
+  "ph": "/'frægmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碎片, 破片, 片段",
+    "def": "a piece broken off or cut off of something else"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 段落; 片段; 分段",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fragments｜過去分詞 fragmented｜現在分詞 fragmenting｜第三人稱單數 fragments｜過去式 fragmented"
+ },
+ "fragmentary": {
+  "ph": "/'fræ^mәntәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "碎片的, 碎屑的, 片斷的, 斷片的, 碎塊的, 不完全的, 不連續的, 不完整的",
+    "def": ""
+   }
+  ]
+ },
+ "fragmentation": {
+  "ph": "/.frægmәn'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分裂, 破碎",
+    "def": "the disintegration of social norms governing behavior and thought and social relationships"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 在IP層將打包檔案切成適當大小的程式",
+    "def": ""
+   }
+  ]
+ },
+ "fragmented": {
+  "ph": "/'fræɡmentid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成碎片的；片斷的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fragmented｜過去式 fragmented"
+ },
+ "fragrance": {
+  "ph": "/'freigrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬芳, 香味",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fragrances｜過去分詞 fragranced｜過去式 fragranced"
+ },
+ "fragrant": {
+  "ph": "/'freigrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "芬香的, 馥郁的, 愉快的",
+    "def": "pleasant-smelling"
+   }
+  ]
+ },
+ "frail": {
+  "ph": "/freil/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "脆弱的, 虛弱的, 意志薄弱的",
+    "def": "physically weak"
+   },
+   {
+    "pos": "n.",
+    "zh": "少女, 少婦, 燈心草簍",
+    "def": "the weight of a frail (basket) full of raisins or figs; between 50 and 75 pounds"
+   }
+  ],
+  "forms": "比較級 frailer｜最高級 frailest｜複數 frails"
+ },
+ "frailty": {
+  "ph": "/'freilti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弱點, 脆弱, 意志薄弱",
+    "def": "moral weakness"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 虛弱, 意志薄弱, 因意志薄弱而犯的錯誤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frailties"
+ },
+ "fram": {
+  "ph": "/fræm/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "故障估計機（Failure Rate Assessment Machine）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frams"
+ },
+ "frame": {
+  "ph": "/freim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "框, 結構, 體格",
+    "def": "the framework for a pair of eyeglasses"
+   },
+   {
+    "pos": "vt.",
+    "zh": "構成, 設計, 制定, 使適合, 陷害",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 框架, 圖文框, 幀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frames｜過去分詞 framed｜現在分詞 framing｜過去式 framed｜第三人稱單數 frames"
+ },
+ "frame of mind": {
+  "ph": "/freim ɔv maind/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "心境",
+    "def": ""
+   }
+  ]
+ },
+ "framed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遭到陷害的；有構架的",
+    "def": "provided with a frame"
+   }
+  ],
+  "forms": "過去式 framed｜過去分詞 framed"
+ },
+ "frameless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 無框架的",
+    "def": ""
+   }
+  ]
+ },
+ "framer": {
+  "ph": "/'freimә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "組成者, 構成者, 籌劃者",
+    "def": "someone who makes frames (as for pictures)"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 調幀器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 framers"
+ },
+ "framework": {
+  "ph": "/'freimwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結構, 骨架, 參照標準, 準則, 觀點",
+    "def": "the underlying structure"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 構架組織",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frameworks"
+ },
+ "framing": {
+  "ph": "/'freimiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 成幀",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 framing｜複數 framings"
+ },
+ "framlingham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗瑞林姆學院",
+    "def": ""
+   }
+  ]
+ },
+ "fran": {
+  "ph": "/fræn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗蘭（Frances的暱稱, 女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "franc": {
+  "ph": "/fræŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法郎",
+    "def": "the basic monetary unit in many countries; equal to 100 centimes"
+   }
+  ],
+  "forms": "複數 francs"
+ },
+ "franca": {
+  "ph": "/'fra:ŋka:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗蘭卡（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "francais": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（法）法語；法國人",
+    "def": ""
+   }
+  ]
+ },
+ "francaise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗朗索瓦（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "france": {
+  "ph": "/frɑ:ns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法國",
+    "def": "a republic in western Europe; the largest country wholly in Europe"
+   }
+  ]
+ },
+ "frances": {
+  "ph": "/'frɑ:nsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗朗西絲（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "francesca": {
+  "ph": "/fræn'seskә, -'tʃeskә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗朗西斯卡（女名）",
+    "def": ""
+   }
+  ]
+ },
+ "francesco": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗朗西斯科（義大利文藝復興時期著名作家）；弗朗西斯科（義大利著名導演）",
+    "def": ""
+   }
+  ]
+ },
+ "franchise": {
+  "ph": "/'fræntʃaiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公民權, 特權, 特許經營權, 免賠額",
+    "def": "an authorization to sell a company's goods or services in a particular place"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給以特權, 給以...公民權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 franchises｜現在分詞 franchising｜過去分詞 franchised｜過去式 franchised｜第三人稱單數 franchises"
+ },
+ "franchised": {
+  "ph": "/ˈfrænˌtʃaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給…以特許權, 出售特許權( franchise的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 franchised"
+ },
+ "franchisee": {
+  "ph": "/.fræntʃai'zi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有代銷權的人(或團體)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 特許證持有人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 franchisees"
+ },
+ "franchiser": {
+  "ph": "/'fræntʃai'zә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 給與特許者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 franchisers"
+ },
+ "franchising": {
+  "ph": "/'fræntʃaɪzɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給…以特許權, 出售特許權( franchise的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 franchising"
+ },
+ "franchisor": {
+  "ph": "/,fræntʃai'zɔ:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "授予特許者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 franchisors"
+ },
+ "francie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗朗西",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "弗朗茜",
+    "def": ""
+   }
+  ]
+ },
+ "francine": {
+  "ph": "/frɑ:n'si:n, fræn'si:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗朗辛（女子名, 等於Francene）",
+    "def": ""
+   }
+  ]
+ },
+ "francis": {
+  "ph": "/'frɑ:nsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗朗西斯（男子名, 義為自由之人）",
+    "def": ""
+   }
+  ]
+ },
+ "franciscan": {
+  "ph": "/fræn'siskәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聖方濟修會的",
+    "def": "of or relating to Saint Francis of Assisi or to the order founded by him"
+   },
+   {
+    "pos": "n.",
+    "zh": "聖方濟會的修道士",
+    "def": "a Roman Catholic friar wearing the grey habit of the Franciscan order"
+   }
+  ],
+  "forms": "複數 franciscans"
+ },
+ "francisco": {
+  "ph": "/fræn'siskәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗朗西斯科（男子名, 等於Francis）",
+    "def": ""
+   }
+  ]
+ },
+ "franck": {
+  "ph": "/frɑ:ŋk, fræŋk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗蘭克(①姓氏 ②James, 1882-1964, 出生於德國的美國物理學家, 曾獲1925年諾貝爾物理學獎)",
+    "def": ""
+   }
+  ]
+ },
+ "franco": {
+  "ph": "/'fræŋkәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "免費的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 全部費用在內價, 運費準免的",
+    "def": ""
+   }
+  ]
+ },
+ "francois": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗朗索瓦（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "francophile": {
+  "ph": "/ˈfræŋkəˌfaɪl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "親法者",
+    "def": "an admirer of France and everything French"
+   },
+   {
+    "pos": "adj.",
+    "zh": "崇拜法國的, 親法的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 francophiles"
+ },
+ "francophone": {
+  "ph": "/'fræŋkәufәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(尤指在使用兩種或多種語言國度裡的)操法語者,講法語的(當地)人",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 francophones｜複數 francophones"
+ },
+ "frangipani": {
+  "ph": "/'frændʒipæni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雞蛋花",
+    "def": "any of various tropical American deciduous shrubs or trees of the genus Plumeria having milky sap and showy fragrant funnel-shaped variously colored flowers"
+   }
+  ],
+  "forms": "複數 frangipani"
+ },
+ "franjo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Franjo)人名；(塞)弗拉尼奧",
+    "def": ""
+   }
+  ]
+ },
+ "frank": {
+  "ph": "/fræŋk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "坦白的, 率直的, 老實的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "免費郵寄",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "免費郵寄特權",
+    "def": "a member of the ancient Germanic peoples who spread from the Rhine into the Roman Empire in the 4th century"
+   }
+  ],
+  "forms": "過去分詞 franked｜最高級 frankest｜比較級 franker｜現在分詞 franking｜過去式 franked｜第三人稱單數 franks"
+ },
+ "franke": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Franke)人名；(英、捷、法、瑞典、德、匈、芬、羅)弗蘭克",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frankes"
+ },
+ "frankel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Frankel)人名；(英、捷、法、意、葡、瑞典、德、匈、羅、以)弗蘭克爾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "弗蘭克爾",
+    "def": ""
+   }
+  ]
+ },
+ "frankenstein": {
+  "ph": "/'fræŋkәnstain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自己所創造而無法控制的事物, 人形的怪物, 作法自斃者",
+    "def": "an agency that escapes control and destroys its creator"
+   }
+  ]
+ },
+ "frankfurt": {
+  "ph": "/'fræŋkfәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛肉香腸, 豬牛肉混合香腸",
+    "def": ""
+   }
+  ]
+ },
+ "frankfurter": {
+  "ph": "/'fræŋk,f\\\\\\\\:tә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法蘭克福香腸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frankfurters"
+ },
+ "frankie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗蘭基（姓名）",
+    "def": ""
+   }
+  ]
+ },
+ "frankincense": {
+  "ph": "/'fræŋkin.sens/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳香",
+    "def": "an aromatic gum resin obtained from various Arabian or East African trees; formerly valued for worship and for embalming and fumigation"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 乳香",
+    "def": ""
+   }
+  ]
+ },
+ "frankish": {
+  "ph": "/'fræŋkiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "法蘭克語的, 法蘭克人的",
+    "def": "of or relating to the Franks"
+   },
+   {
+    "pos": "n.",
+    "zh": "法蘭克語",
+    "def": ""
+   }
+  ]
+ },
+ "franklin": {
+  "ph": "/'fræŋklin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 富蘭克林",
+    "def": ""
+   }
+  ]
+ },
+ "frankly": {
+  "ph": "/'fræŋkli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "坦白地",
+    "def": ""
+   }
+  ]
+ },
+ "frankness": {
+  "ph": "/'fræŋknis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "率直, 坦白",
+    "def": "the trait of being blunt and outspoken"
+   }
+  ]
+ },
+ "franks": {
+  "ph": "/fræŋks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗蘭克斯(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "frans": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法蘭斯（女子名, 等於Frances）",
+    "def": ""
+   }
+  ]
+ },
+ "frantic": {
+  "ph": "/'fræntik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狂亂的, 瘋狂的",
+    "def": ""
+   }
+  ]
+ },
+ "frantically": {
+  "ph": "/'fræntikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "狂暴地, 瘋狂似地",
+    "def": ""
+   }
+  ]
+ },
+ "frantz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Frantz)人名；(英、羅、法、德、瑞典)弗朗茨",
+    "def": ""
+   }
+  ]
+ },
+ "franz": {
+  "ph": "/frɑ:nts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗朗茨（Francis Ferdinand的德文名）",
+    "def": ""
+   }
+  ]
+ },
+ "fraser": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗雷則河（加拿大西南部河流）；弗雷澤（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "frat": {
+  "ph": "/fræt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大學生聯誼會, 大學生聯誼會會員",
+    "def": ""
+   }
+  ]
+ },
+ "fraternal": {
+  "ph": "/frә'tә:nl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兄弟的, 兄弟似的, 友愛的",
+    "def": "of or relating to a fraternity or society of usually men"
+   }
+  ]
+ },
+ "fraternise": {
+  "ph": "/'frætәnaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "親如兄弟, 友好, 友善, 親善",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fraternising｜過去式 fraternised"
+ },
+ "fraternity": {
+  "ph": "/frә'tә:niti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "友愛, 互助會, 大學生聯誼會",
+    "def": "a social club for male undergraduates"
+   }
+  ],
+  "forms": "複數 fraternities"
+ },
+ "fraternization": {
+  "ph": "/.frætәnai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結有深交, 友善",
+    "def": "associating with others in a brotherly or friendly way; especially with an enemy"
+   }
+  ]
+ },
+ "fraternize": {
+  "ph": "/'frætәnaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "結有深交, 友善",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fraternizing｜過去式 fraternized｜過去分詞 fraternized｜第三人稱單數 fraternizes"
+ },
+ "fratricidal": {
+  "ph": "/.freitri'saidl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "殺兄弟的, 同族互殺的",
+    "def": "Of or pertaining to fratricide; of the nature of"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 殺害兄弟姐妹的, 殺害親屬或同胞的",
+    "def": ""
+   }
+  ]
+ },
+ "fratricide": {
+  "ph": "/'freitrisaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兄弟殺害的行為, 殺害兄弟者",
+    "def": "a person who murders their brother or sister"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 殺害兄弟者, 殺害兄弟的行為",
+    "def": ""
+   }
+  ]
+ },
+ "frau": {
+  "ph": "/frau/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（德）夫人；已婚的女人",
+    "def": "a German courtesy title or form of address for an adult woman"
+   }
+  ]
+ },
+ "fraud": {
+  "ph": "/frɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "欺騙, 欺詐, 詭計, 騙子",
+    "def": "intentional deception resulting in injury to another person"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 欺詐, 舞弊, 騙子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frauds"
+ },
+ "fraudster": {
+  "ph": "/ˈfrɔ:dstə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行騙者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fraudsters"
+ },
+ "fraudulence": {
+  "ph": "/'frɒ:djulәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "欺詐, 不誠實",
+    "def": "a fraudulent or duplicitous representation"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 欺詐, 欺騙性",
+    "def": ""
+   }
+  ]
+ },
+ "fraudulent": {
+  "ph": "/'frɒ:djulәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "欺詐的, 不正的, 不誠實的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 欺詐的, 欺騙的, 騙取的",
+    "def": ""
+   }
+  ]
+ },
+ "fraudulently": {
+  "ph": "/'frɔ:djələntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "欺騙地",
+    "def": ""
+   }
+  ]
+ },
+ "fraught": {
+  "ph": "/frɒ:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "含有...的, 伴著...的, 充滿...的",
+    "def": ""
+   }
+  ]
+ },
+ "fray": {
+  "ph": "/frei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磨損, 打架, 爭論",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使磨損",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被磨損",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fraying｜過去分詞 frayed｜複數 frays｜過去式 frayed｜第三人稱單數 frays"
+ },
+ "fraye": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fraye)人名；(法)弗雷",
+    "def": ""
+   }
+  ]
+ },
+ "frayed": {
+  "ph": "/freɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "磨損的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "（使布、繩等）磨損, 磨破( fray的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frayed｜過去式 frayed"
+ },
+ "fraying": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "織物磨損後落下的碎片, 磨擦後落下的東西",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fraying"
+ },
+ "frayn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Frayn)人名；(英)弗雷恩",
+    "def": ""
+   }
+  ]
+ },
+ "frazer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Frazer)人名；(英)弗雷澤；(德)弗拉策",
+    "def": "English social anthropologist noted for studies of primitive religion and magic (1854-1941)"
+   },
+   {
+    "pos": "",
+    "zh": "弗雷澤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frazers"
+ },
+ "frazier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Frazier)人名；(法)弗拉齊耶；(英)弗雷澤",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "弗雷澤",
+    "def": ""
+   }
+  ]
+ },
+ "frazzle": {
+  "ph": "/'fræzl/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)磨損, (使)磨破, (使)破爛",
+    "def": "exhaust physically or emotionally"
+   },
+   {
+    "pos": "n.",
+    "zh": "磨破, 破爛, 疲憊, 磨損的邊緣",
+    "def": "a state of extreme exhaustion"
+   }
+  ],
+  "forms": "過去式 frazzled｜現在分詞 frazzling｜過去分詞 frazzled｜第三人稱單數 frazzles"
+ },
+ "frazzled": {
+  "ph": "/'fræzld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿破了的, 磨損了的, 疲憊的, (美)(非正式)喝醉了的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 frazzled｜過去分詞 frazzled"
+ },
+ "frc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "貨物交與承運人價格（Free Carrier-Named Point）；阻燃粘膠纖維",
+    "def": ""
+   }
+  ]
+ },
+ "freak": {
+  "ph": "/fri:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畸形人, 畸形物, 不正常的事物, 反覆無常",
+    "def": "a person or animal that is markedly unusual or deformed"
+   },
+   {
+    "pos": "adj.",
+    "zh": "奇異的, 反常的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freaks｜現在分詞 freaking｜過去式 freaked｜第三人稱單數 freaks｜過去分詞 freaked"
+ },
+ "freakish": {
+  "ph": "/'fri:kiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "朝三暮四的, 見異思遷的, 畸形的",
+    "def": ""
+   }
+  ]
+ },
+ "freakishly": {
+  "ph": "/'fri:kiʃli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "反常地；見異思遷地",
+    "def": ""
+   }
+  ]
+ },
+ "freaky": {
+  "ph": "/'fri:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(=freakish)畸形的, 捉摸不定的",
+    "def": ""
+   }
+  ]
+ },
+ "freckle": {
+  "ph": "/'frekl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雀斑, 斑點",
+    "def": "a small brownish spot (of the pigment melanin) on the skin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 非曝露部雀斑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freckles｜過去式 freckled｜過去分詞 freckled｜現在分詞 freckling｜第三人稱單數 freckles"
+ },
+ "freckled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "雀斑, 斑點, 曬斑, (使)生雀斑, (使)生斑點",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 freckled"
+ },
+ "fred": {
+  "ph": "/fred/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佛瑞德（男子名）",
+    "def": "Peace; -- a word used in composition, especially in proper"
+   }
+  ]
+ },
+ "freda": {
+  "ph": "/'fri:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗雷達（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "freddie": {
+  "ph": "/'fredi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗雷迪（男子名, 等於Freddy）",
+    "def": ""
+   }
+  ]
+ },
+ "freddy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗雷迪（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "frederic": {
+  "ph": "/'fredәrik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗雷德裡克（男性名）",
+    "def": ""
+   }
+  ]
+ },
+ "frederica": {
+  "ph": "/,fredә'ri:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗雷德里卡(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "frederick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗雷德裡克（男子名）",
+    "def": "a town in northern Maryland to the west of Baltimore"
+   }
+  ]
+ },
+ "frederik": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Frederik)人名；(塞、荷、丹)弗雷德裡克",
+    "def": ""
+   }
+  ]
+ },
+ "fredric": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗雷德裡克（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "free": {
+  "ph": "/fri:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自由的, 享受政治權力的, 允許的, 免費的, 豐富的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "釋放, 解放, 使自由",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "自由地, 免費",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 freed｜現在分詞 freeing｜比較級 freer｜過去式 freed｜第三人稱單數 frees"
+ },
+ "free enterprise": {
+  "ph": "/fri: ˈentəpraiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由企業",
+    "def": ""
+   }
+  ]
+ },
+ "free kick": {
+  "ph": "/fri: kik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（足球）任意球",
+    "def": ""
+   }
+  ]
+ },
+ "free will": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "自由意志",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 自由意志",
+    "def": ""
+   }
+  ]
+ },
+ "freebie": {
+  "ph": "/'fri:bi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "免費的東西；免費贈品（尤指戲院贈券）",
+    "def": "something that is free (usually provided as part of a promotional scheme)"
+   }
+  ]
+ },
+ "freeboard": {
+  "ph": "/'fri:bɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幹舷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 自由空間; 分離空間",
+    "def": ""
+   }
+  ]
+ },
+ "freebooter": {
+  "ph": "/'fri:bu:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海盜",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 海盜, 強盜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freebooters"
+ },
+ "freeborn": {
+  "ph": "/'fri:'bɒ:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生而自由的, 自由民的, 適合於自由民的",
+    "def": ""
+   }
+  ]
+ },
+ "freeby": {
+  "ph": "/'fri:bi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "免費贈品(尤指戲院贈券)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freebies"
+ },
+ "freed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "釋放的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 freed｜過去式 freed"
+ },
+ "freedman": {
+  "ph": "/'fri:dmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由民, 被解放的奴隸",
+    "def": "a person who has been freed from slavery"
+   }
+  ],
+  "forms": "複數 freedmen"
+ },
+ "freedom": {
+  "ph": "/'fri:dәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由, 坦率, 特權",
+    "def": "the condition of being free; the power to act or speak or think without externally imposed restraints"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 自由, 自主, 免除",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freedoms"
+ },
+ "freedom fighter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "爭取自由的戰士",
+    "def": ""
+   }
+  ]
+ },
+ "freefall": {
+  "ph": "/f'ri:fɔ:l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自由落體的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "自由降落式（跳傘）",
+    "def": ""
+   }
+  ]
+ },
+ "freehand": {
+  "ph": "/'fri:hænd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "徒手畫的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "徒手畫地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 手畫線",
+    "def": ""
+   }
+  ]
+ },
+ "freehold": {
+  "ph": "/'fri:hәuld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由保有, 不動產, 自由保有官職",
+    "def": "an estate held in fee simple or for life"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 不動產所有權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freeholds"
+ },
+ "freeholder": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 世襲地產保有人, 自由保有不動產權者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freeholders"
+ },
+ "freeing": {
+  "ph": "/'fri:iŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 釋放",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 freeing"
+ },
+ "freelance": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由作家, 自由投稿, 自由職業者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "自由投稿的",
+    "def": "working for yourself"
+   }
+  ],
+  "forms": "現在分詞 freelancing｜複數 freelances｜過去分詞 freelanced｜過去式 freelanced｜第三人稱單數 freelances"
+ },
+ "freelancer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由記者；自由作家",
+    "def": "a writer or artist who sells services to different employers without a long-term contract with any of them"
+   }
+  ],
+  "forms": "複數 freelancers"
+ },
+ "freeload": {
+  "ph": "/'fri:'lәjd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "吃白食, 不勞而獲, [計]一種離線瀏覽主頁的工具軟體",
+    "def": "live off somebody's generosity"
+   }
+  ],
+  "forms": "現在分詞 freeloading｜過去式 freeloaded｜第三人稱單數 freeloads｜過去分詞 freeloaded"
+ },
+ "freeloader": {
+  "ph": "/ˈfri:ləʊdə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不速之客, 揩油的人",
+    "def": "someone who takes advantage of the generosity of others"
+   }
+  ],
+  "forms": "複數 freeloaders"
+ },
+ "freely": {
+  "ph": "/'fri:li/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "自由地, 隨意地, 無拘束地, 直率地, 坦白地, 慷慨地, 免費地, 大量地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 浮動地",
+    "def": ""
+   }
+  ]
+ },
+ "freeman": {
+  "ph": "/'fri:mәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由民, 公民, 正會員",
+    "def": "a person who is not a serf or a slave"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 自由民, 公民, 有公民權的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freemen"
+ },
+ "freemans": {
+  "ph": "/'friːmən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由民, 自由人(非奴隸、農奴)；享有民權的人；公民",
+    "def": ""
+   }
+  ]
+ },
+ "freemantle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Freemantle)人名；(英)弗里曼特爾",
+    "def": ""
+   }
+  ]
+ },
+ "freemason": {
+  "ph": "/'fri:meisn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "互濟會會員",
+    "def": "a member of a widespread secret fraternal order pledged to mutual assistance and brotherly love"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 互濟會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freemasons"
+ },
+ "freemasonry": {
+  "ph": "/'fri:meisәnri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同病相憐, 共濟會的組織會員",
+    "def": "a natural or instinctive fellowship between people of similar interests"
+   }
+  ],
+  "forms": "複數 freemasonries"
+ },
+ "freephone": {
+  "ph": "/'frɪ:fəʊn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "話費總付電話, 免費電話",
+    "def": ""
+   }
+  ]
+ },
+ "freepost": {
+  "ph": "/'fri:pəust/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "免費郵遞；郵資總付",
+    "def": ""
+   }
+  ]
+ },
+ "freesia": {
+  "ph": "/'fri:ziә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小蒼蘭",
+    "def": "any of several plants of the genus Freesia valued for their one-sided clusters of usually fragrant yellow or white or pink tubular flowers"
+   }
+  ],
+  "forms": "複數 freesias"
+ },
+ "freestanding": {
+  "ph": "/'fri:stændiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "獨立式的, 不需依靠支撐物的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 freestanding"
+ },
+ "freestone": {
+  "ph": "/'fri:stәjn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 易切砂岩; 易劈石; 離核; 離核果實",
+    "def": ""
+   }
+  ]
+ },
+ "freestyle": {
+  "ph": "/'fri:stail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由式",
+    "def": "a race (as in swimming) in which each contestant has a free choice of the style to use"
+   }
+  ]
+ },
+ "freetown": {
+  "ph": "/'fri:taun/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗里敦[獅子山首都]",
+    "def": ""
+   }
+  ]
+ },
+ "freeware": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 免費軟體, 自由軟體",
+    "def": ""
+   }
+  ]
+ },
+ "freeway": {
+  "ph": "/'fri:wei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高速公路",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freeways"
+ },
+ "freewheel": {
+  "ph": "/'fri:'hwi:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由飛輪",
+    "def": "a clutch (as on the rear wheel of a bicycle) that allows wheels to turn freely (as in coasting)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "隨心所欲, 憑慣性滑行",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 freewheeling｜過去式 freewheeled｜過去分詞 freewheeled｜複數 freewheels｜第三人稱單數 freewheels"
+ },
+ "freewheeling": {
+  "ph": "/'fri:'hwi:liŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慣性滑行",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "慣性滑行的, 隨心所欲的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 freewheeling"
+ },
+ "freeze": {
+  "ph": "/fri:z/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "凍結, 冷凍, 僵硬, 楞住",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使結冰, 使凍住, 使呆住",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "結冰, 凝固",
+    "def": "the withdrawal of heat to change something from a liquid to a solid"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 凍結",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frozen｜過去式 froze｜第三人稱單數 freezes｜現在分詞 freezing｜複數 freezes"
+ },
+ "freezer": {
+  "ph": "/fri:zә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰庫, 冰箱, 冷凍庫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freezers"
+ },
+ "freezing": {
+  "ph": "/'fri:ziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冰凍的, 冷凍用的, 嚴寒的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 凍結; 凍結作用; 凝固; 凝固作用",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 freezing"
+ },
+ "frei": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗雷（瑞士足球運動員）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frei"
+ },
+ "freiburg": {
+  "ph": "/'fraibə:ɡ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗萊堡（德國城市名）",
+    "def": ""
+   }
+  ]
+ },
+ "freight": {
+  "ph": "/'freit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船貨, 運費, 貨運",
+    "def": "transporting goods commercially at rates cheaper than express rates"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝貨, 使充滿, 以貨運運送, 租(或出租)(船等)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freights｜過去分詞 freighted｜現在分詞 freighting｜過去式 freighted｜第三人稱單數 freights"
+ },
+ "freighted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vbl.",
+    "zh": "運輸",
+    "def": ""
+   }
+  ]
+ },
+ "freighter": {
+  "ph": "/'freitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "租船人, 承運人, 託運人, 貨船, 運輸機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 裝貨人, 貨主, 承運人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freighters"
+ },
+ "french": {
+  "ph": "/frentʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法國人, 法文, 法式",
+    "def": "the Romance language spoken in France and in countries colonized by France"
+   },
+   {
+    "pos": "adj.",
+    "zh": "法國的, 法國人的, 法語的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 Frenches"
+ },
+ "frenchman": {
+  "ph": "/'frentʃmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法國人",
+    "def": "a person of French nationality"
+   }
+  ],
+  "forms": "複數 frenchmen"
+ },
+ "frenchwoman": {
+  "ph": "/'frentʃwumәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法國女人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frenchwomen"
+ },
+ "frenetic": {
+  "ph": "/fri'netik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發狂的, 狂熱的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "發狂者",
+    "def": ""
+   }
+  ]
+ },
+ "frenetically": {
+  "ph": "/frə'netikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "發瘋般地；極其激動地",
+    "def": ""
+   }
+  ]
+ },
+ "frenzied": {
+  "ph": "/'frenzid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狂熱的, 狂亂的, 激怒的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 frenzied｜過去分詞 frenzied"
+ },
+ "frenziedly": {
+  "ph": "/'frenzidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "極其激動地；狂亂地",
+    "def": ""
+   }
+  ]
+ },
+ "frenzy": {
+  "ph": "/'frenzi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘋狂, 狂暴, 狂怒",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 暴怒, 狂亂",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 frenzied｜複數 frenzies｜過去分詞 frenzied"
+ },
+ "frequency": {
+  "ph": "/'fri:kwәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頻率, 頻數",
+    "def": "the number of occurrences within a given time period"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 頻率",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frequencies"
+ },
+ "frequent": {
+  "ph": "/'fri:kwәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "時常發生的, 頻繁的, 快速的",
+    "def": "coming at short intervals or habitually"
+   },
+   {
+    "pos": "vt.",
+    "zh": "時常來訪, 常常聚集, 常與...交往",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frequented｜過去式 frequented｜現在分詞 frequenting｜第三人稱單數 frequents"
+ },
+ "frequently": {
+  "ph": "/'fri:kwәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "頻繁, 經常地",
+    "def": ""
+   }
+  ]
+ },
+ "frere": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兄弟；團友；修道士",
+    "def": "A friar."
+   },
+   {
+    "pos": "n.",
+    "zh": "(Frere)人名；(英)弗里爾；(西)弗雷雷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freres"
+ },
+ "fresco": {
+  "ph": "/'freskәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溼壁畫, 溼壁畫技法",
+    "def": "a mural done with watercolors on wet plaster"
+   },
+   {
+    "pos": "vt.",
+    "zh": "作溼壁畫於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frescoes"
+ },
+ "frescoed": {
+  "ph": "/'freskəʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壁畫",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Fresco)人名；(英、意、西、葡)弗雷斯科",
+    "def": ""
+   }
+  ]
+ },
+ "fresh": {
+  "ph": "/freʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "新鮮的, 新奇的, 另外的, 淡的, 精神飽滿的, 冒失的",
+    "def": "recently made, produced, or harvested"
+   },
+   {
+    "pos": "adv.",
+    "zh": "最新地, 剛剛",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "開始, 氾濫",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 fresher｜最高級 freshest"
+ },
+ "fresh air": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "新鮮空氣",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 新鮮空氣",
+    "def": ""
+   }
+  ]
+ },
+ "freshen": {
+  "ph": "/'freʃn/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)顯得新鮮, (使)精神飽滿, (使)減少鹹味",
+    "def": "become or make oneself fresh again"
+   }
+  ],
+  "forms": "過去式 freshened｜現在分詞 freshening｜過去分詞 freshened｜第三人稱單數 freshens"
+ },
+ "freshener": {
+  "ph": "/'freʃәnә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清涼劑",
+    "def": "anything that freshens"
+   }
+  ],
+  "forms": "複數 fresheners"
+ },
+ "freshening": {
+  "ph": "/f'reʃnɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "梳洗打扮( freshen的現在分詞 ); 使某物新鮮; （使）潔淨; 使清爽或鮮亮",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 freshening"
+ },
+ "fresher": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大學一年級生",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freshers"
+ },
+ "freshet": {
+  "ph": "/'freʃit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流入海中的淡水流, 洪水, 氾濫, 河水暴漲",
+    "def": "the occurrence of a water flow resulting from sudden rain or melting snow"
+   }
+  ]
+ },
+ "freshly": {
+  "ph": "/'freʃli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "新, 新近, 精神飽滿",
+    "def": ""
+   }
+  ]
+ },
+ "freshman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新手, 生手, 大學一年級學生, (美)中學一年級學生",
+    "def": "a first-year undergraduate"
+   }
+  ],
+  "forms": "複數 freshmen"
+ },
+ "freshness": {
+  "ph": "/'freʃnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新, 新鮮, 精神飽滿",
+    "def": "the property of being pure and fresh (as if newly made); not stale or deteriorated"
+   }
+  ]
+ },
+ "freshwater": {
+  "ph": "/'freʃwɔ:tә(r)/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "江河湖泊的, 淡水的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 freshwaters"
+ },
+ "fret": {
+  "ph": "/fret/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煩躁, 磨損, 焦急, 網狀飾物",
+    "def": "agitation resulting from active worry"
+   },
+   {
+    "pos": "vi.",
+    "zh": "煩惱, 不滿, 磨損",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使煩惱, 腐蝕, 使磨損, 使起波紋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frets｜過去式 fretted｜現在分詞 fretting｜第三人稱單數 frets｜過去分詞 fretted"
+ },
+ "fretboard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "指板",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fretboards"
+ },
+ "fretful": {
+  "ph": "/'fretful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "煩燥的, 焦噪的, 起波紋的",
+    "def": ""
+   }
+  ]
+ },
+ "fretfully": {
+  "ph": "/'fretflɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "煩躁不安地; 焦躁地, 焦急地",
+    "def": ""
+   }
+  ]
+ },
+ "fretted": {
+  "ph": "/'fretid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "焦躁的, 腐蝕的",
+    "def": "having frets"
+   }
+  ],
+  "forms": "過去式 fretted"
+ },
+ "fretting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 磨損, 侵蝕",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fretting"
+ },
+ "fretwork": {
+  "ph": "/'fretwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "回紋裝飾, 浮凸雕工",
+    "def": ""
+   }
+  ]
+ },
+ "freud": {
+  "ph": "/frɔid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佛洛伊德（856-1939, 奧地利心理分析學家及精神病學家）",
+    "def": "Austrian neurologist who originated psychoanalysis (1856-1939)"
+   }
+  ]
+ },
+ "freudian": {
+  "ph": "/'frɒidiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "弗洛伊德的, 弗洛伊德學說的",
+    "def": "of or relating to Sigmund Freud or his psychoanalytic ideas"
+   },
+   {
+    "pos": "n.",
+    "zh": "相信弗洛伊德學說的人",
+    "def": "a person who follows the basic theories or practices of Sigmund Freud"
+   }
+  ],
+  "forms": "複數 freudians"
+ },
+ "freudianism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佛洛伊德學說, 弗洛伊主義",
+    "def": ""
+   }
+  ]
+ },
+ "frey": {
+  "ph": "/frei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗雷(興旺、愛情、和平之神)",
+    "def": "(Norse mythology) god of earth's fertility and peace and prosperity; son of Njorth and brother of Freya; originally of the Vanir; later with the Aesir"
+   }
+  ]
+ },
+ "frg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "懸浮角速度陀螺儀（Floated Rate Gyro）",
+    "def": ""
+   }
+  ]
+ },
+ "fri": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "最終成品抽驗（Final Random Inspection）",
+    "def": ""
+   }
+  ]
+ },
+ "friable": {
+  "ph": "/'fraiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易碎的, 易成粉末的, 脆弱的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 易碎的, 脆的",
+    "def": ""
+   }
+  ]
+ },
+ "friar": {
+  "ph": "/'fraiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修道士",
+    "def": "a male member of a religious order that originally relied solely on alms"
+   }
+  ],
+  "forms": "複數 friars"
+ },
+ "friary": {
+  "ph": "/'fraiәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男修道院, 寺院",
+    "def": "a monastery of friars"
+   }
+  ],
+  "forms": "複數 friaries"
+ },
+ "fribourg": {
+  "ph": "/fri:'bu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗裡堡（瑞士西部一都市）",
+    "def": ""
+   }
+  ]
+ },
+ "fricassee": {
+  "ph": "/.frikә'si:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "原汁燉雞雞塊(或肉塊)",
+    "def": "pieces of chicken or other meat stewed in gravy with e.g. carrots and onions and served with noodles or dumplings"
+   },
+   {
+    "pos": "vi.",
+    "zh": "燉肉塊(或雞塊)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fricassees｜現在分詞 fricasseeing｜過去式 fricasseed｜第三人稱單數 fricassees｜過去分詞 fricasseed"
+ },
+ "fricative": {
+  "ph": "/'frikәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "由摩擦產生的, 摩擦音的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "摩擦音",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fricatives"
+ },
+ "frick": {
+  "ph": "/frik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗裡克（男子名）",
+    "def": "United States industrialist who amassed a fortune in the steel industry (1849-1919)"
+   }
+  ]
+ },
+ "friction": {
+  "ph": "/'frikʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摩擦, 摩擦治療, 不和",
+    "def": "the resistance encountered when one body is moved in contact with another"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 摩擦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frictions｜過去式 frictioned"
+ },
+ "frictional": {
+  "ph": "/'frikʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "摩擦的, 由摩擦而生的",
+    "def": "pertaining to or worked or produced by friction"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 磨擦力, 磨擦上的",
+    "def": ""
+   }
+  ]
+ },
+ "frictionless": {
+  "ph": "/f'rɪkʃnles/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "無摩擦的",
+    "def": ""
+   }
+  ]
+ },
+ "frida": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗裡達（電影名、女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "friday": {
+  "ph": "/'fraidi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星期五",
+    "def": "the sixth day of the week; the fifth working day"
+   }
+  ],
+  "forms": "複數 fridays"
+ },
+ "fridge": {
+  "ph": "/fridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電冰箱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fridges"
+ },
+ "fried": {
+  "ph": "/fraid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "油炸的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fried｜過去式 fried"
+ },
+ "frieda": {
+  "ph": "/'fri:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗裡達(亦作Freda)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "friedan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗裡丹（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "friedlander": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Friedlander)人名；(英、以)弗裡德蘭德",
+    "def": ""
+   }
+  ]
+ },
+ "friedman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗裡德曼（男子名）",
+    "def": "United States economist noted as a proponent of monetarism and for his opposition to government intervention in the economy (born in 1912)"
+   }
+  ]
+ },
+ "friedrich": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗里德里希（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "friel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Friel)人名；(德、英)弗里爾",
+    "def": ""
+   }
+  ]
+ },
+ "friend": {
+  "ph": "/frend/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朋友, 支持者, 贊助者",
+    "def": "a person you know well and regard with affection and trust"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 朋友, 友人, 贊助者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 friends"
+ },
+ "friendless": {
+  "ph": "/'frendlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有朋友的, 無依無靠的",
+    "def": ""
+   }
+  ]
+ },
+ "friendliness": {
+  "ph": "/'frendlinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "友誼, 親切, 親密",
+    "def": "a feeling of liking for another person; enjoyment in their company"
+   }
+  ]
+ },
+ "friendly": {
+  "ph": "/'frendli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "友好的, 親切的, 互助的",
+    "def": "characteristic of or befitting a friend"
+   },
+   {
+    "pos": "adv.",
+    "zh": "友善地, 溫和地",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 friendlier｜複數 friendlies｜最高級 friendliest"
+ },
+ "friendship": {
+  "ph": "/'frendʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "友誼, 友愛, 友善",
+    "def": "the state of being friends (or friendly)"
+   }
+  ],
+  "forms": "複數 friendships"
+ },
+ "friesian": {
+  "ph": "/'fri:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（荷蘭種）弗里斯蘭奶牛, 黑白花奶牛",
+    "def": "a breed of dairy cattle from northern Holland"
+   }
+  ],
+  "forms": "複數 friesians"
+ },
+ "frieze": {
+  "ph": "/fri:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飾帶, 帶狀物, 起絨粗呢",
+    "def": "an architectural ornament consisting of a horizontal sculptured band between the architrave and the cornice"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使起絨毛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 friezes"
+ },
+ "frigate": {
+  "ph": "/'frigit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝有大炮的快速帆船, 護衛艦",
+    "def": "a medium size square-rigged warship of the 18th and 19th centuries"
+   }
+  ],
+  "forms": "複數 frigates｜第三人稱單數 frigates"
+ },
+ "frigging": {
+  "ph": "/'frigiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受詛咒的, 可恨的, 要命的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 frigging"
+ },
+ "fright": {
+  "ph": "/frait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驚駭, 吃驚",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 驚嚇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frights｜過去式 frighted"
+ },
+ "frighten": {
+  "ph": "/'fraitn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使驚嚇",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "驚恐",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frightened｜過去式 frightened｜第三人稱單數 frightens｜現在分詞 frightening"
+ },
+ "frightened": {
+  "ph": "/'frait(ә)nd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受驚嚇的, 受驚的, (非正式)害怕...的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frightened｜過去式 frightened"
+ },
+ "frightener": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "frighten的變形",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frighteners"
+ },
+ "frightening": {
+  "ph": "/'fraitәniŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人恐懼的；引起突然驚恐的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 frightening"
+ },
+ "frighteningly": {
+  "ph": "/'fraɪtnɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嚇人地; 令人恐懼地, 引起突然驚恐地",
+    "def": ""
+   }
+  ]
+ },
+ "frightful": {
+  "ph": "/'fraitful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可怕的, 驚人的, 醜的, 非常的",
+    "def": ""
+   }
+  ]
+ },
+ "frightfully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可怕地, (非正式)非常地",
+    "def": ""
+   }
+  ]
+ },
+ "frigid": {
+  "ph": "/'frigid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "寒冷的, 嚴寒的, 冷淡的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 寒冷的, 冷淡的, 性感缺失的",
+    "def": ""
+   }
+  ]
+ },
+ "frigidity": {
+  "ph": "/fri'dʒiditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寒冷, 冷淡",
+    "def": "sexual unresponsiveness (especially of women) and inability to achieve orgasm during intercourse"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 寒冷, 冷淡, 性感缺失",
+    "def": ""
+   }
+  ]
+ },
+ "frill": {
+  "ph": "/fril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(衣飾上的)皺邊, 皺邊紙飾",
+    "def": "(paleontology) a bony plate that curves upward behind the skull of many ceratopsian dinosaurs"
+   },
+   {
+    "pos": "vi.",
+    "zh": "起邊皺",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "折成皺邊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frills｜現在分詞 frilling"
+ },
+ "frilled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有飾邊的",
+    "def": ""
+   }
+  ]
+ },
+ "frilly": {
+  "ph": "/'frili/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有飾邊的, 多飾邊的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frillies｜第三人稱單數 frillies｜比較級 frillier"
+ },
+ "fringe": {
+  "ph": "/frindʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊緣, 端, 流蘇, 穗, 初步",
+    "def": "one of the light or dark bands produced by the interference and diffraction of light"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加穗於, 加飾邊於",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "邊緣的, 附加的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fringes｜過去分詞 fringed｜現在分詞 fringing｜過去式 fringed｜第三人稱單數 fringes"
+ },
+ "fringed": {
+  "ph": "/frindʒd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "具流蘇的, 具的（等於fringy）；加穗的；帶邊飾的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fringed｜過去式 fringed"
+ },
+ "fringy": {
+  "ph": "/'frindʒi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穗狀的, 有緣飾的",
+    "def": ""
+   }
+  ]
+ },
+ "frippery": {
+  "ph": "/'fripәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "便宜而俗豔的服裝, 無用的東西",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fripperies"
+ },
+ "frisbee": {
+  "ph": "/'frizbi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛蝶",
+    "def": "a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition"
+   }
+  ],
+  "forms": "複數 frisbees｜現在分詞 frisbeeing"
+ },
+ "frisch": {
+  "ph": "/friʃ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗裡希(①姓氏 ②Karl von, 1886-1982, 奧地利動物學家, 曾獲1973年諾貝爾生理學-醫學獎)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frisches"
+ },
+ "frisk": {
+  "ph": "/frisk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亂跳, 歡鬧, 活躍",
+    "def": "the act of searching someone for concealed weapons or illegal drugs"
+   },
+   {
+    "pos": "vi.",
+    "zh": "歡躍, 蹦跳",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "輕搖",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 frisking｜過去式 frisked｜過去分詞 frisked｜第三人稱單數 frisks"
+ },
+ "frisket": {
+  "ph": "/'friskit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夾紙框, 固定架",
+    "def": ""
+   }
+  ]
+ },
+ "frisky": {
+  "ph": "/'friski/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亂跳的, 歡鬧的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 friskier"
+ },
+ "frisson": {
+  "ph": "/fri'sɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<法>(因激動,恐懼等產生的)顫抖",
+    "def": "an almost pleasurable sensation of fright"
+   }
+  ],
+  "forms": "複數 frissons"
+ },
+ "frith": {
+  "ph": "/friθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(狹窄的)海灣, 河口",
+    "def": "A narrow arm of the sea; an estuary; the opening of a river"
+   }
+  ]
+ },
+ "frittata": {
+  "ph": "/fri'tɑ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菜肉餡煎蛋餅",
+    "def": "Italian omelet with diced vegetables and meats; cooked until bottom is set then inverted into another pan to cook the top"
+   }
+  ]
+ },
+ "fritter": {
+  "ph": "/'fritә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "浪費, 細切, 剁碎",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "細片, 屑",
+    "def": "small quantity of fried batter containing fruit or meat or vegetables"
+   }
+  ],
+  "forms": "複數 fritters｜過去分詞 frittered｜現在分詞 frittering｜過去式 frittered｜第三人稱單數 fritters"
+ },
+ "fritz": {
+  "ph": "/frits/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德國兵, 德國人",
+    "def": ""
+   }
+  ]
+ },
+ "frivolity": {
+  "ph": "/fri'vɒliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕薄, 輕率, 不足取的事",
+    "def": "the trait of being frivolous; not serious or sensible"
+   }
+  ],
+  "forms": "複數 frivolities"
+ },
+ "frivolous": {
+  "ph": "/'frivәlәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "輕佻的, 妄動的, 瑣碎的",
+    "def": "not serious in content or attitude or behavior"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 輕薄的, 輕浮的, 無意義的",
+    "def": ""
+   }
+  ]
+ },
+ "frivolously": {
+  "ph": "/'frɪvələslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "輕浮地, 愚昧地",
+    "def": ""
+   }
+  ]
+ },
+ "frizz": {
+  "ph": "/friz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拳發, 拳曲",
+    "def": "the condition of being formed into small tight curls"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)拳曲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 frizzing｜過去式 frizzed｜第三人稱單數 frizzes｜過去分詞 frizzed"
+ },
+ "frizzell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Frizzell)人名；(瑞典)弗裡塞爾；(英)弗裡澤爾",
+    "def": ""
+   }
+  ]
+ },
+ "frizzy": {
+  "ph": "/'frizi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "捲曲的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frizzies"
+ },
+ "fro": {
+  "ph": "/frәu/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向那邊, 向後",
+    "def": "From; away; back or backward; -- now used only in opposition"
+   }
+  ],
+  "forms": "現在分詞 froing｜複數 fros"
+ },
+ "frock": {
+  "ph": "/frɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女禮服, 連衣裙, 工裝, 罩袍, 僧衣",
+    "def": "a habit worn by clerics"
+   }
+  ],
+  "forms": "複數 frocks｜第三人稱單數 frocks｜過去式 frocked｜現在分詞 frocking｜過去分詞 frocked"
+ },
+ "frodo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名]弗羅多",
+    "def": ""
+   }
+  ]
+ },
+ "froebel": {
+  "ph": "/'frә:bәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "福祿培爾(Friedrich, 1782-1852, 德國教育家、幼兒園創辦人)",
+    "def": ""
+   }
+  ]
+ },
+ "frog": {
+  "ph": "/frɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "青蛙",
+    "def": "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蛙, 馬蹄叉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frogs｜過去分詞 frogged｜過去式 frogged｜現在分詞 frogging｜第三人稱單數 frogs"
+ },
+ "froggy": {
+  "ph": "/'frɒgi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多蛙的, 法國的",
+    "def": "Abounding in frogs."
+   },
+   {
+    "pos": "n.",
+    "zh": "法國人",
+    "def": ""
+   }
+  ]
+ },
+ "frogman": {
+  "ph": "/'frɒgmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛙人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frogmen"
+ },
+ "frogmarch": {
+  "ph": "/ˈfrɒgmɑ:tʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "迫使人舉起雙手放腦後前進",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 frogmarched｜過去分詞 frogmarched｜現在分詞 frogmarching｜第三人稱單數 frogmarches"
+ },
+ "frolic": {
+  "ph": "/'frɒlik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嬉戲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "嬉戲",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "嬉戲的, 歡樂的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frolics｜現在分詞 frolicking｜過去式 frolicked｜第三人稱單數 frolics｜過去分詞 frolicked"
+ },
+ "frolick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "嬉戲, 玩耍",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 frolicking｜過去式 frolicked｜過去分詞 frolicked｜複數 frolicks"
+ },
+ "frolicsome": {
+  "ph": "/'frɒliksәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嬉戲的, 愛鬧著玩的",
+    "def": ""
+   }
+  ]
+ },
+ "from": {
+  "ph": "/frɒm/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "從, 來自, 根據",
+    "def": "Out of the neighborhood of; lessening or losing proximity"
+   }
+  ]
+ },
+ "frome": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弗羅姆（姓氏, 英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "fromm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弗羅姆（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "frond": {
+  "ph": "/'frɒnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葉, 植物體",
+    "def": "compound leaf of a fern or palm or cycad"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 葉(指蕨類、棕櫚類、蘇鐵類)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fronds｜過去式 fronded"
+ },
+ "front": {
+  "ph": "/frʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前面, 開頭, 前線, 陣線, 態度",
+    "def": "the side that is forward or prominent"
+   },
+   {
+    "pos": "vt.",
+    "zh": "面對, 朝向, 對抗",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "朝向",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fronts｜現在分詞 fronting｜過去分詞 fronted｜過去式 fronted｜第三人稱單數 fronts"
+ },
+ "front line": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "前線, 第一線",
+    "def": ""
+   }
+  ]
+ },
+ "front page": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "標題版, 頭版",
+    "def": ""
+   }
+  ]
+ },
+ "front-runner": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(賽跑中)領先的人, 競爭領先著",
+    "def": "a competitor thought likely to win"
+   }
+  ],
+  "forms": "複數 front-runners"
+ },
+ "frontage": {
+  "ph": "/'frʌntidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "房子的正面, 前方, 臨街地",
+    "def": "the extent of land abutting on a street or water"
+   }
+  ],
+  "forms": "複數 frontages"
+ },
+ "frontal": {
+  "ph": "/'frʌntәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "前面的, 正面的, 額的",
+    "def": "of or relating to the front of an advancing mass of air"
+   },
+   {
+    "pos": "n.",
+    "zh": "額骨, 祭壇(前面的)幃簾, (建築物的)正面",
+    "def": "a drapery that covers the front of an altar"
+   }
+  ],
+  "forms": "複數 frontals"
+ },
+ "frontality": {
+  "ph": "/frʌn'tæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(繪畫及雕塑中對人物、風景等的)正面描繪",
+    "def": ""
+   }
+  ]
+ },
+ "frontally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "前面地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "（前）額地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "坦率地",
+    "def": ""
+   }
+  ]
+ },
+ "frontbencher": {
+  "ph": "/ˌfrʌntˈbentʃə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（英國議會中的）前座議員（政府大臣或反對黨領袖）",
+    "def": "a member of the House of Commons who is a minister in the government or who holds an official position in an opposition party"
+   }
+  ],
+  "forms": "複數 frontbenchers"
+ },
+ "frontcourt": {
+  "ph": "/'frʌnt'kɔ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[籃]前場",
+    "def": ""
+   }
+  ]
+ },
+ "frontier": {
+  "ph": "/'frʌntjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊界, 邊境",
+    "def": "a wilderness at the edge of a settled area of a country"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 國境, 邊境, 邊界",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frontiers"
+ },
+ "frontiers": {
+  "ph": "/ˈfrʌnˌtiəz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊界( frontier的名詞複數 ); 邊境; 開發地區的邊緣; 尚待開發的領域",
+    "def": ""
+   }
+  ]
+ },
+ "frontiersman": {
+  "ph": "/'frʌn,tiәzmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊疆居民",
+    "def": "a man who lives on the frontier"
+   }
+  ],
+  "forms": "複數 frontiersmen"
+ },
+ "frontispiece": {
+  "ph": "/'frʌntispi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卷頭插畫, 標題頁, 主正面",
+    "def": "an ornamental facade"
+   }
+  ],
+  "forms": "複數 frontispieces"
+ },
+ "frontline": {
+  "ph": "/'frʌntlɑɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前線; [體]鋒線（包括大前鋒, 小前鋒, 中鋒）",
+    "def": ""
+   }
+  ]
+ },
+ "frontman": {
+  "ph": "/ˈfrʌntmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主唱; 出面人物：是名義上的負責人, 但又缺少權威",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frontmen"
+ },
+ "frontrunner": {
+  "ph": "/'aʊt,rʌnɚ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領跑者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frontrunners"
+ },
+ "frontside": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正檢視；進料側",
+    "def": ""
+   }
+  ]
+ },
+ "frosh": {
+  "ph": "/frɒʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大學(或中學)一年級生",
+    "def": ""
+   }
+  ]
+ },
+ "frost": {
+  "ph": "/frɒst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霜, 冰凍, 冷漠",
+    "def": "ice crystals forming a white deposit (especially on objects outside)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "覆著霜, 凍結, 結霜",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "受凍, 起霜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frosts｜現在分詞 frosting｜過去分詞 frosted｜過去式 frosted｜第三人稱單數 frosts"
+ },
+ "frostbite": {
+  "ph": "/'frɒstbait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凍傷, 凍瘡",
+    "def": "destruction of tissue by freezing and characterized by tingling, blistering and possibly gangrene"
+   },
+   {
+    "pos": "vt.",
+    "zh": "被霜傷害, 使凍傷",
+    "def": ""
+   }
+  ]
+ },
+ "frostbitten": {
+  "ph": "/'frɒstbitn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受霜害的, 生凍瘡的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frostbitten"
+ },
+ "frosted": {
+  "ph": "/'frɔstid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "結霜的, 凍傷的, 無光澤的, 磨砂的, 因年老而變白的, 冷淡的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frosted｜過去式 frosted"
+ },
+ "frostily": {
+  "ph": "/'frɒstɪlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "寒冷地, 冷漠地; 冷峻地",
+    "def": ""
+   }
+  ]
+ },
+ "frosting": {
+  "ph": "/'frɒstiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霜狀白糖, 無光澤面, 裝飾玻璃粉",
+    "def": "a flavored sugar topping used to coat and decorate cakes"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 起霜(塑膠製品表面缺陷); 毛面蝕刻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frostings｜現在分詞 frosting"
+ },
+ "frosty": {
+  "ph": "/'frɒsti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "霜凍的, 嚴寒的, 冷淡的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frosties｜比較級 frostier｜最高級 frostiest"
+ },
+ "froth": {
+  "ph": "/frɒθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泡, 泡沫, 瑣物",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使生泡沫",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發泡, 吹泡",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 frothing｜過去式 frothed｜複數 froths｜過去分詞 frothed｜第三人稱單數 froths"
+ },
+ "frothing": {
+  "ph": "/'frɔθiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 起泡",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 起沫, 起泡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frothings｜現在分詞 frothing"
+ },
+ "frothy": {
+  "ph": "/'frɒθi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有泡的, 起泡的, 多泡的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 frothiest｜比較級 frothier"
+ },
+ "froufrou": {
+  "ph": "/'fru:fru:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙沙聲",
+    "def": ""
+   }
+  ]
+ },
+ "frown": {
+  "ph": "/fraun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "皺眉",
+    "def": "a facial expression of dislike or displeasure"
+   },
+   {
+    "pos": "vi.",
+    "zh": "皺眉頭",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "皺眉表示",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 frowned｜現在分詞 frowning｜過去分詞 frowned｜第三人稱單數 frowns｜複數 frowns"
+ },
+ "frowning": {
+  "ph": "/fraunɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "皺眉( frown的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 frowning"
+ },
+ "frowsy": {
+  "ph": "/'frauzi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "黴臭的；難聞的；不整潔的（等於frowzy）",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 frowsiest"
+ },
+ "frowzy": {
+  "ph": "/'frauzi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不整潔的, 有臭味的, 很悶的",
+    "def": ""
+   }
+  ]
+ },
+ "frozen": {
+  "ph": "/'frәuzn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "凍結的, 冰冷的, 嚴寒的, 凍傷的, 冷酷的",
+    "def": "turned into ice; affected by freezing or by long and severe cold"
+   },
+   {
+    "pos": "",
+    "zh": "freeze的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frozen"
+ },
+ "frs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(英國)皇家學會會員",
+    "def": ""
+   }
+  ]
+ },
+ "fru": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fru)人名；(挪)弗魯",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "現場可替換裝置（Field Replaceable Unit）",
+    "def": ""
+   }
+  ]
+ },
+ "fructify": {
+  "ph": "/'frʌktifai/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "結果實",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使結果實, 使肥沃",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fructified｜現在分詞 fructifying｜第三人稱單數 fructifies｜過去分詞 fructified"
+ },
+ "fructose": {
+  "ph": "/'frʌktәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "果糖",
+    "def": "a simple sugar found in honey and in many ripe fruits"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 果糖; 左旋糖",
+    "def": ""
+   }
+  ]
+ },
+ "frugal": {
+  "ph": "/'fru:gәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "節儉的, 樸素的",
+    "def": ""
+   }
+  ]
+ },
+ "frugality": {
+  "ph": "/fru:'gæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節儉, 儉省",
+    "def": "prudence in avoiding waste"
+   }
+  ]
+ },
+ "frugally": {
+  "ph": "/frʊ'ɡəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "節約地, 儉樸地",
+    "def": ""
+   }
+  ]
+ },
+ "fruit": {
+  "ph": "/fru:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水果, 果類, 結果",
+    "def": "the ripened reproductive body of a seed plant"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 果實, 種實",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fruits｜現在分詞 fruiting｜過去式 fruited｜第三人稱單數 fruits｜過去分詞 fruited"
+ },
+ "fruitcake": {
+  "ph": "/'fru:tkeik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摻有乾果的糕餅",
+    "def": "a rich cake containing dried fruit and nuts and citrus peel and so on"
+   }
+  ],
+  "forms": "複數 fruitcakes"
+ },
+ "fruited": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "結有果實的, 加水果(調味)的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fruited"
+ },
+ "fruiterer": {
+  "ph": "/'fru:tәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水果商, 運水果船",
+    "def": "a person who sells fruit"
+   }
+  ],
+  "forms": "複數 fruiterers"
+ },
+ "fruitful": {
+  "ph": "/'fru:tful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "結果實的, 多實的, 產量多的",
+    "def": "productive or conducive to producing in abundance"
+   }
+  ]
+ },
+ "fruitfully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "產量多地；肥沃地",
+    "def": ""
+   }
+  ]
+ },
+ "fruitfulness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豐收, 豐碩；多實, 肥沃",
+    "def": "the quality of something that causes or assists healthy growth"
+   }
+  ]
+ },
+ "fruitiness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "果味濃郁",
+    "def": ""
+   }
+  ]
+ },
+ "fruiting": {
+  "ph": "/f'ru:tɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]結果的, 具子實體的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fruiting"
+ },
+ "fruition": {
+  "ph": "/fru:'iʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成就, 實現, 結果實",
+    "def": "the condition of bearing fruit"
+   }
+  ]
+ },
+ "fruitless": {
+  "ph": "/'fru:tlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不結果的, 不長果實的, 無子的",
+    "def": ""
+   }
+  ]
+ },
+ "fruitlessly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不結果實的, 徒勞的, 無益的, 無效的, 無結果的",
+    "def": ""
+   }
+  ]
+ },
+ "fruity": {
+  "ph": "/'fru:ti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "水果的, 有果味的, 有(低階)趣味的, 圓潤的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 fruitier｜最高級 fruitiest"
+ },
+ "frump": {
+  "ph": "/frʌmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邋遢女人, 守舊者",
+    "def": "a dull unattractive unpleasant girl or woman"
+   }
+  ]
+ },
+ "frumpy": {
+  "ph": "/'frʌmpi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "心地不良的, 不見世面的",
+    "def": ""
+   }
+  ]
+ },
+ "frustrate": {
+  "ph": "/'frʌstreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "挫敗, 擊敗, 破壞",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "無益的, 挫敗的, 挫折的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frustrated｜過去式 frustrated｜第三人稱單數 frustrates｜現在分詞 frustrating"
+ },
+ "frustrated": {
+  "ph": "/frʌ'streitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "失意的, 挫敗的；洩氣的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 frustrated｜過去式 frustrated"
+ },
+ "frustratedly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "失意地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "挫敗地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "洩氣地",
+    "def": ""
+   }
+  ]
+ },
+ "frustrating": {
+  "ph": "/frʌ'streitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人沮喪的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 frustrating"
+ },
+ "frustratingly": {
+  "ph": "/'frʌstreitiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人洩氣地；使人沮喪地（frustrate的副詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "frustration": {
+  "ph": "/frʌs'treiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "挫折, 頓挫",
+    "def": "the feeling that accompanies an experience of being thwarted in attaining your goals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 挫折",
+    "def": ""
+   }
+  ],
+  "forms": "複數 frustrations"
+ },
+ "fry": {
+  "ph": "/frai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油炸食物, 魚苗",
+    "def": "English painter and art critic (1866-1934)"
+   },
+   {
+    "pos": "v.",
+    "zh": "油炸, 煎",
+    "def": "be excessively hot"
+   }
+  ],
+  "forms": "複數 fries｜現在分詞 frying｜過去分詞 fried｜過去式 fried｜第三人稱單數 fries"
+ },
+ "frye": {
+  "ph": "/frai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "boot（高到小腿肚的）弗賴伊皮靴",
+    "def": "Canadian literary critic interested in the use of myth and symbolism (1912-1991)"
+   }
+  ],
+  "forms": "複數 fryes"
+ },
+ "fryer": {
+  "ph": "/fraiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "做油煎食物的人, 可供油炸的食品, 油炸鍋",
+    "def": "flesh of a medium-sized young chicken suitable for frying"
+   }
+  ],
+  "forms": "複數 fryers"
+ },
+ "frying": {
+  "ph": "/'fraɪɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "油炸, 油煎( fry的現在分詞 ); 皮膚曬黑; 煎炸; 油發",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 frying"
+ },
+ "frying pan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "煎鍋, 長柄平底鍋",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,1308 @@
+{
+ "ev": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 電子伏特",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evs"
+ },
+ "eva": {
+  "ph": "/'i:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊娃（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "evacuate": {
+  "ph": "/i'vækjueit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "疏散, 撤出, 排洩",
+    "def": "move out of an unsafe location into safety"
+   }
+  ],
+  "forms": "過去分詞 evacuated｜現在分詞 evacuating｜過去式 evacuated｜第三人稱單數 evacuates"
+ },
+ "evacuated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "疏散；排空的, 撤退者的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 evacuated｜過去分詞 evacuated"
+ },
+ "evacuation": {
+  "ph": "/i.vækju'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撤退, 疏散",
+    "def": "the act of evacuating; leaving a place in an orderly fashion; especially for protection"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 抽空; 排空",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evacuations"
+ },
+ "evacuee": {
+  "ph": "/i.vækju'i:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被撤離者, 被疏散者",
+    "def": "a person who has been evacuated from a dangerous place"
+   }
+  ],
+  "forms": "複數 evacuees"
+ },
+ "evade": {
+  "ph": "/i'veid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(巧妙地)逃脫, 規避, 逃避",
+    "def": "practice evasion"
+   }
+  ],
+  "forms": "現在分詞 evading｜過去分詞 evaded｜過去式 evaded｜第三人稱單數 evades"
+ },
+ "evader": {
+  "ph": "/i'veidә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逃避者,逃避物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evaders"
+ },
+ "evaluable": {
+  "ph": "/i'væljjәbl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可估價的",
+    "def": ""
+   }
+  ]
+ },
+ "evaluate": {
+  "ph": "/i'væljueit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "評估, 評價, 賦值",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 evaluated｜現在分詞 evaluating｜過去式 evaluated｜第三人稱單數 evaluates"
+ },
+ "evaluating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "評估（evaluate的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 evaluating"
+ },
+ "evaluation": {
+  "ph": "/i.vælju'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "評估, 估價, 求值",
+    "def": "act of ascertaining or fixing the value or worth of"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 鑑定; 評價; 求值",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evaluations"
+ },
+ "evaluative": {
+  "ph": "/i'væljueitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可估價的",
+    "def": ""
+   }
+  ]
+ },
+ "evaluator": {
+  "ph": "/i'væljjeitә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 計算多項式, 求值子, 鑑別程式, 鑑別器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evaluators"
+ },
+ "evan": {
+  "ph": "/'evən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃文（男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evans"
+ },
+ "evander": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Evander)人名；(英、芬)伊萬德",
+    "def": ""
+   }
+  ]
+ },
+ "evanescence": {
+  "ph": "/.i:vә'nesns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逐漸消失, 消失性",
+    "def": "the event of fading and gradually vanishing from sight"
+   }
+  ]
+ },
+ "evanescent": {
+  "ph": "/.i:vә'nesnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "逐漸消失的, 容易消散的, 短暫的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 易消滅的, 漸消失的, 揮發性的",
+    "def": ""
+   }
+  ]
+ },
+ "evangelical": {
+  "ph": "/,i:væn'dʒelikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "福音派教會的",
+    "def": "relating to or being a Christian church believing in personal conversion and the inerrancy of the Bible especially the 4 Gospels"
+   },
+   {
+    "pos": "n.",
+    "zh": "福音派信徒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evangelicals"
+ },
+ "evangelicalism": {
+  "ph": "/,i:væn'dʒelikәlizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福音派的教義, 福音主義",
+    "def": "stresses the importance of personal conversion and faith as the means of salvation"
+   }
+  ]
+ },
+ "evangelisation": {
+  "ph": "/i,vændʒə-lai'zeiʃən; -li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "evangelise的變形",
+    "def": ""
+   }
+  ]
+ },
+ "evangelise": {
+  "ph": "/i'vændʒәlaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "<主英>=evangelize",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 evangelising｜過去分詞 evangelised｜過去式 evangelised"
+ },
+ "evangelising": {
+  "ph": "/i'vændʒəlaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "傳教；宣講福音（等於evangelize）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 evangelising"
+ },
+ "evangelism": {
+  "ph": "/i'vændʒәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福音傳道, 福音傳道者的工作, 福音主義",
+    "def": "zealous preaching and advocacy of the gospel"
+   }
+  ]
+ },
+ "evangelist": {
+  "ph": "/i'vændʒilist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福音傳道者, 聖經新約福音書的作者",
+    "def": "a preacher of the Christian gospel"
+   }
+  ],
+  "forms": "複數 evangelists"
+ },
+ "evangelista": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Evangelista)人名；(英、意)埃萬傑利斯塔；(葡)埃萬熱利斯塔",
+    "def": ""
+   }
+  ]
+ },
+ "evangelistic": {
+  "ph": "/i.vændʒә'listik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "福音書作者的, 福音傳道者的",
+    "def": "relating to or promoting the preaching and dissemination of the Christian gospel"
+   }
+  ]
+ },
+ "evangelization": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福音傳道, 基督教化",
+    "def": "The act of evangelizing; the state of being"
+   }
+  ]
+ },
+ "evangelize": {
+  "ph": "/i'vændʒәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "傳福音, 使信基督教",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "傳福音, 傳道",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 evangelizing｜過去分詞 evangelized｜過去式 evangelized｜第三人稱單數 evangelizes"
+ },
+ "evangelizing": {
+  "ph": "/iˈvændʒilaizɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "傳福音, 使信基督教( evangelize的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "evans": {
+  "ph": "/'evәnz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃文斯（姓氏）",
+    "def": "United States anatomist who identified four pituitary hormones and discovered vitamin E (1882-1971)"
+   }
+  ]
+ },
+ "evaporate": {
+  "ph": "/i'væpәreit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "蒸發, 失去水分, 消失",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使蒸發, 使脫水, 使消失",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 evaporated｜第三人稱單數 evaporates｜過去式 evaporated｜現在分詞 evaporating｜複數 evaporates"
+ },
+ "evaporated": {
+  "ph": "/i'væpәreitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "濃縮的, 蒸發乾燥的, 脫水的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 evaporated｜過去式 evaporated"
+ },
+ "evaporation": {
+  "ph": "/i.væpә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒸發, 脫水, 消失",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 蒸發",
+    "def": ""
+   }
+  ]
+ },
+ "evaporative": {
+  "ph": "/i'væpәrәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蒸發的",
+    "def": "relating to or causing or being caused by evaporation"
+   }
+  ]
+ },
+ "evaporator": {
+  "ph": "/i'væpәreitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒸發器",
+    "def": "An apparatus for condensing vegetable juices, or for"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 蒸發器; 蒸發裝置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evaporators"
+ },
+ "evapotranspiration": {
+  "ph": "/i,væpәu,trænspi'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土壤水分蒸發蒸騰損失總量",
+    "def": ""
+   }
+  ]
+ },
+ "evasion": {
+  "ph": "/i'veiʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逃避, 藉口",
+    "def": "a statement that is not literally false but that cleverly avoids an unpleasant truth"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 迴避, 規避, 逃避",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evasions"
+ },
+ "evasive": {
+  "ph": "/i'veisiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "逃避的, 迴避的, 託辭的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 逃避的, 規避的, 推託的",
+    "def": ""
+   }
+  ]
+ },
+ "evasively": {
+  "ph": "/ɪ'veɪsɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "推託地, 逃避地",
+    "def": ""
+   }
+  ]
+ },
+ "evasiveness": {
+  "ph": "/i'veisivnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逃避, 推諉；模稜兩可",
+    "def": ""
+   }
+  ]
+ },
+ "eve": {
+  "ph": "/i:v/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前夕, 前夜",
+    "def": "(Old Testament) Adam's wife in Judeo-Christian mythology: the first woman and mother of the human race; God created Eve from Adam's rib and placed Adam and Eve "
+   }
+  ],
+  "forms": "複數 eves"
+ },
+ "evelyn": {
+  "ph": "/'i:vlin, 'evlin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊夫林（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "even": {
+  "ph": "/'i:vәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平坦的, 相等的, 連貫的, 均等的, 公平的, 偶數的, 平均的, 平衡的, 恰好的",
+    "def": "divisible by two"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使平坦, 使相等",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變平, 成為相等",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "甚至, 實際上, 完全, 十分",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "偶數, 偶校驗",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 偶數, 偶校驗",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 evening｜過去式 evened｜第三人稱單數 evens｜過去分詞 evened"
+ },
+ "even-tempered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "性情平和的",
+    "def": ""
+   }
+  ]
+ },
+ "evenhanded": {
+  "ph": "/'i:vәn'hændid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "公平的, 公平無私的",
+    "def": ""
+   }
+  ]
+ },
+ "evenhandedly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "evenhanded的變形",
+    "def": ""
+   }
+  ]
+ },
+ "evenhandedness": {
+  "ph": "/'i:vən'hændidnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(對爭論雙方)持平；公正；不偏不倚, 不偏袒",
+    "def": ""
+   }
+  ]
+ },
+ "evening": {
+  "ph": "/'i:vniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傍晚, 晚間, 末期",
+    "def": "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)"
+   }
+  ],
+  "forms": "複數 evenings"
+ },
+ "evenly": {
+  "ph": "/'i:vәnli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "平衡地, 平坦地, 平等地",
+    "def": ""
+   }
+  ]
+ },
+ "evenness": {
+  "ph": "/'i:vәnnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平均, 平坦, 平等",
+    "def": "the parity of even numbers (divisible by two)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 平直度; 均勻性",
+    "def": ""
+   }
+  ]
+ },
+ "evensong": {
+  "ph": "/'i:vәnsɒŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(天主教的)晚禱, (英國國教的)晚禱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evensongs"
+ },
+ "event": {
+  "ph": "/i'vent/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "事件, 結果, 事情的程序, 競賽專案",
+    "def": "something that happens at a given place and time"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 事件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 events"
+ },
+ "eventful": {
+  "ph": "/i'ventful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "變故多的, 多事的, 重要的",
+    "def": "full of events or incidents"
+   }
+  ]
+ },
+ "eventing": {
+  "ph": "/ɪˈventɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綜合全能馬術比賽",
+    "def": ""
+   }
+  ]
+ },
+ "eventual": {
+  "ph": "/i'ventʃuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最後的, 終於的",
+    "def": ""
+   }
+  ]
+ },
+ "eventuality": {
+  "ph": "/i.ventʃu'æliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可能發生的事, 可能性",
+    "def": "a possible event or occurrence or result"
+   }
+  ],
+  "forms": "複數 eventualities"
+ },
+ "eventually": {
+  "ph": "/i'ventʃuәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "最後, 終於",
+    "def": ""
+   }
+  ]
+ },
+ "eventuate": {
+  "ph": "/i'ventʃueit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "結果為, 終於發生",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 eventuated｜複數 eventuates｜現在分詞 eventuating｜第三人稱單數 eventuates｜過去分詞 eventuated"
+ },
+ "ever": {
+  "ph": "/'evә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "曾經, 究竟, 永遠",
+    "def": ""
+   }
+  ]
+ },
+ "ever more": {
+  "ph": "/ˈevə mɔ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "越發地, 越來越",
+    "def": ""
+   }
+  ]
+ },
+ "everard": {
+  "ph": "/'evәrɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃弗拉德(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "everest": {
+  "ph": "/'evәrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "珠穆朗瑪峰, 頂峰",
+    "def": "a mountain in the central Himalayas on the border of Tibet and Nepal; the highest mountain peak in the world (29,028 feet high)"
+   }
+  ]
+ },
+ "everett": {
+  "ph": "/'evәrit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃弗雷特（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "evergreen": {
+  "ph": "/'evәgri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "常綠樹, 常綠植物",
+    "def": "a plant having foliage that persists and remains green throughout the year"
+   },
+   {
+    "pos": "adj.",
+    "zh": "常綠的",
+    "def": "(of plants and shrubs) bearing foliage throughout the year"
+   }
+  ],
+  "forms": "複數 evergreens"
+ },
+ "everitt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Everitt)人名；(英)埃弗裡特",
+    "def": ""
+   }
+  ]
+ },
+ "everlasting": {
+  "ph": "/.evә'læstiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "永恆的, 持久的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "上帝, 神",
+    "def": "any of various plants of various genera of the family Compositae having flowers that can be dried without loss of form or color"
+   }
+  ],
+  "forms": "複數 everlastings"
+ },
+ "everlastingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "永遠地, 持續不盡地, 無窮地",
+    "def": ""
+   }
+  ]
+ },
+ "evermore": {
+  "ph": "/.evә'mɒ:/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "永遠, 經常, 從此以後",
+    "def": ""
+   }
+  ]
+ },
+ "evershed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 埃弗謝德",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 evershed"
+ },
+ "evert": {
+  "ph": "/i(:)'vә:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使外翻, 使翻轉",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外翻",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 everted｜現在分詞 everting｜過去式 everted｜第三人稱單數 everts"
+ },
+ "everton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃弗頓（英國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "every": {
+  "ph": "/'evri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "每一, 所有的",
+    "def": ""
+   }
+  ]
+ },
+ "everybody": {
+  "ph": "/'evribɒdi/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "每個人, 人人",
+    "def": ""
+   }
+  ]
+ },
+ "everyday": {
+  "ph": "/'evri'dei/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "每天的, 日常的, 平常的",
+    "def": ""
+   }
+  ]
+ },
+ "everydayness": {
+  "ph": "/'evri'deinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平淡無奇",
+    "def": ""
+   }
+  ]
+ },
+ "everyman": {
+  "ph": "/'evrimæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普通人, 一般人",
+    "def": "the ordinary person"
+   }
+  ]
+ },
+ "everyone": {
+  "ph": "/'evriwʌn/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "每個人, 人人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 系統中的一個組名",
+    "def": ""
+   }
+  ]
+ },
+ "everything": {
+  "ph": "/'evriθiŋ/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "每件事物, 所有事物",
+    "def": ""
+   }
+  ]
+ },
+ "everytime": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "每次; 每當; 每到",
+    "def": ""
+   }
+  ]
+ },
+ "everywhere": {
+  "ph": "/'evrihwєә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "各處, 到處",
+    "def": ""
+   }
+  ]
+ },
+ "eves": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊夫斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "evesham": {
+  "ph": "/'i:vʃəm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伊夫舍姆(英國赫裡福德和伍斯特郡東南部城鎮)",
+    "def": ""
+   }
+  ]
+ },
+ "evian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法國依雲礦泉水；埃維昂（法國小鎮）",
+    "def": ""
+   }
+  ]
+ },
+ "evict": {
+  "ph": "/i'vikt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "逐出, 趕出, 驅逐",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 逐出, 驅逐, 沒收",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 evicted｜現在分詞 evicting｜過去式 evicted｜第三人稱單數 evicts"
+ },
+ "evicted": {
+  "ph": "/ɪˈvɪktid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（依法從房屋裡或土地上）驅逐, 趕出( evict的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 evicted"
+ },
+ "eviction": {
+  "ph": "/i'vikʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逐出, 趕出",
+    "def": "action by a landlord that compels a tenant to leave the premises (as by rendering the premises unfit for occupancy); no physical expulsion or legal process is i"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 收回財產, 收回租地, 沒收",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evictions"
+ },
+ "evidence": {
+  "ph": "/'evidәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "根據, 證據, 跡象",
+    "def": "your basis for belief or disbelief; knowledge on which to base belief"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 證據, 憑證",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 evidenced｜複數 evidences｜現在分詞 evidencing｜過去式 evidenced｜第三人稱單數 evidences"
+ },
+ "evident": {
+  "ph": "/'evidәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顯然的, 明顯的",
+    "def": ""
+   }
+  ]
+ },
+ "evidential": {
+  "ph": "/.evi'denʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "證據的, 可作證據的, 提供證據的",
+    "def": ""
+   }
+  ]
+ },
+ "evidentiary": {
+  "ph": "/,evi'denʃәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "證據的, 根據證據的",
+    "def": "pertaining to or constituting evidence"
+   }
+  ]
+ },
+ "evidently": {
+  "ph": "/'evidәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "明顯地, 根據現有證據來看",
+    "def": ""
+   }
+  ]
+ },
+ "evil": {
+  "ph": "/'i:vl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邪惡, 不幸, 罪惡",
+    "def": "morally objectionable behavior"
+   },
+   {
+    "pos": "adj.",
+    "zh": "邪惡的, 不幸的, 有害的, 討厭的",
+    "def": "morally bad or wrong"
+   }
+  ],
+  "forms": "複數 evils"
+ },
+ "evilly": {
+  "ph": "/'i:vli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "邪惡地",
+    "def": ""
+   }
+  ]
+ },
+ "evince": {
+  "ph": "/i'vins/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "表明(感情等), 表示出(特性等)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 evinced｜過去式 evinced｜第三人稱單數 evinces｜現在分詞 evincing"
+ },
+ "eviscerate": {
+  "ph": "/i'visәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "取出內臟, 除去精華, 切除(病人)器官",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "(因手術不良)內臟凸出",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 eviscerated｜過去分詞 eviscerated｜現在分詞 eviscerating｜第三人稱單數 eviscerates"
+ },
+ "evisceration": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 去髒術, 臟器除去術",
+    "def": ""
+   }
+  ]
+ },
+ "evita": {
+  "ph": "/e'vi:tɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃維塔(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "evocation": {
+  "ph": "/.evә'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喚出, 招魂, 喚起",
+    "def": "imaginative re-creation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 啟發作用(喚起形態形成的潛勢力)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evocations"
+ },
+ "evocative": {
+  "ph": "/i'vɒkәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喚出...的, 喚起...的",
+    "def": ""
+   }
+  ]
+ },
+ "evocatively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "喚起地（evocative的副詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "evoke": {
+  "ph": "/i'vәuk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "喚起, 引起, 召(魂)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 提審, 移送",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 evokes｜過去分詞 evoked｜過去式 evoked｜現在分詞 evoking"
+ },
+ "evolution": {
+  "ph": "/.i:vә'lu:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "進化, 發展, 進展, (氣體)放出, 開方",
+    "def": "(biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 進化, 演化, 旋出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 evolutions"
+ },
+ "evolutionarily": {
+  "ph": "/,i:və,lu:ʃən'ærili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "演化地, 演進地(evolutionary的變形)",
+    "def": ""
+   }
+  ]
+ },
+ "evolutionary": {
+  "ph": "/,i:vә'lu:ʃәnәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "展開的, 進化論的, 進化的, 發展的",
+    "def": "of or relating to or produced by evolution"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 進化的, 改良的, 發展的",
+    "def": ""
+   }
+  ]
+ },
+ "evolutionism": {
+  "ph": "/.i:vә'lu:ʃәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "進化論",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 進化論",
+    "def": ""
+   }
+  ]
+ },
+ "evolutionist": {
+  "ph": "/.i:vә'lu:ʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "進化論者",
+    "def": "a person who believes in organic evolution"
+   }
+  ],
+  "forms": "複數 evolutionists"
+ },
+ "evolve": {
+  "ph": "/i'vɒlv/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "進展, 進化, 展開",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使發展, 使推斷出, 使進化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 evolved｜過去式 evolved｜現在分詞 evolving｜第三人稱單數 evolves"
+ },
+ "evolved": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "進化了的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 evolved｜過去式 evolved"
+ },
+ "evolving": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "展開的；進化的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 evolving"
+ }
+}

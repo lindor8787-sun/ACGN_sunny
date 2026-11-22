@@ -1,0 +1,154 @@
+{
+ "ah": {
+  "ph": "/ɑ:/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "啊, 哈",
+    "def": "An exclamation, expressive of surprise, pity, complaint,"
+   }
+  ],
+  "forms": "複數 ahs"
+ },
+ "aha": {
+  "ph": "/ɑ:'hɑ:/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "啊哈",
+    "def": "An exclamation expressing, by different intonations,"
+   }
+  ]
+ },
+ "ahead": {
+  "ph": "/ә'hed/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "領先的, 預先的, 向前的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "領先, 預先, 向前, 勝於, 在前面, 在將來",
+    "def": ""
+   }
+  ]
+ },
+ "ahead of": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "在…之前",
+    "def": ""
+   }
+  ]
+ },
+ "ahem": {
+  "ph": "/ә'hem/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "呃哼",
+    "def": ""
+   }
+  ]
+ },
+ "ahh": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "[生化]芳基烴羥化酶（Aryl Hydrocarbon Hydroxylase）",
+    "def": ""
+   }
+  ]
+ },
+ "ahhhh": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "啊（非正式）",
+    "def": ""
+   }
+  ]
+ },
+ "ahi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫][=american health institute]美國衛生學會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ahi"
+ },
+ "ahistorical": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(與)歷史無關的, (無)歷史記載的",
+    "def": "unconcerned with or unrelated to history or to historical development or to tradition"
+   }
+  ]
+ },
+ "ahmad": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿哈默德（穆罕默德在《古蘭經》中的名稱）",
+    "def": ""
+   }
+  ]
+ },
+ "ahmed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾哈邁德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "ahmet": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ahmet)人名；(土、塞、阿爾巴、羅、阿拉伯)艾哈邁德",
+    "def": ""
+   }
+  ]
+ },
+ "ahold": {
+  "ph": "/ә'hәjld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抓, 握",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "迎風航駛",
+    "def": "Near the wind; as, to lay a ship ahold."
+   }
+  ]
+ },
+ "ahoy": {
+  "ph": "/ә'hɒi/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "喂",
+    "def": "A term used in hailing; as, \"Ship ahoy.\""
+   }
+  ]
+ }
+}

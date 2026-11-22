@@ -1,0 +1,3204 @@
+{
+ "ri": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 放射性同位素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ri"
+ },
+ "rialto": {
+  "ph": "/ri'æltәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "市場交易所",
+    "def": ""
+   }
+  ]
+ },
+ "rib": {
+  "ph": "/rib/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肋骨, 肋狀物, 笑話",
+    "def": "support resembling the rib of an animal"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝肋狀物於, 戲弄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ribs｜現在分詞 ribbing｜過去式 ribbed｜第三人稱單數 ribs｜過去分詞 ribbed"
+ },
+ "riba": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）皇家建築師協會（Royal Institute of British Architects）",
+    "def": ""
+   }
+  ]
+ },
+ "ribald": {
+  "ph": "/'ribɒ:ld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "說話猥褻的, 下流的, 粗俗的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "說下流話的人",
+    "def": "a ribald person; someone who uses vulgar and offensive language"
+   }
+  ]
+ },
+ "ribaldry": {
+  "ph": "/'ribәldri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下流, 猥褻的話",
+    "def": "ribald humor"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 下流, 猥褻, 猥褻語言",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ribaldries"
+ },
+ "riband": {
+  "ph": "/'ribәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緞帶, 絲帶",
+    "def": "a ribbon used as a decoration"
+   }
+  ],
+  "forms": "複數 ribands"
+ },
+ "ribavirin": {
+  "ph": "/,raibә'vaiərin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 利巴韋林; 三氮唑核苷",
+    "def": ""
+   }
+  ]
+ },
+ "ribbed": {
+  "ph": "/ribd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有肋骨的, 有稜紋的",
+    "def": "furnished or strengthened with ribs"
+   }
+  ],
+  "forms": "過去分詞 ribbed"
+ },
+ "ribbentrop": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ribbentrop)人名；(德)裡賓特洛甫",
+    "def": ""
+   }
+  ]
+ },
+ "ribber": {
+  "ph": "/'rɪbə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "羅紋機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ribbers"
+ },
+ "ribbing": {
+  "ph": "/'ribiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肋狀組織翅, 肋骨, 田壟, 玩笑",
+    "def": "a framework of ribs"
+   }
+  ],
+  "forms": "現在分詞 ribbing"
+ },
+ "ribble": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "里布林",
+    "def": ""
+   }
+  ]
+ },
+ "ribbon": {
+  "ph": "/'ribәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緞帶, 色帶, 帶狀物",
+    "def": "any long object resembling a thin line"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用絲帶裝飾, 把...撕成條狀",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "形成帶狀",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 帶狀條, 格式欄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ribbons｜現在分詞 ribboning"
+ },
+ "ribboned": {
+  "ph": "/'rɪbən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶；緞帶；（勳章等的）綬帶；帶狀物；勳表",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "形成帶狀",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "把…撕成條帶；用緞帶裝飾",
+    "def": ""
+   }
+  ]
+ },
+ "ribcage": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "胸廓",
+    "def": ""
+   }
+  ]
+ },
+ "riboflavin": {
+  "ph": "/.raibәu'fleivin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核黃素",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 核黃素; 維生素B-2",
+    "def": ""
+   }
+  ]
+ },
+ "ribose": {
+  "ph": "/'raibәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核糖",
+    "def": "a pentose sugar important as a component of ribonucleic acid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 核糖",
+    "def": ""
+   }
+  ]
+ },
+ "ribosomal": {
+  "ph": "/,raibә'sәumәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[生化] 核醣體的",
+    "def": ""
+   }
+  ]
+ },
+ "ribosome": {
+  "ph": "/'raibәsәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核糖體",
+    "def": "an organelle in the cytoplasm of a living cell; they attach to mRNA and move down it one codon at a time and then stop until tRNA brings the required amino acid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 核蛋白體; 核糖核蛋白體; 核糖體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ribosomes"
+ },
+ "ribozyme": {
+  "ph": "/'raɪbəˌzaɪm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "核酶, 核糖核酸擬酶, 酶性核糖核酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ribozymes"
+ },
+ "ric": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "英國皇家化學學會（Royal Institute of Chemistry）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rics"
+ },
+ "rica": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黎加（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "ricardo": {
+  "ph": "/ri'kɑ:dәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡卡多(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "riccardo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Riccardo)人名；(意)裡卡爾多",
+    "def": ""
+   }
+  ]
+ },
+ "ricci": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡奇（姓氏）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ricci"
+ },
+ "rice": {
+  "ph": "/rais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "米, 米飯, 稻",
+    "def": "grains used as food either unpolished or more often polished"
+   },
+   {
+    "pos": "vt.",
+    "zh": "將...壓成米粒狀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rices｜現在分詞 ricing｜過去式 riced｜第三人稱單數 rices｜過去分詞 riced"
+ },
+ "ricer": {
+  "ph": "/'raisә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使成細條的炊具, 壓粒器, <美> 馬鈴薯搗碎機",
+    "def": "a kitchen utensil used for ricing soft foods by extruding them through small holes"
+   }
+  ]
+ },
+ "rich": {
+  "ph": "/ri:tʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "富裕的, 富饒的, 濃厚的, 貴重的",
+    "def": "possessing material wealth"
+   }
+  ],
+  "forms": "比較級 richer｜最高級 richest"
+ },
+ "richard": {
+  "ph": "/'ritʃәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "理查德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "richards": {
+  "ph": "/'ritʃәdz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "理查茲（姓氏）",
+    "def": "English literary critic who collaborated with C. K. Ogden and contributed to the development of Basic English (1893-1979)"
+   }
+  ]
+ },
+ "richardson": {
+  "ph": "/'ritʃәdsn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "理查森（姓氏）",
+    "def": "United States architect (1838-1886)"
+   }
+  ]
+ },
+ "richelieu": {
+  "ph": "/'riʃәlu:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "黎塞留河[加拿大東南部]",
+    "def": ""
+   }
+  ]
+ },
+ "riches": {
+  "ph": "/'ritʃiz/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "財富, 財產, 富有",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 財富, 財寶, 房地產",
+    "def": ""
+   }
+  ],
+  "forms": "複數 riches"
+ },
+ "richie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡奇（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "richly": {
+  "ph": "/'ritʃli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "富裕地, 豐富地, 充分地",
+    "def": ""
+   }
+  ]
+ },
+ "richman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大富翁（一種遊戲）；裡奇曼（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "richmond": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "里士滿（美國弗吉尼亞首府）",
+    "def": "capital of the state of Virginia located in the east central part of the state; was capital of the Confederacy during the American Civil War"
+   }
+  ]
+ },
+ "richness": {
+  "ph": "/'ritʃnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "富裕, 豐富, 肥沃",
+    "def": "the quality of having high intrinsic value"
+   }
+  ],
+  "forms": "複數 richnesses"
+ },
+ "richter": {
+  "ph": "/'riktә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "里克特（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "richter scale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "里氏震級",
+    "def": ""
+   }
+  ]
+ },
+ "ricin": {
+  "ph": "/'raisin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "篦麻毒",
+    "def": "a toxic protein extracted from castor beans; used as a chemical reagent; can be used as a bioweapon"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 蓖麻毒; 蓖麻子白蛋白",
+    "def": ""
+   }
+  ]
+ },
+ "rick": {
+  "ph": "/rik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草堆",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...堆成垛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ricks｜過去式 ricked｜現在分詞 ricking｜第三人稱單數 ricks｜過去分詞 ricked"
+ },
+ "rickard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rickard)人名；(法)裡卡爾；(英、瑞典)裡卡德",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rickards"
+ },
+ "rickenbacker": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡肯巴克（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "rickets": {
+  "ph": "/'rikits/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佝僂病",
+    "def": "childhood disease caused by deficiency of vitamin D and sunlight associated with impaired metabolism of calcium and phosphorus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 佝僂病",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rickets"
+ },
+ "ricketts": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ricketts)人名；(德)裡克茨；(英)裡基茨",
+    "def": ""
+   }
+  ]
+ },
+ "rickety": {
+  "ph": "/'rikәti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "患佝僂病的, 虛弱的, 搖擺的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 佝僂病的",
+    "def": ""
+   }
+  ]
+ },
+ "rickie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "瑞奇（人名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "裡奇（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "rickmansworth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡克曼沃斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "rickshaw": {
+  "ph": "/'rikʃɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人力車, 黃包車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rickshaws"
+ },
+ "ricky": {
+  "ph": "/'riki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡基（男子名, 等於Rick, Rickie）",
+    "def": ""
+   }
+  ]
+ },
+ "rico": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "反詐騙腐敗組織集團犯罪法（Racketeer Influenced and Corrupt Organizations Act）",
+    "def": ""
+   }
+  ]
+ },
+ "ricochet": {
+  "ph": "/.rikә'ʃei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跳飛, 跳彈",
+    "def": "a glancing rebound"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)跳飛",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ricocheted｜過去分詞 ricocheted｜複數 ricochets｜第三人稱單數 ricochets｜現在分詞 ricochetting"
+ },
+ "ricocheting": {
+  "ph": "/ˈrɪkəʃeɪɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "反彈, 跳飛( ricochet的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "ricotta": {
+  "ph": "/rɪ'kɒtə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義大利乳清乾酪",
+    "def": "soft Italian cheese like cottage cheese"
+   }
+  ]
+ },
+ "rics": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Royal Institution of Chartered Surveyors <英>皇家特許測量員協會",
+    "def": ""
+   }
+  ]
+ },
+ "rictus": {
+  "ph": "/'riktәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 裂, 裂口, 呵欠",
+    "def": ""
+   }
+  ]
+ },
+ "rid": {
+  "ph": "/rid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "免除, 以...清除, 使獲自由, 使擺脫",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 免除, 清除, 擺脫",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 rid｜現在分詞 ridding｜過去式 rid｜第三人稱單數 rids"
+ },
+ "riddance": {
+  "ph": "/'ridns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擺脫, 除去, 驅逐",
+    "def": ""
+   }
+  ]
+ },
+ "riddell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡德爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "riddick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Riddick)人名；(英、西)裡迪克",
+    "def": ""
+   }
+  ]
+ },
+ "riddle": {
+  "ph": "/'ridl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "謎, 謎語, 粗篩",
+    "def": "a difficult problem"
+   },
+   {
+    "pos": "vt.",
+    "zh": "解謎, 給...出謎, 篩, 尋根究底地檢驗, 充滿於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "出謎",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 riddled｜複數 riddles｜過去式 riddled｜現在分詞 riddling｜第三人稱單數 riddles"
+ },
+ "riddled": {
+  "ph": "/'rɪdld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "佈滿的; 充斥的; 氾濫的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "解謎, 出謎題(riddle的過去分詞形式)",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 riddled"
+ },
+ "ride": {
+  "ph": "/raid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎馬, 乘坐, 乘車, 搭便車",
+    "def": "a mechanical device that you ride for amusement or excitement"
+   },
+   {
+    "pos": "vt.",
+    "zh": "騎, 乘坐, 壓迫, 控制",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "騎馬, 乘車, 漂游",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 riding｜過去式 rode｜過去分詞 ridden｜複數 rides｜第三人稱單數 rides"
+ },
+ "rider": {
+  "ph": "/'raidә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎手, (檔案後的)附件, 扶手",
+    "def": "a traveler who actively rides an animal (as a horse or camel)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 遊碼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 riders"
+ },
+ "riderless": {
+  "ph": "/'raɪdələs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒人騎的, 無主的（馬）",
+    "def": "Having no rider; as, a riderless horse."
+   }
+  ]
+ },
+ "riders": {
+  "ph": "/ˈraɪdəz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎（馬、腳踏車等）的人( rider的名詞複數 ); 乘客; 附文; 附加條款",
+    "def": ""
+   }
+  ]
+ },
+ "ridership": {
+  "ph": "/'raidәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乘客數",
+    "def": ""
+   }
+  ]
+ },
+ "ridge": {
+  "ph": "/ridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脊, 山脊, 山脈",
+    "def": "a long narrow natural elevation or striation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 嵴, 脊, 稜線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ridges｜現在分詞 ridging｜過去式 ridged｜第三人稱單數 ridges｜過去分詞 ridged"
+ },
+ "ridged": {
+  "ph": "/rɪdʒd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]嵴狀的, 起皺的",
+    "def": ""
+   }
+  ]
+ },
+ "ridgepole": {
+  "ph": "/'ridʒpәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橫樑",
+    "def": ""
+   }
+  ]
+ },
+ "ridgetop": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] [美國] 裡奇託普",
+    "def": ""
+   }
+  ]
+ },
+ "ridgeway": {
+  "ph": "/'ridʒwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山脊路",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ridgeways"
+ },
+ "ridgway": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡奇韋（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "ridicule": {
+  "ph": "/'ridikju:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘲笑, 愚弄, 笑柄",
+    "def": "language or behavior intended to mock or humiliate"
+   },
+   {
+    "pos": "vt.",
+    "zh": "嘲笑, 嘲弄, 愚弄",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ridiculed｜過去式 ridiculed｜現在分詞 ridiculing｜第三人稱單數 ridicules｜複數 ridicules"
+ },
+ "ridiculed": {
+  "ph": "/ˈrɪdɪˌkju:ld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "嘲笑, 嘲弄, 奚落( ridicule的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ridiculed｜過去式 ridiculed"
+ },
+ "ridiculous": {
+  "ph": "/ri'dikjulәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "荒謬的, 可笑的",
+    "def": ""
+   }
+  ]
+ },
+ "ridiculously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可笑, 滑稽, 荒謬",
+    "def": ""
+   }
+  ]
+ },
+ "ridiculousness": {
+  "ph": "/rɪ'dɪkjələsnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑稽, 荒謬",
+    "def": ""
+   }
+  ]
+ },
+ "riding": {
+  "ph": "/'raidiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎, 乘車, 乘, 騎術, 騎馬",
+    "def": "the sport of siting on the back of a horse while controlling its movements"
+   }
+  ],
+  "forms": "現在分詞 riding｜複數 ridings"
+ },
+ "ridley": {
+  "ph": "/'ridli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動] 鱗龜屬(=Lepidochelys)動物 (產於墨西哥灣)",
+    "def": "a marine turtle"
+   }
+  ],
+  "forms": "複數 ridleys"
+ },
+ "rien": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rien)人名；(泰)連；(日)璃園(姓)",
+    "def": ""
+   }
+  ]
+ },
+ "riesling": {
+  "ph": "/'ri:zliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雷司令（一種乾白葡萄酒）（商標名稱）",
+    "def": "white grape grown in Europe and California"
+   }
+  ],
+  "forms": "複數 rieslings"
+ },
+ "rievaulx": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rievaulx)人名；(英)裡沃茲",
+    "def": ""
+   }
+  ]
+ },
+ "rifampin": {
+  "ph": "/rai'fæmpin,'rif-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 利福平; 甲哌力復黴素",
+    "def": ""
+   }
+  ]
+ },
+ "rifat": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rifat)人名；(巴基)裡法特",
+    "def": ""
+   }
+  ]
+ },
+ "rife": {
+  "ph": "/raif/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "流行的, 盛傳的, 充滿的",
+    "def": ""
+   }
+  ]
+ },
+ "riff": {
+  "ph": "/rif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連復段",
+    "def": "a Berber living in northern Morocco"
+   }
+  ],
+  "forms": "複數 riffs｜第三人稱單數 riffs｜現在分詞 riffing｜過去式 riffed｜過去分詞 riffed"
+ },
+ "riffle": {
+  "ph": "/'rifl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淺灘, 急流, 漣漪, 彈洗",
+    "def": "shuffling by splitting the pack and interweaving the two halves at their corners"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使起漣漪, 迅速翻閱, 彈洗洗牌",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成漣漪, 飛快翻書",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 riffled｜現在分詞 riffling｜複數 riffles｜第三人稱單數 riffles｜過去分詞 riffled"
+ },
+ "riffraff": {
+  "ph": "/'rifræf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流氓",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 暴徒, 流氓",
+    "def": ""
+   }
+  ]
+ },
+ "rifkind": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rifkind)人名；(英)裡夫金德",
+    "def": ""
+   }
+  ]
+ },
+ "rifle": {
+  "ph": "/'raifl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "來復槍, 步槍",
+    "def": "a shoulder firearm with a long barrel and a rifled bore"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用步槍射擊, 搶奪",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "(抱有不良意圖)迅速翻查",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rifles｜過去式 rifled｜現在分詞 rifling｜過去分詞 rifled｜第三人稱單數 rifles"
+ },
+ "rifled": {
+  "ph": "/'raɪf(ə)l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "步槍；來復槍",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用步槍射擊；搶奪；偷走",
+    "def": ""
+   }
+  ]
+ },
+ "rifleman": {
+  "ph": "/'raiflmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "步槍射手, 步兵",
+    "def": "someone skilled in the use of a rifle"
+   }
+  ],
+  "forms": "複數 riflemen"
+ },
+ "riflery": {
+  "ph": "/'raiflri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "步槍打靶",
+    "def": ""
+   }
+  ]
+ },
+ "riflescope": {
+  "ph": "/'raiflskәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "步槍瞄準器",
+    "def": ""
+   }
+  ]
+ },
+ "rifling": {
+  "ph": "/'raifliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "加工膛線, 膛線, 洗劫",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 rifling"
+ },
+ "rift": {
+  "ph": "/rift/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裂口, 空隙",
+    "def": "a gap between cloud masses"
+   },
+   {
+    "pos": "vi.",
+    "zh": "裂開",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使分開, 使割開",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rifts｜現在分詞 rifting｜過去式 rifted｜過去分詞 rifted"
+ },
+ "rifting": {
+  "ph": "/'rɪftɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裂開",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 rifting"
+ },
+ "rig": {
+  "ph": "/rig/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝備, 帆裝",
+    "def": "gear (including necessary machinery) for a particular enterprise"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝配, 裝扮, 給船裝帆, 壟斷, 操縱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rigs｜過去分詞 rigged｜現在分詞 rigging｜過去式 rigged｜第三人稱單數 rigs"
+ },
+ "riga": {
+  "ph": "/'ri:^ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "里加（拉脫維亞共和國首都）",
+    "def": "a port city on the Gulf of Riga that is the capital and largest city of Latvia; formerly a member of the Hanseatic League"
+   }
+  ]
+ },
+ "rigatoni": {
+  "ph": "/,ri^ә'tәuni/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[單復同]n.[食]波紋貝殼狀通心粉",
+    "def": ""
+   }
+  ]
+ },
+ "rigby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rigby)人名；(英、瑞典)裡格比",
+    "def": ""
+   }
+  ]
+ },
+ "rigg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡格（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 riggs"
+ },
+ "rigged": {
+  "ph": "/rigd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "作弊的, 非法操縱的",
+    "def": "fitted or equipped with necessary rigging (sails and shrouds and stays etc)"
+   }
+  ],
+  "forms": "過去式 rigged"
+ },
+ "rigger": {
+  "ph": "/'ri^ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝配工",
+    "def": "someone who rigs ships"
+   }
+  ],
+  "forms": "複數 riggers"
+ },
+ "rigging": {
+  "ph": "/'rigiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索具, 裝備",
+    "def": "gear consisting of ropes etc. supporting a ship's masts and sails"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 提價",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 rigging"
+ },
+ "riggs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡格斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "right": {
+  "ph": "/rait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "權利, 右邊, 正義, 右派, 公正",
+    "def": "an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\""
+   },
+   {
+    "pos": "adj.",
+    "zh": "正確的, 對的, 恰當的, 正常的, 正直的, 正面的, 右方的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "正確地, 以有利結果, 一直, 直接, 向右",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "扶直, 整理, 糾正, 伸冤, 使昭雪",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "恢復平衡",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 右, 權利",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rights｜現在分詞 righting｜過去式 righted｜第三人稱單數 rights｜過去分詞 righted"
+ },
+ "right angle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "直角",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 直角",
+    "def": ""
+   }
+  ]
+ },
+ "right-hand": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用右手的, 右側的",
+    "def": ""
+   }
+  ]
+ },
+ "right-handed": {
+  "ph": "/rait'hændid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用右手的, 向右轉的, 右旋性的",
+    "def": "using or intended for the right hand"
+   }
+  ]
+ },
+ "right-on": {
+  "ph": "/'rait'ɔn,-'ɔ:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "完全正確的, 入時的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 right-ons"
+ },
+ "righteous": {
+  "ph": "/'raitʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "公正的, 正義的, 正直的",
+    "def": "characterized by or proceeding from accepted standards of morality or justice"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 正直的, 正當的, 正義的",
+    "def": ""
+   }
+  ]
+ },
+ "righteously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "正直地；公正地",
+    "def": ""
+   }
+  ]
+ },
+ "righteousness": {
+  "ph": "/'raitʃәsnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正義, 公正, 正直",
+    "def": "adhering to moral principles"
+   }
+  ]
+ },
+ "rightful": {
+  "ph": "/'raitful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "合法的, 正直的, 恰當的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 正當的, 合法的, 依法有求權的",
+    "def": ""
+   }
+  ]
+ },
+ "rightfully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "正當地；正直地",
+    "def": ""
+   }
+  ]
+ },
+ "righthand": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "右手",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "右手的",
+    "def": ""
+   }
+  ]
+ },
+ "rightist": {
+  "ph": "/'raitist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "右派人士, 保守黨員",
+    "def": "a member of a right wing political party"
+   },
+   {
+    "pos": "adj.",
+    "zh": "右翼的, 右派的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rightists"
+ },
+ "rightly": {
+  "ph": "/'raitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "合適地, 正當地, 正確地",
+    "def": ""
+   }
+  ]
+ },
+ "rightmost": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 最右邊的",
+    "def": ""
+   }
+  ]
+ },
+ "rightness": {
+  "ph": "/'raitnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廉正, 正直, 公正, 正確性",
+    "def": "according with conscience or morality"
+   }
+  ]
+ },
+ "righto": {
+  "ph": "/'raitәu/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "好, 對",
+    "def": ""
+   }
+  ]
+ },
+ "rightward": {
+  "ph": "/'raitwәd/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向右, 向右傾",
+    "def": "Toward the right."
+   },
+   {
+    "pos": "adj.",
+    "zh": "朝右的",
+    "def": ""
+   }
+  ]
+ },
+ "rightwards": {
+  "ph": "/'raitwәdz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向右",
+    "def": ""
+   }
+  ]
+ },
+ "rigid": {
+  "ph": "/'ridʒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "堅硬的, 剛性的, 嚴格的, 精密的, 刻板的",
+    "def": "designating an airship or dirigible having a form maintained by a stiff unyielding frame or structure"
+   }
+  ]
+ },
+ "rigidity": {
+  "ph": "/ri'dʒiditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堅硬, 僵化, 堅硬, 剛性, 剛度",
+    "def": "the physical property of being stiff and resisting bending"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 剛度係數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rigidities"
+ },
+ "rigidly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嚴格地；堅硬地；嚴厲地；牢牢地",
+    "def": ""
+   }
+  ]
+ },
+ "rigmarole": {
+  "ph": "/'rigmәrәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冗長的廢話, 繁瑣費時的手續",
+    "def": "a set of confused and meaningless statements"
+   },
+   {
+    "pos": "adj.",
+    "zh": "冗長的, 無條理的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rigmaroles"
+ },
+ "rigoletto": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弄臣（歌劇）",
+    "def": ""
+   }
+  ]
+ },
+ "rigor": {
+  "ph": "/'rigә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嚴格, 嚴厲, 苛刻, 嚴酷, 嚴密, 精確",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 寒戰, 強直, 僵硬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rigors"
+ },
+ "rigorous": {
+  "ph": "/'rigәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嚴厲的, 嚴酷的, 嚴格的, 苛刻的, 嚴密的, 精確的",
+    "def": ""
+   }
+  ]
+ },
+ "rigorously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嚴厲地；殘酷地",
+    "def": ""
+   }
+  ]
+ },
+ "rigour": {
+  "ph": "/'rigә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嚴格, 嚴厲, 苛刻, 嚴酷, 嚴密, 精確",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rigours"
+ },
+ "rik": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡克（男名）",
+    "def": ""
+   }
+  ]
+ },
+ "rile": {
+  "ph": "/rail/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "攪渾, 惹怒, 使焦急",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 riled｜過去分詞 riled｜第三人稱單數 riles｜現在分詞 riling"
+ },
+ "riled": {
+  "ph": "/raɪld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "惹惱, 激怒( rile的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 riled"
+ },
+ "riley": {
+  "ph": "/'raili/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生氣的",
+    "def": ""
+   }
+  ]
+ },
+ "rilke": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rilke)人名；(德)里爾克",
+    "def": "German poet (born in Austria) whose imagery and mystic lyricism influenced 20th-century German literature (1875-1926)"
+   }
+  ]
+ },
+ "rill": {
+  "ph": "/ril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小河, 細流, 小溪",
+    "def": "a small channel (as one formed by soil erosion)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "潺潺流",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rills｜過去式 rilled"
+ },
+ "rilla": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rilla)人名；(德、意、芬)里拉",
+    "def": ""
+   }
+  ]
+ },
+ "rille": {
+  "ph": "/ril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[天](月面)溝紋",
+    "def": "One of certain narrow, crooked valleys seen, by aid of the"
+   }
+  ]
+ },
+ "rim": {
+  "ph": "/rim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊, 輪緣, 框",
+    "def": "the shape of a raised edge of a more or less circular object"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鑲邊, 為...裝邊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "形成邊緣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rims｜過去式 rimmed｜過去分詞 rimmed｜現在分詞 rimming｜第三人稱單數 rims"
+ },
+ "rima": {
+  "ph": "/'ri:mә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 裂",
+    "def": ""
+   }
+  ]
+ },
+ "rimbaud": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rimbaud)人名；(法)蘭波",
+    "def": "French poet whose work influenced the surrealists (1854-1891)"
+   }
+  ]
+ },
+ "rime": {
+  "ph": "/raim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白霜",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 rimed｜複數 rimes｜現在分詞 riming｜第三人稱單數 rimes｜過去分詞 rimed"
+ },
+ "rimington": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rimington)人名；(英)裡明頓",
+    "def": ""
+   }
+  ]
+ },
+ "rimini": {
+  "ph": "/'rimini,'ri:mi:ni:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡米尼[義大利東北部港市](濱亞得里亞海, 著名的海濱休養地)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rimini"
+ },
+ "rimless": {
+  "ph": "/'rimlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無邊的",
+    "def": "lacking a rim or frame"
+   }
+  ]
+ },
+ "rimmed": {
+  "ph": "/rimd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有...邊緣的",
+    "def": "having a rim or a rim of a specified kind"
+   }
+  ]
+ },
+ "rimmer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輪輞；沸騰鋼；裝邊器",
+    "def": "An implement for cutting, trimming, or ornamenting the rim"
+   },
+   {
+    "pos": "n.",
+    "zh": "(Rimmer)人名；(英、德)裡默；(法)裡梅",
+    "def": ""
+   }
+  ]
+ },
+ "rimrock": {
+  "ph": "/'rimrɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頂巖",
+    "def": ""
+   }
+  ]
+ },
+ "rind": {
+  "ph": "/raind/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樹皮, 殼, 外表",
+    "def": "the natural outer covering of food (usually removed before eating)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "削皮, 剝殼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rinds｜過去式 rinded"
+ },
+ "rinderpest": {
+  "ph": "/'rindәpest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛疫",
+    "def": "an acute infectious viral disease of cattle (usually fatal); characterized by fever and diarrhea and inflammation of mucous membranes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 牛疫, 牛瘟",
+    "def": ""
+   }
+  ]
+ },
+ "ring": {
+  "ph": "/riŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "環, 環形物, 拳擊場, 戒指, 角逐, 小集團, 鈴聲, 鐘聲, 聲調",
+    "def": "a characteristic sound"
+   },
+   {
+    "pos": "vt.",
+    "zh": "包圍, 套住, 按鈴, 敲鐘",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成環形, 響, 鳴, 按鈴, 敲鐘, 迴響",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 rang｜複數 rings｜現在分詞 ringing｜過去分詞 rung｜第三人稱單數 rings"
+ },
+ "ringe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地名] [德國] 林格; [地名] [丹麥] 靈厄",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ringed｜過去分詞 ringed｜複數 ringes"
+ },
+ "ringed": {
+  "ph": "/riŋd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有環的, 環狀的, 戴戒指的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有環[圈]的, 輪狀的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ringed"
+ },
+ "ringer": {
+  "ph": "/'riŋә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "套環, 投環, 按鈴者, 敲鐘者",
+    "def": "a person who is almost identical to another"
+   }
+  ],
+  "forms": "複數 ringers"
+ },
+ "ringing": {
+  "ph": "/'riŋiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "響亮的, 明白的, 清脆的, 乾脆的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 振鈴",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ringing"
+ },
+ "ringleader": {
+  "ph": "/'riŋli:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魁首, 頭目",
+    "def": "a person who leads (especially in illicit activities)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 頭目, 魁首, 叛國頭子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ringleaders"
+ },
+ "ringless": {
+  "ph": "/'rɪŋles/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有戒指的, 無環的",
+    "def": ""
+   }
+  ]
+ },
+ "ringlet": {
+  "ph": "/'riŋlit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長鬈髮, 小圈, 小環",
+    "def": "a small ring"
+   }
+  ],
+  "forms": "複數 ringlets｜過去式 ringletted"
+ },
+ "ringmaster": {
+  "ph": "/'riŋmɑ:stә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬戲演出指揮, 導演",
+    "def": "the person in charge of performances in a circus ring"
+   }
+  ],
+  "forms": "複數 ringmasters"
+ },
+ "ringo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "張靈康（男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ringos"
+ },
+ "ringside": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "緊靠比賽場的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "[the]比賽場的外圍, 比賽場的前緣",
+    "def": "first row of seating; has an unobstructed view of a boxing or wrestling ring"
+   }
+  ]
+ },
+ "ringwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "令伍特 (維多利亞)",
+    "def": ""
+   }
+  ]
+ },
+ "ringworm": {
+  "ph": "/'riŋw\\\\\\\\:m/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 癬, 癬菌病",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ringworms"
+ },
+ "rink": {
+  "ph": "/riŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溜冰場, 室內溜冰場",
+    "def": "building that contains a surface for ice skating or roller skating"
+   },
+   {
+    "pos": "vi.",
+    "zh": "溜冰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rinks｜現在分詞 rinking"
+ },
+ "rinse": {
+  "ph": "/rins/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清洗, 染髮, 染髮劑",
+    "def": "a liquid preparation used on wet hair to give it a tint"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以清水沖洗, 漱, 漂清",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被漂淨",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 rinsed｜過去分詞 rinsed｜現在分詞 rinsing｜複數 rinses｜第三人稱單數 rinses"
+ },
+ "rinsed": {
+  "ph": "/rinst/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "漂洗( rinse的過去式和過去分詞 ); 沖洗; 用清水漂洗掉（肥皂泡等）; （用清水）沖掉",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 rinsed｜過去式 rinsed"
+ },
+ "rinsing": {
+  "ph": "/'riŋsiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漂淨, 殘渣",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 rinsing｜複數 rinsings"
+ },
+ "rio": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "里約（巴西共和國的舊首都）",
+    "def": ""
+   }
+  ]
+ },
+ "rioja": {
+  "ph": "/ri'әjhɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(西班牙)里奧哈(紅)葡萄酒",
+    "def": "dry red table wine from the Rioja region of northern Spain"
+   }
+  ]
+ },
+ "riot": {
+  "ph": "/'raiәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴動, 喧鬧, 放縱",
+    "def": "a public act of violence by an unruly mob"
+   },
+   {
+    "pos": "vi.",
+    "zh": "發動, 暴動, 縱情, 放蕩",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "浪費, 揮霍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 riots｜過去式 rioted｜現在分詞 rioting｜第三人稱單數 riots｜過去分詞 rioted"
+ },
+ "riot police": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "防暴警察",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 防暴警察",
+    "def": ""
+   }
+  ]
+ },
+ "rioter": {
+  "ph": "/'raiәtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴民, 暴徒, 縱情享樂者",
+    "def": "troublemaker who participates in a violent disturbance of the peace; someone who rises up against the constituted authority"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 暴徒, 騷亂者, 暴動者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rioters"
+ },
+ "rioting": {
+  "ph": "/ˈraɪətɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴亂, 騷亂",
+    "def": "a state of disorder involving group violence"
+   },
+   {
+    "pos": "v.",
+    "zh": "暴動, 鬧事( riot的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 rioting｜複數 riotings"
+ },
+ "riotous": {
+  "ph": "/'raiәtәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "引起騷擾的, 暴亂的, 放蕩的",
+    "def": ""
+   }
+  ]
+ },
+ "riotously": {
+  "ph": "/ˈraɪətəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "騷動地, 暴亂地",
+    "def": ""
+   }
+  ]
+ },
+ "rip": {
+  "ph": "/rip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裂痕, 破綻, 拉裂, 浪子, 巨浪",
+    "def": "an opening made forcibly as by pulling apart"
+   },
+   {
+    "pos": "vi.",
+    "zh": "被拉開, 裂開, 猛衝",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "撕, 扯, 劈",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ripped｜過去分詞 ripped｜現在分詞 ripping｜第三人稱單數 rips｜複數 rips"
+ },
+ "rip-off": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偷竊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rip-offs"
+ },
+ "ripa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 緣線(室管膜的翻轉處), 丘腦帶",
+    "def": ""
+   }
+  ]
+ },
+ "riparian": {
+  "ph": "/ri'pєәriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "河岸的, 生於河岸的",
+    "def": "of or relating to or located on the banks of a river or stream"
+   },
+   {
+    "pos": "n.",
+    "zh": "河岸土地所有人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 riparians"
+ },
+ "ripcord": {
+  "ph": "/'ripkɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開傘索",
+    "def": "a cord that is pulled to open the gasbag of a balloon wide enough to release gas and so causes the balloon to descend"
+   }
+  ],
+  "forms": "複數 ripcords"
+ },
+ "ripe": {
+  "ph": "/raip/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成熟的, 熟練的, 成年的",
+    "def": "fully developed or matured and ready to be eaten or used"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 成熟的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 ripest｜比較級 riper"
+ },
+ "ripen": {
+  "ph": "/'raipәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使成熟",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成熟",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ripening｜第三人稱單數 ripens｜過去分詞 ripened｜過去式 ripened"
+ },
+ "ripened": {
+  "ph": "/ˈraɪpənd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "成熟, 使熟( ripen的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ripened｜過去式 ripened"
+ },
+ "ripeness": {
+  "ph": "/'raipnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成熟, 圓通, 完成",
+    "def": "the state of being ripe"
+   }
+  ]
+ },
+ "ripening": {
+  "ph": "/'raɪpənɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "成熟, 使熟( ripen的現在分詞 ); 熟化; 熟成",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ripening｜複數 ripenings"
+ },
+ "ripley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡普利（男子名）；天才雷普利（歌曲名）",
+    "def": ""
+   }
+  ]
+ },
+ "ripon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡彭",
+    "def": ""
+   }
+  ]
+ },
+ "riposte": {
+  "ph": "/ri'pәust/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(擊劍中)還擊, 機敏的回答",
+    "def": "(fencing) a counterattack made immediately after successfully parrying the opponents lunge"
+   },
+   {
+    "pos": "vi.",
+    "zh": "迅速還擊, 機敏回答",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ripostes｜現在分詞 riposting｜過去式 riposted｜第三人稱單數 riposts｜過去分詞 riposted"
+ },
+ "ripped": {
+  "ph": "/ript/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[美俚]喝醉的；受毒品麻醉的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ripped｜過去式 ripped"
+ },
+ "ripper": {
+  "ph": "/'ripә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撕裂者",
+    "def": "a murderer who slashes the victims with a knife"
+   }
+  ],
+  "forms": "複數 rippers"
+ },
+ "ripping": {
+  "ph": "/'ripiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "撕的, 絕妙的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "極, 非常",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ripping｜複數 rippings"
+ },
+ "ripple": {
+  "ph": "/'ripl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漣波, 漣漪, 波紋, 粗鋼梳",
+    "def": "a small wave on the surface of a liquid"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使起漣漪",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "起微波, 起潺潺聲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ripples｜過去式 rippled｜現在分詞 rippling｜過去分詞 rippled｜第三人稱單數 ripples"
+ },
+ "rippled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "& vi. 使泛起漣漪（ripple的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 rippled"
+ },
+ "rippling": {
+  "ph": "/'ripliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "起漣漪的, 潺潺流水般聲音的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 rippling｜複數 ripplings"
+ },
+ "rippon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rippon)人名；(英)裡彭",
+    "def": ""
+   }
+  ]
+ },
+ "riprap": {
+  "ph": "/'ripræp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亂石, 亂石基",
+    "def": "A foundation or sustaining wall of stones thrown together"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用亂石築基",
+    "def": ""
+   }
+  ]
+ },
+ "ripstop": {
+  "ph": "/'ripstɔp/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(尼龍織品)防破裂的",
+    "def": ""
+   }
+  ]
+ },
+ "riptide": {
+  "ph": "/'riptaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洪濤, 急流, 激流",
+    "def": "a strong surface current flowing outwards from a shore"
+   }
+  ],
+  "forms": "複數 riptides"
+ },
+ "risc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 精簡指令集計算機",
+    "def": ""
+   }
+  ]
+ },
+ "rise": {
+  "ph": "/raiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上升, 增加, 上漲, 高地, 升高, 出現",
+    "def": "a growth in strength or number or importance"
+   },
+   {
+    "pos": "vi.",
+    "zh": "升起, 起身, 起立, 上升, 上漲, 增長, 高聳, 起義, 浮現",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使飛起",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 rose｜現在分詞 rising｜過去分詞 risen｜複數 rises｜第三人稱單數 rises"
+ },
+ "risen": {
+  "ph": "/'rizәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "升起的, 復活的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "rise的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 risen"
+ },
+ "riser": {
+  "ph": "/'raizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "起床者, 叛徒, 起義者, 豎板",
+    "def": "a person who rises (especially from bed)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 上升管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 risers"
+ },
+ "risible": {
+  "ph": "/'rizibl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能笑的, 善笑的, 愛笑的",
+    "def": ""
+   }
+  ]
+ },
+ "rising": {
+  "ph": "/'raiziŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上升, 造反, 叛亂",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "上升的, 高漲的, 新興的",
+    "def": "advancing or becoming higher or greater in degree or value or status"
+   }
+  ],
+  "forms": "現在分詞 rising｜複數 risings"
+ },
+ "risk": {
+  "ph": "/risk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冒險, 危險, 保險額",
+    "def": "a venture undertaken without regard to possible loss or injury"
+   },
+   {
+    "pos": "vt.",
+    "zh": "冒...的危險, 冒險幹",
+    "def": ""
+   }
+  ],
+  "forms": "複數 risks｜現在分詞 risking｜過去式 risked｜第三人稱單數 risks｜過去分詞 risked"
+ },
+ "riskiness": {
+  "ph": "/'riskinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "富有冒險性的事, 危險",
+    "def": "a state of danger involving risk"
+   }
+  ]
+ },
+ "riskless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無危險的",
+    "def": ""
+   }
+  ]
+ },
+ "risks": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風險, 危險（risk複數）",
+    "def": ""
+   }
+  ]
+ },
+ "risky": {
+  "ph": "/'riski/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "危險的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 riskier｜最高級 riskiest"
+ },
+ "risley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Risley)人名；(英)里斯利",
+    "def": ""
+   }
+  ]
+ },
+ "risotto": {
+  "ph": "/ri'sɒtәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義大利調味飯",
+    "def": "rice cooked with broth and sprinkled with grated cheese"
+   }
+  ]
+ },
+ "risque": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有點下流的, 近乎淫猥的, 傷風敗俗的, 敗壞風俗的, 有傷風化的",
+    "def": ""
+   }
+  ]
+ },
+ "rissole": {
+  "ph": "/'risәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "炸肉丸子, 炸魚卷, 炸魚丸子, 炸肉卷",
+    "def": "minced cooked meat or fish coated in egg and breadcrumbs and fried in deep fat"
+   }
+  ],
+  "forms": "複數 rissoles"
+ },
+ "rita": {
+  "ph": "/'ri:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麗塔（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "ritchie": {
+  "ph": "/'ritʃi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡奇（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "rite": {
+  "ph": "/rait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "儀式, 典禮, 慣例, 禮拜式",
+    "def": "an established ceremony prescribed by a religion"
+   }
+  ],
+  "forms": "複數 rites"
+ },
+ "ritter": {
+  "ph": "/'ritə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎士",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Ritter)人名；(英)裡特；(西、俄、德、法、匈、捷)裡特爾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ritters"
+ },
+ "ritual": {
+  "ph": "/'ritʃuәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "儀式, 典禮, 宗教儀式",
+    "def": "any customary observance or practice"
+   },
+   {
+    "pos": "adj.",
+    "zh": "儀式的, 依儀式進行的",
+    "def": "of or relating to or characteristic of religious rituals"
+   }
+  ],
+  "forms": "複數 rituals"
+ },
+ "ritualised": {
+  "ph": "/'ritjuəlaiz, -tʃu-/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使儀式化；使成慣例",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "儀式化；成慣例（等於ritualize）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ritualised"
+ },
+ "ritualistic": {
+  "ph": "/.ritʃuә'listik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "儀式的, 遵守儀式的",
+    "def": "of or characterized by or adhering to ritualism"
+   }
+  ]
+ },
+ "ritualistically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "儀式地",
+    "def": ""
+   }
+  ]
+ },
+ "ritualization": {
+  "ph": "/,ritjjәlai'zeiʃәn,-tʃj-;-li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "儀式化",
+    "def": ""
+   }
+  ]
+ },
+ "ritualize": {
+  "ph": "/'ritjuәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使儀式化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ritualized｜現在分詞 ritualizing｜過去式 ritualized｜第三人稱單數 ritualizes"
+ },
+ "ritualized": {
+  "ph": "/ˈritjuəˌlaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使儀式化, 奉行儀式主義( ritualize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 ritualized"
+ },
+ "ritually": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "按照儀式地",
+    "def": ""
+   }
+  ]
+ },
+ "ritz": {
+  "ph": "/rits/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豪華旅館",
+    "def": "Swiss hotelier who created a chain of elegant hotels (1850-1918)"
+   }
+  ]
+ },
+ "ritzy": {
+  "ph": "/'ritsi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "豪華的, 時髦的, 講究的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 ritzier"
+ },
+ "riva": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "莉娃（女子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rivas"
+ },
+ "rival": {
+  "ph": "/'raivl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對手, 競爭者",
+    "def": "the contestant you hope to defeat"
+   },
+   {
+    "pos": "adj.",
+    "zh": "競爭的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rivals｜過去式 rivalled｜第三人稱單數 rivals｜現在分詞 rivalling｜過去分詞 rivalled"
+ },
+ "rivalrous": {
+  "ph": "/'raivәlrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有競爭性的, 敵對性的",
+    "def": ""
+   }
+  ]
+ },
+ "rivalry": {
+  "ph": "/'raivlri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "競爭, 對抗",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 拮抗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rivalries"
+ },
+ "rive": {
+  "ph": "/raiv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "撕開, 使破碎",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "裂開, 破裂",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 riving｜過去式 rived｜第三人稱單數 rives｜過去分詞 riven"
+ },
+ "riven": {
+  "ph": "/'rivәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "rive的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 riven"
+ },
+ "river": {
+  "ph": "/'rivә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "河, 江",
+    "def": "a large natural stream of water (larger than a creek)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 河流, 江河, 內河",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rivers"
+ },
+ "rivera": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡韋拉（烏拉圭北部最重要的邊境城市, 裡韋拉省首府）",
+    "def": "socialist Mexican painter of murals (1886-1957)"
+   }
+  ]
+ },
+ "riverbank": {
+  "ph": "/'rivәbæŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "河堤, 河岸",
+    "def": "the bank of a river"
+   }
+  ],
+  "forms": "複數 riverbanks"
+ },
+ "riverbed": {
+  "ph": "/'rivәbed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "河床",
+    "def": "a channel occupied (or formerly occupied) by a river"
+   }
+  ],
+  "forms": "複數 riverbeds"
+ },
+ "riverboat": {
+  "ph": "/'rivәbәjt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "江河中行駛的船",
+    "def": ""
+   }
+  ],
+  "forms": "複數 riverboats"
+ },
+ "riverfront": {
+  "ph": "/'rivәfrʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(城鎮的)河邊地區,河邊陸地",
+    "def": ""
+   }
+  ]
+ },
+ "riverine": {
+  "ph": "/'rivәrain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "河的, 河邊的, 河岸邊",
+    "def": ""
+   }
+  ]
+ },
+ "rivers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡弗斯（人名）；河流州（奈及利亞州名）；河水鑽",
+    "def": ""
+   }
+  ]
+ },
+ "riverside": {
+  "ph": "/'rivәsaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "河邊, 河畔",
+    "def": "a city in southern California"
+   }
+  ],
+  "forms": "複數 riversides"
+ },
+ "riverway": {
+  "ph": "/'rivәwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "河道",
+    "def": ""
+   }
+  ]
+ },
+ "rivet": {
+  "ph": "/'rivit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉚釘",
+    "def": "heavy pin having a head at one end and the other end being hammered flat after being passed through holes in the pieces that are fastened together"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用鉚釘固定, 敲進去, 注目, 吸引住",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rivets｜過去分詞 riveted｜過去式 riveted｜第三人稱單數 rivets｜現在分詞 riveting"
+ },
+ "riveted": {
+  "ph": "/'rɪvɪtɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "鉚接( rivet的過去式和過去分詞 ); 把…固定住; 吸引; 引起某人的注意",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 riveted｜過去式 riveted"
+ },
+ "riveter": {
+  "ph": "/'rivitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉚工, 鉚釘槍",
+    "def": "a worker who inserts and hammers rivets"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 鉚釘器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 riveters"
+ },
+ "riveting": {
+  "ph": "/'rivitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非常有趣的, 引人注目的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 鉚接",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 riveting"
+ },
+ "riviera": {
+  "ph": "/,rivi'eәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海濱遊憩勝地",
+    "def": "a coastal area between La Spezia in Italy and Cannes in France"
+   }
+  ]
+ },
+ "rivoli": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裡沃利（義大利城市）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rivoli"
+ },
+ "rivulet": {
+  "ph": "/'rivjulit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小河",
+    "def": "a small stream"
+   }
+  ],
+  "forms": "複數 rivulets"
+ },
+ "rix": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裡克斯（男子名）；一種音樂形式",
+    "def": ""
+   }
+  ]
+ },
+ "riyadh": {
+  "ph": "/ri:'jɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利雅得（阿拉伯半島中部的城市）",
+    "def": "joint capital (with Mecca) of Saudi Arabia located in the central oasis; largest city in Saudi Arabia"
+   }
+  ]
+ },
+ "rizzo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rizzo)人名；(英、法、意、葡)裡佐；(西)裡索",
+    "def": ""
+   }
+  ]
+ }
+}

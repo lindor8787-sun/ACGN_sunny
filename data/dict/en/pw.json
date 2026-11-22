@@ -1,0 +1,33 @@
+{
+ "pw": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "女警（policewoman）；現在價值（present worth）；電動窗（power window）",
+    "def": ""
+   }
+  ]
+ },
+ "pwl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "能級（Power Level）；功率瓦特級（Power Watt Level）；電平",
+    "def": ""
+   }
+  ]
+ },
+ "pwr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "加壓水冷卻反應堆（Pressurized Water Reactor）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pwrs"
+ }
+}

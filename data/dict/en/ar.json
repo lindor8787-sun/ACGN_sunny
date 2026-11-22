@@ -1,0 +1,4267 @@
+{
+ "a-road": {
+  "ph": "/'ei'rәjd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<英>A級公路,主車道",
+    "def": ""
+   }
+  ]
+ },
+ "ar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 應收款, 自動再啟動, 輔助程式",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 緊急反應",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ars｜第三人稱單數 ars"
+ },
+ "ara": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "非洲鐵路協會（African Railway Association）；機載雷達附件（Airborne Radar Attachment）",
+    "def": ""
+   }
+  ]
+ },
+ "arab": {
+  "ph": "/'ærәb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿拉伯人, 阿拉伯馬",
+    "def": "a member of a Semitic people originally from the Arabian peninsula and surrounding territories who speaks Arabic and who inhabits much of the Middle East and no"
+   },
+   {
+    "pos": "adj.",
+    "zh": "阿拉伯人的, 阿拉伯的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arabs"
+ },
+ "arabella": {
+  "ph": "/,ærә'belә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿拉貝拉(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "arabesque": {
+  "ph": "/.ærә'besk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿拉伯式花飾",
+    "def": "position in which the dancer has one leg raised behind and arms outstretched in a conventional pose"
+   }
+  ],
+  "forms": "複數 arabesques｜現在分詞 arabesquing"
+ },
+ "arabia": {
+  "ph": "/ә'reibiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿拉伯半島",
+    "def": ""
+   }
+  ]
+ },
+ "arabian": {
+  "ph": "/ә'reibiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "阿拉伯的, 阿拉伯人的",
+    "def": "relating to or associated with Arabia or its people"
+   }
+  ],
+  "forms": "複數 arabians"
+ },
+ "arabic": {
+  "ph": "/'ærәbik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿拉伯語",
+    "def": "the Semitic language of the Arabs; spoken in a variety of dialects"
+   },
+   {
+    "pos": "adj.",
+    "zh": "阿拉伯語的, 阿拉伯人的, 阿拉伯式的",
+    "def": "relating to or characteristic of Arabs"
+   }
+  ]
+ },
+ "arabica": {
+  "ph": "/ә'reibikә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "咖啡, 咖啡樹子",
+    "def": ""
+   }
+  ]
+ },
+ "arable": {
+  "ph": "/'ærәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適於耕種的, 可耕的",
+    "def": ""
+   }
+  ]
+ },
+ "arachidonic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "花生四烯酸",
+    "def": ""
+   }
+  ]
+ },
+ "arachnid": {
+  "ph": "/ә'ræknid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛛形綱動物",
+    "def": "air-breathing arthropods characterized by simple eyes and four pairs of legs"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蜘蛛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arachnids"
+ },
+ "arafat": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿拉法特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "aragon": {
+  "ph": "/'ærә^әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西班牙北部地方",
+    "def": "French writer who generalized surrealism to literature (1897-1982)"
+   }
+  ]
+ },
+ "aragonese": {
+  "ph": "/'ærә^ә'ni:z/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿拉貢[人]的, 阿拉貢語的",
+    "def": ""
+   }
+  ]
+ },
+ "aramaic": {
+  "ph": "/.ærә'meiik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿拉姆語",
+    "def": "a Semitic language originally of the ancient Arameans but still spoken by other people in southwestern Asia"
+   }
+  ]
+ },
+ "aran": {
+  "ph": "/'ærən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿然（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arans"
+ },
+ "ararat": {
+  "ph": "/'ærәræt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(Mount)阿勒山[土耳其東部](一譯\"亞拉臘\", 據基督教《聖經》載,大洪水後諾亞方舟即停於此)",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 ararats"
+ },
+ "arb": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "空氣資源委員會（Air Resources Board）；航空註冊局（Air Registration Board）；航空研究局（Air Pesearch Bureau）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arbs"
+ },
+ "arbiter": {
+  "ph": "/'ɑ:bitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仲裁人, 裁決者, 公斷人",
+    "def": "someone with the power to settle matters at will"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 判優程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arbiters"
+ },
+ "arbitrage": {
+  "ph": "/.ɑ:bi'trɑ:ʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "套利, 套匯, 仲裁",
+    "def": "a kind of hedged investment meant to capture slight differences in price; when there is a difference in the price of something on two different markets the arbi"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 套匯, 套利, 公斷",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 arbitraging｜複數 arbitrages｜過去式 arbitraged｜第三人稱單數 arbitrages｜過去分詞 arbitraged"
+ },
+ "arbitrageur": {
+  "ph": "/'ɑ:bitræ'ʒ\\\\\\\\:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "從事於套利(套匯)之人",
+    "def": "someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential)"
+   }
+  ],
+  "forms": "複數 arbitrageurs"
+ },
+ "arbitral": {
+  "ph": "/'ɑ:bitrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "仲裁的",
+    "def": "relating to or resulting from arbitration"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可仲裁的, 仲裁的, 公斷的",
+    "def": ""
+   }
+  ]
+ },
+ "arbitrarily": {
+  "ph": "/'ɑ:bitrәrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "任意地, 武斷地, 專橫地, 反覆無常地",
+    "def": ""
+   }
+  ]
+ },
+ "arbitrariness": {
+  "ph": "/'ɑ:bitrәrinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "任意, 武斷, 專斷, 反覆無常",
+    "def": ""
+   }
+  ]
+ },
+ "arbitrary": {
+  "ph": "/'ɑ:bitrәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "任意的, 武斷的, 專治的, 霸道的",
+    "def": "based on or subject to individual discretion or preference or sometimes impulse or caprice"
+   }
+  ]
+ },
+ "arbitrate": {
+  "ph": "/'ɑ:bitreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "仲裁, 公斷",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "進行仲裁",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 arbitrating｜第三人稱單數 arbitrates｜過去分詞 arbitrated｜過去式 arbitrated｜複數 arbitrates"
+ },
+ "arbitration": {
+  "ph": "/.ɑ:bi'treiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仲裁, 公斷",
+    "def": "(law) the hearing and determination of a dispute by an impartial referee agreed to by both parties (often used to settle disputes between labor and management)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 仲裁",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arbitrations"
+ },
+ "arbitrator": {
+  "ph": "/'ɑ:bitreitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仲裁人, 公斷者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 公斷人, 仲裁人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arbitrators"
+ },
+ "arbor": {
+  "ph": "/'ɑ:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藤架, 樹, 心軸, 涼亭",
+    "def": "tree (as opposed to shrub)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 樹(樹狀結構)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arbors"
+ },
+ "arboreal": {
+  "ph": "/ɑ:'bәuriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "樹的, 棲於樹木的",
+    "def": "inhabiting or frequenting trees"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 樹的, 樹上生活的",
+    "def": ""
+   }
+  ]
+ },
+ "arboretum": {
+  "ph": "/.ɑ:bә'ri:tәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樹木園, 植物園",
+    "def": "a facility where trees and shrubs are cultivated for exhibition"
+   }
+  ],
+  "forms": "複數 arboretums"
+ },
+ "arborist": {
+  "ph": "/'ɑ:bɔ:rist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樹木栽培家",
+    "def": ""
+   }
+  ]
+ },
+ "arborvitae": {
+  "ph": "/ɑ:bә'vaiti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金鐘柏, 小腦活樹",
+    "def": "any of several Asian and North American conifers of the genera Thuja and Thujopsis"
+   }
+  ]
+ },
+ "arbour": {
+  "ph": "/'ɑ:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藤架, 涼亭",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 心軸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arbours"
+ },
+ "arbroath": {
+  "ph": "/ɑ:'brəuθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿布羅斯（蘇格蘭北海海岸的漁港）",
+    "def": ""
+   }
+  ]
+ },
+ "arbuthnot": {
+  "ph": "/ɑ:'bʌθnәt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿巴斯諾特(姓氏)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arbuthnots"
+ },
+ "arc": {
+  "ph": "/ɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弧, 弧形, 弓形, 弧光",
+    "def": "a continuous portion of a circle"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 弧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arcs｜現在分詞 arcking｜過去式 arcked｜第三人稱單數 arcs｜過去分詞 arcked"
+ },
+ "arcade": {
+  "ph": "/ɑ:'keid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拱廊, 拱形建築物, 有拱廊的街道",
+    "def": "a covered passageway with shops and stalls on either side"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 弓形組織, 連拱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arcades｜現在分詞 arcading｜過去分詞 arcaded"
+ },
+ "arcaded": {
+  "ph": "/ɑ:'keidid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有拱廊的, 有拱頂裝飾的",
+    "def": "Furnished with an arcade."
+   }
+  ],
+  "forms": "過去分詞 arcaded"
+ },
+ "arcadia": {
+  "ph": "/ɑ:'keidiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "世外桃源；阿卡狄亞（古希臘一山區, 人情淳樸, 生活愉快）",
+    "def": "a department of Greece in the central Peloponnese"
+   }
+  ]
+ },
+ "arcadian": {
+  "ph": "/ɑ:'keidiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "阿卡迪亞的；田園牧歌式的, 田園的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arcadians"
+ },
+ "arcading": {
+  "ph": "/ɑ:'keidiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連拱飾",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使有拱廊（arcade的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 arcading"
+ },
+ "arcana": {
+  "ph": "/ɑ:'keinə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧秘；神秘；深奧的知識（arcanum的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "arcane": {
+  "ph": "/ɑ:'kein/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神秘的, 晦澀難解的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 arcanest"
+ },
+ "arce": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿爾塞（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 arced｜現在分詞 arcing｜過去分詞 arced"
+ },
+ "arch": {
+  "ph": "/ɑ:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拱門, 拱形, 足弓",
+    "def": "a curved shape in the vertical plane that spans an opening"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成弓形",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "拱起, 成弓形",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "主要的, 調皮的, 傲慢無禮的, 狡猾的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arches｜過去式 arched｜現在分詞 arching｜過去分詞 arched｜第三人稱單數 arches"
+ },
+ "archaeoastronomy": {
+  "ph": "/,ɑ:kiәuәs'trɔnәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考古天文學(指對古代天文學進行研究的考古學科)",
+    "def": ""
+   }
+  ]
+ },
+ "archaeological": {
+  "ph": "/.ɑ:kiә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "考古學的, 考古學上的",
+    "def": "related to or dealing with or devoted to archaeology"
+   }
+  ]
+ },
+ "archaeologically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "從考古學的角度來說（archaeological的副詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "archaeologist": {
+  "ph": "/.ɑ:ki'ɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考古學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 archaeologists"
+ },
+ "archaeology": {
+  "ph": "/.ɑ:ki'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考古學",
+    "def": ""
+   }
+  ]
+ },
+ "archaic": {
+  "ph": "/ɑ:'keiik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "古體的, 過時的, 古老的, 古代的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 原始的, 古代的",
+    "def": ""
+   }
+  ]
+ },
+ "archaism": {
+  "ph": "/'ɑ:keiizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古語, 擬古主義, 過時的事物",
+    "def": "the use of an archaic expression"
+   }
+  ],
+  "forms": "複數 archaisms"
+ },
+ "archangel": {
+  "ph": "/'ɑ:keindʒәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天使長, 第八級天使",
+    "def": "an angel ranked above the highest rank in the celestial hierarchy"
+   }
+  ],
+  "forms": "複數 archangels"
+ },
+ "archbishop": {
+  "ph": "/'ɑ:tʃ'biʃәp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大主教",
+    "def": "a bishop of highest rank"
+   }
+  ],
+  "forms": "複數 archbishops"
+ },
+ "archbishopric": {
+  "ph": "/.ɑ:tʃ'biʃәprik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大主教之職(或轄區)",
+    "def": "the territorial jurisdiction of an archbishop"
+   }
+  ],
+  "forms": "複數 archbishoprics"
+ },
+ "archdeacon": {
+  "ph": "/.ɑ:tʃ'di:kәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領班神父, (英國國教會)會吏總",
+    "def": "(Anglican Church) an ecclesiastical dignitary usually ranking just below a bishop"
+   }
+  ],
+  "forms": "複數 archdeacons"
+ },
+ "archdeaconry": {
+  "ph": "/.ɑ:tʃ'di:kәnri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "會吏總的監察區, 會吏總的職位",
+    "def": "the territorial jurisdiction of an archdeacon"
+   }
+  ],
+  "forms": "複數 archdeaconries"
+ },
+ "archdiocesan": {
+  "ph": "/,ɑ:tʃdai'ɔsisən/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "archdiocese的變形",
+    "def": "of or relating to an archdiocese"
+   }
+  ]
+ },
+ "archdiocese": {
+  "ph": "/.ɑ:tʃ'daiәsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大主教之管區",
+    "def": "the diocese of an archbishop"
+   }
+  ],
+  "forms": "複數 archdioceses"
+ },
+ "archduke": {
+  "ph": "/'ɑ:tʃ'dju:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大公",
+    "def": "a sovereign prince of the former ruling house of Austria"
+   }
+  ]
+ },
+ "arched": {
+  "ph": "/ɑ:tʃt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "弓形結構的, 拱形的",
+    "def": "constructed with or in the form of an arch or arches"
+   }
+  ],
+  "forms": "過去式 arched｜過去分詞 arched"
+ },
+ "archenemy": {
+  "ph": "/.ɑ:tʃ'enimi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魔王, 主要敵人",
+    "def": "A principal enemy. Specifically, Satan, the grand"
+   }
+  ]
+ },
+ "archeological": {
+  "ph": "/.ɑ:kiә'lɔdʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "考古學的",
+    "def": ""
+   }
+  ]
+ },
+ "archeologist": {
+  "ph": "/,ɑ:ki'ɔlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考古學家",
+    "def": "an anthropologist who studies prehistoric people and their culture"
+   }
+  ],
+  "forms": "複數 archeologists"
+ },
+ "archeology": {
+  "ph": "/ɑ:ki'ɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考古學",
+    "def": "the branch of anthropology that studies prehistoric people and their cultures"
+   }
+  ]
+ },
+ "archer": {
+  "ph": "/'ɑ:tʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弓箭手, 射箭運動員",
+    "def": "a person who is expert in the use of a bow and arrow"
+   }
+  ]
+ },
+ "archers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弓箭手（archer的複數形式）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 archers"
+ },
+ "archery": {
+  "ph": "/'ɑ:tʃәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "射箭術",
+    "def": "the sport of shooting arrows with a bow"
+   }
+  ]
+ },
+ "archetypal": {
+  "ph": "/'ɑ:kitaipl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "原型的",
+    "def": ""
+   }
+  ]
+ },
+ "archetype": {
+  "ph": "/'ɑ:tʃtaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "原型",
+    "def": ""
+   }
+  ],
+  "forms": "複數 archetypes"
+ },
+ "archetypical": {
+  "ph": "/,ɑ:ki'tipikəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "典型的",
+    "def": ""
+   }
+  ]
+ },
+ "archibald": {
+  "ph": "/'ɑ:tʃibɒ:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高射炮",
+    "def": ""
+   }
+  ]
+ },
+ "archie": {
+  "ph": "/'ɑ:tʃi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 擋案查訪工具",
+    "def": ""
+   }
+  ]
+ },
+ "archimedean": {
+  "ph": "/.ɑ:ki'mi:diәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "阿基米德的",
+    "def": "Of or pertaining to Archimedes, a celebrated Greek"
+   }
+  ]
+ },
+ "archimedes": {
+  "ph": "/.ɑ:ki'mi:di:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿基米德",
+    "def": "Greek mathematician and physicist noted for his work in hydrostatics and mechanics and geometry (287-212 BC)"
+   }
+  ]
+ },
+ "arching": {
+  "ph": "/'ɑ:tʃiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 拱作用, 架拱",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 arching"
+ },
+ "archipelago": {
+  "ph": "/.ɑ:ki'pelәgәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "群島, 多島嶼的海",
+    "def": "a group of many islands in a large body of water"
+   }
+  ],
+  "forms": "複數 archipelagos"
+ },
+ "architect": {
+  "ph": "/'ɑ:kitekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "建築師, 設計者, 締造者",
+    "def": "someone who creates plans to be used in making something (such as buildings)"
+   }
+  ],
+  "forms": "複數 architects"
+ },
+ "architected": {
+  "ph": "/'ɑːkɪtekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "建築師",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "締造者",
+    "def": ""
+   }
+  ]
+ },
+ "architectonic": {
+  "ph": "/.ɑ:kitek'tɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "建築學上的, 結構嚴謹合理的, 知識體系化的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 architectonics"
+ },
+ "architectural": {
+  "ph": "/.ɑ:ki'tektʃәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有關建築的, 建築學的",
+    "def": "of or pertaining to the art and science of architecture"
+   }
+  ]
+ },
+ "architecturally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "建築(學)上, 有一定結構地",
+    "def": ""
+   }
+  ]
+ },
+ "architecture": {
+  "ph": "/'ɑ:kitektʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "建築學, 建築式樣",
+    "def": "an architectural product or work"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 體系結構",
+    "def": ""
+   }
+  ],
+  "forms": "複數 architectures"
+ },
+ "architrave": {
+  "ph": "/'ɑ:kitreiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柱頂過樑, 門窗的頭線條板",
+    "def": "the molding around a door or window"
+   }
+  ],
+  "forms": "複數 architraves｜過去式 architraved"
+ },
+ "archival": {
+  "ph": "/ɑ: 'kaivәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "檔案的, 檔案中的",
+    "def": "of or relating to or contained in or serving as an archive"
+   }
+  ]
+ },
+ "archive": {
+  "ph": "/'ɑ:kaiv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把...存檔",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "檔案館, 檔案檔案",
+    "def": "a depository containing historical records and documents"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 擋案庫, 存檔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 archives｜現在分詞 archiving｜過去分詞 archived｜過去式 archived｜第三人稱單數 archives"
+ },
+ "archived": {
+  "ph": "/'ɑ:rkaɪvd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "存檔( archive的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 archived"
+ },
+ "archives": {
+  "ph": "/'ɑ:kaivz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檔案, 檔案室",
+    "def": "collection of records especially about an institution"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 公文件案, 案卷, 檔案保管處",
+    "def": ""
+   }
+  ]
+ },
+ "archiving": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 歸檔, 檔案存放",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 archiving"
+ },
+ "archivist": {
+  "ph": "/'ɑ:kivist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "案卷保管員",
+    "def": "a person in charge of collecting and cataloguing archives"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 檔案保管人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 archivists"
+ },
+ "archly": {
+  "ph": "/'ɑ:tʃli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "狡猾地, 頑皮地, 主要地, 淘氣地",
+    "def": ""
+   }
+  ]
+ },
+ "archrival": {
+  "ph": "/'ɑ:tʃ'rɑɪvəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主要競爭對手",
+    "def": ""
+   }
+  ]
+ },
+ "archway": {
+  "ph": "/'ɑ:tʃwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拱門, 拱道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 archways"
+ },
+ "arcing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 電弧作用",
+    "def": ""
+   }
+  ]
+ },
+ "arcminute": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "弧分",
+    "def": ""
+   }
+  ]
+ },
+ "arco": {
+  "ph": "/'ɑ:kәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[音樂]以弓拉的",
+    "def": ""
+   }
+  ]
+ },
+ "arctic": {
+  "ph": "/'ɑ:ktik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "北極的, 極寒的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "北極圈, 北極",
+    "def": "the regions to the north of the Arctic Circle centered on the North Pole"
+   }
+  ],
+  "forms": "複數 arctics"
+ },
+ "arden": {
+  "ph": "/'ɑ:dәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "昔時阿爾丁的森林地帶；浪漫的地方",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ardens"
+ },
+ "ardenne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ardenne)人名；(德、法)阿登",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "法國織錦毯",
+    "def": ""
+   }
+  ]
+ },
+ "ardent": {
+  "ph": "/'ɑ:dnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熱心的, 激動的, 燃燒般的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 灼熱的; 熱心的",
+    "def": ""
+   }
+  ]
+ },
+ "ardently": {
+  "ph": "/'ɑ:dntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "熱心地, 熱烈地",
+    "def": ""
+   }
+  ]
+ },
+ "ardor": {
+  "ph": "/'ɑ:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱忱, 熱情, 情慾, 激情, 灼熱",
+    "def": "a feeling of strong eagerness (usually in favor of a person or cause)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 灼熱; 熱心",
+    "def": ""
+   }
+  ]
+ },
+ "ardour": {
+  "ph": "/'ɑ:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱忱, 熱情, 情慾, 激情, 灼熱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ardours"
+ },
+ "ards": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "急性呼吸窘迫綜合徵（Acute Respiratory Distress Syndrome）；航空研究發展局（Aviation Research and Development Service）",
+    "def": ""
+   }
+  ]
+ },
+ "arduous": {
+  "ph": "/'ɑ:djuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "費力的, 努力的, 險峻的",
+    "def": ""
+   }
+  ]
+ },
+ "arduously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嚴酷地；費力地",
+    "def": ""
+   }
+  ]
+ },
+ "are": {
+  "ph": "/ɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "be的現在時複數或第二人稱單數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ares"
+ },
+ "area": {
+  "ph": "/'єәriә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "區域, 面積, 範圍, 空地",
+    "def": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 區域",
+    "def": ""
+   }
+  ],
+  "forms": "複數 areas"
+ },
+ "areal": {
+  "ph": "/'εәriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地區的；面積的；廣大的",
+    "def": "of or relating to or involving an area"
+   }
+  ]
+ },
+ "areas": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "區域, 領域；面積（area的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "areawide": {
+  "ph": "/'eərɪə,waɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "全區域的；覆蓋全區的",
+    "def": ""
+   }
+  ]
+ },
+ "aren't": {
+  "ph": "/ɑ:nt/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "不是（are not）",
+    "def": ""
+   }
+  ]
+ },
+ "arena": {
+  "ph": "/ә'ri:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "角鬥場, 舞臺, 場地",
+    "def": "the central area of an ancient Roman amphitheater where contests and spectacles were held; especially an area that was strewn with sand"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尿沉渣, 尿沙; 腦沙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arenas"
+ },
+ "arens": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Arens)人名；(英、法、德、西、葡、瑞典)阿倫斯",
+    "def": ""
+   }
+  ]
+ },
+ "areola": {
+  "ph": "/æ'riәulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細隙, 網隙",
+    "def": "small space in a tissue or body part such as the area between veins on a leaf or an insect's wing"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 暈; 細隙, 小區",
+    "def": ""
+   }
+  ]
+ },
+ "ares": {
+  "ph": "/'єәri:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戰神阿瑞斯",
+    "def": "(Greek mythology) Greek god of war; son of Zeus and Hera; identified with Roman Mars"
+   }
+  ]
+ },
+ "arf": {
+  "ph": "/ɑ:f/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "汪(狗吠聲)",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 arfs"
+ },
+ "argentina": {
+  "ph": "/.ɑ:dʒәn'ti:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿根廷",
+    "def": "a republic in southern South America; second largest country in South America"
+   }
+  ]
+ },
+ "argentine": {
+  "ph": "/'ɑ:dʒәntain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銀, 銀白色金屬, 銀白色魚鱗, 阿根廷人",
+    "def": "any of various small silver-scaled salmon-like marine fishes"
+   },
+   {
+    "pos": "adj.",
+    "zh": "銀的, 銀色的, 阿根廷的",
+    "def": "of or relating to or characteristic of Argentina or its people"
+   }
+  ],
+  "forms": "複數 argentines"
+ },
+ "argentinean": {
+  "ph": "/,ɑ:dʒәn'tiniәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿根廷的, 阿根廷人的, 阿根廷人",
+    "def": ""
+   }
+  ]
+ },
+ "argentinian": {
+  "ph": "/,a:dʒən'tiniən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿根廷人",
+    "def": "a native or inhabitant of Argentina"
+   },
+   {
+    "pos": "adj.",
+    "zh": "阿根廷的；阿根廷人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 argentinians"
+ },
+ "arginine": {
+  "ph": "/'ɑ:dʒini(:)n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 精氨酸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 精氨酸, 胍基戊氨酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arginines"
+ },
+ "argon": {
+  "ph": "/'ɑ:gɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氬",
+    "def": "a colorless and odorless inert gas; one of the six inert gases; comprises approximately 1% of the earth's atmosphere"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氬Ar",
+    "def": ""
+   }
+  ],
+  "forms": "複數 argons"
+ },
+ "argonaut": {
+  "ph": "/'ɑ:^әnɔ:t/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[希神]亞爾古英雄(隨同賈森乘亞爾古舟, 去海外尋找金羊毛的英雄)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 argonauts"
+ },
+ "argos": {
+  "ph": "/'ɑ:^әus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿哥斯（希臘東南一古城）",
+    "def": "an ancient city in southeastern Greece; dominated the Peloponnese in the 7th century BC"
+   }
+  ]
+ },
+ "argot": {
+  "ph": "/'ɑ:gәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行話, 俚語, 黑話",
+    "def": ""
+   }
+  ]
+ },
+ "arguable": {
+  "ph": "/'ɑ:gjuәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可辯論的, 可論證的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可爭辯的, 可論證的",
+    "def": ""
+   }
+  ]
+ },
+ "arguably": {
+  "ph": "/'ɑ:ɡjuәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可論證地；可爭辯地；正如可提出證據加以證明的那樣地",
+    "def": ""
+   }
+  ]
+ },
+ "argue": {
+  "ph": "/'ɑ:gju/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "提出理由, 爭論, 辯論",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "主張, 辯論, 證明, 說服",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 argued｜過去式 argued｜第三人稱單數 argues｜現在分詞 arguing"
+ },
+ "arguing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "爭辯；爭吵（argue的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 arguing"
+ },
+ "argument": {
+  "ph": "/'ɑ:gjumәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爭論, 論證, 論據, 自變數",
+    "def": "a fact or assertion offered as evidence that something is true"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 引數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arguments"
+ },
+ "argumentation": {
+  "ph": "/.ɑ:gjumen'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爭論, 辯論, 論證, 論據",
+    "def": "a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 論證",
+    "def": ""
+   }
+  ]
+ },
+ "argumentative": {
+  "ph": "/.ɑ:gju'mentәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好辯的, 引起爭論的, 論證式的",
+    "def": "given to or characterized by argument"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 爭辯的, 辯論的, 有爭議的",
+    "def": ""
+   }
+  ]
+ },
+ "argus": {
+  "ph": "/'ɑ:gәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "百眼巨人阿耳戈斯",
+    "def": "(Greek mythology) a giant with 100 eyes; was guardian of the heifer Io and was slain by Hermes"
+   }
+  ]
+ },
+ "argy": {
+  "ph": "/'ɑ:dʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英><貶>阿根廷佬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 argies"
+ },
+ "argyle": {
+  "ph": "/ɑ:'^ail,'ɑ:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(織品中的)多色菱形花紋, 多色菱形圖案的襪子",
+    "def": "a design consisting of a pattern of varicolored diamonds on a solid background (originally for knitted articles); patterned after the tartan of a clan in wester"
+   },
+   {
+    "pos": "adj.",
+    "zh": "(織品中)有多色菱形圖案的",
+    "def": ""
+   }
+  ]
+ },
+ "argyll": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿蓋爾郡（英國蘇格蘭原郡名）；阿吉爾（汽車標誌）",
+    "def": "a covered gravy holder of silver or other metal containing a detachable central vessel for hot water to keep the gravy warm"
+   }
+  ]
+ },
+ "argyrophil": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 嗜銀的",
+    "def": ""
+   }
+  ]
+ },
+ "ari": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 未熟紫膠; 木熟蟲膠(紫膠蟲湧散前採收的紫膠)",
+    "def": ""
+   }
+  ]
+ },
+ "aria": {
+  "ph": "/'ɑ:riә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獨唱特寫鏡頭, 詠歎調",
+    "def": "an elaborate song for solo voice"
+   }
+  ],
+  "forms": "複數 arias"
+ },
+ "ariadne": {
+  "ph": "/,æri'ædni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[希神]阿里阿德涅(國王Minos的女兒,曾給情人Theseus一個線團,幫助他走出迷宮)",
+    "def": "beautiful daughter of Minos and Pasiphae; she fell in love with Theseus and gave him the thread with which he found his way out of the Minotaur's labyrinth"
+   }
+  ]
+ },
+ "arian": {
+  "ph": "/'eәriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "信奉阿里烏斯教的；阿里烏斯派的",
+    "def": "& n. See Aryan."
+   }
+  ],
+  "forms": "複數 arians"
+ },
+ "ariane": {
+  "ph": "/,æri'æn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿里安（公司名）；阿麗亞娜（火箭名）；艾麗安（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "arias": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿里亞斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "arid": {
+  "ph": "/'ærid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "乾燥的, 不毛的",
+    "def": ""
+   }
+  ]
+ },
+ "aridity": {
+  "ph": "/ә'riditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乾旱, 不毛, 乏味",
+    "def": "a deficiency of moisture (especially when resulting from a permanent absence of rainfall)"
+   }
+  ],
+  "forms": "複數 aridities"
+ },
+ "ariel": {
+  "ph": "/'єәriәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瞪羚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ariels"
+ },
+ "aries": {
+  "ph": "/'єәri:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白羊座, 白羊宮",
+    "def": "(astrology) a person who is born while the sun is in Aries"
+   }
+  ]
+ },
+ "aright": {
+  "ph": "/ә'rait/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "正確地",
+    "def": ""
+   }
+  ]
+ },
+ "arise": {
+  "ph": "/ә'raiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "站立, 出現, 起來",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 arising｜第三人稱單數 arises｜過去式 arose｜過去分詞 arisen"
+ },
+ "aristide": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Aristide)人名；(法、意、希、羅)阿里斯蒂德",
+    "def": ""
+   }
+  ]
+ },
+ "aristo": {
+  "ph": "/ә'ristәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英口>(一個)貴族",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aristos"
+ },
+ "aristocracy": {
+  "ph": "/.æri'stɒkrәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貴族, 上層社會, 知識界傑出分子",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 貴族政治, 貴族統治",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aristocracies"
+ },
+ "aristocrat": {
+  "ph": "/'æristәkræt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貴族",
+    "def": "a member of the aristocracy"
+   }
+  ],
+  "forms": "複數 aristocrats"
+ },
+ "aristocratic": {
+  "ph": "/æristә'krætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貴族的, 主張貴族統紿的, 有貴族氣派的",
+    "def": ""
+   }
+  ]
+ },
+ "aristophanes": {
+  "ph": "/,æri'stɔfəni:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿里斯多芬尼斯（古希臘早期喜劇代表作家、詩人）",
+    "def": "an ancient Greek dramatist remembered for his comedies (448-380 BC)"
+   }
+  ]
+ },
+ "aristos": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貴族 (aristo的變形)",
+    "def": ""
+   }
+  ]
+ },
+ "aristotelian": {
+  "ph": "/.æristɒ'ti:ljәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞里士多德的, 亞里士多德哲學的",
+    "def": "of or relating to Aristotle or his philosophy"
+   },
+   {
+    "pos": "n.",
+    "zh": "亞里士多德學派的人",
+    "def": "a follower of Aristotle or an adherent of Aristotelianism"
+   }
+  ],
+  "forms": "複數 aristotelians"
+ },
+ "aristotle": {
+  "ph": "/'æristɒtl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞里士多德",
+    "def": "one of the greatest of the ancient Athenian philosophers; pupil of Plato; teacher of Alexander the Great (384-322 BC)"
+   }
+  ]
+ },
+ "arithmetic": {
+  "ph": "/ә'riθmәtik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "算術, 算術知識",
+    "def": "the branch of pure mathematics dealing with the theory of numerical calculations"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 算術; 算術的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arithmetics"
+ },
+ "arithmetical": {
+  "ph": "/.æriθ'metikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "算術的, 算術上的",
+    "def": "relating to or involving arithmetic"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 算術的",
+    "def": ""
+   }
+  ]
+ },
+ "arithmetically": {
+  "ph": "/,æriθ'metikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "算術上；[數] 用算術方法",
+    "def": ""
+   }
+  ]
+ },
+ "arizona": {
+  "ph": "/æri'zәunә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞利桑那州",
+    "def": "a state in southwestern United States; site of the Grand Canyon"
+   }
+  ]
+ },
+ "ark": {
+  "ph": "/ɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方舟, 櫃",
+    "def": "(Judaism) sacred chest where the ancient Hebrews kept the two tablets containing the Ten Commandments"
+   }
+  ],
+  "forms": "複數 arks"
+ },
+ "arkansas": {
+  "ph": "/'ɑ:kәnsɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿肯色州",
+    "def": "a state in south central United States; one of the Confederate states during the American Civil War"
+   }
+  ]
+ },
+ "arkell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人姓氏] 阿克爾 Arkle的變體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arkells"
+ },
+ "arkle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿克爾",
+    "def": ""
+   }
+  ]
+ },
+ "arkwright": {
+  "ph": "/'ɑ:krait/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿克賴特(①姓氏 ②Sir Richard, 1732-1792, 英國紡織機發明人 ③[arkwright ](能制箱、櫃等的)木匠)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arkwrights"
+ },
+ "arle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Arle)人名；(瑞典、芬)阿爾勒；(西)阿爾萊；(俄)阿爾勒",
+    "def": ""
+   }
+  ]
+ },
+ "arlene": {
+  "ph": "/ɑ:'li:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿琳（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "arlington": {
+  "ph": "/'ɑ:liŋtәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿林頓（美國馬薩諸塞州一城市）；阿林頓國家公墓（National Cemetery, 在弗吉尼亞州）",
+    "def": "a city in northern Texas between Dallas and Fort Worth"
+   }
+  ]
+ },
+ "arm": {
+  "ph": "/ɑ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手臂, 袖子, 狹長港灣, 武器",
+    "def": "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb"
+   },
+   {
+    "pos": "vt.",
+    "zh": "武裝, 裝備",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "武裝起來",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 非同步應答方式; 自動貨品銷路管理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arms｜過去分詞 armed｜現在分詞 arming｜過去式 armed｜第三人稱單數 arms"
+ },
+ "armada": {
+  "ph": "/ɑ:'mɑ:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艦隊",
+    "def": "a large fleet"
+   }
+  ],
+  "forms": "複數 armadas"
+ },
+ "armadillo": {
+  "ph": "/.ɑ:mә'dilәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犰狳",
+    "def": "burrowing chiefly nocturnal mammal with body covered with strong horny plates"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 南美犰狳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 armadillos"
+ },
+ "armageddon": {
+  "ph": "/,ɑ:mә'^edn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[聖經]哈米吉多頓(世界末日善惡決戰的戰場)",
+    "def": "(New Testament) the scene of the final battle between the kings of the Earth at the end of the world"
+   }
+  ]
+ },
+ "armagh": {
+  "ph": "/a:'ma:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿爾馬（地名, 位於北愛爾蘭自治區）",
+    "def": ""
+   }
+  ]
+ },
+ "armagnac": {
+  "ph": "/'ɑ:mәnjæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[亦作a-]阿馬尼亞克酒",
+    "def": "dry brandy distilled in the Armagnac district of France"
+   }
+  ],
+  "forms": "複數 armagnacs"
+ },
+ "armament": {
+  "ph": "/'ɑ:mәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍備, 軍隊, 武器",
+    "def": "weaponry used by military or naval force"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 武器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 armaments"
+ },
+ "armamentarium": {
+  "ph": "/,ɑ:mәmәn'teәriәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 醫療裝置",
+    "def": ""
+   }
+  ]
+ },
+ "armand": {
+  "ph": "/'ɑ:mɔnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿曼德(Herman的異體)(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "armando": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿曼多（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "armani": {
+  "ph": "/armʌni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿瑪尼（奢侈品品牌）",
+    "def": ""
+   }
+  ]
+ },
+ "armature": {
+  "ph": "/'ɑ:mә.tjuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "防衛器官, 盔甲, 電樞, 電纜的鎧裝",
+    "def": "coil in which voltage is induced by motion through a magnetic field"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 銜鐵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 armatures"
+ },
+ "armband": {
+  "ph": "/'ɑ:mbænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臂章",
+    "def": "worn around arm as identification or to indicate mourning"
+   }
+  ],
+  "forms": "複數 armbands"
+ },
+ "armchair": {
+  "ph": "/.ɑ:m'tʃєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扶手椅",
+    "def": "chair with a support on each side for arms"
+   }
+  ],
+  "forms": "複數 armchairs"
+ },
+ "armed": {
+  "ph": "/ɑ:md/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有扶手的, 武裝的, 有防衛器官的",
+    "def": "(used of persons or the military) characterized by having or bearing arms"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 武裝的, 持械的, \"F帶武器的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 armed"
+ },
+ "armed forces": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陸海空三軍; 武裝; 軍隊; 部隊",
+    "def": ""
+   }
+  ]
+ },
+ "armenia": {
+  "ph": "/ɑ:'mi:njә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞美尼亞",
+    "def": "a landlocked republic in southwestern Asia; formerly an Asian soviet; modern Armenia is but a fragment of ancient Armenia which was one of the world's oldest ci"
+   }
+  ]
+ },
+ "armenian": {
+  "ph": "/ɑ:'mi:njәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞美尼亞的, 亞美尼亞人的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "亞美尼亞人, 亞美尼亞語",
+    "def": "a native or inhabitant of Armenia"
+   }
+  ],
+  "forms": "複數 armenians"
+ },
+ "armful": {
+  "ph": "/'ɑ:mful/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一抱之量",
+    "def": "the quantity that can be contained in the arms"
+   }
+  ],
+  "forms": "複數 armfuls"
+ },
+ "armhole": {
+  "ph": "/'ɑ:mhәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "袖孔",
+    "def": "a hole through which you put your arm and where a sleeve can be attached"
+   }
+  ],
+  "forms": "複數 armholes"
+ },
+ "arming": {
+  "ph": "/'ɑ:miŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戰鬥準備, 裝彈",
+    "def": "the act of equiping with weapons in preparation for war"
+   }
+  ],
+  "forms": "現在分詞 arming｜複數 armings"
+ },
+ "armistice": {
+  "ph": "/'ɑ:mistis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "休戰, 停戰",
+    "def": "a state of peace agreed to between opponents so they can discuss peace terms"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 休戰, 停戰, 停火",
+    "def": ""
+   }
+  ],
+  "forms": "複數 armistices"
+ },
+ "armitage": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Armitage)人名；(英)阿米蒂奇",
+    "def": ""
+   }
+  ]
+ },
+ "armless": {
+  "ph": "/'ɑ:mlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無臂的, 無扶手的, 無武器的",
+    "def": "having no arms"
+   }
+  ]
+ },
+ "armlet": {
+  "ph": "/'ɑ:mlit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臂章, 臂釧, 小海灣",
+    "def": "a band worn around the arm for decoration"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [纏]臂帶(血壓計)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 armlets"
+ },
+ "armload": {
+  "ph": "/'ɑ:m.lәud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一抱之量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 armloads"
+ },
+ "armoire": {
+  "ph": "/ɑ:'mwɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大型衣櫥",
+    "def": "a large wardrobe or cabinet; originally used for storing weapons"
+   }
+  ]
+ },
+ "armor": {
+  "ph": "/'ɑ:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盔甲, 潛水服, 裝甲",
+    "def": "protective covering made of metal and used in combat"
+   },
+   {
+    "pos": "vt.",
+    "zh": "為...裝甲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 armoring｜過去式 armored｜第三人稱單數 armors｜過去分詞 armored"
+ },
+ "armored": {
+  "ph": "/'ɑ:mәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裝甲的",
+    "def": "protected by armor (used of persons or things military)"
+   }
+  ]
+ },
+ "armorer": {
+  "ph": "/'ɑ:mәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兵器製造者, 軍械士",
+    "def": "a worker skilled in making armor or arms"
+   }
+  ]
+ },
+ "armorial": {
+  "ph": "/ɑ:'mәuriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "上有紋章的",
+    "def": "of or relating to heraldry or heraldic arms"
+   }
+  ],
+  "forms": "複數 armorials"
+ },
+ "armory": {
+  "ph": "/'ɑ:mәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紋章, 紋章學, 軍械庫, 兵工廠",
+    "def": "a collection of resources"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 軍械庫",
+    "def": ""
+   }
+  ]
+ },
+ "armour": {
+  "ph": "/'ɑ:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甲冑, 裝甲, 潛水服",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 armoured｜現在分詞 armouring｜複數 armours｜過去式 armoured｜第三人稱單數 armours"
+ },
+ "armoured": {
+  "ph": "/'ɑ:mәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裝甲的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 armoured"
+ },
+ "armourer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "武器製造者, 軍械士",
+    "def": ""
+   }
+  ],
+  "forms": "複數 armourers"
+ },
+ "armoury": {
+  "ph": "/'ɑ:mәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍械庫, 兵工廠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 armouries"
+ },
+ "armpit": {
+  "ph": "/'ɑ:mpit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腋窩",
+    "def": "the hollow under the arm where it is joined to the shoulder"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腋, 腋窩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 armpits"
+ },
+ "armrest": {
+  "ph": "/'ɑ:mrest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扶手, 靠手",
+    "def": "a support for the arm"
+   }
+  ],
+  "forms": "複數 armrests"
+ },
+ "arms": {
+  "ph": "/ɑ:mz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "武器, 軍事行動",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 武器, 軍械, 槍械",
+    "def": ""
+   }
+  ]
+ },
+ "arms race": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍備競賽",
+    "def": ""
+   }
+  ]
+ },
+ "armstrong": {
+  "ph": "/'ɑ:mstrɔŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 公理",
+    "def": ""
+   }
+  ]
+ },
+ "army": {
+  "ph": "/'ɑ:mi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍隊, 陸軍",
+    "def": "a permanent organization of the military land forces of a nation or state"
+   }
+  ],
+  "forms": "複數 armies"
+ },
+ "arnaud": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Arnaud)人名；(德)阿瑙德；(英、法)阿諾",
+    "def": ""
+   }
+  ]
+ },
+ "arne": {
+  "ph": "/ɑ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿恩(①姓氏, 男子名 ②Thomas Augustine, 1710-1778, 英國作曲家)",
+    "def": ""
+   }
+  ]
+ },
+ "arnhem": {
+  "ph": "/'ɑ:nәm,'ɑ:nhem/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿納姆[荷蘭東部城市](或譯安亨)",
+    "def": ""
+   }
+  ]
+ },
+ "arnica": {
+  "ph": "/'ɑ:nikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山金車酊",
+    "def": "used especially in treating bruises"
+   }
+  ]
+ },
+ "arnie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Arnie)人名；(英)阿尼",
+    "def": ""
+   }
+  ]
+ },
+ "arno": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞諾河（義大利中部河流）",
+    "def": "a river in central Italy rising in the Apennines and flowing through Florence and Pisa to the Ligurian Sea"
+   }
+  ]
+ },
+ "arnold": {
+  "ph": "/'ɑ:nәld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿諾德（男子名）",
+    "def": "English poet and literary critic (1822-1888)"
+   }
+  ]
+ },
+ "arnot": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Arnot)人名；(德、英)阿諾特",
+    "def": "Alt. of Arnut"
+   }
+  ]
+ },
+ "arnott": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Arnott)人名；(英、西)阿諾特",
+    "def": ""
+   }
+  ]
+ },
+ "aroma": {
+  "ph": "/ә'rәumә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "濃香, 香氣",
+    "def": "a distinctive odor that is pleasant"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 香氣, 芳香氣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aromas"
+ },
+ "aromatherapist": {
+  "ph": "/ə,rəumə'θerəpist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芳香療法專家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aromatherapists"
+ },
+ "aromatherapy": {
+  "ph": "/ərəʊmə'θerəpɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用香料按摩",
+    "def": "the therapeutic use of aromatic plant extracts and essential oils in baths or massage"
+   }
+  ]
+ },
+ "aromatic": {
+  "ph": "/.ærәu'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "芬芳的",
+    "def": "(chemistry) of or relating to or containing one or more benzene rings"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 芳香的; 芳香劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aromatics"
+ },
+ "aron": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿倫（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "aronson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Aronson)人名；(英、俄)阿倫森；(瑞典)阿龍松",
+    "def": ""
+   }
+  ]
+ },
+ "around": {
+  "ph": "/ә'raund/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "包圍, 在...周圍, 四處",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "兜著圈子, 在附近, 到處",
+    "def": ""
+   }
+  ]
+ },
+ "arousal": {
+  "ph": "/ә'rauzl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奮發, 激勵",
+    "def": "the act of arousing"
+   }
+  ],
+  "forms": "複數 arousals"
+ },
+ "arouse": {
+  "ph": "/ә'rauz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "喚醒, 鼓勵, 引起",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "醒來",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 aroused｜過去式 aroused｜現在分詞 arousing｜第三人稱單數 arouses"
+ },
+ "aroused": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "喚醒",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aroused｜過去分詞 aroused"
+ },
+ "arousing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "振奮人心的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 arousing"
+ },
+ "arp": {
+  "ph": "/ɑ:p/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 地址辨識協議命令, 地址分辨協議",
+    "def": ""
+   }
+  ]
+ },
+ "arpeggio": {
+  "ph": "/ɑ:'pedʒiәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "琶音",
+    "def": "a chord whose notes are played in rapid succession rather than simultaneously"
+   }
+  ],
+  "forms": "複數 arpeggios"
+ },
+ "arraign": {
+  "ph": "/ә'rein/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "提訊, 傳訊, 責難",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 傳訊, 提審, 控告",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 arraigned｜過去式 arraigned｜現在分詞 arraigning｜第三人稱單數 arraigns"
+ },
+ "arraignment": {
+  "ph": "/ә'reinmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提訊, 傳訊, 責難",
+    "def": "a legal document calling someone to court to answer an indictment"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 提審, 訊問, 審問",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arraignments"
+ },
+ "arran": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿藍島（古地名）",
+    "def": ""
+   }
+  ]
+ },
+ "arrange": {
+  "ph": "/ә'reindʒ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "安排, 排列, 達成協議",
+    "def": "put into a proper or systematic order"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 重排",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 arranged｜現在分詞 arranging｜過去式 arranged｜第三人稱單數 arranges"
+ },
+ "arranged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "安排的",
+    "def": "disposed or placed in a particular kind of order"
+   }
+  ],
+  "forms": "過去分詞 arranged｜過去式 arranged"
+ },
+ "arrangement": {
+  "ph": "/ә'reindʒmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排列, 整齊, 安排",
+    "def": "an orderly grouping (of things or persons) considered as a unit; the result of arranging"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 排列",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arrangements"
+ },
+ "arranger": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 經辦者, 組織者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arrangers"
+ },
+ "arrant": {
+  "ph": "/'ærәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聲名狼藉的, 極惡的, 完全的",
+    "def": ""
+   }
+  ]
+ },
+ "arras": {
+  "ph": "/'ærәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花毯, 掛毯",
+    "def": ""
+   }
+  ]
+ },
+ "array": {
+  "ph": "/ә'rei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排列, 衣服, 大批, 軍隊",
+    "def": "an orderly arrangement"
+   },
+   {
+    "pos": "vt.",
+    "zh": "佈署, 打扮, 排列",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 陣列; 陣列",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arrays｜過去式 arrayed｜過去分詞 arrayed｜現在分詞 arraying｜第三人稱單數 arrays"
+ },
+ "arrayed": {
+  "ph": "/ə'reid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "排列的；擺好的；準備就序的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "排列（array的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 arrayed"
+ },
+ "arrears": {
+  "ph": "/ә'riәz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逾期債款, 欠帳",
+    "def": "the state of being behind in payments"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 延遲, 積欠, 尾數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arrears"
+ },
+ "arrest": {
+  "ph": "/ә'rest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逮捕, 監禁",
+    "def": "the state of inactivity following an interruption"
+   },
+   {
+    "pos": "vt.",
+    "zh": "拘捕, 抑制, 吸引, 阻止",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 arrested｜複數 arrests｜現在分詞 arresting｜過去式 arrested｜第三人稱單數 arrests"
+ },
+ "arrestable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可逮捕的",
+    "def": ""
+   }
+  ]
+ },
+ "arrested": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被捕的；逮捕的；被拘留的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 arrested"
+ },
+ "arrestee": {
+  "ph": "/ә,res'ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被逮捕者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 被逮捕者, 被逮捕人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arrestees"
+ },
+ "arresting": {
+  "ph": "/ә'restiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "引人注意的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 定位",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 arresting"
+ },
+ "arrestingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "arresting的變形",
+    "def": ""
+   }
+  ]
+ },
+ "arrhythmia": {
+  "ph": "/ә'riðmiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "心律不齊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 心律失常, 心律不齊, 無節律",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arrhythmias"
+ },
+ "arrhythmic": {
+  "ph": "/ә'riðmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無節奏的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 心律失常的, 心律不齊的, 無節律的",
+    "def": ""
+   }
+  ]
+ },
+ "arrival": {
+  "ph": "/ә'raivl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "到達, 抵達, 到達者",
+    "def": "accomplishment of an objective"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 到達, 到達物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arrivals"
+ },
+ "arrive": {
+  "ph": "/ә'raiv/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "到達, 抵達",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 arrived｜過去分詞 arrived｜現在分詞 arriving｜第三人稱單數 arrives"
+ },
+ "arriving": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "到達",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 arriving"
+ },
+ "arriviste": {
+  "ph": "/æri:'vist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴發戶, 野心勃勃的人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 暴發戶, 野心家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arrivistes"
+ },
+ "arrogance": {
+  "ph": "/'ærәgәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傲慢態度, 自大",
+    "def": "overbearing pride evidenced by a superior manner toward inferiors"
+   }
+  ]
+ },
+ "arrogant": {
+  "ph": "/'ærәɡәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自大的, 傲慢的",
+    "def": ""
+   }
+  ]
+ },
+ "arrogantly": {
+  "ph": "/'ærəgəntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "傲慢地；自大地",
+    "def": ""
+   }
+  ]
+ },
+ "arrogate": {
+  "ph": "/'ærәugeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "沒來由地把...歸屬於, 僭取",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 冒稱具有, 僭取, 侵佔",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 arrogated｜第三人稱單數 arrogates｜過去分詞 arrogated｜現在分詞 arrogating｜複數 arrogates"
+ },
+ "arrondissement": {
+  "ph": "/,ærɔn'di:s'mɑ:ŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法國的行政區, 郡",
+    "def": "A subdivision of a department."
+   }
+  ],
+  "forms": "複數 arrondissements"
+ },
+ "arrow": {
+  "ph": "/'ærәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "箭, 箭狀物, 箭頭記號",
+    "def": "a mark to indicate a direction or relation"
+   }
+  ],
+  "forms": "複數 arrows｜過去式 arrowed｜現在分詞 arrowing"
+ },
+ "arrowhead": {
+  "ph": "/'ærәuhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "箭頭, 鏃, 慈菇",
+    "def": "the pointed head or striking tip of an arrow"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 箭頭尖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arrowheads"
+ },
+ "arrowroot": {
+  "ph": "/'ærәuru:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "竹芋",
+    "def": "a nutritive starch obtained from the root of the arrowroot plant"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 竹芋, 竹芋澱粉",
+    "def": ""
+   }
+  ]
+ },
+ "arrowsmith": {
+  "ph": "/'ærəu,smiθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿羅史密斯（美國作家辛克萊·劉易斯的長篇小說）",
+    "def": "a maker of arrows"
+   }
+  ]
+ },
+ "arroyo": {
+  "ph": "/ә'rɒiәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乾涸溝壑, 旱谷, 小河",
+    "def": "a stream or brook"
+   }
+  ]
+ },
+ "ars": {
+  "ph": "/ɑ:z/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 先進記錄系統",
+    "def": ""
+   }
+  ]
+ },
+ "arse": {
+  "ph": "/ɑ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屁股",
+    "def": "vulgar slang for anus"
+   }
+  ],
+  "forms": "複數 arses｜過去分詞 arsed｜現在分詞 arsing｜過去式 arsed｜第三人稱單數 arses"
+ },
+ "arsehole": {
+  "ph": "/'ɑrshol/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屁眼兒, 肛門",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arseholes｜過去分詞 arseholed"
+ },
+ "arsenal": {
+  "ph": "/'ɑ:snәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兵工廠, 軍械庫",
+    "def": "all the weapons and equipment that a country has"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 兵工廠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arsenals"
+ },
+ "arsenate": {
+  "ph": "/'ɑ:sinit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 砷酸鹽(或酯)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 砷酸鹽",
+    "def": ""
+   }
+  ]
+ },
+ "arsenic": {
+  "ph": "/'ɑ:sәnik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "砷, 砒霜",
+    "def": "a white powdered poisonous trioxide of arsenic; used in manufacturing glass and as a pesticide (rat poison) and weed killer"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 砷As",
+    "def": ""
+   }
+  ]
+ },
+ "arsenical": {
+  "ph": "/ɑ:'senikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "砷, 砒霜",
+    "def": "relating to or containing arsenic"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 砷的; 砷劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arsenicals"
+ },
+ "arsenide": {
+  "ph": "/'ɑ:sәnaid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 砷化物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 砷化物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arsenides"
+ },
+ "arson": {
+  "ph": "/'ɑ:sәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縱火, 縱火罪",
+    "def": "malicious burning to destroy property"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 縱火, 放火",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arsons"
+ },
+ "arsonist": {
+  "ph": "/'ɑ:sәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縱火犯",
+    "def": "a criminal who illegally sets fire to property"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 縱火犯, 放火犯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arsonists"
+ },
+ "art": {
+  "ph": "/ɑ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藝術, 人文科學, 技術, 巧妙, 詭計, 美術",
+    "def": "the products of human creativity; works of art collectively"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 實際保持時間, 特許權和資源表, 平均檢索時間, 平均執行時間",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arts"
+ },
+ "art form": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "藝術形式（尤指文學, 繪畫, 音樂, 民歌等）",
+    "def": ""
+   }
+  ]
+ },
+ "arte": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "海軍部反應堆試驗研究所（Admiralty Reactor Test Establishment）；歐洲文化電視臺（Association Relative à la Télévision Européenne）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artes"
+ },
+ "artefact": {
+  "ph": "/'ɑ:tifækt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人工製品, 製造物, 人為現象, 膺象, 矯作物, 古代文物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人為現象, 人工產物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artefacts"
+ },
+ "artefactual": {
+  "ph": "/,ɑ:ti'fæktʃəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "artefact的變形",
+    "def": ""
+   }
+  ]
+ },
+ "artemis": {
+  "ph": "/'ɑ:timis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿耳特彌斯(月亮與狩獵的女神)",
+    "def": "(Greek mythology) the virgin goddess of the hunt and the Moon; daughter of Leto and twin sister of Apollo; identified with Roman Diana"
+   }
+  ]
+ },
+ "artemisia": {
+  "ph": "/,ɑ:ti'mi:ziә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]艾屬, 艾",
+    "def": "any of various composite shrubs or herbs of the genus Artemisia having aromatic green or greyish foliage"
+   }
+  ],
+  "forms": "複數 artemisias"
+ },
+ "arterial": {
+  "ph": "/ɑ:'tiәriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "動脈的, 脈絡狀的, 幹線的",
+    "def": "of or involving or contained in the arteries"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動脈的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arterials"
+ },
+ "arteriography": {
+  "ph": "/ɑ:.tiәri'ɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動脈造影術",
+    "def": "roentgenographic examination of arteries"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動脈搏描記法; 動脈造影術",
+    "def": ""
+   }
+  ]
+ },
+ "arteriosclerosis": {
+  "ph": "/ɑ:,tiәriәu,skliә'rәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動脈硬化",
+    "def": "sclerosis of the arterial walls"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動脈硬化",
+    "def": ""
+   }
+  ]
+ },
+ "arteriovenous": {
+  "ph": "/ɑ:,tiәriәu'vi:nәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 動靜脈的",
+    "def": ""
+   }
+  ]
+ },
+ "artery": {
+  "ph": "/'ɑ:tәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動脈, 幹道, 要道",
+    "def": "a blood vessel that carries blood from the heart to the body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動脈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arteries"
+ },
+ "artesian": {
+  "ph": "/ɑ:'ti:zjәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自動流出的",
+    "def": "(of water) rising to the surface under internal hydrostatic pressure"
+   }
+  ]
+ },
+ "artful": {
+  "ph": "/'ɑ:tful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "巧妙的, 狡猾的",
+    "def": "marked by skill in achieving a desired end especially with cunning or craft"
+   }
+  ]
+ },
+ "artfully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "狡詐地；巧妙地",
+    "def": ""
+   }
+  ]
+ },
+ "artfulness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狡猾",
+    "def": "the quality of being adroit in taking unfair advantage"
+   }
+  ]
+ },
+ "arthritic": {
+  "ph": "/ɑ:'θritik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "關節炎的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 關節炎的; 關節炎患者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arthritics"
+ },
+ "arthritis": {
+  "ph": "/ɑ:'θraitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關節炎",
+    "def": "inflammation of a joint or joints"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 關節炎",
+    "def": ""
+   }
+  ]
+ },
+ "arthroplasty": {
+  "ph": "/'ɑ:θrә,plæsti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 關節成形術",
+    "def": ""
+   }
+  ]
+ },
+ "arthropod": {
+  "ph": "/'ɑ:θrәpɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節肢動物",
+    "def": "invertebrate having jointed limbs and a segmented body with an exoskeleton made of chitin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 節肢動物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 arthropods｜第三人稱單數 arthropods"
+ },
+ "arthroscopy": {
+  "ph": "/ɑ:'θrɔskәpi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 關節[內窺]鏡檢查",
+    "def": ""
+   }
+  ]
+ },
+ "arthur": {
+  "ph": "/'ɑ:θә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞瑟（男子名）；亞瑟王（傳說中六世紀前後英國的國王, 圓桌騎士團的首領）",
+    "def": "elected vice president and became 21st President of the United States when Garfield was assassinated (1830-1886)"
+   }
+  ]
+ },
+ "arthurian": {
+  "ph": "/ɑ:'θjuriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞瑟王的",
+    "def": "of or relating to King Arthur and the Knights of the Round Table"
+   }
+  ]
+ },
+ "arti": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國國際搜救隊（American Rescue Team International）",
+    "def": ""
+   }
+  ]
+ },
+ "artic": {
+  "ph": "/'ɑ:tik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汽車列車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artics"
+ },
+ "artichoke": {
+  "ph": "/'ɑ:titʃәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朝鮮薊",
+    "def": "Mediterranean thistlelike plant widely cultivated for its large edible flower head"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 朝鮮薊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artichokes"
+ },
+ "article": {
+  "ph": "/'ɑ:tikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文章, 冠詞, 物品, 物件, 條款, 契約",
+    "def": "nonfictional prose forming an independent part of a publication"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 信件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 articles｜過去分詞 articled｜現在分詞 articling｜過去式 articled｜第三人稱單數 articles"
+ },
+ "articled": {
+  "ph": "/'ɑrtɪkld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "合同僱用培訓的；（學徒）受契約約束的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使受協議條款的約束；指控（article的過去式和過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 articled"
+ },
+ "articles": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文章；冠詞；物品；條款（article的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "articulacy": {
+  "ph": "/ɑ:'tikjjlәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "口齒清楚的說話能力",
+    "def": ""
+   }
+  ]
+ },
+ "articular": {
+  "ph": "/ɑ:'tikjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "關節的",
+    "def": "relating to or affecting the joints of the body"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 關節的",
+    "def": ""
+   }
+  ]
+ },
+ "articulate": {
+  "ph": "/ɑ:'tikjulit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發音清晰的, 口才好的",
+    "def": "expressing yourself easily or characterized by clear expressive language"
+   },
+   {
+    "pos": "vt.",
+    "zh": "明白地說, 以關節連線, 使成為系統的整體",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 articulated｜現在分詞 articulating｜第三人稱單數 articulates｜過去式 articulated"
+ },
+ "articulated": {
+  "ph": "/ɑ:'tikju:leitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鉸接式的；清晰的；組織縝密的；有關節的",
+    "def": "consisting of segments held together by joints"
+   }
+  ],
+  "forms": "過去分詞 articulated｜過去式 articulated"
+ },
+ "articulately": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "口齒清楚地; 發音清晰地",
+    "def": ""
+   }
+  ]
+ },
+ "articulateness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "清晰",
+    "def": ""
+   }
+  ]
+ },
+ "articulation": {
+  "ph": "/ɑ:.tikju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關節, 接合, 連貫, 發音, 表達",
+    "def": "the aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 清晰度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 articulations"
+ },
+ "articulator": {
+  "ph": "/ɑ:'tikjuleitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發音器官, 咬合架",
+    "def": "someone who pronounces words"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 聯接器; Ж架, 咬合架",
+    "def": ""
+   }
+  ],
+  "forms": "複數 articulators"
+ },
+ "articulatory": {
+  "ph": "/ɑ:'ti:kjulәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發音的, 關節的",
+    "def": "of or relating to articulation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 發言的, 言語的",
+    "def": ""
+   }
+  ]
+ },
+ "artifact": {
+  "ph": "/'ɑ:tifækt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人工製品",
+    "def": "a man-made object taken as a whole"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人為現象, 人工產物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artifacts"
+ },
+ "artifacts": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "史前古器物；人工產品",
+    "def": ""
+   }
+  ]
+ },
+ "artifactual": {
+  "ph": "/,ɑːtɪ'fæktʃʊəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人造的, 人工製造的, 加工的",
+    "def": "of or relating to artifacts"
+   }
+  ]
+ },
+ "artifice": {
+  "ph": "/'ɑ:tifis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詭計, 技巧, 巧妙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artifices"
+ },
+ "artificer": {
+  "ph": "/ɑ:'tifisә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "技工, 發明者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 牙技工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artificers"
+ },
+ "artificial": {
+  "ph": "/.ɑ:ti'fiʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人造的, 假的, 非原地產的",
+    "def": "contrived by art rather than nature"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人工的, 人造的, 偉牟",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artificials"
+ },
+ "artificial intelligence": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 人工智慧",
+    "def": ""
+   }
+  ]
+ },
+ "artificiality": {
+  "ph": "/.ɑ:tifiʃi'æliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人工製造, 虛假性, 不自然",
+    "def": "the quality of being produced by people and not occurring naturally"
+   }
+  ],
+  "forms": "複數 artificialities"
+ },
+ "artificially": {
+  "ph": "/.ɑ:ti'fiʃәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "人工地, 人為地, 不自然地",
+    "def": ""
+   }
+  ]
+ },
+ "artillery": {
+  "ph": "/ɑ:'tilәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火炮, 炮兵, 炮術",
+    "def": "large but transportable armament"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 火炮, 炮兵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artilleries"
+ },
+ "artilleryman": {
+  "ph": "/ɑ:'tilәrimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "炮兵, 炮手",
+    "def": "a serviceman in the artillery"
+   }
+  ],
+  "forms": "複數 artillerymen"
+ },
+ "artisan": {
+  "ph": "/.ɑ:ti'zæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工匠, 技工",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 熟練技術工, 匠人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artisans"
+ },
+ "artisanal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "手工藝性的",
+    "def": ""
+   }
+  ]
+ },
+ "artist": {
+  "ph": "/'ɑ:tist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藝術家, 畫家",
+    "def": "a person whose creative work shows sensitivity and imagination"
+   }
+  ],
+  "forms": "複數 artists"
+ },
+ "artiste": {
+  "ph": "/ɑ:'ti:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藝人, 技藝家",
+    "def": "a public performer (a dancer or singer)"
+   }
+  ],
+  "forms": "複數 artistes"
+ },
+ "artistic": {
+  "ph": "/ɑ:'tistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "藝術的, 藝術家的, 富有藝術性的",
+    "def": "relating to or characteristic of art or artists"
+   }
+  ]
+ },
+ "artistically": {
+  "ph": "/ɑ:'tistikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "富有藝術地, 在藝術上",
+    "def": ""
+   }
+  ]
+ },
+ "artistry": {
+  "ph": "/'ɑ:tistri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藝術性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artistries"
+ },
+ "artless": {
+  "ph": "/'ɑ:tlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無虛飾的, 單純的, 自然的",
+    "def": "simple and natural; without cunning or deceit"
+   }
+  ]
+ },
+ "artlessly": {
+  "ph": "/'ɑ:tlɪslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "天真爛漫地, 淳樸地",
+    "def": ""
+   }
+  ]
+ },
+ "artois": {
+  "ph": "/'ɑ:twɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿圖瓦（法國北部歷史地理區和舊省）",
+    "def": "a former province of northern France near the English Channel (between Picardy and Flanders)"
+   }
+  ]
+ },
+ "artsy": {
+  "ph": "/'ɑ:tsi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裝藝術的, 藝術家氣派的",
+    "def": ""
+   }
+  ]
+ },
+ "artur": {
+  "ph": "/'ɑ:tuə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿圖爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "arturo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿圖羅（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "artwork": {
+  "ph": "/'ɑ:twә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "插圖, 藝術作品",
+    "def": "photographs or other visual representations in a printed publication"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 原圖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 artworks"
+ },
+ "arty": {
+  "ph": "/'ɑ:ti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裝作愛好藝術的, 附庸風雅的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 artiest"
+ },
+ "arugula": {
+  "ph": "/ә'ru:^әlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]芝麻菜",
+    "def": ""
+   }
+  ]
+ },
+ "arum": {
+  "ph": "/'єәrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海芋屬植物",
+    "def": "starch resembling sago that is obtained from cuckoopint root"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 海芋屬",
+    "def": ""
+   }
+  ]
+ },
+ "arun": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿倫（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "arundel": {
+  "ph": "/'ærəndəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿倫德爾（汽車型號）；阿容鬥法",
+    "def": ""
+   }
+  ]
+ },
+ "aryan": {
+  "ph": "/'єәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "印歐語系的人, 雅利安人",
+    "def": "(according to Nazi doctrine) a Caucasian person of Nordic descent (and not a Jew)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "雅利安人的, 印歐語系語言的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aryans"
+ },
+ "arytenoid": {
+  "ph": "/,æri'ti:nɔid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 杓狀的",
+    "def": ""
+   }
+  ]
+ }
+}

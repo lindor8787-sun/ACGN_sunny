@@ -1,0 +1,69 @@
+{
+ "ld": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "致死劑量",
+    "def": ""
+   }
+  ]
+ },
+ "ldc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "less developed country 不發達國家; long-distance call 長途電話; leased directive circuits 一段時間指示電路; large document copier 大的檔案影印機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ldcs"
+ },
+ "lddc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "發展中國家中的最不發達國家（least developed among developing countries）；倫敦碼頭區開發有限公司（The London Docklands Development Corporation）",
+    "def": ""
+   }
+  ]
+ },
+ "ldl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 邏輯資料庫級",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 低密度脂蛋白",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ldls"
+ },
+ "ldp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "自由民主黨（Liberal Democratic Party）；增加標籤分發協議（Label Distribution Protocol）",
+    "def": ""
+   }
+  ]
+ },
+ "ldr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "光敏電阻（light dependent resistor）",
+    "def": ""
+   }
+  ]
+ }
+}

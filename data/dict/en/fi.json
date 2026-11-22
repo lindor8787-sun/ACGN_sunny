@@ -1,0 +1,4768 @@
+{
+ "fi": {
+  "ph": "/fai/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 格式標識碼, 前端處理器介面",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 場電離",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fi"
+ },
+ "fia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 流動注射分析",
+    "def": ""
+   }
+  ]
+ },
+ "fiance": {
+  "ph": "/fi'ɒnsei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "未婚夫",
+    "def": "a man who is engaged to be married"
+   }
+  ]
+ },
+ "fiancee": {
+  "ph": "/fi'ɒnsei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "未婚妻",
+    "def": "a woman who is engaged to be married"
+   }
+  ],
+  "forms": "複數 fiancees"
+ },
+ "fianna": {
+  "ph": "/'fi:ænə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬尼安運動員；愛爾蘭勇士",
+    "def": ""
+   }
+  ]
+ },
+ "fiasco": {
+  "ph": "/fi'æskәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慘敗, 大失敗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fiascos"
+ },
+ "fiat": {
+  "ph": "/'faiæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "命令, 嚴命, 許可",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 製成, 作成",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fiats"
+ },
+ "fib": {
+  "ph": "/fib/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小謊話",
+    "def": "a trivial lie"
+   },
+   {
+    "pos": "vi.",
+    "zh": "撒小謊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "一擊, 打",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fibs｜現在分詞 fibbing｜過去式 fibbed｜第三人稱單數 fibs｜過去分詞 fibbed"
+ },
+ "fiber": {
+  "ph": "/'faibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纖維, 構造, 纖維製品",
+    "def": "a slender and greatly elongated substance capable of being spun into yarn"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 纖維",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fibers"
+ },
+ "fiberboard": {
+  "ph": "/bɒrd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纖維板",
+    "def": "wallboard composed of wood chips or shavings bonded together with resin and compressed into rigid sheets"
+   }
+  ]
+ },
+ "fiberglass": {
+  "ph": "/'faibә^lɑ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玻璃纖維, 玻璃絲",
+    "def": "a covering material made of glass fibers in resins"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 玻璃纖維",
+    "def": ""
+   }
+  ]
+ },
+ "fibre": {
+  "ph": "/'faibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纖維, 構造, 纖維製品",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 纖維",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fibres"
+ },
+ "fibreboard": {
+  "ph": "/'faibәbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纖維板",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fibreboards"
+ },
+ "fibreglass": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玻璃纖維",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 玻璃纖維; 玻璃絲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fibreglassing"
+ },
+ "fibril": {
+  "ph": "/'faibril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小纖維, 鬚根",
+    "def": "a very slender natural or synthetic fiber"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 原纖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fibrils"
+ },
+ "fibrillation": {
+  "ph": "/,faibri'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纖維性顫動",
+    "def": "muscular twitching involving individual muscle fibers acting without coordination"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 纖維性顫動, 原纖維形成",
+    "def": ""
+   }
+  ]
+ },
+ "fibrin": {
+  "ph": "/'faibrin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纖維蛋白",
+    "def": "a white insoluble fibrous protein formed by the action of thrombin on fibrinogen when blood clots; it forms a network that traps red cells and platelets"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 血纖蛋白; 血纖維蛋白",
+    "def": ""
+   }
+  ]
+ },
+ "fibrinogen": {
+  "ph": "/fai'brinәdʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(血)纖維蛋白原",
+    "def": "a protein present in blood plasma; converts to fibrin when blood clots"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 血纖蛋白原; 血纖維蛋白原",
+    "def": ""
+   }
+  ]
+ },
+ "fibrinolytic": {
+  "ph": "/,faibrinəu'litik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "溶纖維蛋白藥",
+    "def": ""
+   }
+  ]
+ },
+ "fibroblast": {
+  "ph": "/'faibrәublɑ:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成纖維細胞",
+    "def": "a cell from which connective tissue develops"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 成纖維細胞, 纖維細胞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fibroblasts｜第三人稱單數 fibroblasts"
+ },
+ "fibrocystic": {
+  "ph": "/,faibrәj'sistik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 纖維囊性的",
+    "def": ""
+   }
+  ]
+ },
+ "fibroid": {
+  "ph": "/'faibrɒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "纖維性的, 纖維狀的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "纖維瘤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fibroids"
+ },
+ "fibromyalgia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]纖維肌痛",
+    "def": ""
+   }
+  ]
+ },
+ "fibrosis": {
+  "ph": "/fai'brәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纖維變性, 纖維化",
+    "def": "development of excess fibrous connective tissue in an organ"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 纖維變性, 纖維化",
+    "def": ""
+   }
+  ]
+ },
+ "fibrotic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "纖維變性, 纖維化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 纖維變性的",
+    "def": ""
+   }
+  ]
+ },
+ "fibrous": {
+  "ph": "/'faibrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "纖維的, 纖維性的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 纖維性",
+    "def": ""
+   }
+  ]
+ },
+ "fibula": {
+  "ph": "/'fibjulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腓骨, 搭扣, 釦針",
+    "def": "the outer and thinner of the two bones of the human leg between the knee and ankle"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腓骨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fibulas"
+ },
+ "fibular": {
+  "ph": "/'fibjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腓骨的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腓骨的, 腓側的",
+    "def": ""
+   }
+  ]
+ },
+ "fice": {
+  "ph": "/fais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(feist的變體)<美方>雜種小狗",
+    "def": ""
+   }
+  ]
+ },
+ "fickle": {
+  "ph": "/'fikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "變幻無常的, 浮燥的, 薄情的",
+    "def": ""
+   }
+  ]
+ },
+ "fickleness": {
+  "ph": "/'fɪklnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "易變; 無常; 浮躁; 變化無常",
+    "def": ""
+   }
+  ]
+ },
+ "fiction": {
+  "ph": "/'fikʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小說, 虛構故事",
+    "def": "a literary work based on the imagination and not necessarily on fact"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 虛構的事實, 捏造, 擬製",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fictions"
+ },
+ "fictional": {
+  "ph": "/'fikʃәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "虛構的, 編造的, 小說式的",
+    "def": "related to or involving literary fiction"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 擬製的, 假定的, 虛構的",
+    "def": ""
+   }
+  ]
+ },
+ "fictionalization": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "小說化",
+    "def": ""
+   }
+  ]
+ },
+ "fictionalize": {
+  "ph": "/'fikʃәnәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把...編成小說, 使小說化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fictionalized｜過去分詞 fictionalized｜現在分詞 fictionalizing｜第三人稱單數 fictionalizes"
+ },
+ "fictionalized": {
+  "ph": "/ˈfikʃənəlaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "把（歷史事件等）編成小說, 使小說化( fictionalize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "fictionally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "編造地, 杜撰地",
+    "def": ""
+   }
+  ]
+ },
+ "fictitious": {
+  "ph": "/fik'tiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "假想的, 編造的, 虛偽的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 假定的, 假設的, 虛構的",
+    "def": ""
+   }
+  ]
+ },
+ "fictive": {
+  "ph": "/'fiktiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "虛構的, 虛偽的, 想象上的",
+    "def": ""
+   }
+  ]
+ },
+ "ficus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 無花果屬",
+    "def": ""
+   }
+  ]
+ },
+ "fiddle": {
+  "ph": "/'fidl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小提琴, 提琴類樂器",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "虛度時光, 拉小提琴",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "拉小提琴, (無目的地)撥弄, 瞎搞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fiddling｜過去式 fiddled｜複數 fiddles｜過去分詞 fiddled｜第三人稱單數 fiddles"
+ },
+ "fiddlehead": {
+  "ph": "/'fidlhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提琴頭狀船首",
+    "def": ""
+   }
+  ]
+ },
+ "fiddler": {
+  "ph": "/'fidlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉提琴的人, 遊蕩者, 騙子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fiddlers"
+ },
+ "fiddling": {
+  "ph": "/'fidliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "拉小提琴的, 微小的, 無用的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fiddling"
+ },
+ "fiddly": {
+  "ph": "/'fidli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "需要手巧的, 要求高精度的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 fiddlier"
+ },
+ "fide": {
+  "ph": "/'fide/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[體]國際棋聯",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 fides｜複數 fides"
+ },
+ "fidel": {
+  "ph": "/fi'del/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卡斯特羅（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "fidelity": {
+  "ph": "/fi'deliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "忠實, 誠實, 忠誠, 保真度",
+    "def": "accuracy with which an electronic system reproduces the sound or image of its input signal"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 逼真度",
+    "def": ""
+   }
+  ]
+ },
+ "fidget": {
+  "ph": "/'fidʒit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "坐臥不安, 擺弄",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使煩亂, 使不安",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "煩躁不安, 坐立不安的人",
+    "def": "a feeling of agitation expressed in continual motion"
+   }
+  ],
+  "forms": "過去式 fidgeted｜第三人稱單數 fidgets｜複數 fidgets｜現在分詞 fidgeting｜過去分詞 fidgeted"
+ },
+ "fidgeting": {
+  "ph": "/ˈfɪdʒɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "坐立不安, 煩躁( fidget的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fidgeting"
+ },
+ "fidgety": {
+  "ph": "/'fidʒiti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不安的, 不沉著的, 煩燥的, 難以取悅的",
+    "def": ""
+   }
+  ]
+ },
+ "fido": {
+  "ph": "/faidәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有鑄造缺陷的硬幣；燃油加熱驅霧器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fidos"
+ },
+ "fiduciary": {
+  "ph": "/fi'dju:ʃjәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "基於信用的, 信託的, 受信託的",
+    "def": "relating to or of the nature of a legal trust (i.e. the holding of something in trust for another)"
+   },
+   {
+    "pos": "n.",
+    "zh": "被信託者, 受託人",
+    "def": "a person who holds assets in trust for a beneficiary"
+   }
+  ],
+  "forms": "複數 fiduciaries"
+ },
+ "fie": {
+  "ph": "/fai/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "咄, 呸",
+    "def": "An exclamation denoting contempt or dislike. See Fy."
+   }
+  ],
+  "forms": "過去式 fied"
+ },
+ "fiedler": {
+  "ph": "/'fi:dlә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "菲德勒(Arthur, 1894-1979, 美國管絃樂指揮家)",
+    "def": ""
+   }
+  ]
+ },
+ "fief": {
+  "ph": "/fi:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "封地, 采邑",
+    "def": "a piece of land held under the feudal system"
+   }
+  ],
+  "forms": "複數 fiefs"
+ },
+ "fiefdom": {
+  "ph": "/'fi:fdәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "封地, 采邑（等於fief）",
+    "def": "the domain controlled by a feudal lord"
+   }
+  ],
+  "forms": "複數 fiefdoms"
+ },
+ "field": {
+  "ph": "/fi:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領域, 田地, 場地, 戰場, 場, 域",
+    "def": "a piece of land cleared of trees and usually enclosed"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使...曬在場上, 使上場",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "田間的, 野生的, 野外的, 田賽的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 域, 欄位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fields｜現在分詞 fielding｜過去式 fielded｜過去分詞 fielded｜第三人稱單數 fields"
+ },
+ "field marshal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "陸軍元帥",
+    "def": ""
+   }
+  ]
+ },
+ "fielden": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人姓氏] 菲爾登 Field的變體",
+    "def": ""
+   }
+  ]
+ },
+ "fielder": {
+  "ph": "/'fi:ldә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外場員, 守隊隊員",
+    "def": "a member of the baseball team that is in the field instead of at bat"
+   }
+  ],
+  "forms": "複數 fielders"
+ },
+ "fieldfare": {
+  "ph": "/'fi:ldfєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "田鶇",
+    "def": "medium-sized Eurasian thrush seen chiefly in winter"
+   }
+  ],
+  "forms": "複數 fieldfares"
+ },
+ "fieldhouse": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人姓氏] 菲爾德豪斯地貌名稱, 來源於古英語, 含義是“草原, 曠野+房屋”(pasture,open country+house)",
+    "def": ""
+   }
+  ]
+ },
+ "fielding": {
+  "ph": "/'fi:ldiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "守備",
+    "def": "(baseball) handling the ball while playing in the field"
+   }
+  ]
+ },
+ "fields": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "域, 欄位；場設定（field複數形式）",
+    "def": "United States comedian and film actor (1880-1946)"
+   }
+  ]
+ },
+ "fieldstone": {
+  "ph": "/'fi:ldstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粗石；散石；大卵石",
+    "def": "stone that occurs naturally in fields; often used as building material"
+   }
+  ]
+ },
+ "fieldwork": {
+  "ph": "/'fi:ldwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "野戰工事, 野外工作",
+    "def": "a temporary fortification built by troops in the field"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 農田工作",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fieldworking"
+ },
+ "fieldworker": {
+  "ph": "/'fi:ld,w\\\\\\\\:kә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實地考察工作者",
+    "def": "a researcher who works in the field"
+   }
+  ],
+  "forms": "複數 fieldworkers"
+ },
+ "fiend": {
+  "ph": "/fi:nd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魔鬼, 邪神, 能手, 成癖者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fiends"
+ },
+ "fiendish": {
+  "ph": "/'fi:ndiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惡魔似的",
+    "def": ""
+   }
+  ]
+ },
+ "fiendishly": {
+  "ph": "/'fi:ndiʃli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "惡魔似, 極壞, 殘忍, 兇惡, (非正式)非常聰明, 不簡單, 不平凡",
+    "def": ""
+   }
+  ]
+ },
+ "fierce": {
+  "ph": "/fiәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "兇猛的, 猛烈的, 熱烈的, 暴躁的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 fiercest｜比較級 fiercer"
+ },
+ "fiercely": {
+  "ph": "/'fiәsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "猛烈地, 厲害地",
+    "def": ""
+   }
+  ]
+ },
+ "fierceness": {
+  "ph": "/fɪəsnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兇猛, 猛烈",
+    "def": ""
+   }
+  ]
+ },
+ "fiery": {
+  "ph": "/'faiәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熾熱的, 熱烈的, 暴躁的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 fieriest"
+ },
+ "fiesta": {
+  "ph": "/fi'estә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祭典日, 喜慶日, 假日",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fiestas"
+ },
+ "fif": {
+  "ph": "/'fɪf/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫][=feedback inhibition factor]反饋抑制因子",
+    "def": ""
+   }
+  ]
+ },
+ "fifa": {
+  "ph": "/'fi:fә/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "國際足球聯盟（Federation Internationale de Football Association）",
+    "def": ""
+   }
+  ]
+ },
+ "fife": {
+  "ph": "/faif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橫笛, 吹橫笛",
+    "def": "a small high-pitched flute similar to a piccolo; has a shrill tone and is used chiefly to accompany drums in a marching band"
+   },
+   {
+    "pos": "v.",
+    "zh": "吹橫笛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fifes"
+ },
+ "fifteen": {
+  "ph": "/'fif'ti:n/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "十五, 十五個",
+    "def": ""
+   }
+  ]
+ },
+ "fifteenth": {
+  "ph": "/'fif'ti:nθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第十五, 十五分之一",
+    "def": ""
+   }
+  ]
+ },
+ "fifth": {
+  "ph": "/fifθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第五, 五分之一",
+    "def": ""
+   }
+  ]
+ },
+ "fifthly": {
+  "ph": "/'fifθli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "第五, 第五地",
+    "def": ""
+   }
+  ]
+ },
+ "fifths": {
+  "ph": "/'fɪfθs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "第五",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "五分之一( fifth的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "fiftieth": {
+  "ph": "/'fiftiiθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第五十, 五十分之一",
+    "def": ""
+   }
+  ]
+ },
+ "fifty": {
+  "ph": "/'fifti/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "五十, 五十個",
+    "def": ""
+   }
+  ]
+ },
+ "fig": {
+  "ph": "/fig/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無花果, 無價值的東西, 少許, 服裝",
+    "def": "Mediterranean tree widely cultivated for its edible fruit"
+   },
+   {
+    "pos": "vt.",
+    "zh": "打扮, 使馬跑快",
+    "def": ""
+   }
+  ],
+  "forms": "複數 figs｜現在分詞 figging"
+ },
+ "figaro": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費加羅（男子名）",
+    "def": "An adroit and unscrupulous intriguer."
+   }
+  ]
+ },
+ "fight": {
+  "ph": "/fait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打架, 爭吵, 鬥志",
+    "def": "the act of fighting; any contest or struggle"
+   },
+   {
+    "pos": "v.",
+    "zh": "對抗, 打架",
+    "def": "fight against or resist strongly"
+   }
+  ],
+  "forms": "現在分詞 fighting｜過去式 fought｜過去分詞 fought｜複數 fights｜第三人稱單數 fights"
+ },
+ "fightback": {
+  "ph": "/'faitbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英>回擊, 反攻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fightbacks"
+ },
+ "fighter": {
+  "ph": "/'faitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬥士, 戰士, 好戰者, 戰鬥機",
+    "def": "a high-speed military or naval airplane designed to destroy enemy aircraft in the air"
+   }
+  ],
+  "forms": "複數 fighters"
+ },
+ "fighting": {
+  "ph": "/'faitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "戰鬥的, 容易引起爭鬥的, 適於格鬥的, 好鬥的, 好戰的, 鬥爭的, 搏鬥的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "戰鬥, 鬥爭, 搏鬥",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fighting"
+ },
+ "figment": {
+  "ph": "/'figmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "虛構的事",
+    "def": "a contrived or fantastic idea"
+   }
+  ],
+  "forms": "複數 figments"
+ },
+ "figs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無花果（fig的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "figural": {
+  "ph": "/'fi^jurәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "比喻的, 由人形象構成的, 具有人的形象的, 借喻的",
+    "def": ""
+   }
+  ]
+ },
+ "figuration": {
+  "ph": "/.figju'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "定形, 成形",
+    "def": "representing figuratively as by emblem or allegory"
+   }
+  ],
+  "forms": "複數 figurations"
+ },
+ "figurative": {
+  "ph": "/'figjurәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "比喻的, 象徵的, 修飾豐富的",
+    "def": "(used of the meanings of words or text) not literal; using figures of speech"
+   }
+  ]
+ },
+ "figuratively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "象徵性地；比喻地",
+    "def": ""
+   }
+  ]
+ },
+ "figure": {
+  "ph": "/'figә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "數字, 價格, 圖形, 形狀",
+    "def": "a diagram or picture illustrating textual material"
+   },
+   {
+    "pos": "vt.",
+    "zh": "描繪, 表示, 演算, 認為",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "計算, 出現, 估計",
+    "def": ""
+   }
+  ],
+  "forms": "複數 figures｜過去式 figured｜過去分詞 figured｜第三人稱單數 figures｜現在分詞 figuring"
+ },
+ "figurehead": {
+  "ph": "/'figәhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝飾船頭的人像, 傀儡領袖",
+    "def": "figure on the bow of some sailing vessels"
+   }
+  ],
+  "forms": "複數 figureheads"
+ },
+ "figures": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖形, 圖表；價格, 金額, 數字；規定動作；人物（figure的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "figurine": {
+  "ph": "/'figjuri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小雕像",
+    "def": "a small carved or molded figure"
+   }
+  ],
+  "forms": "複數 figurines"
+ },
+ "figuring": {
+  "ph": "/'fi^әriŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用數字表示；計算；修琢（figure的ing形式）",
+    "def": ""
+   }
+  ]
+ },
+ "fiji": {
+  "ph": "/fi:'dʒi:, 'fi:dʒi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斐濟(西太平洋), 斐濟語, 斐濟人",
+    "def": "an independent state within the British Commonwealth located on the Fiji Islands"
+   }
+  ]
+ },
+ "fijian": {
+  "ph": "/fi:'dʒi:әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斐濟人, 斐濟語",
+    "def": "a native or inhabitant of Fiji"
+   },
+   {
+    "pos": "adj.",
+    "zh": "斐濟的",
+    "def": "of or relating to Fiji or its people or language or culture"
+   }
+  ],
+  "forms": "複數 fijians"
+ },
+ "fil": {
+  "ph": "/fil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費爾（伊拉克的錢幣）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fils"
+ },
+ "filament": {
+  "ph": "/'filәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細絲, 細線, 燈絲, 單纖維",
+    "def": "the stalk of a stamen"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 長絲; 單絲(復絲中的單根細絲); 絲極",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filaments"
+ },
+ "filamentary": {
+  "ph": "/.filә'mentәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "細絲的, 單纖維的, 似絲的",
+    "def": "Having the character of, or formed by, a filament."
+   }
+  ]
+ },
+ "filamentous": {
+  "ph": "/.filә'mentәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "細絲狀的, 如絲的, 纖維所成的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 絲狀的, 絲性的",
+    "def": ""
+   }
+  ]
+ },
+ "filariasis": {
+  "ph": "/filә'raiәsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "絲蟲病",
+    "def": "a disease caused by nematodes in the blood or tissues of the body causing blockage of lymphatic vessels"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 絲蟲病",
+    "def": ""
+   }
+  ]
+ },
+ "filbert": {
+  "ph": "/'filbәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "榛樹, 榛子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filberts"
+ },
+ "filch": {
+  "ph": "/filtʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "偷竊, 竊取",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 filched｜過去式 filched｜現在分詞 filching｜第三人稱單數 filches"
+ },
+ "file": {
+  "ph": "/fail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檔案, 公文箱, 資料夾, 檔案, 卷宗, 銼刀",
+    "def": "a set of related records (either written or electronic) kept together"
+   },
+   {
+    "pos": "vi.",
+    "zh": "列隊行進, 用銼刀做",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "歸檔, 申請, 銼, 琢磨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 檔案",
+    "def": ""
+   }
+  ],
+  "forms": "複數 files｜過去分詞 filed｜過去式 filed｜現在分詞 filing｜第三人稱單數 files"
+ },
+ "filed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "[專利]申請；存檔（file的過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 filed｜過去分詞 filed"
+ },
+ "filename": {
+  "ph": "/fail'neim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檔名",
+    "def": "(computer science) the name given to a computer file in order to distinguish it from other files; may contain an extension that indicates the type of file"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 檔名",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filenames"
+ },
+ "filer": {
+  "ph": "/'failә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檔案編檔員, 檔案裝釘員, 銼磨工人",
+    "def": "a party who files a notice with a law court"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 檔案管理程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filers"
+ },
+ "filet": {
+  "ph": "/fi'lei, 'fi:lei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頭帶, 輪廓線, 帶狀物, 帶子, 束髮帶, 肉片, 魚片, 襻, 嵌條, 丘帶, (內)圓角",
+    "def": "lace having a square mesh"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用帶縛, 把(肉/魚)切成片, 用飾帶裝飾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filets"
+ },
+ "filial": {
+  "ph": "/'filiәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "子女的, 當做子女的, 孝順的",
+    "def": "designating the generation or the sequence of generations following the parental generation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 子女的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filials"
+ },
+ "filiation": {
+  "ph": "/.fili'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "父子關係, 分支, 父親身份的確定, 起源",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 私生子父親的確定, 關係的確定, 收作養子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filiations"
+ },
+ "filibuster": {
+  "ph": "/'filibʌstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阻撓議事的活動, 掠奪兵, 暴兵, 海盜",
+    "def": "a legislator who gives long speeches in an effort to delay or obstruct legislation that he (or she) opposes"
+   },
+   {
+    "pos": "vi.",
+    "zh": "掠奪",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "(以冗長的演說)阻礙議案透過",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 filibustering｜過去式 filibustered｜複數 filibusters｜第三人稱單數 filibusters｜過去分詞 filibustered"
+ },
+ "filigree": {
+  "ph": "/'filә^ri:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金銀細絲工藝, 精緻華麗而不很堅固的物品, 金絲的細工飾品",
+    "def": "delicate and intricate ornamentation (usually in gold or silver or other fine twisted wire)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 銀絲網",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filigrees"
+ },
+ "filing": {
+  "ph": "/'failiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銼, 琢磨, 銼屑",
+    "def": "the entering of a legal document into the public record"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 編檔; 檔案編排",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 filing｜複數 filings"
+ },
+ "filings": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銼屑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 銼屑",
+    "def": ""
+   }
+  ]
+ },
+ "filipino": {
+  "ph": "/.fili'pi:nәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲律賓人",
+    "def": "a native or inhabitant of the Philippines"
+   }
+  ],
+  "forms": "複數 filipinos"
+ },
+ "filippo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Filippo)人名；(意、西)菲利波",
+    "def": ""
+   }
+  ]
+ },
+ "fill": {
+  "ph": "/fil/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "裝滿, 填充, 瀰漫, 供給, 滿足, 供應",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "充滿, 變得沉重",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "滿足, 裝滿, 充分, 填方",
+    "def": "a quantity sufficient to satisfy"
+   },
+   {
+    "pos": "vt.",
+    "zh": "填充",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "填充",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 填充",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 filled｜過去式 filled｜現在分詞 filling｜第三人稱單數 fills"
+ },
+ "fille": {
+  "ph": "/fi:jә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（法）少女；女傭；姑娘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filles"
+ },
+ "filled": {
+  "ph": "/fild/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "加滿的；裝滿的；滿的",
+    "def": "of purchase orders that have been filled"
+   }
+  ],
+  "forms": "過去分詞 filled｜過去式 filled"
+ },
+ "filler": {
+  "ph": "/'filә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝填者, 補白, 裝填物",
+    "def": "used for filling cracks or holes in a surface"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 填充符",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fillers"
+ },
+ "fillet": {
+  "ph": "/'filit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頭帶, 帶子",
+    "def": "a boneless steak cut from the tenderloin of beef"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用帶縛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fillets｜現在分詞 filleting｜過去式 filleted｜第三人稱單數 fillets｜過去分詞 filleted"
+ },
+ "filling": {
+  "ph": "/'filiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "充填物, 填料",
+    "def": "any material that fills a space or container"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 加填; 填充",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 filling｜複數 fillings"
+ },
+ "fillip": {
+  "ph": "/'filip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "彈指, 刺激",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用指彈, 刺激",
+    "def": ""
+   }
+  ]
+ },
+ "filly": {
+  "ph": "/'fili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小雌馬, 小姑娘",
+    "def": "a young female horse under the age of four"
+   }
+  ],
+  "forms": "複數 fillies"
+ },
+ "film": {
+  "ph": "/film/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟片, 薄膜, 膠捲, 電影",
+    "def": "a medium that disseminates moving pictures"
+   },
+   {
+    "pos": "vt.",
+    "zh": "覆以薄膜, 拍攝",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "生薄膜, 拍電影",
+    "def": ""
+   }
+  ],
+  "forms": "複數 films｜現在分詞 filming｜過去分詞 filmed｜過去式 filmed｜第三人稱單數 films"
+ },
+ "film star": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "電影明星",
+    "def": ""
+   }
+  ]
+ },
+ "film-maker": {
+  "ph": "/ˈfɪlmˈmeɪkə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電影攝製者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 film-makers"
+ },
+ "filmed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "拍攝（復以薄膜）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 filmed｜過去分詞 filmed"
+ },
+ "filmer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲爾默（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "filmic": {
+  "ph": "/'filmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "電影的",
+    "def": ""
+   }
+  ]
+ },
+ "filming": {
+  "ph": "/'filmiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攝影；拍攝；薄膜形成",
+    "def": "the act of making a film"
+   }
+  ],
+  "forms": "現在分詞 filming"
+ },
+ "filmmaker": {
+  "ph": "/'film,meikә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電影製作人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filmmakers"
+ },
+ "filmmaking": {
+  "ph": "/'film.meikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製片, 電影攝製",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 filmmaking"
+ },
+ "filmography": {
+  "ph": "/fil'mɔ^rәfi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(某一導演攝製或名演員導演的)全部影片目錄",
+    "def": ""
+   }
+  ]
+ },
+ "filmstrip": {
+  "ph": "/'filmstrip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幻燈影片",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filmstrips"
+ },
+ "filmy": {
+  "ph": "/'filmi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "薄膜的, 薄的, 朦朧的",
+    "def": ""
+   }
+  ]
+ },
+ "filo": {
+  "ph": "/'failәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "制酥點用的擀成極薄層的生面",
+    "def": ""
+   }
+  ]
+ },
+ "filofax": {
+  "ph": "/ˈfaɪləʊfæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "備忘記事本（商標名稱）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filofaxes"
+ },
+ "filter": {
+  "ph": "/'filtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "濾波器, 過濾器, 濾光器, 過濾嘴, 去塵器",
+    "def": "device that removes something from whatever passes through it"
+   },
+   {
+    "pos": "vt.",
+    "zh": "過濾, 滲透, 走漏",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "濾過, 滲入",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 過濾器, 篩選",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filters｜過去分詞 filtered｜現在分詞 filtering｜第三人稱單數 filters｜過去式 filtered"
+ },
+ "filtered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "濾過的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 filtered｜過去分詞 filtered"
+ },
+ "filtering": {
+  "ph": "/'filtәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 過濾",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 filtering"
+ },
+ "filth": {
+  "ph": "/filθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汙穢, 不潔, 猥褻",
+    "def": "any substance considered disgustingly foul or unpleasant"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 汙穢, 汙物, 淫猥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filths"
+ },
+ "filthy": {
+  "ph": "/'filθi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "汙穢的, 醜惡的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 filthiest｜比較級 filthier"
+ },
+ "filtration": {
+  "ph": "/fil'treiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過濾",
+    "def": "the process whereby fluids pass through a filter or a filtering medium"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 過濾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 filtrations"
+ },
+ "fimbra": {
+  "ph": "/'fimbrə/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Financial Intermediaries, Managers and Brokers Association 金融中介人、經理、經紀人聯合會",
+    "def": ""
+   }
+  ]
+ },
+ "fin": {
+  "ph": "/fin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鰭, 魚翅, 鰭狀物, 五元紙幣",
+    "def": "a stabilizer on a ship that resembles the fin of a fish"
+   },
+   {
+    "pos": "vi.",
+    "zh": "猛揮鰭",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝上翅, 切除鰭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fins｜過去式 finned｜過去分詞 finned｜現在分詞 finning｜第三人稱單數 fins"
+ },
+ "finable": {
+  "ph": "/'fainәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "應罰款的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可罰款的, 該罰款的",
+    "def": ""
+   }
+  ]
+ },
+ "finagle": {
+  "ph": "/fi'neigl/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "欺騙, 哄騙, 欺瞞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 finagling｜過去式 finagled｜第三人稱單數 finagles｜過去分詞 finagled"
+ },
+ "final": {
+  "ph": "/'fainl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "期末考試, 結局, 決賽",
+    "def": "the final match between the winners of all previous matches in an elimination tournament"
+   },
+   {
+    "pos": "adj.",
+    "zh": "最後的, 終極的, 決定性的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 finals"
+ },
+ "finale": {
+  "ph": "/fi'nɑ:li/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結局, 最後樂章, 終曲",
+    "def": "the closing section of a musical composition"
+   }
+  ],
+  "forms": "複數 finales"
+ },
+ "finalise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把(計劃)最後定下來, 定稿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 使...結束",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 finalised｜現在分詞 finalising｜過去式 finalised｜第三人稱單數 finalises"
+ },
+ "finalist": {
+  "ph": "/'fainәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "決賽選手, 決賽隊",
+    "def": "a contestant who reaches the final stages of a competition"
+   }
+  ],
+  "forms": "複數 finalists"
+ },
+ "finality": {
+  "ph": "/fai'næliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "終結, 定局, 終結性言行",
+    "def": "the quality of being final or definitely settled"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 終結, 定局, 決定性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 finalities"
+ },
+ "finalization": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "終結, 結束；終止化",
+    "def": "the act of finalizing"
+   }
+  ]
+ },
+ "finalize": {
+  "ph": "/'fainәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使結束, 定稿",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "定局",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 finalized｜過去式 finalized｜現在分詞 finalizing｜第三人稱單數 finalizes"
+ },
+ "finalized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "完成（finalize的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 finalized"
+ },
+ "finally": {
+  "ph": "/'fainәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "最後, 終於",
+    "def": ""
+   }
+  ]
+ },
+ "finance": {
+  "ph": "/fai'næns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "財政, 財務",
+    "def": "the commercial activity of providing funds and capital"
+   },
+   {
+    "pos": "vt.",
+    "zh": "供給...經費, 負擔經費",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "籌措資金",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 financed｜複數 finances｜現在分詞 financing｜過去式 financed｜第三人稱單數 finances"
+ },
+ "financial": {
+  "ph": "/fai'nænʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "財政的, 金融的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 財政的, 金融的, 財務的",
+    "def": ""
+   }
+  ]
+ },
+ "financial year": {
+  "ph": "/faɪˈnænʃ(ə)l jə:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "財政年度",
+    "def": ""
+   }
+  ]
+ },
+ "financially": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "金融上；財政上",
+    "def": ""
+   }
+  ]
+ },
+ "financier": {
+  "ph": "/fai'nænsiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "財政家, 金融家",
+    "def": "a person skilled in large scale financial transactions"
+   },
+   {
+    "pos": "vi.",
+    "zh": "從事欺騙性金融活動, 欺騙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 financiers"
+ },
+ "financing": {
+  "ph": "/fai'nænsiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "融資, 理財, 籌集的資金",
+    "def": "the act of financing"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 籌措資金, 理財",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 financing｜複數 financings"
+ },
+ "finca": {
+  "ph": "/'fiŋkɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[西]種植園, 莊園, 地產",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fincas"
+ },
+ "finch": {
+  "ph": "/fintʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雀科鳴鳥",
+    "def": "any of numerous small songbirds with short stout bills adapted for crushing seeds"
+   }
+  ],
+  "forms": "複數 finches"
+ },
+ "finchley": {
+  "ph": "/'fintʃli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬奇利（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "find": {
+  "ph": "/faind/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "發現, 感到, 找到, 認為, 得到",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "裁決",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "發現",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 查詢; DOS外部命令:在指定的檔案或從鍵盤輸入的文字行中",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "尋找指定的字串, 將符合條件的行或行數輸出到標準輸出裝置上",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 found｜過去式 found｜現在分詞 finding｜第三人稱單數 finds｜複數 finds"
+ },
+ "finder": {
+  "ph": "/'faindә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發現者, 尋星鏡",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尋覓器, 探示器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 finders"
+ },
+ "finderscope": {
+  "ph": "/'faɪndəskəʊp/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尋星鏡",
+    "def": ""
+   }
+  ]
+ },
+ "finding": {
+  "ph": "/'faindiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發現, 發現物, 決定, 裁決",
+    "def": "the decision of a court on issues of fact or law"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 調查結果, 對事實的認定, 判定的要素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 findings｜現在分詞 finding"
+ },
+ "findlay": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Findlay)人名；(英)芬德利",
+    "def": ""
+   }
+  ]
+ },
+ "fine": {
+  "ph": "/fain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "罰款, 罰金, 晴天, 精細",
+    "def": "money extracted as a penalty"
+   },
+   {
+    "pos": "adj.",
+    "zh": "好的, 晴朗的, 健康的, 細小的, 精細的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "罰款, 精煉, 澄清",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變清, 變細",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "很好",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 精細",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 finest｜過去分詞 fined｜複數 fines｜比較級 finer｜過去式 fined｜第三人稱單數 fines｜現在分詞 fining"
+ },
+ "fine art": {
+  "ph": "/fain ɑ:t/",
+  "senses": [
+   {
+    "pos": "phr.",
+    "zh": "（依靠豐富經驗）在…方面的技能達到爐火純青的地步",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "美（藝）術（指繪畫和雕塑）; 美（藝）術品",
+    "def": ""
+   }
+  ]
+ },
+ "fined": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "罰錢（fine的過去式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fined"
+ },
+ "finely": {
+  "ph": "/'fainli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "雅緻地, 仔細地, 敏銳地, 微細地",
+    "def": ""
+   }
+  ]
+ },
+ "fineness": {
+  "ph": "/'fainnis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 掃描",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 純度, 成色",
+    "def": ""
+   }
+  ]
+ },
+ "finery": {
+  "ph": "/'fainәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(華麗的)裝飾, (華麗的)服飾, 鮮豔服裝, 幽雅, 精煉爐",
+    "def": "elaborate or showy attire and accessories"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 木炭吹煉爐; 木炭精煉爐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fineries"
+ },
+ "fines": {
+  "ph": "/fainz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細骨料；粉末；罰款（fine的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "finesse": {
+  "ph": "/fi'nes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "策略, 手段, (橋牌中的)飛牌",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "用計謀處理, 出小牌",
+    "def": ""
+   }
+  ]
+ },
+ "finfish": {
+  "ph": "/'finfiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動] 長鬚鯨",
+    "def": "A finback whale."
+   }
+  ]
+ },
+ "fing": {
+  "ph": "/'fɪŋ/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "finishing 最後的; 完工的; 結尾; 結束",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fings｜現在分詞 fing"
+ },
+ "finger": {
+  "ph": "/'fiŋgә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手指, 指狀物, (手套的)手指部分, 指標",
+    "def": "any of the terminal members of the hand (sometimes excepting the thumb)"
+   },
+   {
+    "pos": "v.",
+    "zh": "用手指撥弄, 伸出",
+    "def": "feel or handle with the fingers"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 網路命令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fingers｜過去式 fingered｜現在分詞 fingering｜過去分詞 fingered｜第三人稱單數 fingers"
+ },
+ "fingerboard": {
+  "ph": "/'fiŋ^әbɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "指板, 鍵盤",
+    "def": "a narrow strip of wood on the neck of some stringed instruments (violin or cello or guitar etc) where the strings are held against the wood with the fingers"
+   }
+  ],
+  "forms": "複數 fingerboards"
+ },
+ "fingering": {
+  "ph": "/'fiŋgәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用指摸弄, 撫弄, 用指彈奏, 細絨線",
+    "def": "the placement of the fingers for playing different notes (or sequences of notes) on a musical instrument"
+   }
+  ],
+  "forms": "複數 fingerings｜現在分詞 fingering"
+ },
+ "fingerless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無指的, 失去指的",
+    "def": "not having or having lost fingers"
+   }
+  ]
+ },
+ "fingerling": {
+  "ph": "/'fiŋgәliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小魚, 極小之物",
+    "def": "a young or small fish"
+   }
+  ],
+  "forms": "複數 fingerlings"
+ },
+ "fingernail": {
+  "ph": "/'fiŋgәneil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手指甲",
+    "def": "the nail at the end of a finger"
+   }
+  ],
+  "forms": "複數 fingernails"
+ },
+ "fingerprint": {
+  "ph": "/'fiŋgәprint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "指紋",
+    "def": "a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations"
+   },
+   {
+    "pos": "vt.",
+    "zh": "採指紋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fingerprints｜現在分詞 fingerprinting｜過去式 fingerprinted｜過去分詞 fingerprinted｜第三人稱單數 fingerprints"
+ },
+ "fingerprinting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 指紋法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fingerprinting"
+ },
+ "fingers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梳狀剔除器；手指頭, 指頭（finger複數）",
+    "def": ""
+   }
+  ]
+ },
+ "fingertip": {
+  "ph": "/'fiŋgәtip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "指尖, 指套",
+    "def": "the end (tip) of a finger"
+   }
+  ],
+  "forms": "複數 fingertips｜過去式 fingertipped"
+ },
+ "finial": {
+  "ph": "/'fainiәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尖頂飾, 頂尖",
+    "def": "an ornament at the top of a spire or gable; usually a foliated fleur-de-lis"
+   }
+  ],
+  "forms": "複數 finials"
+ },
+ "finicky": {
+  "ph": "/'finiki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過分注意的, 過分周到的, 過分講究的",
+    "def": ""
+   }
+  ]
+ },
+ "finis": {
+  "ph": "/'fainis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "終, 終結, 死",
+    "def": ""
+   }
+  ]
+ },
+ "finish": {
+  "ph": "/'finiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "完成, 結束, 末道漆, 磨光, 完美",
+    "def": "the place designated as the end (as of a race or journey)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "完成, 結束, 用完, 毀掉",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "結束",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 完成",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 finished｜過去式 finished｜現在分詞 finishing｜第三人稱單數 finishes｜複數 finishes"
+ },
+ "finished": {
+  "ph": "/'finiʃt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "完成的, 完結的, 精巧的, 完美的",
+    "def": "(of materials or goods) brought to the desired final state"
+   }
+  ],
+  "forms": "過去式 finished｜過去分詞 finished"
+ },
+ "finisher": {
+  "ph": "/'finiʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "完工者, 精整工, 整理工, 精軋機, 末道清棉機, 決定性的事件",
+    "def": "a racing driver who finishes a race"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 結束器, 修整器; 結束劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 finishers"
+ },
+ "finishing": {
+  "ph": "/'finiʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最後的, 終點的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 塗飾",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 finishing｜複數 finishings"
+ },
+ "finite": {
+  "ph": "/'fainait/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有限的, 有窮的, 限定的",
+    "def": "bounded or limited in magnitude or spatial or temporal extent"
+   },
+   {
+    "pos": "n.",
+    "zh": "有限物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 finites"
+ },
+ "finitude": {
+  "ph": "/'fainitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "界限, 限制",
+    "def": ""
+   }
+  ]
+ },
+ "fink": {
+  "ph": "/fiŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "破壞罷工的人, 告發人, 密告人",
+    "def": "someone acting as an informer or decoy for the police"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 內奸",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 finks｜複數 finks｜現在分詞 finking｜過去式 finked｜過去分詞 finked"
+ },
+ "finland": {
+  "ph": "/'finlәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬蘭",
+    "def": "republic in northern Europe; achieved independence from Russia in 1917"
+   }
+  ]
+ },
+ "finlay": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Finlay)人名；(英)芬利",
+    "def": ""
+   }
+  ]
+ },
+ "finlayson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Finlayson)人名；(英)芬利森",
+    "def": ""
+   }
+  ]
+ },
+ "finn": {
+  "ph": "/fin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬蘭人",
+    "def": "a native or inhabitant of Finland"
+   }
+  ],
+  "forms": "複數 finns"
+ },
+ "finnan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "燻鱈魚",
+    "def": ""
+   }
+  ]
+ },
+ "finned": {
+  "ph": "/find/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有鰭的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 finned"
+ },
+ "finnegan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Finnegan)人名；(英)芬尼根",
+    "def": ""
+   }
+  ]
+ },
+ "finney": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Finney)人名；(瑞典)芬內；(英)芬尼",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "芬尼",
+    "def": ""
+   }
+  ]
+ },
+ "finnish": {
+  "ph": "/'finiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬蘭語",
+    "def": "the official language of Finland; belongs to the Baltic Finnic family of languages"
+   },
+   {
+    "pos": "adj.",
+    "zh": "芬蘭的, 芬蘭人的, 芬蘭語的",
+    "def": "of or relating to or characteristic of Finland or the people of Finland"
+   }
+  ]
+ },
+ "finny": {
+  "ph": "/'fini/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有鰭的, 鰭狀的, 魚族的",
+    "def": "Having, or abounding in, fins, as fishes; pertaining to"
+   }
+  ]
+ },
+ "fino": {
+  "ph": "/'fi:nәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（西）淡色幹雪利酒",
+    "def": ""
+   }
+  ]
+ },
+ "finsbury": {
+  "ph": "/'fɪnzbərɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芬斯伯裡（（英國倫敦一區, 位於泰晤士河南岸）",
+    "def": ""
+   }
+  ]
+ },
+ "fiona": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲奧納（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "fiord": {
+  "ph": "/fjɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "峽灣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fiords"
+ },
+ "fir": {
+  "ph": "/fә:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樅樹, 杉木",
+    "def": "nonresinous wood of a fir tree"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 樅木",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firs"
+ },
+ "fire": {
+  "ph": "/'faiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火, 爐火, 電爐, 火災, 閃光體, 炮火, 熱情",
+    "def": "the event of something burning (often destructive)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "點燃, 燒製, 使發光, 激動, 放槍, 解僱",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "著火, 燒火, 開槍, 射擊, 激動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fires｜過去分詞 fired｜過去式 fired｜現在分詞 firing｜第三人稱單數 fires"
+ },
+ "fire brigade": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "消防隊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 消防隊",
+    "def": ""
+   }
+  ]
+ },
+ "firearm": {
+  "ph": "/'faiә'ɑ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火器, 槍炮",
+    "def": "a portable gun"
+   }
+  ],
+  "forms": "複數 firearms"
+ },
+ "fireback": {
+  "ph": "/'faiәbæk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 爐板",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firebacks"
+ },
+ "fireball": {
+  "ph": "/'faiәbɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火球, 大流星",
+    "def": "a ball of fire (such as the sun or a ball-shaped discharge of lightning)"
+   }
+  ],
+  "forms": "複數 fireballs"
+ },
+ "firebase": {
+  "ph": "/'faiәbeis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重火力點(向敵人發射重型炮火的軍事基地)",
+    "def": "an artillery base to support advancing troops"
+   }
+  ]
+ },
+ "firebird": {
+  "ph": "/'faiәbә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "北美黃鸝鳥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firebirds"
+ },
+ "fireboat": {
+  "ph": "/'faiәbәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救火船",
+    "def": "a boat equipped to fight fires on ships or along a waterfront"
+   }
+  ]
+ },
+ "firebomb": {
+  "ph": "/'faiәbɔm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火焰炸彈(燃燒彈和凝固汽油彈的總稱)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firebombs｜過去分詞 firebombed｜過去式 firebombed｜現在分詞 firebombing｜第三人稱單數 firebombs"
+ },
+ "firebombing": {
+  "ph": "/ˈfaiəbɔmɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "火焰炸彈（燃燒彈和凝固汽油彈的總稱）( firebomb的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firebombings｜現在分詞 firebombing"
+ },
+ "firebox": {
+  "ph": "/'faiәbɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火室, 燃燒室",
+    "def": "a furnace (as on a steam locomotive) in which fuel is burned"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 燃燒室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fireboxes"
+ },
+ "firebrand": {
+  "ph": "/'faiәbrænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火把, 在燃燒的木柴, 煽動叛亂者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firebrands"
+ },
+ "firebreak": {
+  "ph": "/'faiәbreik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "防火障",
+    "def": "a narrow field that has been cleared to check the spread of a prairie fire or forest fire"
+   }
+  ],
+  "forms": "複數 firebreaks"
+ },
+ "firecracker": {
+  "ph": "/'faiәkrækә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爆竹, 鞭炮",
+    "def": "firework consisting of a small explosive charge and fuse in a heavy paper casing"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 爆竹; 鞭炮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firecrackers"
+ },
+ "fired": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "因禍得福（電影名）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fired｜過去分詞 fired"
+ },
+ "firefight": {
+  "ph": "/'faiәfait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[軍]交火,火戰,炮戰",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 firefighting｜複數 firefights"
+ },
+ "firefighter": {
+  "ph": "/ˈfaɪəfaɪtə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>消防隊員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firefighters"
+ },
+ "firefighting": {
+  "ph": "/'faɪəfaɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "消防",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 firefighting"
+ },
+ "firefly": {
+  "ph": "/'faiәflai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "螢火蟲",
+    "def": "tropical American click beetle having bright luminous spots"
+   }
+  ],
+  "forms": "複數 fireflies"
+ },
+ "fireguard": {
+  "ph": "/'faiә^ɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壁爐欄, (森林)防火員, 火爐欄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fireguards"
+ },
+ "firehose": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "消防帶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firehoses｜現在分詞 firehosing"
+ },
+ "firehouse": {
+  "ph": "/'faiәhaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "消防站",
+    "def": ""
+   }
+  ]
+ },
+ "firelight": {
+  "ph": "/'faiәlait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火光",
+    "def": "the light of a fire (especially in a fireplace)"
+   }
+  ],
+  "forms": "複數 firelights"
+ },
+ "firelighter": {
+  "ph": "/ˈfaɪəlaɪtə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "引火物",
+    "def": "(a piece of) a substance that burns easily and can be used to start a coal or coke fire"
+   }
+  ],
+  "forms": "複數 firelighters"
+ },
+ "fireman": {
+  "ph": "/'faiәmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救火隊員, 消防隊員",
+    "def": "play in which children pretend to put out a fire"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 司爐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firemen"
+ },
+ "fireplace": {
+  "ph": "/'faiәpleis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壁爐",
+    "def": "an open recess in a wall at the base of a chimney where a fire can be built"
+   }
+  ],
+  "forms": "複數 fireplaces"
+ },
+ "fireplug": {
+  "ph": "/'faiәplʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "消防龍頭, 消防栓",
+    "def": "an upright hydrant for drawing water to use in fighting a fire"
+   }
+  ]
+ },
+ "firepower": {
+  "ph": "/'faiәpauә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火力",
+    "def": "(military) the relative capacity for delivering fire on a target"
+   }
+  ]
+ },
+ "fireproof": {
+  "ph": "/'faiәpru:f/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "耐火的, 防火的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變成有耐火性",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fireproofed｜現在分詞 fireproofing｜過去式 fireproofed｜第三人稱單數 fireproofs"
+ },
+ "fireside": {
+  "ph": "/'faiәsaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爐邊, 家庭, 家庭生活",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "在火爐邊的, 非正式的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firesides"
+ },
+ "firestone": {
+  "ph": "/'faiәstәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燧石, 耐火石",
+    "def": "a piece of flint that is struck to light a fire"
+   }
+  ],
+  "forms": "複數 firestones"
+ },
+ "firestorm": {
+  "ph": "/'faiәstɔ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風暴性大火",
+    "def": "a storm in which violent winds are drawn into the column of hot air rising over a severely bombed area"
+   }
+  ],
+  "forms": "複數 firestorms"
+ },
+ "firetrap": {
+  "ph": "/'faiәtræp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無太平門的建築物, 易失火的建築物",
+    "def": "a building that would be hard to escape from if it were to catch fire"
+   }
+  ],
+  "forms": "複數 firetraps"
+ },
+ "firetruck": {
+  "ph": "/faɪərt'rʌk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "救火車",
+    "def": ""
+   }
+  ]
+ },
+ "firewall": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 放火牆, 隔離",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firewalls｜第三人稱單數 firewalls"
+ },
+ "firewater": {
+  "ph": "/'faiәwɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烈酒",
+    "def": "any strong spirits (such as strong whisky or rum)"
+   }
+  ]
+ },
+ "fireweed": {
+  "ph": "/'faiәwi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火燒過的土地上易於生長的草類(如柳葉菜等)",
+    "def": "tall North American perennial with creeping rootstocks and narrow leaves and spikes of pinkish-purple flowers occurring in great abundance in burned-over areas "
+   }
+  ]
+ },
+ "firewood": {
+  "ph": "/'faiәwud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "木柴",
+    "def": "wood used for fuel"
+   }
+  ]
+ },
+ "firework": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煙火具, 煙火, 煙火訊號彈, 焰火, 激情的表現",
+    "def": "(usually plural) a device with an explosive that burns at a low rate and with colored flames; can be used to illuminate areas or send signals etc."
+   }
+  ],
+  "forms": "複數 fireworks"
+ },
+ "fireworks": {
+  "ph": "/'faiәwә:ks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煙火, 激烈爭論",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 焰火",
+    "def": ""
+   }
+  ]
+ },
+ "firing": {
+  "ph": "/'faiәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燒燬, 焚燒, 加熱, 添煤",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 點火",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 firing｜複數 firings"
+ },
+ "firm": {
+  "ph": "/fә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公司, 商號",
+    "def": "the members of a business organization that owns or operates one or more establishments"
+   },
+   {
+    "pos": "adj.",
+    "zh": "堅定的, 堅強的, 牢固的, 結實的, 堅硬的, 堅挺的, 嚴格的, 確定的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使牢固, 使堅定",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變穩固, 變堅實",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "穩固地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 firms｜比較級 firmer｜過去式 firmed｜過去分詞 firmed｜現在分詞 firming｜第三人稱單數 firms"
+ },
+ "firmament": {
+  "ph": "/'fә:mәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天空, 蒼天",
+    "def": ""
+   }
+  ]
+ },
+ "firmly": {
+  "ph": "/'fә:mli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "堅固, 堅定, 斷然",
+    "def": ""
+   }
+  ]
+ },
+ "firmness": {
+  "ph": "/'fә:mnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堅固, 堅牢, 堅定",
+    "def": "the muscle tone of healthy tissue"
+   }
+  ]
+ },
+ "firms": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公司, 廠商（firm的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "firmware": {
+  "ph": "/'fә:m,weә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 韌體",
+    "def": ""
+   }
+  ]
+ },
+ "first": {
+  "ph": "/fә:st/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "首先, 第一, 優先",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "第一的",
+    "def": "preceding all others in time or space or degree"
+   },
+   {
+    "pos": "num.",
+    "zh": "第一",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "開始, 第一",
+    "def": "the first or highest in an ordering or series"
+   }
+  ]
+ },
+ "first aid": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "急救",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 急救",
+    "def": ""
+   }
+  ]
+ },
+ "first ever": {
+  "ph": "/fə:st ˈevə/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "首次的；前所未有的；史無前例的",
+    "def": ""
+   }
+  ]
+ },
+ "first floor": {
+  "ph": "/fə:st flɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "第一層",
+    "def": ""
+   }
+  ]
+ },
+ "first hand": {
+  "ph": "/fə:st hænd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[體]第一家",
+    "def": ""
+   }
+  ]
+ },
+ "first lady": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "第一夫人",
+    "def": ""
+   }
+  ]
+ },
+ "first name": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "名",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 名字",
+    "def": ""
+   }
+  ]
+ },
+ "first night": {
+  "ph": "/fə:st nait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "首夜演出",
+    "def": ""
+   }
+  ]
+ },
+ "first person": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "第一人稱",
+    "def": ""
+   }
+  ]
+ },
+ "first-aid": {
+  "ph": "/'f\\\\\\\\:st'eid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "急救的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 first-aid"
+ },
+ "first-class": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最好的, 第一流的, 優秀的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "最好地, 第一流地, 優秀地",
+    "def": ""
+   }
+  ]
+ },
+ "first-rate": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "第一流的, 最上等的, 非常好的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "非常好地, 一流地",
+    "def": ""
+   }
+  ]
+ },
+ "firstborn": {
+  "ph": "/'fә:st'bɒ:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "第一胎生的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "初生兒, 長男, 長女",
+    "def": "the offspring who came first in the order of birth"
+   }
+  ]
+ },
+ "firsthand": {
+  "ph": "/'fә:st'hænd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "直接的, 直接得來的, 直接採購的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "直接地",
+    "def": ""
+   }
+  ]
+ },
+ "firstly": {
+  "ph": "/'fә:stli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "第一, 首先",
+    "def": ""
+   }
+  ]
+ },
+ "firth": {
+  "ph": "/fә:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "峽灣, 河口",
+    "def": "English linguist who contributed to linguistic semantics and to prosodic phonology and who was noted for his insistence on studying both sound and meaning in co"
+   }
+  ],
+  "forms": "複數 firths"
+ },
+ "fis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "家庭收入補貼（Family Income Supplement）",
+    "def": ""
+   }
+  ]
+ },
+ "fiscal": {
+  "ph": "/'fiskәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "財政的, 國庫的",
+    "def": "involving financial matters"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 財政上的, 會計的, 國庫的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fiscals"
+ },
+ "fiscal year": {
+  "ph": "/ˈfiskəl jə:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>財政年度, 會計年度",
+    "def": ""
+   }
+  ]
+ },
+ "fiscally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在國庫方面, 財政上, 在國庫歲入方面",
+    "def": ""
+   }
+  ]
+ },
+ "fischer": {
+  "ph": "/'fiʃə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費舍爾（諾貝爾化學獎獲得者）",
+    "def": "German chemist noted for his synthesis of hemin (1881-1945)"
+   }
+  ]
+ },
+ "fish": {
+  "ph": "/fiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魚, 魚肉, 魚類, 接合板",
+    "def": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills"
+   },
+   {
+    "pos": "vt.",
+    "zh": "釣, 釣魚, 查出, 用接合板連線",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "捕魚, 釣魚, 用鉤撈取, 摸索尋找",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fishes｜過去式 fished｜現在分詞 fishing｜過去分詞 fished｜第三人稱單數 fishes"
+ },
+ "fishable": {
+  "ph": "/'fiʃәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適合釣魚的, 可釣魚的",
+    "def": ""
+   }
+  ]
+ },
+ "fishbone": {
+  "ph": "/'fiʃbәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魚骨",
+    "def": "a bone of a fish"
+   }
+  ],
+  "forms": "複數 fishbones"
+ },
+ "fishbowl": {
+  "ph": "/'fiʃbәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玻璃魚缸",
+    "def": "a transparent bowl in which small fish are kept"
+   }
+  ],
+  "forms": "複數 fishbowls"
+ },
+ "fisher": {
+  "ph": "/'fiʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漁夫, 食魚動物, 漁船",
+    "def": "large dark brown North American arboreal carnivorous mammal"
+   }
+  ],
+  "forms": "複數 fishers"
+ },
+ "fisherfolk": {
+  "ph": "/fɪʃə'fəʊk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漁民; 漁工",
+    "def": ""
+   }
+  ]
+ },
+ "fisherman": {
+  "ph": "/'fiʃәmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漁夫, 釣魚者, 漁船",
+    "def": "someone whose occupation is catching fish"
+   }
+  ],
+  "forms": "複數 fishermen"
+ },
+ "fisherwoman": {
+  "ph": "/ˈfɪʃəwʊmən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "漁婆；漁婦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fisherwomen"
+ },
+ "fishery": {
+  "ph": "/'fiʃәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漁業",
+    "def": "a workplace where fish are caught and processed and sold"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 捕魚, 捕魚權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fisheries"
+ },
+ "fishfinder": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "魚群探測儀",
+    "def": ""
+   }
+  ]
+ },
+ "fishguard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "菲什加德",
+    "def": ""
+   }
+  ]
+ },
+ "fishhook": {
+  "ph": "/'fiʃhuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魚鉤, 釣鉤",
+    "def": "a sharp barbed hook for catching fish"
+   }
+  ],
+  "forms": "複數 fishhooks"
+ },
+ "fishing": {
+  "ph": "/'fiʃiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釣魚, 魚業",
+    "def": "the act of someone who fishes as a diversion"
+   },
+   {
+    "pos": "adj.",
+    "zh": "釣魚的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fishing｜複數 fishings"
+ },
+ "fishlike": {
+  "ph": "/'fiʃlaik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "似魚的, 冷淡的",
+    "def": "Like fish; suggestive of fish; having some of the"
+   }
+  ]
+ },
+ "fishman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捕魚人, 捕魚船",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fishmen"
+ },
+ "fishmeal": {
+  "ph": "/'fɪʃmi:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魚粉",
+    "def": ""
+   }
+  ]
+ },
+ "fishmonger": {
+  "ph": "/'fiʃ.mʌŋgә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魚販, 魚商",
+    "def": "someone who sells fish"
+   }
+  ],
+  "forms": "複數 fishmongers"
+ },
+ "fishnet": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魚網, 偽裝網",
+    "def": "a net that will enclose fish when it is pulled in"
+   }
+  ],
+  "forms": "複數 fishnets"
+ },
+ "fishpond": {
+  "ph": "/'fiʃpɒnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "養魚塘, 養魚池",
+    "def": "a freshwater pond with fish"
+   }
+  ],
+  "forms": "複數 fishponds"
+ },
+ "fishtail": {
+  "ph": "/'fiʃteil/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "魚尾狀的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "擺尾飛行",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fishtailed｜現在分詞 fishtailing｜第三人稱單數 fishtails｜過去分詞 fishtailed"
+ },
+ "fishwife": {
+  "ph": "/'fiʃwaif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賣魚婦, 說話粗野的女人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fishwives"
+ },
+ "fishy": {
+  "ph": "/'fiʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "魚似的, 多魚的, 腥臭的, 呆滯的",
+    "def": "of or relating to or resembling fish"
+   }
+  ],
+  "forms": "比較級 fishier"
+ },
+ "fisk": {
+  "ph": "/fisk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "國庫；羅馬皇帝王室財庫",
+    "def": ""
+   }
+  ]
+ },
+ "fiske": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fiske)人名；(英、西、德)菲斯克",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "菲斯克",
+    "def": ""
+   }
+  ]
+ },
+ "fison": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fison)人名；(英)法伊森",
+    "def": ""
+   }
+  ]
+ },
+ "fissile": {
+  "ph": "/'fisail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易分裂的, 易裂的, 分裂性的",
+    "def": "capable of being split or cleft or divided in the direction of the grain"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 可裂的",
+    "def": ""
+   }
+  ]
+ },
+ "fission": {
+  "ph": "/'fiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裂開, 分裂, 分體",
+    "def": "reproduction of some unicellular organisms by division of the cell into two more or less equal parts"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 裂變",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fissioning"
+ },
+ "fissionable": {
+  "ph": "/'fiʃәnәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可分裂的, 可裂變的",
+    "def": "capable of undergoing nuclear fission"
+   },
+   {
+    "pos": "n.",
+    "zh": "可裂變物質",
+    "def": ""
+   }
+  ]
+ },
+ "fissiparous": {
+  "ph": "/fi'sipәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分裂生殖的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 裂殖的",
+    "def": ""
+   }
+  ]
+ },
+ "fissure": {
+  "ph": "/'fiʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裂縫, 裂溝",
+    "def": "(anatomy) a long narrow slit or groove that divides an organ into lobes"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)裂開, (使)分裂",
+    "def": "break into fissures or fine cracks"
+   }
+  ],
+  "forms": "複數 fissures｜現在分詞 fissuring｜過去式 fissured｜第三人稱單數 fissures｜過去分詞 fissured"
+ },
+ "fissured": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裂縫的",
+    "def": ""
+   }
+  ]
+ },
+ "fist": {
+  "ph": "/fist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拳頭, 手",
+    "def": "a hand with the fingers clenched in the palm (as for hitting)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "拳打, 握成拳, 緊握",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fists｜現在分詞 fisting"
+ },
+ "fisted": {
+  "ph": "/'fistid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有拳頭的, 握成拳頭的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fisted"
+ },
+ "fistfight": {
+  "ph": "/'fistfait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "互毆",
+    "def": "a fight with bare fists"
+   }
+  ],
+  "forms": "複數 fistfights"
+ },
+ "fistful": {
+  "ph": "/'fistfjl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一把, 相當大的數量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fistfuls"
+ },
+ "fisticuff": {
+  "ph": "/'fistikʌf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拳的一擊",
+    "def": "A cuff or blow with the fist or hand"
+   }
+  ],
+  "forms": "複數 fisticuffs｜第三人稱單數 fisticuffs｜現在分詞 fisticuffing"
+ },
+ "fistula": {
+  "ph": "/'fistjulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘻, 瘻管",
+    "def": "an abnormal passage leading from a suppurating cavity to the body surface"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瘻, 瘻管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fistulas"
+ },
+ "fit": {
+  "ph": "/fit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適宜, 合身, 發作, 痙攣",
+    "def": "a display of bad temper"
+   },
+   {
+    "pos": "adj.",
+    "zh": "適宜的, 對的, 準備好的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "適合, 安裝, 使合身, 使適應, 使合格",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "適合, 符合, 合身",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 非特",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fitted｜第三人稱單數 fits｜現在分詞 fitting｜過去式 fitted｜複數 fits｜比較級 fitter｜最高級 fittest"
+ },
+ "fitch": {
+  "ph": "/fitʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾鼬, 艾鼬毛皮",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fitched｜複數 fitches"
+ },
+ "fitful": {
+  "ph": "/'fitful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "斷斷續續的, 一陣陣的, 間歇的",
+    "def": ""
+   }
+  ]
+ },
+ "fitfully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "斷斷續續地；發作地",
+    "def": ""
+   }
+  ]
+ },
+ "fitment": {
+  "ph": "/'fitmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傢俱, 配件, 裝置",
+    "def": "any of the items furnishing or equipping a room (especially built-in furniture)"
+   }
+  ],
+  "forms": "複數 fitments"
+ },
+ "fitness": {
+  "ph": "/'fitnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適合, 合宜, 合理, 恰當, 健康",
+    "def": "the quality of being suitable"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 適合性, 適應性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fitnesses"
+ },
+ "fitted": {
+  "ph": "/'fitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[表]配備的, 放在合適地位的",
+    "def": "being the right size and shape to fit as desired"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 擬定的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fitted｜過去式 fitted"
+ },
+ "fitter": {
+  "ph": "/'fitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裁剪和試樣的服裝工人/裁縫, 裝配工, 鉗工",
+    "def": "someone who fits a garment to a particular person"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 管工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fitters"
+ },
+ "fitting": {
+  "ph": "/'fitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適宜的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "試穿, 試衣, 裝配, 裝置",
+    "def": "a small and often standardized accessory to a larger system"
+   }
+  ],
+  "forms": "複數 fittings｜現在分詞 fitting"
+ },
+ "fittingly": {
+  "ph": "/'fɪtɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "適切地, 適合地",
+    "def": ""
+   }
+  ]
+ },
+ "fittipaldi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fittipaldi)人名；(英、西、葡、意)菲蒂帕爾迪",
+    "def": ""
+   }
+  ]
+ },
+ "fitzalan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 菲茨阿倫",
+    "def": ""
+   }
+  ]
+ },
+ "fitzgerald": {
+  "ph": "/fits'dʒerәld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲茨傑拉德（姓氏）；菲茨傑拉德（英國詩人、翻譯家, 愛德華·菲茨傑拉德）；菲茨傑拉德（美國作家, 弗·司各特·菲茨傑拉德）",
+    "def": "English poet remembered primarily for his free translation of the poetry of Omar Khayyam (1809-1883)"
+   }
+  ]
+ },
+ "fitzgibbon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fitzgibbon)人名；(英)菲茨吉本",
+    "def": ""
+   }
+  ]
+ },
+ "fitzpatrick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "菲茨帕特里克（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "fitzroy": {
+  "ph": "/fits'rɔi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菲茨羅伊（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "fitzsimmons": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fitzsimmons)人名；(英)菲茨西蒙斯",
+    "def": ""
+   }
+  ]
+ },
+ "fitzwilliam": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fitzwilliam)人名；(英)菲茨威廉",
+    "def": ""
+   }
+  ]
+ },
+ "five": {
+  "ph": "/faiv/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "五, 五個",
+    "def": ""
+   }
+  ]
+ },
+ "fivefold": {
+  "ph": "/'faivfәuld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "五重的, 五倍的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "五重地, 五倍地",
+    "def": ""
+   }
+  ]
+ },
+ "fivepence": {
+  "ph": "/'faifpәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "五便士",
+    "def": "a coin worth five cents"
+   }
+  ]
+ },
+ "fiver": {
+  "ph": "/'faivә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(英)(非正式)五鎊, 票面為五鎊的鈔票, (美)(非正式)票面為五元的鈔票",
+    "def": "a United States bill worth 5 dollars"
+   }
+  ],
+  "forms": "複數 fivers"
+ },
+ "fix": {
+  "ph": "/fiks/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使固定, 修理, 準備, 安裝, 凝視, 牢記, 確定, 整理",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "固定, 注視, 確定",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "困境, 方位, 維修, 賄賂",
+    "def": "informal terms for a difficult situation"
+   }
+  ],
+  "forms": "過去分詞 fixed｜現在分詞 fixing｜過去式 fixed｜第三人稱單數 fixes｜複數 fixes"
+ },
+ "fixable": {
+  "ph": "/'fiksәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可固定的",
+    "def": "Capable of being fixed."
+   }
+  ]
+ },
+ "fixate": {
+  "ph": "/'fikseit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "使固定, 使不變, 注視",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使固定, 注視",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fixated｜過去式 fixated｜現在分詞 fixating｜第三人稱單數 fixates｜複數 fixates"
+ },
+ "fixated": {
+  "ph": "/fɪkˈseɪtɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（對某人[某事物]）固戀, 異常依戀",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "視線移向( fixate的過去式和過去分詞 ); 注視; 使固定",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fixated｜過去分詞 fixated"
+ },
+ "fixation": {
+  "ph": "/fik'seiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "定置, 固定, 定色",
+    "def": "the activity of fastening something firmly in position"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 固定; 固定法, 固定術; 定影",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fixations"
+ },
+ "fixative": {
+  "ph": "/'fiksәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "固定的, 定色的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "固定劑, 定色劑, 定影液",
+    "def": "a compound (such as ethanol or formaldehyde) that fixes tissues and cells for microscopic study"
+   }
+  ],
+  "forms": "複數 fixatives"
+ },
+ "fixator": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 介體; 固定器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fixators"
+ },
+ "fixed": {
+  "ph": "/fikst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "固定的, 不變的",
+    "def": "securely placed or fastened or set"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 固定的, 確定的, 不變的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fixed｜過去式 fixed"
+ },
+ "fixedly": {
+  "ph": "/'fiksidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "固定, 不變, 不動",
+    "def": ""
+   }
+  ]
+ },
+ "fixer": {
+  "ph": "/'fiksә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "定色劑, 定影劑, 毒販子",
+    "def": "someone who intervenes with authorities for a person in trouble (usually using underhand or illegal methods for a fee)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 定影劑; 定香劑; 固色劑; 固著劑; 固定劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fixers"
+ },
+ "fixing": {
+  "ph": "/'fiksiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "固定, 穩固, 裝置, 調料",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 固定",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fixings｜現在分詞 fixing"
+ },
+ "fixity": {
+  "ph": "/'fiksәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "固定性, 不變性, 固定物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 固定, 入盆(指胎兒頭)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fixities"
+ },
+ "fixture": {
+  "ph": "/'fikstʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "固定(狀態), 固定物, 裝置",
+    "def": "an object firmly fixed in place (especially in a household)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 夾具",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fixtures｜現在分詞 fixturing"
+ },
+ "fiz": {
+  "ph": "/fiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發嘶嘶聲, 有泡沫的飲料",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "作嘶嘶聲",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fizzed｜現在分詞 fizzing"
+ },
+ "fizz": {
+  "ph": "/fiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "嘶嘶響, 顯示興奮",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "嘶嘶聲, 興奮, 活力",
+    "def": "an effervescent beverage (usually alcoholic)"
+   }
+  ],
+  "forms": "現在分詞 fizzing｜過去式 fizzed｜第三人稱單數 fizzes｜過去分詞 fizzed"
+ },
+ "fizzing": {
+  "ph": "/fɪzɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（液體, 通常指飲料）起泡, 發嘶嘶聲( fizz的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fizzing"
+ },
+ "fizzle": {
+  "ph": "/'fizl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘶嘶聲, 失敗",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發嘶嘶聲, 失敗",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fizzled｜過去分詞 fizzled｜第三人稱單數 fizzles｜現在分詞 fizzling｜複數 fizzles"
+ },
+ "fizzy": {
+  "ph": "/'fizi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嘶嘶作響的, 起泡沫的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 fizzier"
+ }
+}

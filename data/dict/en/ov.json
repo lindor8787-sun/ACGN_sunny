@@ -1,0 +1,3612 @@
+{
+ "ov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "觀測速度（observed velocity）；輸出閥（output valve）；過電壓（overvoltage）",
+    "def": ""
+   }
+  ]
+ },
+ "ova": {
+  "ph": "/'әuvә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "卵, 卵細胞, 卵子",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 卵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ova"
+ },
+ "oval": {
+  "ph": "/'әuvәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橢圓形",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "卵形的, 橢圓形的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ovals"
+ },
+ "ovaltine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿華田（營養品）",
+    "def": ""
+   }
+  ]
+ },
+ "ovarian": {
+  "ph": "/әu'vєәriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "子房的, 卵巢的, 果核的",
+    "def": "of or involving the ovaries"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 卵巢的",
+    "def": ""
+   }
+  ]
+ },
+ "ovary": {
+  "ph": "/'әuvәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卵巢, 子房, 果核",
+    "def": "the organ that bears the ovules of a flower"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 卵巢, 子房",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ovaries"
+ },
+ "ovation": {
+  "ph": "/әu'veiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱烈歡迎, 大喝采, 小凱旋式",
+    "def": "enthusiastic recognition (especially one accompanied by loud applause)"
+   }
+  ],
+  "forms": "複數 ovations"
+ },
+ "ove": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "奧地利電氣技術協會",
+    "def": ""
+   }
+  ]
+ },
+ "oven": {
+  "ph": "/'ʌvәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烤箱, 灶, 子宮",
+    "def": "kitchen appliance used for baking or roasting"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 烘箱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ovens"
+ },
+ "ovenproof": {
+  "ph": "/'ʌvәn,pru:f/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "耐熱的",
+    "def": ""
+   }
+  ]
+ },
+ "over": {
+  "ph": "/'әuvә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "結束, 越過, 從頭到尾",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "在...之上, 遍於...之上, 越過",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "上面的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "越過",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overs"
+ },
+ "overabundance": {
+  "ph": "/'әuvәrә'bʌndәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過於豐富(或充足), 過多",
+    "def": "a quantity that is more than what is appropriate"
+   }
+  ]
+ },
+ "overachieving": {
+  "ph": "/ˌəuvərəˈtʃi:vɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（學生）成績超出智力測驗預示水平； 完成得比預期要好, 超過預期目的( overachieve的現在分詞 ); 超過（預期目的等）",
+    "def": ""
+   }
+  ]
+ },
+ "overactive": {
+  "ph": "/'әuvә'ræktiv/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 活動過度的",
+    "def": ""
+   }
+  ]
+ },
+ "overage": {
+  "ph": "/'әuvәr'eidʒ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過老的, 老朽的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "商品過剩, 超額, 帳外財產",
+    "def": "a surplus or excess of money or merchandise that is actually on hand and that exceeds expectations"
+   }
+  ]
+ },
+ "overall": {
+  "ph": "/'әuvәrɒ:l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "全部的, 全體的, 從頭至尾的, 一切在內的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "從頭到尾, 總的說來",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "罩衫, 工作服",
+    "def": "(usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)"
+   }
+  ],
+  "forms": "複數 overalls"
+ },
+ "overall majority": {
+  "ph": "/ˈəuvərɔ:l məˈdʒɔriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（選舉或投票時的）壓倒性多數票, 絕對多數票",
+    "def": ""
+   }
+  ]
+ },
+ "overambitious": {
+  "ph": "/'әuvәæm'biʃәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "野心太大的",
+    "def": ""
+   }
+  ]
+ },
+ "overanxious": {
+  "ph": "/əʊvə'ræŋkʃəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[體]過度焦慮",
+    "def": ""
+   }
+  ]
+ },
+ "overarch": {
+  "ph": "/.әuvәr'ɑ:tʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "在...上做拱, 使彎成拱形, 在...中起決定作用",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成拱形",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overarching｜過去式 overarched｜第三人稱單數 overarches｜過去分詞 overarched"
+ },
+ "overarching": {
+  "ph": "/ˌəʊvərˈɑ:tʃɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "首要的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "在…上方成拱形( overarch的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overarching"
+ },
+ "overawe": {
+  "ph": "/.әuvәr'ɒ:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "威懾, 嚇服",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overawed｜第三人稱單數 overawes｜過去式 overawed｜現在分詞 overawing"
+ },
+ "overawed": {
+  "ph": "/ˌəʊvəˈɔ:d/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "嚇倒, 嚇住( overawe的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overawed｜過去式 overawed"
+ },
+ "overbalance": {
+  "ph": "/.әuvә'bælәns/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使傾覆, (重量、價值)超過, 使失去均衡, 跌倒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "失去平衡",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "超重, 超量, 失去平衡",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overbalanced｜現在分詞 overbalancing｜過去分詞 overbalanced｜複數 overbalances｜第三人稱單數 overbalances"
+ },
+ "overbearing": {
+  "ph": "/.әuvә'bєәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傲慢的, 驕傲自大的, 蠻橫的, 壓倒一切的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 自大的, 專制的, 壓倒的",
+    "def": ""
+   }
+  ]
+ },
+ "overbite": {
+  "ph": "/'әuvәbait/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 覆Ж, 覆咬合",
+    "def": ""
+   }
+  ]
+ },
+ "overblown": {
+  "ph": "/.әuvә'blәun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "停息的, 盛開過的, 浮誇的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "overblow的過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "overboard": {
+  "ph": "/'әuvәbɒ:d/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "自船上落下, 在船外",
+    "def": ""
+   }
+  ]
+ },
+ "overbook": {
+  "ph": "/.әuvә'buk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使過量預訂；超額訂出",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overbooking｜過去分詞 overbooked｜第三人稱單數 overbooks"
+ },
+ "overbooked": {
+  "ph": "/əuvəˈbukt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "超額訂出, 預訂過多( overbook的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "overbuild": {
+  "ph": "/.әuvә'bild/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "建造過多, 建造在...上面, 超額建設",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overbuilding"
+ },
+ "overbuilding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "建造過多, 建造在…上面, 過於講究地建造( overbuild的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overbuilding"
+ },
+ "overburden": {
+  "ph": "/.әuvә'bә:dn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "裝載過多, 負擔過多, 使過勞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 過重的貨物, 重擔, 過度的負擔",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overburdened｜過去式 overburdened｜現在分詞 overburdening｜第三人稱單數 overburdens"
+ },
+ "overburdened": {
+  "ph": "/ˌəuvəˈbə:dnd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "裝載過多, 負擔過多, 使過勞( overburden的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overburdened｜過去分詞 overburdened"
+ },
+ "overcapacity": {
+  "ph": "/.әuvәkә'pæsәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生產能力過剩",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 生產能力過利, 裝置過利",
+    "def": ""
+   }
+  ]
+ },
+ "overcast": {
+  "ph": "/'әuvәkɑ:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陰天的, 陰暗的, 愁悶的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overcasting｜過去式 overcast｜第三人稱單數 overcasts｜過去分詞 overcast｜複數 overcasts"
+ },
+ "overcharge": {
+  "ph": "/.әuvә'tʃɑ:dʒ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "討價過高, 裝載過多, 過度充電, 渲染",
+    "def": "rip off; ask an unreasonable price"
+   },
+   {
+    "pos": "n.",
+    "zh": "超載, 裝藥過多, 過度充電",
+    "def": "a price that is too high"
+   }
+  ],
+  "forms": "現在分詞 overcharging｜過去分詞 overcharged｜過去式 overcharged｜複數 overcharges｜第三人稱單數 overcharges"
+ },
+ "overcoat": {
+  "ph": "/'әuvәkәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外套大衣",
+    "def": "an additional protective coating (as of paint or varnish)"
+   }
+  ],
+  "forms": "複數 overcoats｜過去分詞 overcoated｜過去式 overcoated"
+ },
+ "overcome": {
+  "ph": "/.әuvә'kʌm/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "戰勝, 克服, 勝過",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "得勝",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overcome｜現在分詞 overcoming｜過去式 overcame｜第三人稱單數 overcomes"
+ },
+ "overcoming": {
+  "ph": "/ˌəuvəˈkʌmɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "戰勝, 克服( overcome的現在分詞 ); 被（煙、感情等）燻[壓]倒, 使受不了; 受到…的極大影響",
+    "def": ""
+   }
+  ]
+ },
+ "overcompensate": {
+  "ph": "/,әuvә'kɔmpәnseit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "給予過多的補償, 過度補償",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overcompensating｜過去分詞 overcompensated｜過去式 overcompensated｜第三人稱單數 overcompensates"
+ },
+ "overcompensation": {
+  "ph": "/'әjvә,kɔmpen'seiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過度補償",
+    "def": "(psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 代償過度",
+    "def": ""
+   }
+  ]
+ },
+ "overconfidence": {
+  "ph": "/.әuvә'kɒnfidәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自信過強, 自負",
+    "def": ""
+   }
+  ]
+ },
+ "overconfident": {
+  "ph": "/.әuvә'kɒnfidәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過於自信的, 自負的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 過於自信的, 過於自恃的",
+    "def": ""
+   }
+  ]
+ },
+ "overcook": {
+  "ph": "/'әuvә'kuk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "vt 烹調過分的, 烹調過度的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overcooked｜過去式 overcooked｜現在分詞 overcooking｜第三人稱單數 overcooks"
+ },
+ "overcooked": {
+  "ph": "/,әjvә'kjkt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "煮得過久的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overcooked｜過去分詞 overcooked"
+ },
+ "overcrowd": {
+  "ph": "/.әuvә'kraud/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "容納過多的人, 使過度擁擠",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overcrowding｜過去式 overcrowded｜第三人稱單數 overcrowds｜過去分詞 overcrowded"
+ },
+ "overcrowded": {
+  "ph": "/ˌəʊvəˈkraʊdɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "擠滿的; 過度擁擠的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "擁擠(overcrowd的過去式和過去分詞)",
+    "def": ""
+   }
+  ]
+ },
+ "overcrowding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 過公擁擠",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overcrowding"
+ },
+ "overdependence": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]過分依賴",
+    "def": ""
+   }
+  ]
+ },
+ "overdetermination": {
+  "ph": "/'әuvәditә:mi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 多因[素]決定(指夢境)",
+    "def": ""
+   }
+  ]
+ },
+ "overdetermine": {
+  "ph": "/,әjvәdi't\\\\\\\\:min/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "[心]由多種因素決定",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overdetermined｜過去式 overdetermined｜現在分詞 overdetermining"
+ },
+ "overdetermined": {
+  "ph": "/'әuvә,di'tә:mind/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "超定的, 過於武斷的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overdetermined｜過去式 overdetermined"
+ },
+ "overdevelop": {
+  "ph": "/.әuvәdi'velәp/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使過度發達, 顯影過度",
+    "def": ""
+   }
+  ]
+ },
+ "overdeveloped": {
+  "ph": "/ˌəʊvədɪˈveləpt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使過度發達, 顯像過多( overdevelop的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overdeveloped"
+ },
+ "overdo": {
+  "ph": "/.әuvә'du:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "做得過分, 過度, 誇張, 使過分勞累",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "過火",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overdoing｜過去分詞 overdone｜過去式 overdid｜第三人稱單數 overdoes"
+ },
+ "overdone": {
+  "ph": "/'әuvә'dʌn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overdo的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overdone"
+ },
+ "overdose": {
+  "ph": "/'әuvәdәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "配藥量過多",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "配藥過量, 使過分沉溺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overdoses｜現在分詞 overdosing｜過去式 overdosed｜過去分詞 overdosed｜第三人稱單數 overdoses"
+ },
+ "overdraft": {
+  "ph": "/'әjvәdrɑ:ft; (?@) -dræft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "透支, 透支額, 氣流, 過度通風",
+    "def": "a draft in excess of the credit balance"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 透支",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overdrafts"
+ },
+ "overdramatize": {
+  "ph": "/,әjvә'dræmәtaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "過分戲劇性地表達,過分誇大",
+    "def": ""
+   }
+  ]
+ },
+ "overdraw": {
+  "ph": "/.әuvә'drɒ:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "透支(銀行帳戶), 把(弓等)拉得過度, 誇大, 誇張",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "透支",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overdrawing｜過去式 overdrew｜第三人稱單數 overdraws｜過去分詞 overdrawn"
+ },
+ "overdrawn": {
+  "ph": "/,әjvә'drɔ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overdraw的過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "overdress": {
+  "ph": "/.әuvә'dres/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "穿得過分講究, (使)過度裝飾",
+    "def": "dress too warmly"
+   },
+   {
+    "pos": "n.",
+    "zh": "外衣",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overdressed｜過去式 overdressed｜現在分詞 overdressing｜第三人稱單數 overdresses"
+ },
+ "overdressed": {
+  "ph": "/ˌəʊvəˈdrest/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）穿得太講究( overdress的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overdressed"
+ },
+ "overdrive": {
+  "ph": "/.әuvә'draiv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "驅使過度, 使工作過度",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "超速檔",
+    "def": "the state of high or excessive activity or productivity or concentration"
+   }
+  ],
+  "forms": "現在分詞 overdriving｜過去式 overdrove｜第三人稱單數 overdrives｜過去分詞 overdriven"
+ },
+ "overdub": {
+  "ph": "/'әuvә,dʌb/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把(錄音)配到原帶上",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "原帶配音",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overdubbed｜複數 overdubs｜第三人稱單數 overdubs｜現在分詞 overdubbing"
+ },
+ "overdue": {
+  "ph": "/'әuvә'dju:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過期的, 未兌的, 遲到的, 早就成熟的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 過期未付的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overdues"
+ },
+ "overeager": {
+  "ph": "/'әuvә'i:^ә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過於熱切的, 過於渴望的",
+    "def": ""
+   }
+  ]
+ },
+ "overeat": {
+  "ph": "/.әuvәr'i:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "(使)吃過量",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overeating｜第三人稱單數 overeats｜過去式 overate｜過去分詞 overeaten"
+ },
+ "overeating": {
+  "ph": "/ˌəʊvər'i:tɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）吃得過多( overeat的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overeating"
+ },
+ "overemphasis": {
+  "ph": "/.әuvәr'emfәsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過分強調",
+    "def": "too much emphasis"
+   }
+  ]
+ },
+ "overemphasise": {
+  "ph": "/,əuvər'emfəsis/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": ",vi. [主英國英語]=overemphasize",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overemphasised｜第三人稱單數 overemphasises｜現在分詞 overemphasising｜過去式 overemphasised"
+ },
+ "overemphasize": {
+  "ph": "/.әuvәr'emfәsaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "過分強調",
+    "def": "place special or excessive emphasis on"
+   }
+  ],
+  "forms": "過去分詞 overemphasized｜現在分詞 overemphasizing｜第三人稱單數 overemphasizes｜過去式 overemphasized"
+ },
+ "overend": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Overend)人名；(英)奧弗倫",
+    "def": ""
+   }
+  ]
+ },
+ "overenthusiastic": {
+  "ph": "/'әuvәrinθju:zi'æstik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "過於熱心[熱烈]的",
+    "def": ""
+   }
+  ]
+ },
+ "overestimate": {
+  "ph": "/.әuvәr'estimeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "評價過高, 過高估價",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "估計過高, 評價過高",
+    "def": "an appraisal that is too high"
+   }
+  ],
+  "forms": "過去分詞 overestimated｜過去式 overestimated｜現在分詞 overestimating｜第三人稱單數 overestimates｜複數 overestimates"
+ },
+ "overestimation": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 過高的估計",
+    "def": ""
+   }
+  ]
+ },
+ "overexcited": {
+  "ph": "/ˌəʊvərɪkˈsaɪtɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使過於激動（或興奮）, 過度刺激( overexcite的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overexcited｜過去分詞 overexcited"
+ },
+ "overexertion": {
+  "ph": "/,әjvәri^'z\\\\\\\\:ʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 用力過度",
+    "def": ""
+   }
+  ]
+ },
+ "overexploitation": {
+  "ph": "/'әjvәr,eksplɔi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(對資源等的)過度開採,(對工人等的)過度剝削",
+    "def": "exploitation to the point of diminishing returns"
+   }
+  ]
+ },
+ "overexpose": {
+  "ph": "/.әuvәrik'spәuz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使感光過度, 使過於暴露",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overexposing｜過去式 overexposed｜第三人稱單數 overexposes｜過去分詞 overexposed"
+ },
+ "overexposed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使感光過度( overexpose的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overexposed"
+ },
+ "overexposure": {
+  "ph": "/.әuvәrik'spәuʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "曝光過度",
+    "def": "the act of exposing film to too much light or for too long a time"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 感光過度, 露光過度",
+    "def": ""
+   }
+  ]
+ },
+ "overexpression": {
+  "ph": "/əʊvərɪksp'reʃn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "超表達",
+    "def": ""
+   }
+  ]
+ },
+ "overextend": {
+  "ph": "/.әuvәrik'stend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "過分擴充套件, 過分延長",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overextended｜過去式 overextended｜現在分詞 overextending｜第三人稱單數 overextends"
+ },
+ "overextended": {
+  "ph": "/ˌəʊvərɪkˈstendɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冒過多風險的, 放賬過多的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "過分張開, 過分擴充套件, 使（自己或別人）承擔過多的工作( overextend的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overextended"
+ },
+ "overextension": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 伸展過度",
+    "def": ""
+   }
+  ]
+ },
+ "overfed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overfeed的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overfed"
+ },
+ "overfeed": {
+  "ph": "/.әuvә'fi:d/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對...過量喂飼",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "吃得太多",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "從上方加料的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overfeeding｜過去式 overfed｜第三人稱單數 overfeeds｜過去分詞 overfed"
+ },
+ "overfilled": {
+  "ph": "/əʊvə'fɪld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "把…裝得溢位( overfill的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "overfish": {
+  "ph": "/'әuvәfiʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對(魚)進行過度捕撈",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overfishing｜過去分詞 overfished｜過去式 overfished"
+ },
+ "overfished": {
+  "ph": "/ˈəuvəfiʃt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對（魚、漁場）捕撈過度( overfish的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "overfishing": {
+  "ph": "/ˌəʊvəˈfɪʃɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對（魚、漁場）捕撈過度( overfish的現在分詞 ); 漁撈過度",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overfishing"
+ },
+ "overflight": {
+  "ph": "/'әuvәflait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛越上空",
+    "def": "a flight by an aircraft over a particular area (especially over an area in foreign territory)"
+   }
+  ],
+  "forms": "複數 overflights"
+ },
+ "overflow": {
+  "ph": "/.әuvә'flәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溢值, 超值, 氾濫",
+    "def": "the occurrence of surplus liquid (as water) exceeding the limit or capacity"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)氾濫, (使)溢位, (使)充溢",
+    "def": "flow or run over (a limit or brim)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 上溢; 溢位",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overflowing｜過去式 overflowed｜第三人稱單數 overflows｜過去分詞 overflowed｜複數 overflows"
+ },
+ "overflowing": {
+  "ph": "/,әuvә'flәuiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溢位的, 充沛的, 過剩的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "溢位, 溢位物, 剩餘, 洋溢, 充沛",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overflowing"
+ },
+ "overfly": {
+  "ph": "/,әuvә'flai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "飛行在...上空, 飛越, 在(外國)上空飛行偵察",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overflying｜過去式 overflew｜第三人稱單數 overflies｜過去分詞 overflown"
+ },
+ "overfull": {
+  "ph": "/'әuvә'ful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "太滿的, 過多的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "過度",
+    "def": ""
+   }
+  ]
+ },
+ "overgeneralization": {
+  "ph": "/ˌəʊvəðʒenrəlaɪ'zeɪʃn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "過分概括",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overgeneralizations"
+ },
+ "overglaze": {
+  "ph": "/'әuvәgleiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "塗第二層釉",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 面釉",
+    "def": ""
+   }
+  ]
+ },
+ "overgrazed": {
+  "ph": "/ˈəuvəˈɡreizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "在（土地等）上實行過度放牧, 過度放牧( overgraze的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overgrazed"
+ },
+ "overgrazing": {
+  "ph": "/ˈəuvəˈɡreizɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "在（土地等）上實行過度放牧, 過度放牧( overgraze的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overgrazing"
+ },
+ "overground": {
+  "ph": "/'әuvәgraund/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地上的, 為社會所接受的",
+    "def": "Situated over or above ground; as, the overground"
+   }
+  ],
+  "forms": "複數 overgrounds"
+ },
+ "overgrow": {
+  "ph": "/.әuvә'grәu/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "在...上長滿, 長得太大使...不適用",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "長滿, 長得過大",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overgrown｜現在分詞 overgrowing｜過去式 overgrew｜第三人稱單數 overgrows"
+ },
+ "overgrown": {
+  "ph": "/.әuvә'grәun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發育過度的, 生長過大的, 不合身的, 植被蔓生的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "overgrow的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overgrown"
+ },
+ "overgrowth": {
+  "ph": "/'әuvәgrәuθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "繁茂, 蔓延, 過度發育, 增生",
+    "def": "a profusion of growth on or over something else"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生長過度, 肥大",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overgrowths"
+ },
+ "overhand": {
+  "ph": "/'әuvәhænd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超手的, 肩上的",
+    "def": "with hand brought forward and down from above shoulder level"
+   },
+   {
+    "pos": "adv.",
+    "zh": "舉手過肩",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "平式縫紉",
+    "def": ""
+   }
+  ]
+ },
+ "overhang": {
+  "ph": "/.әuvә'hæŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突出部份, 懸垂部份",
+    "def": "projection that extends beyond or hangs over something else"
+   },
+   {
+    "pos": "vt.",
+    "zh": "懸於...之上, (危險等)逼近",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "懸垂, 逼近",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overhangs｜現在分詞 overhanging｜過去式 overhung｜第三人稱單數 overhangs｜過去分詞 overhung"
+ },
+ "overhanging": {
+  "ph": "/əʊvə'hæŋɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "伸出, 懸掛於…之上( overhang的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overhanging"
+ },
+ "overhaul": {
+  "ph": "/.әuvә'hɒ:l/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "分解檢查, 翻修, 精細檢查, 徹底革新",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "分解檢查, 精細檢查, 大檢修",
+    "def": "periodic maintenance on a car or machine"
+   }
+  ],
+  "forms": "過去分詞 overhauled｜現在分詞 overhauling｜過去式 overhauled｜複數 overhauls｜第三人稱單數 overhauls"
+ },
+ "overhead": {
+  "ph": "/'әuvәhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經常開支, 普通用費, 天花板",
+    "def": "(nautical) the top surface of an enclosed space on a ship"
+   },
+   {
+    "pos": "adj.",
+    "zh": "在頭上的, 高架的",
+    "def": "located or originating from above"
+   },
+   {
+    "pos": "adv.",
+    "zh": "在頭頂上, 在空中, 在高處, 從頭到腳全部沒入地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 總開銷; 額外開銷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overheads"
+ },
+ "overheads": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "企業的經常開支, 企業的日常管理費用",
+    "def": ""
+   }
+  ]
+ },
+ "overhear": {
+  "ph": "/.әuvә'hiә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "無意中聽到, 偷聽",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overheard｜過去式 overheard｜現在分詞 overhearing｜第三人稱單數 overhears"
+ },
+ "overheard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overhear的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overheard｜複數 overheards｜過去式 overheard"
+ },
+ "overheat": {
+  "ph": "/.әuvә'hi:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使過熱",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變得過熱",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overheating｜過去分詞 overheated｜第三人稱單數 overheats｜過去式 overheated｜複數 overheats"
+ },
+ "overheated": {
+  "ph": "/ˌəʊvəˈhi:tɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過熱的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使過熱, 變得過熱( overheat的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overheated｜過去式 overheated"
+ },
+ "overheating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 過分的經濟活動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overheating"
+ },
+ "overhung": {
+  "ph": "/,әuvә'hʌŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overhang的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overhung"
+ },
+ "overhyped": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吹捧過度的; 吹噓過度的",
+    "def": ""
+   }
+  ]
+ },
+ "overindulge": {
+  "ph": "/.әuvәrin'dʌldʒ/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "溺愛",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "過度沉溺, 放縱",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overindulging｜過去式 overindulged｜第三人稱單數 overindulges｜過去分詞 overindulged"
+ },
+ "overindulgence": {
+  "ph": "/.әuvәrin'dʌldʒәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放縱, 任性, 沉溺",
+    "def": "excessive indulgence"
+   }
+  ]
+ },
+ "overinvestment": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 過多的投資",
+    "def": ""
+   }
+  ]
+ },
+ "overjoyed": {
+  "ph": "/әjvә'dʒɔid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狂喜的, 非常高興的",
+    "def": ""
+   }
+  ]
+ },
+ "overkill": {
+  "ph": "/'әuvәkil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超量毀傷, 過度殺傷威力",
+    "def": "the capability to obliterate a target with more weapons (especially nuclear weapons) than are required"
+   },
+   {
+    "pos": "vt.",
+    "zh": "過度地殺傷",
+    "def": ""
+   }
+  ]
+ },
+ "overlain": {
+  "ph": "/,әuvә'lein/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overlie的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overlain"
+ },
+ "overland": {
+  "ph": "/'әuvәlænd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "經由陸路的, 經過陸地的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "經由陸路地",
+    "def": ""
+   }
+  ]
+ },
+ "overlap": {
+  "ph": "/.әuvә'læp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重疊, 重複, 部分的同時發生",
+    "def": "a representation of common ground between theories or phenomena"
+   },
+   {
+    "pos": "vt.",
+    "zh": "重疊, 重複, 與...同時發生",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "迭蓋, 部分的同時發生",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 重疊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overlapping｜複數 overlaps｜第三人稱單數 overlaps｜過去分詞 overlapped｜過去式 overlapped"
+ },
+ "overlapping": {
+  "ph": "/'әuvә'læpiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 重疊, 覆蓋",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 重迭",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overlapping"
+ },
+ "overlarge": {
+  "ph": "/əʊvə'lɑ:dʒ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過大的, 超大的",
+    "def": ""
+   }
+  ]
+ },
+ "overlay": {
+  "ph": "/.әuvә'lei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "覆蓋, 覆蓋圖, 使負擔過重",
+    "def": "a layer of decorative material (such as gold leaf or wood veneer) applied over a surface"
+   },
+   {
+    "pos": "",
+    "zh": "overlie的過去式",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 覆蓋, 覆蓋圖",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overlaid｜過去式 overlaid｜現在分詞 overlaying｜第三人稱單數 overlays｜複數 overlays"
+ },
+ "overleaf": {
+  "ph": "/'әuvәli:f/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在背面, 在次頁",
+    "def": ""
+   }
+  ]
+ },
+ "overlie": {
+  "ph": "/,әuvә'lai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "躺在...上面, 壓在...上面, 蓋得使窒息, 壓得...悶死",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overlying｜過去式 overlay｜第三人稱單數 overlies｜過去分詞 overlain"
+ },
+ "overload": {
+  "ph": "/.әuvә'lәud/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "超載, 過載, 超過負荷",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "超載, 負荷過多",
+    "def": "an electrical load that exceeds the available electrical power"
+   }
+  ],
+  "forms": "現在分詞 overloading｜過去分詞 overloaded｜複數 overloads｜第三人稱單數 overloads｜過去式 overloaded"
+ },
+ "overloaded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超負荷的；超載的；超重的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overloaded"
+ },
+ "overloading": {
+  "ph": "/'әuvә'lәudiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "超負荷, 過載（overload的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overloading"
+ },
+ "overlong": {
+  "ph": "/'әuvәlɔŋ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "太長",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "太長的",
+    "def": "& adv. Too long."
+   }
+  ]
+ },
+ "overlook": {
+  "ph": "/.әuvә'luk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "俯瞰, 遠眺, 沒注意到",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "眺望, 俯瞰到的景色",
+    "def": "a high place affording a good view"
+   }
+  ],
+  "forms": "現在分詞 overlooking｜過去分詞 overlooked｜第三人稱單數 overlooks｜過去式 overlooked"
+ },
+ "overlooked": {
+  "ph": "/ˌəuvəˈlukt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "忽視( overlook的過去式和過去分詞 ); 監督; 俯視; （對不良現象等）不予理會",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overlooked"
+ },
+ "overlord": {
+  "ph": "/'әuvәlɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大君主, 最高君主, 霸主",
+    "def": "a person who has general authority over others"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 霸權, 霸主地位, 封建君主",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overlords"
+ },
+ "overlordship": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霸主地位, 霸權",
+    "def": "the position of overlord"
+   }
+  ],
+  "forms": "複數 overlordships"
+ },
+ "overly": {
+  "ph": "/'әuvәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "過度地, 極度地",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 overlies"
+ },
+ "overlying": {
+  "ph": "/,әuvә'laiiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "躺在...上面, 壓在...上面, 覆在...上面",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 覆悶死(嬰兒臥於成人旁被覆悶而死)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overlying"
+ },
+ "overman": {
+  "ph": "/'әuvәmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工頭, 師傅, 仲裁人",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "人員配置過多",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overmanning｜過去分詞 overmanned｜過去式 overmanned"
+ },
+ "overmantel": {
+  "ph": "/'әuvәmæntl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壁爐上的飾架",
+    "def": "a shelf over a mantelpiece"
+   }
+  ]
+ },
+ "overmatched": {
+  "ph": "/ˌəuvəˈmætʃt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "打敗( overmatch的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "overmuch": {
+  "ph": "/'әuvә'mʌtʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過多的, 過度的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "過度地",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "過量, 超額",
+    "def": ""
+   }
+  ]
+ },
+ "overnight": {
+  "ph": "/'әuvәnait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前一天晚上, 一夜的逗留",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "通宵的, 晚上的, 前夜的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在前一夜, 整夜, 昨晚一晚上",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overnights"
+ },
+ "overpaid": {
+  "ph": "/'әuvә'peid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overpay的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overpaid"
+ },
+ "overpainting": {
+  "ph": "/'әuvәpeintiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(油畫)覆蓋色, 復繪",
+    "def": ""
+   }
+  ]
+ },
+ "overpass": {
+  "ph": "/'әuvәpɑ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天橋, 旱橋, 立交橋",
+    "def": "bridge formed by the upper level of a crossing of two highways at different levels"
+   },
+   {
+    "pos": "vt.",
+    "zh": "超越, 勝過, 透過, 忽略, 侵犯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overpasses"
+ },
+ "overpay": {
+  "ph": "/.әuvә'pei/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "多付, 多給報酬",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "付得過多",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overpaid｜過去式 overpaid｜現在分詞 overpaying｜第三人稱單數 overpays"
+ },
+ "overpayment": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 多付, 過付, 逾額付款",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overpayments"
+ },
+ "overplay": {
+  "ph": "/,әuvә'plei/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把...做得過分, 過分依賴...的力量, 誇張, 把...演得過火",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overplayed｜過去式 overplayed｜現在分詞 overplaying｜第三人稱單數 overplays"
+ },
+ "overpopulate": {
+  "ph": "/,әuvә'pɔpju,leit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使(一地區)人口過剩,使人口過密",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overpopulated｜過去式 overpopulated｜現在分詞 overpopulating"
+ },
+ "overpopulated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人口過多的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overpopulated"
+ },
+ "overpopulation": {
+  "ph": "/әjvәpɔpjj'leiʃ(ә)n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人口過剩",
+    "def": "too much population"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 人口過剩",
+    "def": ""
+   }
+  ]
+ },
+ "overpower": {
+  "ph": "/.әuvә'pauә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擊敗, 打勝, 克服",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overpowering｜過去分詞 overpowered｜過去式 overpowered｜第三人稱單數 overpowers｜複數 overpowers"
+ },
+ "overpowering": {
+  "ph": "/.әuvә'pauәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無法抵抗的, 壓倒性的, 強烈得使人無法忍受的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overpowering"
+ },
+ "overpoweringly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "overpowering的變形",
+    "def": ""
+   }
+  ]
+ },
+ "overpressure": {
+  "ph": "/'әuvә'preʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過壓, 超壓力",
+    "def": "a transient air pressure greater than the surrounding atmospheric pressure"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 過壓; 超壓",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overpressuring"
+ },
+ "overprice": {
+  "ph": "/,әuvә'prais/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對...定價過高, 對...估價過高",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 對...定價過高",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overpriced｜現在分詞 overpricing｜第三人稱單數 overprices｜過去式 overpriced"
+ },
+ "overpriced": {
+  "ph": "/ˌəʊvəˈpraɪst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "價格過高的; 定價太高的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "將…標價過高, 索價過高（ overprice的過去式和過去分詞 ）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overpriced"
+ },
+ "overprint": {
+  "ph": "/.әuvә'print/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "套印, 重印, 曬印過度",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "套印, (郵票上)加蓋",
+    "def": "something added by overprinting"
+   }
+  ],
+  "forms": "過去式 overprinted｜過去分詞 overprinted｜現在分詞 overprinting｜複數 overprints｜第三人稱單數 overprints"
+ },
+ "overproduce": {
+  "ph": "/.әuvәprә'dju:s/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "過度地生產, 超額生產",
+    "def": "produce in excess; produce more than needed or wanted"
+   }
+  ],
+  "forms": "過去分詞 overproduced｜第三人稱單數 overproduces｜現在分詞 overproducing｜過去式 overproduced"
+ },
+ "overproduction": {
+  "ph": "/.әuvәprә'dʌkʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生產過剩",
+    "def": "too much production or more than expected"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 生產過剩; 超產",
+    "def": ""
+   }
+  ]
+ },
+ "overprotect": {
+  "ph": "/.әuvәprә'tekt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "過分地保護, 溺愛",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overprotected｜現在分詞 overprotecting｜過去式 overprotected｜第三人稱單數 overprotects"
+ },
+ "overprotection": {
+  "ph": "/.әuvәprә'tekʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過度保護, 溺愛",
+    "def": ""
+   }
+  ]
+ },
+ "overprotective": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "過分保護的；袒護的；溺愛有加的",
+    "def": ""
+   }
+  ]
+ },
+ "overqualified": {
+  "ph": "/ˌəʊvəˈkwɒlɪfaɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "資歷過高的",
+    "def": ""
+   }
+  ]
+ },
+ "overran": {
+  "ph": "/,әuvә'ræn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overrun的過去式",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overran"
+ },
+ "overrate": {
+  "ph": "/.әuvә'reit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "評價過高, 高估, 估價過高",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 對...估價過高, 高估",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overrated｜現在分詞 overrating｜第三人稱單數 overrates｜過去式 overrated"
+ },
+ "overrated": {
+  "ph": "/ˌəʊvəˈreɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對（質量、能力等）估價過高( overrate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overrated｜過去式 overrated"
+ },
+ "overreach": {
+  "ph": "/.әuvә'ri:tʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擴充套件...以上, 過度伸張, 走過頭",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "伸得過遠, 過分, 過火",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overreached｜現在分詞 overreaching｜過去分詞 overreached｜第三人稱單數 overreaches"
+ },
+ "overreaching": {
+  "ph": "/ˌəʊvəˈri:tʃɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "因過於雄心勃勃而失敗( overreach的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "overreact": {
+  "ph": "/,әuvәri'ækt/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "反應過度, 反作用過強",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overreacting｜過去式 overreacted｜過去分詞 overreacted｜第三人稱單數 overreacts"
+ },
+ "overreaction": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 反應過度",
+    "def": ""
+   }
+  ]
+ },
+ "overrepresentation": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比例過高",
+    "def": ""
+   }
+  ]
+ },
+ "overridden": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "override的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overridden"
+ },
+ "override": {
+  "ph": "/.әuvә'raid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "推翻, 無視, 對...有最後發言權, 制服, 踐踏, 奔越過",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 代理佣金, 代銷佣金",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 overrides｜現在分詞 overriding｜複數 overrides｜過去式 overrode｜過去分詞 overridden"
+ },
+ "overriding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] [骨折端]重迭, 架迭",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overriding｜複數 overridings"
+ },
+ "overripe": {
+  "ph": "/'әuvә'raip/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過熟的, 衰萎的, 頹廢的",
+    "def": ""
+   }
+  ]
+ },
+ "overrode": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "override的過去式",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overrode"
+ },
+ "overrule": {
+  "ph": "/.әuvә'ru:l/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "統治, 威壓, 打敗, 駁回",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 否決, 駁回, 批駁",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overruled｜現在分詞 overruling｜過去式 overruled｜第三人稱單數 overrules"
+ },
+ "overrun": {
+  "ph": "/.әuvә'rʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蔓延, 風行一時, 超過限度",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "蔓延, 蹂躪, 超過, 氾濫",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "氾濫, 超載限度",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 超限",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overrun｜現在分詞 overrunning｜複數 overruns｜第三人稱單數 overruns｜過去式 overran"
+ },
+ "oversaw": {
+  "ph": "/'әuvә'sɔ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "oversee的過去式",
+    "def": ""
+   }
+  ]
+ },
+ "overseas": {
+  "ph": "/'әuvә'si:z/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "海外的, 國外的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在海外, 在國外",
+    "def": ""
+   }
+  ]
+ },
+ "oversecretion": {
+  "ph": "/əʊvəsek'ri:ʃən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 分泌過多",
+    "def": ""
+   }
+  ]
+ },
+ "oversee": {
+  "ph": "/.әuvә'si:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "向下看, 瞭望, 監督, 偷看到",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 監察, 監督, 俯瞰",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overseeing｜第三人稱單數 oversees｜過去式 oversaw｜過去分詞 overseen"
+ },
+ "overseen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "oversee的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overseen"
+ },
+ "overseer": {
+  "ph": "/.әuvә'si:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "監督, 工頭",
+    "def": "a person who directs and manages an organization"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 管理人, 監督, 盤工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overseers"
+ },
+ "oversell": {
+  "ph": "/.әuvә'sel/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "銷售過多, 賣空, 過分吹噓",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "賣空, 吹噓過分",
+    "def": ""
+   }
+  ]
+ },
+ "oversensitive": {
+  "ph": "/'әuvә'sensitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過分敏感的",
+    "def": ""
+   }
+  ]
+ },
+ "oversexed": {
+  "ph": "/.әuvә'sekst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "性慾過熾的",
+    "def": ""
+   }
+  ]
+ },
+ "overshadow": {
+  "ph": "/.әuvә'ʃædәu/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "遮陰, 使陰暗, 使失色, 使相形見絀, 使蒙上陰影",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overshadowed｜過去式 overshadowed｜第三人稱單數 overshadows｜現在分詞 overshadowing"
+ },
+ "overshoe": {
+  "ph": "/'әuvәʃu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "套鞋",
+    "def": "footwear that protects your shoes from water or snow or cold"
+   }
+  ],
+  "forms": "複數 overshoes"
+ },
+ "overshoot": {
+  "ph": "/.әuvә'ʃu:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "打過頭, 越過",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "射擊越標, 過火",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "超越目標, 講話(或行動)過火",
+    "def": "an approach that fails and gives way to another attempt"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 過沖",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overshooting｜第三人稱單數 overshoots｜複數 overshoots｜過去式 overshot｜過去分詞 overshot"
+ },
+ "overshot": {
+  "ph": "/'әuvәʃɒt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "上射式的, 上顎突出的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "overshoot的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overshot｜過去分詞 overshot"
+ },
+ "oversight": {
+  "ph": "/'әuvәsait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勘漏, 失察, 失敗, 照料",
+    "def": "an unintentional omission resulting from failure to notice something"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 監督權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oversights｜過去分詞 oversighted"
+ },
+ "oversimplification": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過分簡單, 過分簡單化",
+    "def": "an act of excessive simplification; the act of making something seem simpler than it really is"
+   }
+  ],
+  "forms": "複數 oversimplifications"
+ },
+ "oversimplified": {
+  "ph": "/ˌəʊvər'sɪmplɪfaɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）過分地單純化( oversimplify的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 oversimplified｜過去分詞 oversimplified"
+ },
+ "oversimplify": {
+  "ph": "/.әuvә'simplifai/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)過分地單純化",
+    "def": "simplify to an excessive degree"
+   }
+  ],
+  "forms": "第三人稱單數 oversimplifies｜過去分詞 oversimplified｜現在分詞 oversimplifying｜過去式 oversimplified"
+ },
+ "oversize": {
+  "ph": "/'әuvә'saiz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "太大的, 超大型的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "特大型",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 oversized｜過去分詞 oversized"
+ },
+ "oversized": {
+  "ph": "/'әuvә'saizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過大的, 極大的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 oversized"
+ },
+ "oversleep": {
+  "ph": "/.әuvә'sli:p/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)睡過頭",
+    "def": "sleep longer than intended"
+   }
+  ],
+  "forms": "現在分詞 oversleeping｜第三人稱單數 oversleeps｜過去式 overslept｜過去分詞 overslept"
+ },
+ "overslept": {
+  "ph": "/.әuvә'slept/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "oversleep的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overslept"
+ },
+ "overspend": {
+  "ph": "/.әuvә'spend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "過度使用, 花費過多, 使筋疲力盡",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "超支",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overspending｜第三人稱單數 overspends｜過去式 overspent｜過去分詞 overspent"
+ },
+ "overspending": {
+  "ph": "/ˌəuvəˈspendiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超支的, 花錢過多的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "超支( overspend的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overspending"
+ },
+ "overspent": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overspend的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overspent｜過去式 overspent"
+ },
+ "overspill": {
+  "ph": "/'әuvәspil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溢落的東西, 過剩人口",
+    "def": "the relocation of people from overcrowded cities; they are accommodated in new houses or apartments in smaller towns"
+   }
+  ],
+  "forms": "第三人稱單數 overspills"
+ },
+ "overstaffed": {
+  "ph": "/ˌəʊvəˈstɑ:ft/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（指辦公室等）超編的, 人浮於事的",
+    "def": ""
+   }
+  ]
+ },
+ "overstate": {
+  "ph": "/.әuvә'steit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "誇大的敘述, 誇張, 過分強調",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 多計, 高估",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overstated｜第三人稱單數 overstates｜現在分詞 overstating｜複數 overstates｜過去式 overstated"
+ },
+ "overstated": {
+  "ph": "/ˌəʊvəˈsteɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "誇大（某事）( overstate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overstated"
+ },
+ "overstatement": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 估值過高, 誇大",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overstatements"
+ },
+ "overstay": {
+  "ph": "/'әuvә'stei/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "呆得超過...的限度",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "在(市場)上耽誤過久而坐失良機",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overstayed｜過去式 overstayed｜現在分詞 overstaying｜第三人稱單數 overstays"
+ },
+ "overstep": {
+  "ph": "/.әuvә'step/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "踏過, 逾越, 超出...的限度",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 違犯, 逾越",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overstepped｜過去式 overstepped｜現在分詞 overstepping｜第三人稱單數 oversteps"
+ },
+ "overstimulation": {
+  "ph": "/əʊvəstɪmjʊ'leɪʃən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "過度刺激",
+    "def": ""
+   }
+  ]
+ },
+ "overstock": {
+  "ph": "/.әuvә'stɒk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "供給過多, 進貨過多, 過剩",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "供給過多, 庫存過剩",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overstocking｜過去分詞 overstocked｜複數 overstocks｜過去式 overstocked｜第三人稱單數 overstocks"
+ },
+ "overstocked": {
+  "ph": "/'əʊvəst'ɒkt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過密的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "進貨過多( overstock的過去式和過去分詞 ); 過多的進貨, 庫存過剩",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overstocked"
+ },
+ "overstory": {
+  "ph": "/'әuvә'stɔ:ri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[農]上層林冠,上層林",
+    "def": ""
+   }
+  ]
+ },
+ "overstrain": {
+  "ph": "/.әuvә'strein/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "伸張過度, 使過度緊張, 使工作過度",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "過度緊張",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "過度緊張, 過勞",
+    "def": "too much strain"
+   }
+  ],
+  "forms": "過去分詞 overstrained｜過去式 overstrained｜現在分詞 overstraining｜第三人稱單數 overstrains"
+ },
+ "overstress": {
+  "ph": "/'әuvә'stres/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 過載, 超載",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 緊張過度",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overstressed｜現在分詞 overstressing｜過去式 overstressed"
+ },
+ "overstretch": {
+  "ph": "/'әuvә'stretʃ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "vt 延伸過長",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overstretched｜過去式 overstretched｜現在分詞 overstretching｜第三人稱單數 overstretches"
+ },
+ "overstretched": {
+  "ph": "/ˈəuvəˈstretʃt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "延伸過長( overstretch的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overstretched｜過去分詞 overstretched"
+ },
+ "overstuff": {
+  "ph": "/'әuvә'stʌf/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "裝填...過度, 給...裝以厚厚的填料",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overstuffed｜現在分詞 overstuffing｜第三人稱單數 overstuffs｜過去分詞 overstuffed"
+ },
+ "overstuffed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "墊得又軟又厚的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 多油的; 塗油過多的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overstuffed"
+ },
+ "oversubscribe": {
+  "ph": "/.әuvәsәb'skraib/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "超額認購(公債等), 過量預訂",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 超額認購(公債等), 訂購(某物)過多",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 oversubscribed"
+ },
+ "oversubscribed": {
+  "ph": "/ˌəʊvəsəbˈskraɪbd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過多訂購的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "認購超額( oversubscribe的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 oversubscribed｜過去式 oversubscribed"
+ },
+ "oversupply": {
+  "ph": "/.әuvәsә'plai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "過度供給",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "過多的供應品",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 oversupplied｜現在分詞 oversupplying｜過去式 oversupplied｜第三人稱單數 oversupplies"
+ },
+ "overt": {
+  "ph": "/'әuvә:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "明顯的, 公然的, 蓄意的",
+    "def": "open and observable; not secret or hidden"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 明顯的, 公開的",
+    "def": ""
+   }
+  ]
+ },
+ "overtake": {
+  "ph": "/.әuvә'teik/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "趕上, 突然降臨於, 壓倒, 代替",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overtaken｜過去式 overtook｜現在分詞 overtaking｜第三人稱單數 overtakes"
+ },
+ "overtaking": {
+  "ph": "/ˌəʊvə'teɪkɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "追上, 趕上, 超過( overtake的現在分詞 ); （不愉快的事情）突然發生; 突然降臨; （在數量或重要性方面）大於",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overtaking"
+ },
+ "overtax": {
+  "ph": "/.әuvә'tæks/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "課稅過重, 使負擔過度",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 抽稅過重, 負擔過度",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overtaxed｜現在分詞 overtaxing｜第三人稱單數 overtaxes｜過去式 overtaxed"
+ },
+ "overtaxed": {
+  "ph": "/,əuvə'tæksd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使負擔過重, 使過度疲勞( overtax的過去式和過去分詞 ); 對…徵稅過重",
+    "def": ""
+   }
+  ]
+ },
+ "overthrew": {
+  "ph": "/.әuvә'θru:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overthrow的過去式",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overthrew"
+ },
+ "overthrow": {
+  "ph": "/.әuvә'θrәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "推翻, 瓦解, 傾覆",
+    "def": "the termination of a ruler or institution (especially by force)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "打倒, 推翻, 傾覆",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overthrown｜現在分詞 overthrowing｜第三人稱單數 overthrows｜複數 overthrows｜過去式 overthrew"
+ },
+ "overtime": {
+  "ph": "/'әuvәtaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超時, 加班, 延長時間",
+    "def": "work done in addition to regular working hours"
+   },
+   {
+    "pos": "adj.",
+    "zh": "超時的, 加班的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "加班地",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使超過時間",
+    "def": ""
+   }
+  ]
+ },
+ "overtire": {
+  "ph": "/'әuvә'taiә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使過度疲勞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overtired｜過去式 overtired｜現在分詞 overtiring｜第三人稱單數 overtires"
+ },
+ "overtly": {
+  "ph": "/'әuvә:tly. әu'vә:tly/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "明顯地；公開地, 公然地",
+    "def": ""
+   }
+  ]
+ },
+ "overton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "奧弗屯（英國城市）",
+    "def": ""
+   }
+  ]
+ },
+ "overtone": {
+  "ph": "/'әuvәtәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泛音, 暗示, 弦外之音, 折光的色彩",
+    "def": "(usually plural) an ulterior implicit meaning or quality"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 陪音, 泛音",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overtones"
+ },
+ "overtop": {
+  "ph": "/.әuvә'tɒp/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "高聳...之上, 凌駕, 超出",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overtopped｜現在分詞 overtopping｜過去式 overtopped｜第三人稱單數 overtops"
+ },
+ "overture": {
+  "ph": "/'әuvә.tʃuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主動表示, 事件的開端, 序言, 提議, 提案, 初步交涉",
+    "def": "orchestral music played at the beginning of an opera or oratorio"
+   },
+   {
+    "pos": "vt.",
+    "zh": "提議, 為...奏前奏曲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overtures｜第三人稱單數 overtures"
+ },
+ "overturn": {
+  "ph": "/.әuvә'tә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾覆, 破滅, 革命",
+    "def": "an improbable and unexpected victory"
+   },
+   {
+    "pos": "vt.",
+    "zh": "推翻, 顛倒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "翻倒",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overturned｜過去式 overturned｜現在分詞 overturning｜第三人稱單數 overturns"
+ },
+ "overturned": {
+  "ph": "/'əʊvətɜ:nd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）翻倒( overturn的過去式和過去分詞 ); 使垮臺, 推翻; 撤銷（判決等）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 overturned｜過去分詞 overturned"
+ },
+ "overturning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顛覆性的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overturning"
+ },
+ "overuse": {
+  "ph": "/.әuvәr'ju:z/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使用過度",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "過度使用, 任意驅使",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overused｜過去式 overused｜現在分詞 overusing｜第三人稱單數 overuses"
+ },
+ "overused": {
+  "ph": "/ˌəʊvəˈju:zd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使用過度( overuse的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "overvaluation": {
+  "ph": "/,әuvәvælju'eiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "過高估價, 定價過高",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overvaluations"
+ },
+ "overvalue": {
+  "ph": "/.әuvә'vælju:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "估價過高, 過分尊重, 估計過高",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overvalued｜過去式 overvalued｜第三人稱單數 overvalues｜現在分詞 overvaluing｜複數 overvalues"
+ },
+ "overvalued": {
+  "ph": "/ˌəʊvə'væljʊd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對…估價過高( overvalue的過去式和過去分詞 ); 對…看得過重",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overvalued｜過去式 overvalued"
+ },
+ "overview": {
+  "ph": "/'әuvәvju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "概述, 概觀, 總的看法",
+    "def": "a general summary of a subject"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 概述",
+    "def": ""
+   }
+  ],
+  "forms": "複數 overviews｜現在分詞 overviewing｜過去式 overviewed"
+ },
+ "overwater": {
+  "ph": "/'әuvә'wɔ:tә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "水上的,越過水域的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overwatering｜過去分詞 overwatered｜過去式 overwatered"
+ },
+ "overweening": {
+  "ph": "/.әuvә'wi:niŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "驕傲的, 自負的, 過於自信的, 過分的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overweening"
+ },
+ "overweight": {
+  "ph": "/'әuvә'weit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超過重量, 過重, 優勢",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "超過重量的, 超重的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使超重, 重於, 過於重視",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 overweights｜過去分詞 overweighted"
+ },
+ "overwhelm": {
+  "ph": "/.әuvә'hwelm/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "淹沒, 受打擊, 制服, 壓倒, 使不知所措",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 打翻, 傾覆, 覆蓋",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overwhelmed｜過去式 overwhelmed｜第三人稱單數 overwhelms｜現在分詞 overwhelming"
+ },
+ "overwhelmed": {
+  "ph": "/,əʊvə'welmd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "淹沒( overwhelm的過去式和過去分詞 ); 壓倒; 覆蓋; 壓垮",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overwhelmed｜過去式 overwhelmed"
+ },
+ "overwhelming": {
+  "ph": "/.әuvә'hwelmiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "壓倒性的, 無法抵抗的",
+    "def": ""
+   }
+  ]
+ },
+ "overwhelmingly": {
+  "ph": "/.әuvә'hwelmiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "壓倒性地, 不可抵抗地",
+    "def": ""
+   }
+  ]
+ },
+ "overwinter": {
+  "ph": "/.әuvә'wintә/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "過冬",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overwintered｜第三人稱單數 overwinters｜現在分詞 overwintering｜過去式 overwintered"
+ },
+ "overwintering": {
+  "ph": "/'əʊvəwɪntərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "過冬, 把…儲存過冬( overwinter的現在分詞 ); 越冬",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 overwintering"
+ },
+ "overwork": {
+  "ph": "/.әuvә'wә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過度操勞的工作, 額外工作",
+    "def": "the act of working too much or too long"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)工作過度, 使過分勞累",
+    "def": "use too much"
+   }
+  ],
+  "forms": "過去分詞 overworked｜現在分詞 overworking｜過去式 overworked｜第三人稱單數 overworks"
+ },
+ "overworked": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "工作過度的；勞累過度的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overworked｜過去式 overworked"
+ },
+ "overwrite": {
+  "ph": "/.әuvә'rait/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "寫得過多(或長)",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "寫得過多, 用華麗文體寫, 寫在...上面",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 改寫",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 overwrites｜現在分詞 overwriting｜過去式 overwrote｜過去分詞 overwritten"
+ },
+ "overwritten": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "overwrite的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overwritten"
+ },
+ "overwrought": {
+  "ph": "/'әuvә'rɔ:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過分勞累的, 過度緊張的, 神經質的, 過度興奮的, 過分推敲的, 不自然的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 overwrought｜過去式 overwrought"
+ },
+ "overzealous": {
+  "ph": "/'әjvә'zelәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過分熱忱的",
+    "def": ""
+   }
+  ]
+ },
+ "ovid": {
+  "ph": "/'ɒvid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧維德(古羅馬詩人)",
+    "def": "Roman poet remembered for his elegiac verses on love (43 BC - AD 17)"
+   }
+  ]
+ },
+ "ovidian": {
+  "ph": "/әu'vidiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奧維德的, 奧維德詩的",
+    "def": "Of or pertaining to the Latin poet Ovid; resembling the"
+   }
+  ]
+ },
+ "oviparous": {
+  "ph": "/әu'vipәrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卵生的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 卵生的",
+    "def": ""
+   }
+  ]
+ },
+ "ovipositor": {
+  "ph": "/.әuvi'pɒzitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "產卵器",
+    "def": "egg-laying tubular structure at the end of the abdomen in many female insects and some fishes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 產卵器",
+    "def": ""
+   }
+  ]
+ },
+ "ovoid": {
+  "ph": "/'әuvɒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "卵形的, 梨形的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "卵形體",
+    "def": "an egg-shaped object"
+   }
+  ],
+  "forms": "複數 ovoids"
+ },
+ "ovulate": {
+  "ph": "/'әuvjuleit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "排卵, 產卵",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ovulating｜過去分詞 ovulated｜過去式 ovulated｜複數 ovulates｜第三人稱單數 ovulates"
+ },
+ "ovulation": {
+  "ph": "/,ɔvjj'leiʃәn,,әj-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 排卵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ovulations"
+ },
+ "ovule": {
+  "ph": "/'әuvju:l/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 原卵, 卵泡內卵, 卵狀小體, 小卵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ovules"
+ },
+ "ovum": {
+  "ph": "/'әuvәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卵, 卵子, 卵形裝飾",
+    "def": "the female reproductive cell; the female gamete"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 卵, 卵子",
+    "def": ""
+   }
+  ]
+ }
+}

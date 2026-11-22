@@ -1,0 +1,89 @@
+{
+ "mr": {
+  "ph": "/'mistә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "先生",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 儲存器回收程式, 多重請求",
+    "def": ""
+   }
+  ]
+ },
+ "mr.": {
+  "ph": "/'mistә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "閣下, 先生",
+    "def": ""
+   }
+  ]
+ },
+ "mrc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "醫學研究理事會（Medical Research Council）；醫務後備隊（Medical Reserve Corps）",
+    "def": ""
+   }
+  ]
+ },
+ "mrd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 毫盧[瑟福](放射性單位)",
+    "def": ""
+   }
+  ]
+ },
+ "mri": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "核磁共振成像（Magnatic Resonance Imaging）；機讀資訊（Machine Readable Information）；中等度腎功能不全（Moderate Renal Insufficiency）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mri"
+ },
+ "mrna": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 信使核糖核酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mrnas"
+ },
+ "mrp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "物資需求計劃（material requirements planning）；製造資源計劃（manufacturing resource planning）",
+    "def": ""
+   }
+  ]
+ },
+ "mrs": {
+  "ph": "/'misiz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "太太",
+    "def": ""
+   }
+  ]
+ }
+}

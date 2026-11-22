@@ -1,0 +1,150 @@
+{
+ "cp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 呼叫處理程式, 字元印表機, 通訊處理器, 編譯程式包, 控制部件",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 商業本票",
+    "def": ""
+   }
+  ]
+ },
+ "cpa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 呼叫程式分析, 交叉程式審查程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cpas"
+ },
+ "cpc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "卡片程式設計計算器（Card Programmed Calculator）；中國共產黨（Communist Party of China）",
+    "def": ""
+   }
+  ]
+ },
+ "cpd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "按天收費 (Cost per Day)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "按下載付費 (Cost per Download)",
+    "def": ""
+   }
+  ]
+ },
+ "cpe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 客戶擁有裝置",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 致細胞病變作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cpes"
+ },
+ "cpl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "中央公共圖書館（Central Public Library）；化學物理實驗室（Chemistry and Physics Laboratory）；普通程式語言（Common Programming Language）；計算機程式庫（Computer Program Library）；全稱電子職業聯賽（Cyberathelete Professional League）",
+    "def": ""
+   }
+  ]
+ },
+ "cpp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "卡片列印處理機（Card Print Processor）；用C++語言編寫的原始碼檔案",
+    "def": ""
+   }
+  ]
+ },
+ "cpr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 現行頁面暫存器",
+    "def": ""
+   }
+  ]
+ },
+ "cprs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "綜合精神病理學分級量表（comprehensive psychopathological rating scale）",
+    "def": ""
+   }
+  ]
+ },
+ "cps": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 每秒鐘字元數",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 中國物理學會",
+    "def": ""
+   }
+  ]
+ },
+ "cpu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "中央處理器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 中央處理器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cpus"
+ },
+ "cpv": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "每個訪問成本 (cost per visit)",
+    "def": ""
+   }
+  ]
+ }
+}

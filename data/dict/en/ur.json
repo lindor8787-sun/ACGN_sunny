@@ -1,0 +1,749 @@
+{
+ "ur": {
+  "ph": "/ʌ, ә(:)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 單元記錄",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 uring"
+ },
+ "uraemia": {
+  "ph": "/juә'ri:miә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尿毒症",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尿毒症",
+    "def": ""
+   }
+  ]
+ },
+ "uraemic": {
+  "ph": "/,jjә'ri:mik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尿毒症的",
+    "def": ""
+   }
+  ]
+ },
+ "ural": {
+  "ph": "/'juәrәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏拉爾河, 烏拉爾(蘇聯一地區)",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "烏拉爾山脈的",
+    "def": "Pertaining to, or designating, the Urals, a mountain range"
+   }
+  ]
+ },
+ "uranian": {
+  "ph": "/juә'reiniәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[希神]烏拉尼亞的,天的,天文學的,天國的,[天]天王星的",
+    "def": "Of or pertaining to the planet Uranus; as, the Uranian"
+   }
+  ]
+ },
+ "uranium": {
+  "ph": "/ju'reiniәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鈾",
+    "def": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鈾U",
+    "def": ""
+   }
+  ]
+ },
+ "uranus": {
+  "ph": "/'juәrәnәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天王星, 烏拉諾斯(希臘神話人物)",
+    "def": "a giant planet with a ring of ice particles; the 7th planet from the sun has a blue-green color and many satellites"
+   }
+  ]
+ },
+ "urban": {
+  "ph": "/'ә:bәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "都市的, 住在都市的, 習慣於都市的",
+    "def": "relating to or concerned with a city or densely populated area"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 城市的, 都市的, 市區的",
+    "def": ""
+   }
+  ]
+ },
+ "urbane": {
+  "ph": "/ә:'bein/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "彬彬有禮的",
+    "def": ""
+   }
+  ]
+ },
+ "urbanely": {
+  "ph": "/ɜ:'beɪnlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "都市化地, 彬彬有禮地, 溫文爾雅地",
+    "def": ""
+   }
+  ]
+ },
+ "urbanisation": {
+  "ph": "/ˌɜ:bənaɪ'zeɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "城市化（等於urbanization）",
+    "def": ""
+   }
+  ]
+ },
+ "urbanise": {
+  "ph": "/'\\\\\\\\:bәnaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使都市化, 使文雅",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 urbanised｜過去分詞 urbanised｜現在分詞 urbanising"
+ },
+ "urbanised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(urbanise 的過去分詞) v.使都市化, 使文雅",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 urbanised｜過去式 urbanised"
+ },
+ "urbanism": {
+  "ph": "/'ә:bәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "城市居民的生活方式, 城市化",
+    "def": ""
+   }
+  ]
+ },
+ "urbanist": {
+  "ph": "/'\\\\\\\\ : bәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "城市規劃專家",
+    "def": ""
+   }
+  ]
+ },
+ "urbanite": {
+  "ph": "/'ә:bәnait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "城市居民",
+    "def": ""
+   }
+  ],
+  "forms": "複數 urbanites"
+ },
+ "urbanity": {
+  "ph": "/ә:'bæniti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "彬彬有禮, 都市性, 文雅的舉止",
+    "def": "polished courtesy; elegance of manner"
+   }
+  ],
+  "forms": "複數 urbanities"
+ },
+ "urbanization": {
+  "ph": "/.ә:bәnai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "都市化",
+    "def": "the condition of being urbanized"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 都市化, 人口城市集中",
+    "def": ""
+   }
+  ]
+ },
+ "urbanize": {
+  "ph": "/'ә:bәnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使都市化, 使成都市式, 使文雅",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 urbanized｜現在分詞 urbanizing｜過去式 urbanized｜第三人稱單數 urbanizes"
+ },
+ "urbanized": {
+  "ph": "/ˈɜ:bənaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使都市化, 使文雅( urbanize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 urbanized"
+ },
+ "urbino": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Urbino)人名；(意)烏爾比諾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "烏爾比諾",
+    "def": ""
+   }
+  ]
+ },
+ "urchin": {
+  "ph": "/'ә:tʃin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淘氣鬼, 頑童",
+    "def": "poor and often mischievous city child"
+   }
+  ],
+  "forms": "複數 urchins"
+ },
+ "urdu": {
+  "ph": "/'uәdu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏爾都語",
+    "def": "the official literary language of Pakistan, closely related to Hindi; widely used in India (mostly by Moslems); written in Arabic script"
+   }
+  ]
+ },
+ "ure": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尿素酶",
+    "def": "The urus."
+   },
+   {
+    "pos": "n.",
+    "zh": "(Ure)人名；(英)尤爾；(西、塞)烏雷",
+    "def": "Use; practice; exercise."
+   },
+   {
+    "pos": "suff.",
+    "zh": "表“過程”；表“動作”；表“結果”",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ures"
+ },
+ "urea": {
+  "ph": "/juә'riә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尿素",
+    "def": "the chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 脲; 尿素",
+    "def": ""
+   }
+  ]
+ },
+ "uremic": {
+  "ph": "/juә'ri:mik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尿毒症的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尿毒症的",
+    "def": ""
+   }
+  ]
+ },
+ "ureter": {
+  "ph": "/.juә'ri:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輸尿管",
+    "def": "either of a pair of thick-walled tubes that carry urine from the kidney to the urinary bladder"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 輸尿管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ureters"
+ },
+ "urethane": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 尿烷; 氨基甲酸乙酯; 烏拉坦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 urethanes"
+ },
+ "urethra": {
+  "ph": "/.juә'ri:θrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尿道",
+    "def": "duct through which urine is discharged in most mammals and which serves as the male genital duct"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尿道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 urethras"
+ },
+ "urethritis": {
+  "ph": "/,juәri'θraitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尿道炎",
+    "def": "inflammation of the urethra; results in painful urination"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尿道炎",
+    "def": ""
+   }
+  ]
+ },
+ "urge": {
+  "ph": "/ә:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衝動, 推動力, 迫切的要求",
+    "def": "an instinctive motive"
+   },
+   {
+    "pos": "vt.",
+    "zh": "驅策, 力勸, 竭力主張, 推動",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "強烈要求",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 urged｜現在分詞 urging｜過去分詞 urged｜第三人稱單數 urges｜複數 urges"
+ },
+ "urgency": {
+  "ph": "/'ә:dʒәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊急, 催促",
+    "def": "the state of being urgent; an earnest and insistent necessity"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 緊急, 迫切, 緊急之事",
+    "def": ""
+   }
+  ],
+  "forms": "複數 urgencies"
+ },
+ "urgent": {
+  "ph": "/'ә:dʒәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "緊急的, 急迫的, 催逼的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 緊急的, 急迫的",
+    "def": ""
+   }
+  ]
+ },
+ "urgently": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "急切地；迫切地；緊急地",
+    "def": ""
+   }
+  ]
+ },
+ "urgh": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "= ugh",
+    "def": ""
+   }
+  ]
+ },
+ "urging": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "說服, 催促；激勵, 驅策；清除（urge的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 urgings｜現在分詞 urging"
+ },
+ "uri": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "上呼吸道感染（Upper Respiratory Infection）；統一資源識別符號（Uniform Resource Identifier）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 uri"
+ },
+ "uriah": {
+  "ph": "/,juə'raiə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尤賴亞（男子名）",
+    "def": "(Old Testament) the husband of Bathsheba and a soldier who was sent to die in battle so that king David could marry his wife (circa 10th century BC)"
+   }
+  ]
+ },
+ "uric": {
+  "ph": "/'juәrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尿的, 取自尿中的",
+    "def": "in or relating to or obtained from urine"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尿的",
+    "def": ""
+   }
+  ]
+ },
+ "urinal": {
+  "ph": "/'juәrinl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尿壺, 小便處",
+    "def": "a plumbing fixture (usually attached to the wall) used by men to urinate"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尿壺, 貯尿器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 urinals"
+ },
+ "urinalysis": {
+  "ph": "/.juәri'nælisis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尿分析, 驗尿",
+    "def": "(medicine) the chemical analysis of urine (for medical diagnosis)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尿分析",
+    "def": ""
+   }
+  ]
+ },
+ "urinary": {
+  "ph": "/'juәrinәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尿的, 泌尿的",
+    "def": "of or relating to the function or production or secretion of urine"
+   },
+   {
+    "pos": "n.",
+    "zh": "小便處",
+    "def": ""
+   }
+  ]
+ },
+ "urinate": {
+  "ph": "/'juәrineit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "小便, 撒尿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排尿",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 urinating｜過去式 urinated｜第三人稱單數 urinates｜複數 urinates｜過去分詞 urinated"
+ },
+ "urination": {
+  "ph": "/.juәri'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撒尿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排尿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 urinations"
+ },
+ "urine": {
+  "ph": "/'juәrin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小便, 尿",
+    "def": "liquid excretory product"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 尿",
+    "def": ""
+   }
+  ]
+ },
+ "url": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 統一資源定位器, 通用資源定位裝置標準",
+    "def": ""
+   }
+  ]
+ },
+ "urn": {
+  "ph": "/ә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甕, 缸, 墳墓",
+    "def": "a large vase that usually has a pedestal or feet"
+   }
+  ],
+  "forms": "複數 urns"
+ },
+ "urologic": {
+  "ph": "/,juәrәu'lɔdʒik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "泌尿學的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 泌尿科學的",
+    "def": ""
+   }
+  ]
+ },
+ "urological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "泌尿學的",
+    "def": ""
+   }
+  ]
+ },
+ "urologist": {
+  "ph": "/juә'rɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泌尿科醫師",
+    "def": "a specialist in urology"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 泌尿科學家, 泌尿科醫師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 urologists"
+ },
+ "urology": {
+  "ph": "/juә'rɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泌尿科學",
+    "def": "the branch of medicine that deals with the diagnosis and treatment of disorders of the urinary tract or urogenital system"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 泌尿科學",
+    "def": ""
+   }
+  ]
+ },
+ "urquhart": {
+  "ph": "/'ә:kәt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "厄克特(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "urry": {
+  "ph": "/'uri/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "緊貼煤層的黑土或藍土",
+    "def": ""
+   }
+  ]
+ },
+ "ursine": {
+  "ph": "/'ә:sain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熊的, 像熊的",
+    "def": "of or relating to or similar to bears"
+   }
+  ]
+ },
+ "ursula": {
+  "ph": "/'ә:sjulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厄休拉（女子名）",
+    "def": "A beautiful North American butterfly (Basilarchia, /"
+   }
+  ]
+ },
+ "urticaria": {
+  "ph": "/.ә:ti'kєәriә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蕁麻疹",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蕁麻疹",
+    "def": ""
+   }
+  ]
+ },
+ "uruguay": {
+  "ph": "/'uru^wai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏拉圭",
+    "def": "a South American republic on the southeast coast of South America; achieved independence from Brazil in 1825"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 烏拉圭",
+    "def": ""
+   }
+  ]
+ },
+ "uruguayan": {
+  "ph": "/jjәrә'^waiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏拉圭人",
+    "def": "a native or inhabitant of Uruguay"
+   }
+  ],
+  "forms": "複數 uruguayans"
+ }
+}

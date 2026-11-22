@@ -1,0 +1,27 @@
+{
+ "tv": {
+  "ph": "/'ti:'vi:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "電視",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 電視, 轉移向量",
+    "def": ""
+   }
+  ]
+ },
+ "tvs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "瞬變電壓抑制二極體（Transient Voltage Suppressors）；電視觀察系統（Television Viewing Systems）",
+    "def": ""
+   }
+  ]
+ }
+}

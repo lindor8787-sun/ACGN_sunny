@@ -1,0 +1,711 @@
+{
+ "rha": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "recombinant human albumin 重組人白蛋白",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhas"
+ },
+ "rhabdomyosarcoma": {
+  "ph": "/'ræbdәj,maiә?sɑ:'kәjmә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 橫紋肌肉瘤",
+    "def": ""
+   }
+  ]
+ },
+ "rhapsodic": {
+  "ph": "/ræp'sɔdik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狂文的, 狂喜的, 狂詩的",
+    "def": ""
+   }
+  ]
+ },
+ "rhapsodize": {
+  "ph": "/'ræpsәdaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "狂熱地說, 寫狂想文, 作狂想曲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "狂熱地說",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 rhapsodized｜第三人稱單數 rhapsodizes｜現在分詞 rhapsodizing｜過去分詞 rhapsodized"
+ },
+ "rhapsody": {
+  "ph": "/'ræpsәdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吟誦史詩, 狂文, 狂喜, 狂想曲",
+    "def": "an epic poem adapted for recitation"
+   }
+  ],
+  "forms": "複數 rhapsodies"
+ },
+ "rhea": {
+  "ph": "/riә. 'ri:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動]美洲鴕；[植]苧麻",
+    "def": "fertility goddess in ancient Greek mythology; wife of Cronus and mother of Zeus; identified with Roman Ops and Cybele of ancient Asia Minor"
+   }
+  ],
+  "forms": "複數 rheas"
+ },
+ "rhee": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rhee)人名；(朝)李",
+    "def": ""
+   }
+  ]
+ },
+ "rheme": {
+  "ph": "/ri:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[語]表位,述位(指為主體提供新資訊的句子成分)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhemes"
+ },
+ "rhenish": {
+  "ph": "/'ri:niʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "萊茵河的",
+    "def": "of or relating to the Rhine River and the lands adjacent to it"
+   }
+  ]
+ },
+ "rheostat": {
+  "ph": "/'ri:әstæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電阻器",
+    "def": "resistor for regulating current"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 變阻器",
+    "def": ""
+   }
+  ]
+ },
+ "rhesus": {
+  "ph": "/'ri:sәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "恆河猴",
+    "def": "of southern Asia; used in medical research"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 恆河猴, 獼",
+    "def": ""
+   }
+  ]
+ },
+ "rhetoric": {
+  "ph": "/'retәrik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修辭, 修辭學, 雄辯(術)",
+    "def": "using language effectively to please or persuade"
+   }
+  ],
+  "forms": "複數 rhetorics"
+ },
+ "rhetorical": {
+  "ph": "/ri'tɒ:rikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "修辭學的, 符合修辭學的, 修辭的",
+    "def": "of or relating to rhetoric"
+   }
+  ],
+  "forms": "複數 rhetoricals"
+ },
+ "rhetorically": {
+  "ph": "/rɪ'tɒrɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在修辭學上, 講究修辭地",
+    "def": ""
+   }
+  ]
+ },
+ "rhetorician": {
+  "ph": "/.retә'riʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修辭學者, 雄辯家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhetoricians"
+ },
+ "rheumatic": {
+  "ph": "/ru:'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "風溼病的, 患風溼病的, 風溼病引起的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "風溼病患者, 風溼病",
+    "def": "a person suffering with rheumatism"
+   }
+  ],
+  "forms": "複數 rheumatics"
+ },
+ "rheumatism": {
+  "ph": "/'ru:mәtizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風溼病",
+    "def": "any painful disorder of the joints or muscles or connective tissues"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 風溼病",
+    "def": ""
+   }
+  ]
+ },
+ "rheumatoid": {
+  "ph": "/ru:'mætɒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "類風溼病的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 風溼病樣的",
+    "def": ""
+   }
+  ]
+ },
+ "rheumatoid arthritis": {
+  "ph": "/ˌru:mətɔɪd ɑ:ˈθraɪtɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "類風溼性關節炎",
+    "def": ""
+   }
+  ]
+ },
+ "rheumatologist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 風溼病學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rheumatologists"
+ },
+ "rheumatology": {
+  "ph": "/.ru:mә'tɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風溼病學",
+    "def": "the branch of medicine dealing with the study and treatment of pathologies of the muscles or tendons or joints"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 風溼病學",
+    "def": ""
+   }
+  ]
+ },
+ "rheumy": {
+  "ph": "/'ru:mi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "稀粘液的, 潮溼陰冷的",
+    "def": ""
+   }
+  ]
+ },
+ "rhiannon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rhiannon)人名；(英)裡安農",
+    "def": ""
+   }
+  ]
+ },
+ "rhine": {
+  "ph": "/rain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊茵河",
+    "def": "United States parapsychologist (1895-1980)"
+   }
+  ],
+  "forms": "複數 rhines"
+ },
+ "rhineland": {
+  "ph": "/'rainlænd; -lənd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊茵蘭（等於Rhine Province ）",
+    "def": "a picturesque region of Germany around the Rhine river"
+   }
+  ]
+ },
+ "rhinestone": {
+  "ph": "/'rainstәjn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊茵石",
+    "def": "an imitation diamond made from rock crystal or glass or paste"
+   }
+  ],
+  "forms": "複數 rhinestones"
+ },
+ "rhinitis": {
+  "ph": "/rai'naitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼻炎",
+    "def": "an inflammation of the mucous membrane lining the nose (usually associated with nasal discharge)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鼻炎",
+    "def": ""
+   }
+  ]
+ },
+ "rhino": {
+  "ph": "/'rainәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錢, 現金, 犀牛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhinos"
+ },
+ "rhinoceros": {
+  "ph": "/rai'nɒsәrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犀牛",
+    "def": "massive powerful herbivorous odd-toed ungulate of southeast Asia and Africa having very thick skin and one or two horns on the snout"
+   }
+  ]
+ },
+ "rhinoplasty": {
+  "ph": "/'rainәplæsti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼻整形術",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鼻成形術",
+    "def": ""
+   }
+  ]
+ },
+ "rhinorrhea": {
+  "ph": "/'rainәriә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 鼻[液]溢",
+    "def": ""
+   }
+  ]
+ },
+ "rhinovirus": {
+  "ph": "/,rainәu'vaiәrәs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 鼻病毒",
+    "def": ""
+   }
+  ]
+ },
+ "rhizomatous": {
+  "ph": "/rai'zɔmәtәs,-'zәj-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地下莖的, 生地下莖的",
+    "def": "producing or possessing or resembling rhizomes"
+   }
+  ]
+ },
+ "rhizome": {
+  "ph": "/'raizәjm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 根莖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhizomes"
+ },
+ "rhm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "人性化管理；距輻射源米處每小時的倫琴數（Roentgen per Hour at one Meter）；拉姆（roentgen-hour-meter）",
+    "def": ""
+   }
+  ]
+ },
+ "rho": {
+  "ph": "/rәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘字母的第17字",
+    "def": "the 17th letter of the Greek alphabet"
+   }
+  ]
+ },
+ "rhoda": {
+  "ph": "/'rәudә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羅達（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "rhode": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羅德島",
+    "def": ""
+   }
+  ]
+ },
+ "rhodes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羅茲島（希臘東南端佐澤卡尼索斯群島中最大的島嶼）；羅茲市（羅茲島上的港口城市）",
+    "def": "British colonial financier and statesman in South Africa; made a fortune in gold and diamond mining; helped colonize the territory now known as Zimbabwe; he end"
+   }
+  ]
+ },
+ "rhodesia": {
+  "ph": "/rәu'di:zjә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "羅得西亞(辛巴威的舊稱)[非洲]",
+    "def": ""
+   }
+  ]
+ },
+ "rhodesian": {
+  "ph": "/rəu'di:ziən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羅得西亞（前南非一地區）人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhodesians"
+ },
+ "rhodium": {
+  "ph": "/'rәudiәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銠",
+    "def": "a white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 銠Rh",
+    "def": ""
+   }
+  ]
+ },
+ "rhododendron": {
+  "ph": "/.rәudә'dendrәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "杜鵑",
+    "def": "any shrub of the genus Rhododendron: evergreen shrubs or small shrubby trees having leathery leaves and showy clusters of campanulate (bell-shaped) flowers"
+   }
+  ],
+  "forms": "複數 rhododendrons"
+ },
+ "rhodopsin": {
+  "ph": "/rәu'dɒpsin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "視紫紅",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 視紫紅; 視紫紅質",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhodopsins"
+ },
+ "rhomboid": {
+  "ph": "/'rɒmbɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長菱形",
+    "def": "a parallelogram with adjacent sides of unequal lengths; an oblique-angled parallelogram with only the opposite sides equal"
+   }
+  ],
+  "forms": "複數 rhomboids"
+ },
+ "rhona": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Rhona)人名；(英)羅娜",
+    "def": ""
+   }
+  ]
+ },
+ "rhondda": {
+  "ph": "/'rɔndә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "朗達(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "rhone": {
+  "ph": "/rәun/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "雨水槽, 排水槽",
+    "def": ""
+   }
+  ]
+ },
+ "rhs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）皇家園藝學會（Royal Horticultural Society）；（英國）皇家歷史學會（Royal Historical Society）；右座駕駛（Right-Hand Side）",
+    "def": ""
+   }
+  ]
+ },
+ "rhu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "放射性同位素熱源裝置（radioisotope heater unit）",
+    "def": ""
+   }
+  ]
+ },
+ "rhubarb": {
+  "ph": "/'ru:bɑ:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大黃, 大黃根",
+    "def": "plants having long green or reddish acidic leafstalks growing in basal clumps; stems (and only the stems) are edible when cooked; leaves are poisonous"
+   }
+  ],
+  "forms": "過去式 rhubarbed"
+ },
+ "rhumba": {
+  "ph": "/'rʌmbә,'rjm-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(=rumba)倫巴舞蹈, 倫巴樂曲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhumbas"
+ },
+ "rhyl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "里爾",
+    "def": ""
+   }
+  ]
+ },
+ "rhyme": {
+  "ph": "/raim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韻, 押韻, 韻文",
+    "def": "correspondence in the sounds of two or more lines (especially final sounds)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "押韻",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使押韻, 用韻詩表達",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhymes｜第三人稱單數 rhymes｜現在分詞 rhyming｜過去式 rhymed｜過去分詞 rhymed"
+ },
+ "rhymed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "押韻的",
+    "def": "having corresponding sounds especially terminal sounds"
+   }
+  ],
+  "forms": "過去式 rhymed"
+ },
+ "rhyming": {
+  "ph": "/'raimiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "押韻",
+    "def": ""
+   }
+  ]
+ },
+ "rhys": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "里斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "rhythm": {
+  "ph": "/'riðәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋律, 節奏, 韻律, 勻稱, 張弛節律",
+    "def": "the basic rhythmic unit in a piece of music"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 節律",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhythms"
+ },
+ "rhythmic": {
+  "ph": "/'riðmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有韻律的, 有節奏的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rhythmics"
+ },
+ "rhythmical": {
+  "ph": "/'riðmikəl,'riθ-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有韻律的, 有節奏的",
+    "def": "recurring with measured regularity"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 節律的",
+    "def": ""
+   }
+  ]
+ },
+ "rhythmically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有節奏地",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,1892 @@
+{
+ "sn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 順序號",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 錫(50號元素)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sns"
+ },
+ "sna": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 系統網路體系結構",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snas"
+ },
+ "snack": {
+  "ph": "/snæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小吃, 點心, 快餐",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "吃零食, 吃快餐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snacks｜現在分詞 snacking｜第三人稱單數 snacks｜過去分詞 snacked｜過去式 snacked"
+ },
+ "snacks": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "快餐；小吃；零嘴（snack的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "snaffle": {
+  "ph": "/'snæfl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬嚼子",
+    "def": "a simple jointed bit for a horse; without a curb"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝以馬嚼子, 輕勒, 偷竊",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 snaffled｜過去式 snaffled｜第三人稱單數 snaffles｜複數 snaffles｜現在分詞 snaffling"
+ },
+ "snafu": {
+  "ph": "/snæ'fu:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "一團槽的, 大混亂的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使混亂, 使一團槽",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "混亂",
+    "def": "an acronym often used by soldiers in World War II: situation normal all fucked up"
+   }
+  ],
+  "forms": "現在分詞 snafuing｜過去式 snafued｜第三人稱單數 snafues｜過去分詞 snafued"
+ },
+ "snag": {
+  "ph": "/snæg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(尖利的)突出物, (衣服等的)戳破處, 斷牙, 意外障礙",
+    "def": "a sharp protuberance"
+   },
+   {
+    "pos": "vt.",
+    "zh": "造成阻礙, 抓住機會, 搶到, 清除障礙物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snags｜過去式 snagged｜現在分詞 snagging｜過去分詞 snagged｜第三人稱單數 snags"
+ },
+ "snagged": {
+  "ph": "/'snæ^id/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被根株鉤住的, 被隱樹損壞的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snagged"
+ },
+ "snail": {
+  "ph": "/sneil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蝸牛, 行動遲緩的人, 腦筋遲鈍的人, 蝸形凸輪",
+    "def": "freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell"
+   },
+   {
+    "pos": "vt.",
+    "zh": "(蝸牛般)緩慢地打發(時間)",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "緩慢移動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snails"
+ },
+ "snake": {
+  "ph": "/sneik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛇, 陰險的人",
+    "def": "limbless scaly elongate reptile; some are venomous"
+   },
+   {
+    "pos": "vi.",
+    "zh": "曲折行進",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "迂迴, 拉, 急抽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snakes｜過去式 snaked｜現在分詞 snaking｜第三人稱單數 snakes｜過去分詞 snaked"
+ },
+ "snakebite": {
+  "ph": "/'sneikbait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛇咬傷",
+    "def": "a bite inflicted by a (venomous) snake"
+   }
+  ]
+ },
+ "snakehead": {
+  "ph": "/'sneikhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "龜頭花",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snakeheads"
+ },
+ "snakeskin": {
+  "ph": "/'sneikskin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛇皮, 蛇皮革",
+    "def": ""
+   }
+  ]
+ },
+ "snaking": {
+  "ph": "/'sneikiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "板玻璃的縱向裂紋, (飛機作)蛇形飛行",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snaking"
+ },
+ "snaky": {
+  "ph": "/'sneiki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蛇的, 蛇一般的, 彎彎曲曲的, 陰險的, 多蛇的",
+    "def": ""
+   }
+  ]
+ },
+ "snap": {
+  "ph": "/snæp/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使突然中斷, 猛咬, 爭奪, 拉斷, 使有啪啪聲, 厲聲說, 突然射擊, 用快照拍攝",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "咬, 撲, 抓, 折斷, 劈啪地響, 厲聲說, 砰然關上",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "猛咬, 猛撲, 劈啪聲, 申斥, 快照, 活力, 一般時期的寒冷天氣, 撳鈕",
+    "def": "a spell of cold weather"
+   },
+   {
+    "pos": "adj.",
+    "zh": "突然的, 裝搭扣的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "猛地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 子網訪問協議",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snapped｜過去分詞 snapped｜現在分詞 snapping｜第三人稱單數 snaps｜複數 snaps"
+ },
+ "snapdragon": {
+  "ph": "/'snæpdræ^әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金魚草",
+    "def": "a garden plant of the genus Antirrhinum having showy white or yellow or crimson flowers resembling the face of a dragon"
+   }
+  ],
+  "forms": "複數 snapdragons"
+ },
+ "snape": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯內普（姓氏, 或地名, 指英國小鎮名）",
+    "def": ""
+   }
+  ]
+ },
+ "snapped": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "啪啪作響；突然中斷；猛咬；給…拍快照（snap的過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "snapper": {
+  "ph": "/'snæpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咬人的狗, 厲聲說話的人, 撳鈕",
+    "def": "flesh of any of various important food fishes of warm seas"
+   }
+  ],
+  "forms": "複數 snappers"
+ },
+ "snappily": {
+  "ph": "/'snæpili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "漂亮地, 時髦地",
+    "def": ""
+   }
+  ]
+ },
+ "snapping": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "顯著地, 強烈地, 非常地",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snapping"
+ },
+ "snappish": {
+  "ph": "/'snæpiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "要咬人的, 厲聲說話的, 沒好氣的",
+    "def": ""
+   }
+  ]
+ },
+ "snappy": {
+  "ph": "/'snæpi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "厲聲說話的；生氣勃勃的；時髦的；爽快的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 snappier｜最高級 snappiest"
+ },
+ "snapshot": {
+  "ph": "/'snæpʃɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "快照, 抽點列印",
+    "def": "an informal photograph; usually made with a small hand-held camera"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 瞬象; 抽點列印",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snapshots"
+ },
+ "snare": {
+  "ph": "/snєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陷阱, 誘惑, 圈套",
+    "def": "a surgical instrument consisting of wire hoop that can be drawn tight around the base of polyps or small tumors to sever them; used especially in body cavities"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以陷阱捕獲, 誘惑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snares｜過去式 snared｜過去分詞 snared｜第三人稱單數 snares｜現在分詞 snaring"
+ },
+ "snarky": {
+  "ph": "/ˈsnɑ:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惡聲惡氣的, （突然）咬人的",
+    "def": ""
+   }
+  ]
+ },
+ "snarl": {
+  "ph": "/snɑ:l/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "吼叫, 怒罵, 纏結",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "咆哮著說, 搞亂, 使纏結",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "咆哮, 吼叫, 怒罵, 纏結, 混亂",
+    "def": "a vicious angry growl"
+   }
+  ],
+  "forms": "過去式 snarled｜現在分詞 snarling｜複數 snarls｜第三人稱單數 snarls｜過去分詞 snarled"
+ },
+ "snarled": {
+  "ph": "/snɑ:rld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（指狗）吠, 嗥叫, （人）咆哮( snarl的過去式和過去分詞 ); 咆哮著說, 厲聲地說",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snarled"
+ },
+ "snarling": {
+  "ph": "/snɑ:lɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（指狗）吠, 嗥叫, （人）咆哮( snarl的現在分詞 ); 咆哮著說, 厲聲地說",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snarling｜複數 snarlings"
+ },
+ "snarly": {
+  "ph": "/'snɑ:li/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "要咆哮的, 脾氣壞的, 糾纏在一起的",
+    "def": ""
+   }
+  ]
+ },
+ "snatch": {
+  "ph": "/snætʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "搶奪, 攫取, 片斷",
+    "def": "a small fragment"
+   },
+   {
+    "pos": "vt.",
+    "zh": "奪取, 攫取",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "想搶走, 攫取",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snatched｜現在分詞 snatching｜過去分詞 snatched｜複數 snatches｜第三人稱單數 snatches"
+ },
+ "snatched": {
+  "ph": "/snætʃt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "突然伸手拿取, 攫取, 抓住( snatch的過去式和過去分詞 ); 抓緊時間做; 乘機獲得; 奪去",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snatched｜過去分詞 snatched"
+ },
+ "snatcher": {
+  "ph": "/'snætʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攫奪者, 誘拐者, 綁架者",
+    "def": "a thief who grabs and runs"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 搶奪者, 綁架者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snatchers"
+ },
+ "snatching": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衝動；搶掠；[印]紙張撕裂",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snatching｜複數 snatchings"
+ },
+ "snazzy": {
+  "ph": "/'snæzi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "華麗的, 華麗而俗氣的, 時髦的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 snazziest｜比較級 snazzier"
+ },
+ "snc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "立體聲噪聲控制；鎳鉻鋼（Steel Nickel Chrome）",
+    "def": ""
+   }
+  ]
+ },
+ "sneak": {
+  "ph": "/sni:k/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "鬼鬼祟祟做事",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "偷偷地做",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "鬼鬼祟祟的人, 偷偷摸摸的行為, 帆布膠底運動鞋",
+    "def": "a person who is regarded as underhanded and furtive and contemptible"
+   },
+   {
+    "pos": "adj.",
+    "zh": "暗中進行的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sneaked｜現在分詞 sneaking｜過去分詞 sneaked｜第三人稱單數 sneaks｜複數 sneaks"
+ },
+ "sneaker": {
+  "ph": "/'sni:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬼鬼祟祟做事的人, 卑鄙者, 帆布膠底運動鞋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sneakers"
+ },
+ "sneakered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "sneaker的變形",
+    "def": ""
+   }
+  ]
+ },
+ "sneakers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膠底運動鞋（sneaker的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "sneakily": {
+  "ph": "/ˈsni:kɪlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "偷偷摸摸地",
+    "def": ""
+   }
+  ]
+ },
+ "sneaking": {
+  "ph": "/'sni:kiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偷偷逃走的, 暗中的, 卑微的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 隱密的, 鬼祟的, 卑怯的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sneakings"
+ },
+ "sneaky": {
+  "ph": "/'sni:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鬼祟的, 卑微的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 sneakier"
+ },
+ "sneer": {
+  "ph": "/sniә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冷笑, 嘲笑",
+    "def": "a facial expression of contempt or scorn; the upper lip curls"
+   },
+   {
+    "pos": "vi.",
+    "zh": "嘲笑, 冷笑",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "嘲笑著說, 嘲笑得使",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sneered｜現在分詞 sneering｜過去分詞 sneered｜複數 sneers｜第三人稱單數 sneers"
+ },
+ "sneering": {
+  "ph": "/'sniәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嘲笑的, 輕蔑的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sneering"
+ },
+ "sneeringly": {
+  "ph": "/'sniәriŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嘲笑地, 輕蔑地",
+    "def": ""
+   }
+  ]
+ },
+ "sneeze": {
+  "ph": "/sni:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噴嚏",
+    "def": "a symptom consisting of the involuntary expulsion of air from the nose"
+   },
+   {
+    "pos": "vi.",
+    "zh": "打噴嚏",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sneezing｜過去式 sneezed｜第三人稱單數 sneezes｜複數 sneezes｜過去分詞 sneezed"
+ },
+ "sneezing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 噴嚏",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sneezing"
+ },
+ "snell": {
+  "ph": "/snel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "系鉤線",
+    "def": "A short line of horsehair, gut, etc., by which a fishhook is"
+   },
+   {
+    "pos": "adj.",
+    "zh": "厲害的, 精明的",
+    "def": "Active; brisk; nimble; quick; sharp."
+   }
+  ]
+ },
+ "snelling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Snelling)人名；(英)斯內林",
+    "def": ""
+   }
+  ]
+ },
+ "snick": {
+  "ph": "/snik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刻痕, 削球",
+    "def": "a glancing contact with the ball off the edge of the cricket bat"
+   },
+   {
+    "pos": "vt.",
+    "zh": "刻痕於, 割開, 猛擊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snicked｜現在分詞 snicking｜過去分詞 snicked｜複數 snicks｜第三人稱單數 snicks"
+ },
+ "snicker": {
+  "ph": "/'snikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "竊笑",
+    "def": "a disrespectful laugh"
+   },
+   {
+    "pos": "vi.",
+    "zh": "竊笑",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "竊笑著說",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snickered｜現在分詞 snickering｜複數 snickers｜第三人稱單數 snickers｜過去分詞 snickered"
+ },
+ "snickering": {
+  "ph": "/ˈsnɪkərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "=sni^^er( snicker的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snickering"
+ },
+ "snide": {
+  "ph": "/snaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "贗品, 假珠寶",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "偽造的, 不誠實的, 卑鄙的, 險惡的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 snider"
+ },
+ "snidely": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "嘲諷地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "惡意地",
+    "def": ""
+   }
+  ]
+ },
+ "sniff": {
+  "ph": "/snif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "以鼻吸氣, 嗅, 氣息",
+    "def": "sensing an odor by inhaling through the nose"
+   },
+   {
+    "pos": "vi.",
+    "zh": "嗅, 蔑視, 嗤之以鼻",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "聞, 用力吸, 發覺",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sniffed｜現在分詞 sniffing｜過去分詞 sniffed｜第三人稱單數 sniffs｜複數 sniffs"
+ },
+ "sniffer": {
+  "ph": "/'snifә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嗅探器",
+    "def": "a person who sniffs"
+   }
+  ],
+  "forms": "複數 sniffers"
+ },
+ "sniffing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 測錯",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sniffing"
+ },
+ "sniffle": {
+  "ph": "/'snifl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "吸著鼻子說話, 抽鼻涕",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "抽鼻子",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sniffling｜過去式 sniffled｜複數 sniffles｜第三人稱單數 sniffles｜過去分詞 sniffled"
+ },
+ "sniffling": {
+  "ph": "/ˈsnɪfəlɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "抽鼻子( sniffle的現在分詞 ); 抽噎",
+    "def": ""
+   }
+  ]
+ },
+ "sniffy": {
+  "ph": "/'snifi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傲慢的, 輕蔑的, 微臭的",
+    "def": ""
+   }
+  ]
+ },
+ "snifter": {
+  "ph": "/'sniftә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狹口大肚酒杯, 一口酒",
+    "def": "a globular glass with a small top; used for serving brandy"
+   }
+  ],
+  "forms": "複數 snifters"
+ },
+ "snigger": {
+  "ph": "/'snigә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "竊笑",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "竊笑, 暗笑",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sniggered｜現在分詞 sniggering｜複數 sniggers｜第三人稱單數 sniggers｜過去分詞 sniggered"
+ },
+ "snip": {
+  "ph": "/snip/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "剪, 剪斷, 削減, 刪節",
+    "def": "cultivate, tend, and cut back the growth of"
+   },
+   {
+    "pos": "n.",
+    "zh": "剪, (剪刀的)一剪, 不足道的人",
+    "def": "a small piece of anything (especially a piece that has been snipped off)"
+   }
+  ],
+  "forms": "現在分詞 snipping｜過去式 snipped｜複數 snips｜過去分詞 snipped｜第三人稱單數 snips"
+ },
+ "snipe": {
+  "ph": "/snaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沙錐, 香菸屁股, 狙擊, 街頭流浪兒",
+    "def": "Old or New World straight-billed game bird of the sandpiper family; of marshy areas; similar to the woodcocks"
+   },
+   {
+    "pos": "vi.",
+    "zh": "獵鳥, 狙擊, 誹謗",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "狙擊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sniping｜過去式 sniped｜過去分詞 sniped｜複數 snipes｜第三人稱單數 snipes"
+ },
+ "sniper": {
+  "ph": "/'snaipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狙擊兵",
+    "def": "a marksman who shoots at people from a concealed place"
+   }
+  ],
+  "forms": "複數 snipers"
+ },
+ "snippet": {
+  "ph": "/'snipit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小片, 片斷, 摘錄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snippets｜第三人稱單數 snippets"
+ },
+ "snippy": {
+  "ph": "/'snipi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "暴躁的, 傲慢的",
+    "def": ""
+   }
+  ]
+ },
+ "snit": {
+  "ph": "/snit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發怒, 焦急狀態, 心情緊張(或紊亂)",
+    "def": "a state of agitated irritation"
+   }
+  ]
+ },
+ "snitch": {
+  "ph": "/snitʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "偷, 扒(不太值錢的東西)",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "進行小偷小摸, 告密, 告發",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "告密者, 告發者",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snitching｜過去式 snitched｜第三人稱單數 snitches｜過去分詞 snitched"
+ },
+ "snivel": {
+  "ph": "/'snivl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "流鼻涕, 哭泣",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "流鼻涕, 哭泣, 假哭",
+    "def": "whining in a tearful manner"
+   }
+  ],
+  "forms": "現在分詞 snivelling｜過去式 snivelled｜複數 snivels｜第三人稱單數 snivels｜過去分詞 snivelled"
+ },
+ "sniveling": {
+  "ph": "/'snɪv(ə)l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流鼻涕；啜泣",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "流鼻涕；哭泣",
+    "def": ""
+   }
+  ]
+ },
+ "snivelling": {
+  "ph": "/ˈsnɪvlɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "啜泣, 嗚咽, 哭訴( snivel的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snivelling"
+ },
+ "snm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國核醫學學會（Society of Nuclear Medicine）；信令網管理（Signaling Network Management）",
+    "def": ""
+   }
+  ]
+ },
+ "snmp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 簡單網路管理協議",
+    "def": ""
+   }
+  ]
+ },
+ "snob": {
+  "ph": "/snɒb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勢利的人, 假內行",
+    "def": "a person regarded as arrogant and annoying"
+   }
+  ],
+  "forms": "複數 snobs｜第三人稱單數 snobs"
+ },
+ "snobbery": {
+  "ph": "/'snɒbәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "諂上欺下, 勢利",
+    "def": "the trait of condescending to those of lower social status"
+   }
+  ],
+  "forms": "複數 snobberies"
+ },
+ "snobbish": {
+  "ph": "/'snɒbiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自命不凡的, 勢利的",
+    "def": ""
+   }
+  ]
+ },
+ "snobbishness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勢利",
+    "def": ""
+   }
+  ]
+ },
+ "snobby": {
+  "ph": "/'snɔbi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "勢利的（等於snobbish）",
+    "def": ""
+   }
+  ]
+ },
+ "snodgrass": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Snodgrass)人名；(英)斯諾德格拉斯",
+    "def": ""
+   }
+  ]
+ },
+ "snog": {
+  "ph": "/snɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "接吻, 愛撫",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snogging｜過去分詞 snogged｜過去式 snogged｜複數 snogs｜第三人稱單數 snogs"
+ },
+ "snook": {
+  "ph": "/snu:k. snuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[口]大拇指按鼻端, 其餘四指張開以示輕蔑的手勢",
+    "def": "large tropical American food and game fishes of coastal and brackish waters; resemble pike"
+   }
+  ],
+  "forms": "過去式 snook"
+ },
+ "snooker": {
+  "ph": "/'snu:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "彩色檯球",
+    "def": "a form of pool played with 15 red balls and six balls of other colors and a cue ball"
+   },
+   {
+    "pos": "vt.",
+    "zh": "阻撓",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snookered｜第三人稱單數 snookers｜過去分詞 snookered｜複數 snookers｜現在分詞 snookering"
+ },
+ "snoop": {
+  "ph": "/snu:p/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "調查, 窺探",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "窺視行為, 愛管閒事的人, 私家偵探",
+    "def": "a spy who makes uninvited inquiries into the private affairs of others"
+   }
+  ],
+  "forms": "現在分詞 snooping｜過去式 snooped｜第三人稱單數 snoops｜過去分詞 snooped｜複數 snoops"
+ },
+ "snooper": {
+  "ph": "/'snu:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "探聽者, 窺探者, 管閒事者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 探聽, 窺探",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snoopers"
+ },
+ "snooping": {
+  "ph": "/snu:pɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "探聽, 窺探, 管閒事( snoop的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snooping"
+ },
+ "snoopy": {
+  "ph": "/'snu:pi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛窺探的, 愛管閒事的",
+    "def": ""
+   }
+  ]
+ },
+ "snoot": {
+  "ph": "/snu:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼻子, 臉, 鬼臉, 勢利者",
+    "def": ""
+   }
+  ]
+ },
+ "snooty": {
+  "ph": "/'snu:ti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傲慢的, 自大自滿的, 鄙視別人的",
+    "def": ""
+   }
+  ]
+ },
+ "snooze": {
+  "ph": "/snu:z/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "小睡, 打盹兒",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "懶散地打發日子",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "打盹兒, 小睡",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snoozing｜過去式 snoozed｜第三人稱單數 snoozes｜複數 snoozes｜過去分詞 snoozed"
+ },
+ "snore": {
+  "ph": "/snɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼾聲, 打鼾",
+    "def": "the rattling noise produced when snoring"
+   },
+   {
+    "pos": "vi.",
+    "zh": "打鼾",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "打鼾度過",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snoring｜過去式 snored｜複數 snores｜第三人稱單數 snores｜過去分詞 snored"
+ },
+ "snorer": {
+  "ph": "/'snɒ:rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打鼾者",
+    "def": "someone who snores while sleeping"
+   }
+  ],
+  "forms": "複數 snorers"
+ },
+ "snoring": {
+  "ph": "/snɔ:ɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "打呼嚕, 打鼾( snore的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snoring"
+ },
+ "snorkel": {
+  "ph": "/'snɔ:kl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通氣管",
+    "def": "breathing device consisting of a bent tube fitting into a swimmer's mouth and extending above the surface; allows swimmer to breathe while face down in the wate"
+   }
+  ],
+  "forms": "現在分詞 snorkelling｜複數 snorkels｜過去式 snorkeled｜第三人稱單數 snorkels｜過去分詞 snorkeled"
+ },
+ "snorkeler": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通氣管；潛艇換氣裝置 (snorkel的變形)",
+    "def": ""
+   }
+  ]
+ },
+ "snorkeling": {
+  "ph": "/ˈsnɔ:klɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用通氣管潛泳",
+    "def": ""
+   }
+  ]
+ },
+ "snort": {
+  "ph": "/snɒ:t/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "噴著氣弄響鼻子, 輕蔑地哼, 嘶嘶響著排氣",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "哼著鼻子說, 噴出, 吸入(毒品)",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "噴鼻息, (潛艇的)水下通氣管",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snorted｜現在分詞 snorting｜複數 snorts｜第三人稱單數 snorts｜過去分詞 snorted"
+ },
+ "snorting": {
+  "ph": "/snɔ:tɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "噴鼻息（以表示不耐煩, 輕蔑等）( snort的現在分詞 ); （俚） 用鼻子吸（毒品）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snorting｜複數 snortings"
+ },
+ "snot": {
+  "ph": "/snɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼻水, 鼻涕, 惹人嫌的人, 蠻橫無理的話",
+    "def": "nasal mucus"
+   }
+  ],
+  "forms": "複數 snots"
+ },
+ "snotty": {
+  "ph": "/'snɒti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "流鼻涕的, 蠻橫無禮的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snotties"
+ },
+ "snout": {
+  "ph": "/snaut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼻口部, 鼻子, 口吻狀物, 菸草",
+    "def": "a long projecting or anterior elongation of an animal's head; especially the nose"
+   }
+  ],
+  "forms": "複數 snouts｜現在分詞 snouting"
+ },
+ "snow": {
+  "ph": "/snәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪, 積雪, 下雪, 雪花形干擾",
+    "def": "precipitation falling from clouds in the form of ice crystals"
+   },
+   {
+    "pos": "vi.",
+    "zh": "下雪, 似雪般落下",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使雪白, 用雪覆蓋, 使像雪般落下",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snowing｜複數 snows｜過去式 snowed｜過去分詞 snowed｜第三人稱單數 snows"
+ },
+ "snow-white": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "雪白的, 純白的",
+    "def": ""
+   }
+  ]
+ },
+ "snowball": {
+  "ph": "/'snәubɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪球, 果味冰霜卷, 滾雪球式的募捐法",
+    "def": "plant having heads of fragrant white trumpet-shaped flowers; grows in sandy arid regions"
+   },
+   {
+    "pos": "vt.",
+    "zh": "向...丟雪球, 使滾雪球般增長",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "打雪仗, 滾雪球般增長",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snowballs｜第三人稱單數 snowballs｜現在分詞 snowballing｜過去式 snowballed｜過去分詞 snowballed"
+ },
+ "snowballing": {
+  "ph": "/ˈsnəʊˌbɔ:lɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（計劃、問題等）滾雪球似地迅速增大( snowball的現在分詞 ); 根本不可能（做某事）, 機會渺茫",
+    "def": ""
+   }
+  ]
+ },
+ "snowbank": {
+  "ph": "/'snәubæŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪堤",
+    "def": "a mound or heap of snow"
+   }
+  ]
+ },
+ "snowbird": {
+  "ph": "/'snәubә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雀科小鳥",
+    "def": ""
+   }
+  ]
+ },
+ "snowblower": {
+  "ph": "/ˈsnəʊbləʊə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吹雪機",
+    "def": ""
+   }
+  ]
+ },
+ "snowboard": {
+  "ph": "/'snәubɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑雪板",
+    "def": "a board that resembles a broad ski or a small surfboard; used in a standing position to slide down snow-covered slopes"
+   }
+  ],
+  "forms": "複數 snowboards｜現在分詞 snowboarding｜過去式 snowboarded｜第三人稱單數 snowboards｜過去分詞 snowboarded"
+ },
+ "snowboarder": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "雪山飛魂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snowboarders"
+ },
+ "snowboarding": {
+  "ph": "/ˈsnəʊbɔ:dɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "測雪板(snowboard的現在分詞 )",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "單板滑雪; 滑板滑雪; 滑雪板",
+    "def": "the act of sliding down a snow-covered slope while standing on a snowboard"
+   }
+  ]
+ },
+ "snowbound": {
+  "ph": "/'snәjbajnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被雪困住的, 被雪困在室內的, 被雪封住的",
+    "def": ""
+   }
+  ]
+ },
+ "snowcat": {
+  "ph": "/'snәjkæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪地履帶式車輛",
+    "def": ""
+   }
+  ]
+ },
+ "snowden": {
+  "ph": "/'snәudn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "斯諾登(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "snowdon": {
+  "ph": "/'snәjdәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "斯諾登峰[英國威爾士西北部](海拔1085米)",
+    "def": ""
+   }
+  ]
+ },
+ "snowdonia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯諾登尼亞（英國山峰）",
+    "def": ""
+   }
+  ]
+ },
+ "snowdrift": {
+  "ph": "/'snәudrift/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(被風颳在一起的)雪堆, 隨風飄飛的雪",
+    "def": "a mass of snow heaped up by the wind"
+   }
+  ],
+  "forms": "複數 snowdrifts"
+ },
+ "snowdrop": {
+  "ph": "/'snәjdrɔp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪花蓮, (美)(非正式)憲兵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snowdrops"
+ },
+ "snowfall": {
+  "ph": "/'snәufɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "降雪, 降雪量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snowfalls"
+ },
+ "snowfield": {
+  "ph": "/'snәjfi:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪原, 雪野",
+    "def": "a permanent wide expanse of snow"
+   }
+  ],
+  "forms": "複數 snowfields"
+ },
+ "snowflake": {
+  "ph": "/'snәufleik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪片, 雪花, 雪片蓮",
+    "def": "a crystal of snow"
+   }
+  ],
+  "forms": "複數 snowflakes"
+ },
+ "snowless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無雪的",
+    "def": "Destitute of snow."
+   }
+  ]
+ },
+ "snowmaking": {
+  "ph": "/'snәj,meikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人工造雪",
+    "def": ""
+   }
+  ]
+ },
+ "snowman": {
+  "ph": "/'snәumæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪人",
+    "def": "a figure of a person made of packed snow"
+   }
+  ],
+  "forms": "複數 snowmen"
+ },
+ "snowmelt": {
+  "ph": "/'snәjmelt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "融雪水",
+    "def": ""
+   }
+  ]
+ },
+ "snowmobile": {
+  "ph": "/'snәumәubi:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪上機動車",
+    "def": "tracked vehicle for travel on snow having skis in front"
+   }
+  ],
+  "forms": "複數 snowmobiles｜現在分詞 snowmobiling｜過去式 snowmobiled｜第三人稱單數 snowmobiles｜過去分詞 snowmobiled"
+ },
+ "snowpack": {
+  "ph": "/'snәupæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "積雪場",
+    "def": ""
+   }
+  ]
+ },
+ "snowplow": {
+  "ph": "/'snәjplaj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪犁, 掃雪機, 犁雪機",
+    "def": "a vehicle used to push snow from roads"
+   }
+  ]
+ },
+ "snowshoe": {
+  "ph": "/'snәuʃu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪鞋",
+    "def": "a device to help you walk on deep snow; a lightweight frame shaped like a racquet is strengthened with cross pieces and contains a network of thongs; one is wor"
+   },
+   {
+    "pos": "vi.",
+    "zh": "穿雪鞋走路",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snowshoeing｜過去式 snowshoed｜第三人稱單數 snowshoes｜過去分詞 snowshoed"
+ },
+ "snowstorm": {
+  "ph": "/'snәustɒ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴風雪",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 雪暴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snowstorms｜第三人稱單數 snowstorms"
+ },
+ "snowsuit": {
+  "ph": "/'snәusju:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孩童風雪裝",
+    "def": "a child's overgarment for cold weather"
+   }
+  ]
+ },
+ "snowy": {
+  "ph": "/'snәui/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多雪的, 雪的, 被雪所覆蓋著的, 下雪的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 snowys｜最高級 snowiest"
+ },
+ "snp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）蘇格蘭國民黨（Scottish National Party）",
+    "def": ""
+   }
+  ]
+ },
+ "snr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 訊雜比",
+    "def": ""
+   }
+  ]
+ },
+ "snub": {
+  "ph": "/snʌb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冷落, 怠慢, 斥責, 制止",
+    "def": "a refusal to recognize someone you know"
+   },
+   {
+    "pos": "adj.",
+    "zh": "制動用的, 短而扁的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "冷落, 怠慢, 制止, 使...停住, 掐滅",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 snubbed｜過去式 snubbed｜現在分詞 snubbing｜第三人稱單數 snubs｜複數 snubs"
+ },
+ "snuck": {
+  "ph": "/snʌk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<方>sneak的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 snuck｜過去式 snuck"
+ },
+ "snuff": {
+  "ph": "/snʌf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燭花, 用鼻吸氣, 嗅, 聞, 鼻菸, 氣味",
+    "def": "the charred portion of a candlewick"
+   },
+   {
+    "pos": "vt.",
+    "zh": "剪燭花, 掐滅, 扼殺, 消滅, 用鼻吸, 嗅出, 聞出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "嗅, 聞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snuffed｜過去分詞 snuffed｜現在分詞 snuffing｜第三人稱單數 snuffs｜複數 snuffs"
+ },
+ "snuffbox": {
+  "ph": "/'snʌfbɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼻菸盒",
+    "def": "a small ornamental box for carrying snuff in your pocket"
+   }
+  ],
+  "forms": "複數 snuffboxes"
+ },
+ "snuffle": {
+  "ph": "/'snʌfl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼻音, 鼻息, 鼻塞",
+    "def": "the act of breathing heavily through the nose (as when the nose is congested)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "抽鼻子, 嗅, 聞, 帶鼻音說話",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "發出鼻音說, 嗅著去找",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 snuffling｜過去式 snuffled｜複數 snuffles｜第三人稱單數 snuffles｜過去分詞 snuffled"
+ },
+ "snug": {
+  "ph": "/snʌg/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "舒適的, 溫暖的, 整潔的, 緊身的, 隱藏的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使整潔乾淨, 使緊身, 隱藏",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snugged｜複數 snugs｜最高級 snuggest｜比較級 snugger"
+ },
+ "snuggle": {
+  "ph": "/'snʌgl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "偎依",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使舒適溫暖, 緊抱",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 snuggled｜現在分詞 snuggling｜第三人稱單數 snuggles｜過去分詞 snuggled｜複數 snuggles"
+ },
+ "snugly": {
+  "ph": "/'snʌgli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "舒適地, 整潔乾淨地, 緊密地",
+    "def": ""
+   }
+  ]
+ },
+ "snyder": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斯奈德（美國得克薩斯州城市名）",
+    "def": ""
+   }
+  ]
+ }
+}

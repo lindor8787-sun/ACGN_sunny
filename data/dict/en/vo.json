@@ -1,0 +1,1413 @@
+{
+ "vo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "口頭命令（Verbal Order）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vos"
+ },
+ "vocab": {
+  "ph": "/'vəʊkæb/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "vocabulary 詞彙, 詞彙量",
+    "def": ""
+   }
+  ]
+ },
+ "vocabulary": {
+  "ph": "/vә'kæbjulәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詞彙(量), 詞彙表",
+    "def": "a listing of the words used in some enterprise"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 詞表",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vocabularies"
+ },
+ "vocal": {
+  "ph": "/'vәukl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嗓音的, 聲音的, 有聲的, 歌唱的",
+    "def": "relating to or designed for or using the singing voice"
+   },
+   {
+    "pos": "n.",
+    "zh": "母音, 聲樂作品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vocals"
+ },
+ "vocalisation": {
+  "ph": "/,vәjkәlai'zeiʃәn; - li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<主英>= vocalization",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vocalisations"
+ },
+ "vocalise": {
+  "ph": "/'vәjkәlaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "vt. 發聲, 唱, 說",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "練聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vocalising｜第三人稱單數 vocalises｜過去式 vocalised｜過去分詞 vocalised"
+ },
+ "vocalist": {
+  "ph": "/'vәukәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲樂家, 歌手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vocalists"
+ },
+ "vocalization": {
+  "ph": "/.vәukәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發聲, 母音化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 發音, 發聲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vocalizations"
+ },
+ "vocalize": {
+  "ph": "/'vәukәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使發聲, 使發成母音",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發聲, 練聲, 母音化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vocalizing｜過去式 vocalized｜第三人稱單數 vocalizes｜過去分詞 vocalized"
+ },
+ "vocally": {
+  "ph": "/'vәukli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "用聲音, 用口頭",
+    "def": ""
+   }
+  ]
+ },
+ "vocals": {
+  "ph": "/'vəʊkəlz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（樂曲中的）歌唱部份, 聲樂部份( vocal的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "vocation": {
+  "ph": "/vәu'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "職業, 天命, 天職, 才能, 行業",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 行業, 職業, 職業上的才能",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vocations"
+ },
+ "vocational": {
+  "ph": "/vәu'keiʃәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "職業的",
+    "def": "of or relating to a vocation or occupation; especially providing or undergoing training in special skills"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 職業上的, 天職的",
+    "def": ""
+   }
+  ]
+ },
+ "vocationally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "職業上地；職業性地",
+    "def": ""
+   }
+  ]
+ },
+ "vociferous": {
+  "ph": "/vәu'sifәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大聲叫的, 喊叫的, 喧嚷的",
+    "def": ""
+   }
+  ]
+ },
+ "vociferously": {
+  "ph": "/və'sɪfərəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "喊叫地, 吵鬧地",
+    "def": ""
+   }
+  ]
+ },
+ "vodafone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沃達豐（英國電信企業）",
+    "def": ""
+   }
+  ]
+ },
+ "vodka": {
+  "ph": "/'vɒdkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伏特加酒",
+    "def": "unaged colorless liquor originating in Russia"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 伏特加酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vodkas"
+ },
+ "voe": {
+  "ph": "/vәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小灣",
+    "def": "An inlet, bay, or creek; -- so called in the Orkney and"
+   }
+  ],
+  "forms": "複數 voes"
+ },
+ "vogel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沃格爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "vogue": {
+  "ph": "/vәug/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時尚, 時髦, 流行",
+    "def": "the popular taste at a given time"
+   },
+   {
+    "pos": "adj.",
+    "zh": "流行的, 時髦的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vogues｜過去式 vogued｜現在分詞 vogueing"
+ },
+ "voice": {
+  "ph": "/vɒis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲音, 嗓音, 嗓子, 願望, 發言權, 表達, 喉舌, 語態",
+    "def": "the distinctive quality or pitch or condition of a person's speech"
+   },
+   {
+    "pos": "vt.",
+    "zh": "表達, 吐露, 調音",
+    "def": ""
+   }
+  ],
+  "forms": "複數 voices｜過去分詞 voiced｜過去式 voiced｜現在分詞 voicing｜第三人稱單數 voices"
+ },
+ "voiced": {
+  "ph": "/vɒist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嗓音...的, 濁音的",
+    "def": "produced with vibration of the vocal cords;"
+   }
+  ],
+  "forms": "過去式 voiced｜過去分詞 voiced"
+ },
+ "voiceless": {
+  "ph": "/'vɒislis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無聲的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 沉默的, 無聲的, 未說出來的",
+    "def": ""
+   }
+  ]
+ },
+ "voicemail": {
+  "ph": "/ˈvɔɪsmeɪl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語音信箱",
+    "def": ""
+   }
+  ]
+ },
+ "voiceprint": {
+  "ph": "/'vɒisprint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聲紋",
+    "def": "biometric identification by electronically recording and graphically representing a person's voice"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 聲紋",
+    "def": ""
+   }
+  ]
+ },
+ "voicing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發言；牽動聲帶；調聲",
+    "def": "the act of adjusting an organ pipe (or wind instrument) so that it conforms to the standards of tone and pitch and color"
+   }
+  ],
+  "forms": "複數 voicings｜現在分詞 voicing"
+ },
+ "void": {
+  "ph": "/vɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空虛, 空間, 空白, 空隙, 空虛感",
+    "def": "an empty area or space"
+   },
+   {
+    "pos": "adj.",
+    "zh": "空的, 無效的, 無人的, 沒有的, 無用的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 脫墨; 空白點",
+    "def": ""
+   }
+  ],
+  "forms": "複數 voids｜過去分詞 voided｜過去式 voided｜現在分詞 voiding｜第三人稱單數 voids｜比較級 voider"
+ },
+ "voidable": {
+  "ph": "/'vɒidәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可使無效的, 可以撤銷的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 可撤銷的",
+    "def": ""
+   }
+  ]
+ },
+ "voided": {
+  "ph": "/ˈvɔidid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "空的； （紋章圖案）中空的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使無效( void的過去式和過去分詞 ); 宣佈…作廢; 取消; 排洩",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 voided"
+ },
+ "voila": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "（法）瞧；可不是",
+    "def": ""
+   }
+  ]
+ },
+ "voile": {
+  "ph": "/vɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巴里紗, 薄紗",
+    "def": "a light semitransparent fabric"
+   }
+  ],
+  "forms": "複數 voiles"
+ },
+ "vojvodina": {
+  "ph": "/'vɔivәdi:nә, -nɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伏伊伏丁那[南斯拉夫自治省名]",
+    "def": ""
+   }
+  ]
+ },
+ "vol": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] DOS外部命令:顯示卷標及其序號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vols"
+ },
+ "volar": {
+  "ph": "/'vәulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "手掌的, 足底的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 掌的, 蹠的",
+    "def": ""
+   }
+  ]
+ },
+ "volatile": {
+  "ph": "/'vɒlәtail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "揮發性的, 可變的, 不穩定的, 飛行的, 輕快的, 爆炸性的",
+    "def": "evaporating readily at normal temperatures and pressures"
+   },
+   {
+    "pos": "n.",
+    "zh": "有翅動物, 揮發物",
+    "def": "a volatile substance; a substance that changes readily from solid or liquid to a vapor"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 易失的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 volatiles｜第三人稱單數 volatiles"
+ },
+ "volatility": {
+  "ph": "/.vɒlә'tiliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "揮發性, 揮發度, 輕快, 易變, 短暫",
+    "def": "the property of changing readily from a solid or liquid to a vapor"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 變更率",
+    "def": ""
+   }
+  ],
+  "forms": "複數 volatilities"
+ },
+ "volcanic": {
+  "ph": "/vɒl'kænik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "火山的, 猛烈的",
+    "def": "relating to or produced by or consisting of volcanoes"
+   },
+   {
+    "pos": "n.",
+    "zh": "火山岩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 volcanics"
+ },
+ "volcanically": {
+  "ph": "/vɒl'kænikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "火山似地, 激烈地, 猛烈地",
+    "def": ""
+   }
+  ]
+ },
+ "volcanism": {
+  "ph": "/'vɒlkәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火山作用",
+    "def": "the phenomena associated with volcanic activity"
+   }
+  ]
+ },
+ "volcano": {
+  "ph": "/vɒl'keinәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火山",
+    "def": "a mountain formed by volcanic material"
+   }
+  ],
+  "forms": "複數 volcanos"
+ },
+ "volcanologist": {
+  "ph": "/vɔlkә'nɔlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火山學家",
+    "def": ""
+   }
+  ]
+ },
+ "vole": {
+  "ph": "/vәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "田鼠, 大滿貫",
+    "def": "any of various small mouselike rodents of the family Cricetidae (especially of genus Microtus) having a stout short-tailed body and inconspicuous ears and inhab"
+   },
+   {
+    "pos": "vi.",
+    "zh": "贏得大滿貫, 全勝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 voles"
+ },
+ "volga": {
+  "ph": "/'vɔl^ә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伏爾加河[蘇聯西部](歐洲第一大河)",
+    "def": ""
+   }
+  ]
+ },
+ "volition": {
+  "ph": "/vәu'liʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行使意志, 意志力, 決定",
+    "def": "the capability of conscious choice and decision and intention"
+   }
+  ],
+  "forms": "複數 volitions"
+ },
+ "volitional": {
+  "ph": "/vәu'liʃәnl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "意志的, 憑意志的",
+    "def": ""
+   }
+  ]
+ },
+ "volk": {
+  "ph": "/fɔ:lk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（德）人民；民族",
+    "def": ""
+   }
+  ],
+  "forms": "複數 volks"
+ },
+ "volker": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Volker)人名；(德)福爾克爾；(法)沃爾克",
+    "def": ""
+   }
+  ]
+ },
+ "volkov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Volkov)人名；(英、俄、芬、塞)沃爾科夫",
+    "def": ""
+   }
+  ]
+ },
+ "volkskammer": {
+  "ph": "/'fәulkskɑ:mә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<德> n.(兩德合併前民主德國的)人民議院",
+    "def": ""
+   }
+  ]
+ },
+ "volkswagen": {
+  "ph": "/'fɔ:lks,vɑ:^әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大眾汽車（財富500強公司之一）",
+    "def": ""
+   }
+  ]
+ },
+ "volley": {
+  "ph": "/'vɒli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "群射, 齊發, 迸發",
+    "def": "a tennis return made by hitting the ball before it bounces"
+   },
+   {
+    "pos": "vt.",
+    "zh": "群射, 齊發, 截擊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "進行群射, 齊鳴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 volleys｜過去式 volleyed｜現在分詞 volleying｜第三人稱單數 volleys｜過去分詞 volleyed"
+ },
+ "volleyball": {
+  "ph": "/'vɒlibɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排球",
+    "def": "a game in which two teams hit an inflated ball over a high net using their hands"
+   }
+  ]
+ },
+ "vols": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "容量（volumes）",
+    "def": ""
+   }
+  ]
+ },
+ "volt": {
+  "ph": "/vәult/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伏特",
+    "def": "a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 伏特",
+    "def": ""
+   }
+  ],
+  "forms": "複數 volts"
+ },
+ "volta": {
+  "ph": "/'vɔ:ltɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 伏打",
+    "def": ""
+   }
+  ]
+ },
+ "voltage": {
+  "ph": "/'vәultidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電壓, 伏特數",
+    "def": "the rate at which energy is drawn from a source that produces a flow of electricity in a circuit; expressed in volts"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 電壓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 voltages"
+ },
+ "voltaic": {
+  "ph": "/vɒl'teiik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "電流的",
+    "def": "pertaining to or producing electric current by chemical action"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 伏打電的, [直]流電的",
+    "def": ""
+   }
+  ]
+ },
+ "voltaire": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伏爾泰（法國啟蒙思想家、哲學家、作家、歷史學家）",
+    "def": "French writer who was the embodiment of 18th century Enlightenment (1694-1778)"
+   }
+  ]
+ },
+ "voltmeter": {
+  "ph": "/'vәultmi:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伏特計",
+    "def": "meter that measures the potential difference between two points"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 伏特計",
+    "def": ""
+   }
+  ],
+  "forms": "複數 voltmeters"
+ },
+ "voluble": {
+  "ph": "/'vɒljubl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "流利的, 健談的, 易旋轉的, 纏繞的",
+    "def": "marked by a ready flow of speech"
+   }
+  ]
+ },
+ "volubly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "流利地, 滔滔不絕地",
+    "def": ""
+   }
+  ]
+ },
+ "volume": {
+  "ph": "/'vɒljum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冊, 卷, 體積, 容量, 大量, 許多, 份量, 音量",
+    "def": "the amount of 3-dimensional space occupied by an object"
+   },
+   {
+    "pos": "vi.",
+    "zh": "成團捲起",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...收整合卷",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "大量的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 卷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 volumes"
+ },
+ "volumetric": {
+  "ph": "/vɔljj'metrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "測定體積的",
+    "def": "of or relating to measurement by volume"
+   }
+  ]
+ },
+ "voluminous": {
+  "ph": "/vә'lju:minәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "卷數多的, 大部頭的, 著書多的, 長篇的, 龐大的, 很多的, 盤繞的",
+    "def": ""
+   }
+  ]
+ },
+ "voluntarily": {
+  "ph": "/.vɒlәn'terili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "自願地, 以自由意志",
+    "def": ""
+   }
+  ]
+ },
+ "voluntariness": {
+  "ph": "/'vɒlәntәrinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自願, 志願, 自動",
+    "def": "The quality or state of being voluntary;"
+   }
+  ]
+ },
+ "voluntarism": {
+  "ph": "/'vɒlәntәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唯意志論, 志願主義",
+    "def": ""
+   }
+  ]
+ },
+ "voluntaristic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "voluntarism的變形",
+    "def": ""
+   }
+  ]
+ },
+ "voluntary": {
+  "ph": "/'vɒlәntәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自動的, 自願的, 故意的, 志願的, 自發的",
+    "def": "of your own free will or design; done by choice; not forced or compelled"
+   },
+   {
+    "pos": "n.",
+    "zh": "自願行動, 志願者, 自由調",
+    "def": "composition (often improvised) for a solo instrument (especially solo organ) and not a regular part of a religious service or musical performance"
+   }
+  ],
+  "forms": "複數 voluntaries"
+ },
+ "volunteer": {
+  "ph": "/.vɒlәn'tiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "志願者",
+    "def": "(military) a person who freely enlists for service"
+   },
+   {
+    "pos": "adj.",
+    "zh": "志願的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "自願",
+    "def": "tell voluntarily"
+   }
+  ],
+  "forms": "複數 volunteers｜過去式 volunteered｜過去分詞 volunteered｜現在分詞 volunteering｜第三人稱單數 volunteers"
+ },
+ "volunteerism": {
+  "ph": "/ˌvɒlən'tɪərɪzəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自願捐助維持主義； 志願兵制度",
+    "def": ""
+   }
+  ]
+ },
+ "volunteers": {
+  "ph": "/ˌvɔlənˈtiəz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義務工作者( volunteer的名詞複數 ); 志願者; 自告奮勇者; 主動做某事的人",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "自動提供, 自願效勞( volunteer的第三人稱單數 ); 主動建議（或告訴）; （未經當事人同意）舉薦; 自願參軍, 當志願兵",
+    "def": ""
+   }
+  ]
+ },
+ "voluptuous": {
+  "ph": "/vә'lʌptjәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "驕奢淫逸的, 貪圖酒色的, 妖嬈的, 肉慾的, 激起情慾的, 色情的",
+    "def": ""
+   }
+  ]
+ },
+ "voluptuously": {
+  "ph": "/və'lʌptʃʊəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "風騷地, 體態豐滿地",
+    "def": ""
+   }
+  ]
+ },
+ "voluptuousness": {
+  "ph": "/və'lʌptʃʊəsnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風騷, 體態豐滿",
+    "def": ""
+   }
+  ]
+ },
+ "volute": {
+  "ph": "/vә'lju:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "螺旋形, 盤渦形, 渦形花樣, 渦螺",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "渦形的, 螺旋形的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 volutes｜現在分詞 voluting"
+ },
+ "volvo": {
+  "ph": "/'vɔlvәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沃爾沃（汽車品牌, 總部設在瑞典）",
+    "def": ""
+   }
+  ]
+ },
+ "vomit": {
+  "ph": "/'vɒmit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "吐出, 嘔吐",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "嘔吐",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "嘔吐, 嘔吐物, 催吐劑",
+    "def": "the matter ejected in vomiting"
+   }
+  ],
+  "forms": "現在分詞 vomiting｜過去式 vomited｜過去分詞 vomited｜第三人稱單數 vomits｜複數 vomits"
+ },
+ "vomiting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘔吐",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 嘔吐",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 vomiting｜複數 vomitings"
+ },
+ "von": {
+  "ph": "/vɔn;fɔn;fәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 馮·諾伊曼",
+    "def": ""
+   }
+  ]
+ },
+ "vonnegut": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vonnegut)人名；(英)馮內古特",
+    "def": "United States writer whose novels and short stories are a mixture of realism and satire and science fiction (born in 1922)"
+   },
+   {
+    "pos": "",
+    "zh": "馮內古特",
+    "def": ""
+   }
+  ]
+ },
+ "voodoo": {
+  "ph": "/'vu:du:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伏都教, 巫術, 巫術信仰",
+    "def": "(Haiti) followers of a religion that involves witchcraft and animistic deities"
+   }
+  ],
+  "forms": "複數 voodoos｜現在分詞 voodooing｜過去式 voodooed｜第三人稱單數 voodoos｜過去分詞 voodooed"
+ },
+ "vor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "甚高頻全向信標（Very-high-frequency Omnidirectional Range）",
+    "def": ""
+   }
+  ]
+ },
+ "voracious": {
+  "ph": "/vә'reiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貪吃的, 狼吞虎嚥的, 貪婪的",
+    "def": ""
+   }
+  ]
+ },
+ "voraciously": {
+  "ph": "/və'reɪʃəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "貪婪地",
+    "def": ""
+   }
+  ]
+ },
+ "voracity": {
+  "ph": "/vә'ræsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貪食, 貪婪",
+    "def": ""
+   }
+  ]
+ },
+ "vortex": {
+  "ph": "/'vɒ:teks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋渦, 旋風, 渦流",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 渦旋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vortices｜現在分詞 vortexing｜過去式 vortexed"
+ },
+ "vos": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "虛擬作業系統（Virtual Operating System）；聲控錄製系統（Voice Operation System）；向量操作子系統",
+    "def": ""
+   }
+  ]
+ },
+ "voss": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沃斯（男子名）；沃斯（挪威城市）",
+    "def": ""
+   }
+  ]
+ },
+ "votary": {
+  "ph": "/'vәutәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(天主教)立誓獻身者, 崇拜者, 支持者, 信徒",
+    "def": "one bound by vows to a religion or life of worship or service"
+   }
+  ],
+  "forms": "複數 votaries"
+ },
+ "vote": {
+  "ph": "/vәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "投票, 選舉, 選票, 表決, 選舉權, 得票數",
+    "def": "a choice that is made by counting the number of people in favor of each alternative"
+   },
+   {
+    "pos": "vi.",
+    "zh": "投票, 選舉",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "投票選舉, 投票決定, 公認, 使投票",
+    "def": ""
+   }
+  ],
+  "forms": "複數 votes｜過去分詞 voted｜過去式 voted｜現在分詞 voting｜第三人稱單數 votes"
+ },
+ "vote of confidence": {
+  "ph": "/vəut ɔv ˈkɔnfidəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "信任投票, 贊同",
+    "def": ""
+   }
+  ]
+ },
+ "vote of no confidence": {
+  "ph": "/vəut ɔv nəu ˈkɔnfidəns/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "不信任票",
+    "def": ""
+   }
+  ]
+ },
+ "voter": {
+  "ph": "/'vәutә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "選民, 投票人",
+    "def": "a citizen who has a legal right to vote"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 選民, 選舉人, 投票人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 voters"
+ },
+ "voting": {
+  "ph": "/'vәutiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "投票, 選舉",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "投票的, 選舉的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 voting"
+ },
+ "votive": {
+  "ph": "/'vәutiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奉獻的, 還願的, 表示願心的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 votives"
+ },
+ "vouch": {
+  "ph": "/vautʃ/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "擔保, 保證, 證明, 確定地說",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "擔保, 證明, 斷定, 傳喚...出庭作證",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vouched｜過去式 vouched｜現在分詞 vouching｜複數 vouches｜第三人稱單數 vouches"
+ },
+ "voucher": {
+  "ph": "/'vautʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "證人, 保證人, 證明者, 憑證, 憑單",
+    "def": "someone who vouches for another or for the correctness of a statement"
+   },
+   {
+    "pos": "vt.",
+    "zh": "證實...的可靠性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vouchers"
+ },
+ "vouchsafe": {
+  "ph": "/vautʃ'seif/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "惠賜, 允許, 給予",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 准予, 惠予, 俯允",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 vouchsafed｜過去式 vouchsafed｜第三人稱單數 vouchsafes｜現在分詞 vouchsafing"
+ },
+ "vow": {
+  "ph": "/vau/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誓約, 誓言, 許願",
+    "def": "a solemn pledge (to oneself or to another or to a deity) to do something or to behave in a certain manner"
+   },
+   {
+    "pos": "vi.",
+    "zh": "起誓, 發誓, 鄭重宣言",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "立誓, 起誓要, 鄭重地宣佈",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 vowed｜過去分詞 vowed｜複數 vows｜現在分詞 vowing｜第三人稱單數 vows"
+ },
+ "vowel": {
+  "ph": "/'vauәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "母音",
+    "def": "a speech sound made with the vocal tract open"
+   },
+   {
+    "pos": "adj.",
+    "zh": "母音的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vowels"
+ },
+ "vox": {
+  "ph": "/vɔks/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 語音, 語聲",
+    "def": ""
+   }
+  ]
+ },
+ "voyage": {
+  "ph": "/'vɒiidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航行, 航海, 航程, 旅行, 航空",
+    "def": "a journey to some distant place"
+   },
+   {
+    "pos": "vi.",
+    "zh": "航海, 航行",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "航行越過, 飛過",
+    "def": ""
+   }
+  ],
+  "forms": "複數 voyages｜現在分詞 voyaging｜過去式 voyaged｜第三人稱單數 voyages｜過去分詞 voyaged"
+ },
+ "voyager": {
+  "ph": "/'vɒiidʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航行者, 航海者",
+    "def": "a traveler to a distant land (especially one who travels by sea)"
+   }
+  ],
+  "forms": "複數 voyagers"
+ },
+ "voyageur": {
+  "ph": "/,vwɑ:jɑ:'ʒ\\\\\\\\:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "加拿大的船伕或樵夫, 旅客",
+    "def": "A traveler; -- applied in Canada to a man employed by the"
+   }
+  ]
+ },
+ "voyeur": {
+  "ph": "/vwɑ:'j\\\\\\\\:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偷看下流場面的人",
+    "def": "a viewer who enjoys seeing the sex acts or sex organs of others"
+   }
+  ],
+  "forms": "複數 voyeurs"
+ },
+ "voyeurism": {
+  "ph": "/vwɑ:'j\\\\\\\\:rizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀淫癖",
+    "def": "a perversion in which a person receives sexual gratification from seeing the genitalia of others or witnessing others' sexual behavior"
+   }
+  ]
+ },
+ "voyeuristic": {
+  "ph": "/,vwɑ:jә'ristik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喜好窺陰的",
+    "def": "of or relating to voyeurs or voyeurism"
+   }
+  ]
+ }
+}

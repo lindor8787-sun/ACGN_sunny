@@ -1,0 +1,38 @@
+{
+ "lf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 換行, 低頻",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 絮凝單位, 絮凝限度",
+    "def": ""
+   }
+  ]
+ },
+ "lfa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "last field address 最後掃描地址; left frontoanterior 左前方的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lfas"
+ },
+ "lfs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 邏輯檔案結構, 邏輯檔案系統",
+    "def": ""
+   }
+  ]
+ }
+}

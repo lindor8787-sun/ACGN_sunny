@@ -1,0 +1,138 @@
+{
+ "ok": {
+  "ph": "/'әu'kei/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好, 不錯, 可以",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "好, 不錯, 可以",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "批准, 認可",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 確定",
+    "def": ""
+   }
+  ]
+ },
+ "okapi": {
+  "ph": "/әu'kɑ:pi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動]霍加皮(產於非洲東部)",
+    "def": "similar to the giraffe but smaller with much shorter neck and stripe on the legs"
+   }
+  ]
+ },
+ "okay": {
+  "ph": "/әj'kei/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好, 可以, 行, 對, 好嗎, 很好",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "好, 可以, 行, 對, 好嗎, 很好",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "同意, 籤認, 批准, 認可",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "同意, 籤認, 批准, 認可",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 okaying｜過去式 okayed｜第三人稱單數 okays｜過去分詞 okayed"
+ },
+ "oke": {
+  "ph": "/әuk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好的, 沒問題的",
+    "def": ""
+   }
+  ]
+ },
+ "okhotsk": {
+  "ph": "/әu'kɔtsk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鄂霍次克海(太平洋西北部邊海)",
+    "def": ""
+   }
+  ]
+ },
+ "okinawa": {
+  "ph": "/,әuki'nɑ:wә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沖繩縣（日本）",
+    "def": "the largest island of the central Ryukyu Islands"
+   }
+  ]
+ },
+ "okinawan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "沖繩人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "沖繩話",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "沖繩島的",
+    "def": ""
+   }
+  ]
+ },
+ "oklahoma": {
+  "ph": "/.әuklә'hәumә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俄克拉何馬",
+    "def": "a state in south central United States"
+   }
+  ]
+ },
+ "okra": {
+  "ph": "/'әukrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "秋葵, 秋葵莢, 羊角豆",
+    "def": "long green edible beaked pods of the okra plant"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 秋葵",
+    "def": ""
+   }
+  ]
+ }
+}

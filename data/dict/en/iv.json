@@ -1,0 +1,139 @@
+{
+ "i've": {
+  "ph": "/aɪv/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（等於I have）",
+    "def": ""
+   }
+  ]
+ },
+ "iv": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "輸入閥；互動式視訊；自變數（Independent Variable）",
+    "def": ""
+   }
+  ]
+ },
+ "ivan": {
+  "ph": "/'aivәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊凡（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "ivanhoe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾凡赫；劫後英雄傳（小說名）",
+    "def": ""
+   }
+  ]
+ },
+ "ivanov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ivanov)人名；(塞、捷、羅、保、俄)伊萬諾夫",
+    "def": "Russian choreographer (1834-1905)"
+   }
+  ]
+ },
+ "ives": {
+  "ph": "/aivz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "艾夫斯(①姓氏,男子名②Charles Edward,1874-1954,美國作曲家 ③James Merritt, 1824-1895, 美國石印家)",
+    "def": ""
+   }
+  ]
+ },
+ "ivf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "試管受精（in-vitro fertilization）",
+    "def": ""
+   }
+  ]
+ },
+ "ivo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ivo)人名；(荷)伊福；(英、葡、捷、西、保、塞、意)伊沃",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "鑑於…（in view of）；口內下頜升支垂直切骨術（intraoral vertical ramus osteotomy）",
+    "def": ""
+   }
+  ]
+ },
+ "ivor": {
+  "ph": "/'aivə; 'i:və/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾弗（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "ivorian": {
+  "ph": "/'aivәriәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 象牙海岸的",
+    "def": ""
+   }
+  ]
+ },
+ "ivory": {
+  "ph": "/'aivәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "象牙, 乳白色",
+    "def": "a hard smooth ivory colored dentine that makes up most of the tusks of elephants and walruses"
+   },
+   {
+    "pos": "adj.",
+    "zh": "象牙制的, 乳白色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ivories"
+ },
+ "ivy": {
+  "ph": "/'aivi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "常春藤",
+    "def": "Old World vine with lobed evergreen leaves and black berrylike fruits"
+   },
+   {
+    "pos": "adj.",
+    "zh": "學院的, 抽象的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ivies"
+ }
+}

@@ -1,0 +1,7248 @@
+{
+ "be": {
+  "ph": "/bi:/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "是, 表示, 在",
+    "def": "have the quality of being; (copula, used with an adjective or a predicate noun)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 後端, 匯流排允許",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 was｜第三人稱單數 is｜過去分詞 been｜現在分詞 being"
+ },
+ "be called": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "被叫做…；被稱為…",
+    "def": ""
+   }
+  ]
+ },
+ "be going to": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "將要；打算",
+    "def": ""
+   }
+  ]
+ },
+ "be sick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "噁心, 嘔吐",
+    "def": ""
+   }
+  ]
+ },
+ "bea": {
+  "ph": "/bi:, biә/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "東亞銀行有限公司（Bank of East Asia Ltd）；美國勞工部勞工統計局（Bureau of Economic Analysis）；英國歐洲航空公司（British European Airways Corporation）",
+    "def": ""
+   }
+  ]
+ },
+ "beach": {
+  "ph": "/bi:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海灘",
+    "def": "an area of sand sloping down to the water of a sea or lake"
+   }
+  ],
+  "forms": "複數 beaches｜過去式 beached｜過去分詞 beached｜現在分詞 beaching｜第三人稱單數 beaches"
+ },
+ "beachcomber": {
+  "ph": "/'bi:tʃkәjmә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巨浪, 海灘拾荒者, (住在海灘附近的)流浪者",
+    "def": "a vagrant living on a beach"
+   }
+  ],
+  "forms": "複數 beachcombers"
+ },
+ "beached": {
+  "ph": "/biːtʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海灘；湖濱",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "將…拖上岸",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "擱淺；定居",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Beach)人名；(英)比奇",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 beached"
+ },
+ "beachfront": {
+  "ph": "/'bi:tʃ,frʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海濱地區",
+    "def": "a strip of land running along a beach"
+   },
+   {
+    "pos": "adj.",
+    "zh": "靠海濱的",
+    "def": ""
+   }
+  ]
+ },
+ "beachhead": {
+  "ph": "/'bi:tʃhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灘頭堡",
+    "def": "a bridgehead on the enemy's shoreline seized by an amphibious operation"
+   }
+  ],
+  "forms": "複數 beachheads"
+ },
+ "beachy": {
+  "ph": "/'bi:tʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多沙礫的",
+    "def": "Having a beach or beaches; formed by a beach or beaches;"
+   }
+  ]
+ },
+ "beacon": {
+  "ph": "/'bi:kn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烽火, 燈塔",
+    "def": "a fire (usually on a hill or tower) that can be seen from a distance"
+   },
+   {
+    "pos": "v.",
+    "zh": "照亮",
+    "def": "shine like a beacon"
+   }
+  ],
+  "forms": "複數 beacons｜現在分詞 beaconing｜過去式 beaconed｜第三人稱單數 beacons｜過去分詞 beaconed"
+ },
+ "beaconsfield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beaconsfield)人名；(英)比肯斯菲爾德",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "比肯斯菲爾德",
+    "def": ""
+   }
+  ]
+ },
+ "bead": {
+  "ph": "/bi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "珠子, 滴",
+    "def": "a small ball with a hole through the middle"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用珠裝飾",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "形成珠",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 珠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beads｜過去式 beaded｜現在分詞 beading｜過去分詞 beaded｜第三人稱單數 beads"
+ },
+ "beaded": {
+  "ph": "/bi:did/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "珠狀的；飾以珠的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 beaded"
+ },
+ "beading": {
+  "ph": "/bi:diŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "起泡, 泡沫",
+    "def": "ornamentation with beads"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 圓緣(機)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 beading"
+ },
+ "beadle": {
+  "ph": "/'bi:dl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教區執事, 英國大學典禮儀仗官",
+    "def": "a minor parish official who serves a ceremonial function"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 牧師助理, 小官吏, (英國大學的)遊行領隊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beadles"
+ },
+ "beadwork": {
+  "ph": "/'bi:dw\\\\\\\\:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "珠飾細工, 珠緣",
+    "def": ""
+   }
+  ]
+ },
+ "beady": {
+  "ph": "/'bi:di/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "晶亮如小珠的, 飾有珠子的, 起泡的",
+    "def": ""
+   }
+  ]
+ },
+ "beagle": {
+  "ph": "/'bi:gl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長耳短腿小獵犬, 間諜, 密探",
+    "def": "a small short-legged smooth-coated breed of hound"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 偵探, 間諜, 執行官",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beagles｜現在分詞 beagling"
+ },
+ "beak": {
+  "ph": "/bi:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥嘴, 喙",
+    "def": "beaklike mouth of animals other than birds (e.g., turtles)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 嘴, 喙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beaks｜現在分詞 beaking｜過去式 beaked"
+ },
+ "beaked": {
+  "ph": "/'bi:kt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有喙的, 鳥嘴狀的",
+    "def": "having or resembling a beak"
+   }
+  ],
+  "forms": "過去式 beaked"
+ },
+ "beaker": {
+  "ph": "/'bi:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大口酒杯, 燒杯",
+    "def": "a flatbottomed jar made of glass or plastic; used for chemistry"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 燒杯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beakers"
+ },
+ "beaky": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "像鳥嘴的",
+    "def": ""
+   }
+  ]
+ },
+ "beal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "beale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beale)人名；(法)貝亞勒；(英)比爾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "比爾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beales"
+ },
+ "beam": {
+  "ph": "/bi:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橫樑, 杆, 光線, 容光煥發",
+    "def": "long thick piece of wood or metal or concrete, etc., used in construction"
+   },
+   {
+    "pos": "vi.",
+    "zh": "用梁支承, 微笑, 射出光線",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "照耀, 感到欣喜",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 束",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beams｜過去式 beamed｜現在分詞 beaming｜過去分詞 beamed｜第三人稱單數 beams"
+ },
+ "beamed": {
+  "ph": "/bi:md/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有梁的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 beamed｜過去分詞 beamed"
+ },
+ "beamer": {
+  "ph": "/'bi:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "投影機, 整經機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beamers"
+ },
+ "beaming": {
+  "ph": "/'bi:miŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光亮的, 喜氣洋洋的, 愉快的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 beaming"
+ },
+ "beamish": {
+  "ph": "/'bi:miʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "春風得意的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beamishes｜最高級 beamishest"
+ },
+ "beamy": {
+  "ph": "/'bi:mi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光亮的, 象梁一樣的, 船身寬大的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 beamier"
+ },
+ "bean": {
+  "ph": "/bi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豆子",
+    "def": "any of various edible seeds of plants of the family Leguminosae used for food"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 油嘴; 豆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beans"
+ },
+ "beanbag": {
+  "ph": "/'bi:nbæg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豆子袋(兒童投擲遊戲用)",
+    "def": "a small cloth bag filled with dried beans; thrown in games"
+   }
+  ],
+  "forms": "複數 beanbags"
+ },
+ "beancurd": {
+  "ph": "/'bi:nkə:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豆腐",
+    "def": ""
+   }
+  ]
+ },
+ "beanie": {
+  "ph": "/'bi:ni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(大學一年級男生或兒童等戴的)無簷小便帽",
+    "def": "a small skullcap; formerly worn by schoolboys and college freshmen"
+   }
+  ]
+ },
+ "beano": {
+  "ph": "/'bi:nәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "僱主一年一次款待僱工的宴席,<俚>快樂的宴會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beanos"
+ },
+ "beanpole": {
+  "ph": "/ˈbi:npəʊl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（插在地上供豆莖攀緣的）支竿, 瘦長的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beanpoles"
+ },
+ "beanstalk": {
+  "ph": "/'bi:nstɒ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豆莖",
+    "def": "stem of a bean plant"
+   }
+  ],
+  "forms": "複數 beanstalks"
+ },
+ "bear": {
+  "ph": "/bєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熊",
+    "def": "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws"
+   },
+   {
+    "pos": "vt.",
+    "zh": "忍受, 支承, 產生, 懷有, 透過賣空使跌價",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "忍受, 結果實, 壓擠, 行進, 轉向",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 born｜現在分詞 bearing｜過去式 bore｜第三人稱單數 bears｜複數 bears"
+ },
+ "bearable": {
+  "ph": "/'bєәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可忍受的, 支承得住的",
+    "def": ""
+   }
+  ]
+ },
+ "beard": {
+  "ph": "/biәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬍鬚",
+    "def": "the hair growing on the lower part of a man's face"
+   },
+   {
+    "pos": "vt.",
+    "zh": "抓住鬍鬚, 公開反對",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beards｜現在分詞 bearding｜過去式 bearded｜第三人稱單數 beards｜過去分詞 bearded"
+ },
+ "bearded": {
+  "ph": "/'biәdid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有須的, 有鬍子的",
+    "def": ""
+   }
+  ]
+ },
+ "beardless": {
+  "ph": "/'biәdlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無須的, 乳臭未乾的",
+    "def": ""
+   }
+  ]
+ },
+ "beardsley": {
+  "ph": "/'biәdzli/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比爾茲利(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "bearer": {
+  "ph": "/'bєәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶信人, 票據持有人, 搬運者",
+    "def": "a messenger who bears or presents"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 持票人, 持有人, 不(無)記名",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bearers"
+ },
+ "bearing": {
+  "ph": "/'bєәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舉止, 軸承, 忍受, 關係, 意義, 方向, 生育",
+    "def": "relevant relation or interconnection"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 軸承",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bearings｜現在分詞 bearing"
+ },
+ "bearish": {
+  "ph": "/'bєәri:ʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "如熊的, 粗暴的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 熊市",
+    "def": ""
+   }
+  ]
+ },
+ "bearnaise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛋黃醬（等於Bearnaise sauce）",
+    "def": "a sauce like hollandaise but made with white wine and tarragon and shallots instead of lemon juice"
+   }
+  ]
+ },
+ "bearskin": {
+  "ph": "/'bєәskin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熊皮, 熊皮衣",
+    "def": "the pelt of a bear (sometimes used as a rug)"
+   }
+  ],
+  "forms": "複數 bearskins"
+ },
+ "beasley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比斯利（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "beast": {
+  "ph": "/bi:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畜生, 動物, 野獸, 獸性",
+    "def": "a cruelly rapacious person"
+   }
+  ],
+  "forms": "複數 beasts"
+ },
+ "beastie": {
+  "ph": "/'bi:sti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物,小動物",
+    "def": ""
+   }
+  ]
+ },
+ "beastliness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獸性, 酩酊大醉, 貪食, 粗魯, 淫猥, 殘暴",
+    "def": "the quality of being deliberately mean"
+   }
+  ]
+ },
+ "beastly": {
+  "ph": "/'bi:stli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "野獸的, 殘忍的, 令人厭憎的",
+    "def": ""
+   }
+  ]
+ },
+ "beat": {
+  "ph": "/bi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "心跳(聲), 打, 敲打聲, 拍子",
+    "def": "a regular route for a sentry or policeman"
+   },
+   {
+    "pos": "v.",
+    "zh": "打, 拍打, 打敗",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "疲乏的, 頹廢的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "beat的過去式",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 拍; 節拍",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 beat｜過去分詞 beaten｜現在分詞 beating｜第三人稱單數 beats｜複數 beats"
+ },
+ "beat-up": {
+  "ph": "/'bi:t'ʌp/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "破舊的",
+    "def": ""
+   }
+  ]
+ },
+ "beatable": {
+  "ph": "/'bi:təbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可打的；可擊的；經打的（beat的變形）",
+    "def": ""
+   }
+  ]
+ },
+ "beaten": {
+  "ph": "/'bi:tn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被打敗了的, 筋疲力竭的, 敲平的, 踏平的",
+    "def": "formed or made thin by hammering"
+   },
+   {
+    "pos": "",
+    "zh": "beat的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 beaten"
+ },
+ "beaten-up": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "破舊的",
+    "def": ""
+   }
+  ]
+ },
+ "beater": {
+  "ph": "/'bi:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打的人, 拍打樹叢驚起獵物的人, 攪拌器",
+    "def": "a worker who rouses wild game from under cover for a hunter"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 打漿機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beaters"
+ },
+ "beatific": {
+  "ph": "/.bi:ә'tifik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "至福的, 賜福的, 極樂的",
+    "def": ""
+   }
+  ]
+ },
+ "beatifically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "祝福地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "快樂地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "慈祥地",
+    "def": ""
+   }
+  ]
+ },
+ "beatification": {
+  "ph": "/bi:.ætifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賜福, 受福, (天主教)宣福",
+    "def": "the action of rendering supremely blessed and extremely happy"
+   }
+  ],
+  "forms": "複數 beatifications"
+ },
+ "beatify": {
+  "ph": "/bi:'ætifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "賜福給, 行宣福禮",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 beatified｜過去式 beatified｜現在分詞 beatifying｜第三人稱單數 beatifies"
+ },
+ "beating": {
+  "ph": "/'bi:tiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打, 挫敗, 搏動",
+    "def": "the act of overcoming or outdoing"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 打漿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beatings｜現在分詞 beating"
+ },
+ "beatitude": {
+  "ph": "/bi:'ætitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "至福, 祝福",
+    "def": "one of the eight sayings of Jesus at the beginning of the Sermon on the Mount; in Latin each saying begins with `beatus' (blessed)"
+   }
+  ],
+  "forms": "複數 beatitudes"
+ },
+ "beatle": {
+  "ph": "/'bi:tl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美俚>小妞,(有男子氣概的)獨立摩登新女性",
+    "def": ""
+   }
+  ]
+ },
+ "beatnik": {
+  "ph": "/'bi:tnik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "\"垮了的一代\"的一員",
+    "def": "a member of the beat generation; a nonconformist in dress and behavior"
+   }
+  ],
+  "forms": "複數 beatniks"
+ },
+ "beaton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比頓（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "beatrice": {
+  "ph": "/'biәtris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比阿特麗斯（女子名）；碧翠斯（女子名）",
+    "def": "the woman who guided Dante through Paradise in the Divine Comedy"
+   }
+  ]
+ },
+ "beatrix": {
+  "ph": "/'biәtriks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比阿特麗克斯(Beatrice的異體)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "beats": {
+  "ph": "/bi:ts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音樂節拍；差拍振動；心臟跳動（beat的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "beattie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beattie)人名；(英)貝蒂；(意)貝亞蒂耶",
+    "def": ""
+   }
+  ]
+ },
+ "beatty": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beatty)人名；(法)貝亞蒂；(英)貝蒂",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "比蒂",
+    "def": ""
+   }
+  ]
+ },
+ "beau": {
+  "ph": "/bәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花花公子, 情郎, 求愛者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beaus"
+ },
+ "beauchamp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比徹姆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beauchamps"
+ },
+ "beaucoup": {
+  "ph": "/bәu'ku:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<法> adj.非常多的",
+    "def": ""
+   }
+  ]
+ },
+ "beaufort": {
+  "ph": "/'bәufәt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "Sea 波弗特海(靠美國阿拉斯加州東北岸和加拿大西北岸)",
+    "def": ""
+   }
+  ]
+ },
+ "beaujolais": {
+  "ph": "/'bəuʒə,lei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "博若萊紅葡萄酒",
+    "def": "dry fruity light red wine drunk within a few months after it is made; from the Beaujolais district in southeastern France"
+   }
+  ]
+ },
+ "beaulieu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beaulieu)人名；(英)比利；(法)博利厄",
+    "def": ""
+   }
+  ]
+ },
+ "beaumaris": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "博馬里斯",
+    "def": ""
+   }
+  ]
+ },
+ "beaumont": {
+  "ph": "/'bәumәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "博蒙特（姓氏）；博蒙特鎮",
+    "def": "United States surgeon remembered for his studies of digestion (1785-1853)"
+   }
+  ]
+ },
+ "beaut": {
+  "ph": "/bju:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漂亮的東西(或人)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beauts"
+ },
+ "beauteous": {
+  "ph": "/'bju:tjәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "美麗的",
+    "def": ""
+   }
+  ]
+ },
+ "beautician": {
+  "ph": "/bju:'tiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美容師",
+    "def": "someone who works in a beauty parlor"
+   }
+  ],
+  "forms": "複數 beauticians"
+ },
+ "beautification": {
+  "ph": "/.bju:tifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美化",
+    "def": "the act of making something more beautiful"
+   }
+  ]
+ },
+ "beautiful": {
+  "ph": "/'bju:tiful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "美麗的",
+    "def": "delighting the senses or exciting intellectual or emotional admiration"
+   }
+  ]
+ },
+ "beautifully": {
+  "ph": "/'bju:tifuli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "美好地, 漂亮地",
+    "def": ""
+   }
+  ]
+ },
+ "beautify": {
+  "ph": "/'bju:tifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "美化, 變美, 修飾",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 beautifying｜過去式 beautified｜過去分詞 beautified｜第三人稱單數 beautifies"
+ },
+ "beauty": {
+  "ph": "/'bju:ti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美, 美人",
+    "def": "the qualities that give pleasure to the senses"
+   }
+  ],
+  "forms": "複數 beauties"
+ },
+ "beauvais": {
+  "ph": "/bәu'vei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法]博韋(地名), 博韋毯或刺繡",
+    "def": ""
+   }
+  ]
+ },
+ "beauvoir": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beauvoir)人名；(法、西)博瓦爾；(英)比弗",
+    "def": "French feminist and existentialist and novelist (1908-1986)"
+   }
+  ]
+ },
+ "beaux": {
+  "ph": "/bәuz/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "花花公子, 情郎, 求愛者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beaux"
+ },
+ "beaver": {
+  "ph": "/'bi:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海狸(毛皮)",
+    "def": "the soft brown fur of the beaver"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 輕型及中型飛機加油",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beavers｜現在分詞 beavering｜過去式 beavered｜過去分詞 beavered｜第三人稱單數 beavers"
+ },
+ "beaverbrook": {
+  "ph": "/'bi:vәbruk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比弗布魯克(Willian Maxwell Aitken, Lord, 1879-1964, 生於加拿大的英國出版家)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beaverbrooks"
+ },
+ "beavis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比維斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "beazley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beazley)人名；(英)比茲利",
+    "def": ""
+   }
+  ]
+ },
+ "bebington": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝賓頓",
+    "def": ""
+   }
+  ]
+ },
+ "bebop": {
+  "ph": "/'bi:bɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "博普爵士樂",
+    "def": ""
+   }
+  ]
+ },
+ "bec": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "僱員傷亡賠償局（Bureau of Employees' Compensation）；商務英語證書（Business English Certificate）",
+    "def": ""
+   }
+  ]
+ },
+ "beca": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beca)人名；(塞)貝察；(西、羅)貝卡",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "教育及文化事務司（Bureau of Educational and Cultural Affairs）；歐洲和加拿大事務局（Bureau of European and Canadian Affairs）",
+    "def": ""
+   }
+  ]
+ },
+ "becalm": {
+  "ph": "/bi'kɑ:m/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使安靜, 因無風而使停航",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 becalmed｜第三人稱單數 becalms｜現在分詞 becalming｜過去式 becalmed"
+ },
+ "becalmed": {
+  "ph": "/bi'kɑ:md/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(帆船)因無風而停止不動的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 becalmed"
+ },
+ "because": {
+  "ph": "/bi'kɒ:z/",
+  "senses": [
+   {
+    "pos": "conj.",
+    "zh": "因為",
+    "def": "By or for the cause that; on this account that; for the"
+   }
+  ]
+ },
+ "because of": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "因為",
+    "def": ""
+   }
+  ]
+ },
+ "bechamel": {
+  "ph": "/.beiʃә'mel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝夏梅爾調味白汁",
+    "def": ""
+   }
+  ]
+ },
+ "becher": {
+  "ph": "/'bi:tʃә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比徹(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "beck": {
+  "ph": "/bek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "點頭示意, 招手, 小河",
+    "def": "a beckoning gesture"
+   }
+  ],
+  "forms": "複數 becks"
+ },
+ "beckenham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝肯漢姆 (英國國會選區)",
+    "def": ""
+   }
+  ]
+ },
+ "becker": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝克爾（美國經濟學家）",
+    "def": "A European fish (Pagellus centrodontus); the sea bream or"
+   }
+  ]
+ },
+ "becket": {
+  "ph": "/'bekit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "索環, 環扣",
+    "def": "(Roman Catholic Church) archbishop of Canterbury from 1162 to 1170; murdered following his opposition to Henry II's attempts to control the clergy (1118-1170)"
+   }
+  ],
+  "forms": "複數 beckets"
+ },
+ "beckett": {
+  "ph": "/ˈbekɪt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝克特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "beckley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beckley)人名；(英、尼日利)貝克利",
+    "def": "a city in southern West Virginia"
+   }
+  ]
+ },
+ "beckman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝克曼（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "beckon": {
+  "ph": "/'bekәn/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "招手示意, 召喚, 吸引",
+    "def": "signal with the hands or nod"
+   },
+   {
+    "pos": "n.",
+    "zh": "表召喚的點頭(或手勢)",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 beckoned｜現在分詞 beckoning｜第三人稱單數 beckons｜過去分詞 beckoned"
+ },
+ "beckoning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "引誘人的；令人心動的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 beckoning"
+ },
+ "beckwith": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beckwith)人名；(英)貝克威思",
+    "def": ""
+   }
+  ]
+ },
+ "becky": {
+  "ph": "/'beki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[口]上掛鉤",
+    "def": ""
+   }
+  ]
+ },
+ "become": {
+  "ph": "/bi'kʌm/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "變成, 變得",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "適合",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 became｜過去分詞 become｜第三人稱單數 becomes｜現在分詞 becoming"
+ },
+ "becoming": {
+  "ph": "/bi'kʌmiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "合適的, 適當的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 becoming"
+ },
+ "bed": {
+  "ph": "/bed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床, 睡眠處, 河床, 底座, 路基, 一層",
+    "def": "a piece of furniture that provides a place to sleep"
+   },
+   {
+    "pos": "vt.",
+    "zh": "提供宿處, 栽種, 安裝",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "睡, 形成堅實的一層",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beds｜過去分詞 bedded｜現在分詞 bedding｜過去式 bedded｜第三人稱單數 beds"
+ },
+ "bed and breakfast": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "歐洲的一種簡易旅館；住宿加早餐",
+    "def": ""
+   }
+  ]
+ },
+ "bedale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比代爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "bedazzle": {
+  "ph": "/bi'dæzl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使眼花繚亂, 使迷醉",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bedazzled｜現在分詞 bedazzling｜第三人稱單數 bedazzles｜過去分詞 bedazzled"
+ },
+ "bedazzled": {
+  "ph": "/bi'dæzld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "眼花繚亂的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使困惑（bedazzle的過去式和過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "bedbug": {
+  "ph": "/'bedbʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臭蟲",
+    "def": "bug of temperate regions that infests especially beds and feeds on human blood"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 臭蟲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedbugs"
+ },
+ "bedchamber": {
+  "ph": "/'bed.tʃeimbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臥房, 臥室, 寢室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedchambers"
+ },
+ "bedclothes": {
+  "ph": "/'bedklәuðz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鋪蓋, 床上用品",
+    "def": "coverings that are used on a bed"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鋪蓋, 被褥",
+    "def": ""
+   }
+  ]
+ },
+ "bedcover": {
+  "ph": "/'bed.kʌvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床罩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedcovers"
+ },
+ "bedded": {
+  "ph": "/'bedid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[地質]層狀的",
+    "def": "having a bed or beds as specified"
+   }
+  ],
+  "forms": "過去分詞 bedded"
+ },
+ "bedding": {
+  "ph": "/'bediŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被褥, 寢具, 床上用品, 基床",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 褥草, 被褥",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bedding"
+ },
+ "beddings": {
+  "ph": "/'bedɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寢具；（建築）[建] 基床；（家畜）草墊",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "適於花壇種植的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "把…栽入苗床（bed的ing形式）",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "睡（bed的ing形式）",
+    "def": ""
+   }
+  ]
+ },
+ "beddington": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beddington)人名；(英)貝丁頓",
+    "def": ""
+   }
+  ]
+ },
+ "beddow": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [威爾士人姓氏] 貝多來源於古威爾士語, 含義是“華麗, 光輝+主”(pomp,splendour+lord)",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 beddows｜複數 beddows"
+ },
+ "bede": {
+  "ph": "/bi:d/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比德(Saint, 673-735, 英國歷史學家及神學家)",
+    "def": ""
+   }
+  ]
+ },
+ "bedeck": {
+  "ph": "/bi'dek/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "裝飾, 修飾",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bedecked｜現在分詞 bedecking｜過去式 bedecked｜第三人稱單數 bedecks"
+ },
+ "bedelia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bedelia)人名；(英)貝德莉婭",
+    "def": ""
+   }
+  ]
+ },
+ "bedevil": {
+  "ph": "/bi'devl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使痛苦, 使苦惱, 虐待",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bedevilled｜第三人稱單數 bedevils｜過去式 bedevilled｜現在分詞 bedevilling｜複數 bedevils"
+ },
+ "bedfellow": {
+  "ph": "/'bed.felәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同床者, 夥伴",
+    "def": "a temporary associate"
+   }
+  ],
+  "forms": "複數 bedfellows｜第三人稱單數 bedfellows"
+ },
+ "bedford": {
+  "ph": "/'bedfәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝德福德（英格蘭一郡及該郡之首府）；貝德福德（美國俄亥俄州城市）；貝德福德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "bedfordshire": {
+  "ph": "/'bedfәdʃiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英格蘭南部的州名",
+    "def": ""
+   }
+  ]
+ },
+ "bedframe": {
+  "ph": "/'bed,freim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床架",
+    "def": ""
+   }
+  ]
+ },
+ "bedhead": {
+  "ph": "/'bedhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床頭板",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedheads"
+ },
+ "bedi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bedi)人名；(羅、印、剛(布))貝迪；(匈)拜迪",
+    "def": ""
+   }
+  ]
+ },
+ "bedizen": {
+  "ph": "/bi'daizn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "俗麗地打扮(或裝飾)",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bedizened｜過去分詞 bedizened｜現在分詞 bedizening｜第三人稱單數 bedizens"
+ },
+ "bedlam": {
+  "ph": "/'bedlәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混亂, 喧鬧, 瘋人院",
+    "def": "pejorative terms for an insane asylum"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 精神病院, 精神病",
+    "def": ""
+   }
+  ]
+ },
+ "bedlinen": {
+  "ph": "/'bedlinin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床用織物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedlinens"
+ },
+ "bedlington": {
+  "ph": "/'bedliŋtən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝靈頓狗；貝得靈頓厚毛犬",
+    "def": ""
+   }
+  ]
+ },
+ "bedouin": {
+  "ph": "/'beduin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝都因人(遊牧阿拉伯人)",
+    "def": "a member of a nomadic tribe of Arabs"
+   }
+  ],
+  "forms": "複數 bedouins"
+ },
+ "bedpan": {
+  "ph": "/'bedpæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "便盆, 暖床用長柄炭爐",
+    "def": "a shallow vessel used by a bedridden patient for defecation and urination"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 便盆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedpans"
+ },
+ "bedpost": {
+  "ph": "/'bedpәust/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床柱",
+    "def": "any of 4 vertical supports at the corners of a bedstead"
+   }
+  ],
+  "forms": "複數 bedposts"
+ },
+ "bedraggled": {
+  "ph": "/bi'drægld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "全身泥汙的, 滿身溼透的, 破爛的",
+    "def": ""
+   }
+  ]
+ },
+ "bedrail": {
+  "ph": "/'bedreil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床側板, 床欄杆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedrails"
+ },
+ "bedridden": {
+  "ph": "/'bedridn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "臥床不起的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 臥床不起的",
+    "def": ""
+   }
+  ]
+ },
+ "bedrock": {
+  "ph": "/bed'rɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "基岩, 基本原理, 基礎",
+    "def": "solid unweathered rock lying beneath surface deposits of soil"
+   }
+  ],
+  "forms": "過去分詞 bedrocked｜複數 bedrocks"
+ },
+ "bedroll": {
+  "ph": "/'bedrәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鋪蓋卷",
+    "def": "bedding rolled up for carrying"
+   }
+  ],
+  "forms": "複數 bedrolls"
+ },
+ "bedroom": {
+  "ph": "/'bedrum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臥室",
+    "def": "a room used primarily for sleeping"
+   }
+  ],
+  "forms": "複數 bedrooms"
+ },
+ "bedroomed": {
+  "ph": "/'bedruːm; -rʊm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臥室, 寢室；(火車)臥鋪單間",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "與性愛有關的, 男女性愛的；性感的, 色情的, 激起性慾的；臥室(內)的",
+    "def": ""
+   }
+  ]
+ },
+ "beds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床上用品, 床組（bed複數）",
+    "def": ""
+   }
+  ]
+ },
+ "bedsheet": {
+  "ph": "/'bed.ʃi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床單",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedsheets"
+ },
+ "bedside": {
+  "ph": "/'bedsaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床邊",
+    "def": "space by the side of a bed (especially the bed of a sick or dying person)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "床邊的, 臨床的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedsides"
+ },
+ "bedsit": {
+  "ph": "/bed'sɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臥室兼起居室",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "租用臥室兼起居室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedsits｜第三人稱單數 bedsits｜現在分詞 bedsitting"
+ },
+ "bedsitter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臥室兼起居室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedsitters｜第三人稱單數 bedsitters"
+ },
+ "bedsore": {
+  "ph": "/'bedsɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "褥瘡",
+    "def": "a chronic ulcer of the skin caused by prolonged pressure on it (as in bedridden patients)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 褥瘡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedsores"
+ },
+ "bedspread": {
+  "ph": "/'bedspred/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床單, 床罩",
+    "def": "decorative cover for a bed"
+   }
+  ],
+  "forms": "複數 bedspreads"
+ },
+ "bedspring": {
+  "ph": "/'bedspriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床墊的彈簧",
+    "def": "(usually plural) one of the springs holding up the mattress of a bed"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 床簧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bedsprings"
+ },
+ "bedstand": {
+  "ph": "/'bedstænd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "床頭櫃",
+    "def": ""
+   }
+  ]
+ },
+ "bedstead": {
+  "ph": "/'bedsted/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "床架",
+    "def": "the framework of a bed"
+   }
+  ],
+  "forms": "複數 bedsteads"
+ },
+ "bedtime": {
+  "ph": "/'bedtaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "就寢時間",
+    "def": "the time you go to bed"
+   }
+  ],
+  "forms": "複數 bedtimes"
+ },
+ "bee": {
+  "ph": "/bi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜜蜂, 聚會",
+    "def": "any of numerous hairy-bodied insects including social and solitary species"
+   }
+  ],
+  "forms": "複數 bees"
+ },
+ "beeb": {
+  "ph": "/bi:b/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "BBC 英國廣播公司的簡稱",
+    "def": ""
+   }
+  ]
+ },
+ "beech": {
+  "ph": "/bi:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山毛櫸",
+    "def": "any of several large deciduous trees with rounded spreading crowns and smooth grey bark and small sweet edible triangular nuts enclosed in burs; north temperate"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 山毛櫸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beeches"
+ },
+ "beecham": {
+  "ph": "/'bi:tʃәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比徹姆(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "beecher": {
+  "ph": "/'bi:tʃә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比徹",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beechers"
+ },
+ "beechey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beechey)人名；(英)比奇",
+    "def": ""
+   }
+  ]
+ },
+ "beeching": {
+  "ph": "/biːtʃ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[植物]",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "山毛櫸科或殼鬥科 (Fagaceae) 樹的；山毛櫸木材的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "山毛櫸, 水青岡[殼鬥科水青岡屬或山毛櫸屬 (Fagus) 落葉喬木植物的通稱]；柏；山毛櫸科 (Fagaceae) 植物",
+    "def": ""
+   }
+  ]
+ },
+ "beechnut": {
+  "ph": "/'bi:tʃnʌt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山毛櫸果實",
+    "def": "small sweet triangular nut of any of various beech trees"
+   }
+  ]
+ },
+ "beechwood": {
+  "ph": "/'bi:tʃwud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山毛櫸木材",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beechwoods"
+ },
+ "beef": {
+  "ph": "/bi:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛肉, 肌肉",
+    "def": "cattle that are reared for their meat"
+   },
+   {
+    "pos": "vt.",
+    "zh": "養(牛), 宰(牛)",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "抱怨, 告發",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 beefed｜現在分詞 beefing｜過去式 beefed｜複數 beefs｜第三人稱單數 beefs"
+ },
+ "beefburger": {
+  "ph": "/'bɛdbɝɡɚ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "德式牛排；漢堡包（等於hamburger）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beefburgers"
+ },
+ "beefcake": {
+  "ph": "/'biːfkeɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男子健美照片",
+    "def": "a photograph of a muscular man in minimal attire"
+   }
+  ]
+ },
+ "beefeater": {
+  "ph": "/'bi:f.i:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吃牛肉者, 壯漢, 守衛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beefeaters"
+ },
+ "beefsteak": {
+  "ph": "/'bi:fsteik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛排",
+    "def": "a beef steak usually cooked by broiling"
+   }
+  ],
+  "forms": "複數 beefsteaks"
+ },
+ "beefy": {
+  "ph": "/'bi:fi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(牛)多肉的, 象牛肉的, 粗壯的, 結實的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 beefier"
+ },
+ "beehive": {
+  "ph": "/'bi:haiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜂窩, 蜂箱",
+    "def": "any workplace where people are very busy"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 集氣架, 蜂巢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beehives"
+ },
+ "beekeeper": {
+  "ph": "/'bi:fki:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "養蜂人",
+    "def": "a farmer who keeps bees for their honey"
+   }
+  ],
+  "forms": "複數 beekeepers"
+ },
+ "beekeeping": {
+  "ph": "/'bi:,ki:piŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "養蜂",
+    "def": "the cultivation of bees on a commercial scale for the production of honey"
+   }
+  ]
+ },
+ "beeline": {
+  "ph": "/'bi:lain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "筆直線",
+    "def": "the most direct route"
+   }
+  ]
+ },
+ "beelzebub": {
+  "ph": "/bi:'elzibʌb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魔王, 魔鬼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beelzebubs"
+ },
+ "beep": {
+  "ph": "/bi:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短而尖的聲音, 嘟",
+    "def": "a short high tone produced as a signal or warning"
+   },
+   {
+    "pos": "v.",
+    "zh": "嘟嘟響",
+    "def": "call, summon, or alert with a beeper"
+   }
+  ],
+  "forms": "複數 beeps｜現在分詞 beeping｜過去式 beeped｜第三人稱單數 beeps｜過去分詞 beeped"
+ },
+ "beeper": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "駕駛飛機的遙控人員",
+    "def": "an electronic device that generates a series of beeps when the person carrying it is being paged"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 報警器, 聲訊號裝置",
+    "def": ""
+   }
+  ]
+ },
+ "beeping": {
+  "ph": "/bi:pɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "嘟嘟響( beep的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 beeping"
+ },
+ "beer": {
+  "ph": "/biә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "啤酒",
+    "def": "a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 啤酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beers"
+ },
+ "beerbohm": {
+  "ph": "/'biәbәum/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比爾博姆(Max, 1872-1956, 英國評 論家及漫畫家)",
+    "def": ""
+   }
+  ]
+ },
+ "beery": {
+  "ph": "/'biәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "啤酒的, 象啤酒的, 喝啤酒喝醉的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 beerier"
+ },
+ "bees": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜜蜂（bee的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "beeson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beeson)人名；(英)比森",
+    "def": ""
+   }
+  ]
+ },
+ "beeston": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beeston)人名；(英)比斯頓",
+    "def": ""
+   }
+  ]
+ },
+ "beeswax": {
+  "ph": "/'bi:zwæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜂蠟, 蜜蠟",
+    "def": "a yellow to brown wax secreted by honeybees to build honeycombs"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用蠟上光",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 beeswaxing｜過去式 beeswaxed｜第三人稱單數 beeswaxes｜過去分詞 beeswaxed"
+ },
+ "beet": {
+  "ph": "/bi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甜菜(根)",
+    "def": "biennial Eurasian plant usually having a swollen edible root; widely cultivated as a food crop"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 甜菜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beets｜現在分詞 beeting"
+ },
+ "beethoven": {
+  "ph": "/'beitәuvәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝多芬",
+    "def": "German composer of instrumental music (especially symphonic and chamber music); continued to compose after he lost his hearing (1770-1827)"
+   }
+  ],
+  "forms": "過去分詞 beethoven"
+ },
+ "beetle": {
+  "ph": "/'bi:tl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甲蟲, 大槌",
+    "def": "insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings"
+   },
+   {
+    "pos": "vi.",
+    "zh": "快速移動",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "捶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beetles｜現在分詞 beetling｜過去式 beetled｜第三人稱單數 beetles｜過去分詞 beetled"
+ },
+ "beeton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比頓（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "beetroot": {
+  "ph": "/'bi:tru:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甜菜根",
+    "def": "beet having a massively swollen red root; widely grown for human consumption"
+   }
+  ],
+  "forms": "複數 beetroots"
+ },
+ "bef": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "在…以前（before）",
+    "def": ""
+   }
+  ]
+ },
+ "befall": {
+  "ph": "/bi'fɒ:l/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "降臨(於)",
+    "def": "become of; happen to"
+   }
+  ],
+  "forms": "過去式 befell｜過去分詞 befallen｜第三人稱單數 befalls｜複數 befalls｜現在分詞 befalling"
+ },
+ "befit": {
+  "ph": "/bi'fit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "適合於, 適宜於",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 befits｜過去式 befitted｜現在分詞 befitting｜過去分詞 befitted"
+ },
+ "before": {
+  "ph": "/bi'fɒ:/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在...之前",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "在...之前",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在前",
+    "def": ""
+   }
+  ]
+ },
+ "beforehand": {
+  "ph": "/bi'fɒ:hænd/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "預先",
+    "def": ""
+   }
+  ]
+ },
+ "befoul": {
+  "ph": "/bi'faul/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "弄髒",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 befouled｜現在分詞 befouling｜第三人稱單數 befouls｜過去分詞 befouled"
+ },
+ "befriend": {
+  "ph": "/bi'frend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "待人如友, 扶助",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 befriended｜過去分詞 befriended｜現在分詞 befriending｜第三人稱單數 befriends"
+ },
+ "befuddle": {
+  "ph": "/bi'fʌdl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使昏沉, 使迷惑, 使糊塗",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 befuddled｜過去分詞 befuddled｜現在分詞 befuddling｜第三人稱單數 befuddles"
+ },
+ "befuddled": {
+  "ph": "/bi'fʌdld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "昏沉的, 糊里糊塗的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使…迷惑；使…爛醉（befuddle的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 befuddled"
+ },
+ "befuddlement": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 迷惘, 迷糊",
+    "def": ""
+   }
+  ]
+ },
+ "beg": {
+  "ph": "/beg/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "乞求, 乞討, 請求",
+    "def": "call upon in supplication; entreat"
+   }
+  ],
+  "forms": "現在分詞 begging｜過去式 begged｜第三人稱單數 begs｜過去分詞 begged"
+ },
+ "begat": {
+  "ph": "/bi'^æt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "<廢> beget的過去式",
+    "def": ""
+   }
+  ]
+ },
+ "beget": {
+  "ph": "/bi'get/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "為某人之生父, 招致, 產生, 引起",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 begets｜現在分詞 begetting｜複數 begets｜過去式 begot｜過去分詞 begotten"
+ },
+ "begetter": {
+  "ph": "/bi'getə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生產者；父",
+    "def": ""
+   }
+  ],
+  "forms": "複數 begetters"
+ },
+ "begg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝格",
+    "def": ""
+   }
+  ]
+ },
+ "beggar": {
+  "ph": "/'begә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乞丐",
+    "def": "a pauper who lives by begging"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使貧窮, 使成乞丐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beggars｜第三人稱單數 beggars｜現在分詞 beggaring｜過去式 beggared｜過去分詞 beggared"
+ },
+ "beggarly": {
+  "ph": "/'begәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "象乞丐的, 赤貧的",
+    "def": ""
+   }
+  ]
+ },
+ "begging": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "乞討, 乞求；行乞（beg的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 begging"
+ },
+ "begin": {
+  "ph": "/bi'gin/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "開始",
+    "def": "have a beginning, in a temporal, spatial, or evaluative sense"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 開始",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 began｜現在分詞 beginning｜過去分詞 begun｜第三人稱單數 begins"
+ },
+ "beginner": {
+  "ph": "/bi'ginә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "初學者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beginners"
+ },
+ "beginners": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "初學者；生手；首創者（beginner的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "beginning": {
+  "ph": "/bi'giniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開始",
+    "def": "the event consisting of the start of something"
+   }
+  ],
+  "forms": "複數 beginnings｜現在分詞 beginning"
+ },
+ "begonia": {
+  "ph": "/bi'gәunjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "秋海棠屬植物, 秋海棠",
+    "def": "any of numerous plants of the genus Begonia grown for their attractive glossy asymmetrical leaves and colorful flowers in usually terminal cymes or racemes"
+   }
+  ],
+  "forms": "複數 begonias"
+ },
+ "begotten": {
+  "ph": "/bi'gɒtn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "beget的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 begotten"
+ },
+ "begrudge": {
+  "ph": "/bi'grʌdʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "嫉妒, 羨慕, 勉強允給, 吝惜",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 begrudged｜第三人稱單數 begrudges｜現在分詞 begrudging｜過去分詞 begrudged"
+ },
+ "begrudgingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不樂意, 勉強地",
+    "def": ""
+   }
+  ]
+ },
+ "beguile": {
+  "ph": "/bi'gail/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "誘騙",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 beguiled｜過去式 beguiled｜現在分詞 beguiling｜第三人稱單數 beguiles"
+ },
+ "beguiling": {
+  "ph": "/bi'gailiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "欺騙的, 有趣的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 beguiling"
+ },
+ "begum": {
+  "ph": "/'beigәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "穆斯林國家的王后(或公主)",
+    "def": "a Muslim woman of high rank in India or Pakistan"
+   }
+  ]
+ },
+ "behalf": {
+  "ph": "/bi'hɑ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利益, 方面",
+    "def": "as the agent of or on someone's part (usually expressed as \"on behalf of\" rather than \"in behalf of\");"
+   }
+  ]
+ },
+ "behan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝漢（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "behave": {
+  "ph": "/bi'heiv/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "舉止端正, 行為規矩",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "檢點(自己的)行為, 使表現好",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 behaving｜過去式 behaved｜過去分詞 behaved｜第三人稱單數 behaves"
+ },
+ "behavior": {
+  "ph": "/bi'heivjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行為, 舉止",
+    "def": "manner of acting or controlling yourself"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 行為",
+    "def": ""
+   }
+  ],
+  "forms": "複數 behaviors"
+ },
+ "behavioral": {
+  "ph": "/bi'heivjәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "行為的",
+    "def": "of or relating to behavior"
+   }
+  ]
+ },
+ "behaviorally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "行為；舉止",
+    "def": ""
+   }
+  ]
+ },
+ "behaviorism": {
+  "ph": "/bi'heiviәriz(ә)m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行為主義",
+    "def": "an approach to psychology that emphasizes observable measurable behavior"
+   }
+  ]
+ },
+ "behaviorist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行為主義者",
+    "def": "a psychologist who subscribes to behaviorism"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 行為主義者",
+    "def": ""
+   }
+  ]
+ },
+ "behavioristic": {
+  "ph": "/bi.heivjә'ristik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "行動主義的",
+    "def": "of or relating to behaviorism"
+   }
+  ]
+ },
+ "behaviour": {
+  "ph": "/bi'heivjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行為, 舉止",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 特性, 效能, 特點, 行為, 動作, 狀態",
+    "def": ""
+   }
+  ],
+  "forms": "複數 behaviours"
+ },
+ "behavioural": {
+  "ph": "/bi'heivjәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "行為的",
+    "def": ""
+   }
+  ]
+ },
+ "behaviourally": {
+  "ph": "/bi'heivjərəl/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "行為上",
+    "def": ""
+   }
+  ]
+ },
+ "behaviourism": {
+  "ph": "/bi'heivjәrizəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英>行動主義",
+    "def": ""
+   }
+  ]
+ },
+ "behaviourist": {
+  "ph": "/-rist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行為主義者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 behaviourists"
+ },
+ "behead": {
+  "ph": "/bi'hed/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "斬首, 砍頭",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 beheaded｜現在分詞 beheading｜過去式 beheaded｜第三人稱單數 beheads"
+ },
+ "beheaded": {
+  "ph": "/bi'hedid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "身首異處的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "砍頭（behead的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 beheaded"
+ },
+ "beheading": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 斬首",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beheadings｜現在分詞 beheading"
+ },
+ "beheld": {
+  "ph": "/bi'held/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "behold的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 beheld｜過去分詞 beheld"
+ },
+ "behemoth": {
+  "ph": "/bi'hi:mɔθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "龐然大物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 behemoths"
+ },
+ "behest": {
+  "ph": "/bi'hest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "命令",
+    "def": "an authoritative command or request"
+   }
+  ],
+  "forms": "複數 behests"
+ },
+ "behind": {
+  "ph": "/bi'haind/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在後地",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "在...背後",
+    "def": ""
+   }
+  ]
+ },
+ "behind-the-scenes": {
+  "ph": "/bi'haindðә'si:nz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "幕後的",
+    "def": ""
+   }
+  ]
+ },
+ "behn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 貝恩",
+    "def": ""
+   }
+  ]
+ },
+ "behold": {
+  "ph": "/bi'hәuld/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "看到, 注視",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "看",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 beholding｜第三人稱單數 beholds｜過去式 beheld｜過去分詞 beheld"
+ },
+ "beholden": {
+  "ph": "/bi'hәudәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "負有義務的, 受惠的",
+    "def": ""
+   }
+  ]
+ },
+ "beholder": {
+  "ph": "/bi'hәjldә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀看者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beholders"
+ },
+ "behoove": {
+  "ph": "/bi'hu:v/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "理應, 應該",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "理所當然",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 behooving｜過去式 behooved｜第三人稱單數 behooves｜過去分詞 behooved｜複數 behooves"
+ },
+ "behove": {
+  "ph": "/bi'hәuv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "理應, 應該",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "理所當然",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 behoves｜過去式 behoved｜過去分詞 behoved｜現在分詞 behoving"
+ },
+ "beige": {
+  "ph": "/beiʒ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淡棕色的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "薄斜紋呢, 米色",
+    "def": "a very light brown"
+   }
+  ],
+  "forms": "複數 beiges"
+ },
+ "beignet": {
+  "ph": "/bei'jei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法]帶餡煎餅",
+    "def": ""
+   }
+  ]
+ },
+ "beijing": {
+  "ph": "/beidʒiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 北京",
+    "def": ""
+   }
+  ]
+ },
+ "being": {
+  "ph": "/'bi:iŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "存在, 性質, 生命, 人, 生物, be的現在分詞",
+    "def": "the state or fact of existing"
+   }
+  ],
+  "forms": "複數 beings"
+ },
+ "beirut": {
+  "ph": "/.bei'ru:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝魯特",
+    "def": ""
+   }
+  ]
+ },
+ "beith": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beith)人名；(英)比思",
+    "def": ""
+   }
+  ]
+ },
+ "bejesus": {
+  "ph": "/bi'dʒi:zәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老天",
+    "def": ""
+   }
+  ]
+ },
+ "bejeweled": {
+  "ph": "/bi'dʒu:əld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用寶石來裝飾的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "給…飾以珠寶（bejewel的過去式）",
+    "def": ""
+   }
+  ]
+ },
+ "bejewelled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "飾以珠寶的（bejewel的變體）",
+    "def": ""
+   }
+  ]
+ },
+ "bekaa": {
+  "ph": "/bi'kɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝卡[黎巴嫩中部一谷地]",
+    "def": ""
+   }
+  ]
+ },
+ "bel": {
+  "ph": "/bel/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 報警符",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 貝[耳](響度單位)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bels"
+ },
+ "bela": {
+  "ph": "/'beilә, belә, 'bilә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 印度枸桔(芸香科)",
+    "def": ""
+   }
+  ]
+ },
+ "belabor": {
+  "ph": "/bi'leibә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "痛打",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 毆打, 鞭打, 辱罵",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 belaboring｜過去式 belabored｜第三人稱單數 belabors｜過去分詞 belabored"
+ },
+ "belabour": {
+  "ph": "/bi'leibә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "痛打",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 belabouring｜過去式 belaboured｜過去分詞 belaboured｜第三人稱單數 belabours"
+ },
+ "belarusian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "白俄羅斯的",
+    "def": ""
+   }
+  ]
+ },
+ "belarussian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白俄羅斯語；白俄羅斯人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "白俄羅斯的",
+    "def": ""
+   }
+  ]
+ },
+ "belated": {
+  "ph": "/bi'leitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遲來的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 過了期的, 落後了的",
+    "def": ""
+   }
+  ]
+ },
+ "belatedly": {
+  "ph": "/bi'leitidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "延遲地；延續地",
+    "def": ""
+   }
+  ]
+ },
+ "belatedness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "遲到",
+    "def": ""
+   }
+  ]
+ },
+ "belay": {
+  "ph": "/bi'lei/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "把纜繩拴在系索栓上",
+    "def": "turn a rope round an object or person in order to secure it or him"
+   }
+  ],
+  "forms": "複數 belays｜現在分詞 belaying｜過去式 belayed｜過去分詞 belayed｜第三人稱單數 belays"
+ },
+ "belch": {
+  "ph": "/beltʃ/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "打嗝, 噴吐",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "打嗝, 吼叫著發出(命令), 噴吐",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "打嗝, 噴吐",
+    "def": "a reflex that expels gas noisily from the stomach through the mouth"
+   }
+  ],
+  "forms": "過去式 belched｜現在分詞 belching｜第三人稱單數 belches｜過去分詞 belched｜複數 belches"
+ },
+ "belcher": {
+  "ph": "/'beltʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "彩色圍巾",
+    "def": "One who, or that which, belches."
+   }
+  ]
+ },
+ "beleaguer": {
+  "ph": "/bi'li:gә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "圍, 圍攻",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 beleaguered｜現在分詞 beleaguering｜過去式 beleaguered｜第三人稱單數 beleaguers"
+ },
+ "beleaguered": {
+  "ph": "/bɪ'liɡɚd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "圍攻（beleaguer的過去式和過去分詞）",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "圍困的；包圍的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 beleaguered"
+ },
+ "belemnite": {
+  "ph": "/'belәmnait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "箭石",
+    "def": "a conical calcareous fossil tapering to a point at one end and with a conical cavity at the other end containing (when unbroken) a small chambered phragmocone f"
+   }
+  ],
+  "forms": "複數 belemnites"
+ },
+ "belfast": {
+  "ph": "/.belfɑ:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝爾法斯特",
+    "def": "capital and largest city of Northern Ireland; the center of Protestantism in Northern Ireland"
+   }
+  ]
+ },
+ "belford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Belford)人名；(英)貝爾福德",
+    "def": ""
+   }
+  ]
+ },
+ "belfry": {
+  "ph": "/'belfri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐘樓, 鐘塔",
+    "def": "a room (often at the top of a tower) where bells are hung"
+   }
+  ],
+  "forms": "複數 belfries"
+ },
+ "belgian": {
+  "ph": "/'beldʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比利時人",
+    "def": "a native or inhabitant of Belgium"
+   },
+   {
+    "pos": "adj.",
+    "zh": "比利時的",
+    "def": "of or relating to or characteristic of Belgium or the Belgian people"
+   }
+  ],
+  "forms": "複數 belgians"
+ },
+ "belgium": {
+  "ph": "/'beldʒәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比利時",
+    "def": "a monarchy in northwestern Europe; headquarters for the European Union and for the North Atlantic Treaty Organization"
+   }
+  ]
+ },
+ "belgrade": {
+  "ph": "/.bel'greid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝爾格萊德",
+    "def": "capital and largest city of Serbia and Montenegro; situated on the Danube"
+   }
+  ]
+ },
+ "belgrano": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Belgrano)人名；(英、西、葡)貝爾格拉諾",
+    "def": ""
+   }
+  ]
+ },
+ "belgrave": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Belgrave)人名；(英)貝爾格雷夫；(西)貝爾格拉韋",
+    "def": ""
+   }
+  ]
+ },
+ "belgravia": {
+  "ph": "/bel'greiviә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝爾格萊維亞區(倫敦上流住宅區)",
+    "def": ""
+   }
+  ]
+ },
+ "belie": {
+  "ph": "/bi'lai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "掩飾, 與...不符, 使失望",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 belies｜現在分詞 belying｜過去式 belied｜過去分詞 belied"
+ },
+ "belief": {
+  "ph": "/bi'li:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "信念, 相信, 信仰",
+    "def": "any cognitive content held as true"
+   }
+  ],
+  "forms": "複數 beliefs"
+ },
+ "believability": {
+  "ph": "/bi.li:vә'bilәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可信度",
+    "def": ""
+   }
+  ]
+ },
+ "believable": {
+  "ph": "/bi'li:vәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可信的",
+    "def": ""
+   }
+  ]
+ },
+ "believably": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "believable的變形",
+    "def": ""
+   }
+  ]
+ },
+ "believe": {
+  "ph": "/bi'li:v/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "相信",
+    "def": "accept as true; take to be true"
+   }
+  ],
+  "forms": "過去式 believed｜第三人稱單數 believes｜過去分詞 believed｜現在分詞 believing"
+ },
+ "believer": {
+  "ph": "/bi'li:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "信徒",
+    "def": "a supporter who accepts something as true"
+   }
+  ],
+  "forms": "複數 believers"
+ },
+ "believing": {
+  "ph": "/bi'li:viŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "信任他人的, 有信仰的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 believing"
+ },
+ "belinda": {
+  "ph": "/bi'lindә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝琳達(女子名)",
+    "def": ""
+   }
+  ]
+ },
+ "belittle": {
+  "ph": "/bi'litl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "輕視, 貶低",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 belittling｜過去分詞 belittled｜第三人稱單數 belittles｜過去式 belittled"
+ },
+ "belittling": {
+  "ph": "/bɪˈlɪtlɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使顯得微小, 輕視, 貶低( belittle的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 belittling"
+ },
+ "belize": {
+  "ph": "/be'li:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝里斯城（拉丁美洲國家）",
+    "def": "a country on the northeastern coast of Central America on the Caribbean; formerly under British control"
+   }
+  ]
+ },
+ "belizean": {
+  "ph": "/be'li:ziәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝里斯(國)人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "貝里斯國(人)的",
+    "def": ""
+   }
+  ]
+ },
+ "bell": {
+  "ph": "/bel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鈴, 鍾",
+    "def": "a hollow device made of metal that makes a ringing sound when struck"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 響鈴命令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bells｜過去式 belled｜現在分詞 belling｜第三人稱單數 bells｜過去分詞 belled"
+ },
+ "bella": {
+  "ph": "/'belә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝拉（女子名, 等於Arabella, Isabella）",
+    "def": ""
+   }
+  ]
+ },
+ "belladonna": {
+  "ph": "/.belә'dɒnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顛茄",
+    "def": "perennial Eurasian herb with reddish bell-shaped flowers and shining black berries; extensively grown in United States; roots and leaves yield atropine"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 顛茄(Atropa belladonna)",
+    "def": ""
+   }
+  ]
+ },
+ "bellamy": {
+  "ph": "/'belә mi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝拉米（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "bellboy": {
+  "ph": "/'belbɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "侍者",
+    "def": "someone employed as an errand boy and luggage carrier around hotels"
+   }
+  ]
+ },
+ "belle": {
+  "ph": "/bel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美女",
+    "def": "a young woman who is the most charming and beautiful of several rivals"
+   }
+  ],
+  "forms": "複數 belles"
+ },
+ "belled": {
+  "ph": "/'belid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 套接的, 鐘形口的",
+    "def": ""
+   }
+  ]
+ },
+ "bellevue": {
+  "ph": "/ˈbelˌvju:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝爾維尤",
+    "def": ""
+   }
+  ]
+ },
+ "bellflower": {
+  "ph": "/'bel.flauә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風鈴草",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bellflowers"
+ },
+ "bellhop": {
+  "ph": "/'belhɔp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅館侍者, 旅館服務員（等於bellboy）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bellhops"
+ },
+ "bellicose": {
+  "ph": "/'belikәus/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好戰的, 好鬥的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 好戰的",
+    "def": ""
+   }
+  ]
+ },
+ "bellicosity": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 好戰, 好鬥",
+    "def": ""
+   }
+  ]
+ },
+ "belligerence": {
+  "ph": "/bi'lidʒәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "交戰, 好戰性, 鬥爭性",
+    "def": "hostile or warlike attitude or nature"
+   }
+  ]
+ },
+ "belligerency": {
+  "ph": "/bi'lidʒәrәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "交戰狀態",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 交戰, 交戰狀態, 交戰國的地位",
+    "def": ""
+   }
+  ]
+ },
+ "belligerent": {
+  "ph": "/bi'lidʒәrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好戰的, 交戰的, 交戰國的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 交戰一方, 交戰國, 交戰集團",
+    "def": ""
+   }
+  ],
+  "forms": "複數 belligerents"
+ },
+ "belligerently": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "好戰地；好鬥地",
+    "def": ""
+   }
+  ]
+ },
+ "bellingham": {
+  "ph": "/'beliŋhæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝靈翰姆（地名, 位於美國華盛頓州北部）",
+    "def": "a town in northwestern Washington on a bay near the Canadian border"
+   }
+  ]
+ },
+ "bellini": {
+  "ph": "/bə'liːniː/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝里尼（飲料名）",
+    "def": "Italian composer of operas (1801-1835)"
+   }
+  ],
+  "forms": "複數 bellini"
+ },
+ "bellis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bellis)人名；(英)貝利斯；(法)貝利",
+    "def": "daisy"
+   }
+  ]
+ },
+ "bellman": {
+  "ph": "/'belmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敲鐘者, 男聽差, 更夫",
+    "def": ""
+   }
+  ]
+ },
+ "bello": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝羅（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "belloc": {
+  "ph": "/'belɔk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝洛克 (Hilaire, 1870-1953, 出生於法國的英國評論家, 詩人)",
+    "def": ""
+   }
+  ]
+ },
+ "bellow": {
+  "ph": "/'belәu/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "怒吼",
+    "def": "make a loud noise, as of animal"
+   }
+  ],
+  "forms": "過去式 bellowed｜現在分詞 bellowing｜第三人稱單數 bellows｜過去分詞 bellowed"
+ },
+ "bellowing": {
+  "ph": "/beˈləuɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "發出吼叫聲, 咆哮（尤指因痛苦）( bellow的現在分詞 ); （憤怒地）說出（某事）, 大叫",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bellowing｜複數 bellowings"
+ },
+ "bellows": {
+  "ph": "/'belәuz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風箱",
+    "def": "a mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 手風箱; 皮老虎; 波紋管",
+    "def": ""
+   }
+  ]
+ },
+ "bellwether": {
+  "ph": "/'bel.weðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "系鈴帶頭羊, 前導, 領導者",
+    "def": "someone who assumes leadership of a movement or activity"
+   }
+  ]
+ },
+ "belly": {
+  "ph": "/'beli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腹部, 食慾",
+    "def": "a protruding abdomen"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使鼓起",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "鼓起, 匍匐前進",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bellies｜過去式 bellied｜現在分詞 bellying｜過去分詞 bellied｜第三人稱單數 bellies"
+ },
+ "bellyache": {
+  "ph": "/'belieik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腹痛",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "無故抱怨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 belly-aching｜過去式 bellyached｜第三人稱單數 bellyaches'｜過去分詞 belly-ached"
+ },
+ "bellybutton": {
+  "ph": "/'belɪ,bʌtn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肚臍",
+    "def": ""
+   }
+  ]
+ },
+ "bellyful": {
+  "ph": "/'beliful/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滿腹, 滿肚子",
+    "def": "an undesirable overabundance"
+   }
+  ],
+  "forms": "複數 bellyfuls"
+ },
+ "belmont": {
+  "ph": "/bel'mɔnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝爾蒙（一種煙的名字）；貝爾蒙特（酒店名）",
+    "def": ""
+   }
+  ]
+ },
+ "belong": {
+  "ph": "/bi'lɒŋ/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "屬於, 合適",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 belonging｜過去式 belonged｜第三人稱單數 belongs｜過去分詞 belonged"
+ },
+ "belongings": {
+  "ph": "/bi'lɒŋiŋz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "財產, 所有物, 相關事物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 財產, 所有物, 附屬物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 belongings"
+ },
+ "belorussia": {
+  "ph": "/,bjelә'rʌʃә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "白俄羅斯(人, 語)",
+    "def": ""
+   }
+  ]
+ },
+ "beloved": {
+  "ph": "/bi'lʌvd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "心愛的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "心愛的人",
+    "def": "a beloved person; used as terms of endearment"
+   }
+  ],
+  "forms": "複數 beloveds"
+ },
+ "below": {
+  "ph": "/bi'lәu/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在下面",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在下面",
+    "def": ""
+   }
+  ]
+ },
+ "belowground": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 地面以下",
+    "def": ""
+   }
+  ]
+ },
+ "belsen": {
+  "ph": "/'belzən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝爾森(位於德國漢諾威)",
+    "def": "a Nazi concentration camp for Jews created in northwestern Germany during World War II"
+   }
+  ]
+ },
+ "belt": {
+  "ph": "/belt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶子, 地帶",
+    "def": "endless loop of flexible material between two rotating shafts or pulleys"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 帶, 腰帶, 束帶, 地帶, 區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 belts｜過去式 belted｜現在分詞 belting｜過去分詞 belted｜第三人稱單數 belts"
+ },
+ "belted": {
+  "ph": "/'beltid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "束帶的, 佩綬帶的",
+    "def": "having or provided with a belt"
+   }
+  ],
+  "forms": "過去式 belted"
+ },
+ "belter": {
+  "ph": "/'beltə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "了不起的人或事；嘹亮的歌",
+    "def": ""
+   }
+  ],
+  "forms": "複數 belters"
+ },
+ "beltless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "無帶的",
+    "def": ""
+   }
+  ]
+ },
+ "belton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Belton)人名；(英、西)貝爾頓",
+    "def": ""
+   }
+  ]
+ },
+ "belts": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶子；皮帶（belt的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "beltway": {
+  "ph": "/'beltwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>(環繞城市或某一地區的)環路,環形公路",
+    "def": "a highway that encircles an urban area so that traffic does not have to pass through the center"
+   }
+  ]
+ },
+ "beluga": {
+  "ph": "/bә'lu:gә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大白鰉, 白鯨",
+    "def": "valuable source of caviar and isinglass; found in Black and Caspian seas"
+   }
+  ],
+  "forms": "複數 belugas"
+ },
+ "belvedere": {
+  "ph": "/'belvi.diә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "望景樓",
+    "def": "a gazebo sited to command a fine view"
+   }
+  ],
+  "forms": "複數 belvederes"
+ },
+ "bely": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bely)人名；(俄)別雷",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 belied｜現在分詞 belying｜過去分詞 belied"
+ },
+ "bem": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "不列顛帝國勳章（British Empire Medal）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bems"
+ },
+ "bemoan": {
+  "ph": "/bi'mәun/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "哀悼, 惋惜, 認為遺憾, 哀嘆",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bemoaning｜過去式 bemoaned｜第三人稱單數 bemoans｜過去分詞 bemoaned"
+ },
+ "bemuse": {
+  "ph": "/bi'mju:z/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使發呆",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bemused｜現在分詞 bemusing｜第三人稱單數 bemuses｜過去分詞 bemused"
+ },
+ "bemused": {
+  "ph": "/bi'mju:zd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "困惑的, 發呆的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bemused"
+ },
+ "bemusedly": {
+  "ph": "/bi'mju:zidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "bemused的變形",
+    "def": ""
+   }
+  ]
+ },
+ "bemusement": {
+  "ph": "/bi'mju:zmənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "困惑",
+    "def": ""
+   }
+  ]
+ },
+ "ben": {
+  "ph": "/ben/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內室",
+    "def": "a mountain or tall hill"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 貝昂(俗名,一般指辣木Moringa oleifera,有時也指一些不同屬的植物)",
+    "def": ""
+   }
+  ]
+ },
+ "benares": {
+  "ph": "/bi'nɑ:riz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝拿勒斯（印度東北部城市瓦臘納西Varanasi的舊稱）；貝拿勒斯銀絲綢",
+    "def": ""
+   }
+  ]
+ },
+ "benazir": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Benazir)人名；(巴基)貝娜齊爾",
+    "def": ""
+   }
+  ]
+ },
+ "benbecula": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "本貝丘拉島",
+    "def": ""
+   }
+  ]
+ },
+ "bench": {
+  "ph": "/bentʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長椅子",
+    "def": "a long seat for more than one person"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 臺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 benches｜過去式 benched｜現在分詞 benching｜第三人稱單數 benches｜過去分詞 benched"
+ },
+ "benched": {
+  "ph": "/'bentʃid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "臺階形狀的；陡坎的；換下場的",
+    "def": ""
+   }
+  ]
+ },
+ "bencher": {
+  "ph": "/'bentʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "坐凳子的人, 律師協會的主管委員, 劃手",
+    "def": "One of the senior and governing members of an Inn of"
+   }
+  ],
+  "forms": "複數 benchers"
+ },
+ "benching": {
+  "ph": "/'bentʃiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉗工加工；階梯式開採；臺階式挖土法",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "形成階地；為…設定條凳（bench的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 benching"
+ },
+ "benchmark": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 基準程式; 基準",
+    "def": ""
+   }
+  ],
+  "forms": "複數 benchmarks｜現在分詞 benchmarking｜過去式 benchmarked｜過去分詞 benchmarked"
+ },
+ "bend": {
+  "ph": "/bend/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "變彎曲, 屈服",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使彎曲, 使屈服",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "彎曲",
+    "def": "a circular segment of a curve"
+   }
+  ],
+  "forms": "過去式 bent｜現在分詞 bending｜過去分詞 bent｜複數 bends｜第三人稱單數 bends"
+ },
+ "bendable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "可彎曲的",
+    "def": ""
+   }
+  ]
+ },
+ "bended": {
+  "ph": "/'bendid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "彎曲的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bended"
+ },
+ "bender": {
+  "ph": "/'bendә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扭弄物體的人, 六便士銀幣, 飲酒作樂",
+    "def": "a tool for bending"
+   }
+  ],
+  "forms": "複數 benders"
+ },
+ "bending": {
+  "ph": "/'bendiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 彎曲; 彎曲度",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bending"
+ },
+ "bendy": {
+  "ph": "/'bendi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易彎曲的,柔韌的",
+    "def": "Divided into an even number of bends; -- said of a shield or"
+   }
+  ],
+  "forms": "最高級 bendiest"
+ },
+ "beneath": {
+  "ph": "/bi'ni:θ/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在...下方",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在...下方",
+    "def": ""
+   }
+  ]
+ },
+ "benedetti": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Benedetti)人名；(西)貝內德蒂；(意、法)貝內代蒂",
+    "def": ""
+   }
+  ]
+ },
+ "benedetto": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Benedetto)人名；(西)貝內德託；(葡)貝內代託",
+    "def": ""
+   }
+  ]
+ },
+ "benedict": {
+  "ph": "/'benidikt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新婚男人",
+    "def": "United States anthropologist (1887-1948)"
+   }
+  ]
+ },
+ "benedictine": {
+  "ph": "/,beni'diktain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "本篤會的僧,一種甜酒",
+    "def": "a monk or nun belonging to the order founded by Saint Benedict"
+   },
+   {
+    "pos": "adj.",
+    "zh": "本篤的,本篤會的",
+    "def": "of or relating to Saint Benedict or his works"
+   }
+  ],
+  "forms": "複數 benedictines"
+ },
+ "benediction": {
+  "ph": "/.beni'dikʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祝福",
+    "def": "a ceremonial prayer invoking divine protection"
+   }
+  ],
+  "forms": "複數 benedictions"
+ },
+ "benefaction": {
+  "ph": "/.beni'fækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "善行, 施惠助人, 捐贈",
+    "def": "a contribution of money or assistance"
+   }
+  ],
+  "forms": "複數 benefactions"
+ },
+ "benefactor": {
+  "ph": "/'benifæktә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "恩人, 捐助者, 施主",
+    "def": "a person who helps people or institutions (especially with financial help)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 捐贈人, 贈送人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 benefactors"
+ },
+ "benefactress": {
+  "ph": "/'benifæktris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女施主, 女恩人",
+    "def": "a woman benefactor"
+   }
+  ]
+ },
+ "benefice": {
+  "ph": "/'benifis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖職人員的財產, 聖俸, 有俸聖職",
+    "def": "an endowed church office giving income to its holder"
+   }
+  ],
+  "forms": "複數 benefices｜過去分詞 beneficed｜過去式 beneficed｜第三人稱單數 benefices｜現在分詞 beneficing"
+ },
+ "beneficence": {
+  "ph": "/bi'nefisәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慈善, 善行, 贈物",
+    "def": "doing good; feeling beneficent"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 捐款",
+    "def": ""
+   }
+  ]
+ },
+ "beneficent": {
+  "ph": "/bi'nefisәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "仁慈的, 慈善的, 善行的",
+    "def": "doing or producing good"
+   }
+  ]
+ },
+ "beneficial": {
+  "ph": "/.beni'fiʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有益的, 受益的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 有使用權的, 可享利益的",
+    "def": ""
+   }
+  ]
+ },
+ "beneficially": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "受益地；獲利地；有使用權地",
+    "def": ""
+   }
+  ]
+ },
+ "beneficiary": {
+  "ph": "/.beni'fiʃәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "受惠者, 受益人",
+    "def": "the recipient of funds or other benefits"
+   },
+   {
+    "pos": "adj.",
+    "zh": "受封的",
+    "def": "having or arising from a benefice"
+   }
+  ],
+  "forms": "複數 beneficiaries"
+ },
+ "benefit": {
+  "ph": "/'benifit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利益",
+    "def": "financial assistance in time of need"
+   },
+   {
+    "pos": "vt.",
+    "zh": "有益於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "受益",
+    "def": ""
+   }
+  ],
+  "forms": "複數 benefits｜過去分詞 benefited｜第三人稱單數 benefits｜過去式 benefited｜現在分詞 benefiting"
+ },
+ "benefiting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "有益於, 有助於（benefit的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 benefiting"
+ },
+ "benefits": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "利益, 收益；福利, 效益（benefit的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "benelux": {
+  "ph": "/'benilʌks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比荷盧經濟聯盟",
+    "def": "a customs union comprising Belgium and Netherlands and Luxembourg"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 比, 嗬, 盧經濟聯盟",
+    "def": ""
+   }
+  ]
+ },
+ "benetton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝納通（服裝品牌名, 也是曾經的F1車隊名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 benettons"
+ },
+ "benevolence": {
+  "ph": "/bi'nevәlәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "善意, 慈悲, 善行",
+    "def": "disposition to do good"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 捐助物, 捐款, 仁慈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 benevolences"
+ },
+ "benevolent": {
+  "ph": "/bi'nevәlәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "善意的, 慈善的",
+    "def": "intending or showing kindness"
+   }
+  ]
+ },
+ "benevolently": {
+  "ph": "/bi'nevәlәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "仁慈地, 慈善地",
+    "def": ""
+   }
+  ]
+ },
+ "benfica": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "本菲卡（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "bengal": {
+  "ph": "/beŋ'^ɔ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孟加拉（位於亞洲）",
+    "def": "a region whose eastern part is now Bangladesh and whose western part is included in India"
+   }
+  ]
+ },
+ "bengali": {
+  "ph": "/beŋ'^ɔ:li/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孟加拉人",
+    "def": "(Hinduism) a member of a people living in Bangladesh and West Bengal (mainly Hindus)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "孟加拉的",
+    "def": ""
+   }
+  ]
+ },
+ "benghazi": {
+  "ph": "/ben'ga:zi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "班加西（利比亞北部港口城市）",
+    "def": "port in northern Libya on the Gulf of Sidra; formerly a joint capital of Libya with Tripoli"
+   }
+  ]
+ },
+ "beni": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安良城紅（日本歌手名）；貝尼省（玻利維亞的一個省）；貝尼酒吧（上海市的一家酒吧名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beni"
+ },
+ "benighted": {
+  "ph": "/bi'naitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "趕路到天黑的, 陷入黑暗的, 愚昧的",
+    "def": ""
+   }
+  ]
+ },
+ "benign": {
+  "ph": "/bi'nain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "善良的, 良性的",
+    "def": "not dangerous to health; not recurrent or progressive (especially of a tumor)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 良性的",
+    "def": ""
+   }
+  ]
+ },
+ "benignly": {
+  "ph": "/bi'nainli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "善良地, 寬厚地",
+    "def": ""
+   }
+  ]
+ },
+ "benin": {
+  "ph": "/be'nin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝南灣(幾內亞灣一部分,靠西非的奈及利亞、貝南和多哥等國)",
+    "def": ""
+   }
+  ]
+ },
+ "benison": {
+  "ph": "/'benizәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祝福",
+    "def": "a spoken blessing"
+   }
+  ],
+  "forms": "複數 benisons"
+ },
+ "benito": {
+  "ph": "/bә'naitәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[航空](連續波)飛機導航裝置",
+    "def": ""
+   }
+  ]
+ },
+ "benjamin": {
+  "ph": "/'bendʒәmin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 安息香",
+    "def": ""
+   }
+  ]
+ },
+ "benn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "本（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "benne": {
+  "ph": "/'beni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡麻（等於sesame）",
+    "def": ""
+   }
+  ]
+ },
+ "bennet": {
+  "ph": "/'benit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水楊梅, 花梗",
+    "def": "avens of Virginia having pale or greenish yellow flowers"
+   }
+  ]
+ },
+ "bennett": {
+  "ph": "/'benit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "班尼特（男子名, 等於Benedict）",
+    "def": "United States aviator who (with Richard E. Byrd) piloted the first flight over the North Pole (1890-1928)"
+   }
+  ]
+ },
+ "benny": {
+  "ph": "/'beni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安非他明(藥片)",
+    "def": "United States comedian known for his timeing and delivery and self-effacing humor (1894-1974)"
+   }
+  ],
+  "forms": "複數 bennies"
+ },
+ "benoit": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯努瓦, 貝努瓦（人名）",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "伯諾伊特（地名, 在美國）",
+    "def": ""
+   }
+  ]
+ },
+ "benson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "班森（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "bent": {
+  "ph": "/bent/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "彎曲的, 決心的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "愛好",
+    "def": "a relatively permanent inclination to react in a particular way"
+   },
+   {
+    "pos": "",
+    "zh": "bend的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bent｜過去式 bent｜複數 bents"
+ },
+ "bentgrass": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "翦股穎屬",
+    "def": ""
+   }
+  ]
+ },
+ "bentham": {
+  "ph": "/'bentәm, 'benθәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊沁（英國哲學家）",
+    "def": "English philosopher and jurist; founder of utilitarianism (1748-1831)"
+   }
+  ]
+ },
+ "benthamite": {
+  "ph": "/'benθәmait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "功利主義者, 邊沁學說者",
+    "def": "One who believes in Benthamism."
+   }
+  ],
+  "forms": "複數 benthamites"
+ },
+ "benthic": {
+  "ph": "/'benθik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 海底的, 海底生物的",
+    "def": ""
+   }
+  ]
+ },
+ "benthos": {
+  "ph": "/'benθɒs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海底, 海底生物, 海底的動植物群",
+    "def": "a region including the bottom of the sea and the littoral zones"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 海底生物",
+    "def": ""
+   }
+  ]
+ },
+ "bentinck": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bentinck)人名；(英、荷)本廷克",
+    "def": ""
+   }
+  ]
+ },
+ "bentley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賓利（汽車品牌或姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "bento": {
+  "ph": "/'bentәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（日）盒飯（等於obento）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bentos"
+ },
+ "benton": {
+  "ph": "/'bentәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "本頓（姓氏）",
+    "def": "United States artist whose paintings portrayed life in the Midwest and South (1889-1975)"
+   }
+  ]
+ },
+ "bentwood": {
+  "ph": "/'bentwud/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "彎木製的",
+    "def": ""
+   }
+  ]
+ },
+ "benumb": {
+  "ph": "/bi'nʌm/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使失去感覺, 使遲鈍, 使麻木",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 benumbed｜第三人稱單數 benumbs｜過去分詞 benumbed｜現在分詞 benumbing"
+ },
+ "benvenuto": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Benvenuto)人名；(西、意)本韋努託",
+    "def": ""
+   }
+  ]
+ },
+ "benz": {
+  "ph": "/bents/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賓士(汽車)",
+    "def": ""
+   }
+  ]
+ },
+ "benzene": {
+  "ph": "/'benzi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苯",
+    "def": "a colorless liquid hydrocarbon; highly inflammable; carcinogenic; the simplest of the aromatic compounds"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 苯",
+    "def": ""
+   }
+  ]
+ },
+ "benzine": {
+  "ph": "/'benzi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕質汽油",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 汽油; 揮發油",
+    "def": ""
+   }
+  ]
+ },
+ "benzodiazepine": {
+  "ph": "/,benzәjdai'æzәpi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[化]苯(並)二氮■( 用於製造各種鎮靜藥)",
+    "def": "any of several similar lipophilic amines used as tranquilizers or sedatives or hypnotics or muscle relaxants; chronic use can lead to dependency"
+   }
+  ],
+  "forms": "複數 benzodiazepines｜第三人稱單數 benzodiazepines"
+ },
+ "beowulf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝奧武夫（有記載的最早的一部英國文學作品）",
+    "def": "the legendary hero of an anonymous Old English epic poem composed in the early 8th century; he slays a monster and becomes king but dies fighting a dragon"
+   }
+  ]
+ },
+ "bequeath": {
+  "ph": "/bi'kwi:ð/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "遺贈, 遺留",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 遺贈, 遺留...給",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bequeathed｜過去分詞 bequeathed｜第三人稱單數 bequeaths｜現在分詞 bequeathing"
+ },
+ "bequest": {
+  "ph": "/bi'kwest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遺贈物, 遺產, 遺贈",
+    "def": "(law) a gift of personal property by will"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 遺產",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bequests｜過去式 bequested"
+ },
+ "berate": {
+  "ph": "/bi'reit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "嚴責",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 berated｜現在分詞 berating｜過去分詞 berated｜第三人稱單數 berates"
+ },
+ "berber": {
+  "ph": "/'bә:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏柏爾人, 柏柏爾語",
+    "def": "a member of an indigenous people of northern Africa"
+   },
+   {
+    "pos": "adj.",
+    "zh": "柏柏爾人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 berbers"
+ },
+ "berchtesgaden": {
+  "ph": "/'bεrʃtəs,ɡɑ:dən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝希特斯加登（德國東南端邊境城市）",
+    "def": ""
+   }
+  ]
+ },
+ "berdichev": {
+  "ph": "/bə'di:tʃef/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "別爾季切夫（烏克蘭一城市）",
+    "def": ""
+   }
+  ]
+ },
+ "bereave": {
+  "ph": "/bi'ri:v/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使孤寂, 使喪失, 使失去",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bereaved｜第三人稱單數 bereaves｜現在分詞 bereaving｜過去式 bereaved"
+ },
+ "bereaved": {
+  "ph": "/bi'ri:vd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喪失親人的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "bereave的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bereaved"
+ },
+ "bereavement": {
+  "ph": "/bi'ri:vmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喪親, 喪友",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bereavements"
+ },
+ "bereft": {
+  "ph": "/bi'reft/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "缺少的, 喪失的, 失去親人的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "bereave的過去式和過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "berenice": {
+  "ph": "/,beri'naisi:; ,beri'ni:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝蕾妮斯（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 berenices"
+ },
+ "berenson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Berenson)人名；(英)貝倫森；(俄)貝倫松",
+    "def": ""
+   }
+  ]
+ },
+ "beresford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Beresford)人名；(英、西)貝雷斯福德",
+    "def": ""
+   }
+  ]
+ },
+ "beret": {
+  "ph": "/'berei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝雷帽",
+    "def": "a cap with no brim or bill; made of soft cloth"
+   }
+  ],
+  "forms": "複數 berets"
+ },
+ "berg": {
+  "ph": "/bә:g/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰山",
+    "def": "Austrian composer in Schoenberg's twelve-tone music system (1885-1935)"
+   }
+  ],
+  "forms": "複數 bergs"
+ },
+ "bergamo": {
+  "ph": "/'beә^әmәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝加莫(義大利北部的一個城市)",
+    "def": ""
+   }
+  ]
+ },
+ "bergamot": {
+  "ph": "/'bә:gәmɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "王子梨, 香檸檬",
+    "def": "small tree with pear-shaped fruit whose oil is used in perfumery; Italy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 佛手柑, 香柑, 薄荷(俗名)",
+    "def": ""
+   }
+  ]
+ },
+ "bergen": {
+  "ph": "/'bә:^әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卑爾根市（位於挪威西南部）",
+    "def": "a port city in southwestern Norway"
+   }
+  ],
+  "forms": "複數 bergens"
+ },
+ "berger": {
+  "ph": "/'bә:dʒә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伯傑(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "bergerac": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝爾熱拉克",
+    "def": ""
+   }
+  ]
+ },
+ "berghaus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Berghaus)人名；(德)貝格豪斯；(英)伯格豪斯",
+    "def": ""
+   }
+  ]
+ },
+ "bergman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bergman)人名；(德、俄、塞、羅、捷、冰)貝格曼；(瑞典)貝里曼；(英、西)伯格曼",
+    "def": "Swedish film actress (1915-1982)"
+   },
+   {
+    "pos": "",
+    "zh": "伯格曼",
+    "def": ""
+   }
+  ]
+ },
+ "bergson": {
+  "ph": "/'bә:^sәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏格森（法國哲學家）",
+    "def": "French philosopher who proposed elan vital as the cause of evolution and development (1859-1941)"
+   }
+  ]
+ },
+ "beria": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝里亞（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "beribboned": {
+  "ph": "/bi'ribәnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有飾緞帶的",
+    "def": ""
+   }
+  ]
+ },
+ "beriberi": {
+  "ph": "/.beri'beri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳氣病",
+    "def": "avitaminosis caused by lack of thiamine (vitamin B1)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腳氣[病]",
+    "def": ""
+   }
+  ]
+ },
+ "bering": {
+  "ph": "/'beriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "白令(Vitus, 1680-1741, 丹麥航海家, 白令海及白令海峽的發現者)",
+    "def": ""
+   }
+  ]
+ },
+ "berk": {
+  "ph": "/bɜ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傻瓜",
+    "def": "a stupid person who is easy to take advantage of"
+   }
+  ],
+  "forms": "複數 berks"
+ },
+ "berkeley": {
+  "ph": "/'bɑ:kli, 'bә:kli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯克利（姓氏）；貝克萊（愛爾蘭主教及哲學家）；伯克利（美國港市）",
+    "def": "Irish philosopher and Anglican bishop who opposed the materialism of Thomas Hobbes (1685-1753)"
+   }
+  ]
+ },
+ "berkhamsted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯克翰斯德",
+    "def": ""
+   }
+  ]
+ },
+ "berkley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Berkley)人名；(英)伯克利",
+    "def": ""
+   }
+  ]
+ },
+ "berks": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "英國柏克斯郡（Berkshire）",
+    "def": ""
+   }
+  ]
+ },
+ "berkshire": {
+  "ph": "/'bә:kʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巴克夏豬",
+    "def": "a county in southern England"
+   }
+  ]
+ },
+ "berle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伯利（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "berlin": {
+  "ph": "/bә:'lin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏林, (軟質)柏林毛線",
+    "def": "capital of Germany located in eastern Germany"
+   }
+  ]
+ },
+ "berliner": {
+  "ph": "/bә'linә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏林市民",
+    "def": "an inhabitant of Berlin"
+   }
+  ],
+  "forms": "複數 berliners"
+ },
+ "berlioz": {
+  "ph": "/'beәliәuz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "柏遼茲(Louis Hector, 1803-1869, 法國作曲家)",
+    "def": ""
+   }
+  ]
+ },
+ "berlitz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Berlitz)人名；(法、西)貝利茨；(德)貝爾利茨",
+    "def": ""
+   }
+  ]
+ },
+ "berlusconi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Berlusconi)人名；(意)貝盧斯科尼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 berlusconi"
+ },
+ "berm": {
+  "ph": "/bә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "城牆與外濠間之狹道, 崖徑",
+    "def": "a narrow ledge or shelf typically at the top or bottom of a slope"
+   }
+  ],
+  "forms": "複數 berms"
+ },
+ "berman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伯曼（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bermans"
+ },
+ "bermuda": {
+  "ph": "/bә'mju:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "百慕大島",
+    "def": "a group of islands in the Atlantic off the Carolina coast; British colony; a popular resort"
+   }
+  ],
+  "forms": "複數 bermudas"
+ },
+ "bermudian": {
+  "ph": "/bə'mju:diən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "百慕大居民",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "百慕大的；百慕大人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bermudians"
+ },
+ "bern": {
+  "ph": "/bә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯爾尼(瑞士首都)",
+    "def": "the capital of Switzerland; located in western Switzerland"
+   }
+  ]
+ },
+ "bernadette": {
+  "ph": "/,bә:nә'det/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯納黛特(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "bernard": {
+  "ph": "/bә:'nɑ:d, 'bә:nәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯納德（男子名）",
+    "def": "French physiologist noted for research on secretions of the alimentary canal and the glycogenic function of the liver (1813-1878)"
+   }
+  ]
+ },
+ "bernardino": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bernardino)人名；(英)伯納迪諾；(西、意、葡)貝爾納迪諾",
+    "def": ""
+   }
+  ]
+ },
+ "bernardo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伯納多（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "bernd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝恩德（德國人名）",
+    "def": ""
+   }
+  ]
+ },
+ "berndt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Berndt)人名；(英)伯恩特；(德)貝恩特",
+    "def": ""
+   }
+  ]
+ },
+ "berne": {
+  "ph": "/bә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯爾尼",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 bernest"
+ },
+ "berners": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(berner 的複數)  [人名] [英格蘭人姓氏] 伯納來源於諾曼底教名+日耳曼語, 含義是“熊+軍隊”(bear+army); [人名] [英格蘭人姓氏] 伯納職業名稱, 燒石灰或木炭者, 來源於古英語, 含義是“燒”(to burn); [人名] [英格蘭人姓氏] 伯納職業名稱, 養犬者, 來源於古北方法語, 含義是“麩皮”(bran), 由麩皮喂之而得名; [人名] [英格蘭人姓氏] 伯納 Barnes,Bourne的變體",
+    "def": ""
+   }
+  ]
+ },
+ "bernhard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伯恩哈德（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bernhards"
+ },
+ "bernhardt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bernhardt)人名；(羅)貝恩哈特；(法)貝納爾；(英、德、西、瑞典、捷)伯恩哈特",
+    "def": "French actress (1844-1923)"
+   }
+  ]
+ },
+ "bernice": {
+  "ph": "/'bә:nis, bә:'ni:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏妮絲（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "bernie": {
+  "ph": "/'bә:ni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯尼（男子名）；[俚]可卡因（等於cocaine）",
+    "def": ""
+   }
+  ]
+ },
+ "bernini": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bernini)人名；(意)貝爾尼尼",
+    "def": "Italian sculptor and architect of the baroque period in Italy; designed many churches and chapels and tombs and fountains (1598-1680)"
+   },
+   {
+    "pos": "",
+    "zh": "貝爾尼尼",
+    "def": ""
+   }
+  ]
+ },
+ "bernstein": {
+  "ph": "/bә:n'stein/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[德]琥珀, 伯恩斯坦(姓氏)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bernsteins"
+ },
+ "berri": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Berri)人名；(法、意、阿拉伯)貝里",
+    "def": ""
+   }
+  ],
+  "forms": "複數 berri"
+ },
+ "berried": {
+  "ph": "/'berid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "結漿果的, 漿果狀的, 有卵的",
+    "def": ""
+   }
+  ]
+ },
+ "berry": {
+  "ph": "/'beri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漿果",
+    "def": "any of numerous small and pulpy edible fruits; used as desserts or in making jams and jellies and preserves"
+   },
+   {
+    "pos": "vi.",
+    "zh": "採集漿果",
+    "def": ""
+   }
+  ],
+  "forms": "複數 berries｜第三人稱單數 berries｜過去式 berried｜現在分詞 berrying｜過去分詞 berried"
+ },
+ "berserk": {
+  "ph": "/bә'sә:k/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狂暴的, 瘋的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "狂暴地, 瘋地",
+    "def": ""
+   }
+  ]
+ },
+ "berserker": {
+  "ph": "/bә(:)'sә:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狂暴的人",
+    "def": "one of the ancient Norse warriors legendary for working themselves into a frenzy before a battle and fighting with reckless savagery and insane fury"
+   },
+   {
+    "pos": "adv.",
+    "zh": "不披掛甲冑地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 berserkers"
+ },
+ "bert": {
+  "ph": "/b\\\\\\\\:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯特（男子名, 等於Burt）",
+    "def": ""
+   }
+  ]
+ },
+ "berth": {
+  "ph": "/bә:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船岸之間的水區, 錨地, 臥鋪",
+    "def": "a bed on a ship or train; usually in tiers"
+   },
+   {
+    "pos": "vi.",
+    "zh": "停泊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使停泊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 berths｜過去式 berthed｜過去分詞 berthed｜現在分詞 berthing｜第三人稱單數 berths"
+ },
+ "bertha": {
+  "ph": "/'bә:θә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女式上衣的寬領",
+    "def": "A kind of collar or cape worn by ladies."
+   }
+  ]
+ },
+ "berthe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Berthe)人名；(德)貝爾特",
+    "def": ""
+   }
+  ]
+ },
+ "bertie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯蒂（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "bertram": {
+  "ph": "/'bә:trәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯特倫（男子名）",
+    "def": "Pellitory of Spain (Anacyclus pyrethrum)."
+   }
+  ]
+ },
+ "bertrand": {
+  "ph": "/'b\\\\\\\\:trәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯特蘭(男子名)",
+    "def": ""
+   }
+  ]
+ },
+ "berwick": {
+  "ph": "/'berik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝里克郡（英國蘇格蘭原郡名）；伯威克（墨爾本東南40公里）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 berwicks"
+ },
+ "berwyn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "伯溫（美國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "beryl": {
+  "ph": "/'beril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠玉, 綠寶石",
+    "def": "the chief source of beryllium; colored transparent varieties are valued as gems"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 綠柱石",
+    "def": ""
+   }
+  ]
+ },
+ "beryllium": {
+  "ph": "/be'riljәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鈹",
+    "def": "a light strong brittle grey toxic bivalent metallic element"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鈹Be",
+    "def": ""
+   }
+  ]
+ },
+ "bes": {
+  "ph": "/bes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(埃及神話中的)喜神貝斯",
+    "def": ""
+   }
+  ]
+ },
+ "besant": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "銀幣飾",
+    "def": ""
+   }
+  ]
+ },
+ "beseech": {
+  "ph": "/bi'si:tʃ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "懇求, 哀求",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 beseeching｜過去式 beseeched｜第三人稱單數 beseeches｜過去分詞 beseeched"
+ },
+ "beseeching": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懇求的, 哀求的",
+    "def": "begging"
+   }
+  ]
+ },
+ "beseechingly": {
+  "ph": "/bi'si:tʃiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "懇求地",
+    "def": ""
+   }
+  ]
+ },
+ "beset": {
+  "ph": "/bi'set/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "圍繞, 使苦惱, 鑲嵌",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 beset｜過去式 beset｜第三人稱單數 besets｜現在分詞 besetting"
+ },
+ "besetting": {
+  "ph": "/bi'setiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不斷侵襲的",
+    "def": ""
+   }
+  ]
+ },
+ "beside": {
+  "ph": "/bi'said/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在旁邊",
+    "def": ""
+   }
+  ]
+ },
+ "besides": {
+  "ph": "/bi'saidz/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "除...之外",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "而且, 此外",
+    "def": ""
+   }
+  ]
+ },
+ "besiege": {
+  "ph": "/bi'si:dʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "圍攻, 包圍",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 besieged｜過去式 besieged｜現在分詞 besieging｜第三人稱單數 besieges"
+ },
+ "besieged": {
+  "ph": "/bɪ'sɪdʒd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "包圍, 圍困, 圍攻( besiege的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 besieged｜過去式 besieged"
+ },
+ "besieger": {
+  "ph": "/bi'si:dʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圍攻者, 圍攻軍",
+    "def": "an enemy who lays siege to your position"
+   }
+  ],
+  "forms": "複數 besiegers｜第三人稱單數 besiegers"
+ },
+ "besieging": {
+  "ph": "/biˈsi:dʒɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "包圍, 圍困, 圍攻( besiege的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "複數 besiegings｜現在分詞 besieging"
+ },
+ "besmirch": {
+  "ph": "/bi'smә:tʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "弄汙",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 besmirched｜過去式 besmirched｜現在分詞 besmirching｜第三人稱單數 besmirches｜複數 besmirches"
+ },
+ "besot": {
+  "ph": "/bi'sɒt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使糊塗, 使痴迷, 使沉醉",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 besotted｜過去式 besotted｜現在分詞 besotting｜第三人稱單數 besots"
+ },
+ "besotted": {
+  "ph": "/bi'sɒtid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愚蠢的, 糊塗的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 besotted"
+ },
+ "bespeak": {
+  "ph": "/bi'spi:k/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "預約, 訂, 表示",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "預約",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 bespeaks｜現在分詞 bespeaking｜複數 bespeaks｜過去式 bespoke｜過去分詞 bespoken"
+ },
+ "bespectacled": {
+  "ph": "/bi'spektәkld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "戴眼鏡的",
+    "def": ""
+   }
+  ]
+ },
+ "bespoke": {
+  "ph": "/bi'spәuk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "bespeak的過去式和過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "bess": {
+  "ph": "/bes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝絲（女子名、上帝就是誓約之義）",
+    "def": ""
+   }
+  ]
+ },
+ "bessarabia": {
+  "ph": "/,besә'reibiә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比薩拉比亞[蘇聯東南部一地區](曾屬羅馬尼亞)",
+    "def": ""
+   }
+  ]
+ },
+ "bessemer": {
+  "ph": "/'besimә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝西默(①姓氏 ②Sir Henry, 1813-1898, 首創酸性轉爐鋼的英國工程師)",
+    "def": ""
+   }
+  ]
+ },
+ "bessie": {
+  "ph": "/'besi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝茜（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "best": {
+  "ph": "/best/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最好的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "最好地",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "最好的人",
+    "def": "the supreme effort one can make"
+   }
+  ],
+  "forms": "比較級 best｜第三人稱單數 bests｜過去分詞 bested｜現在分詞 besting｜過去式 bested"
+ },
+ "best man": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "男儐相",
+    "def": ""
+   }
+  ]
+ },
+ "best seller": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "暢銷書, 暢銷書作者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 暢銷品",
+    "def": ""
+   }
+  ]
+ },
+ "best-selling": {
+  "ph": "/'best'seliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最暢銷的, 暢銷作品的",
+    "def": ""
+   }
+  ]
+ },
+ "bestial": {
+  "ph": "/'bestjәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "似野獸的, 殘忍的, 卑劣的",
+    "def": ""
+   }
+  ]
+ },
+ "bestiality": {
+  "ph": "/,besti'æliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獸性, 獸行, 獸慾",
+    "def": "the stupid brutal quality of a beast"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 獸姦, 獸性, 獸行",
+    "def": ""
+   }
+  ]
+ },
+ "bestiary": {
+  "ph": "/'bestiәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物寓言集",
+    "def": "a medieval book (usually illustrated) with allegorical and amusing descriptions of real and fabled animals"
+   }
+  ],
+  "forms": "複數 bestiaries"
+ },
+ "bestir": {
+  "ph": "/bi'stә:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "激勵, 使忙碌",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bestirred｜現在分詞 bestirring｜過去分詞 bestirred｜第三人稱單數 bestirs"
+ },
+ "bestow": {
+  "ph": "/bi'stәu/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "授予, 使用, 貯藏, 留宿",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bestowed｜過去式 bestowed｜現在分詞 bestowing｜第三人稱單數 bestows"
+ },
+ "bestowal": {
+  "ph": "/bi'stәuәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "贈與, 給與",
+    "def": "the act of conferring an honor or presenting a gift"
+   }
+  ]
+ },
+ "bestride": {
+  "ph": "/bi'straid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "跨騎, 橫跨, 跨過, 控制",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 bestrides｜現在分詞 bestriding｜過去式 bestrode｜過去分詞 bestrode"
+ },
+ "bestrode": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "bestride的過去式和過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "bestseller": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暢銷書",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bestsellers"
+ },
+ "bestselling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "暢銷的",
+    "def": ""
+   }
+  ]
+ },
+ "bet": {
+  "ph": "/bet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打賭, 賭注",
+    "def": "the act of gambling"
+   },
+   {
+    "pos": "v.",
+    "zh": "打賭",
+    "def": "maintain with or as if with a bet"
+   }
+  ],
+  "forms": "複數 bets｜現在分詞 betting｜過去式 bet｜第三人稱單數 bets｜過去分詞 bet"
+ },
+ "beta": {
+  "ph": "/'beitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘字母表的第二個字母",
+    "def": "the 2nd letter of the Greek alphabet"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] β(希臘文的第二個字母), 乙種",
+    "def": ""
+   }
+  ],
+  "forms": "複數 betas"
+ },
+ "betel": {
+  "ph": "/'bi:tәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] д葉(用д葉卷一些檳榔子碎片及石灰,作為咀嚼劑,有強壯、興奮作用)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 betels"
+ },
+ "beth": {
+  "ph": "/beθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝絲（女子名, 等於Elizabeth）",
+    "def": "the 2nd letter of the Hebrew alphabet"
+   }
+  ]
+ },
+ "bethel": {
+  "ph": "/'beθәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖地, 教堂, (非英國國教的)禮拜堂",
+    "def": "a house of worship (especially one for sailors)"
+   }
+  ]
+ },
+ "bethesda": {
+  "ph": "/be'θezdə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝塞斯達（美國馬里蘭州中部城市）；畢士大（傳說中耶路撒冷附近的池子, 據說池水可治百病）",
+    "def": ""
+   }
+  ]
+ },
+ "bethlehem": {
+  "ph": "/'beθlihem/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯利恆(猶太教、基督教聖地)",
+    "def": "a town in eastern Pennsylvania on the Lehigh River to the northwest of Philadelphia; an important center for steel production"
+   }
+  ]
+ },
+ "betide": {
+  "ph": "/bi'taid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "降臨於, 預示",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發生",
+    "def": ""
+   }
+  ],
+  "forms": "複數 betides｜現在分詞 betiding｜過去式 betided｜第三人稱單數 betides｜過去分詞 betided"
+ },
+ "betoken": {
+  "ph": "/bi'tәukn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "預示",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 betokens｜現在分詞 betokening｜過去式 betokened｜過去分詞 betokened"
+ },
+ "betray": {
+  "ph": "/bi'trei/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "出賣, 背叛, 辜負, 暴露",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 出賣, 背叛, 洩漏",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 betrayed｜過去式 betrayed｜現在分詞 betraying｜第三人稱單數 betrays"
+ },
+ "betrayal": {
+  "ph": "/bi'treiәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "背叛, 辜負",
+    "def": "the quality of aiding an enemy"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 背叛, 通敵, 背信",
+    "def": ""
+   }
+  ],
+  "forms": "複數 betrayals"
+ },
+ "betrayed": {
+  "ph": "/biˈtreid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對…不忠( betray的過去式和過去分詞 ); 背叛; 出賣; 洩露",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 betrayed｜過去式 betrayed"
+ },
+ "betrayer": {
+  "ph": "/bi'treiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叛徒, 叛國賊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 背信者, 背叛者, 叛逆者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 betrayers"
+ },
+ "betraying": {
+  "ph": "/biˈtreiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對…不忠( betray的現在分詞 ); 背叛; 出賣; 洩露",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 betraying"
+ },
+ "betroth": {
+  "ph": "/bi'trәuð/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "訂婚, 許配",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 訂婚",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 betrothed｜過去式 betrothed｜現在分詞 betrothing｜第三人稱單數 betroths"
+ },
+ "betrothal": {
+  "ph": "/bi'trәuðәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "婚約",
+    "def": "a mutual promise to marry"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 婚約, 訂婚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 betrothals"
+ },
+ "betrothed": {
+  "ph": "/bi'trәuðd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "已訂婚者",
+    "def": "the person to whom you are engaged"
+   },
+   {
+    "pos": "adj.",
+    "zh": "訂婚了的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 betrothed｜過去式 betrothed"
+ },
+ "betsy": {
+  "ph": "/'betsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝琪（女子名, 等於Elizabeth）",
+    "def": ""
+   }
+  ]
+ },
+ "bett": {
+  "ph": "/bet/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "英國教育技術展（the British Educational Training and Technology Show）",
+    "def": ""
+   }
+  ]
+ },
+ "bette": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種地中海帆船；（法）甜菜",
+    "def": ""
+   }
+  ]
+ },
+ "better": {
+  "ph": "/'betә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "較好的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "比較好",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bettered｜複數 betters｜現在分詞 bettering｜過去式 bettered｜第三人稱單數 betters"
+ },
+ "betterment": {
+  "ph": "/'betәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "改進, 改善, (不動產)增值",
+    "def": "an improvement that adds to the value of a property or facility"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 改良, 改善, 地產增值",
+    "def": ""
+   }
+  ]
+ },
+ "betting": {
+  "ph": "/'betiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打賭",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 打賭, 賭博",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 betting｜複數 bettings"
+ },
+ "betting shop": {
+  "ph": "/ˈbetiŋ ʃɔp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英>彩票銷售點",
+    "def": ""
+   }
+  ]
+ },
+ "bettor": {
+  "ph": "/'betә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打賭者",
+    "def": "someone who bets"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 賭徒, 打賭者",
+    "def": ""
+   }
+  ]
+ },
+ "betts": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Betts)人名；(英、德、瑞典)貝茨",
+    "def": ""
+   }
+  ]
+ },
+ "betty": {
+  "ph": "/'beti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝蒂（女子名）",
+    "def": "A short bar used by thieves to wrench doors open."
+   }
+  ]
+ },
+ "between": {
+  "ph": "/bi'twi:n/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在...之間",
+    "def": ""
+   }
+  ]
+ },
+ "betwixt": {
+  "ph": "/bi'twikst/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在其間, 不走極端",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "在...之間, 在...中間",
+    "def": ""
+   }
+  ]
+ },
+ "bev": {
+  "ph": "/bev/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 十億電伏",
+    "def": ""
+   }
+  ]
+ },
+ "bevan": {
+  "ph": "/'bevәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝文(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "bevel": {
+  "ph": "/'bevәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斜面, 斜角, 斜角規",
+    "def": "two surfaces meeting at an angle different from 90 degrees"
+   },
+   {
+    "pos": "vi.",
+    "zh": "成斜角",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成斜角",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bevels｜過去式 bevelled｜過去分詞 bevelled｜現在分詞 bevelling｜第三人稱單數 bevels"
+ },
+ "beveled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有斜面的",
+    "def": ""
+   }
+  ]
+ },
+ "bevelled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 傾斜的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bevelled"
+ },
+ "beverage": {
+  "ph": "/'bevәridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飲料",
+    "def": "any liquid suitable for drinking"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 飲料(如牛奶、茶、咖啡、啤酒等)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 beverages"
+ },
+ "beveridge": {
+  "ph": "/'bevәridʒ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "貝弗裡奇(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "beverley": {
+  "ph": "/'bevәli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝弗利(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "beverly": {
+  "ph": "/'bevәli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝弗莉（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "bevin": {
+  "ph": "/'bevin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "boy <英>達到服兵役年齡但被選去當礦工的青年",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bevins"
+ },
+ "bevvy": {
+  "ph": "/ˈbevi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飲料（尤指含酒精飲料）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bevvies"
+ },
+ "bevy": {
+  "ph": "/'bevi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一群",
+    "def": "a large gathering of people of a particular type"
+   }
+  ],
+  "forms": "複數 bevies"
+ },
+ "bewail": {
+  "ph": "/bi'weil/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "悲悼, 哀泣, 哀嘆",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bewailing｜過去式 bewailed｜第三人稱單數 bewails｜過去分詞 bewailed"
+ },
+ "beware": {
+  "ph": "/bi'wєә/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "小心, 謹防",
+    "def": "be on one's guard; be cautious or wary about; be alert to"
+   }
+  ],
+  "forms": "現在分詞 bewaring｜過去式 bewared｜第三人稱單數 bewares｜過去分詞 bewared"
+ },
+ "bewdley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "比尤德利",
+    "def": ""
+   }
+  ]
+ },
+ "bewhiskered": {
+  "ph": "/bi'wiskәd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "有髯的, 陳舊的",
+    "def": ""
+   }
+  ]
+ },
+ "bewick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比威克（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "bewilder": {
+  "ph": "/bi'wildә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使迷惑, 使不知所措",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bewildered｜過去式 bewildered｜第三人稱單數 bewilders｜現在分詞 bewildering｜複數 bewilders"
+ },
+ "bewildered": {
+  "ph": "/bɪ'wɪldəd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "困惑的; 暈眩的; 混亂的; 不知所措的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使困惑",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bewildered｜過去式 bewildered"
+ },
+ "bewildering": {
+  "ph": "/bi'wildәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人困惑的, 使人昏亂的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bewildering"
+ },
+ "bewilderingly": {
+  "ph": "/bi'wildәriŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人困惑地, 使人昏亂地",
+    "def": ""
+   }
+  ]
+ },
+ "bewilderment": {
+  "ph": "/bi'wildәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "困惑, 昏亂",
+    "def": "confusion resulting from failure to understand"
+   }
+  ],
+  "forms": "複數 bewilderments"
+ },
+ "bewitch": {
+  "ph": "/bi'witʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "施魔法於, 蠱惑, 使著迷",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 bewitched｜現在分詞 bewitching｜過去式 bewitched｜第三人稱單數 bewitches"
+ },
+ "bewitched": {
+  "ph": "/bɪ'wɪtʃt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "對（某人）施魔法( bewitch的過去式和過去分詞 ); 令（某人）心醉, 入迷; 魂迷魄蕩",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 bewitched｜過去分詞 bewitched"
+ },
+ "bewitching": {
+  "ph": "/bi'witʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "迷人的, 令人銷魂的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bewitching"
+ },
+ "bewitchment": {
+  "ph": "/bi'witʃmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中妖術, 魔力, 妖術, 迷惑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bewitchments"
+ },
+ "bewley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Bewley)人名；(英)比利",
+    "def": ""
+   }
+  ]
+ },
+ "bexley": {
+  "ph": "/'beksli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貝克斯利（地名）；碧斯利",
+    "def": ""
+   }
+  ]
+ },
+ "bey": {
+  "ph": "/bei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(奧斯曼帝國,土爾其較小地區的)州長,土耳其對要人的尊稱",
+    "def": "(formerly) a title of respect for a man in Turkey or Egypt"
+   }
+  ],
+  "forms": "複數 beys"
+ },
+ "beyond": {
+  "ph": "/bi'jɒnd/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "超過, 在那一邊, 遲於",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在遠處",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "更遠處",
+    "def": ""
+   }
+  ]
+ },
+ "bezel": {
+  "ph": "/'bezәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 視窗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bezels"
+ }
+}

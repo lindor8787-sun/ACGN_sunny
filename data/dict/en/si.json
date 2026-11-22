@@ -1,0 +1,4527 @@
+{
+ "si": {
+  "ph": "/si:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 國際單位制, 序列介面, 移入",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 矽(14號元素,舊名矽)",
+    "def": ""
+   }
+  ]
+ },
+ "siad": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "中加可持續農業發展專案（The Sustainable Issue of Agricultural Development）；謝菲爾德藝術與設計學院（Sheffield Institute of Art and Design）",
+    "def": ""
+   }
+  ]
+ },
+ "siam": {
+  "ph": "/'saiæm, sai'æm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暹羅",
+    "def": ""
+   }
+  ]
+ },
+ "siamese": {
+  "ph": "/saiә'mi:z, 'saiә-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "暹羅的, 非常相似的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "暹羅人, 暹羅語",
+    "def": "an inlet with two or more couplings to which a hose can be attached so that fire engines can pump water into the sprinkler system of a building"
+   }
+  ],
+  "forms": "過去式 siamesed"
+ },
+ "sian": {
+  "ph": "/'ʃi:'ɑ:n, ʃjɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西安（陝西省的省會）",
+    "def": ""
+   }
+  ]
+ },
+ "sib": {
+  "ph": "/sib/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有血親關係的, 近親的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "親族, 血親親屬, 氏族",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sibs"
+ },
+ "sibelius": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西貝流士（古典音樂家）",
+    "def": "Finnish composer (1865-1957)"
+   }
+  ]
+ },
+ "siberia": {
+  "ph": "/sai'biәriә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西伯利亞",
+    "def": "a vast Asian region of Russia; famous for long cold winters"
+   }
+  ]
+ },
+ "siberian": {
+  "ph": "/sai'biәriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "西伯利亞（人）的；來自西伯利亞的",
+    "def": "of or relating to or characteristic of Siberia or the Siberians"
+   }
+  ],
+  "forms": "複數 siberians"
+ },
+ "sibilant": {
+  "ph": "/'sibilәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "噝噝作聲的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "齒擦音",
+    "def": "a consonant characterized by a hissing sound (like s or sh)"
+   }
+  ],
+  "forms": "複數 sibilants"
+ },
+ "sibling": {
+  "ph": "/'sibliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兄弟, 同胞",
+    "def": "a person's brother or sister"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 同胞(兄弟姐妹)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 siblings"
+ },
+ "sibyl": {
+  "ph": "/'sibil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女巫, 女算命者, 女預言家",
+    "def": "a woman who tells fortunes"
+   }
+  ]
+ },
+ "sic": {
+  "ph": "/sik/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "原文如此",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sicking｜過去式 sicked｜第三人稱單數 sics｜過去分詞 sicked"
+ },
+ "sichuan": {
+  "ph": "/'si:tʃ'wɑ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "四川(位於中國西南部、長江上游)",
+    "def": ""
+   }
+  ]
+ },
+ "sicilian": {
+  "ph": "/si'siljәn, -liәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "西西里島的",
+    "def": "of or relating to or characteristic of Sicily or the people of Sicily"
+   }
+  ],
+  "forms": "複數 sicilians"
+ },
+ "sicily": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西西里島（義大利一島名）",
+    "def": "the Italian region on the island of Sicily"
+   }
+  ]
+ },
+ "sick": {
+  "ph": "/sik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "病人",
+    "def": "people who are sick"
+   },
+   {
+    "pos": "adj.",
+    "zh": "不舒服, 有病的, 噁心的, 厭惡的, 渴望的, 病態的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "嘔吐, 追擊, 使(狗)去攻擊",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 sicker｜最高級 sickest｜第三人稱單數 sicks"
+ },
+ "sickbay": {
+  "ph": "/ˈsɪkbeɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "船上的醫務室",
+    "def": "(nautical) a room for the treatment of the sick or injured (as on a ship)"
+   }
+  ]
+ },
+ "sickbed": {
+  "ph": "/'sikbed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "病床",
+    "def": "the bed on which a sick person lies"
+   }
+  ],
+  "forms": "過去式 sickbed"
+ },
+ "sicken": {
+  "ph": "/'sikәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "患病, 使厭倦, 使噁心",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "生病, 作嘔",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sickened｜過去式 sickened｜複數 sickens｜現在分詞 sickening｜第三人稱單數 sickens"
+ },
+ "sickened": {
+  "ph": "/ˈsɪkənd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）生病( sicken的過去式和過去分詞 ); 使厭惡, 使噁心",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sickened"
+ },
+ "sickening": {
+  "ph": "/'sikniŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "引起疾病的, 引起嘔吐的, 令人厭惡的, 使人作嘔的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sickening"
+ },
+ "sickeningly": {
+  "ph": "/'sikniŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人厭惡地",
+    "def": ""
+   }
+  ]
+ },
+ "sickle": {
+  "ph": "/sikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐮刀",
+    "def": "an edge tool for cutting grass or crops; has a curved blade and a short handle"
+   }
+  ],
+  "forms": "複數 sickles｜現在分詞 sickling"
+ },
+ "sickly": {
+  "ph": "/'sikli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "病弱的, 令人不快的, 無精打采的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "病態地",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使現病容",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sicklied｜最高級 sickliest｜比較級 sicklier"
+ },
+ "sickness": {
+  "ph": "/'siknis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "疾病, 不健康, 嘔吐",
+    "def": "defectiveness or unsoundness"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sicknesses"
+ },
+ "sicko": {
+  "ph": "/'sikәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美俚>有精神病的人,道德敗壞的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sickos"
+ },
+ "sickroom": {
+  "ph": "/'sikru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "病房",
+    "def": "a room to which a sick person is confined"
+   }
+  ]
+ },
+ "sid": {
+  "ph": "/sid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 安全性標識",
+    "def": ""
+   }
+  ]
+ },
+ "side": {
+  "ph": "/said/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旁邊, 側, 方面, 脅, 側邊, 血統",
+    "def": "a place within a region identified relative to a center or reference location"
+   },
+   {
+    "pos": "adj.",
+    "zh": "旁的, 側的, 次要的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "同意, 支援",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "支援, 贊助",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sides｜過去式 sided｜過去分詞 sided｜現在分詞 siding｜第三人稱單數 sides"
+ },
+ "side-effect": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 side-effects"
+ },
+ "side-on": {
+  "ph": "/said ɔn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "& adv. 從側面（的）",
+    "def": ""
+   }
+  ]
+ },
+ "sideband": {
+  "ph": "/'said,bænd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 邊帶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sidebands"
+ },
+ "sidebar": {
+  "ph": "/'saidbɑ:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "其他選項,工具條",
+    "def": "(law) a courtroom conference between the lawyers and the judge that is held out of the jury's hearing"
+   }
+  ],
+  "forms": "複數 sidebars"
+ },
+ "sideboard": {
+  "ph": "/'saidbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "餐具櫃",
+    "def": "a removable board fitted on the side of a wagon to increase its capacity"
+   }
+  ],
+  "forms": "複數 sideboards"
+ },
+ "sideburn": {
+  "ph": "/ˈsaɪdbɜ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "鬢角",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sideburns"
+ },
+ "sidecar": {
+  "ph": "/'saidkɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(摩托車的)邊車",
+    "def": "a cocktail made of orange liqueur with lemon juice and brandy"
+   }
+  ],
+  "forms": "複數 sidecars"
+ },
+ "sidehill": {
+  "ph": "/'saidhil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山坡, 山側",
+    "def": "The side or slope of a hill; sloping ground; a descent."
+   },
+   {
+    "pos": "adj.",
+    "zh": "山坡的",
+    "def": ""
+   }
+  ]
+ },
+ "sidekick": {
+  "ph": "/'saidkik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夥伴, 插袋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sidekicks"
+ },
+ "sidelight": {
+  "ph": "/'saidlait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "側線, 側燈, 舷燈, 雜聞",
+    "def": "light carried by a boat that indicates the boat's direction; vessels at night carry a red light on the port bow and a green light on the starboard bow"
+   }
+  ],
+  "forms": "複數 sidelights"
+ },
+ "sideline": {
+  "ph": "/'saidlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副業, 旁線, 界線, 兼職, 旁觀者看法",
+    "def": "a line that marks the side boundary of a playing field"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使退出比賽場地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sidelines｜過去分詞 sidelined｜過去式 sidelined｜現在分詞 sidelining｜第三人稱單數 sidelines"
+ },
+ "sidelock": {
+  "ph": "/'said,lɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "= earlock",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sidelocks"
+ },
+ "sidelong": {
+  "ph": "/'saidlɒŋ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "橫向地, 向側面, 斜著, 間接地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "橫的, 斜的, 間接的",
+    "def": ""
+   }
+  ]
+ },
+ "sideman": {
+  "ph": "/'saidmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伴奏者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sidemen"
+ },
+ "sidereal": {
+  "ph": "/sai'diәriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "星的, 恆星的, 恆星引起的, 根據星球執行測定的",
+    "def": "of or relating to the stars or constellations"
+   }
+  ]
+ },
+ "sidesaddle": {
+  "ph": "/'saidsædl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橫鞍, 女鞍",
+    "def": "a saddle for a woman; rider sits with both feet on the same side of the horse"
+   }
+  ]
+ },
+ "sideshow": {
+  "ph": "/'saidʃәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雜耍, 附屬活動, 枝節問題",
+    "def": "a subordinate incident of little importance relative to the main event"
+   }
+  ],
+  "forms": "複數 sideshows"
+ },
+ "sideslip": {
+  "ph": "/'saidslip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "側滑, 私生子",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "側滑",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sideslipping｜過去式 sideslipped"
+ },
+ "sidesplitting": {
+  "ph": "/'saidsplitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人捧腹大笑的",
+    "def": ""
+   }
+  ]
+ },
+ "sidestep": {
+  "ph": "/'saidstep/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "橫跨的一步, 臺階",
+    "def": "a step to one side (as in boxing or dancing)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "橫跨一步躲避, 迴避",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "迴避問題, 躲避打擊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sidestepped｜現在分詞 sidestepping｜第三人稱單數 sidesteps｜過去分詞 sidestepped｜複數 sidesteps"
+ },
+ "sideswipe": {
+  "ph": "/'saidswaip/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "沿邊擦過",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "側擊, 間接的抨擊",
+    "def": "a glancing blow from or on the side of something (especially motor vehicles)"
+   }
+  ],
+  "forms": "現在分詞 sideswiping｜過去式 sideswiped｜第三人稱單數 sideswipes｜過去分詞 sideswiped"
+ },
+ "sidetrack": {
+  "ph": "/'saidtræk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "側線, 次要地位",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "轉入側軌, 轉變話題, 拖延處理",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sidetracked｜過去式 sidetracked｜現在分詞 sidetracking｜複數 sidetracks｜第三人稱單數 sidetracks"
+ },
+ "sidetracked": {
+  "ph": "/ˈsaidtrækt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "轉變話題的, 轉向的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "匯入側線, 轉移目標, 使受牽制( sidetrack的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sidetracked"
+ },
+ "sidewalk": {
+  "ph": "/'saidwɒ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人行道",
+    "def": "walk consisting of a paved area for pedestrians; usually beside a street or roadway"
+   }
+  ],
+  "forms": "複數 sidewalks"
+ },
+ "sidewall": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邊牆, 側壁, 輪胎側壁",
+    "def": "the side of an automobile tire"
+   }
+  ],
+  "forms": "複數 sidewalls｜第三人稱單數 sidewalls"
+ },
+ "sideway": {
+  "ph": "/'saidwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小路, 人行道, 旁路",
+    "def": ""
+   }
+  ]
+ },
+ "sideways": {
+  "ph": "/'saidweiz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向旁邊, 向側面地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "旁邊的, 向側面的",
+    "def": ""
+   }
+  ]
+ },
+ "sidewinder": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "側擊, 橫擊, (美)(非正式)保鏢, 花錢僱用的打手",
+    "def": "small pale-colored desert rattlesnake of southwestern United States; body moves in an s-shaped curve"
+   }
+  ]
+ },
+ "sidewise": {
+  "ph": "/'saidwaiz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向一邊的, 橫斜的",
+    "def": ""
+   }
+  ]
+ },
+ "sidgwick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西奇威克（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "sidi": {
+  "ph": "/'si:di/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(印度和東非的)衣索比亞人, 黑人",
+    "def": ""
+   }
+  ]
+ },
+ "siding": {
+  "ph": "/'saidiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "側線, 旁軌, 邊寬",
+    "def": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass"
+   }
+  ],
+  "forms": "複數 sidings｜現在分詞 siding"
+ },
+ "sidle": {
+  "ph": "/'saidl/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "橫著走, 悄悄貼近, 側身而行",
+    "def": "move unobtrusively or furtively"
+   },
+   {
+    "pos": "n.",
+    "zh": "側走, 挨近",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sidled｜現在分詞 sidling｜第三人稱單數 sidles｜複數 sidles｜過去分詞 sidled"
+ },
+ "sidmouth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sidmouth)人名；(英)西德茅斯",
+    "def": ""
+   }
+  ]
+ },
+ "sidney": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西德尼（男子名）；茜德尼（女子名）",
+    "def": "English poet (1554-1586)"
+   }
+  ]
+ },
+ "sidon": {
+  "ph": "/'saidn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西頓[黎巴嫩西南部港市](即賽伊達)",
+    "def": ""
+   }
+  ]
+ },
+ "sieg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 西格; [地名] [德國] 錫格河",
+    "def": ""
+   }
+  ]
+ },
+ "siege": {
+  "ph": "/si:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "包圍, 圍攻, 再三的努力",
+    "def": "the action of an armed force that surrounds a fortified place and isolates it while continuing to attack"
+   },
+   {
+    "pos": "vt.",
+    "zh": "包圍, 圍攻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sieges"
+ },
+ "siegel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西格爾（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "siegfried": {
+  "ph": "/'si:^fri:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "齊格弗裡德( 德國民間史詩《尼貝龍根之歌》中的英雄人物)",
+    "def": "(German mythology) mythical German warrior hero of the Nibelungenlied who takes possession of the accursed treasure of the Nibelungs by slaying the dragon that "
+   }
+  ]
+ },
+ "siemens": {
+  "ph": "/'si:mәnz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西門子（財富500強公司之一, 總部所在地德國, 主要經營電子電氣）",
+    "def": "engineer who was a brother of Ernst Werner von Siemens and who moved to England (1823-1883)"
+   }
+  ]
+ },
+ "sien": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sien)人名；(柬)暹",
+    "def": ""
+   }
+  ]
+ },
+ "siena": {
+  "ph": "/si'enә, 'sjenɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錫耶納（義大利城市）",
+    "def": ""
+   }
+  ]
+ },
+ "sienese": {
+  "ph": "/,saiә'ni:z, ,si:-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "錫耶納的, 錫耶納人的",
+    "def": ""
+   }
+  ]
+ },
+ "sienna": {
+  "ph": "/si'enә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃褐色(或赭色)顏料, 黃褐色, 赭色",
+    "def": "an earth color containing ferric oxides; used as a pigment"
+   }
+  ],
+  "forms": "複數 siennas"
+ },
+ "sierra": {
+  "ph": "/si'єәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呈齒狀起伏的山脈",
+    "def": "a range of mountains (usually with jagged peaks and irregular outline)"
+   }
+  ],
+  "forms": "複數 sierras"
+ },
+ "siesta": {
+  "ph": "/si'estә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "午睡, 午休",
+    "def": "a nap in the early afternoon (especially in hot countries)"
+   }
+  ],
+  "forms": "複數 siestas"
+ },
+ "sieve": {
+  "ph": "/siv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "篩子, 濾網",
+    "def": "a strainer for separating lumps from powdered material or grading particles"
+   },
+   {
+    "pos": "vt.",
+    "zh": "篩, 濾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sieves｜過去分詞 sieved｜現在分詞 sieving｜過去式 sieved｜第三人稱單數 sieves"
+ },
+ "sift": {
+  "ph": "/sift/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "篩, 過濾, 撒, 詳查",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "篩, 被篩下, 精選",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sifting｜過去分詞 sifted｜過去式 sifted｜第三人稱單數 sifts｜複數 sifts"
+ },
+ "sifted": {
+  "ph": "/siftid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "篩( sift的過去式和過去分詞 ); 篩濾; 細查; 詳審",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sifted"
+ },
+ "sifter": {
+  "ph": "/'siftә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "篩選工, 篩子",
+    "def": "a household sieve (as for flour)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 篩粉機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sifters"
+ },
+ "sifting": {
+  "ph": "/'siftiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "篩, 過濾, 篩過的東西, 濾下來的雜質, 篩下來的雜質, 濾過的東西",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 篩選, 淘汰",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sifting｜複數 siftings"
+ },
+ "sigh": {
+  "ph": "/sai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘆息",
+    "def": "an utterance made by exhaling audibly"
+   },
+   {
+    "pos": "vi.",
+    "zh": "嘆息, 渴望",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "嘆息著說",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sighed｜第三人稱單數 sighs｜現在分詞 sighing｜複數 sighs｜過去分詞 sighed"
+ },
+ "sighing": {
+  "ph": "/saiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "嘆氣, 嘆息( sigh的現在分詞 ); 悲鳴; 嘆著氣說; 嘆息道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sighings｜現在分詞 sighing"
+ },
+ "sight": {
+  "ph": "/sait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "景觀, 視力, 眼界, 閱讀, 見解, 意見",
+    "def": "an instance of visual perception"
+   },
+   {
+    "pos": "vt.",
+    "zh": "看見, 瞄準",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "瞄準, 觀看",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "即席的, 見票即付的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sights｜過去分詞 sighted｜過去式 sighted｜現在分詞 sighting｜第三人稱單數 sights"
+ },
+ "sighted": {
+  "ph": "/'saitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有視力的, 不盲的",
+    "def": "able to see"
+   }
+  ],
+  "forms": "過去分詞 sighted｜過去式 sighted"
+ },
+ "sighting": {
+  "ph": "/saitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "照準；瞄準；視線",
+    "def": "the act of observing"
+   }
+  ],
+  "forms": "複數 sightings｜現在分詞 sighting"
+ },
+ "sightless": {
+  "ph": "/'saitlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "盲的, 不可見的",
+    "def": ""
+   }
+  ]
+ },
+ "sightlessly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "看不見地",
+    "def": ""
+   }
+  ]
+ },
+ "sightline": {
+  "ph": "/'saitlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(從眼睛至所見物之間的或劇場內各處至舞臺的) 視線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sightlines"
+ },
+ "sightsee": {
+  "ph": "/'saitsi:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "遊覽；觀光",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sightseeing｜過去式 sightsaw｜第三人稱單數 sightsees｜過去分詞 sightseen"
+ },
+ "sightseeing": {
+  "ph": "/'saitsi:iŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀光, 遊覽",
+    "def": "going about to look at places of interest"
+   },
+   {
+    "pos": "adj.",
+    "zh": "觀光的, 遊覽的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sightseeing"
+ },
+ "sightseer": {
+  "ph": "/'saitsi:ә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觀光客",
+    "def": "a tourist who is visiting sights of interest"
+   }
+  ],
+  "forms": "複數 sightseers｜第三人稱單數 sightseers"
+ },
+ "sigil": {
+  "ph": "/'sidʒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖章, 印章, 印記, 魔符",
+    "def": "A seal; a signature."
+   }
+  ],
+  "forms": "複數 sigils"
+ },
+ "sigismund": {
+  "ph": "/'zi:ɡismunt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西吉斯蒙德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "sigma": {
+  "ph": "/'si^mә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 求和",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] σ(希臘文第十八個字母)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sigmas"
+ },
+ "sigmar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sigmar)人名；(葡、瑞典、德)西格馬爾",
+    "def": ""
+   }
+  ]
+ },
+ "sigmoid": {
+  "ph": "/'sigmɒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "S字形的, 乙狀結腸的, C字形的",
+    "def": "curved in two directions (like the letter S)"
+   },
+   {
+    "pos": "n.",
+    "zh": "乙狀結腸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sigmoids"
+ },
+ "sigmoidoscopy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 乙狀結腸鏡檢查",
+    "def": ""
+   }
+  ]
+ },
+ "sigmund": {
+  "ph": "/'sɪgmənd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西格蒙德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "sign": {
+  "ph": "/sain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "符號, 招牌, 徵兆, 正負號, 手勢",
+    "def": "a perceptible indication of something not immediately apparent (as a visible clue that something has happened)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "簽名, 打手勢表達",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "簽名",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 正負號; 符號; 符號字元",
+    "def": ""
+   }
+  ],
+  "forms": "複數 signs｜過去分詞 signed｜過去式 signed｜現在分詞 signing｜第三人稱單數 signs"
+ },
+ "signage": {
+  "ph": "/ˈsaɪnɪdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "標記； 標識系統",
+    "def": "signs collectively (especially commercial signs or posters)"
+   }
+  ]
+ },
+ "signal": {
+  "ph": "/'signl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訊號, 暗號, 近因, 導火線",
+    "def": "any nonverbal action or gesture that encodes a message"
+   },
+   {
+    "pos": "vt.",
+    "zh": "向...作訊號, 標誌, 用訊號通知",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發訊號",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "作為訊號的, 顯著的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 訊號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 signals｜過去式 signalled｜過去分詞 signalled｜現在分詞 signalling｜第三人稱單數 signals"
+ },
+ "signaling": {
+  "ph": "/'siɡnәliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發訊號；打訊號",
+    "def": ""
+   }
+  ]
+ },
+ "signaller": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訊號手, 通訊兵, 訊號裝置",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 訊號裝置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 signallers"
+ },
+ "signalling": {
+  "ph": "/'si^nәliŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 訊號傳輸法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 signalling"
+ },
+ "signally": {
+  "ph": "/'signәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "顯著地, 顯眼地",
+    "def": ""
+   }
+  ]
+ },
+ "signalman": {
+  "ph": "/'signәlmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訊號手",
+    "def": "a railroad employee in charge of signals and point in a railroad yard"
+   }
+  ],
+  "forms": "複數 signalmen"
+ },
+ "signatory": {
+  "ph": "/'si^nәtәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "協議的簽署者, 簽約國",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "簽署的, 簽約的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 signatories"
+ },
+ "signature": {
+  "ph": "/'signәtʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "簽字, 識別標誌, 調號",
+    "def": "your name written in your own handwriting"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 簽名附件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 signatures"
+ },
+ "signboard": {
+  "ph": "/'sainbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "招牌, 佈告板",
+    "def": "structure displaying a board on which advertisements can be posted"
+   }
+  ],
+  "forms": "複數 signboards"
+ },
+ "signe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 徵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 signes"
+ },
+ "signed": {
+  "ph": "/saind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有符號的；有正負之分的；已簽字的",
+    "def": "having a handwritten signature"
+   }
+  ],
+  "forms": "過去分詞 signed｜過去式 signed"
+ },
+ "signer": {
+  "ph": "/'sainә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "簽名者, 使用手勢語者",
+    "def": "someone who can use sign language to communicate"
+   }
+  ],
+  "forms": "複數 signers"
+ },
+ "signet": {
+  "ph": "/'signit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "印, 圖章",
+    "def": "a seal (especially one used to mark documents officially)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "蓋章於",
+    "def": ""
+   }
+  ]
+ },
+ "significance": {
+  "ph": "/sig'nifikәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重要性, 意義, 意味",
+    "def": "the quality of being significant"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 有效; 有效性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 significances"
+ },
+ "significant": {
+  "ph": "/sig'nifikәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "重要的, 有效的, 有含義的, 暗示的, 值得注意的",
+    "def": "important in effect or meaning"
+   }
+  ]
+ },
+ "significantly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "值得注目地；意味深長地",
+    "def": ""
+   }
+  ]
+ },
+ "signification": {
+  "ph": "/.signifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "含義, 意義, 表示",
+    "def": ""
+   }
+  ],
+  "forms": "複數 significations"
+ },
+ "signified": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[語]意指；受指；所指",
+    "def": ""
+   }
+  ],
+  "forms": "複數 signifieds｜過去式 signified｜第三人稱單數 signifieds｜過去分詞 signified"
+ },
+ "signifier": {
+  "ph": "/ˈsɪgnɪfaɪə(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "訊號物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 signifiers"
+ },
+ "signify": {
+  "ph": "/'signifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "象徵, 預示",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "要緊, 重要",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 signifies｜過去式 signified｜現在分詞 signifying｜過去分詞 signified"
+ },
+ "signing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 簽署, 簽字",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 signing｜複數 signings"
+ },
+ "signor": {
+  "ph": "/'si:njɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紳士, 男人, 先生",
+    "def": "used as an Italian courtesy title; can be prefixed to the name or used separately"
+   }
+  ]
+ },
+ "signora": {
+  "ph": "/si:'njɔ:rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夫人, 太太, 已婚女子",
+    "def": "an Italian title of address equivalent to Mrs. when used before a name"
+   }
+  ]
+ },
+ "signorina": {
+  "ph": "/,si:njә'ri:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "未婚女子, 姑娘",
+    "def": "an Italian courtesy title for an unmarried woman; equivalent to `Miss', it is either used alone or before a name"
+   }
+  ]
+ },
+ "signpost": {
+  "ph": "/'sainpәust/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "招牌柱, 廣告柱, 路標",
+    "def": "a post bearing a sign that gives directions or shows the way"
+   }
+  ],
+  "forms": "複數 signposts｜過去分詞 signposted｜過去式 signposted｜現在分詞 signposting｜第三人稱單數 signposts"
+ },
+ "signposting": {
+  "ph": "/'saɪnpəʊstɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "指示牌, 標誌杆( signpost的現在分詞 ); 路標",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 signposting"
+ },
+ "signwriter": {
+  "ph": "/'sainraitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寫招牌的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 signwriters"
+ },
+ "sigourney": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西戈尼（人名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "錫古尼（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "sihanouk": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西哈努克（柬埔寨海港）",
+    "def": ""
+   }
+  ]
+ },
+ "sika": {
+  "ph": "/'si:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動](中國、日本等地產的)梅花鹿 , <孟加拉語>n.(用以懸吊籃子等的)掛繩",
+    "def": ""
+   }
+  ]
+ },
+ "sike": {
+  "ph": "/saik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小溪",
+    "def": "A gutter; a stream, such as is usually dry in summer."
+   }
+  ],
+  "forms": "複數 sikes｜第三人稱單數 sikes"
+ },
+ "sikh": {
+  "ph": "/si:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錫克教教徒",
+    "def": "an adherent of Sikhism"
+   }
+  ],
+  "forms": "複數 sikhs"
+ },
+ "sikorsky": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sikorsky)人名；(英、波、俄)西科爾斯基",
+    "def": "United States industrialist (born in Russia) who designed the first four-engine airplane and the first mass-produced helicopter (1889-1972)"
+   },
+   {
+    "pos": "",
+    "zh": "西科爾斯基",
+    "def": ""
+   }
+  ]
+ },
+ "silage": {
+  "ph": "/'sailidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "青貯飼料",
+    "def": "fodder harvested while green and kept succulent by partial fermentation as in a silo"
+   },
+   {
+    "pos": "vt.",
+    "zh": "青貯",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 silaging｜複數 silages"
+ },
+ "silas": {
+  "ph": "/'sailәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賽拉斯（男性名）",
+    "def": ""
+   }
+  ]
+ },
+ "silence": {
+  "ph": "/'sailәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉默, 無聲, 靜寂, 湮沒, 無聲息",
+    "def": "the state of being silent (as when no one is speaking)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使緘默",
+    "def": ""
+   },
+   {
+    "pos": "interj.",
+    "zh": "安靜",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 silenced｜過去式 silenced｜現在分詞 silencing｜複數 silences｜第三人稱單數 silences"
+ },
+ "silenced": {
+  "ph": "/ˈsailənst/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使安靜( silence的過去式和過去分詞 ); 使沉默; 壓制; （用以讓人們安靜）安靜",
+    "def": ""
+   }
+  ]
+ },
+ "silencer": {
+  "ph": "/'sailәnsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使沉默的人, 消音器, 消音裝置",
+    "def": "short tube attached to the muzzle of a gun that deadens the sound of firing"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 消聲器; 消音器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 silencers"
+ },
+ "silencing": {
+  "ph": "/'sailәnsiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉默；消聲；噪聲抑制",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 silencing"
+ },
+ "silent": {
+  "ph": "/'sailәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沉默的, 安靜的, 無聲的, 靜止的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 靜止的, 無症狀的",
+    "def": ""
+   }
+  ]
+ },
+ "silently": {
+  "ph": "/'sailәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "默默地, 靜靜地",
+    "def": ""
+   }
+  ]
+ },
+ "silesia": {
+  "ph": "/sai'li:ʃiә,-ʒiә,si-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西里西亞[中歐一地區]",
+    "def": ""
+   }
+  ]
+ },
+ "silesian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "西萊亞西 的",
+    "def": "Of or pertaining to Silesia."
+   }
+  ],
+  "forms": "複數 silesians"
+ },
+ "silhouette": {
+  "ph": "/.silu:'et/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黑色半身側面影, 影子, 輪廓, 剪影",
+    "def": "an outline of a solid object (as cast by its shadow)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "描繪...成側面影, 使照出影子來, 使僅僅顯出輪廓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 silhouettes｜過去式 silhouetted｜過去分詞 silhouetted｜第三人稱單數 silhouettes｜現在分詞 silhouetting"
+ },
+ "silhouetted": {
+  "ph": "/ˌsɪlu:ˈetɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顯出輪廓的, 顯示影像的",
+    "def": ""
+   }
+  ]
+ },
+ "silica": {
+  "ph": "/'silikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矽石, 二氧化矽",
+    "def": "a white or colorless vitreous insoluble solid (SiO2); various forms occur widely in the earth's crust as quartz or cristobalite or tridymite or lechatelierite"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 二氧化矽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 silicas"
+ },
+ "silicate": {
+  "ph": "/'silikit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矽酸鹽",
+    "def": "a salt or ester derived from silicic acid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 矽酸鹽; 矽酸酯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 silicates｜第三人稱單數 silicates"
+ },
+ "siliceous": {
+  "ph": "/si'liʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "矽酸的, 矽土的",
+    "def": "relating to or containing or resembling silica"
+   }
+  ]
+ },
+ "silicon": {
+  "ph": "/'silikәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矽",
+    "def": "a tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and s"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 矽Si",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 siliconed｜過去式 siliconed｜現在分詞 siliconing"
+ },
+ "silicone": {
+  "ph": "/'silikәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矽樹脂",
+    "def": "any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubbe"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 矽氧烷; 聚矽氧烷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 silicones"
+ },
+ "silicosis": {
+  "ph": "/,sili'kәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石末沉著病, 矽肺(磨工病), 矽肺",
+    "def": "a lung disease caused by inhaling particles of silica or quartz or slate"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 矽肺",
+    "def": ""
+   }
+  ]
+ },
+ "silk": {
+  "ph": "/silk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "絲, 綢, 綢鍛類, 絲織品",
+    "def": "a fabric made from the fine threads produced by certain insect larvae"
+   },
+   {
+    "pos": "adj.",
+    "zh": "絲的, 絲織的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 silks"
+ },
+ "silken": {
+  "ph": "/'silkәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絲的, 綢制的, 柔軟的, 圓滑的",
+    "def": ""
+   }
+  ]
+ },
+ "silkily": {
+  "ph": "/'silkili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "如絲綢一般地；（談吐等）溫和的",
+    "def": ""
+   }
+  ]
+ },
+ "silkworm": {
+  "ph": "/'silkwә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蠶",
+    "def": "the commercially bred hairless white caterpillar of the domestic silkworm moth which spins a cocoon that can be processed to yield silk fiber; the principal sou"
+   }
+  ],
+  "forms": "複數 silkworms"
+ },
+ "silky": {
+  "ph": "/'silki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絲的, 柔滑的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 silkiest｜比較級 silkier"
+ },
+ "sill": {
+  "ph": "/sil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "基石, 檻, 窗臺, 岩床, 海底山脊, 梁",
+    "def": "structural member consisting of a continuous horizontal timber forming the lowest member of a framework or supporting structure"
+   }
+  ],
+  "forms": "複數 sills"
+ },
+ "sillar": {
+  "ph": "/si'lɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[地]未固結熔灰巖, 未固結火山凝灰岩",
+    "def": ""
+   }
+  ]
+ },
+ "silliness": {
+  "ph": "/'silinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愚蠢, 糊塗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sillinesses"
+ },
+ "sillitoe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sillitoe)人名；(英)西利托",
+    "def": ""
+   }
+  ]
+ },
+ "silly": {
+  "ph": "/'sili/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愚蠢的, 糊塗的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 silliest｜比較級 sillier"
+ },
+ "silo": {
+  "ph": "/'sailәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "筒倉, 青貯窖",
+    "def": "a cylindrical tower used for storing silage"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 儲倉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 silos"
+ },
+ "silt": {
+  "ph": "/silt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淤泥",
+    "def": "mud or clay or small rocks deposited by a river or lake"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使淤塞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "淤塞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 silts｜過去式 silted｜過去分詞 silted｜現在分詞 silting｜第三人稱單數 silts"
+ },
+ "siltation": {
+  "ph": "/sɪl'teɪfən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "沉積作用, 淤積",
+    "def": ""
+   }
+  ]
+ },
+ "silting": {
+  "ph": "/'siltiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淤積；淤塞；充填",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 silting"
+ },
+ "siltstone": {
+  "ph": "/'siltstәjn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[地]粉砂岩",
+    "def": "a fine-grained sandstone of consolidated silt"
+   }
+  ],
+  "forms": "複數 siltstones"
+ },
+ "silty": {
+  "ph": "/'silti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淤泥的, 塞滿了淤泥的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 siltier"
+ },
+ "silurian": {
+  "ph": "/sai'ljuәriәn, si-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "〈地〉志留紀的",
+    "def": ""
+   }
+  ]
+ },
+ "silva": {
+  "ph": "/'silvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "森林, 森林志",
+    "def": "the forest trees growing in a country or region"
+   }
+  ]
+ },
+ "silver": {
+  "ph": "/'silvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銀, 銀幣, 銀器",
+    "def": "a soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used"
+   },
+   {
+    "pos": "adj.",
+    "zh": "銀的, 銀製的, 銀器的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "鍍銀",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變銀白色",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 silvering｜過去式 silvered｜複數 silvers｜過去分詞 silvered｜第三人稱單數 silvers"
+ },
+ "silver medal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 銀牌",
+    "def": ""
+   }
+  ]
+ },
+ "silverback": {
+  "ph": "/'silvәbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動]銀背大猩猩(指背部頸下方有銀白色毛的雄性成年大猩猩)",
+    "def": "an adult male gorilla with grey hairs across the back"
+   }
+  ]
+ },
+ "silvered": {
+  "ph": "/'silvәd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "鍍銀（變成銀白色）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 silvered"
+ },
+ "silverfish": {
+  "ph": "/'silvәfiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銀色的魚, 蠹蟲",
+    "def": "silver-grey wingless insect found in houses feeding on book bindings and starched clothing"
+   }
+  ]
+ },
+ "silverman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西爾弗曼（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "silversides": {
+  "ph": "/'silvәsaidz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銀河魚",
+    "def": "small fishes having a silver stripe along each side; abundant along the Atlantic coast of the United States"
+   }
+  ]
+ },
+ "silversmith": {
+  "ph": "/'silvәsmiθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銀(器)匠",
+    "def": "someone who makes or repairs articles of silver"
+   }
+  ],
+  "forms": "複數 silversmiths"
+ },
+ "silverstone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西爾弗斯通（人名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "錫爾弗斯通（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "silverware": {
+  "ph": "/'silvәwєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銀器",
+    "def": "tableware made of silver or silver plate or pewter or stainless steel"
+   }
+  ]
+ },
+ "silvery": {
+  "ph": "/'silvәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "像銀的, 銀色的, 銀鈴一般的",
+    "def": ""
+   }
+  ]
+ },
+ "silvia": {
+  "ph": "/'silviә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西爾維亞（女子名）",
+    "def": "type genus of the Sylviidae: warblers"
+   }
+  ]
+ },
+ "silvicultural": {
+  "ph": "/'sɪlvɪkʌltʃərəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "silviculture的變形",
+    "def": ""
+   }
+  ]
+ },
+ "silvio": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西爾維奧",
+    "def": ""
+   }
+  ]
+ },
+ "sim": {
+  "ph": "/sim/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "使用者身份識別卡（subscriber identity module）；工業管理學院（School of Industrial Management）；科學儀表艙（Scientific Instrument Module）；模擬計算機索引法（Simulated Machine Indexing）",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 sims｜複數 sims"
+ },
+ "sime": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "森那美（美國公司名）；義大利西美公司",
+    "def": ""
+   }
+  ],
+  "forms": "複數 simes"
+ },
+ "simeon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西米恩（男子名）；西面（聖經中的人物）",
+    "def": "(Old Testament) the 2nd son of Jacob and one of the 12 patriarchs of Israel"
+   }
+  ]
+ },
+ "simian": {
+  "ph": "/'simiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "類人猿的, 猴子一般的",
+    "def": "relating to or resembling an ape"
+   },
+   {
+    "pos": "n.",
+    "zh": "猴子, 類人猿",
+    "def": "an ape or monkey"
+   }
+  ],
+  "forms": "複數 simians"
+ },
+ "similar": {
+  "ph": "/'similә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相似的, 類似的",
+    "def": "marked by correspondence or resemblance"
+   },
+   {
+    "pos": "n.",
+    "zh": "相似的東西",
+    "def": ""
+   }
+  ]
+ },
+ "similarity": {
+  "ph": "/.simi'læriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "類似, 類似處",
+    "def": "the quality of being similar"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 類似, 相似, 類似事例",
+    "def": ""
+   }
+  ],
+  "forms": "複數 similarities"
+ },
+ "similarly": {
+  "ph": "/'similәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "相像地, 類似於",
+    "def": ""
+   }
+  ]
+ },
+ "simile": {
+  "ph": "/'simili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "明喻, 明喻說法",
+    "def": "a figure of speech that expresses a resemblance between things of different kinds (usually formed with `like' or `as')"
+   }
+  ],
+  "forms": "複數 similes"
+ },
+ "similitude": {
+  "ph": "/si'militjud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "相似, 外表",
+    "def": ""
+   }
+  ]
+ },
+ "simla": {
+  "ph": "/'simlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西姆拉（印度北部城市名）",
+    "def": ""
+   }
+  ]
+ },
+ "simm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "單邊接觸模組（Single In-line Memory Modules）；新加坡物流管理學院（Singapore Institute of Materials Management）",
+    "def": ""
+   }
+  ]
+ },
+ "simmel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "齊美爾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "simmer": {
+  "ph": "/'simә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "煨",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "燉, 內心充滿",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "即將沸騰的狀態, 即將發作",
+    "def": "temperature just below the boiling point"
+   }
+  ],
+  "forms": "過去式 simmered｜過去分詞 simmered｜第三人稱單數 simmers｜現在分詞 simmering"
+ },
+ "simmering": {
+  "ph": "/'sɪmərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "燉, 慢煮( simmer的現在分詞 ); 充滿勢將爆發的（怒氣等）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 simmering"
+ },
+ "simmonds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Simmonds)人名；(英、意、西)西蒙茲",
+    "def": ""
+   }
+  ]
+ },
+ "simmons": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西蒙斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "simon": {
+  "ph": "/'saimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西蒙（男子名）",
+    "def": "one of the twelve Apostles (first century)"
+   }
+  ]
+ },
+ "simonds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Simonds)人名；(英)西蒙茲",
+    "def": ""
+   }
+  ]
+ },
+ "simone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西蒙妮（電影名）；西蒙（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "simons": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西蒙斯（男子名）；席夢思（家居品牌）",
+    "def": ""
+   }
+  ]
+ },
+ "simony": {
+  "ph": "/'saimәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖職買賣, 聖職買賣罪",
+    "def": "traffic in ecclesiastical offices or preferments"
+   }
+  ]
+ },
+ "simper": {
+  "ph": "/'simpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "假笑, 傻笑, 痴笑",
+    "def": "a silly self-conscious smile"
+   },
+   {
+    "pos": "vi.",
+    "zh": "假笑, 傻笑, 痴笑",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "假笑著說",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 simpered｜現在分詞 simpering｜第三人稱單數 simpers｜複數 simpers｜過去分詞 simpered"
+ },
+ "simpering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傻笑的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 simpering"
+ },
+ "simple": {
+  "ph": "/'simpl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "簡單的, 普通的, 樸素的, 單純的, 絕對的, 初級的, 原始的, 遲鈍的",
+    "def": "having few parts; not complex or complicated or involved"
+   },
+   {
+    "pos": "n.",
+    "zh": "出身低微者, 傻子",
+    "def": "any herbaceous plant having medicinal properties"
+   }
+  ],
+  "forms": "最高級 simplest｜比較級 simpler"
+ },
+ "simpleton": {
+  "ph": "/'simpltәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笨蛋, 傻子",
+    "def": "a person lacking intelligence or common sense"
+   }
+  ],
+  "forms": "複數 simpletons"
+ },
+ "simplex": {
+  "ph": "/'simpleks/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "簡單的, 單一的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 單工",
+    "def": ""
+   }
+  ]
+ },
+ "simpliciter": {
+  "ph": "/sim'plisitә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "絕對地, 普遍地, 無限地, 完全地",
+    "def": ""
+   }
+  ]
+ },
+ "simplicity": {
+  "ph": "/sim'plisiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單純, 簡樸, 樸素, 坦率, 天真",
+    "def": "the quality of being simple or uncompounded"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 簡明性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 simplicities"
+ },
+ "simplification": {
+  "ph": "/.simplifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單一化, 單純化, 簡單化",
+    "def": "an explanation that omits superfluous details and reduces complexity"
+   }
+  ],
+  "forms": "複數 simplifications"
+ },
+ "simplified": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "簡化了的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 simplified｜過去式 simplified"
+ },
+ "simplify": {
+  "ph": "/'simplifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "單一化, 簡單化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 simplified｜第三人稱單數 simplifies｜現在分詞 simplifying｜過去式 simplified"
+ },
+ "simplifying": {
+  "ph": "/ˈsimplifaiŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使（某事物）簡單[簡明], 簡化( simplify的現在分詞 ); 單純化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 simplifying"
+ },
+ "simplistic": {
+  "ph": "/sim'plistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過分簡單化的",
+    "def": ""
+   }
+  ]
+ },
+ "simplistically": {
+  "ph": "/ -kli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "（過分）簡單化地",
+    "def": ""
+   }
+  ]
+ },
+ "simply": {
+  "ph": "/'simpli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "簡單地, 只是, 簡直, 簡樸地, 坦白地",
+    "def": ""
+   }
+  ]
+ },
+ "simpson": {
+  "ph": "/'simpsn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛普森（姓氏）",
+    "def": "United States divorcee whose marriage to Edward VIII created a constitutional crisis leading to his abdication"
+   }
+  ],
+  "forms": "複數 simpsons"
+ },
+ "sims": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "次級離子質譜分析法（secondary ion mass spectroscopy）",
+    "def": ""
+   }
+  ]
+ },
+ "simulacrum": {
+  "ph": "/.simju'leikrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "像, 影, 幻影",
+    "def": "an insubstantial or vague semblance"
+   }
+  ]
+ },
+ "simulate": {
+  "ph": "/'simjuleit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "模擬, 假裝, 模仿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 偽裝的, 模擬的; 假裝的, 偽裝的, 冒充",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 simulating｜過去分詞 simulated｜第三人稱單數 simulates｜過去式 simulated"
+ },
+ "simulated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "模仿的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 模擬的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 simulated｜過去分詞 simulated"
+ },
+ "simulation": {
+  "ph": "/.simju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "模擬, 假冒物, 模仿",
+    "def": "the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel t"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 模擬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 simulations"
+ },
+ "simulator": {
+  "ph": "/'simjuleitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "模擬器, 假裝者",
+    "def": "a machine that simulates an environment for the purpose of training or research"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 模擬器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 simulators"
+ },
+ "simulcast": {
+  "ph": "/'simәlkɑ:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同時聯播",
+    "def": "a broadcast that is carried simultaneously by radio and television (or by FM and AM radio)"
+   },
+   {
+    "pos": "v.",
+    "zh": "同時聯播",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 simulcasting"
+ },
+ "simultaneity": {
+  "ph": "/.simәltә'ni:әti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同時發生, 同時",
+    "def": "happening or existing or done at the same time"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 同時性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 simultaneities"
+ },
+ "simultaneous": {
+  "ph": "/.simәl'teinjәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同時的, 同時發生的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 同時的",
+    "def": ""
+   }
+  ]
+ },
+ "simultaneously": {
+  "ph": "/simәl'teiniәsly; (?@) saim-/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "同時發生, 一齊, 同時, 同時存在",
+    "def": ""
+   }
+  ]
+ },
+ "simvastatin": {
+  "ph": "/sɪm'vɑ:steɪtɪn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]系HMG輔酶A還原酶抑制劑, 能降低男性血漿膽固醇和減少膽固醇在動脈沉積",
+    "def": ""
+   }
+  ]
+ },
+ "sin": {
+  "ph": "/sin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "罪, 犯罪, 過失, 失禮",
+    "def": "estrangement from god"
+   },
+   {
+    "pos": "v.",
+    "zh": "犯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sins｜過去分詞 sinned｜現在分詞 sinning｜過去式 sinned｜第三人稱單數 sins"
+ },
+ "sinai": {
+  "ph": "/'sainai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西奈",
+    "def": "a mountain peak in the southern Sinai Peninsula (7,500 feet high); it is believed to be the peak on which Moses received the Ten Commandments"
+   }
+  ]
+ },
+ "sinatra": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛納特拉（美國歌手、電影演員）",
+    "def": "United States singer and film actor (1915-1998)"
+   }
+  ]
+ },
+ "sinbad": {
+  "ph": "/'sinbæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛巴達（《天方夜譚》裡的人物）（等於Sindbad）",
+    "def": ""
+   }
+  ]
+ },
+ "since": {
+  "ph": "/sins/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "自...以後, 自...以來",
+    "def": "From the time of; in or during the time subsequent to;"
+   },
+   {
+    "pos": "adv.",
+    "zh": "自那時以後",
+    "def": "From a definite past time until now; as, he went a month"
+   },
+   {
+    "pos": "conj.",
+    "zh": "既然, 自...以後, 自...以來",
+    "def": "Seeing that; because; considering; -- formerly followed"
+   }
+  ]
+ },
+ "sincere": {
+  "ph": "/sin'siә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "誠實的, 正直的, 真摯的, 純淨的",
+    "def": "open and genuine; not deceitful"
+   }
+  ],
+  "forms": "最高級 sincerest｜比較級 sincerer"
+ },
+ "sincerely": {
+  "ph": "/sin'siәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "真誠地",
+    "def": ""
+   }
+  ]
+ },
+ "sincerity": {
+  "ph": "/sin'serәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誠實, 真實, 誠心誠意",
+    "def": "the quality of being open and truthful; not deceitful or hypocritical"
+   }
+  ],
+  "forms": "複數 sincerities"
+ },
+ "sinclair": {
+  "ph": "/'siŋkleә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛克萊(m.)",
+    "def": "United States writer whose novels argued for social reform (1878-1968)"
+   }
+  ]
+ },
+ "sind": {
+  "ph": "/sind/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "信德（巴基斯坦的一個省名）",
+    "def": "a region of southeastern Pakistan"
+   }
+  ]
+ },
+ "sindy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛迪（女人名）",
+    "def": ""
+   }
+  ]
+ },
+ "sine": {
+  "ph": "/sain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正弦",
+    "def": "ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 正弦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sines"
+ },
+ "sinecure": {
+  "ph": "/'saini.kjuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閒職",
+    "def": "a benefice to which no spiritual or pastoral duties are attached"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 領幹俸的職位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sinecures｜第三人稱單數 sinecures"
+ },
+ "sinew": {
+  "ph": "/'sinju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肌肉, 精力, 體力, 力量的源泉, 腱",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "賦予力量, 加強",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sinews｜過去式 sinewed"
+ },
+ "sinewy": {
+  "ph": "/'sinju:i/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "強壯的, 結實的, 多腱的",
+    "def": ""
+   }
+  ]
+ },
+ "sinfonia": {
+  "ph": "/.sinfә'niә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "交響樂, 管絃樂曲(尤指歌劇序曲)",
+    "def": ""
+   }
+  ]
+ },
+ "sinfonietta": {
+  "ph": "/,sɪnfəʊnɪ'etə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小交響曲；小型交響樂團",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sinfoniettas"
+ },
+ "sinful": {
+  "ph": "/'sinful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有罪的, 罪孽深重的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有罪, 充滿罪惡的",
+    "def": ""
+   }
+  ]
+ },
+ "sinfully": {
+  "ph": "/'sɪnfəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "罪孽深重地, 不道德地",
+    "def": ""
+   }
+  ]
+ },
+ "sinfulness": {
+  "ph": "/'sinfəlnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有罪；作惡多端",
+    "def": ""
+   }
+  ]
+ },
+ "sing": {
+  "ph": "/siŋ/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "唱, 唱歌, 演唱, 鳴, 啼",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "唱, 歌頌",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "嗖嗖聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 singing｜過去式 sang｜過去分詞 sung｜第三人稱單數 sings"
+ },
+ "singable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可唱的, 適合於唱的",
+    "def": ""
+   }
+  ]
+ },
+ "singalong": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(非正式的)歌唱聚會, 歌詠會",
+    "def": "informal group singing of popular songs"
+   }
+  ],
+  "forms": "複數 singalongs"
+ },
+ "singapore": {
+  "ph": "/.siŋgә'pɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新加坡",
+    "def": "the capital of Singapore; one of the world's biggest ports"
+   }
+  ]
+ },
+ "singaporean": {
+  "ph": "/,siŋ^ә'pɔ:riәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新加坡人",
+    "def": "an inhabitant of Singapore"
+   }
+  ],
+  "forms": "複數 singaporeans"
+ },
+ "singe": {
+  "ph": "/sindʒ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "燒焦, 烤焦",
+    "def": "burn superficially or lightly"
+   }
+  ],
+  "forms": "過去式 singed｜過去分詞 singed｜現在分詞 singeing｜第三人稱單數 singes"
+ },
+ "singed": {
+  "ph": "/sɪndʒd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "淺表燒焦( singe的過去式和過去分詞 ); （毛髮）燎, 燒焦尖端[邊兒]",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 singed｜過去分詞 singed"
+ },
+ "singer": {
+  "ph": "/'siŋә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌手",
+    "def": "a person who sings"
+   }
+  ],
+  "forms": "複數 singers"
+ },
+ "singer-songwriter": {
+  "ph": "/'sɪnɡərs'ɒŋraɪtə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寫詞並演唱的歌手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 singer-songwriters"
+ },
+ "singh": {
+  "ph": "/siŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛格（印度總理）；查理·拉傑（電影名）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 singhing"
+ },
+ "singing": {
+  "ph": "/'siŋiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌唱, 歌聲",
+    "def": "the act of singing vocal music"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 振鳴; 蜂鳴",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 singing"
+ },
+ "single": {
+  "ph": "/'siŋgl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "單身的, 單程的, 單一的, 個別的, 孤獨的, 專一的",
+    "def": "used of flowers having usually only one row or whorl of petals"
+   },
+   {
+    "pos": "n.",
+    "zh": "一個, 單打, 單程票",
+    "def": "a base hit on which the batter stops safely at first base"
+   },
+   {
+    "pos": "vt.",
+    "zh": "選出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "擊出一壘打",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 單精度型",
+    "def": ""
+   }
+  ],
+  "forms": "複數 singles｜過去分詞 singled｜過去式 singled｜現在分詞 singling｜第三人稱單數 singles"
+ },
+ "single parent": {
+  "ph": "/ˈsiŋɡl ˈpɛərənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單親, 單身父親, 單身母親",
+    "def": ""
+   }
+  ]
+ },
+ "single-handed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "單獨的, 單人完成的, 單槍匹馬的, 獨立的, 獨手的, 只用一隻手的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "獨立地, 單人完成地",
+    "def": ""
+   }
+  ]
+ },
+ "single-minded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "誠實的, 誠心的, 專心的",
+    "def": ""
+   }
+  ]
+ },
+ "singleness": {
+  "ph": "/'siŋglnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單一, 真誠, 獨身",
+    "def": "without hypocrisy"
+   }
+  ]
+ },
+ "singlet": {
+  "ph": "/'siŋglit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汗衫, 運動衫",
+    "def": "a collarless men's undergarment for the upper part of the body"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 單峰; 單態; 單線態",
+    "def": ""
+   }
+  ],
+  "forms": "複數 singlets"
+ },
+ "singleton": {
+  "ph": "/'siŋgltәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一個, 獨生子, 獨身",
+    "def": "a single object (as distinguished from a pair)"
+   }
+  ],
+  "forms": "複數 singletons"
+ },
+ "singly": {
+  "ph": "/'siŋgli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "一個一個地, 各自地, 單身地",
+    "def": ""
+   }
+  ]
+ },
+ "singsong": {
+  "ph": "/'siŋsɒŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單調無味, 單調的歌",
+    "def": "a regular and monotonous rising and falling intonation"
+   },
+   {
+    "pos": "adj.",
+    "zh": "單調的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "單調地唱",
+    "def": "speak, chant, or declaim in a singsong"
+   }
+  ],
+  "forms": "複數 singsongs"
+ },
+ "singular": {
+  "ph": "/'siŋgjulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單數",
+    "def": "the form of a word that is used to denote a singleton"
+   },
+   {
+    "pos": "adj.",
+    "zh": "異常的, 單一的",
+    "def": "composed of one member, set, or kind"
+   }
+  ],
+  "forms": "複數 singulars"
+ },
+ "singularity": {
+  "ph": "/.siŋgju'læriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奇異, 突出, 稀有",
+    "def": "the quality of being one of a kind"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 奇點",
+    "def": ""
+   }
+  ],
+  "forms": "複數 singularities"
+ },
+ "singularly": {
+  "ph": "/'siŋgjulәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "少見地, 不可思議地, 異常地",
+    "def": ""
+   }
+  ]
+ },
+ "sinha": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sinha)人名；(印)辛哈",
+    "def": ""
+   }
+  ]
+ },
+ "sinhalese": {
+  "ph": "/siŋhә'li:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "僧伽羅人(語)",
+    "def": "a native or inhabitant of Sri Lanka"
+   }
+  ]
+ },
+ "sinister": {
+  "ph": "/'sinistә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不吉利的, 兇惡的, 左邊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 左的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sinisters"
+ },
+ "sink": {
+  "ph": "/siŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藏垢的場所, 溝渠, 汙水槽",
+    "def": "plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe"
+   },
+   {
+    "pos": "vi.",
+    "zh": "下沉, 沉沒, 下陷, 減弱, 衰退, 消沉, 墮落, 滲透",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使低落, 使下沉, 陷於, 投入(資金等), 挖掘",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sank｜過去分詞 sunk｜現在分詞 sinking｜複數 sinks｜第三人稱單數 sinks"
+ },
+ "sinker": {
+  "ph": "/'siŋkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使下沉的人, 鉛錘, 鑿井工",
+    "def": "a weight that sinks (as to hold nets or fishing lines under water)"
+   }
+  ],
+  "forms": "複數 sinkers"
+ },
+ "sinkhole": {
+  "ph": "/'siŋkhәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陰溝口, 汙水坑",
+    "def": "a depression in the ground communicating with a subterranean passage (especially in limestone) and formed by solution or by collapse of a cavern roof"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 縮孔",
+    "def": ""
+   }
+  ]
+ },
+ "sinking": {
+  "ph": "/'siŋkiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉沒, 降低, 衰頹感",
+    "def": "a descent as through liquid (especially through water)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 償還債務",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sinking｜複數 sinkings"
+ },
+ "sinless": {
+  "ph": "/'sinlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無罪的, 清白的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無罪的, 無辜的, 清白的",
+    "def": ""
+   }
+  ]
+ },
+ "sinner": {
+  "ph": "/'sinә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "罪人, 不知禮儀的人, 無賴",
+    "def": "a person who sins (without repenting)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 罪人, 無賴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sinners"
+ },
+ "sinton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sinton)人名；(英)辛頓",
+    "def": ""
+   }
+  ]
+ },
+ "sinuous": {
+  "ph": "/'sinjuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "彎彎曲曲的, 迂迴的, 運動柔軟的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 紆曲的",
+    "def": ""
+   }
+  ]
+ },
+ "sinuously": {
+  "ph": "/'sinjuəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "蜿蜒地, 彎曲地；拐彎抹角地；錯綜複雜地",
+    "def": ""
+   }
+  ]
+ },
+ "sinus": {
+  "ph": "/'sainәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "竇, 靜脈竇, 凹陷處",
+    "def": "any of various air-filled cavities especially in the bones of the skull"
+   }
+  ]
+ },
+ "sinusitis": {
+  "ph": "/.sainә'saitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "竇炎",
+    "def": "inflammation of one of the paranasal sinuses"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 竇炎",
+    "def": ""
+   }
+  ]
+ },
+ "sinusoid": {
+  "ph": "/'sainәsɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正弦曲線, 竇狀隙",
+    "def": "tiny endothelium-lined passages for blood in the tissue of an organ"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 竇狀隙; 竇狀的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sinusoids"
+ },
+ "sinusoidal": {
+  "ph": "/.sainә'sɒidl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "正弦曲線的, 竇狀隙的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 正弦樣的",
+    "def": ""
+   }
+  ]
+ },
+ "sinusoidally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "sinusoid的變形",
+    "def": ""
+   }
+  ]
+ },
+ "siobhan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Siobhan)人名；(英)西沃恩",
+    "def": ""
+   }
+  ]
+ },
+ "sion": {
+  "ph": "/'saiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錫安；以色列人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sions"
+ },
+ "sioux": {
+  "ph": "/su:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蘇人的；蘇語的",
+    "def": ""
+   }
+  ]
+ },
+ "sip": {
+  "ph": "/sip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "啜飲, 小口喝, 抿",
+    "def": "a small drink"
+   },
+   {
+    "pos": "vi.",
+    "zh": "啜飲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "啜",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 單列直插式元件",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sipped｜現在分詞 sipping｜複數 sips｜第三人稱單數 sips｜過去分詞 sipped"
+ },
+ "siphon": {
+  "ph": "/'saifәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "虹吸管",
+    "def": "a tube running from the liquid in a vessel to a lower level outside the vessel so that atmospheric pressure forces the liquid through the tube"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用虹吸管吸出, 抽取",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "透過虹吸管",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 siphoned｜現在分詞 siphoning｜複數 siphons｜過去式 siphoned｜第三人稱單數 siphons"
+ },
+ "siphonophore": {
+  "ph": "/sai'fɔnә,fɔ:, 'saifәnә-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動]管水母目動物",
+    "def": "a floating or swimming oceanic colony of polyps often transparent or showily colored"
+   }
+  ]
+ },
+ "sipper": {
+  "ph": "/'sɪpə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "吸者, 飲者, 吸漿管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sippers"
+ },
+ "sippy": {
+  "ph": "/'sɪpɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夕皮士（指50～80歲有穩固收入的消費者）",
+    "def": ""
+   }
+  ]
+ },
+ "sir": {
+  "ph": "/sә:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "先生, 閣下",
+    "def": "term of address for a man"
+   }
+  ],
+  "forms": "複數 sirs"
+ },
+ "sire": {
+  "ph": "/saiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陛下, 殿下, 父親",
+    "def": "a title of address formerly used for a man of rank and authority"
+   },
+   {
+    "pos": "vt.",
+    "zh": "生殖, 創作",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 sired｜複數 sires｜過去式 sired｜現在分詞 siring｜第三人稱單數 sires"
+ },
+ "siren": {
+  "ph": "/'saiәrin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女海妖, 妖女, 警報器, 汽笛, 迷人的美女",
+    "def": "a sea nymph (part woman and part bird) supposed to lure sailors to destruction on the rocks where the nymphs lived"
+   },
+   {
+    "pos": "adj.",
+    "zh": "誘惑的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "響著警報器前進",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sirens"
+ },
+ "sirius": {
+  "ph": "/'siriәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天狼星",
+    "def": "the brightest star in the sky; in Canis Major"
+   }
+  ]
+ },
+ "sirloin": {
+  "ph": "/'sә:lɒin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛的上部腰肉, 牛裡脊肉",
+    "def": "the portion of the loin (especially of beef) just in front of the rump"
+   }
+  ],
+  "forms": "複數 sirloins"
+ },
+ "siro": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "賽絡紡",
+    "def": ""
+   }
+  ]
+ },
+ "sirree": {
+  "ph": "/sә:'ri:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "先生",
+    "def": ""
+   }
+  ]
+ },
+ "sis": {
+  "ph": "/sis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[美口]姐妹（等於sister）",
+    "def": ""
+   }
+  ]
+ },
+ "sisal": {
+  "ph": "/'sisәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 劍麻; 面沙爾麻",
+    "def": ""
+   }
+  ]
+ },
+ "siskin": {
+  "ph": "/'siskin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃雀, 松金翅",
+    "def": "small yellow-and-black Eurasian finch with a sharp beak"
+   }
+  ],
+  "forms": "複數 siskins"
+ },
+ "sisson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Sisson)人名；(英)西森",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sissons"
+ },
+ "sissy": {
+  "ph": "/'sisi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女孩子, 女人腔的男人, 膽小鬼",
+    "def": "a timid man or boy considered childish or unassertive"
+   },
+   {
+    "pos": "adj.",
+    "zh": "女人腔的",
+    "def": ""
+   }
+  ]
+ },
+ "sister": {
+  "ph": "/'sistә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "姐妹, 姐, 妹, 護士, 修女",
+    "def": "a female person who has the same parents as another person"
+   },
+   {
+    "pos": "vt.",
+    "zh": "姐妹般對待",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sisters"
+ },
+ "sister-in-law": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夫(或妻)的姊妹, 嫂子, 弟媳",
+    "def": "the sister of your spouse"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 夫或妻的姐妹, 姑, 姨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sister-in-laws"
+ },
+ "sisterhood": {
+  "ph": "/'sistәhud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "姊妹關係, 姊妹之誼, 婦女團體",
+    "def": "the kinship relation between a female offspring and the siblings"
+   }
+  ]
+ },
+ "sisterly": {
+  "ph": "/'sistәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "姊妹一般的, 象姊妹的",
+    "def": "like or characteristic of or befitting a sister"
+   }
+  ]
+ },
+ "sisters": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "姐妹們（sister的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "sistine": {
+  "ph": "/'sistain, 'sisti:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "羅馬教宗西克斯圖斯的",
+    "def": "Of or pertaining to Pope Sixtus."
+   }
+  ]
+ },
+ "sisyphean": {
+  "ph": "/,sisi'fi(:)әn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "永遠做不完的, 徒勞的",
+    "def": "of or relating to Sisyphus"
+   }
+  ]
+ },
+ "sisyphus": {
+  "ph": "/'sisifәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "科林斯王（希臘暴君）",
+    "def": "(Greek legend) a king in ancient Greece who offended Zeus and whose punishment was to roll a huge boulder to the top of a steep hill; each time the boulder near"
+   }
+  ]
+ },
+ "sit": {
+  "ph": "/sit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "坐, 就座, 坐落",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使就座, 騎",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "坐, 衣服合身",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 sat｜現在分詞 sitting｜第三人稱單數 sits｜過去分詞 sat"
+ },
+ "sit down": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "坐下, 佔據, 參加靜坐罷工(或示威)",
+    "def": ""
+   }
+  ]
+ },
+ "sit-down": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靜坐抗議",
+    "def": "a strike in which workers refuse to leave the workplace until a settlement is reached"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 靜坐罷工, 座位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sit-downs"
+ },
+ "sit-in": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(室內)靜坐抗議, (室內)靜坐罷工",
+    "def": "a form of civil disobedience in which demonstrators occupy seats and refuse to move"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 進佔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sit-ins"
+ },
+ "sitar": {
+  "ph": "/si'tɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西他(印度絃樂器)",
+    "def": "a stringed instrument of India; has a long neck and movable frets; has 6 or 7 metal strings for playing and usually 13 resonating strings"
+   }
+  ],
+  "forms": "複數 sitars"
+ },
+ "sitcom": {
+  "ph": "/'sitkɔm/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "情景喜劇（situation comedy）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sitcoms"
+ },
+ "site": {
+  "ph": "/sait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "位置, 場所, 地點",
+    "def": "the piece of land on which something is located (or is to be located)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...擇址",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sites｜過去分詞 sited｜現在分詞 siting｜過去式 sited｜第三人稱單數 sites"
+ },
+ "sites": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遺址, 舉辦地點；網站（site的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "siting": {
+  "ph": "/'saitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "建設地點的決定, 道路定線",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 siting｜複數 sitings"
+ },
+ "sitka": {
+  "ph": "/'sitkə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錫特卡（美國一城鎮）；北美雲杉",
+    "def": "a town in southeastern Alaska that was the capital of Russian America and served as the capital of Alaska from 1867 until 1906"
+   }
+  ],
+  "forms": "複數 sitkas"
+ },
+ "sitter": {
+  "ph": "/'sitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "坐著的人, 坐著被畫像的人",
+    "def": "Dutch astronomer who calculated the size of the universe and suggested that it is expanding (1872-1934)"
+   }
+  ],
+  "forms": "複數 sitters"
+ },
+ "sitting": {
+  "ph": "/'sitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "入席, 就坐, 開庭, 孵卵",
+    "def": "(photography) the act of assuming a certain position (as for a photograph or portrait)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "坐著的, 就座的, 在職的, 在孵卵中的, 易被擊中的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sittings｜現在分詞 sitting"
+ },
+ "sitting-room": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "起居室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sitting-rooms"
+ },
+ "situate": {
+  "ph": "/'sitjueit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使位於, 使處於",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 situated｜第三人稱單數 situates｜現在分詞 situating｜過去式 situated"
+ },
+ "situated": {
+  "ph": "/'sitjueitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "位於...的, 坐落在...的, 處於某種境地的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 坐落...的, 位於...的, 處於某種境地的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 situated"
+ },
+ "situation": {
+  "ph": "/.sitju'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "情形, 境遇, 位置",
+    "def": "the general state of things; the combination of circumstances at a given time"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 情境, 處境",
+    "def": ""
+   }
+  ],
+  "forms": "複數 situations"
+ },
+ "situational": {
+  "ph": "/sitju'eiʃәnәl. -tʃu-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "環境形成的；情形的",
+    "def": ""
+   }
+  ]
+ },
+ "situationist": {
+  "ph": "/,sitju'eiʃәnist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "情境畫家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 situationists"
+ },
+ "sitwell": {
+  "ph": "/'sitwәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西特韋爾(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "six": {
+  "ph": "/siks/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "六, 六個",
+    "def": ""
+   }
+  ]
+ },
+ "sixfold": {
+  "ph": "/'siksfәuld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "六倍的, 六重的",
+    "def": ""
+   }
+  ]
+ },
+ "sixpence": {
+  "ph": "/'sikspәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "六便士硬幣, 六便士",
+    "def": "a small coin of the United Kingdom worth six pennies; not minted since 1970"
+   }
+  ],
+  "forms": "複數 sixpences"
+ },
+ "sixpenny": {
+  "ph": "/'sikspәni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "六便士的, 廉價的, 不值錢的",
+    "def": ""
+   }
+  ]
+ },
+ "sixteen": {
+  "ph": "/'siks'ti:n/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "十六, 十六個",
+    "def": ""
+   }
+  ]
+ },
+ "sixteenth": {
+  "ph": "/'siks'ti:nθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第十六, 十六分之一",
+    "def": ""
+   }
+  ]
+ },
+ "sixth": {
+  "ph": "/siksθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第六, 六分之一",
+    "def": ""
+   }
+  ]
+ },
+ "sixth form": {
+  "ph": "/sɪksθ fɔ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（英國中學的最高年級）六年級",
+    "def": ""
+   }
+  ]
+ },
+ "sixthly": {
+  "ph": "/'siksθli/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第六",
+    "def": ""
+   }
+  ]
+ },
+ "sixths": {
+  "ph": "/sɪksθs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（英國中學的最高年級）六年級( sixth的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "sixtieth": {
+  "ph": "/'sikstiiθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第六十, 六十分之一",
+    "def": ""
+   }
+  ]
+ },
+ "sixty": {
+  "ph": "/'siksti/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "六十, 六十個",
+    "def": ""
+   }
+  ]
+ },
+ "sixtyish": {
+  "ph": "/'sikstiiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "六十歲左右的；將近六十歲的",
+    "def": ""
+   }
+  ]
+ },
+ "sizable": {
+  "ph": "/'saizәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相當大的, 大小相當的",
+    "def": ""
+   }
+  ]
+ },
+ "size": {
+  "ph": "/saiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大小, 尺寸, 規模, 尺碼, 能力, 漿料",
+    "def": "the physical magnitude of something (how big it is)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "上漿, 依大小排列",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "可比擬",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "一定大小的, 一定尺寸的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sizes｜過去分詞 sized｜現在分詞 sizing｜過去式 sized｜第三人稱單數 sizes"
+ },
+ "sizeable": {
+  "ph": "/'saizәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相當大的, 可觀的",
+    "def": ""
+   }
+  ]
+ },
+ "sized": {
+  "ph": "/'saizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "依大小排列的, 依大小調整的, 型號的, ...尺碼的",
+    "def": "having a specified size"
+   }
+  ],
+  "forms": "過去分詞 sized｜過去式 sized"
+ },
+ "sizes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "象素顯示尺寸, 尺寸（size複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "sizing": {
+  "ph": "/'saiziŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塗料, 上漿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 調整大小",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sizing"
+ },
+ "sizzle": {
+  "ph": "/'sizl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "發出嘶嘶聲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "燒灼",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "噝噝聲",
+    "def": "a sizzling noise"
+   }
+  ],
+  "forms": "過去式 sizzled｜現在分詞 sizzling｜複數 sizzles｜過去分詞 sizzled｜第三人稱單數 sizzles"
+ },
+ "sizzler": {
+  "ph": "/'sizlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "極燙的東西, 炎熱天",
+    "def": ""
+   }
+  ],
+  "forms": "複數 sizzlers"
+ },
+ "sizzling": {
+  "ph": "/ˈsɪzlɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "發噝噝聲( sizzle的現在分詞 ); 表現良好, 進行順利; 把…燒得哧哧響, 燒焦; 惡言相罵",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 sizzling"
+ }
+}

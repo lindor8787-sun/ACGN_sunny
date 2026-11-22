@@ -1,0 +1,5147 @@
+{
+ "ta": {
+  "ph": "/tɑ:/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "謝謝",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 終端介面卡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tas"
+ },
+ "tab": {
+  "ph": "/tæb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製表(鍵), 搭襻, 標號, 調整片, (易拉罐)拉環, 帳單, 標籤, 製表符",
+    "def": "a short strip of material attached to or projecting from something in order to facilitate opening or identifying or handling it"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 標籤, 製表符, TAB鍵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tabs｜過去分詞 tabbed｜過去式 tabbed｜現在分詞 tabbing"
+ },
+ "tabard": {
+  "ph": "/'tæbәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紋章戰袍, 傳令官制服, 粗布外衣",
+    "def": "a short sleeveless outer tunic emblazoned with a coat of arms; worn by a knight over his armor or by a herald"
+   }
+  ],
+  "forms": "複數 tabards"
+ },
+ "tabasco": {
+  "ph": "/tә'bæskәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔巴斯科辣沙司",
+    "def": "a Mexican state on the Gulf of Campeche"
+   }
+  ]
+ },
+ "tabbouleh": {
+  "ph": "/tә'bu:lә,-li:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔博勒色拉(一種黎巴嫩生菜)",
+    "def": "a finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat"
+   }
+  ]
+ },
+ "tabby": {
+  "ph": "/'tæbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平紋, 斑貓",
+    "def": "a cat with a grey or tawny coat mottled with black"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使起波紋",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "平紋組織的, 起波紋的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tabbies"
+ },
+ "tabernacle": {
+  "ph": "/'tæbәnækl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臨時房屋, 帳篷, (靈魂)暫附肉體, 禮拜堂, 神龕, 壁龕",
+    "def": "the Mormon temple"
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...置於神龕",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "暫居",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tabernacles"
+ },
+ "tabitha": {
+  "ph": "/'tæbiθә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔比瑟(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "tabla": {
+  "ph": "/'tɑ:blɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手鼓",
+    "def": ""
+   }
+  ]
+ },
+ "tablature": {
+  "ph": "/'tæblәtʃә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 顱骨分層",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tablatures"
+ },
+ "table": {
+  "ph": "/'teibl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桌子, 餐桌, 工作臺, 銘文, 表格, 表, 高原, 平地層",
+    "def": "a set of data arranged in rows and columns"
+   },
+   {
+    "pos": "vt.",
+    "zh": "擱置, 嵌合, 製表, 把...列入議事日程",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 表格, 模擬運算表",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tables｜過去分詞 tabled｜過去式 tabled｜現在分詞 tabling｜第三人稱單數 tables"
+ },
+ "table tennis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "乒乓球",
+    "def": ""
+   }
+  ]
+ },
+ "tableau": {
+  "ph": "/'tæblәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生動場面, 戲劇性局面",
+    "def": "a group of people attractively arranged (as if in a painting)"
+   }
+  ],
+  "forms": "複數 tableaux"
+ },
+ "tablecloth": {
+  "ph": "/'teiblklɒθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檯布",
+    "def": "a covering spread over a dining table"
+   }
+  ],
+  "forms": "複數 tablecloths"
+ },
+ "tableland": {
+  "ph": "/'teibllænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高地",
+    "def": "a relatively flat highland"
+   }
+  ],
+  "forms": "複數 tablelands"
+ },
+ "tables": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桌子；附錄；表格（table的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "tablespoon": {
+  "ph": "/'teiblspu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大湯匙",
+    "def": "as much as a tablespoon will hold"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 湯匙, 大匙(15毫升)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tablespoons"
+ },
+ "tablespoonful": {
+  "ph": "/'teib(ә)lspu:nfjl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一餐匙容量, 一大湯匙容量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tablespoonfuls"
+ },
+ "tablet": {
+  "ph": "/'tæblit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平板, 門牌, 筆記簿, 碑, 匾, 藥片",
+    "def": "a slab of stone or wood suitable for bearing an inscription"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 片劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tablets"
+ },
+ "tabletop": {
+  "ph": "/'teibltɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桌面",
+    "def": "the top horizontal work surface of a table"
+   }
+  ],
+  "forms": "複數 tabletops"
+ },
+ "tablets": {
+  "ph": "/'tæblɪts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥片( tablet的名詞複數 ); （木、竹）簡; 碑; 一塊肥皂",
+    "def": ""
+   }
+  ]
+ },
+ "tableware": {
+  "ph": "/'teiblwєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "餐具",
+    "def": "articles for use at the table (dishes and silverware and glassware)"
+   }
+  ]
+ },
+ "tabloid": {
+  "ph": "/'tæblɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小報, 小型畫報, 藥片, 文摘",
+    "def": "newspaper with half-size pages"
+   },
+   {
+    "pos": "adj.",
+    "zh": "轟動性的, 扼要的, 縮略的, 小報式的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tabloids"
+ },
+ "taboo": {
+  "ph": "/tә'bu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "禁忌, 禁止接近, 禁止使用",
+    "def": "a prejudice (especially in Polynesia and other South Pacific islands) that prohibits the use or mention of something because of its sacred nature"
+   },
+   {
+    "pos": "adj.",
+    "zh": "禁忌的, 忌諱的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "禁忌, 忌諱, 禁止",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taboos"
+ },
+ "tabor": {
+  "ph": "/'teibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單面小鼓",
+    "def": "a small drum with one head of soft calfskin"
+   },
+   {
+    "pos": "vi.",
+    "zh": "敲小鼓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tabors"
+ },
+ "tabu": {
+  "ph": "/tә'bu:. tæ-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "禁忌",
+    "def": ""
+   }
+  ]
+ },
+ "tabular": {
+  "ph": "/'tæbjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "製成表的, 扁平的, 表格式的, 平坦的",
+    "def": "of or pertaining to or arranged in table form"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 板狀的",
+    "def": ""
+   }
+  ]
+ },
+ "tabulate": {
+  "ph": "/'tæbjuleit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "作成表, 作成一覽表, 使成平面",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "平板狀的, 平面的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 製表",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tabulated｜第三人稱單數 tabulates｜現在分詞 tabulating｜過去式 tabulated"
+ },
+ "tabulated": {
+  "ph": "/ˈtæbjəˌleɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "把（數字、事實）列成表( tabulate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tabulated"
+ },
+ "tabulation": {
+  "ph": "/.tæbju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "作表, 表格",
+    "def": "information set out in tabular form"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 製表, 列表",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tabulations"
+ },
+ "tac": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 東京大學自動計算機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tacs"
+ },
+ "tach": {
+  "ph": "/tæk/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "環節（tache）；轉速計（tachometer）",
+    "def": ""
+   }
+  ]
+ },
+ "tachometer": {
+  "ph": "/tә'kɒmitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉速計, 流速計",
+    "def": "measuring instrument for indicating speed of rotation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 血流速度計",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tachometers"
+ },
+ "tachycardia": {
+  "ph": "/.tæki'kɑ:diә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "心動過速",
+    "def": "abnormally rapid heartbeat (over 100 beats per minute)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 心博過速, 心動過速",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tachycardias"
+ },
+ "tachyon": {
+  "ph": "/'tæki:ɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[核]超光速粒子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tachyons"
+ },
+ "tacit": {
+  "ph": "/'tæsit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沉默寡言的, 不苟言笑的, 緘默的",
+    "def": ""
+   }
+  ]
+ },
+ "tacitly": {
+  "ph": "/'tæsɪtlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "肅靜地, 沉默地",
+    "def": ""
+   }
+  ]
+ },
+ "taciturn": {
+  "ph": "/'tæsitә:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沉默寡言的, 不太說話的, 無言的",
+    "def": "habitually reserved and uncommunicative"
+   }
+  ]
+ },
+ "taciturnity": {
+  "ph": "/.tæsi'tә:nәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉默寡言, 無言, 不太說話",
+    "def": ""
+   }
+  ]
+ },
+ "tacitus": {
+  "ph": "/tæsitəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔西佗（古羅馬元老院議員）",
+    "def": "Roman historian who wrote major works on the history of the Roman Empire (56-120)"
+   }
+  ]
+ },
+ "tack": {
+  "ph": "/tæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平頭釘, 大頭釘, 粗縫針腳, 行動方針, 食物",
+    "def": "the heading or position of a vessel relative to the trim of its sails"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以大頭針釘住, 附加",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tacks｜過去分詞 tacked｜過去式 tacked｜現在分詞 tacking｜第三人稱單數 tacks"
+ },
+ "tackiness": {
+  "ph": "/'tækinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粘著性",
+    "def": ""
+   }
+  ]
+ },
+ "tacking": {
+  "ph": "/'tækiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 抵押優先清償",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tacking"
+ },
+ "tackle": {
+  "ph": "/'tækl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工具, 復滑車, 滑車, 裝備, 扭倒",
+    "def": "the person who plays that position on a football team"
+   },
+   {
+    "pos": "vt.",
+    "zh": "固定, 處理, 抓住",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "扭倒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tackling｜過去分詞 tackled｜過去式 tackled｜第三人稱單數 tackles｜複數 tackles"
+ },
+ "tackler": {
+  "ph": "/'tæklә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "做抓和揪動作的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tacklers"
+ },
+ "tackling": {
+  "ph": "/'tækliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用具, 裝備, 套具, 扭住, 抱住, 捲起",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tackling"
+ },
+ "tacky": {
+  "ph": "/'tæki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發粘的, 破爛的, 俗麗的",
+    "def": ""
+   }
+  ]
+ },
+ "taco": {
+  "ph": "/'tɑ:kәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墨西哥煎玉米卷；[美俚]墨西哥人",
+    "def": "a tortilla rolled cupped around a filling"
+   }
+  ],
+  "forms": "複數 tacos"
+ },
+ "taconite": {
+  "ph": "/'tækәnait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐵燧巖",
+    "def": "a variety of chert containing magnetite and hematite; mined as a low-grade iron ore"
+   }
+  ]
+ },
+ "tact": {
+  "ph": "/tækt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機智, 手法, 老練",
+    "def": "consideration in dealing with others and avoiding giving offense"
+   },
+   {
+    "pos": "",
+    "zh": "[經] (自動加工線的)生產節拍",
+    "def": ""
+   }
+  ]
+ },
+ "tactful": {
+  "ph": "/'tæktful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "機智的, 老練的",
+    "def": "having or showing a sense of what is fitting and considerate in dealing with others"
+   }
+  ]
+ },
+ "tactfully": {
+  "ph": "/'tæktfəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "言行得體地, 不得罪人地, 能贏得好感地",
+    "def": ""
+   }
+  ]
+ },
+ "tactic": {
+  "ph": "/'tæktik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一項戰術, 一條策略",
+    "def": "a plan for attaining a particular goal"
+   },
+   {
+    "pos": "adj.",
+    "zh": "戰術的, 順序的, 排列的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tactics"
+ },
+ "tactical": {
+  "ph": "/'tæktikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "戰術的, 用兵上的, 策略的",
+    "def": "of or pertaining to tactic or tactics"
+   }
+  ]
+ },
+ "tactically": {
+  "ph": "/'tæktɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在戰術上",
+    "def": ""
+   }
+  ]
+ },
+ "tactician": {
+  "ph": "/tæk'tiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戰術家, 謀士",
+    "def": "a person who is skilled at planning tactics"
+   }
+  ],
+  "forms": "複數 tacticians"
+ },
+ "tactics": {
+  "ph": "/'tæktiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用兵學, 戰術, 兵法",
+    "def": "the branch of military science dealing with detailed maneuvers to achieve objectives set by strategy"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 戰術, 策略",
+    "def": ""
+   }
+  ]
+ },
+ "tactile": {
+  "ph": "/'tæktail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "觸覺的, 有觸覺的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 觸覺的",
+    "def": ""
+   }
+  ]
+ },
+ "tactility": {
+  "ph": "/tæk'tiliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "觸感",
+    "def": ""
+   }
+  ]
+ },
+ "tactless": {
+  "ph": "/'tæktlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不機智的, 不機敏的",
+    "def": "lacking or showing a lack of what is fitting and considerate in dealing with others"
+   }
+  ]
+ },
+ "tactlessly": {
+  "ph": "/'tæktlisli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "粗魯地, 笨拙地, 不老練地",
+    "def": ""
+   }
+  ]
+ },
+ "tactlessness": {
+  "ph": "/'tæktlisnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粗魯, 笨拙",
+    "def": "the quality of lacking tact"
+   }
+  ]
+ },
+ "tactual": {
+  "ph": "/'tæktʃuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "觸覺的, 憑觸覺的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 觸覺的",
+    "def": ""
+   }
+  ]
+ },
+ "tad": {
+  "ph": "/tæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(美)(非正式)男孩, 小孩子, 少量",
+    "def": "a slight amount or degree of difference"
+   }
+  ]
+ },
+ "tadeusz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tadeusz)人名；(波)塔德烏什",
+    "def": ""
+   }
+  ]
+ },
+ "tadpole": {
+  "ph": "/'tædpәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蝌蚪",
+    "def": "a larval frog or toad"
+   }
+  ],
+  "forms": "複數 tadpoles"
+ },
+ "tae": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "教學質量評估（Teaching Assessment Exercise）；全部預測支出（Total Anticipated Expenditures ）；測試接入裝置（Test Access Equipment）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taes"
+ },
+ "taekwondo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跆拳道",
+    "def": ""
+   }
+  ]
+ },
+ "taff": {
+  "ph": "/tæf/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "胖的, 肥胖的",
+    "def": ""
+   }
+  ]
+ },
+ "taffeta": {
+  "ph": "/'tæfitә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 塔夫綢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taffetas"
+ },
+ "taffy": {
+  "ph": "/'tæfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "太妃糖, 阿諛, 威爾士人",
+    "def": "chewy candy of sugar or syrup boiled until thick and pulled until glossy"
+   }
+  ]
+ },
+ "taft": {
+  "ph": "/tæft, tɑ:ft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔夫脫（姓氏）",
+    "def": "United States sculptor (1860-1936)"
+   }
+  ]
+ },
+ "tag": {
+  "ph": "/tæg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "標籤, 附屬物, 碎片, 結束語, 口頭禪, 附加語, 渾名, 標記, 標記符",
+    "def": "a label written or printed on paper, cardboard, or plastic that is attached to something to indicate its owner, nature, price, etc."
+   },
+   {
+    "pos": "vt.",
+    "zh": "附以籤條, 尾隨, 添飾, 起渾名, 連線",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "緊緊跟隨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 標記",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tags｜過去分詞 tagged｜現在分詞 tagging｜過去式 tagged｜第三人稱單數 tags"
+ },
+ "taggart": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Taggart)人名；(英)塔格特",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "塔格特",
+    "def": ""
+   }
+  ]
+ },
+ "tagged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "標記的；示蹤的；加標記的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tagged｜過去分詞 tagged"
+ },
+ "tagger": {
+  "ph": "/'tægә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "垂下物, 尾隨者, 薄鐵片, 附加物",
+    "def": "someone who assigns labels to the grammatical constituents of textual matter"
+   }
+  ],
+  "forms": "複數 taggers"
+ },
+ "tagging": {
+  "ph": "/'tæ^iŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 標記, 特徵, 標籤",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 標記",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tagging"
+ },
+ "tagine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泰瓊鍋羊肉(北非燉菜, 已傳入美國)",
+    "def": ""
+   }
+  ]
+ },
+ "tagliatelle": {
+  "ph": "/ˌtæljəˈteli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義大利乾麵條",
+    "def": "pasta cut in narrow ribbons"
+   }
+  ]
+ },
+ "tagline": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宣傳詞; 標籤行; 作為一個口號或信條",
+    "def": ""
+   }
+  ]
+ },
+ "tahini": {
+  "ph": "/tɑ:'hi:ni,tә-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(中東地區調味用的)芝麻醬",
+    "def": "a thick Middle Eastern paste made from ground sesame seeds"
+   }
+  ]
+ },
+ "tahiti": {
+  "ph": "/tɑ:'hi:ti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔希提島（位於南太平洋, 法屬波利西亞的經濟活動中心）",
+    "def": "an island in the south Pacific; the most important island in French Polynesia; made famous by Robert Louis Stevenson and Paul Gauguin"
+   }
+  ]
+ },
+ "tahitian": {
+  "ph": "/tә'hi:ʃәn, tɑ:-; -hi:ʃiәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔希提島的, 塔希提人的, 塔希提語的, 塔希提人(尤指該島的波利尼西亞人)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tahitians"
+ },
+ "tai": {
+  "ph": "/tai, 'tɑ:i:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "泰國國際航空公司（Thai Airways International）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tai"
+ },
+ "taif": {
+  "ph": "/'tɑ:if/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔伊夫（沙烏地阿拉伯西部城市）",
+    "def": "a city in western Saudi Arabia to the east of Mecca"
+   }
+  ]
+ },
+ "taiga": {
+  "ph": "/'taigә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泰加針葉林",
+    "def": ""
+   }
+  ]
+ },
+ "tail": {
+  "ph": "/teil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尾部, 後部, 辮子, 隨員, 特務, 燕尾服, 蹤跡, 限定繼承(權)",
+    "def": "the posterior part of the body of a vertebrate especially when elongated and extending beyond the trunk or main part of the body"
+   },
+   {
+    "pos": "adj.",
+    "zh": "在後面的, 從後面而來的, 限定繼承的, 尾部的, 後部的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "為...裝尾, 附於其後, 尾隨, 使搭牢, 跟蹤, 監視",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "跟蹤, 船尾擱淺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tails｜過去式 tailed｜現在分詞 tailing｜過去分詞 tailed｜第三人稱單數 tails"
+ },
+ "tailback": {
+  "ph": "/ˈteɪlbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英>交通堵塞",
+    "def": "(American football) the person who plays tailback"
+   }
+  ],
+  "forms": "複數 tailbacks"
+ },
+ "tailbone": {
+  "ph": "/ˈteɪlbəʊn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "尾骨",
+    "def": ""
+   }
+  ]
+ },
+ "tailcoat": {
+  "ph": "/'teilkәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燕尾服",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tailcoats｜過去式 tailcoated"
+ },
+ "tailed": {
+  "ph": "/teild/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有...尾的, 去掉尾的, 有...狀尾的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 尾部, 尾標, 結束符",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tailed"
+ },
+ "tailfin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尾翼；垂直翼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tailfins"
+ },
+ "tailgate": {
+  "ph": "/'teilgeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "後擋板",
+    "def": "a gate at the rear of a vehicle; can be lowered for loading"
+   }
+  ],
+  "forms": "現在分詞 tailgating｜複數 tailgates｜過去式 tailgated｜第三人稱單數 tailgates｜過去分詞 tailgated"
+ },
+ "tailgater": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "後擋板；下閘門 (tailgate的變形)",
+    "def": "a driver who follows too closely behind another motor vehicle"
+   }
+  ]
+ },
+ "tailgating": {
+  "ph": "/ˈteilɡeitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "借道",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "（卡車等的）後擋板( tailgate的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "tailing": {
+  "ph": "/'teiliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下腳, 嵌入牆中磚石突出部, 尾料",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 譜尾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tailings｜現在分詞 tailing"
+ },
+ "tailless": {
+  "ph": "/'teillis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無尾的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無財產繼承之限制的",
+    "def": ""
+   }
+  ]
+ },
+ "taillight": {
+  "ph": "/'teillait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尾燈",
+    "def": "lamp (usually red) mounted at the rear of a motor vehicle"
+   }
+  ]
+ },
+ "tailor": {
+  "ph": "/'teilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裁縫, 成衣匠",
+    "def": "a person whose occupation is making and altering garments"
+   },
+   {
+    "pos": "vt.",
+    "zh": "縫製, 製作, 使適應",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "做裁縫",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tailored｜過去式 tailored｜複數 tailors｜第三人稱單數 tailors｜現在分詞 tailoring"
+ },
+ "tailor-made": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裁縫做的, 特製的",
+    "def": ""
+   }
+  ]
+ },
+ "tailored": {
+  "ph": "/'teilәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裁縫做的, 似裁縫做的, 特製的, 定做的, 穿著考究的, 時髦的, 乾淨利索的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tailored｜過去式 tailored"
+ },
+ "tailoring": {
+  "ph": "/'teilәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裁縫業, 做衣服, 成衣, 剪裁, 製作",
+    "def": "the occupation of a tailor"
+   }
+  ],
+  "forms": "現在分詞 tailoring"
+ },
+ "tailpiece": {
+  "ph": "/'teilpi:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尾部附屬物, 端件",
+    "def": "appendage added to extend the length of something"
+   }
+  ],
+  "forms": "複數 tailpieces"
+ },
+ "tailpipe": {
+  "ph": "/'teilpaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[汽]排氣管",
+    "def": "a pipe carrying fumes from the muffler to the rear of a car"
+   }
+  ],
+  "forms": "複數 tailpipes"
+ },
+ "tailplane": {
+  "ph": "/ˈteɪlpleɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（飛機的）橫尾翼, 水平安定面",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tailplanes"
+ },
+ "tailspin": {
+  "ph": "/'teilspin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋尾降落",
+    "def": "loss of emotional control often resulting in emotional collapse"
+   }
+  ]
+ },
+ "tailwater": {
+  "ph": "/'teɪlwɔ:tə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "下游",
+    "def": ""
+   }
+  ]
+ },
+ "tailwind": {
+  "ph": "/ˈteɪlwɪnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（從後面吹來的）順風",
+    "def": "wind blowing in the same direction as the path of a ship or aircraft"
+   }
+  ],
+  "forms": "過去分詞 tailwinded"
+ },
+ "taint": {
+  "ph": "/teint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汙點, 恥辱, 感染",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "汙染, 使腐敗, 沾染, 腐蝕",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tainted｜第三人稱單數 taints｜現在分詞 tainting｜過去式 tainted｜複數 taints"
+ },
+ "tainted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腐壞的, 汙染的, 沾汙的, 感染的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有汙點的, 汙染的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tainted"
+ },
+ "taipei": {
+  "ph": "/'tai'pei, -'bei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臺北",
+    "def": "the capital of Nationalist China; located in northern Taiwan"
+   }
+  ],
+  "forms": "複數 taipei"
+ },
+ "tait": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 泰特",
+    "def": ""
+   }
+  ]
+ },
+ "taiwan": {
+  "ph": "/'tai'wɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臺灣",
+    "def": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+   }
+  ]
+ },
+ "taiwanese": {
+  "ph": "/,taiwɑ:'ni:z, -'ni:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "臺灣人的；臺灣的",
+    "def": "of or relating to or characteristic of the island republic on Taiwan or its residents or their language"
+   }
+  ]
+ },
+ "taj": {
+  "ph": "/tɑ:dʒ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(伊斯蘭教徒的)圓錐形高帽, (印度Agra的)泰姬陵",
+    "def": ""
+   }
+  ]
+ },
+ "tajik": {
+  "ph": "/'tɑ:dʒik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔吉克人[族]",
+    "def": ""
+   }
+  ]
+ },
+ "tajikistan": {
+  "ph": "/tɑ:dʒiki'stɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔吉克",
+    "def": "a landlocked mountainous republic in southeast central Asia to the north of Afghanistan; formerly an Asian soviet"
+   }
+  ]
+ },
+ "take": {
+  "ph": "/teik/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "拿, 取, 抓, 帶領, 獲得, 就座, 接受, 吃, 吸引, 採取, 乘, 需要, 花費",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "吃掉對方棋子, 抓住, 起作用, 依法獲得財產",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "拿, 取, 收成, 奏效",
+    "def": "the act of photographing a scene or part of a scene without interruption"
+   }
+  ],
+  "forms": "過去式 took｜過去分詞 taken｜現在分詞 taking｜第三人稱單數 takes"
+ },
+ "take action": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "採取行動, 提出訴訟",
+    "def": ""
+   }
+  ]
+ },
+ "take advantage of": {
+  "ph": "/teik ədˈvɑ:ntidʒ ɔv/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "利用",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "欺騙, 佔…的便宜",
+    "def": ""
+   }
+  ]
+ },
+ "take care": {
+  "ph": "/teik kɛə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "當心, 小心; 堅持到底",
+    "def": ""
+   }
+  ]
+ },
+ "take notice of": {
+  "ph": "/teik ˈnəutis ɔv/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "注意到; 在意; 睬; 理睬",
+    "def": ""
+   }
+  ]
+ },
+ "take part": {
+  "ph": "/teik pɑ:t/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[體]參加比賽",
+    "def": ""
+   }
+  ]
+ },
+ "take place": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "發生",
+    "def": ""
+   }
+  ]
+ },
+ "take sth off": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拿去, 拿走, 去掉, 取消, 脫下, 奪去, 複製, 帶領",
+    "def": ""
+   }
+  ]
+ },
+ "takeaway": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外吃的, 外賣的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "外賣食品的餐館, 外賣食品的商店",
+    "def": "a concession made by a labor union to a company that is trying to lower its expenditures"
+   }
+  ],
+  "forms": "複數 takeaways"
+ },
+ "takedown": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拆卸, (非正式)失面子, 羞辱",
+    "def": "(amateur wrestling) being brought to the mat from a standing position"
+   },
+   {
+    "pos": "adj.",
+    "zh": "可拆卸的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 卸下",
+    "def": ""
+   }
+  ]
+ },
+ "taken": {
+  "ph": "/'teikәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "take的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 taken"
+ },
+ "takeoff": {
+  "ph": "/'teikɒ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "起飛",
+    "def": "a departure; especially of airplanes"
+   }
+  ],
+  "forms": "複數 takeoffs"
+ },
+ "takeover": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "接管, 接收",
+    "def": "a change by sale or merger in the controlling interest of a corporation"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 接收",
+    "def": ""
+   }
+  ],
+  "forms": "複數 takeovers"
+ },
+ "taker": {
+  "ph": "/'teikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "取者, 捕者, 接受者, 收取者",
+    "def": "one who accepts an offer"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 受者, 收票人, 接受打賭的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 takers"
+ },
+ "taking": {
+  "ph": "/'teikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "取得, 捕獲, 進款",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "迷人的, 可愛的, 會傳染的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 takings｜現在分詞 taking"
+ },
+ "tal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "事物處理應用語言（Transaction Application Language）",
+    "def": ""
+   }
+  ]
+ },
+ "talbot": {
+  "ph": "/'tɔ:lbәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動]塔爾博特提獵狗",
+    "def": "English inventor and pioneer in photography who published the first book illustrated with photographs (1800-1877)"
+   }
+  ]
+ },
+ "talc": {
+  "ph": "/tælk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑石, 雲母",
+    "def": "a fine grained mineral having a soft soapy feel and consisting of hydrated magnesium silicate; used in a variety of products including talcum powder"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用滑石粉擦, 用滑石粉處理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 talcs｜現在分詞 talcking｜過去式 talcked｜第三人稱單數 talcs｜過去分詞 talcked"
+ },
+ "talcum": {
+  "ph": "/'tælkәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑石",
+    "def": "a toilet powder made of purified talc and usually scented; absorbs excess moisture"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 滑石, 滑石粉",
+    "def": ""
+   }
+  ]
+ },
+ "tale": {
+  "ph": "/teil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "故事, 謊言, 謠言, 陳述, 敘述",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 虛語, 誹語, 謠言",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tales"
+ },
+ "talent": {
+  "ph": "/'tælәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天才, 才能, 有才幹的人, 天資",
+    "def": "a person who possesses unusual innate ability in some field or activity"
+   }
+  ],
+  "forms": "複數 talents"
+ },
+ "talented": {
+  "ph": "/'tælәntid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "天資高的, 有才能的",
+    "def": "endowed with talent or talents"
+   }
+  ]
+ },
+ "talentless": {
+  "ph": "/'tælәntlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無能的",
+    "def": ""
+   }
+  ]
+ },
+ "taliban": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔利班",
+    "def": ""
+   }
+  ]
+ },
+ "taliesin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔裡辛（住宅名）",
+    "def": ""
+   }
+  ]
+ },
+ "talisman": {
+  "ph": "/'tælizmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "護身符, 驅邪物, 法寶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 talismans"
+ },
+ "talismanic": {
+  "ph": "/,tæliz'mænik, - lis-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "護符的, 有護符般效力的",
+    "def": ""
+   }
+  ]
+ },
+ "talk": {
+  "ph": "/tɒ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "談話, 交談, 會談, 講話, 演講, 空談, 謠言, 方言, 語言",
+    "def": "an exchange of ideas via conversation"
+   },
+   {
+    "pos": "vi.",
+    "zh": "講話, 演講, 說話, 談話, 交流, 閒聊, 說閒話",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "講, 說, 討論, 談論",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 對話類, 聊天",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 talking｜複數 talks｜過去式 talked｜過去分詞 talked｜第三人稱單數 talks"
+ },
+ "talk show": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "訪談節目",
+    "def": ""
+   }
+  ]
+ },
+ "talkative": {
+  "ph": "/'tɒ:kәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喜歡說話的, 饒舌的, 多嘴的",
+    "def": ""
+   }
+  ]
+ },
+ "talkativeness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛說話, 愛講話；饒舌",
+    "def": ""
+   }
+  ]
+ },
+ "talkback": {
+  "ph": "/ˈtɔ:kbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對講系統, 對講電話",
+    "def": ""
+   }
+  ]
+ },
+ "talker": {
+  "ph": "/'tɒ:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說話的人, 饒舌者, 空談者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 talkers"
+ },
+ "talkie": {
+  "ph": "/'tɒ:ki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有聲電影",
+    "def": ""
+   }
+  ]
+ },
+ "talkin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 託金",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 talkin"
+ },
+ "talking": {
+  "ph": "/'tɒ:kiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "說話的, 多嘴的, 富有表情的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "講話, 談論",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 talking｜複數 talkings"
+ },
+ "talky": {
+  "ph": "/'tɒ:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "對話過多的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 talkies｜第三人稱單數 talkies"
+ },
+ "tall": {
+  "ph": "/tɒ:l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高的, 長的, 誇大的",
+    "def": "great in vertical dimension; high in stature"
+   },
+   {
+    "pos": "adv.",
+    "zh": "誇大地",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 taller｜最高級 tallest"
+ },
+ "tallboy": {
+  "ph": "/'tɒ:lbɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高腳五斗櫥, 雙層櫃",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tallboys"
+ },
+ "tallgrass": {
+  "ph": "/'tɔ:l^rɑ:s/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "高杆草",
+    "def": ""
+   }
+  ]
+ },
+ "tallinn": {
+  "ph": "/'tælin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔林[愛沙尼亞共和國首都]",
+    "def": ""
+   }
+  ]
+ },
+ "tallis": {
+  "ph": "/'tɑ:lis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猶太教男人晨禱時的披巾",
+    "def": "English organist and composer of church and secular music; was granted a monopoly in music printing with William Byrd (1505-1585)"
+   }
+  ]
+ },
+ "tallish": {
+  "ph": "/'tɒ:liʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "稍高的, 身材較高的",
+    "def": ""
+   }
+  ]
+ },
+ "tallness": {
+  "ph": "/'tɒ:lnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高, 高度",
+    "def": "the property of being taller than average stature"
+   }
+  ]
+ },
+ "tallow": {
+  "ph": "/'tælәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油脂, 動物脂油",
+    "def": "obtained from suet and used in making soap, candles and lubricants"
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗脂油於",
+    "def": ""
+   }
+  ]
+ },
+ "tally": {
+  "ph": "/'tæli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "符木, 記賬, 得分, 比分, 計數器, 標籤, 符合, 對應物",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "記錄, 點數, 計算, 加標籤於, 使符合",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "記帳, 符合, 吻合, 記分",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 計數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tallies｜第三人稱單數 tallies｜過去式 tallied｜現在分詞 tallying｜過去分詞 tallied"
+ },
+ "talmud": {
+  "ph": "/'tælmud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<<塔木德經>>(猶太教法典)",
+    "def": "the collection of ancient rabbinic writings on Jewish law and tradition (the Mishna and the Gemara) that constitute the basis of religious authority in Orthodox"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 猶太教的法典",
+    "def": ""
+   }
+  ]
+ },
+ "talmudic": {
+  "ph": "/tæl'mudik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<<塔木德經>>的",
+    "def": "Alt. of Talmudical"
+   }
+  ]
+ },
+ "talon": {
+  "ph": "/'tælәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爪, 如爪的手, 魔爪, 爪飾",
+    "def": "a sharp hooked claw especially on a bird of prey"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 磨牙低尖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 talons｜過去式 taloned｜過去分詞 taloned"
+ },
+ "taloned": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（動物）有爪的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "爪形的",
+    "def": ""
+   }
+  ]
+ },
+ "talus": {
+  "ph": "/'teilәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "距骨, 踝, 斜面",
+    "def": "a sloping mass of loose rocks at the base of a cliff"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 距骨",
+    "def": ""
+   }
+  ]
+ },
+ "tam": {
+  "ph": "/tæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "便帽（蘇格蘭人戴的）",
+    "def": "a woolen cap of Scottish origin"
+   }
+  ]
+ },
+ "tamale": {
+  "ph": "/tә'mɑ:li/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玉米粉蒸肉",
+    "def": "a city in northern Ghana"
+   }
+  ],
+  "forms": "複數 tamales"
+ },
+ "tamar": {
+  "ph": "/tә'mɑ:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "他瑪(基督教《聖經》故事人物)",
+    "def": ""
+   }
+  ]
+ },
+ "tamara": {
+  "ph": "/tә'mærә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔瑪拉(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "tamarack": {
+  "ph": "/'tæmәræk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美洲落葉松",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 北美落葉松",
+    "def": ""
+   }
+  ]
+ },
+ "tamarin": {
+  "ph": "/'tæmәrin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[動]絹毛猴(南美洲產)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tamarins"
+ },
+ "tamarind": {
+  "ph": "/'tæmәrind/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羅望子, 羅望子的果實",
+    "def": "long-lived tropical evergreen tree with a spreading crown and feathery evergreen foliage and fragrant flowers yielding hard yellowish wood and long pods with ed"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 羅晃子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tamarinds"
+ },
+ "tamarisk": {
+  "ph": "/'tæmәrisk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檉柳",
+    "def": "any shrub or small tree of the genus Tamarix having small scalelike or needle-shaped leaves and feathery racemes of small white or pinkish flowers; of mostly co"
+   }
+  ],
+  "forms": "複數 tamarisks"
+ },
+ "tambour": {
+  "ph": "/'tæm.buә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼓, 繃圈",
+    "def": "a frame made of two hoops; used for embroidering"
+   },
+   {
+    "pos": "vt.",
+    "zh": "在繃圈上刺繡",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "用繃圈刺繡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tambours｜過去式 tamboured"
+ },
+ "tambourine": {
+  "ph": "/.tæmbә'ri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小手鼓",
+    "def": "a shallow drum with a single drumhead and with metallic disks in the sides"
+   }
+  ],
+  "forms": "複數 tambourines"
+ },
+ "tame": {
+  "ph": "/teim/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "馴服的, 柔順的, 被開墾的, 順從的, 乏味的, 平淡的",
+    "def": "very restrained or quiet"
+   },
+   {
+    "pos": "vt.",
+    "zh": "馴養, 馴服, 制服, 失去鋒芒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變得馴服",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tamed｜現在分詞 taming｜過去式 tamed｜比較級 tamer｜第三人稱單數 tames"
+ },
+ "tamed": {
+  "ph": "/teimd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）服從, 馴服( tame的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tamed｜過去式 tamed"
+ },
+ "tamely": {
+  "ph": "/'teimli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "馴服地, 溫順地, 沒有骨氣地",
+    "def": ""
+   }
+  ]
+ },
+ "tameness": {
+  "ph": "/'teimnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馴服, 溫順",
+    "def": "the attribute of having been domesticated"
+   }
+  ]
+ },
+ "tamer": {
+  "ph": "/'teimә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馴服手",
+    "def": "an animal trainer who tames wild animals"
+   }
+  ],
+  "forms": "複數 tamers"
+ },
+ "tamil": {
+  "ph": "/'tæmil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泰米爾人, 泰米爾語",
+    "def": "a member of the mixed Dravidian and Caucasian people of southern India and Sri Lanka"
+   }
+  ],
+  "forms": "複數 tamils"
+ },
+ "taming": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馴養",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 taming"
+ },
+ "tammuz": {
+  "ph": "/'tæmu:z; -uz; 'tɑ:mmu:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "坦木茲（猶太曆的10月）",
+    "def": "the tenth month of the civil year; the fourth month of the ecclesiastic year (in June and July)"
+   }
+  ]
+ },
+ "tammy": {
+  "ph": "/'tæmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種便帽（等於tam-o'-shanter）；棉經毛緯平紋呢（等於tammie）；濾汁布",
+    "def": "plain-woven (often glazed) fabric of wool or wool and cotton used especially formerly for linings and garments and curtains"
+   }
+  ]
+ },
+ "tamoxifen": {
+  "ph": "/tә'mɔksifen/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 他莫昔芬; 三苯氧胺",
+    "def": ""
+   }
+  ]
+ },
+ "tamp": {
+  "ph": "/tæmp/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用粘土填塞, 搗固, 夯實",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "搗棒, 夯",
+    "def": "a tool for tamping (e.g., for tamping tobacco into a pipe bowl or a charge into a drill hole etc.)"
+   }
+  ],
+  "forms": "過去式 tamped｜現在分詞 tamping｜過去分詞 tamped｜第三人稱單數 tamps"
+ },
+ "tampa": {
+  "ph": "/'tæmpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "坦帕市（美國佛羅里達州西部港市）",
+    "def": "a resort city in western Florida; located on Tampa Bay on the Gulf of Mexico"
+   }
+  ]
+ },
+ "tampax": {
+  "ph": "/'tæmpæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "丹碧斯月經棉塞[商標名]",
+    "def": "tampon used to absorb menstrual flow"
+   }
+  ]
+ },
+ "tamper": {
+  "ph": "/'tæmpә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "干預, 撥弄, 賄賂, 損害, 篡改",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "篡改",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "搗棒, 打夯機, 填塞者",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tampering｜過去分詞 tampered｜過去式 tampered｜第三人稱單數 tampers"
+ },
+ "tampering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 賄賂, 收買",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tampering"
+ },
+ "tampon": {
+  "ph": "/'tæmpɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞子, 棉塞, 止血棉塞",
+    "def": "plug of cotton or other absorbent material; inserted into wound or body cavity to absorb exuded fluids (especially blood)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用棉塞塞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tampons｜現在分詞 tamponing｜過去式 tamponed｜第三人稱單數 tampons｜過去分詞 tamponed"
+ },
+ "tamponade": {
+  "ph": "/,tæmpә'neid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 填塞, 壓塞",
+    "def": ""
+   }
+  ]
+ },
+ "tamworth": {
+  "ph": "/'tæmwә:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔姆沃思豬(一種皮毛呈紅棕色的英國種肉用豬)",
+    "def": ""
+   }
+  ]
+ },
+ "tan": {
+  "ph": "/tæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃褐色, 鞣料, 馬戲團",
+    "def": "a browning of the skin resulting from exposure to the rays of the sun"
+   },
+   {
+    "pos": "adj.",
+    "zh": "黃褐色的, 鞣皮的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "曬成棕褐色",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...曬黑, 鞣(革), 狠狠鞭打",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tans｜過去式 tanned｜過去分詞 tanned｜現在分詞 tanning｜第三人稱單數 tans"
+ },
+ "tanager": {
+  "ph": "/'tænәdʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[鳥](中美洲產的豔羽鳴禽)唐納雀",
+    "def": "any of numerous New World woodland birds having brightly colored males"
+   }
+  ],
+  "forms": "複數 tanagers"
+ },
+ "tanaka": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 鷓鴣菜, 海人草",
+    "def": ""
+   }
+  ]
+ },
+ "tancred": {
+  "ph": "/'tæŋkrid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人姓氏] 坦克雷德來源於古法語人名+日耳曼語, 含義是“思考+忠告”(thought+counsel)",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tancred"
+ },
+ "tandem": {
+  "ph": "/'tændәm/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "一前一後地, 縱排地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "縱排的, 串聯的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "縱列兩匹馬拉的馬車, 前後縱列的兩匹馬, 串座雙人腳踏車",
+    "def": "an arrangement of two or more objects or persons one behind another"
+   }
+  ],
+  "forms": "複數 tandems"
+ },
+ "tandoori": {
+  "ph": "/tæn'djәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唐杜裡烹飪法,泥爐炭火烹飪法(一種印度烹飪法)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tandoori"
+ },
+ "tandy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tandy)人名；(英、德)坦迪",
+    "def": "United States actress (born in England) who made many stage appearances, often with her husband Hume Cronyn (1909-1994)"
+   }
+  ]
+ },
+ "tang": {
+  "ph": "/tæŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "強烈味道, 特殊的氣味, 特性, 柄腳, 噹的一聲, 墨角藻",
+    "def": "the imperial dynasty of China from 618 to 907"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使發氣味, 裝刀柄於, 使發出噹的一聲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發出噹的一聲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tangs"
+ },
+ "tanganyika": {
+  "ph": "/,tæŋ^ә'nji:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "坦噶尼喀(坦尚尼亞的一部分,在非洲東部),坦噶尼喀湖",
+    "def": "a former state in East Africa; united with Zanzibar in 1964 to form Tanzania"
+   }
+  ]
+ },
+ "tangent": {
+  "ph": "/'tændʒәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "接觸的, 正切的, 離題的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "切線, 正切",
+    "def": "a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point"
+   }
+  ],
+  "forms": "複數 tangents"
+ },
+ "tangential": {
+  "ph": "/tæn'dʒenʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "切線的, 相切的, 正切的, 離題的, 扯遠的",
+    "def": "of or relating to or acting along or in the direction of a tangent"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 正切的, 切線的",
+    "def": ""
+   }
+  ]
+ },
+ "tangentially": {
+  "ph": "/tæn'dʒenʃlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無關地",
+    "def": ""
+   }
+  ]
+ },
+ "tangerine": {
+  "ph": "/.tændʒә'ri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柑橘",
+    "def": "a variety of mandarin orange"
+   }
+  ],
+  "forms": "複數 tangerines"
+ },
+ "tangible": {
+  "ph": "/'tændʒәbl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可觸知的東西, 有形資產",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "可觸控的, 有實體的, 非相像的, 有形的, 明確的",
+    "def": "perceptible by the senses especially the sense of touch"
+   }
+  ],
+  "forms": "複數 tangibles"
+ },
+ "tangibly": {
+  "ph": "/'tændʒәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可觸知地",
+    "def": ""
+   }
+  ]
+ },
+ "tangier": {
+  "ph": "/tæn'dʒiә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "丹吉爾 [摩洛哥北部港市]",
+    "def": ""
+   }
+  ]
+ },
+ "tangle": {
+  "ph": "/'tæŋgl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "纏結, 糾結的一團, 困惑, 糾紛, 混亂",
+    "def": "a twisted and tangled mass that is highly interwoven"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使纏結, 纏住",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "纏結, 亂作一團",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tangles｜過去式 tangled｜過去分詞 tangled｜現在分詞 tangling｜第三人稱單數 tangles"
+ },
+ "tangled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "糾纏的, 紊亂的",
+    "def": "in a confused mass"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 複雜的, 纏結的, 繁亂的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tangled｜過去式 tangled"
+ },
+ "tango": {
+  "ph": "/'tæŋgәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "探戈舞, 探戈舞曲",
+    "def": "a ballroom dance of Latin-American origin"
+   },
+   {
+    "pos": "vi.",
+    "zh": "跳探戈舞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tangos｜現在分詞 tangoing｜過去式 tangoed｜第三人稱單數 tangoes｜過去分詞 tangoed"
+ },
+ "tangy": {
+  "ph": "/'tæŋi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有強烈鹽味的, 氣味刺鼻的, 有刺激性的",
+    "def": ""
+   }
+  ]
+ },
+ "tania": {
+  "ph": "/'tæniә,-njә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]芋類",
+    "def": ""
+   }
+  ]
+ },
+ "tank": {
+  "ph": "/tæŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "槽, 箱, 櫃, 罐, 池塘, 儲水池, 坦克",
+    "def": "an enclosed armored military vehicle; has a cannon and moves on caterpillar treads"
+   },
+   {
+    "pos": "vt.",
+    "zh": "儲於箱中",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tanks｜現在分詞 tanking｜過去式 tanked｜第三人稱單數 tanks｜過去分詞 tanked"
+ },
+ "tanka": {
+  "ph": "/'tɑ:ŋkә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[日]短歌(三十一音節字的日本詩體)",
+    "def": ""
+   }
+  ]
+ },
+ "tankard": {
+  "ph": "/'tæŋkәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大啤酒杯, 一大杯的容量",
+    "def": "large drinking vessel with one handle"
+   }
+  ],
+  "forms": "複數 tankards"
+ },
+ "tanker": {
+  "ph": "/'tæŋkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "坦克手, 油船, 空中加油飛機, 運油飛機, 油槽/水槽汽車",
+    "def": "a soldier who drives a tank"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 槽車; 油槽船",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tankers｜過去分詞 tankered"
+ },
+ "tankful": {
+  "ph": "/'tæŋkful/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(一)滿箱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tankfuls"
+ },
+ "tankini": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "坦基尼（兩件套泳裝, 包括無袖短上衣和比基尼下褲）",
+    "def": ""
+   }
+  ]
+ },
+ "tankless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "即熱式的。這裡的膽指貯水或其他液體的容器; 比如熱水瓶膽、某些電熱水器的貯水膽等; 無膽即不需要預先貯存; 隨時可以直接供應。",
+    "def": ""
+   }
+  ]
+ },
+ "tanned": {
+  "ph": "/tænd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]鞣酸處理的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tanned｜過去式 tanned｜複數 tanneds"
+ },
+ "tannenbaum": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tannenbaum)人名；(英、德、羅)坦嫩鮑姆",
+    "def": ""
+   }
+  ]
+ },
+ "tanner": {
+  "ph": "/'tænә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製革工人, 硝皮匠, 六便士",
+    "def": "a craftsman who tans skins and hides"
+   }
+  ],
+  "forms": "複數 tanners"
+ },
+ "tannery": {
+  "ph": "/'tænәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製革廠, 硝皮廠",
+    "def": "workplace where skins and hides are tanned"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鞣革廠; 皮革廠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tanneries"
+ },
+ "tannic": {
+  "ph": "/'tænik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "丹寧酸的, 得自鞣革的",
+    "def": "derived from tannin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 曬黑的, 鞣酸的",
+    "def": ""
+   }
+  ]
+ },
+ "tannin": {
+  "ph": "/'tænin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "丹寧酸",
+    "def": "any of various complex phenolic substances of plant origin; used in tanning and in medicine"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 單寧; 鞣酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tannins"
+ },
+ "tanning": {
+  "ph": "/'tæniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞣皮, 製革法, 曬成褐色",
+    "def": "process in which skin pigmentation darkens as a result of exposure to ultraviolet light"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 製革; 鞣製",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tanning"
+ },
+ "tannoy": {
+  "ph": "/'tænɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天朗(擴音器的商名), 擴音系統",
+    "def": "a loudspeaker"
+   }
+  ],
+  "forms": "複數 tannoys｜過去分詞 tannoyed｜過去式 tannoyed"
+ },
+ "tansley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tansley)人名；(英)坦斯利",
+    "def": ""
+   }
+  ]
+ },
+ "tansy": {
+  "ph": "/'tænzi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾菊",
+    "def": "common perennial aromatic herb native to Eurasia having buttonlike yellow flower heads and bitter-tasting pinnate leaves sometimes used medicinally"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 艾菊",
+    "def": ""
+   }
+  ]
+ },
+ "tantalise": {
+  "ph": "/'tæntәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "誘發無法實現的希望, 使乾著急, 惹弄, 逗惹, 逗弄",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tantalised｜現在分詞 tantalising｜過去式 tantalised｜複數 tantalises｜第三人稱單數 tantalises"
+ },
+ "tantalising": {
+  "ph": "/'tæntәlaiziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<主英>=tantalizing",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tantalising"
+ },
+ "tantalisingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "tantalising的變形",
+    "def": ""
+   }
+  ]
+ },
+ "tantalize": {
+  "ph": "/'tæntәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "逗弄, 使乾著急",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tantalizing｜第三人稱單數 tantalizes｜過去式 tantalized｜過去分詞 tantalized"
+ },
+ "tantalizing": {
+  "ph": "/'tæntәlaiziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "逗引性的, 乾著急的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tantalizing"
+ },
+ "tantalizingly": {
+  "ph": "/'tæntəlaɪzɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "…得令人著急, …到令人著急的程度",
+    "def": ""
+   }
+  ]
+ },
+ "tantalum": {
+  "ph": "/'tæntәlәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉭",
+    "def": "a hard grey lustrous metallic element that is highly resistant to corrosion; occurs in niobite and fergusonite and tantalite"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鉭Ta",
+    "def": ""
+   }
+  ]
+ },
+ "tantalus": {
+  "ph": "/'tæntәlәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上著鎖的透明酒櫃",
+    "def": "(Greek mythology) a wicked king and son of Zeus; condemned in Hades to stand in water that receded when he tried to drink and beneath fruit that receded when he"
+   }
+  ]
+ },
+ "tantamount": {
+  "ph": "/'tæntәmaunt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同等的, 相等的, 相當於...的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 相等的, 相當的, 同等的",
+    "def": ""
+   }
+  ]
+ },
+ "tante": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tante)人名；(西)坦特",
+    "def": ""
+   }
+  ]
+ },
+ "tantric": {
+  "ph": "/ 'tæntrɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "與佛教（或印度教）中某一動作相關的",
+    "def": "of or relating to Tantrism"
+   }
+  ]
+ },
+ "tantrum": {
+  "ph": "/'tæntrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發脾氣, 發怒",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 暴怒, 發脾氣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tantrums"
+ },
+ "tanya": {
+  "ph": "/'tænjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔尼婭（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "tanzania": {
+  "ph": "/.tænzә'ni:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "坦尚尼亞",
+    "def": "a republic in eastern Africa"
+   }
+  ]
+ },
+ "tanzanian": {
+  "ph": "/,tænzə'niən/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "坦尚尼亞的",
+    "def": "of or relating to the republic of Tanzania or its people"
+   },
+   {
+    "pos": "",
+    "zh": "坦尚尼亞人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tanzanians"
+ },
+ "tao": {
+  "ph": "/tau/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(道家學說中的)道",
+    "def": "the ultimate principle of the universe"
+   }
+  ],
+  "forms": "複數 taos"
+ },
+ "taoiseach": {
+  "ph": "/ˈti:ʃəx/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（愛爾蘭共和國）總理",
+    "def": "the prime minister of the Irish Republic"
+   }
+  ]
+ },
+ "taoist": {
+  "ph": "/'tɑ:әuist, 'tauist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "道家, 道教徒",
+    "def": "an adherent of any branch of Taoism"
+   },
+   {
+    "pos": "adj.",
+    "zh": "道家的, 道教的",
+    "def": "of or relating to the popular Chinese religious system based on the teachings of Lao-tzu but including a pantheon of gods along with divination and magic"
+   }
+  ],
+  "forms": "複數 taoists"
+ },
+ "tap": {
+  "ph": "/'tæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕打, 水龍頭",
+    "def": "a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "輕打, 輕敲, 敲打出, 選擇, 裝上嘴子, 使流出, 開發, 分接, 向...乞討",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "輕叩, 輕拍, 啪塔啪塔地走",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 接頭",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tapped｜現在分詞 tapping｜複數 taps｜過去分詞 tapped｜第三人稱單數 taps"
+ },
+ "tapa": {
+  "ph": "/'tɑ:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔帕纖維布",
+    "def": "the thin fibrous bark of the paper mulberry and Pipturus albidus"
+   }
+  ],
+  "forms": "複數 tapas"
+ },
+ "tape": {
+  "ph": "/teip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶子, 錄音帶, 磁帶, 窄帶, 捲尺",
+    "def": "a long thin piece of cloth or paper as used for binding or fastening"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以帶子綁起, 測量, 錄音",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 帶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tapes｜現在分詞 taping｜過去分詞 taped｜過去式 taped｜第三人稱單數 tapes"
+ },
+ "tape recorder": {
+  "ph": "/'teiprikɔ:dә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "磁帶錄音機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 膠帶記錄器",
+    "def": ""
+   }
+  ]
+ },
+ "taped": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錄播, 壓膠",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 taped｜過去式 taped"
+ },
+ "tapenade": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "特芙娜（服裝公司名, Tapenade）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "橄欖醬",
+    "def": ""
+   }
+  ]
+ },
+ "taper": {
+  "ph": "/'teipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶子操作工, 小蠟燭, 尖細, 漸弱, 錐形, 尖塔",
+    "def": "a convex shape that narrows toward a point"
+   },
+   {
+    "pos": "adj.",
+    "zh": "尖細的, 分等級的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)一頭逐漸變細, (使)逐漸減少",
+    "def": "diminish gradually"
+   }
+  ],
+  "forms": "現在分詞 tapering｜複數 tapers｜過去式 tapered｜過去分詞 tapered｜第三人稱單數 tapers"
+ },
+ "tapered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "錐形的, 尖削的, 漸縮的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tapered"
+ },
+ "tapering": {
+  "ph": "/'teipәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尖端細的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tapering"
+ },
+ "tapestry": {
+  "ph": "/'tæpistri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "掛毯, 絨繡",
+    "def": "something that resembles a tapestry in its complex pictorial designs"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用掛毯裝飾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tapestries｜過去式 tapestried｜過去分詞 tapestried"
+ },
+ "tapeworm": {
+  "ph": "/'teipwә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "絛蟲",
+    "def": "ribbonlike flatworms that are parasitic in the intestines of humans and other vertebrates"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 絛蟲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tapeworms｜第三人稱單數 tapeworms"
+ },
+ "taping": {
+  "ph": "/'teipiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磁帶錄音",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 taping｜複數 tapings"
+ },
+ "tapioca": {
+  "ph": "/.tæpi'әukә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "木薯澱粉",
+    "def": "granular preparation of cassava starch used to thicken especially puddings"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 木薯澱粉",
+    "def": ""
+   }
+  ]
+ },
+ "tapir": {
+  "ph": "/'teipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貘",
+    "def": "large inoffensive chiefly nocturnal ungulate of tropical America and southeast Asia having a heavy body and fleshy snout"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 貘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tapirs"
+ },
+ "tapped": {
+  "ph": "/tæpt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分接的；抽頭的；[語]發接觸音的",
+    "def": "in a condition for letting out liquid drawn out as by piercing or drawing a plug"
+   }
+  ],
+  "forms": "過去式 tapped"
+ },
+ "tapper": {
+  "ph": "/'tæpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕敲者, 電報鍵",
+    "def": "a person who strikes a surface lightly and usually repeatedly"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 攻螺絲機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tappers"
+ },
+ "tapping": {
+  "ph": "/'tæpiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕敲聲, 開孔, 匯出液體, 放腹水, 分支, 抽頭, 分流, 纏絕緣帶, 出鋼, 出渣",
+    "def": "the sound of light blow or knock"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 放液; 割漿; 割膠; 採脂; 採割松脂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tappings｜現在分詞 tapping"
+ },
+ "taproom": {
+  "ph": "/'tæprum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酒吧間",
+    "def": ""
+   }
+  ]
+ },
+ "taproot": {
+  "ph": "/'tæpru:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主根, 直根",
+    "def": "(botany) main root of a plant growing straight downward from the stem"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 直根",
+    "def": ""
+   }
+  ]
+ },
+ "taqueria": {
+  "ph": "/['tɑ:kəri:ə]/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（專賣煎玉米卷的）墨西哥快餐館",
+    "def": ""
+   }
+  ]
+ },
+ "tar": {
+  "ph": "/tɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焦油, 柏油, 水手",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗以焦油, 玷汙, 慫恿",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "焦油的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tarred｜過去式 tarred｜複數 tars｜現在分詞 tarring｜第三人稱單數 tars"
+ },
+ "tara": {
+  "ph": "/tә'rɑ:/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "[口]再會！",
+    "def": ""
+   }
+  ]
+ },
+ "taramasalata": {
+  "ph": "/ˌtærəməsəˈlɑ:tə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘魚子泥色拉",
+    "def": ""
+   }
+  ]
+ },
+ "tarantula": {
+  "ph": "/tә'ræntjulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥蛛, 狼蛛",
+    "def": "large hairy tropical spider with fangs that can inflict painful but not highly venomous bites"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 狼蛛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tarantulas"
+ },
+ "tardily": {
+  "ph": "/'tɑ:dili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "緩慢地, 遲, 遲延地",
+    "def": ""
+   }
+  ]
+ },
+ "tardiness": {
+  "ph": "/'tɑ:dinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慢, 緩慢, 遲延",
+    "def": "the quality or habit of not adhering to a correct or usual or expected time"
+   }
+  ]
+ },
+ "tardis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Traffic and Roads Drive Integrated Systems 交通和道路駕駛綜合系統",
+    "def": ""
+   }
+  ]
+ },
+ "tardy": {
+  "ph": "/'tɑ:di/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "慢的, 遲到的, 勉強的, 拖拉的, 遲的",
+    "def": ""
+   }
+  ]
+ },
+ "tare": {
+  "ph": "/tєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巢菜, 稗子, 皮重",
+    "def": "an adjustment made for the weight of the packaging in order to determine the net weight of the goods"
+   },
+   {
+    "pos": "vt.",
+    "zh": "稱皮重",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tares｜過去分詞 tared｜第三人稱單數 tares｜現在分詞 taring｜過去式 tared"
+ },
+ "target": {
+  "ph": "/'tɑ:git/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "目標, 靶子, 指標",
+    "def": "a reference point to shoot at"
+   },
+   {
+    "pos": "vt.",
+    "zh": "對準, 訂指標",
+    "def": ""
+   }
+  ],
+  "forms": "複數 targets｜過去分詞 targeted｜現在分詞 targeting｜過去式 targeted｜第三人稱單數 targets"
+ },
+ "targeted": {
+  "ph": "/'tɑːɡɪtɪd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]定向的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 targeted｜過去式 targeted"
+ },
+ "targeting": {
+  "ph": "/'tɑ:ɡitiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "目標市場選擇；確定目標市場",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 targeting"
+ },
+ "tariff": {
+  "ph": "/'tærif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關稅, 關稅表, 價格表, 收費表",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "課以關稅",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 價目表",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tariffs｜現在分詞 tariffing｜過去式 tariffed｜第三人稱單數 tariffs｜過去分詞 tariffed"
+ },
+ "tariq": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tariq)人名；(阿拉伯、巴基)塔裡克",
+    "def": ""
+   }
+  ]
+ },
+ "tarmac": {
+  "ph": "/'tɑ:mæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏油碎石, 柏油碎石路",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tarmacking｜過去式 tarmacked｜第三人稱單數 tarmacs｜過去分詞 tarmacked"
+ },
+ "tarmacadam": {
+  "ph": "/.tɑ:mә'kædәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "由柏油碎石鋪成的道路",
+    "def": "a paving material of tar and broken stone; mixed in a factory and shaped during paving"
+   }
+  ]
+ },
+ "tarn": {
+  "ph": "/tɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰斗湖, 山中小湖",
+    "def": "a mountain lake (especially one formed by glaciers)"
+   }
+  ],
+  "forms": "複數 tarns"
+ },
+ "tarnish": {
+  "ph": "/'tɑ:niʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "失澤, 失澤膜, 汙點",
+    "def": "discoloration of metal surface caused by oxidation"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使失去光澤, 玷汙",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "失去光澤, 被玷汙",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tarnished｜過去式 tarnished｜現在分詞 tarnishing｜第三人稱單數 tarnishes"
+ },
+ "tarnished": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使生鏽；沾汙",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tarnished｜過去式 tarnished"
+ },
+ "taro": {
+  "ph": "/'tɑ:rәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "芋頭",
+    "def": "edible starchy tuberous root of taro plants"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 芋根(含澱粉可供食用)",
+    "def": ""
+   }
+  ]
+ },
+ "tarot": {
+  "ph": "/'tærәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(算命用的)有圖紙牌",
+    "def": ""
+   }
+  ]
+ },
+ "tarp": {
+  "ph": "/tɑ:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(=tarpaulin)防水布, 油布",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tarps"
+ },
+ "tarpaper": {
+  "ph": "/'tɑ:peipə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(用作防水材料的)防潮焦油紙, 瀝青紙",
+    "def": ""
+   }
+  ]
+ },
+ "tarpaulin": {
+  "ph": "/tɑ:'pɒ:lin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏油帆布, 油布衣, 防水帽",
+    "def": "waterproofed canvas"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 帆布",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tarpaulins"
+ },
+ "tarpon": {
+  "ph": "/'tɑ:pɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大西洋大海鰱",
+    "def": "large silvery game fish of warm Atlantic coastal waters especially off Florida"
+   }
+  ]
+ },
+ "tarquin": {
+  "ph": "/'tɑ:kwin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔奎因（拉丁語, 男子名）",
+    "def": "according to legend, the seventh and last Etruscan king of Rome who was expelled for his cruelty (reigned from 534 to 510 BC)"
+   }
+  ]
+ },
+ "tarr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "塗以焦油",
+    "def": ""
+   }
+  ]
+ },
+ "tarragon": {
+  "ph": "/'tærәgәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "龍蒿",
+    "def": "aromatic perennial of southeastern Russia"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 龍艾",
+    "def": ""
+   }
+  ]
+ },
+ "tarrant": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tarrant)人名；(英)塔蘭特",
+    "def": ""
+   }
+  ]
+ },
+ "tarred": {
+  "ph": "/tɑ:d/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "塗了焦油的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tarred"
+ },
+ "tarry": {
+  "ph": "/'tæri/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "耽擱, 逗留, 留住, 等候",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "逗留",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "塗了焦油的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tarried｜過去分詞 tarried｜現在分詞 tarrying｜第三人稱單數 tarries"
+ },
+ "tarsal": {
+  "ph": "/'tɑ:sl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "跗骨的, 瞼板的",
+    "def": "of or relating to or near the tarsus of the foot"
+   },
+   {
+    "pos": "n.",
+    "zh": "跗骨",
+    "def": "any bone of the tarsus"
+   }
+  ],
+  "forms": "複數 tarsals"
+ },
+ "tarsus": {
+  "ph": "/'tɑ:sәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "踝, 踝骨, 瞼板, 跗骨",
+    "def": "the part of the foot of a vertebrate between the metatarsus and the leg; in human beings the bones of the ankle and heel collectively"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瞼板, 跗骨",
+    "def": ""
+   }
+  ]
+ },
+ "tart": {
+  "ph": "/tɑ:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "酸的, 辛辣的, 尖酸的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "妖豔打扮",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "果餡餅, 妓女",
+    "def": "a small open pie with a fruit filling"
+   }
+  ],
+  "forms": "複數 tarts｜現在分詞 tarting｜過去式 tarted｜過去分詞 tarted"
+ },
+ "tartan": {
+  "ph": "/'tɑ:tn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格子呢, 方格花紋, 單桅小帆船",
+    "def": "a cloth having a crisscross design"
+   },
+   {
+    "pos": "adj.",
+    "zh": "格子呢的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tartans"
+ },
+ "tartar": {
+  "ph": "/'tɑ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酒石, 牙垢, 韃靼人",
+    "def": "an incrustation that forms on the teeth and gums"
+   },
+   {
+    "pos": "adj.",
+    "zh": "韃靼的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tartars"
+ },
+ "tartlet": {
+  "ph": "/'tɑ:tlit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小果餡餅",
+    "def": "a small tart usually used as a canape"
+   }
+  ],
+  "forms": "複數 tartlets"
+ },
+ "tartly": {
+  "ph": "/'tɑ:tli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "辛辣地, 刻薄地",
+    "def": ""
+   }
+  ]
+ },
+ "tartness": {
+  "ph": "/'tɑ:tnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酸, 尖刻",
+    "def": ""
+   }
+  ]
+ },
+ "tarty": {
+  "ph": "/ˈtɑ:ti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "& n. 放蕩的（女人）",
+    "def": ""
+   }
+  ]
+ },
+ "tarzan": {
+  "ph": "/'tɑ:zæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "健壯、靈活的男子",
+    "def": "(sometimes used ironically) a man of great strength and agility (after the hero of a series of novels by Edgar Rice Burroughs)"
+   }
+  ]
+ },
+ "tashkent": {
+  "ph": "/tæʃ'kent/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔什干[烏茲別克共和國首都]",
+    "def": ""
+   }
+  ]
+ },
+ "task": {
+  "ph": "/tɑ:sk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工作, 任務, 作業, 困難的工作",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "派給...工作, 使辛勞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 任務",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tasks｜過去分詞 tasked｜現在分詞 tasking｜過去式 tasked｜第三人稱單數 tasks"
+ },
+ "task force": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "特遣部隊",
+    "def": ""
+   }
+  ]
+ },
+ "taskbar": {
+  "ph": "/'tæskbɑ:r/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "工作列, 任務條",
+    "def": ""
+   }
+  ]
+ },
+ "taskforce": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（為解決某總是而成立的）特別工作組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taskforces"
+ },
+ "taskmaster": {
+  "ph": "/'tɑ:sk.mɑ:stә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工頭",
+    "def": "someone who imposes hard or continuous work"
+   }
+  ],
+  "forms": "複數 taskmasters"
+ },
+ "tasman": {
+  "ph": "/'tæzmәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "Sea 塔斯曼海(在澳大利亞和紐西蘭之間)",
+    "def": ""
+   }
+  ]
+ },
+ "tasmania": {
+  "ph": "/tæz'meinjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔斯馬尼亞島（位於澳洲東南方）",
+    "def": "an Australian state on the island of Tasmania"
+   }
+  ]
+ },
+ "tasmanian": {
+  "ph": "/tæz'meiniәn, -njәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "塔斯馬尼亞的",
+    "def": "of or relating to Tasmania"
+   }
+  ],
+  "forms": "複數 tasmanians"
+ },
+ "tass": {
+  "ph": "/tæs, tɑ:s/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔斯社",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 塔斯社",
+    "def": ""
+   }
+  ]
+ },
+ "tassel": {
+  "ph": "/'tæsl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流蘇, 纓, 穗",
+    "def": "adornment consisting of a bunch of cords fastened at one end"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝纓於, 摘下...穗",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "抽穗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tassels｜過去式 tasselled"
+ },
+ "tasseled": {
+  "ph": "/ˈtæsəld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "抽穗, （玉米）長穗須( tassel的過去式和過去分詞 ); 使抽穗, （為了使作物茁壯生長）摘去穗狀雄花; 用流蘇裝飾",
+    "def": ""
+   }
+  ]
+ },
+ "tasselled": {
+  "ph": "/ˈtæsld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "飾有穗（或纓、流蘇）的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tasselled"
+ },
+ "taste": {
+  "ph": "/teist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "味道, 品味, 味覺, 感受, 體驗, 愛好, 審美, 少量",
+    "def": "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus"
+   },
+   {
+    "pos": "vt.",
+    "zh": "嘗, 察覺...的味道, 體會",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "品嚐, 察覺味道, 有某種味道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tastes｜過去式 tasted｜過去分詞 tasted｜第三人稱單數 tastes｜現在分詞 tasting"
+ },
+ "tasteful": {
+  "ph": "/'teistful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有鑑賞力的, 趣味高雅的, 雅觀的",
+    "def": "having or showing or conforming to good taste"
+   }
+  ]
+ },
+ "tastefully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "高雅地；雅緻地",
+    "def": ""
+   }
+  ]
+ },
+ "tasteless": {
+  "ph": "/'teistlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒味道的, 無鑑賞力的",
+    "def": "lacking flavor"
+   }
+  ]
+ },
+ "tastelessness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "口淡",
+    "def": ""
+   }
+  ]
+ },
+ "tastemaker": {
+  "ph": "/'teist.meikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時髦風尚的首創者, 開創時髦風尚的事物",
+    "def": ""
+   }
+  ]
+ },
+ "taster": {
+  "ph": "/'teistә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘗味道者, 審閱人, 試味儀",
+    "def": "someone who samples food or drink for its quality"
+   }
+  ],
+  "forms": "複數 tasters"
+ },
+ "tasting": {
+  "ph": "/'teistiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "品嚐, 嘗味",
+    "def": "a small amount (especially of food or wine)"
+   }
+  ],
+  "forms": "現在分詞 tasting｜複數 tastings"
+ },
+ "tasty": {
+  "ph": "/'teisti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好吃的, 可口的",
+    "def": "pleasing to the sense of taste"
+   }
+  ],
+  "forms": "比較級 tastier｜最高級 tastiest"
+ },
+ "tat": {
+  "ph": "/tæt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "梭編, 梭織",
+    "def": "make lacework by knotting or looping"
+   },
+   {
+    "pos": "n.",
+    "zh": "衣衫襤褸(的人), 粗麻布, 輕擊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tats｜現在分詞 tatting｜過去式 tatted｜第三人稱單數 tats｜過去分詞 tatted"
+ },
+ "tatami": {
+  "ph": "/tɑ:'tɑ:mi. tә-. tæ-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（日）榻榻米",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tatami"
+ },
+ "tatar": {
+  "ph": "/'tɑ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韃靼人[語]",
+    "def": "a member of the Mongolian people of central Asia who invaded Russia in the 13th century"
+   }
+  ],
+  "forms": "複數 tatars"
+ },
+ "tate": {
+  "ph": "/teit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔特（姓氏）",
+    "def": "United States poet and critic (1899-1979)"
+   }
+  ],
+  "forms": "比較級 tater"
+ },
+ "tater": {
+  "ph": "/'teitә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[口]=potato",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taters"
+ },
+ "tatiana": {
+  "ph": "/,tæti'ɑ:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔蒂阿娜(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "tatler": {
+  "ph": "/'tætlə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 塔特勒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tatlers"
+ },
+ "tatra": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "太脫拉",
+    "def": ""
+   }
+  ]
+ },
+ "tatter": {
+  "ph": "/'tætә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "破布條, 破衣服, 梭編工人",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...扯碎",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變破爛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tatters｜現在分詞 tattering"
+ },
+ "tattered": {
+  "ph": "/'tætәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "破爛的, 襤褸的",
+    "def": ""
+   }
+  ]
+ },
+ "tatters": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "破舊衣服, 破衣服, 破布條, 碎紙片",
+    "def": ""
+   }
+  ]
+ },
+ "tattersalls": {
+  "ph": "/'tætəs(ə)l; -sɔːl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[紡織業]",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "塔特薩爾花格(呢)",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "用塔特薩爾花格呢做的",
+    "def": ""
+   }
+  ]
+ },
+ "tattle": {
+  "ph": "/'tætl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閒談, 閒話, 饒舌",
+    "def": "disclosing information or giving evidence about another"
+   },
+   {
+    "pos": "vi.",
+    "zh": "閒談, 談論, 洩露秘密",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "洩露",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tattling｜過去式 tattled｜第三人稱單數 tattles｜過去分詞 tattled"
+ },
+ "tattletale": {
+  "ph": "/'tætlteil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "告密者, 搬弄是非的人",
+    "def": "someone who gossips indiscreetly"
+   }
+  ]
+ },
+ "tattoo": {
+  "ph": "/tә'tu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歸營號, 連續有節奏的敲擊, 文身, 矮種馬",
+    "def": "a drumbeat or bugle call that signals the military to return to their quarters"
+   },
+   {
+    "pos": "vt.",
+    "zh": "連續有節奏地敲, 刺花紋於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "作連續有節奏的敲擊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tattoos｜現在分詞 tattooing｜過去式 tattooed｜第三人稱單數 tattoos｜過去分詞 tattooed"
+ },
+ "tattooed": {
+  "ph": "/tæˈtu:d/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "刺青, 文身( tattoo的過去式和過去分詞 ); 連續有節奏地敲擊; 作連續有節奏的敲擊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tattooed"
+ },
+ "tattooing": {
+  "ph": "/tæ'tu:iŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 紋身[法]",
+    "def": ""
+   }
+  ]
+ },
+ "tattooist": {
+  "ph": "/təˈtu:ɪst/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "文身的人",
+    "def": ""
+   }
+  ]
+ },
+ "tatty": {
+  "ph": "/'tæti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿破的, 粗糙的, 不值錢的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 tattier"
+ },
+ "tatum": {
+  "ph": "/'teitәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "泰特姆(①姓氏 ②Edward Lawrie, 1909-, 美國生物化學家, 曾獲1958年諾貝爾生理學-醫學獎)",
+    "def": ""
+   }
+  ]
+ },
+ "tatyana": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔吉亞娜（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "tau": {
+  "ph": "/tɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘字母第19字",
+    "def": "the 19th letter of the Greek alphabet"
+   }
+  ]
+ },
+ "taught": {
+  "ph": "/tɒ:t/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "teach的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 taught｜過去分詞 taught"
+ },
+ "taunt": {
+  "ph": "/tɒ:nt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辱罵, 嘲弄",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "嘲弄, 奚落",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "很高的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 taunted｜複數 taunts｜現在分詞 taunting｜過去分詞 taunted｜第三人稱單數 taunts"
+ },
+ "taunting": {
+  "ph": "/tɔ:ntɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "嘲諷( taunt的現在分詞 ); 嘲弄; 辱罵; 奚落",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 taunting"
+ },
+ "tauntingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嘲笑地, 辱罵地",
+    "def": ""
+   }
+  ]
+ },
+ "taunton": {
+  "ph": "/'tɔ:ntən; 'tɑ:n-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陶頓（美國馬薩諸塞州東南部城市）",
+    "def": ""
+   }
+  ]
+ },
+ "taupe": {
+  "ph": "/tәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "褐灰色",
+    "def": "a greyish brown"
+   }
+  ],
+  "forms": "複數 taupes"
+ },
+ "taurine": {
+  "ph": "/'tɒ:rin/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "像公牛的, 金牛座的",
+    "def": "of or relating to or resembling a bull"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 2-氨基乙磺酸; 牛磺酸",
+    "def": ""
+   }
+  ]
+ },
+ "taurus": {
+  "ph": "/'tɒ:rәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金牛星座, 金牛宮",
+    "def": "(astrology) a person who is born while the sun is in Taurus"
+   }
+  ]
+ },
+ "taut": {
+  "ph": "/tɒ:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "拉緊的, 整潔的, 緊張的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 tauter｜現在分詞 tauting"
+ },
+ "tauten": {
+  "ph": "/'tɒ:tn/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使繃緊, 拉緊",
+    "def": "become taut or tauter"
+   }
+  ],
+  "forms": "過去式 tautened｜現在分詞 tautening｜第三人稱單數 tautens｜過去分詞 tautened"
+ },
+ "tautly": {
+  "ph": "/tɔ:tlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "繃緊地; 緊張地;  結構嚴謹地; 緊湊地",
+    "def": ""
+   }
+  ]
+ },
+ "tautness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉緊；緊固度",
+    "def": ""
+   }
+  ]
+ },
+ "tautological": {
+  "ph": "/,tɔ:tә'lɔdʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "重複的, 贅述的",
+    "def": ""
+   }
+  ]
+ },
+ "tautologous": {
+  "ph": "/tɔː'tɒləɡəs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "贅述的；同義反復的（等於tautological）",
+    "def": "Repeating the same thing in different words;"
+   }
+  ]
+ },
+ "tautology": {
+  "ph": "/tɒ:'tɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同義反復, 贅述, 重言式",
+    "def": "(logic) a statement that is necessarily true"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 重言式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tautologies"
+ },
+ "tavern": {
+  "ph": "/'tævәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酒館, 客棧",
+    "def": "a building with a bar that is licensed to sell alcoholic drinks"
+   }
+  ],
+  "forms": "複數 taverns"
+ },
+ "taverna": {
+  "ph": "/'tævənə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（希臘的）酒館, 餐館",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tavernas"
+ },
+ "taverner": {
+  "ph": "/'tævənər/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "酒店主",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taverners"
+ },
+ "tavistock": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tavistock)人名；(英)塔維斯托克",
+    "def": ""
+   }
+  ]
+ },
+ "tawdry": {
+  "ph": "/'tɒ:dri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "廉價而俗麗的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "廉價而俗麗之物",
+    "def": ""
+   }
+  ]
+ },
+ "tawney": {
+  "ph": "/'tɔ:ni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "茶色的",
+    "def": ""
+   }
+  ]
+ },
+ "tawny": {
+  "ph": "/'tɒ:ni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "黃褐色的, 茶色的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "黃褐色",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tawnies"
+ },
+ "tax": {
+  "ph": "/tæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "稅, 稅款, 重負, 會費",
+    "def": "charge against a citizen's person or property or activity for the support of government"
+   },
+   {
+    "pos": "vt.",
+    "zh": "課以稅, 使負重荷, 斥責",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taxes｜過去分詞 taxed｜過去式 taxed｜現在分詞 taxing｜第三人稱單數 taxes"
+ },
+ "tax break": {
+  "ph": "/tæks breik/",
+  "senses": [
+   {
+    "pos": "na.",
+    "zh": "減稅優惠",
+    "def": ""
+   }
+  ]
+ },
+ "tax evasion": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "逃稅",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 偷稅漏稅, 逃稅",
+    "def": ""
+   }
+  ]
+ },
+ "tax relief": {
+  "ph": "/tæks riˈli:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "稅收減除; 免稅",
+    "def": ""
+   }
+  ]
+ },
+ "tax return": {
+  "ph": "/tæks riˈtə:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "納稅申報單",
+    "def": ""
+   }
+  ]
+ },
+ "tax-free": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "免稅的, 無稅的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 免稅的, 無稅的, 上過稅的",
+    "def": ""
+   }
+  ]
+ },
+ "taxa": {
+  "ph": "/'tæksә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "taxon 的複數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taxa"
+ },
+ "taxable": {
+  "ph": "/'tæksәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可徵稅的, 應徵稅的",
+    "def": "(of goods or funds) subject to taxation"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 可徵稅的, 應納稅的",
+    "def": ""
+   }
+  ]
+ },
+ "taxation": {
+  "ph": "/tæk'seiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "課稅, 徵稅, 抽稅, 稅款, 估定的稅額",
+    "def": "the imposition of taxes; the practice of the government in levying taxes on the subjects of a state"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 徵稅, 納稅, 稅制",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taxations"
+ },
+ "taxed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使負重擔（tax的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 taxed｜過去式 taxed"
+ },
+ "taxer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 繳稅人, 納稅人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taxers"
+ },
+ "taxi": {
+  "ph": "/'tæksi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計程車",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "乘計程車",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用計程車送",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taxis｜現在分詞 taxiing｜過去式 taxied｜第三人稱單數 taxies｜過去分詞 taxied"
+ },
+ "taxicab": {
+  "ph": "/'tæksikæb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計程車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taxicabs"
+ },
+ "taxidermist": {
+  "ph": "/'tæksidә:mist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物標本剝製者",
+    "def": "a craftsman who stuffs and mounts the skins of animals for display"
+   }
+  ],
+  "forms": "複數 taxidermists"
+ },
+ "taxidermy": {
+  "ph": "/'tæsidә:mi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物標本剝製術",
+    "def": "the art of mounting the skins of animals so that they have lifelike appearance"
+   }
+  ]
+ },
+ "taxing": {
+  "ph": "/'tæksiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "繁重的, 費力的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 徵稅的, 評定的負擔頗重的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 taxing"
+ },
+ "taxiway": {
+  "ph": "/'tæksiwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑行道",
+    "def": "a paved surface in the form of a strip; used by planes taxiing to or from the runway at an airport"
+   }
+  ],
+  "forms": "複數 taxiways"
+ },
+ "taxman": {
+  "ph": "/'tæksmæn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "收稅員,稅收檢查員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taxmen"
+ },
+ "taxon": {
+  "ph": "/'tæksɔn. -sәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分類單元；分類學",
+    "def": ""
+   }
+  ]
+ },
+ "taxonomic": {
+  "ph": "/tæksә'nɔmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分類學的, 分類的",
+    "def": "of or relating to taxonomy"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 分類的",
+    "def": ""
+   }
+  ]
+ },
+ "taxonomically": {
+  "ph": "/,tæksəu-'nɔmikəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "分類學的",
+    "def": ""
+   }
+  ]
+ },
+ "taxonomist": {
+  "ph": "/tæk'sɔnәmist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分類學家",
+    "def": "a biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior"
+   }
+  ],
+  "forms": "複數 taxonomists"
+ },
+ "taxonomy": {
+  "ph": "/tæk'sɒnәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分類學, 分類系統",
+    "def": "a classification of organisms into groups based on similarities of structure or origin etc"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 分類學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taxonomies"
+ },
+ "taxpayer": {
+  "ph": "/'tækspeiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "納稅人",
+    "def": "someone who pays taxes"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 納稅人, 納稅義務人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 taxpayers"
+ },
+ "taxy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 回覆, 整復, 趨...性",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 taxied｜現在分詞 taxying｜過去分詞 taxied｜複數 taxies"
+ },
+ "tay": {
+  "ph": "/tei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泰河（北海的港灣, 位於英國蘇格蘭中部）；[方]茶（愛爾蘭方言, 等於tea）",
+    "def": "a branch of the Tai languages"
+   }
+  ],
+  "forms": "過去式 taid"
+ },
+ "taylor": {
+  "ph": "/'teilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泰勒",
+    "def": "United States composer and music critic (1885-1966)"
+   }
+  ]
+ },
+ "tayside": {
+  "ph": "/'teisaid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "泰賽德區[英國蘇格蘭行政區名]",
+    "def": ""
+   }
+  ]
+ }
+}

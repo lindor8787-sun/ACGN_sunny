@@ -1,0 +1,609 @@
+{
+ "eq": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "情商（Emotional Quotient）；均衡器；電器極（Electrical Quadrupole）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eqs"
+ },
+ "eqn": {
+  "ph": "/'ekn/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "equation 方程式; 等式; 反應式; equine 馬的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 eqns"
+ },
+ "equable": {
+  "ph": "/'ekwәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "平靜的, 變動小的",
+    "def": ""
+   }
+  ]
+ },
+ "equably": {
+  "ph": "/'ekwәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "均等地, 均一地, 均勻地",
+    "def": ""
+   }
+  ]
+ },
+ "equal": {
+  "ph": "/'i:kwәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對手, 匹敵, 同輩",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "相等的, 平等的, 勝任的, 合適的, 平靜的, 不相上下的",
+    "def": "having the same quantity, value, or measure as another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "等於, 比得上",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 等長度編碼",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 equals｜複數 equals｜過去分詞 equalled｜過去式 equalled｜現在分詞 equalling"
+ },
+ "equalisation": {
+  "ph": "/ˌi:kwəlaɪ'zeɪʃən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]同等化, 均等化",
+    "def": ""
+   }
+  ]
+ },
+ "equalise": {
+  "ph": "/'i:kwәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "vi. 使相等, 使均衡, 使平等, 使平均, 使均等, 補償, 補足",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 equalised｜現在分詞 equalising｜過去分詞 equalised｜第三人稱單數 equalises｜複數 equalises"
+ },
+ "equaliser": {
+  "ph": "/'i:kwәlaizә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<主英>=equalizer",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equalisers"
+ },
+ "equality": {
+  "ph": "/i:'kwɒliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平等, 均勻, 相等",
+    "def": "the quality of being the same in quantity or measure or value or status"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 同等, 平等, 相等",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equalities"
+ },
+ "equalization": {
+  "ph": "/.i:kwәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "均等, 同等化, 平等化",
+    "def": "the act of making equal or uniform"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 平衡, 均衡",
+    "def": ""
+   }
+  ]
+ },
+ "equalize": {
+  "ph": "/'i:kwәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使相等, 補償",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "相等",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 equalized｜現在分詞 equalizing｜過去式 equalized｜第三人稱單數 equalizes"
+ },
+ "equalizer": {
+  "ph": "/'i:kwәlaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使相等的東西, 平衡裝置, 均壓器",
+    "def": "electronic equipment that reduces frequency distortion"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 平衡器; 均衡器; 均壓管; 均壓平衡管",
+    "def": ""
+   }
+  ]
+ },
+ "equalizing": {
+  "ph": "/'i:kwәlaiziŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 均衡",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 equalizing"
+ },
+ "equally": {
+  "ph": "/'i:kwәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "相等地, 同樣地, 平等地",
+    "def": ""
+   }
+  ]
+ },
+ "equanimity": {
+  "ph": "/.i:kwә'nimiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平靜, 鎮定, 沉著",
+    "def": ""
+   }
+  ]
+ },
+ "equate": {
+  "ph": "/i'kweit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使相等, 視為平等",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "等同",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 equated｜第三人稱單數 equates｜現在分詞 equating｜過去式 equated"
+ },
+ "equation": {
+  "ph": "/i'kweiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "相等, 等式, 平衡",
+    "def": "a mathematical statement that two expressions are equal"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 方程式; 等式; 反應式; 公式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equations"
+ },
+ "equator": {
+  "ph": "/i'kweitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "赤道",
+    "def": "an imaginary line around the Earth forming the great circle that is equidistant from the north and south poles"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 赤道, 中緯線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equators"
+ },
+ "equatorial": {
+  "ph": "/.ekwә'tɒ:riәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "近赤道的, 赤道的",
+    "def": "of or relating to or at an equator"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 中緯線的",
+    "def": ""
+   }
+  ]
+ },
+ "equerry": {
+  "ph": "/'ekwәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "掌馬官, 侍從武官",
+    "def": "an official charged with the care of the horses of princes or nobles"
+   }
+  ],
+  "forms": "複數 equerries"
+ },
+ "equestrian": {
+  "ph": "/i'kwestriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "騎術的, 馬的, 騎在馬背上的",
+    "def": "of or relating to or composed of knights"
+   },
+   {
+    "pos": "n.",
+    "zh": "騎手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equestrians"
+ },
+ "equestrianism": {
+  "ph": "/i'kwestriәnizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(騎)馬術",
+    "def": "The art of riding on horseback; performance on"
+   }
+  ]
+ },
+ "equidistant": {
+  "ph": "/.i:kwi'distәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "距離相等的, 等距的",
+    "def": ""
+   }
+  ]
+ },
+ "equilateral": {
+  "ph": "/.i:kwi'lætәrәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "等邊形",
+    "def": "a figure whose sides are all equal"
+   },
+   {
+    "pos": "adj.",
+    "zh": "等邊的",
+    "def": ""
+   }
+  ]
+ },
+ "equilibrate": {
+  "ph": "/.i:kwi'laibreit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)平衡, 與...平衡",
+    "def": "bring to a chemical stasis or equilibrium"
+   }
+  ],
+  "forms": "過去式 equilibrated｜過去分詞 equilibrated｜現在分詞 equilibrating｜第三人稱單數 equilibrates"
+ },
+ "equilibration": {
+  "ph": "/.i:kwilai'breiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平衡, 平均, 相稱",
+    "def": "stabilization by bringing into equilibrium"
+   },
+   {
+    "pos": "",
+    "zh": "[化] (色譜槽內展開劑蒸氣)飽和; 平衡化(固定相與流動相達到充分平衡)",
+    "def": ""
+   }
+  ]
+ },
+ "equilibria": {
+  "ph": "/i:kwɪ'lɪbrɪə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "均衡, 均勢(equilibrium的複數); 平衡, 均勢( equilibrium的名詞複數 ); （心情、感情等）平靜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equilibria"
+ },
+ "equilibrium": {
+  "ph": "/.i:kwi'libriәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平衡, 平靜, 均衡",
+    "def": "a stable situation in which forces cancel one another"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 平衡",
+    "def": ""
+   }
+  ]
+ },
+ "equine": {
+  "ph": "/'i:kwain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬",
+    "def": "hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck"
+   },
+   {
+    "pos": "adj.",
+    "zh": "馬的, 象馬的",
+    "def": "resembling a horse"
+   }
+  ],
+  "forms": "複數 equines"
+ },
+ "equinox": {
+  "ph": "/'i:kwәnɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晝夜平分點, 春分, 秋分",
+    "def": "either of two times of the year when the sun crosses the plane of the earth's equator and day and night are of equal length"
+   }
+  ],
+  "forms": "複數 equinoxes"
+ },
+ "equip": {
+  "ph": "/i'kwip/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "裝備, 配備",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 裝置, 裝置",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 equipped｜現在分詞 equipping｜過去式 equipped｜第三人稱單數 equips"
+ },
+ "equipe": {
+  "ph": "/e'kɪp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<法>運動隊（或比賽隊）及其裝備",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 equiped"
+ },
+ "equipment": {
+  "ph": "/i'kwipmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝備, 裝置, 才能",
+    "def": "an instrumentality needed for an undertaking or to perform a service"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 裝置; 裝備; 裝置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equipments"
+ },
+ "equipoise": {
+  "ph": "/'ekwipɒiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平衡, 均衡",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使平衡, 使相稱, 使相持不下",
+    "def": ""
+   }
+  ]
+ },
+ "equipping": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "裝備, 配備（equip的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 equipping"
+ },
+ "equitable": {
+  "ph": "/'ekwitәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "公平的, 公正的",
+    "def": "fair to all parties as dictated by reason and conscience"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 公平的, 公正的, 平衡法的",
+    "def": ""
+   }
+  ]
+ },
+ "equitably": {
+  "ph": "/'ekwitәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "公正地, 依據衡平法",
+    "def": ""
+   }
+  ]
+ },
+ "equity": {
+  "ph": "/'ekwiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公平, 公正",
+    "def": "the difference between the market value of a property and the claims held against it"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 權益, 產權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equities"
+ },
+ "equivalence": {
+  "ph": "/i'kwivәlәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同等, 等價, 等值",
+    "def": "essential equality and interchangeability"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 等價",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equivalences｜過去式 equivalenced"
+ },
+ "equivalency": {
+  "ph": "/i'kwivәlәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "均等, 同類, 同義, 等量, 等值, 等價, 相當, 相等",
+    "def": "Same as Equivalence."
+   }
+  ],
+  "forms": "複數 equivalencies"
+ },
+ "equivalent": {
+  "ph": "/i'kwivәlәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同等物, 等價物, 相等物",
+    "def": "a person or thing equal to another in value or measure or force or effect or significance etc"
+   },
+   {
+    "pos": "adj.",
+    "zh": "相等的, 相當的, 同意義的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 等價的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equivalents"
+ },
+ "equivalently": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "相等地；相當於",
+    "def": "In an equal manner."
+   }
+  ]
+ },
+ "equivocal": {
+  "ph": "/i'kwivәkl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "意義不明確的, 模稜兩可的",
+    "def": "open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 雙關的, 兩可的",
+    "def": ""
+   }
+  ]
+ },
+ "equivocate": {
+  "ph": "/i'kwivәkeit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "說模稜兩可的話, 支吾",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 equivocated｜複數 equivocates｜過去分詞 equivocated｜現在分詞 equivocating｜第三人稱單數 equivocates"
+ },
+ "equivocation": {
+  "ph": "/i.kwivә'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "模稜兩可的話, 含糊話",
+    "def": "intentionally vague or ambiguous"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 等業",
+    "def": ""
+   }
+  ],
+  "forms": "複數 equivocations"
+ }
+}

@@ -1,0 +1,6344 @@
+{
+ "an": {
+  "ph": "/æn/",
+  "senses": [
+   {
+    "pos": "art.",
+    "zh": "一",
+    "def": ""
+   }
+  ]
+ },
+ "ana": {
+  "ph": "/'ɑ:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "言論集, 語錄, 軼事",
+    "def": "mother of the ancient Irish gods; sometimes identified with Danu"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 自動數值分析",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anas"
+ },
+ "anabaptist": {
+  "ph": "/.ænә'bæptist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "再洗禮派教徒",
+    "def": "adherent of Anabaptism"
+   }
+  ],
+  "forms": "複數 anabaptists"
+ },
+ "anabolic": {
+  "ph": "/.ænә'bɒlik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "合成代謝的",
+    "def": "of or related to the synthetic phase of metabolism"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 組成代謝的, 同化的",
+    "def": ""
+   }
+  ]
+ },
+ "anachronism": {
+  "ph": "/ә'nækrәnizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時代錯誤, 不合潮流的人(物)",
+    "def": "something located at a time when it could not have existed or occurred"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 時代錯誤, 落伍的事物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anachronisms"
+ },
+ "anachronistic": {
+  "ph": "/ә.nækrә'nistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "時代錯誤的",
+    "def": ""
+   }
+  ]
+ },
+ "anachronistically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "anachronistic, anachronistical的變形",
+    "def": ""
+   }
+  ]
+ },
+ "anaclitic": {
+  "ph": "/,ænә'klitik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 情感依附的",
+    "def": ""
+   }
+  ]
+ },
+ "anaconda": {
+  "ph": "/,ænә'kɔndә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動]水蟒(產於南美洲),似水蟒的大蟒",
+    "def": "large arboreal boa of tropical South America"
+   }
+  ]
+ },
+ "anadromous": {
+  "ph": "/ә'nædrәmәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溯河產卵的",
+    "def": "migrating from the sea to fresh water to spawn"
+   }
+  ]
+ },
+ "anaemia": {
+  "ph": "/ә'ni:mjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貧血, 貧血症, 無活力",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 貧血",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anaemias"
+ },
+ "anaemic": {
+  "ph": "/ә'ni:mik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貧血的, 患貧血症的, 無活力的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anaemics"
+ },
+ "anaerobic": {
+  "ph": "/.ænєә'rәubik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "厭氧的, 在缺氧情況下生活的",
+    "def": "living or active in the absence of free oxygen"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 厭氧的",
+    "def": ""
+   }
+  ]
+ },
+ "anaesthesia": {
+  "ph": "/.ænis'θi:zjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻木, 麻醉",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 感覺缺失, 麻木, 麻醉[法]",
+    "def": ""
+   }
+  ]
+ },
+ "anaesthetic": {
+  "ph": "/.ænis'θetik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻醉劑, 麻藥",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "麻木的, 麻醉的",
+    "def": "relating to or producing insensibility"
+   }
+  ],
+  "forms": "複數 anaesthetics"
+ },
+ "anaesthetise": {
+  "ph": "/æ'ni:sθәtaiz,ә'nes-/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使麻醉",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 anaesthetised｜現在分詞 anaesthetising｜過去式 anaesthetised｜第三人稱單數 anaesthetises"
+ },
+ "anaesthetised": {
+  "ph": "/æ'ni:sθətaiz, ə'nes-/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使麻醉",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 anaesthetised｜過去分詞 anaesthetised"
+ },
+ "anaesthetist": {
+  "ph": "/æ'ni:sθәtist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻醉師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anaesthetists"
+ },
+ "anaesthetize": {
+  "ph": "/ә'ni:sθәtaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使麻木, 使麻醉",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 anaesthetized｜過去式 anaesthetized｜現在分詞 anaesthetizing｜第三人稱單數 anaesthetizes"
+ },
+ "anagnorisis": {
+  "ph": "/,ænә^'nɔrisis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[戲]發現( 亞里斯多德《詩學》中用語,\"發現\"與\"突轉\"被視作悲劇情節的主要成分)",
+    "def": "The unfolding or denouement."
+   }
+  ]
+ },
+ "anagogic": {
+  "ph": "/,ænә'^әudʒik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 理想精神的, 神秘的",
+    "def": ""
+   }
+  ]
+ },
+ "anagram": {
+  "ph": "/'ænәgræm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迴文構詞法",
+    "def": "a word or phrase spelled by rearranging the letters of another word or phrase"
+   }
+  ],
+  "forms": "複數 anagrams｜現在分詞 anagramming"
+ },
+ "anal": {
+  "ph": "/'einәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "肛門的, 肛門附近的",
+    "def": "of or related to the anus"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 分析員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anals"
+ },
+ "analgesia": {
+  "ph": "/.ænæl'dʒi:zjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "止痛, 痛覺缺失",
+    "def": "absence of the sense of pain without loss of consciousness"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 痛覺缺失, 無痛法, 止痛法",
+    "def": ""
+   }
+  ]
+ },
+ "analgesic": {
+  "ph": "/.ænæl'dʒi:zik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "止痛的, 痛覺缺失的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "止痛劑",
+    "def": "a medicine used to relieve pain"
+   }
+  ],
+  "forms": "複數 analgesics"
+ },
+ "analog": {
+  "ph": "/'ænәlɔ^/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 模擬",
+    "def": ""
+   }
+  ]
+ },
+ "analogical": {
+  "ph": "/,ænә'lɔdʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相似的, 類推的, 比擬的",
+    "def": ""
+   }
+  ]
+ },
+ "analogize": {
+  "ph": "/ә'nælәdʒaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對...作類比, 以類推來說明",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "作類比推理",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 analogizing｜第三人稱單數 analogizes｜過去分詞 analogized｜過去式 analogized"
+ },
+ "analogous": {
+  "ph": "/ә'nælәgәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "類似的, 相似的",
+    "def": "corresponding in function but not in evolutionary origin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 類似的, 類同的",
+    "def": ""
+   }
+  ]
+ },
+ "analogously": {
+  "ph": "/ə'næləgəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "類似地；近似地",
+    "def": ""
+   }
+  ]
+ },
+ "analogue": {
+  "ph": "/'ænәlɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "類似物, 相似情況",
+    "def": "something having the property of being analogous to something else"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 類似物, 同型物, 相似器官, 同功異質體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 analogues"
+ },
+ "analogy": {
+  "ph": "/ә'nælәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "相似, 類似",
+    "def": "an inference that if things agree in some respects they probably agree in others"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 模擬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 analogies"
+ },
+ "analysable": {
+  "ph": "/'ænәlaizәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可分析的, 可解析的, 可分解的",
+    "def": ""
+   }
+  ]
+ },
+ "analysand": {
+  "ph": "/ә'nælisænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "接受精神分析的人",
+    "def": "a person undergoing psychoanalysis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 受精神分析者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 analysands"
+ },
+ "analyse": {
+  "ph": "/'ænәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "分析, 細察, 分解",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 分析",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 analysed｜現在分詞 analysing｜過去式 analysed｜第三人稱單數 analyses｜複數 analyses"
+ },
+ "analysed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "分析（analyse的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 analysed｜過去式 analysed"
+ },
+ "analyser": {
+  "ph": "/'ænәlaizә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 分析器, 檢偏振器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 analysers"
+ },
+ "analysis": {
+  "ph": "/ә'nælәsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分析",
+    "def": "an investigation of the component parts of a whole and their relations in making up the whole"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 分析機; 分析員; 分析; 分析程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 analyses"
+ },
+ "analyst": {
+  "ph": "/'ænәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分析者, 精神分析學家",
+    "def": "someone who is skilled at analyzing data"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 分析員; 化驗員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 analysts"
+ },
+ "analyte": {
+  "ph": "/'ænәlait/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 分析物; 被分析物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 analytes"
+ },
+ "analytic": {
+  "ph": "/.ænә'litik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分析的, 善於分析的, 解析的",
+    "def": "using or subjected to a methodology using algebra and calculus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 分析的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 analytics"
+ },
+ "analytical": {
+  "ph": "/.ænә'litikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分析的, 善於分析的, 解析的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 分析的",
+    "def": ""
+   }
+  ]
+ },
+ "analytically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 分析上",
+    "def": ""
+   }
+  ]
+ },
+ "analytics": {
+  "ph": "/.ænә'litiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分析方法",
+    "def": "The science of analysis."
+   }
+  ]
+ },
+ "analyze": {
+  "ph": "/'ænәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "分析, 細察, 分解",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 分析",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 analyzed｜現在分詞 analyzing｜過去式 analyzed｜第三人稱單數 analyzes"
+ },
+ "analyzed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "檢討；分析（analyze的過去式和過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 analyzed"
+ },
+ "analyzer": {
+  "ph": "/'ænәlaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分析者, 分析器",
+    "def": "an instrument that performs analyses"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 分析器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 analyzers"
+ },
+ "anamorphic": {
+  "ph": "/,ænә'mɔ:fik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 畸形的",
+    "def": ""
+   }
+  ]
+ },
+ "anand": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安納德（印度古吉拉特邦的一個小鎮, 印度代孕行為的發源地）；阿南德（男子名, 著名作家）",
+    "def": ""
+   }
+  ]
+ },
+ "ananda": {
+  "ph": "/'ɑ:nəndə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "完美的祝福",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Ananda)人名；(法、瑞典、泰、斯里、印)阿南達",
+    "def": ""
+   }
+  ]
+ },
+ "anaphor": {
+  "ph": "/ə'næfə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "照應語；回指詞；回指式",
+    "def": "a word (such as a pronoun) used to avoid repetition; the referent of an anaphor is determined by its antecedent"
+   }
+  ],
+  "forms": "複數 anaphors"
+ },
+ "anaphora": {
+  "ph": "/ә'næfәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "首語重複法",
+    "def": "using a pronoun or similar word instead of repeating a word used earlier"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 衝出, 咳出, 血液上衝, 恢復, 努力呼吸",
+    "def": ""
+   }
+  ]
+ },
+ "anaphylactic": {
+  "ph": "/,ænәfi'læktik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過敏性, 過敏反應",
+    "def": "related to the hypersensitivity known as anaphylaxis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 過敏性的",
+    "def": ""
+   }
+  ]
+ },
+ "anaphylaxis": {
+  "ph": "/.ænәfi'læksis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過敏性",
+    "def": "hypersensitivity reaction to the ingestion or injection of a substance (a protein or drug) resulting from prior contact with a substance"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 過敏性, 過敏症, 過敏反應",
+    "def": ""
+   }
+  ]
+ },
+ "anarchic": {
+  "ph": "/æ'nɑ:kik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無政府的, 無政府主義的, 無規律的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 反常的",
+    "def": ""
+   }
+  ]
+ },
+ "anarchical": {
+  "ph": "/æ'nɑ:kikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無政府主義的, 不守法的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 不守法的, 無政府主義, 無政府的",
+    "def": ""
+   }
+  ]
+ },
+ "anarchism": {
+  "ph": "/'ænәkizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無政府主義",
+    "def": "a political theory favoring the abolition of governments"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 無政府主義",
+    "def": ""
+   }
+  ]
+ },
+ "anarchist": {
+  "ph": "/'ænәkist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無政府主義者",
+    "def": "an advocate of anarchism"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 無政府主義者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anarchists"
+ },
+ "anarchistic": {
+  "ph": "/.ænә'kistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無政府主義的",
+    "def": "of or related to anarchism or tending toward anarchism"
+   }
+  ]
+ },
+ "anarchy": {
+  "ph": "/'ænәki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無政府狀態, 政治混亂",
+    "def": "a state of lawlessness and disorder (usually resulting from a failure of government)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 混亂, 無秩序, 無政府狀態",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anarchies"
+ },
+ "anasazi": {
+  "ph": "/,a:nə'sa:zi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿那薩吉；外星檔案（電影名）",
+    "def": "a Native American who lived in what is now southern Colorado and Utah and northern Arizona and New Mexico and who built cliff dwellings"
+   }
+  ]
+ },
+ "anastomosis": {
+  "ph": "/.ænәstә'mәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "接合, 相接",
+    "def": "a natural or surgical joining of parts or branches of tubular structures so as to make or become continuous"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 吻合, 吻合術",
+    "def": ""
+   }
+  ]
+ },
+ "anathema": {
+  "ph": "/ә'næθәmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "令人厭惡的人, 強烈的遣責, 詛咒, 咒逐, 革出教門",
+    "def": "a detested person"
+   }
+  ],
+  "forms": "複數 anathemas"
+ },
+ "anatole": {
+  "ph": "/'ænәtәjl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿納托爾(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "anatolia": {
+  "ph": "/.ænә'tәuljә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安納托利亞(小亞細亞舊稱)",
+    "def": ""
+   }
+  ]
+ },
+ "anatolian": {
+  "ph": "/,ænә'tәjljәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安那託利亞語",
+    "def": "an extinct branch of the Indo-European family of languages known from inscriptions and important in the reconstruction of Proto-Indo European"
+   }
+  ],
+  "forms": "複數 anatolians"
+ },
+ "anatoly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Anatoly)人名；(烏克、俄)阿納託利",
+    "def": ""
+   }
+  ]
+ },
+ "anatomic": {
+  "ph": "/,ænә'tɔmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "解剖的, 結構上的, 解剖學上的",
+    "def": "of or relating to the structure of the body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 解剖學的",
+    "def": ""
+   }
+  ]
+ },
+ "anatomical": {
+  "ph": "/.ænә'tɒmikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "解剖的, 解剖學的, 構造上的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 解剖學的",
+    "def": ""
+   }
+  ]
+ },
+ "anatomically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "解剖, 結構上, 解剖學上",
+    "def": ""
+   }
+  ]
+ },
+ "anatomist": {
+  "ph": "/ә'nætәmist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "解剖學家",
+    "def": "an expert in anatomy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 解剖學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anatomists"
+ },
+ "anatomy": {
+  "ph": "/ә'nætәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剖析, 解剖學, 骨骼, 結構",
+    "def": "the branch of morphology that deals with the structure of animals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 解剖學, 解剖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anatomies"
+ },
+ "anc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "非洲民族會議（African National Council）；美國新聞社（American News Company）；（美國）大氣氮公司（Atmospheric Nitrogen Corporation）；自動噪聲消除器（Automatic Noise Canceller）",
+    "def": ""
+   }
+  ]
+ },
+ "ancestor": {
+  "ph": "/'ænsestә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祖先, 祖宗",
+    "def": "someone from whom you are descended (but usually more remote than a grandparent)"
+   }
+  ],
+  "forms": "複數 ancestors"
+ },
+ "ancestral": {
+  "ph": "/æn'sestrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "祖先的, 祖傳的",
+    "def": "of or belonging to or inherited from an ancestor"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 祖先的, 祖傳的",
+    "def": ""
+   }
+  ]
+ },
+ "ancestress": {
+  "ph": "/'ænsestris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女祖先",
+    "def": "a woman ancestor"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 女性被繼承人, 女性祖先",
+    "def": ""
+   }
+  ]
+ },
+ "ancestry": {
+  "ph": "/'ænsestri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祖先, 世系, 名門出身",
+    "def": "inherited properties shared with others of your bloodline"
+   }
+  ],
+  "forms": "複數 ancestries"
+ },
+ "ancho": {
+  "ph": "/'ænkəʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安蔻椒, 幹波布拉諾椒",
+    "def": ""
+   }
+  ]
+ },
+ "anchor": {
+  "ph": "/'æŋkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錨",
+    "def": "a mechanical device that prevents a vessel from moving"
+   },
+   {
+    "pos": "vt.",
+    "zh": "拋錨停泊, 使固定",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 錨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anchors｜現在分詞 anchoring｜第三人稱單數 anchors｜過去式 anchored｜過去分詞 anchored"
+ },
+ "anchorage": {
+  "ph": "/'æŋkәridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下錨, 錨地, 停泊稅",
+    "def": "the condition of being secured to a base"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 固著; 固定; 錨定",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anchorages"
+ },
+ "anchored": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "固定的；拋錨的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 anchored｜過去分詞 anchored"
+ },
+ "anchoring": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 吊骨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 anchoring"
+ },
+ "anchorman": {
+  "ph": "/'æŋkәmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "末棒運動員, 成績倒數第一名, 新聞節目主持人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anchormen"
+ },
+ "anchorwoman": {
+  "ph": "/'æŋkə,wumən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣播新聞的女主持人",
+    "def": ""
+   }
+  ]
+ },
+ "anchovy": {
+  "ph": "/'æntʃәvi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳳尾魚；鯷魚",
+    "def": "tiny fishes usually canned or salted; used for hors d'oeuvres or as seasoning in sauces"
+   }
+  ],
+  "forms": "複數 anchovies"
+ },
+ "ancient": {
+  "ph": "/'einʃәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "古代的, 古老的, 年老的, 舊的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ancients"
+ },
+ "anciently": {
+  "ph": "/'einʃәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "以往, 古代",
+    "def": ""
+   }
+  ]
+ },
+ "ancillary": {
+  "ph": "/æn'silәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "從屬的, 輔助的, 副的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 輔助的, 附屬的, 助手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ancillaries"
+ },
+ "ancona": {
+  "ph": "/æŋ'kәjnә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安科納[義大利東部港市]",
+    "def": ""
+   }
+  ]
+ },
+ "ancova": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "協方差分析（analysis of covariance）",
+    "def": ""
+   }
+  ]
+ },
+ "and": {
+  "ph": "/ænd/",
+  "senses": [
+   {
+    "pos": "conj.",
+    "zh": "和, 與",
+    "def": "A particle which expresses the relation of connection or"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 與",
+    "def": ""
+   }
+  ]
+ },
+ "andalucia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Andalucia)人名；(西)安達盧西亞",
+    "def": ""
+   }
+  ]
+ },
+ "andalusia": {
+  "ph": "/.ændә'lu:zjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安達盧西亞(西班牙地名)",
+    "def": "a region in southern Spain on the Atlantic and the Mediterranean; formerly a center of Moorish civilization"
+   }
+  ]
+ },
+ "andalusian": {
+  "ph": "/,ændә'lu:ziәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安達盧西亞語, 安達盧西亞人, 安達盧西亞雞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 andalusians"
+ },
+ "andante": {
+  "ph": "/æn'dænti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行板, 行板樂曲",
+    "def": "a moderately slow tempo (a walking pace)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "徐緩的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "徐緩地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 andantes"
+ },
+ "ande": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "andean": {
+  "ph": "/'ændiәn, æn'di:әn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "安第斯山脈的",
+    "def": "relating to the Andes and their inhabitants"
+   }
+  ],
+  "forms": "複數 andeans"
+ },
+ "anders": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "andersen": {
+  "ph": "/'ændәsәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安徒生(丹麥作家)",
+    "def": "a Danish author remembered for his fairy stories (1805-1875)"
+   }
+  ]
+ },
+ "anderson": {
+  "ph": "/'ændәsn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德森市（美國印第安納州）；安德森（男子名）",
+    "def": "United States author whose works were frequently autobiographical (1876-1941)"
+   }
+  ]
+ },
+ "andersson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Andersson)人名；(冰、芬、葡、瑞典)安德松；(德、英)安德森",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "安德森",
+    "def": ""
+   }
+  ]
+ },
+ "anderton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Anderton)人名；(英)安德頓",
+    "def": ""
+   }
+  ]
+ },
+ "andf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "architecture neutral distribution format 體系結構隨遇分配格式",
+    "def": ""
+   }
+  ]
+ },
+ "andiron": {
+  "ph": "/'ændairәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薪架",
+    "def": "metal supports for logs in a fireplace"
+   }
+  ],
+  "forms": "複數 andirons"
+ },
+ "andorra": {
+  "ph": "/æn'dɔrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安道爾共和國；安道爾市",
+    "def": "a small republic in the eastern Pyrenees between Spain and France"
+   }
+  ]
+ },
+ "andouille": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "昂杜耶(法國地名)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "辣燻腸（用豬肉和大蒜做成的辣味燻腸, 特別用在阿卡迪亞人的食品中）",
+    "def": ""
+   }
+  ]
+ },
+ "andover": {
+  "ph": "/'æn,dəuvə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德沃（美國一控制公司名）；安多弗（美國馬薩諸塞州一地名）",
+    "def": ""
+   }
+  ]
+ },
+ "andra": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安德拉（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 andras"
+ },
+ "andre": {
+  "ph": "/'ændri, 'ɑ:ndrei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德烈（男子名, 等於Andrew）",
+    "def": ""
+   }
+  ]
+ },
+ "andrea": {
+  "ph": "/'ændriә,ɑ:n'dreiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德里亞（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "andreas": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德里亞斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "andrei": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安德烈（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "andreotti": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Andreotti)人名；(意)安德烈奧蒂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 andreotti"
+ },
+ "andres": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德烈斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "andretti": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Andretti)人名；(西、意、英)安德烈蒂",
+    "def": ""
+   }
+  ]
+ },
+ "andrew": {
+  "ph": "/'ændru:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德魯（男子名）",
+    "def": "(New Testament) disciple of Jesus; brother of Peter; patron saint of Scotland"
+   }
+  ],
+  "forms": "過去式 andrew"
+ },
+ "andrewes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Andrewes)人名；(英)安德魯斯",
+    "def": ""
+   }
+  ]
+ },
+ "andrews": {
+  "ph": "/'ændru:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德魯斯（姓氏）",
+    "def": "United States naturalist who contributed to paleontology and geology (1884-1960)"
+   }
+  ]
+ },
+ "andrey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德烈（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "andries": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Andries)人名；(印尼)安德烈斯；(德、荷)安德里斯",
+    "def": ""
+   }
+  ]
+ },
+ "androcentric": {
+  "ph": "/,ændrә'sentrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "以男性為主的",
+    "def": ""
+   }
+  ]
+ },
+ "androgen": {
+  "ph": "/'ændrәdʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雄激素",
+    "def": "male sex hormone that is produced in the testes and responsible for typical male sexual characteristics"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 雄性激素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 androgens"
+ },
+ "androgenetic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "產生雄性徵的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "有刺激雄激素作用的",
+    "def": ""
+   }
+  ]
+ },
+ "androgynous": {
+  "ph": "/æn'drɒdʒinәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "雌雄同體的, 雌雄同序的, 兩性畸形的",
+    "def": "relating to or exhibiting both female and male sex organs but with a predominantly female appearance"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兩性畸形的, 雌雄同體的, 男子女化的",
+    "def": ""
+   }
+  ]
+ },
+ "androgyny": {
+  "ph": "/æn'drɔdʒini/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 兩性畸形, 雌雄同體性, 男子女化(男性假兩性畸形)",
+    "def": ""
+   }
+  ]
+ },
+ "android": {
+  "ph": "/'ændrɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機器人",
+    "def": "an automaton that resembles a human being"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 男性樣的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 androids"
+ },
+ "andromeda": {
+  "ph": "/æn'drɒmidә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安德洛墨達(希臘神話中衣索比亞的公主), 仙女座",
+    "def": "broad-leaved evergreen Asiatic shrub with glossy leaves and drooping clusters of white flowers"
+   }
+  ]
+ },
+ "andropov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Andropov)人名；(俄)安德羅波夫",
+    "def": ""
+   }
+  ]
+ },
+ "androstenedione": {
+  "ph": "/'ændrә,sti:n'daiәjn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 雄甾烯二酮",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 雄甾烯二酮",
+    "def": ""
+   }
+  ]
+ },
+ "andrus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安德勒斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "andy": {
+  "ph": "/'ændi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安迪（男子名, 等於Andrew）",
+    "def": ""
+   }
+  ]
+ },
+ "anecdotal": {
+  "ph": "/,ænek'dәutl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "軼事的, 愛談奇聞軼事的, 多軼事的",
+    "def": "having the character of an anecdote"
+   }
+  ]
+ },
+ "anecdote": {
+  "ph": "/'ænikdәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軼事, 奇聞",
+    "def": "short account of an incident (especially a biographical one)"
+   }
+  ],
+  "forms": "複數 anecdotes"
+ },
+ "anemia": {
+  "ph": "/ә'ni:miә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貧血, 貧血症, 無活力",
+    "def": "a deficiency of red blood cells"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 貧血",
+    "def": ""
+   }
+  ]
+ },
+ "anemic": {
+  "ph": "/ә'ni:mik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貧血的, 患貧血症的, 無活力的",
+    "def": "relating to anemia or suffering from anemia"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 貧血的",
+    "def": ""
+   }
+  ]
+ },
+ "anemometer": {
+  "ph": "/.ænә'mɒmitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風速計",
+    "def": "a gauge for recording the speed and direction of wind"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 風速計; 氣流計",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anemometers"
+ },
+ "anemone": {
+  "ph": "/ә'nemәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銀蓮花, 海葵",
+    "def": "any woodland plant of the genus Anemone grown for its beautiful flowers and whorls of dissected leaves"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 銀蓮花屬(毛莨科)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anemones"
+ },
+ "anencephalic": {
+  "ph": "/-'fælik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 無腦的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anencephalics"
+ },
+ "anencephaly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 無腦[畸形]",
+    "def": ""
+   }
+  ]
+ },
+ "anesthesia": {
+  "ph": "/.ænis'θi:ziә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻醉, 麻木",
+    "def": "loss of bodily sensation with or without loss of consciousness"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 麻醉; 失去知覺",
+    "def": ""
+   }
+  ]
+ },
+ "anesthesiologist": {
+  "ph": "/,ænis,θizi'ɔlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻醉學者",
+    "def": "a specialist who administers an anesthetic to a patient before he is treated"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 麻醉學家",
+    "def": ""
+   }
+  ]
+ },
+ "anesthesiology": {
+  "ph": "/,ænisθizi'ɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻醉學",
+    "def": "the branch of medical science that studies and applies anesthetics"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 麻醉學",
+    "def": ""
+   }
+  ]
+ },
+ "anesthetic": {
+  "ph": "/.ænis'θetik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻醉劑, 麻藥",
+    "def": "a drug that causes temporary loss of bodily sensations"
+   },
+   {
+    "pos": "adj.",
+    "zh": "麻醉的",
+    "def": ""
+   }
+  ]
+ },
+ "anesthetist": {
+  "ph": "/æ'ni:sθәtist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻醉師",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 麻醉師",
+    "def": ""
+   }
+  ]
+ },
+ "anesthetize": {
+  "ph": "/æ'ni:sθәtaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使麻木, 使麻醉",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 使麻醉",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 anesthetizing｜過去式 anesthetized｜第三人稱單數 anesthetizes｜過去分詞 anesthetized"
+ },
+ "anesthetized": {
+  "ph": "/æ'niːsθətaɪz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使麻醉（anaesthetize）；使麻痺",
+    "def": ""
+   }
+  ]
+ },
+ "aneurin": {
+  "ph": "/ә'naiәrin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 硫胺, 維生素B-1",
+    "def": ""
+   }
+  ]
+ },
+ "aneurism": {
+  "ph": "/'ænjuәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動脈瘤",
+    "def": ""
+   }
+  ]
+ },
+ "aneurysm": {
+  "ph": "/'ænjuәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動脈瘤",
+    "def": "a cardiovascular disease characterized by a saclike widening of an artery resulting from weakening of the artery wall"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動脈瘤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aneurysms"
+ },
+ "anew": {
+  "ph": "/ә'nju:/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "重新, 再",
+    "def": ""
+   }
+  ]
+ },
+ "anfield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安菲爾德球場",
+    "def": ""
+   }
+  ]
+ },
+ "ang": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（美國）空軍國民警衛隊（Air National Guard）；美國報業公會（American Newspaper Guild）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 anging｜複數 angs"
+ },
+ "ange": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（法）昂熱（品牌名字）；法國一樂隊名",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 anged"
+ },
+ "angel": {
+  "ph": "/'eindʒәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天使, 守護神, 善人",
+    "def": "spiritual being attendant upon God"
+   }
+  ],
+  "forms": "複數 angels"
+ },
+ "angela": {
+  "ph": "/'ændʒilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安吉拉（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "angeles": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安傑利斯（姓氏）；天使城（菲律賓地名）",
+    "def": ""
+   }
+  ]
+ },
+ "angelfish": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 楔形",
+    "def": ""
+   }
+  ]
+ },
+ "angeli": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "昂厄利（地名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angeli"
+ },
+ "angelic": {
+  "ph": "/æn'dʒelik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "天使的, 天使般的",
+    "def": "of or relating to angels"
+   }
+  ]
+ },
+ "angelica": {
+  "ph": "/æn'dʒelikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "當歸屬植物",
+    "def": "any of various tall and stout herbs of the genus Angelica having pinnately compound leaves and small white or greenish flowers in compound umbels"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 當歸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angelicas"
+ },
+ "angelina": {
+  "ph": "/,ændʒi'li:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安吉莉娜（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "angell": {
+  "ph": "/'eindʒәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(=Angel)天使, 守護神",
+    "def": ""
+   }
+  ]
+ },
+ "angelo": {
+  "ph": "/'ændʒilәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安吉洛（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "angelus": {
+  "ph": "/'ændʒilәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奉告祈禱, 奉告祈禱鍾",
+    "def": "a prayer said 3 times a day by Roman Catholics in memory of the Annunciation"
+   }
+  ]
+ },
+ "anger": {
+  "ph": "/'æŋgә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "忿怒",
+    "def": "a strong emotion; a feeling that is oriented toward some real or supposed grievance"
+   },
+   {
+    "pos": "vt.",
+    "zh": "激怒, 使發怒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發怒",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 angered｜過去式 angered｜複數 angers｜第三人稱單數 angers｜現在分詞 angering"
+ },
+ "angered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "生氣",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 angered｜過去式 angered"
+ },
+ "angevin": {
+  "ph": "/'ændʒivin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "昔時法國安如省人；安如望族一員",
+    "def": "a resident of Anjou"
+   },
+   {
+    "pos": "adj.",
+    "zh": "昔時法國安如省的；昔時安如望族的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angevins"
+ },
+ "angie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安琪（女子名）；安吉（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "angina": {
+  "ph": "/æn'dʒainә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咽痛, 絞痛",
+    "def": "any disease of the throat or fauces marked by spasmodic attacks of intense suffocative pain"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 咽峽炎, 咽痛, 絞痛",
+    "def": ""
+   }
+  ]
+ },
+ "angiogenesis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 血管生成, 血管發生",
+    "def": ""
+   }
+  ]
+ },
+ "angiogram": {
+  "ph": "/'ændʒiәj^ræm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[醫]血管造影(照)片",
+    "def": "an X-ray representation of blood vessels made after the injection of a radiopaque substance"
+   }
+  ],
+  "forms": "複數 angiograms"
+ },
+ "angiography": {
+  "ph": "/,ændʒi'ɔ^rәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "血管造影術",
+    "def": "roentgenographic examination of blood vessels after injection of a radiopaque contrast medium; produces an angiogram"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 血管造影術, 血管照相術, 血管學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angiographies"
+ },
+ "angioplasty": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 血管成形術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angioplasties"
+ },
+ "angiosarcoma": {
+  "ph": "/,ændʒiәjsɑ:'kәjmә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 血管肉瘤",
+    "def": ""
+   }
+  ]
+ },
+ "angiosperm": {
+  "ph": "/'ændʒiәspә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被子植物",
+    "def": "plants having seeds in a closed ovary"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 被子植物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angiosperms｜第三人稱單數 angiosperms"
+ },
+ "angiotensin": {
+  "ph": "/,ændʒiәj'tensin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "血管緊張素",
+    "def": "any of several vasoconstrictor substances (trade name Hypertensin) that cause narrowing of blood vessels"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 血管緊張肽; 血管緊張素",
+    "def": ""
+   }
+  ]
+ },
+ "angkor": {
+  "ph": "/'æŋkɔ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "吳哥(柬埔寨的古都)",
+    "def": ""
+   }
+  ]
+ },
+ "anglaise": {
+  "ph": "/ɑ:ŋ'ɡleiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "舊式的英國土風舞",
+    "def": ""
+   }
+  ]
+ },
+ "angle": {
+  "ph": "/'æŋgl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "角, 角度, 角落",
+    "def": "the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians"
+   },
+   {
+    "pos": "vi.",
+    "zh": "釣魚, 謀取, 博取, 斜向移動, 轉變角度",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使轉動角度, 在...釣魚, 獲取",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angles｜過去分詞 angled｜現在分詞 angling｜過去式 angled｜第三人稱單數 angles"
+ },
+ "angled": {
+  "ph": "/'æŋ^ld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有角的, 成角度的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 angled｜過去式 angled"
+ },
+ "anglepoise": {
+  "ph": "/'æŋɡl,pɔiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[商標]安格泡(可任意調換位置的燈)",
+    "def": ""
+   }
+  ]
+ },
+ "angler": {
+  "ph": "/'æŋ^lә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釣魚, 攫取, 追逐",
+    "def": "a scheming person; someone who schemes to gain an advantage"
+   }
+  ],
+  "forms": "複數 anglers"
+ },
+ "anglesey": {
+  "ph": "/'æŋgəlsi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安格爾西島（英國威爾士西北部一島）",
+    "def": "an island to the northwest of Wales"
+   }
+  ]
+ },
+ "anglia": {
+  "ph": "/'æŋgliә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英格蘭的拉丁名稱",
+    "def": "the Latin name for England"
+   }
+  ]
+ },
+ "anglian": {
+  "ph": "/'æŋ^ljәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盎格魯族之方言, 盎格魯族人",
+    "def": "one of the major dialects of Old English"
+   },
+   {
+    "pos": "adj.",
+    "zh": "盎格魯人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anglians"
+ },
+ "anglican": {
+  "ph": "/'æŋglikәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盎格魯人",
+    "def": "a Protestant who is a follower of Anglicanism"
+   },
+   {
+    "pos": "adj.",
+    "zh": "英語的, 英國的, 盎格魯人方言的",
+    "def": "of or pertaining to or characteristic of the Anglican church"
+   }
+  ],
+  "forms": "複數 anglicans"
+ },
+ "anglicanism": {
+  "ph": "/'æŋ^likәnizəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國國教, 英國國教教義",
+    "def": "the faith and doctrine and practice of the Anglican Church"
+   }
+  ]
+ },
+ "anglicise": {
+  "ph": "/'æŋglisaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使英國化, 使英語化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 anglicised｜過去分詞 anglicised｜現在分詞 anglicising"
+ },
+ "anglicised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "英國化的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使…英國化；使…英語化（anglicise的過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "anglicize": {
+  "ph": "/'æŋglisaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使英國化, 使英語化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 英語化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 anglicized｜過去分詞 anglicized｜現在分詞 anglicizing｜第三人稱單數 anglicizes"
+ },
+ "anglicized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "英語化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 anglicized"
+ },
+ "angling": {
+  "ph": "/'æŋgliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釣魚, 釣魚術",
+    "def": "fishing with a hook and line (and usually a pole)"
+   }
+  ],
+  "forms": "現在分詞 angling"
+ },
+ "anglo": {
+  "ph": "/'æŋ^lәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anglos"
+ },
+ "anglophile": {
+  "ph": "/'æŋglәufail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "親英者",
+    "def": "an admirer of England and things English"
+   }
+  ],
+  "forms": "複數 anglophiles"
+ },
+ "anglophone": {
+  "ph": "/'æŋ^lәufәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "母語是英語者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anglophones｜第三人稱單數 anglophones"
+ },
+ "angola": {
+  "ph": "/æŋ'^әulә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 安哥拉",
+    "def": ""
+   }
+  ]
+ },
+ "angolan": {
+  "ph": "/æŋ'^әjlәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 安哥拉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angolans"
+ },
+ "angora": {
+  "ph": "/æŋ'gәurә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安哥拉, 安哥拉貓, 安哥拉山羊, 馬海毛",
+    "def": "a domestic breed of goat raised for its long silky hair which is the true mohair"
+   }
+  ],
+  "forms": "複數 angoras"
+ },
+ "angrily": {
+  "ph": "/'æŋgrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "憤怒地",
+    "def": ""
+   }
+  ]
+ },
+ "angry": {
+  "ph": "/'æŋgri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生氣的, 憤怒的",
+    "def": "feeling or showing anger"
+   }
+  ],
+  "forms": "比較級 angrier"
+ },
+ "angst": {
+  "ph": "/æŋst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焦慮, 疑懼",
+    "def": "an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 恐怖",
+    "def": ""
+   }
+  ]
+ },
+ "angstrom": {
+  "ph": "/'æŋstrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃",
+    "def": "a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 埃",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angstroms"
+ },
+ "anguilla": {
+  "ph": "/æŋ'^wilә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安圭拉島(位於西印度群島)",
+    "def": "a British colony in the West Indies"
+   }
+  ]
+ },
+ "anguish": {
+  "ph": "/'æŋgwiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劇痛, 痛苦",
+    "def": "extreme mental distress"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使極痛苦",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "感到痛苦",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 anguishing｜複數 anguishes｜過去式 anguished｜第三人稱單數 anguishes｜過去分詞 anguished"
+ },
+ "anguished": {
+  "ph": "/'æŋgwiʃt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "極度痛苦的",
+    "def": ""
+   }
+  ]
+ },
+ "anguishing": {
+  "ph": "/'æŋgwɪʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "痛苦；苦惱",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使極度痛苦",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "感到極度的痛苦",
+    "def": ""
+   }
+  ]
+ },
+ "angular": {
+  "ph": "/'æŋgjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有角的, 消瘦的, 有尖角的, 生硬的",
+    "def": "measured by an angle or by the rate of change of an angle"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 角的, 角形的",
+    "def": ""
+   }
+  ]
+ },
+ "angularity": {
+  "ph": "/æŋgju'læriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有角, 角狀, 生硬",
+    "def": "the property possessed by a shape that has angles"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 傾斜度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angularities"
+ },
+ "angulation": {
+  "ph": "/,æŋ^ju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 角度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 angulations"
+ },
+ "angus": {
+  "ph": "/'æŋ^әs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安格斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "angy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Angy)人名；(俄)安吉",
+    "def": ""
+   }
+  ]
+ },
+ "anhydride": {
+  "ph": "/æn'haidraid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 酸酐; 酐; 某酐",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 酐, 脫水物",
+    "def": ""
+   }
+  ]
+ },
+ "anhydrous": {
+  "ph": "/æn'haidrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無水的",
+    "def": "without water; especially without water of crystallization"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無水的",
+    "def": ""
+   }
+  ]
+ },
+ "ani": {
+  "ph": "/'ɑ:ni/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 自動號碼識別",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ani"
+ },
+ "anil": {
+  "ph": "/'ænil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "假藍靛, 靛藍",
+    "def": "a blue dye obtained from plants or made synthetically"
+   },
+   {
+    "pos": "",
+    "zh": "[化] (醛或酮)縮苯胺; 苯胺衍生物(PhN=型化合物)",
+    "def": ""
+   }
+  ]
+ },
+ "aniline": {
+  "ph": "/'ænili:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苯胺",
+    "def": "oily poisonous liquid amine obtained from nitrobenzene and used to make dyes and plastics and medicines"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 苯胺",
+    "def": ""
+   }
+  ]
+ },
+ "anima": {
+  "ph": "/'ænimә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生命, 靈魂",
+    "def": "(Jungian psychology) the inner self (not the external persona) that is in touch with the unconscious"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 靈氣, 靈, 精, 精華(藥品的有效成分), 精神, 女性意象(精神分析用詞)",
+    "def": ""
+   }
+  ]
+ },
+ "animal": {
+  "ph": "/'ænimәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物",
+    "def": "a living organism characterized by voluntary movement"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 animals"
+ },
+ "animal rights": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "動物權利",
+    "def": ""
+   }
+  ]
+ },
+ "animalistic": {
+  "ph": "/,ænimә'listik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "獸性說的, 色情的",
+    "def": "of or pertaining to animalism"
+   }
+  ]
+ },
+ "animality": {
+  "ph": "/,æni'mæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獸性",
+    "def": "the physical (or animal) side of a person as opposed to the spirit or intellect"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動物性",
+    "def": ""
+   }
+  ]
+ },
+ "animals": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物, 動物世界；牲畜（animal的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "animate": {
+  "ph": "/'ænimeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使有生氣, 賦予生命",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "有生命的, 有生氣的",
+    "def": "belonging to the class of nouns that denote living beings"
+   }
+  ],
+  "forms": "過去分詞 animated｜第三人稱單數 animates｜現在分詞 animating｜過去式 animated"
+ },
+ "animated": {
+  "ph": "/'ænimeitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "活生生的, 能活動的, 活潑的, 歡快的",
+    "def": "having life or vigor or spirit"
+   }
+  ],
+  "forms": "過去分詞 animated｜過去式 animated"
+ },
+ "animatedly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "精力旺盛地；活生生地",
+    "def": ""
+   }
+  ]
+ },
+ "animating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有生氣的；啟發的",
+    "def": ""
+   }
+  ]
+ },
+ "animation": {
+  "ph": "/.æni'meiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "活潑, 生氣, 激勵, 卡通製作",
+    "def": "the condition of living or the state of being alive"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 動畫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 animations"
+ },
+ "animator": {
+  "ph": "/'ænimeitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賦與生氣者, 鼓舞者, 漫畫製作者",
+    "def": "the technician who produces animated cartoons"
+   }
+  ],
+  "forms": "複數 animators"
+ },
+ "animatronic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "電子動物的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 animatronics"
+ },
+ "animatronics": {
+  "ph": "/,ænimə'trɔniks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電子動畫學",
+    "def": "the construction of robots to look like animals (developed for Disneyland)"
+   }
+  ]
+ },
+ "anime": {
+  "ph": "/'ænimei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 硬樹脂",
+    "def": ""
+   }
+  ]
+ },
+ "animism": {
+  "ph": "/'ænimizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萬物有靈論",
+    "def": "the doctrine that all natural objects and the universe itself have souls"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 靈氣說, 泛靈論",
+    "def": ""
+   }
+  ]
+ },
+ "animist": {
+  "ph": "/'ænimist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萬物有靈論者",
+    "def": "one who accepts the doctrine of animism"
+   }
+  ],
+  "forms": "複數 animists"
+ },
+ "animistic": {
+  "ph": "/æni'mistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "萬物有靈論的",
+    "def": ""
+   }
+  ]
+ },
+ "animosity": {
+  "ph": "/.æni'mɒsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仇恨, 憎惡, 敵意",
+    "def": "a feeling of ill will arousing active hostility"
+   }
+  ],
+  "forms": "複數 animosities"
+ },
+ "animus": {
+  "ph": "/'ænimәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "基本態度, 敵意, 意向",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 男性意象(精神分析用詞)",
+    "def": ""
+   }
+  ]
+ },
+ "anion": {
+  "ph": "/'ænaiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陰離子",
+    "def": "a negatively charged ion"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 陰離子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anions"
+ },
+ "anise": {
+  "ph": "/'ænis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茴芹",
+    "def": "native to Egypt but cultivated widely for its aromatic seeds and the oil from them used medicinally and as a flavoring in cookery"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 茴香",
+    "def": ""
+   }
+  ]
+ },
+ "aniseed": {
+  "ph": "/'ænisi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洋茴香",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 洋茴香",
+    "def": ""
+   }
+  ]
+ },
+ "anisette": {
+  "ph": "/æni'zet/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 茴香酒",
+    "def": ""
+   }
+  ]
+ },
+ "anisotropic": {
+  "ph": "/ә,naisәu'trɔpik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 各向異性的, 非均質的, 不均衡的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 各向異性的",
+    "def": ""
+   }
+  ]
+ },
+ "anisotropy": {
+  "ph": "/,ænai'sɔtrәpi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 各向異性",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 各向異性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anisotropies"
+ },
+ "anita": {
+  "ph": "/ә'ni:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安尼塔（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "anjelica": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安傑麗卡（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "anjou": {
+  "ph": "/ændʒu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "昂儒（法國西部舊州名）",
+    "def": "a former province of western France in the Loire valley"
+   }
+  ]
+ },
+ "ankara": {
+  "ph": "/'æŋkәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安卡拉(土耳其首都)",
+    "def": "the capital of Turkey; located in west-central Turkey; it was formerly known as Angora and is the home of Angora goats"
+   }
+  ]
+ },
+ "ankh": {
+  "ph": "/æŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "T形十字章(古埃及生命的象徵)",
+    "def": ""
+   }
+  ]
+ },
+ "ankle": {
+  "ph": "/'æŋkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "踝",
+    "def": "a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 踝, 踝關節",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ankles"
+ },
+ "anklet": {
+  "ph": "/'æŋklit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "短襪, 腳鐲, 腳鐐",
+    "def": "a shoe for a child or woman that has a strap around the ankle"
+   }
+  ],
+  "forms": "複數 anklets"
+ },
+ "ann": {
+  "ph": "/æn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安（女子名）",
+    "def": "Alt. of Annat"
+   }
+  ]
+ },
+ "anna": {
+  "ph": "/'ænә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安娜（女子名）",
+    "def": "a former copper coin of Pakistan and India"
+   }
+  ]
+ },
+ "annabel": {
+  "ph": "/'ænəbel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安娜貝爾（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "annabelle": {
+  "ph": "/ænə'bel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安娜貝拉（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "annal": {
+  "ph": "/'ænәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "記錄；編年史",
+    "def": "See Annals."
+   }
+  ],
+  "forms": "複數 annals"
+ },
+ "annals": {
+  "ph": "/'ænәlz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "編年史, 活動年報, 歷史",
+    "def": "reports of the work of a society or learned body etc"
+   }
+  ]
+ },
+ "annamese": {
+  "ph": "/.ænә'mi:z/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "安南的, 安南人的, 安南語的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "安南人, 安南語",
+    "def": ""
+   }
+  ]
+ },
+ "annan": {
+  "ph": "/ˈænən]/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安南（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "annandale": {
+  "ph": "/'ænən,deil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安嫩代爾（美國弗吉尼亞州東部市鎮）；半畝園（一餐廳名稱）",
+    "def": ""
+   }
+  ]
+ },
+ "anne": {
+  "ph": "/æn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安妮（女子名）",
+    "def": "Queen of England and Scotland and Ireland; daughter if James II and the last of the Stuart monarchs; in 1707 she was the last English ruler to exercise the roya"
+   }
+  ]
+ },
+ "anneal": {
+  "ph": "/ә'ni:l/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使退火",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 退火, 煉韌",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 annealing｜過去式 annealed｜過去分詞 annealed｜複數 anneals｜第三人稱單數 anneals"
+ },
+ "annealing": {
+  "ph": "/æ'ni:liŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 調整, 退火",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 退火, 煉韌",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 annealing"
+ },
+ "annes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Annes)人名；(法)阿納；(英)安妮斯",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "神經網路專家系統的應用（Application of Neural Network Expert System）",
+    "def": ""
+   }
+  ]
+ },
+ "annesley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Annesley)人名；(英)安斯利",
+    "def": ""
+   }
+  ]
+ },
+ "annette": {
+  "ph": "/ә'net/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安妮特（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "annex": {
+  "ph": "/ә'neks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附加物, 附屬建築物",
+    "def": "an addition that extends a main building"
+   },
+   {
+    "pos": "vt.",
+    "zh": "附加, 蓋(印), 併吞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 annexed｜過去式 annexed｜複數 annexes｜現在分詞 annexing｜第三人稱單數 annexes"
+ },
+ "annexation": {
+  "ph": "/ænek'seiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合併, 附加, 附加物",
+    "def": "incorporation by joining or uniting"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 兼併, 侵吞, 附加物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 annexations"
+ },
+ "annexe": {
+  "ph": "/'æneks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附加物, 附屬建築",
+    "def": ""
+   }
+  ]
+ },
+ "annexed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 附加的, 附屬的",
+    "def": ""
+   }
+  ]
+ },
+ "annie": {
+  "ph": "/'æni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安妮（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "annihilate": {
+  "ph": "/ә'naiәleit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "消滅, 廢止",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 annihilated｜現在分詞 annihilating｜過去式 annihilated｜第三人稱單數 annihilates｜複數 annihilates"
+ },
+ "annihilation": {
+  "ph": "/ә.naiә'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "殲滅, 湮滅",
+    "def": "destruction by annihilating something"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 消滅; 湮滅; 湮滅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 annihilations"
+ },
+ "anniversary": {
+  "ph": "/æni'vә:sәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "週年紀念",
+    "def": "the date on which an event occurred in some previous year (or the celebration of it)"
+   }
+  ],
+  "forms": "複數 anniversaries"
+ },
+ "anno": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[拉]伊斯蘭教紀元",
+    "def": ""
+   }
+  ],
+  "forms": "複數 annos"
+ },
+ "annotate": {
+  "ph": "/'ænәuteit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "作註解, 註釋",
+    "def": "add explanatory notes to or supply with critical comments"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 註釋",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 annotated｜過去式 annotated｜現在分詞 annotating｜第三人稱單數 annotates"
+ },
+ "annotated": {
+  "ph": "/'ænә.teitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有註釋的；帶註解的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 annotated｜過去式 annotated"
+ },
+ "annotation": {
+  "ph": "/ænәu'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "註解, 評註",
+    "def": "the act of adding notes"
+   }
+  ],
+  "forms": "複數 annotations"
+ },
+ "announce": {
+  "ph": "/ә'nauns/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "宣佈, 聲稱, 顯示, 預告",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "當報幕員, 宣佈參加競選",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 announced｜過去分詞 announced｜現在分詞 announcing｜第三人稱單數 announces"
+ },
+ "announced": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "宣佈的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 announced"
+ },
+ "announcement": {
+  "ph": "/ә'naunsmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公告, 發表, 告知",
+    "def": "a formal public statement"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 通告, 佈告, 公告",
+    "def": ""
+   }
+  ],
+  "forms": "複數 announcements"
+ },
+ "announcer": {
+  "ph": "/ә'naunsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節目報告員, 宣告者",
+    "def": "someone who proclaims a message publicly"
+   }
+  ],
+  "forms": "複數 announcers"
+ },
+ "annoy": {
+  "ph": "/ә'nɒi/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使惱怒, 騷擾",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 annoyed｜第三人稱單數 annoys｜過去分詞 annoyed｜現在分詞 annoying"
+ },
+ "annoyance": {
+  "ph": "/ә'nɒiәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煩惱, 打擾, 可厭之事",
+    "def": "anger produced by some annoying irritation"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 使人煩惱的事物, 麻煩事, 討厭物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 annoyances"
+ },
+ "annoyed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惱怒的；煩悶的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 annoyed｜過去式 annoyed"
+ },
+ "annoying": {
+  "ph": "/ә'nɒiiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惱人的, 討厭的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 annoying"
+ },
+ "annoyingly": {
+  "ph": "/ә'nɒiiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "惱人地, 討厭地",
+    "def": ""
+   }
+  ]
+ },
+ "annual": {
+  "ph": "/'ænjuәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "年刊, 年報",
+    "def": "(botany) a plant that completes its entire life cycle within the space of a year"
+   },
+   {
+    "pos": "adj.",
+    "zh": "每年的, 一年一次的, 全年的, 一年生的",
+    "def": "completing its life cycle within a year"
+   }
+  ],
+  "forms": "複數 annuals"
+ },
+ "annualised": {
+  "ph": "/'ænjuəlaizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "年度的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "按年計算（annualise的過去式和過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "annualized": {
+  "ph": "/'ænjuə,laizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[稅收] 按年計算的（利率等）, 年度化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 annualized"
+ },
+ "annually": {
+  "ph": "/'ænjuәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "一年一次, 每年",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 年度的, 每年的",
+    "def": ""
+   }
+  ]
+ },
+ "annuity": {
+  "ph": "/ә'nju:iti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "年金, 年金保險, 年金領受權",
+    "def": "income from capital investment paid in a series of regular payments"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 年金, 年俸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 annuities"
+ },
+ "annul": {
+  "ph": "/ә'nʌl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "廢除, 宣告無效, 取消",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 撤銷, 宣告無效",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 annulled｜過去式 annulled｜現在分詞 annulling｜複數 annuls｜第三人稱單數 annuls"
+ },
+ "annular": {
+  "ph": "/'ænjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "環形的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 環狀的",
+    "def": ""
+   }
+  ]
+ },
+ "annulment": {
+  "ph": "/ә'nʌlmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廢除, 取消",
+    "def": "(law) a formal termination (of a relationship or a judicial proceeding etc)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 廢止, 廢除, 取消",
+    "def": ""
+   }
+  ]
+ },
+ "annulus": {
+  "ph": "/'ænjulәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "環, 環形物, 體環",
+    "def": "(Fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 環形縫; 環隙",
+    "def": ""
+   }
+  ]
+ },
+ "annunciation": {
+  "ph": "/ә.nʌnsi'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宣佈, 通告",
+    "def": "a festival commemorating the announcement of the Incarnation by the angel Gabriel to the Virgin Mary; a quarter day in England, Wales, and Ireland"
+   }
+  ]
+ },
+ "ano": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "無名的, 作者不詳的（Anonymous的縮寫）",
+    "def": ""
+   }
+  ]
+ },
+ "anode": {
+  "ph": "/'ænәud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陽極",
+    "def": "a positively charged electrode by which electrons leave an electrical device"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 陽極; 正極",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anodes"
+ },
+ "anodized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受過陽極化處理的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 anodized"
+ },
+ "anodyne": {
+  "ph": "/'ænәudain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "止痛藥, 鎮痛劑",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "止痛的",
+    "def": ""
+   }
+  ]
+ },
+ "anoint": {
+  "ph": "/ә'nɒint/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "塗油, 施以塗油禮",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 塗油膏",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 anointed｜過去式 anointed｜現在分詞 anointing｜第三人稱單數 anoints"
+ },
+ "anointed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "基督, 救世主",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 anointed｜過去分詞 anointed"
+ },
+ "anointing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "受膏",
+    "def": "the act of applying oil or an oily liquid"
+   },
+   {
+    "pos": "v.",
+    "zh": "塗；擦（anoint的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 anointing"
+ },
+ "anointment": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塗油禮",
+    "def": ""
+   }
+  ]
+ },
+ "anole": {
+  "ph": "/ə'nəuli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "變色龍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anoles"
+ },
+ "anomalous": {
+  "ph": "/ә'nɒmәlәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不規則的, 反常的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 異常的, 反常的",
+    "def": ""
+   }
+  ]
+ },
+ "anomalously": {
+  "ph": "/ə'namələsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "反常地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "不規則地",
+    "def": ""
+   }
+  ]
+ },
+ "anomaly": {
+  "ph": "/ә'nɒmәli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不規則, 反常事物, 畸形",
+    "def": "deviation from the normal or common order or form or rule"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 異常, 反常",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anomalies"
+ },
+ "anomic": {
+  "ph": "/ә'nɔmik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 社會的反常狀態, 社會道德的頹廢",
+    "def": ""
+   }
+  ]
+ },
+ "anomie": {
+  "ph": "/'ænәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "社會的反常狀態；混亂",
+    "def": "personal state of isolation and anxiety resulting from a lack of social control and regulation"
+   }
+  ]
+ },
+ "anon": {
+  "ph": "/ә'nɒn/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不久以後, 立刻, 以後",
+    "def": ""
+   }
+  ]
+ },
+ "anonymity": {
+  "ph": "/.ænә'nimiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "匿名, 姓氏不明",
+    "def": "the state of being anonymous"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 匿名信件",
+    "def": ""
+   }
+  ]
+ },
+ "anonymous": {
+  "ph": "/ә'nɒnimәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "姓氏不詳的, 無名的, 無特色的",
+    "def": "having no known name or identity or known source"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 無記錄",
+    "def": ""
+   }
+  ]
+ },
+ "anonymously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不具名地；化名地",
+    "def": ""
+   }
+  ]
+ },
+ "anorak": {
+  "ph": "/'ɑ:nәrɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風雪短大衣, 帶風帽的厚茄克",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anoraks"
+ },
+ "anorectal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 肛門直腸的",
+    "def": ""
+   }
+  ]
+ },
+ "anorexia": {
+  "ph": "/.ænә'reksiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食慾缺乏, 厭食",
+    "def": "a prolonged disorder of eating due to loss of appetite"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 食慾缺乏, 厭食",
+    "def": ""
+   }
+  ]
+ },
+ "anorexic": {
+  "ph": "/ˌænəˈreksɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "患神經性厭食症的; 食慾缺乏的; 厭食的; 簡潔的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "患厭食症的人",
+    "def": "a person suffering from anorexia nervosa"
+   }
+  ],
+  "forms": "複數 anorexics"
+ },
+ "another": {
+  "ph": "/ә'nʌðә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "另外的, 再一的, 不同的",
+    "def": ""
+   },
+   {
+    "pos": "pron.",
+    "zh": "又一個, 另一個, 類似的另一個",
+    "def": ""
+   }
+  ]
+ },
+ "anova": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 方差分析",
+    "def": ""
+   }
+  ]
+ },
+ "anoxia": {
+  "ph": "/æ'nɒksiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "缺氧症",
+    "def": "severe hypoxia; absence of oxygen in inspired gases or in arterial blood or in the tissues"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 缺氧[症]",
+    "def": ""
+   }
+  ]
+ },
+ "anoxic": {
+  "ph": "/æ'nɔksik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "缺氧(症)",
+    "def": "relating to or marked by a severe deficiency of oxygen in tissues or organs"
+   }
+  ]
+ },
+ "anschluss": {
+  "ph": "/'ɑ:nʃlus/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[德](兩國或兩地的政治經濟)聯合, 結合(尤指1938年納粹德國對奧地利的吞併)",
+    "def": ""
+   }
+  ]
+ },
+ "ansell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安思爾（澳大利亞公司）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ansells｜第三人稱單數 ansells"
+ },
+ "anselm": {
+  "ph": "/'ænselm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安塞姆（男子名, 等於Ansel）",
+    "def": "an Italian who was a Benedictine monk; was archbishop of Canterbury from 1093 to 1109; one of the founders of scholasticism; best known for his proof of the exi"
+   }
+  ]
+ },
+ "ansi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 美國國家標準學會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ansi"
+ },
+ "anson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安森（男子名）；愛立順（品牌）",
+    "def": ""
+   }
+  ]
+ },
+ "anstey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Anstey)人名；(英)安斯蒂, 安絲蒂(女名)",
+    "def": ""
+   }
+  ]
+ },
+ "anstruther": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Anstruther)人名；(英)安斯特拉瑟",
+    "def": ""
+   }
+  ]
+ },
+ "answer": {
+  "ph": "/'ɑ:nsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "答案, 回答, 回報, 答辯",
+    "def": "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation"
+   },
+   {
+    "pos": "vt.",
+    "zh": "回答, 反駁, 適應, 響應, 符合",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "回答, 答應, 負責, 符合, 成功",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 使用者問題及答案新聞組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 answers｜過去式 answered｜過去分詞 answered｜現在分詞 answering｜第三人稱單數 answers"
+ },
+ "answerable": {
+  "ph": "/'ɑ:nsәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有責任的, 可回答的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 應負責任的, 可駁斥的, 可答覆的",
+    "def": ""
+   }
+  ]
+ },
+ "answered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "回答；回覆（answer的過去式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 answered｜過去式 answered"
+ },
+ "answering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 應答",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 answering"
+ },
+ "answering machine": {
+  "ph": "/'ɑ:nsəriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "答錄機, 錄音電話",
+    "def": ""
+   }
+  ]
+ },
+ "answerphone": {
+  "ph": "/'ænsɚ'fon/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電話答錄機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 answerphones"
+ },
+ "ant": {
+  "ph": "/ænt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "螞蟻",
+    "def": "social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the w"
+   }
+  ],
+  "forms": "複數 ants｜過去式 anted｜現在分詞 anting"
+ },
+ "antacid": {
+  "ph": "/.ænt'æsid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中和酸的, 抗酸的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "抗酸劑",
+    "def": "an agent that counteracts or neutralizes acidity (especially in the stomach)"
+   }
+  ],
+  "forms": "複數 antacids"
+ },
+ "antagonise": {
+  "ph": "/æn'tæ^әnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對...起反作用, 使成為仇敵, 招...的怨, 引起...的敵對, 抵銷, 中和",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "引起對抗/反感",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 antagonising｜過去分詞 antagonised｜第三人稱單數 antagonises｜過去式 antagonised"
+ },
+ "antagonism": {
+  "ph": "/æn'tægәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對立, 敵對, 敵意",
+    "def": "the relation between opposing principles or forces or factors"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 拮抗作用; 消效作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antagonisms"
+ },
+ "antagonist": {
+  "ph": "/æn'tægәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敵手, 對手",
+    "def": "a muscle that relaxes while another contracts"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 對抗物; 拮抗物; 反協同劑; 反協同試劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antagonists"
+ },
+ "antagonistic": {
+  "ph": "/æn.tægә'nistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "對抗的, 敵對的",
+    "def": "arousing animosity or hostility"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 拮抗藥",
+    "def": ""
+   }
+  ]
+ },
+ "antagonize": {
+  "ph": "/æn'tægәnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使對抗, 使敵對, 反對",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "引起反抗",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 antagonized｜現在分詞 antagonizing｜過去分詞 antagonized｜第三人稱單數 antagonizes"
+ },
+ "antarctic": {
+  "ph": "/ænt'ɑ:ktik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "南極的, 南極地帶的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "南極地區",
+    "def": "the region around the south pole: Antarctica and surrounding waters"
+   }
+  ]
+ },
+ "antarctica": {
+  "ph": "/ænt'ɑ:ktikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "南極洲",
+    "def": "an extremely cold continent at the south pole almost entirely below the Antarctic Circle; covered by an ice cap up to 13,000 feet deep"
+   }
+  ]
+ },
+ "ante": {
+  "ph": "/'ænti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賭注",
+    "def": "(poker) the initial contribution that each player makes to the pot"
+   },
+   {
+    "pos": "v.",
+    "zh": "下賭注",
+    "def": "place one's stake"
+   }
+  ],
+  "forms": "複數 antes｜現在分詞 anteing｜過去式 anteed｜第三人稱單數 antes｜過去分詞 anteed"
+ },
+ "anteater": {
+  "ph": "/'ænt.i:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食蟻動物",
+    "def": "any of several tropical American mammals of the family Myrmecophagidae which lack teeth and feed on ants and termites"
+   }
+  ],
+  "forms": "複數 anteaters"
+ },
+ "antebellum": {
+  "ph": "/.ænti'belәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "戰前的, 南北戰爭前的",
+    "def": ""
+   }
+  ]
+ },
+ "antecedence": {
+  "ph": "/ænti'si:dәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "先, 居先, 先行",
+    "def": ""
+   }
+  ]
+ },
+ "antecedent": {
+  "ph": "/.ænti'si:dnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前情, 先行詞",
+    "def": "a preceding occurrence or cause or event"
+   },
+   {
+    "pos": "adj.",
+    "zh": "先前的, 先行的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antecedents"
+ },
+ "antechamber": {
+  "ph": "/'ænti.tʃeimbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前廳, 候見室",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 對燃室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antechambers"
+ },
+ "antedate": {
+  "ph": "/'ænti,deit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "先於, 前於",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 提前日期(比實際毋早的日期)",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 antedated｜第三人稱單數 antedates｜現在分詞 antedating｜複數 antedates｜過去分詞 antedated"
+ },
+ "antediluvian": {
+  "ph": "/.æntidi'lu:viәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大洪水前的, 陳舊的, 過時的",
+    "def": "of or relating to the period before the biblical flood"
+   },
+   {
+    "pos": "n.",
+    "zh": "大洪水以前的人, 老邁的人",
+    "def": "any of the early patriarchs who lived prior to the Noachian deluge"
+   }
+  ]
+ },
+ "antelope": {
+  "ph": "/'æntilәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羚羊",
+    "def": "graceful Old World ruminant with long legs and horns directed upward and backward; includes gazelles; springboks; impalas; addax; gerenuks; blackbucks; dik-diks"
+   }
+  ],
+  "forms": "複數 antelopes"
+ },
+ "antenatal": {
+  "ph": "/.ænti'neitl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "出生前的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 出生前的",
+    "def": ""
+   }
+  ]
+ },
+ "antenna": {
+  "ph": "/æn'tenә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天線, 觸鬚, 觸角",
+    "def": "an electrical device that sends or receives radio or television signals"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 天線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antennas"
+ },
+ "antennae": {
+  "ph": "/æn'teni:/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "天線, 觸鬚, 觸角",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antennae"
+ },
+ "anterior": {
+  "ph": "/æn'tiәriә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "前面的, 先前的",
+    "def": "of or near the head end or toward the front plane of a body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 前的",
+    "def": ""
+   }
+  ]
+ },
+ "anteriorly": {
+  "ph": "/æn'tiri:əli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "先前地；居先地；在前面, 在以前",
+    "def": ""
+   }
+  ]
+ },
+ "anteroom": {
+  "ph": "/'æntirum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "候見室, 前廳, 休息室",
+    "def": "a large entrance or reception room or area"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 準備室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anterooms"
+ },
+ "anteroposterior": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 前後的",
+    "def": ""
+   }
+  ]
+ },
+ "anthea": {
+  "ph": "/æn'θi:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安西婭(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "anthem": {
+  "ph": "/'ænθәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聖歌, 讚美詩",
+    "def": "a song of devotion or loyalty (as to a nation or school)"
+   }
+  ],
+  "forms": "複數 anthems"
+ },
+ "anthemic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "歡樂的；激發熱情的",
+    "def": ""
+   }
+  ]
+ },
+ "anther": {
+  "ph": "/'ænθә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "花葯",
+    "def": "the part of the stamen that contains pollen; usually borne on a stalk"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 花粉囊, 花葯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anthers"
+ },
+ "anthill": {
+  "ph": "/'ænthil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蟻冢, 人群密集的地方",
+    "def": "a mound of earth made by ants as they dig their nest"
+   }
+  ],
+  "forms": "複數 anthills｜第三人稱單數 anthills"
+ },
+ "anthocyanin": {
+  "ph": "/,ænθә'saiәnin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 花色素苷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 花色甙, 花青甙",
+    "def": ""
+   }
+  ]
+ },
+ "anthologist": {
+  "ph": "/æn'θɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "選集的編者",
+    "def": "an editor who makes selections for an anthology"
+   }
+  ],
+  "forms": "複數 anthologists"
+ },
+ "anthologize": {
+  "ph": "/æn'θɒlәdʒiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "編選集",
+    "def": "compile an anthology"
+   }
+  ],
+  "forms": "過去分詞 anthologized｜現在分詞 anthologizing｜過去式 anthologized｜第三人稱單數 anthologizes"
+ },
+ "anthology": {
+  "ph": "/æn'θɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "選集, 詩選",
+    "def": "a collection of selected literary passages"
+   }
+  ],
+  "forms": "複數 anthologies"
+ },
+ "anthony": {
+  "ph": "/'æntәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安東尼（人名）",
+    "def": "United States suffragist (1820-1906)"
+   }
+  ]
+ },
+ "anthracite": {
+  "ph": "/'ænθrәsait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無煙煤",
+    "def": "a hard natural coal that burns slowly and gives intense heat"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 無煙煤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anthracites"
+ },
+ "anthrax": {
+  "ph": "/'ænθræks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "炭疽",
+    "def": "a highly infectious animal disease (especially cattle and sheep); it can be transmitted to people"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 炭疽(脾脫疽)",
+    "def": ""
+   }
+  ]
+ },
+ "anthropic": {
+  "ph": "/æn'θrɔpik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人類的, 有關人類的",
+    "def": "relating to mankind or the period of mankind's existence"
+   }
+  ]
+ },
+ "anthropocentric": {
+  "ph": "/,ænθrәpәu'sentrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人類中心說的",
+    "def": "human-centered"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人類中心的",
+    "def": ""
+   }
+  ]
+ },
+ "anthropocentrism": {
+  "ph": "/,ænθrәjpәj'sentrizəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人類中心說, 人類本位說",
+    "def": "an inclination to evaluate reality exclusively in terms of human values"
+   }
+  ]
+ },
+ "anthropogenic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 人類發生的, 人類起源的",
+    "def": ""
+   }
+  ]
+ },
+ "anthropoid": {
+  "ph": "/'ænθrәupɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "類人猿",
+    "def": "person who resembles a nonhuman primate"
+   },
+   {
+    "pos": "adj.",
+    "zh": "似人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anthropoids"
+ },
+ "anthropological": {
+  "ph": "/.ænθrәpә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人類學的, 人類學上的",
+    "def": "of or concerned with the science of anthropology"
+   }
+  ]
+ },
+ "anthropologically": {
+  "ph": "/ˌænθrəpə'lɒdʒɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "人類學上",
+    "def": ""
+   }
+  ]
+ },
+ "anthropologist": {
+  "ph": "/.ænθrә'pɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人類學家",
+    "def": "a social scientist who specializes in anthropology"
+   }
+  ],
+  "forms": "複數 anthropologists"
+ },
+ "anthropology": {
+  "ph": "/.ænθrә'pɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人類學",
+    "def": "the social science that studies the origins and social relationships of human beings"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人類學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anthropologies"
+ },
+ "anthropometric": {
+  "ph": "/.ænθrәpә'metrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人體測量的",
+    "def": "of or relating to anthropometry"
+   }
+  ],
+  "forms": "複數 anthropometrics"
+ },
+ "anthropometry": {
+  "ph": "/.ænθrә'pɒmitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人體測量學",
+    "def": "measurement and study of the human body and its parts and capacities"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人體測量[術]",
+    "def": ""
+   }
+  ]
+ },
+ "anthropomorphic": {
+  "ph": "/.ænθrәpә'mɒ:fik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被賦於人形的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有人形的, 類人的",
+    "def": ""
+   }
+  ]
+ },
+ "anthropomorphism": {
+  "ph": "/.ænθrәpә'mɒ:fizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擬人論",
+    "def": "the representation of objects (especially a god) as having human form or traits"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 擬人論",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anthropomorphisms"
+ },
+ "anthropomorphize": {
+  "ph": "/.ænθrәpә'mɒ:faiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "人格化, 賦與人性",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 anthropomorphizing｜過去式 anthropomorphized｜第三人稱單數 anthropomorphizes｜過去分詞 anthropomorphized"
+ },
+ "anthurium": {
+  "ph": "/æn'θjjәriәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植] 花燭屬植物(產於熱帶美洲)",
+    "def": "any of various tropical American plants cultivated for their showy foliage and flowers"
+   }
+  ],
+  "forms": "複數 anthuriums"
+ },
+ "anti": {
+  "ph": "/'ænti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反對者, 反對論者",
+    "def": "a person who is opposed (to an action or policy or practice etc.)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "反對的",
+    "def": "not in favor of (an action or proposal etc.)"
+   }
+  ]
+ },
+ "anti-semitism": {
+  "ph": "/ænti'semitiz(ә)m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反猶主義",
+    "def": "the intense dislike for and prejudice against Jewish people"
+   }
+  ]
+ },
+ "antiaircraft": {
+  "ph": "/.ænti'єәkrɑ:ft/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "防空的",
+    "def": ""
+   }
+  ]
+ },
+ "antibacterial": {
+  "ph": "/.æntibæk'tiәriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抗菌的",
+    "def": "destroying bacteria or inhibiting their growth"
+   },
+   {
+    "pos": "n.",
+    "zh": "抗菌劑",
+    "def": "any drug that destroys bacteria or inhibits their growth"
+   }
+  ],
+  "forms": "複數 antibacterials"
+ },
+ "antibiotic": {
+  "ph": "/.æntibai'ɒtik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗生素",
+    "def": "a chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections"
+   },
+   {
+    "pos": "adj.",
+    "zh": "抗生的",
+    "def": "of or relating to antibiotic drugs"
+   }
+  ],
+  "forms": "複數 antibiotics"
+ },
+ "antibiotics": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗生學；抗生素",
+    "def": ""
+   }
+  ]
+ },
+ "antibody": {
+  "ph": "/'æntibɒdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗體",
+    "def": "any of a large variety of proteins normally present in the body or produced in response to an antigen which it neutralizes, thus producing an immune response"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 抗體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antibodies"
+ },
+ "antic": {
+  "ph": "/'æntik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑稽動作",
+    "def": "a ludicrous or grotesque act done for fun and amusement"
+   },
+   {
+    "pos": "adj.",
+    "zh": "古怪的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antics｜現在分詞 anticking｜過去式 anticked｜第三人稱單數 antics｜過去分詞 anticked"
+ },
+ "antichrist": {
+  "ph": "/'æntikraist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反對基督者",
+    "def": "(Christianity) the adversary of Christ (or Christianity) mentioned in the New Testament; the Antichrist will rule the world until overthrown by the Second Comin"
+   }
+  ],
+  "forms": "複數 antichrists"
+ },
+ "anticipate": {
+  "ph": "/æn'tisipeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "預期, 佔先, 加速, 提前使用",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 提前出現, 先期發生",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 anticipated｜現在分詞 anticipating｜過去式 anticipated｜第三人稱單數 anticipates"
+ },
+ "anticipated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "預期的；期望的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 anticipated｜過去式 anticipated"
+ },
+ "anticipation": {
+  "ph": "/æn.tisi'peiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "預期, 預料",
+    "def": "an expectation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 提前出現(如遺傳病)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anticipations"
+ },
+ "anticipatory": {
+  "ph": "/æn'tisipeitәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "期待著的, 先行的, 提早發生的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 先行",
+    "def": ""
+   }
+  ]
+ },
+ "anticlerical": {
+  "ph": "/'ænti'klerikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反聖職者的, 反對教權的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anticlericals"
+ },
+ "anticlericalism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "anticlerical的變形",
+    "def": ""
+   }
+  ]
+ },
+ "anticlimactic": {
+  "ph": "/'æntiklai'mæktik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "突降法的, 虎頭蛇尾的",
+    "def": "of or relating to a sudden change from an impressive to a ludicrous style"
+   }
+  ]
+ },
+ "anticlimax": {
+  "ph": "/.ænti'klaimæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突降法, 虎頭蛇尾",
+    "def": "a disappointing decline after a previous rise"
+   }
+  ],
+  "forms": "複數 anticlimaxes"
+ },
+ "anticline": {
+  "ph": "/'æntiklain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "背斜",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 背斜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anticlines"
+ },
+ "anticlockwise": {
+  "ph": "/.ænti'klɒkwaiz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "逆時針的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "逆時針地",
+    "def": ""
+   }
+  ]
+ },
+ "anticoagulant": {
+  "ph": "/.æntikәu'ægjulәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗凝劑",
+    "def": "medicine that prevents or retards the clotting of blood"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 阻凝劑; 防凝劑; 抗凝劑; 石油抗凝劑; 抗凝血藥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anticoagulants"
+ },
+ "anticoagulation": {
+  "ph": "/'æntɪkəʊ,æɡjʊ'leɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗凝作用",
+    "def": "the administration of an anticoagulant drug to retard coagulation of the blood"
+   }
+  ]
+ },
+ "anticonvulsant": {
+  "ph": "/,æntikәn'vʌlsәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "& n.抗驚厥的(藥物),抗痙攣的(藥物)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anticonvulsants"
+ },
+ "antics": {
+  "ph": "/'æntiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑稽動作, 古怪姿態",
+    "def": ""
+   }
+  ]
+ },
+ "antidepressant": {
+  "ph": "/,æntidi'presәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抗抑鬱的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "抗抑制(藥), 抗抑鬱劑",
+    "def": "any of a class of drugs used to treat depression; often have undesirable side effects"
+   }
+  ],
+  "forms": "複數 antidepressants"
+ },
+ "antidote": {
+  "ph": "/'æntidәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "解毒劑, 解毒藥",
+    "def": "a remedy that stops or controls the effects of a poison"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 解毒藥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antidotes"
+ },
+ "antifeminist": {
+  "ph": "/,ænti'feminist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "& n.反對女權主義的(人),反男女平等主義的(人)",
+    "def": ""
+   }
+  ]
+ },
+ "antifreeze": {
+  "ph": "/'æntifri:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "防凍劑",
+    "def": "a liquid added to the water in a cooling system to lower its freezing point"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 防凍",
+    "def": ""
+   }
+  ]
+ },
+ "antifungal": {
+  "ph": "/'æntifʌŋ^әl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抗真菌的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 殺真菌的; 殺真菌劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antifungals"
+ },
+ "antigen": {
+  "ph": "/'æntidʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗原",
+    "def": "any substance (as a toxin or enzyme) that stimulates an immune response in the body (especially the production of antibodies)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 抗原",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antigens"
+ },
+ "antigenic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抗原",
+    "def": "of or relating to antigens"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 抗原的",
+    "def": ""
+   }
+  ]
+ },
+ "antigravity": {
+  "ph": "/.ænti'grævәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反重力",
+    "def": ""
+   }
+  ]
+ },
+ "antigua": {
+  "ph": "/æn'ti:^ә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安提瓜島",
+    "def": ""
+   }
+  ]
+ },
+ "antiguan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "Antigua的變形",
+    "def": "of or relating to or characteristic of Antigua or its people"
+   }
+  ],
+  "forms": "複數 antiguans"
+ },
+ "antihistamine": {
+  "ph": "/.ænti'histәmi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗組胺藥",
+    "def": "a medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site"
+   }
+  ],
+  "forms": "複數 antihistamines"
+ },
+ "antihydrogen": {
+  "ph": "/,ænti'hɑidrәdʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[核]反氫",
+    "def": ""
+   }
+  ]
+ },
+ "antihypertensive": {
+  "ph": "/'ænti,hɑipә'tensiv/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 抗高血壓藥",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 抗高血壓的",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 antihypertensives"
+ },
+ "antille": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Antille)人名；(西)安蒂列",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antilles"
+ },
+ "antillean": {
+  "ph": "/æn'tiliәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "安的列斯群島的",
+    "def": ""
+   }
+  ]
+ },
+ "antimacassar": {
+  "ph": "/.æntimә'kæsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "椅背套",
+    "def": "a piece of ornamented cloth that protects the back of a chair from hair oils"
+   }
+  ],
+  "forms": "複數 antimacassars"
+ },
+ "antimalarial": {
+  "ph": "/,æntimә'leәriәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 抗瘧的; 抗瘧藥",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 抗瘧的, 防治瘧疾的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antimalarials"
+ },
+ "antimatter": {
+  "ph": "/'ænti.mætә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反物質",
+    "def": "matter consisting of elementary particles that are the antiparticles of those making up normal substances"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 反物質",
+    "def": ""
+   }
+  ]
+ },
+ "antimicrobial": {
+  "ph": "/,æntimai'krәubiәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抗菌的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "抗菌劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antimicrobials"
+ },
+ "antimony": {
+  "ph": "/'æntimәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "銻",
+    "def": "a metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 銻Sb",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antimonies"
+ },
+ "antineutrino": {
+  "ph": "/'æntinju:'tri:nәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 反中微子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antineutrinos"
+ },
+ "antinomian": {
+  "ph": "/,ænti'nәumiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "〈宗〉(基)",
+    "def": "relating to or influenced by antinomianism"
+   }
+  ],
+  "forms": "複數 antinomians"
+ },
+ "antinomy": {
+  "ph": "/æn'tinәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自相矛盾, 對立, 二律相背",
+    "def": "a contradiction between two statements that seem equally reasonable"
+   }
+  ],
+  "forms": "複數 antinomies"
+ },
+ "antioch": {
+  "ph": "/'æntiɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安提俄克(古敘利亞首都,現土爾其南部城市)",
+    "def": "a town in southern Turkey; ancient commercial center and capital of Syria; an early center of Christianity"
+   }
+  ]
+ },
+ "antioxidant": {
+  "ph": "/.ænti'ɒksidәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗氧化劑, 防老化劑",
+    "def": "substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 抗氧劑; 抗氧化劑; 防老劑; 防老化劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antioxidants"
+ },
+ "antiparticle": {
+  "ph": "/'ænti.pɑ:tikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反粒子",
+    "def": "a particle that has the same mass as another particle but has opposite values for its other properties; interaction of a particle and its antiparticle results i"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 反粒子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antiparticles"
+ },
+ "antipasto": {
+  "ph": "/,æn:ti'pɑ:stәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開胃食物",
+    "def": "a course of appetizers in an Italian meal"
+   }
+  ]
+ },
+ "antipathetic": {
+  "ph": "/.æntipә'θetik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生來厭惡的, 懷有反感的, 引起反感的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 相憎的",
+    "def": ""
+   }
+  ]
+ },
+ "antipathy": {
+  "ph": "/æn'tipәθi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厭惡, 反感",
+    "def": "a feeling of intense dislike"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 反感, 厭惡; 相剋療法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antipathies"
+ },
+ "antiperspirant": {
+  "ph": "/'ænti'pә:spirәnt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 止汗劑; 防汗劑; 抑汗劑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 止汗的; 止汗劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antiperspirants"
+ },
+ "antiphon": {
+  "ph": "/'æntif(ә)n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輪流吟唱的歌, 唱和",
+    "def": "a verse or song to be chanted or sung in response"
+   }
+  ],
+  "forms": "複數 antiphons"
+ },
+ "antiphonal": {
+  "ph": "/æn'tifәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "啟應輪流吟唱的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "啟應輪流吟唱的聖歌詩集",
+    "def": ""
+   }
+  ]
+ },
+ "antipode": {
+  "ph": "/'æntipәud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正相反的事物",
+    "def": "direct opposite"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 對映體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antipodes"
+ },
+ "antipodean": {
+  "ph": "/æn,tipә'di(:)әn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "正相反對的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antipodeans"
+ },
+ "antiproton": {
+  "ph": "/.ænti'prәutɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反質子",
+    "def": "an unstable negatively charged proton; the antiparticle of a proton"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 反質子; 負質子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antiprotons"
+ },
+ "antiqua": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安迪瓜（瓜地馬拉首都）",
+    "def": ""
+   }
+  ]
+ },
+ "antiquarian": {
+  "ph": "/.ænti'kwєәriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古文物收藏家, 古董商",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "古文物的, 古文物研究的",
+    "def": "of or relating to persons who study or deal in antiques or antiquities"
+   }
+  ],
+  "forms": "複數 antiquarians"
+ },
+ "antiquark": {
+  "ph": "/'ænti'kwɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[核]反夸克",
+    "def": "the antiparticle of a quark"
+   }
+  ],
+  "forms": "複數 antiquarks｜第三人稱單數 antiquarks"
+ },
+ "antiquary": {
+  "ph": "/'æntikwәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古文物收藏家, 古董商",
+    "def": "an expert or collector of antiquities"
+   }
+  ],
+  "forms": "複數 antiquaries"
+ },
+ "antiquate": {
+  "ph": "/'æntikweit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使古舊, 廢棄",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 antiquating｜過去式 antiquated｜第三人稱單數 antiquates｜過去分詞 antiquated"
+ },
+ "antiquated": {
+  "ph": "/'æntikweitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陳舊的, 過時的, 年老的",
+    "def": ""
+   }
+  ]
+ },
+ "antique": {
+  "ph": "/æn'ti:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古董, 古物",
+    "def": "any piece of furniture or decorative object or the like produced in a former period and valuable because of its beauty or rarity"
+   },
+   {
+    "pos": "adj.",
+    "zh": "古老的, 古風的, 舊式的, 過時的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antiques｜過去式 antiqued｜現在分詞 antiquing｜第三人稱單數 antiques｜過去分詞 antiqued"
+ },
+ "antiqued": {
+  "ph": "/æn'tiːkt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "仿古的；現仿的",
+    "def": ""
+   }
+  ]
+ },
+ "antiquity": {
+  "ph": "/æn'tikwәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古老, 古代, 古代人, 古物",
+    "def": "the historic period preceding the Middle Ages in Europe"
+   }
+  ],
+  "forms": "複數 antiquities"
+ },
+ "antiracism": {
+  "ph": "/.ænti'reisizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反種族主義",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 反種族歧視, 反種族主義",
+    "def": ""
+   }
+  ]
+ },
+ "antiracist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 反種族主義者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antiracists"
+ },
+ "antiseptic": {
+  "ph": "/.ænti'septik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗菌劑, 防腐劑",
+    "def": "a substance that destroys micro-organisms that carry disease without harming body tissues"
+   },
+   {
+    "pos": "adj.",
+    "zh": "抗菌的, 防腐的",
+    "def": "thoroughly clean and free of or destructive to disease-causing organisms"
+   }
+  ],
+  "forms": "複數 antiseptics"
+ },
+ "antisera": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[免疫] 抗血清（antiserum的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "antiserum": {
+  "ph": "/.ænti'siәrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗血清",
+    "def": "blood serum containing antibodies against specific antigens; provides immunity to a disease"
+   },
+   {
+    "pos": "",
+    "zh": "[化] (復antisera)抗血清",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antiserums"
+ },
+ "antislavery": {
+  "ph": "/.ænti'sleivәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反對奴隸制",
+    "def": "Opposition to slavery."
+   },
+   {
+    "pos": "adj.",
+    "zh": "反對奴隸制度的",
+    "def": "Opposed to slavery."
+   }
+  ]
+ },
+ "antisocial": {
+  "ph": "/.ænti'sәuʃәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "不愛社交的, 反社會的, 有害於公眾利益的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 不喜社交的",
+    "def": ""
+   }
+  ]
+ },
+ "antiterrorism": {
+  "ph": "/,ænti'terәrizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反恐怖主義",
+    "def": ""
+   }
+  ]
+ },
+ "antithesis": {
+  "ph": "/æn'tiθisis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對偶, 對照, 對立面",
+    "def": "exact opposite"
+   }
+  ],
+  "forms": "複數 antitheses"
+ },
+ "antithetical": {
+  "ph": "/.ænti'θetik.-kәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "對立的, 正相反的",
+    "def": ""
+   }
+  ]
+ },
+ "antitoxin": {
+  "ph": "/.ænti'tɒksin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抗毒素",
+    "def": "an antibody that can neutralize a specific toxin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 抗毒素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antitoxins"
+ },
+ "antitrust": {
+  "ph": "/.ænti'trʌst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反托拉斯的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 反托拉斯的",
+    "def": ""
+   }
+  ]
+ },
+ "antitype": {
+  "ph": "/'æntitaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對型",
+    "def": "a person or thing represented or foreshadowed by a type or symbol; especially a figure in the Old Testament having a counterpart in the New Testament"
+   }
+  ],
+  "forms": "複數 antitypes"
+ },
+ "antivenin": {
+  "ph": "/,ænti'venin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 抗蛇毒血清",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 抗蛇毒素",
+    "def": ""
+   }
+  ]
+ },
+ "antiviral": {
+  "ph": "/'ænti'vaiәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抗病毒的",
+    "def": "inhibiting or stopping the growth and reproduction of viruses"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 抗病毒的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 antivirals"
+ },
+ "antler": {
+  "ph": "/'æntlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鹿角",
+    "def": "deciduous horn of a member of the deer family"
+   }
+  ],
+  "forms": "複數 antlers｜過去式 antlered"
+ },
+ "antlered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "帶鹿角的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "有鹿角的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "飾以鹿角的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 antlered"
+ },
+ "antoine": {
+  "ph": "/æn'twɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安託萬（男子名, Anthony的異體）",
+    "def": ""
+   }
+  ]
+ },
+ "antoinette": {
+  "ph": "/,æntwɑ:'net/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安託瓦內特(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "anton": {
+  "ph": "/'æntәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安東（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "antoni": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Antoni)人名；(俄)安東尼；(意、西、羅、法、波、德、馬其、瑞典、俄)安東尼",
+    "def": ""
+   }
+  ]
+ },
+ "antonia": {
+  "ph": "/æn'tәunjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(女子名)安東尼婭",
+    "def": ""
+   }
+  ]
+ },
+ "antonin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安東尼（人名）",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Antonin)人名；(塞、西、俄)安東寧；(法)安託南",
+    "def": ""
+   }
+  ]
+ },
+ "antoninus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安東尼納斯（古羅馬偉大的皇帝）",
+    "def": ""
+   }
+  ]
+ },
+ "antonio": {
+  "ph": "/æn'tәuniәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安東尼奧（男名）",
+    "def": ""
+   }
+  ]
+ },
+ "antonov": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Antonov)人名；(俄、芬、塞、羅、捷)安東諾夫",
+    "def": ""
+   }
+  ]
+ },
+ "antony": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安東尼（男子名）",
+    "def": "Roman general under Julius Caesar in the Gallic wars; repudiated his wife for the Egyptian queen Cleopatra; they were defeated by Octavian at Actium (83-30 BC)"
+   }
+  ]
+ },
+ "antonym": {
+  "ph": "/'æntәunim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反義詞",
+    "def": "a word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other"
+   }
+  ],
+  "forms": "複數 antonyms"
+ },
+ "antral": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "竇, 室, 房",
+    "def": "Relating to an antrum."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 竇的",
+    "def": ""
+   }
+  ]
+ },
+ "antrim": {
+  "ph": "/'æntrim/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安特里姆郡[英國北愛爾蘭郡名]",
+    "def": ""
+   }
+  ]
+ },
+ "antrum": {
+  "ph": "/'æntrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "竇, 房",
+    "def": "a natural cavity or hollow in a bone"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 竇, 房",
+    "def": ""
+   }
+  ]
+ },
+ "antsy": {
+  "ph": "/'æntsi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熱鍋上的螞蟻般的,坐立不安的",
+    "def": ""
+   }
+  ]
+ },
+ "antwerp": {
+  "ph": "/'æntwә:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安特衛普(比利時港口)",
+    "def": ""
+   }
+  ]
+ },
+ "anus": {
+  "ph": "/'einәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肛門",
+    "def": "the excretory opening at the end of the alimentary canal"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 肛門",
+    "def": ""
+   }
+  ]
+ },
+ "anvil": {
+  "ph": "/'ænvil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐵砧",
+    "def": "a heavy block of iron or steel on which hot metals are shaped by hammering"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 砧骨; 鐵砧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anvils"
+ },
+ "anwar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安瓦爾；艾乃哇爾（一部影片）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anwars"
+ },
+ "anxiety": {
+  "ph": "/æŋ'zaiәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焦慮, 憂慮, 令人焦慮的事",
+    "def": "(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or att"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 焦慮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anxieties"
+ },
+ "anxious": {
+  "ph": "/'æŋʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "憂慮的, 發愁的, 渴望的",
+    "def": ""
+   }
+  ]
+ },
+ "anxiously": {
+  "ph": "/'æŋʃәsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "憂慮地, 不安地",
+    "def": ""
+   }
+  ]
+ },
+ "anxiousness": {
+  "ph": "/'æŋkʃəs,nis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焦急",
+    "def": "a feeling of mild anxiety about possible developments"
+   }
+  ]
+ },
+ "any": {
+  "ph": "/'eni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "任何的",
+    "def": ""
+   },
+   {
+    "pos": "pron.",
+    "zh": "任何",
+    "def": ""
+   }
+  ]
+ },
+ "anya": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安雅（美國女影星）",
+    "def": ""
+   }
+  ]
+ },
+ "anybody": {
+  "ph": "/'enibɒdi/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "任何人",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "重要人物",
+    "def": "Any one out of an indefinite number of persons; anyone;"
+   }
+  ]
+ },
+ "anyhow": {
+  "ph": "/'enihau/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無論如何, 至少",
+    "def": ""
+   }
+  ]
+ },
+ "anymore": {
+  "ph": "/'eni'mɔ:/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "再也不, 不再",
+    "def": ""
+   }
+  ]
+ },
+ "anyone": {
+  "ph": "/'eniwʌn/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "任何人",
+    "def": ""
+   }
+  ]
+ },
+ "anyplace": {
+  "ph": "/'enipleis/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在任何地方",
+    "def": ""
+   }
+  ]
+ },
+ "anything": {
+  "ph": "/'eniθiŋ/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "任何事",
+    "def": ""
+   }
+  ]
+ },
+ "anytime": {
+  "ph": "/'enitaim/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "任何時候；無例外地",
+    "def": ""
+   }
+  ]
+ },
+ "anyway": {
+  "ph": "/'eniwei/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無論如何, 至少",
+    "def": ""
+   }
+  ],
+  "forms": "複數 anyways"
+ },
+ "anywhere": {
+  "ph": "/'enihwєә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無論何處",
+    "def": ""
+   }
+  ]
+ }
+}

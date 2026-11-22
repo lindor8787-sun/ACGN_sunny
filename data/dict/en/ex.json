@@ -1,0 +1,6364 @@
+{
+ "ex": {
+  "ph": "/eks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "已離婚的配偶",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 不附資本增殖, (在船邊碼頭)交貨, 無(紅利)...之外",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exes"
+ },
+ "exacerbate": {
+  "ph": "/ek'sæsәbeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使惡化, 使增劇, 激怒, 使加劇",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exacerbated｜過去式 exacerbated｜第三人稱單數 exacerbates｜現在分詞 exacerbating"
+ },
+ "exacerbation": {
+  "ph": "/ek.sæsә'beiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惡化, 增劇, 激怒",
+    "def": "violent and bitter exasperation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 加重, 轉劇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exacerbations"
+ },
+ "exact": {
+  "ph": "/ig'zækt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精確的, 準確的, 精密的",
+    "def": "marked by strict and particular and complete accordance with fact"
+   },
+   {
+    "pos": "vt.",
+    "zh": "強求, 急需",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exacted｜過去式 exacted｜第三人稱單數 exacts｜現在分詞 exacting"
+ },
+ "exacting": {
+  "ph": "/ig'zæktiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "苛求的, 吃力的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 exacting"
+ },
+ "exaction": {
+  "ph": "/ig'zækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勒索, 苛求, 強索之物",
+    "def": "act of demanding or levying by force or authority"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 勒索, 榨取, 強取",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exactions"
+ },
+ "exactitude": {
+  "ph": "/ig'zæktitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正確(性), 精密, 精確(性), 嚴格",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exactitudes"
+ },
+ "exactly": {
+  "ph": "/i^'zæktli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "確切地, 精確地, 恰好, 完全地, 確實, 恰恰正是, 確實如此",
+    "def": ""
+   }
+  ]
+ },
+ "exactness": {
+  "ph": "/ig'zæktnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正確, 精確",
+    "def": "the quality of being exact"
+   }
+  ]
+ },
+ "exaggerate": {
+  "ph": "/ig'zædʒәreit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "誇大, 誇張",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exaggerated｜現在分詞 exaggerating｜過去式 exaggerated｜第三人稱單數 exaggerates"
+ },
+ "exaggerated": {
+  "ph": "/ig'zædʒәreitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "誇大的, 誇張的, 言過其實的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exaggerated｜過去式 exaggerated"
+ },
+ "exaggeratedly": {
+  "ph": "/ig'zædʒəreitidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "誇張地",
+    "def": ""
+   }
+  ]
+ },
+ "exaggeration": {
+  "ph": "/ig.zædʒә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誇張, 誇大的事物, 誇大之詞",
+    "def": "the act of making something more noticeable than usual"
+   }
+  ],
+  "forms": "複數 exaggerations"
+ },
+ "exalt": {
+  "ph": "/ig'zɒ:lt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "提升, 提高, 讚揚, 使得意",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "使人興奮, 使人得意",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exalted｜現在分詞 exalting｜過去式 exalted｜第三人稱單數 exalts"
+ },
+ "exaltation": {
+  "ph": "/.egzɒ:l'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提升, 提高, 得意洋洋",
+    "def": "the location of a planet in the zodiac at which it is believed to exert its maximum influence"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [異常]興奮, 激越",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exaltations"
+ },
+ "exalted": {
+  "ph": "/ig'zɒ:ltid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "高尚的, 尊貴的, 高位的, 興奮的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exalted｜過去式 exalted"
+ },
+ "exam": {
+  "ph": "/ig'zæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考試, 測驗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exams"
+ },
+ "examen": {
+  "ph": "/ig'zeimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考試, 批判性的研究, 良心反省",
+    "def": "a detailed inspection of your conscience (as done daily by Jesuits)"
+   }
+  ]
+ },
+ "examination": {
+  "ph": "/ig.zæmi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考試, 測驗, 審查",
+    "def": "the act of examining something closely (as for mistakes)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 檢查, 診察",
+    "def": ""
+   }
+  ],
+  "forms": "複數 examinations"
+ },
+ "examine": {
+  "ph": "/ig'zæmin/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "檢查, 調查, 考試",
+    "def": "observe, check out, and look over carefully or inspect"
+   }
+  ],
+  "forms": "過去分詞 examined｜現在分詞 examining｜過去式 examined｜第三人稱單數 examines"
+ },
+ "examined": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "驗訖；檢查過的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 examined"
+ },
+ "examinee": {
+  "ph": "/ig.zæmi'ni:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "受試人, 應試者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 受審人, 接受訊問者, 接受考試者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 examinees"
+ },
+ "examiner": {
+  "ph": "/ig'zæminә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檢查人, 審查人, 主考者",
+    "def": "someone who administers a test to determine your qualifications"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 檢驗人; 驗收員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 examiners"
+ },
+ "examining": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 審查的, 審訊的, 考試的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 examining"
+ },
+ "example": {
+  "ph": "/ig'zæmpl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "例子, 樣本, 例項",
+    "def": "an item of information that is typical of a class or group"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 例項",
+    "def": ""
+   }
+  ],
+  "forms": "複數 examples"
+ },
+ "examples": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "例子；列證（example的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "exams": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "考試；檢查（exam的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "exasperate": {
+  "ph": "/ig'zæspәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使惱怒, 激怒, 惡化",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "糙面的, 惱怒的, 激怒的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exasperated｜過去式 exasperated｜現在分詞 exasperating｜第三人稱單數 exasperates"
+ },
+ "exasperated": {
+  "ph": "/ɪgˈzæspəreɪtɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "憤怒的, 惱火的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使惱怒, 激怒, 惡化(exasperate的過去式)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exasperated｜過去式 exasperated"
+ },
+ "exasperatedly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "exasperated的變形",
+    "def": ""
+   }
+  ]
+ },
+ "exasperating": {
+  "ph": "/ig'zæspәreitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使人惱怒的, 激怒人的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 exasperating"
+ },
+ "exasperation": {
+  "ph": "/ig.zæspә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惱怒, 惱怒的原因",
+    "def": "actions that cause great irritation (or even anger)"
+   }
+  ]
+ },
+ "excalibur": {
+  "ph": "/eks'kælibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "( 傳說中) 亞瑟王的神劍",
+    "def": "the legendary sword of King Arthur"
+   }
+  ]
+ },
+ "excavate": {
+  "ph": "/'ekskәveit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "挖空, 挖出, 鑿通",
+    "def": "recover through digging"
+   }
+  ],
+  "forms": "過去分詞 excavated｜過去式 excavated｜現在分詞 excavating｜第三人稱單數 excavates"
+ },
+ "excavated": {
+  "ph": "/ˈekskəˌveɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "挖掘( excavate的過去式和過去分詞 ); 開鑿; 挖出; 發掘",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 excavated｜過去式 excavated"
+ },
+ "excavation": {
+  "ph": "/.ekskә'veiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "挖掘, 發掘, 挖掘的洞",
+    "def": "the act of digging"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 陷凹, 挖除",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excavations"
+ },
+ "excavator": {
+  "ph": "/'ekskәveitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開鑿者, 開鑿機, 挖土機",
+    "def": "a workman who excavates for foundations of buildings or for quarrying"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 挖器, 剜器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excavators"
+ },
+ "exceed": {
+  "ph": "/ik'si:d/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "超過, 超越, 勝過",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "超過其他",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 exceeds｜現在分詞 exceeding｜過去分詞 exceeded｜過去式 exceeded"
+ },
+ "exceedingly": {
+  "ph": "/ik'si:diŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "極端地, 極度地, 非常",
+    "def": ""
+   }
+  ]
+ },
+ "excel": {
+  "ph": "/ik'sel/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "勝過, 優於, 擅長",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "勝過其他",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 excelled｜第三人稱單數 excels｜過去分詞 excelled｜現在分詞 excelling"
+ },
+ "excellence": {
+  "ph": "/'ekslәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優秀, 卓越, 優點",
+    "def": "the quality of excelling; possessing good qualities in high degree"
+   }
+  ],
+  "forms": "複數 excellences"
+ },
+ "excellency": {
+  "ph": "/'ekslәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優點, 閣下",
+    "def": "a title used to address dignitaries (such as ambassadors or governors); usually preceded by `Your' or `His' or `Her'"
+   }
+  ],
+  "forms": "複數 excellencies"
+ },
+ "excellent": {
+  "ph": "/'ekslәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "優良的, 傑出的, 出色的",
+    "def": ""
+   }
+  ]
+ },
+ "excellently": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "極好地；優異地",
+    "def": ""
+   }
+  ]
+ },
+ "excelsior": {
+  "ph": "/ek'selsiɒ:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不斷向上的, 精益求精的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "細刨花",
+    "def": "thin curly wood shavings used for packing or stuffing"
+   }
+  ],
+  "forms": "複數 excelsiors"
+ },
+ "except": {
+  "ph": "/ik'sept/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "除, 除外",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "反對",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "除了...之外, 若不是, 除非",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "只是",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 excepting｜過去式 excepted｜過去分詞 excepted｜第三人稱單數 excepts"
+ },
+ "excepted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "除...之外",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 excepted｜過去分詞 excepted"
+ },
+ "excepting": {
+  "ph": "/ik'septiŋ/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "除...外, 要不是, 只是",
+    "def": ""
+   }
+  ]
+ },
+ "exception": {
+  "ph": "/ik'sepʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "例外, 除外, 異議",
+    "def": "a deliberate act of omission"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 例外; 異常",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exceptions"
+ },
+ "exceptionable": {
+  "ph": "/ik'sepʃәnәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可反對的, 可抗議的",
+    "def": ""
+   }
+  ]
+ },
+ "exceptional": {
+  "ph": "/ik'sepʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "例外的, 異常的, 特別的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exceptionals"
+ },
+ "exceptionality": {
+  "ph": "/ɪksepʃə'nælɪtɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "例外, 除外",
+    "def": ""
+   }
+  ]
+ },
+ "exceptionally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "特殊地；異常地；例外地",
+    "def": ""
+   }
+  ]
+ },
+ "excerpt": {
+  "ph": "/'eksә:pt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摘錄",
+    "def": "a passage selected from a larger work"
+   },
+   {
+    "pos": "v.",
+    "zh": "引用, 摘錄",
+    "def": "take out of a literary work in order to cite or copy"
+   }
+  ],
+  "forms": "複數 excerpts｜過去式 excerpted｜過去分詞 excerpted｜現在分詞 excerpting｜第三人稱單數 excerpts"
+ },
+ "excerpted": {
+  "ph": "/'eksɜːpt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摘錄, 引用",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "引用, 摘錄",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "摘錄, 引用",
+    "def": ""
+   }
+  ]
+ },
+ "excess": {
+  "ph": "/ik'ses/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過度, 剩於, 超過, 超額",
+    "def": "a quantity much larger than is needed"
+   },
+   {
+    "pos": "adj.",
+    "zh": "過量的, 額外的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excesses"
+ },
+ "excessive": {
+  "ph": "/ik'sesiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過度的, 過多的, 極端的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 過度的, 過分的, 額外的",
+    "def": ""
+   }
+  ]
+ },
+ "excessively": {
+  "ph": "/ik'sesivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "過多, 極度, 過度, 過分",
+    "def": ""
+   }
+  ]
+ },
+ "excessiveness": {
+  "ph": "/ɪk'sesɪvnɪs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "冗餘",
+    "def": ""
+   }
+  ]
+ },
+ "exchange": {
+  "ph": "/iks'tʃeindʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "交換, (電話)交換局, 交換機, 匯兌, 交易所",
+    "def": "chemical process in which one atom or ion or group changes places with another"
+   },
+   {
+    "pos": "v.",
+    "zh": "交換, 交易, 兌換",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 交換; 電話局",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exchanges｜過去分詞 exchanged｜過去式 exchanged｜現在分詞 exchanging｜第三人稱單數 exchanges"
+ },
+ "exchange rate": {
+  "ph": "/iksˈtʃeindʒ reit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "匯率, 兌換率",
+    "def": ""
+   }
+  ]
+ },
+ "exchangeable": {
+  "ph": "/iks'tʃeindʒәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可交換的, 可兌換的, 可替換的",
+    "def": "suitable to be exchanged"
+   }
+  ]
+ },
+ "exchanged": {
+  "ph": "/iksˈtʃeindʒd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "換回( exchange的過去式和過去分詞 ); 交換, 替換; 進行易貨貿易, 作物物交換; [金融業]（貨幣）交換, 兌換",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 exchanged｜過去分詞 exchanged"
+ },
+ "exchanger": {
+  "ph": "/iks'tʃeindʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "交換器",
+    "def": "one whose business is to exchange the money of one country for that of another country"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 交換程式, 交換器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exchangers｜第三人稱單數 exchangers"
+ },
+ "exchequer": {
+  "ph": "/iks'tʃekә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(英國)財政部, 國庫",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 國庫, 財源, 財政法院",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exchequers"
+ },
+ "excimer": {
+  "ph": "/ek'saimә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 激基締合物; 受激準分子",
+    "def": ""
+   }
+  ]
+ },
+ "excise": {
+  "ph": "/ek'saiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(煙、酒等)消費稅, 貨物稅, 國產稅",
+    "def": "a tax that is measured by the amount of business done (not on property or income from real estate)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "切除",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 excised｜過去式 excised｜現在分詞 excising｜複數 excises｜第三人稱單數 excises"
+ },
+ "excised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "離體的；切離的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 excised"
+ },
+ "excision": {
+  "ph": "/ek'siʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "切除, 刪除, 切除之物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 切除術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excisions"
+ },
+ "excisional": {
+  "ph": "/ɪk'sɪʒənəl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]adj.切除的",
+    "def": ""
+   }
+  ]
+ },
+ "excitability": {
+  "ph": "/ik.saitә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "易興奮性, 興奮性, 激動性",
+    "def": "excessive sensitivity of an organ or body part"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 應激性, 刺激感受性, 興奮性",
+    "def": ""
+   }
+  ]
+ },
+ "excitable": {
+  "ph": "/ik'saitәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能被激動的, 易興奮的, 易怒的",
+    "def": "easily excited"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 應激的, [可]興奮的",
+    "def": ""
+   }
+  ]
+ },
+ "excitation": {
+  "ph": "/.eksai'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刺激, 鼓舞, 興奮",
+    "def": "the neural or electrical arousal of an organ or muscle or gland"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 激發",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excitations"
+ },
+ "excitatory": {
+  "ph": "/ek'saitәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顯示興奮的, 起異化作用的, 刺激性的, 有激動跡象的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 興奮性的, 刺激性的, 起異化作用的",
+    "def": ""
+   }
+  ]
+ },
+ "excite": {
+  "ph": "/ik'sait/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "刺激, 使興奮, 激勵",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 excited｜過去式 excited｜第三人稱單數 excites｜現在分詞 exciting"
+ },
+ "excited": {
+  "ph": "/ik'saitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "興奮的, 已勵磁的, 已激發的, 激昂的, 激動的",
+    "def": "in an aroused state"
+   }
+  ],
+  "forms": "過去分詞 excited｜過去式 excited"
+ },
+ "excitedly": {
+  "ph": "/ik'saitidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "興奮地",
+    "def": ""
+   }
+  ]
+ },
+ "excitement": {
+  "ph": "/ik'saitmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刺激, 興奮",
+    "def": "the state of being emotionally aroused and worked up"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 興奮, 激動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excitements"
+ },
+ "exciting": {
+  "ph": "/ik'saitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人興奮的, 刺激的",
+    "def": "creating or arousing excitement"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 激磁",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 exciting"
+ },
+ "excitingly": {
+  "ph": "/ik'saitiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "刺激地；振奮人心地",
+    "def": ""
+   }
+  ]
+ },
+ "exciton": {
+  "ph": "/'iksitɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "激子",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 激子",
+    "def": ""
+   }
+  ]
+ },
+ "exclaim": {
+  "ph": "/iks'kleim/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "大叫, 呼喊, 大聲叫",
+    "def": "utter aloud; often with surprise, horror, or joy"
+   }
+  ],
+  "forms": "過去式 exclaimed｜現在分詞 exclaiming｜第三人稱單數 exclaims｜過去分詞 exclaimed"
+ },
+ "exclamation": {
+  "ph": "/.eksklә'meiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驚呼, 激烈言詞, 驚歎詞",
+    "def": "an abrupt excited utterance"
+   }
+  ],
+  "forms": "複數 exclamations"
+ },
+ "exclamatory": {
+  "ph": "/ik'sklæmәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "感嘆的, 驚歎的",
+    "def": ""
+   }
+  ]
+ },
+ "exclude": {
+  "ph": "/iks'klu:d/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "除外, 排除, 排斥",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 除外(診斷)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 excluded｜現在分詞 excluding｜第三人稱單數 excludes｜過去式 excluded"
+ },
+ "excluded": {
+  "ph": "/iksˈklu:did/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "排除, 不包括在內( exclude的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 excluded｜過去式 excluded"
+ },
+ "excluder": {
+  "ph": "/iks'klu:dә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "排除器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excluders"
+ },
+ "excluding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "把...排除在外, 不包括..., 不計...",
+    "def": ""
+   }
+  ]
+ },
+ "exclusion": {
+  "ph": "/ik'sklu:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排除, 除外, 逐出",
+    "def": "the state of being excluded"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排除, 除外, 分離術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exclusions"
+ },
+ "exclusionary": {
+  "ph": "/ɪkˈsklu:ʒənri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<正>排斥（性）的, 排除在外的",
+    "def": "Tending to exclude; causing exclusion; exclusive."
+   }
+  ]
+ },
+ "exclusive": {
+  "ph": "/ik'sklu:siv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "排外的, 獨佔的, 唯一的",
+    "def": "excluding much or all; especially all but a particular group or minority"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 獨佔的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exclusives"
+ },
+ "exclusively": {
+  "ph": "/ik'sklu:sivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "排他地, 僅僅, 專門, 只, 僅, 唯一地, 專有地",
+    "def": ""
+   }
+  ]
+ },
+ "exclusiveness": {
+  "ph": "/ik'sklu:sivnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排外性；排他性；獨佔",
+    "def": ""
+   }
+  ]
+ },
+ "exclusivism": {
+  "ph": "/iks'klu:sivizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排他主義, 排外主義",
+    "def": "The act or practice of excluding being exclusive;"
+   }
+  ]
+ },
+ "exclusivity": {
+  "ph": "/,eksklu:'siviti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 獨佔",
+    "def": ""
+   }
+  ]
+ },
+ "excogitate": {
+  "ph": "/eks'kɒdʒiteit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "想出, 研究出, 設計, 發明",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 excogitating｜過去式 excogitated｜第三人稱單數 excogitates｜過去分詞 excogitated"
+ },
+ "excommunicate": {
+  "ph": "/.ekskә'mju:nikeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "開除...教籍, 逐出教會",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "被逐出教會的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "被逐出教會的人",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 excommunicated｜過去式 excommunicated｜現在分詞 excommunicating｜第三人稱單數 excommunicates"
+ },
+ "excommunicated": {
+  "ph": "/ˌekskəˈmju:nɪˌkeɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "開除…的教籍, 把…逐出教會( excommunicate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "excommunication": {
+  "ph": "/'ekskә,mju:ni'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開除教籍, 逐出教會",
+    "def": "the state of being excommunicated"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 開除, 逐出教會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excommunications"
+ },
+ "excoriate": {
+  "ph": "/ek'skɒ:rieit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "剝皮, 擦破皮膚, 嚴厲的責難",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 excoriated｜過去分詞 excoriated｜現在分詞 excoriating｜第三人稱單數 excoriates"
+ },
+ "excoriation": {
+  "ph": "/.ekskɒ:ri'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表皮脫落, 嚴厲責難, 苛責",
+    "def": "severe censure"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 表皮脫落",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excoriations"
+ },
+ "excrement": {
+  "ph": "/'ekskrimәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排洩, 大便",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 糞便",
+    "def": ""
+   }
+  ]
+ },
+ "excrescence": {
+  "ph": "/ik'skresns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘤, 贅生物, 自然長出物(如指甲、頭髮)",
+    "def": "(pathology) an abnormal outgrowth or enlargement of some part of the body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 贅生物, 贅疣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excrescences"
+ },
+ "excreta": {
+  "ph": "/ek'skri:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排洩物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排洩物, 分泌物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excreta"
+ },
+ "excrete": {
+  "ph": "/ek'skri:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "排洩, 分泌",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排洩, 分泌",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 excreted｜過去式 excreted｜現在分詞 excreting｜第三人稱單數 excretes"
+ },
+ "excretion": {
+  "ph": "/ek'skri:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排洩, 分泌, 排洩物",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排洩, 分泌",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excretions"
+ },
+ "excretory": {
+  "ph": "/'ekskrәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "排洩的, 分泌的, 排洩物的",
+    "def": "of or relating to the process of excretion"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排洩的",
+    "def": ""
+   }
+  ]
+ },
+ "excruciate": {
+  "ph": "/iks'kru:ʃieit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "施酷刑, 拷問, 使苦惱, 折磨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 excruciating｜過去式 excruciated｜第三人稱單數 excruciates｜過去分詞 excruciated"
+ },
+ "excruciating": {
+  "ph": "/iks'kru:ʃieitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "極痛苦的, 折磨人的, 精心製作的",
+    "def": ""
+   }
+  ]
+ },
+ "excruciatingly": {
+  "ph": "/ɪk'skru:ʃɪeɪtɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "極痛苦地, 難忍受的",
+    "def": ""
+   }
+  ]
+ },
+ "exculpate": {
+  "ph": "/'ekskʌlpeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使無罪, 開脫",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 使無罪, 申辯無罪, 辯解",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 exculpated｜第三人稱單數 exculpates｜現在分詞 exculpating｜過去分詞 exculpated"
+ },
+ "exculpation": {
+  "ph": "/.ekskʌl'peiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使無罪",
+    "def": "the act of freeing from guilt or blame"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 免罪, 赦罪, 辯解",
+    "def": ""
+   }
+  ]
+ },
+ "exculpatory": {
+  "ph": "/eks'kʌlpәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "辯解的, 辯明無罪的",
+    "def": "clearing of guilt or blame"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 開脫罪責的, 申明無罪的, 昭雪的",
+    "def": ""
+   }
+  ]
+ },
+ "excursion": {
+  "ph": "/ik'skә:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遠足, 遊覽圓, 短程旅行",
+    "def": "a journey taken for pleasure"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 移動, 離軌, 逸出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 excursions"
+ },
+ "excursive": {
+  "ph": "/ik'skә:siv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遊覽的, 離題的, 散漫的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 移動性的",
+    "def": ""
+   }
+  ]
+ },
+ "excursus": {
+  "ph": "/ek'skә:sәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附記, 補說, 附錄, 離題話",
+    "def": ""
+   }
+  ]
+ },
+ "excusable": {
+  "ph": "/iks'kju:zәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可原諒的, 可容許的, 可免除的",
+    "def": "capable of being overlooked"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可辯解的, 可原諒的, 可免除的",
+    "def": ""
+   }
+  ]
+ },
+ "excuse": {
+  "ph": "/ik'skju:z/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "原諒, 申辯, 做為...的託辭",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "致歉, 理由, 饒恕, 藉口",
+    "def": "a defense of some offensive behavior or some failure to keep a promise etc."
+   }
+  ],
+  "forms": "複數 excuses｜過去分詞 excused｜過去式 excused｜現在分詞 excusing｜第三人稱單數 excuses"
+ },
+ "excused": {
+  "ph": "/iksˈkju:zd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "原諒( excuse的過去式和過去分詞 ); 使免除; 准許…離開; 為…辯解",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 excused｜過去式 excused"
+ },
+ "exe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "可執行程式的副檔名；[計]DOS檔名：可執行程式, 通常大於64K, 比.COM更為複雜",
+    "def": ""
+   }
+  ]
+ },
+ "exec": {
+  "ph": "/i^'zek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主任參謀, 副艦長",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 執行, 執行程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 execs"
+ },
+ "execrable": {
+  "ph": "/'eksikrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "該咒的, 可憎恨的, 討厭的",
+    "def": ""
+   }
+  ]
+ },
+ "execrate": {
+  "ph": "/'eksikreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "憎恨, 憎惡, 詛咒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "詛咒",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 execrated｜過去式 execrated｜現在分詞 execrating｜第三人稱單數 execrates"
+ },
+ "execration": {
+  "ph": "/.eksi'kreiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "憎惡, 詛咒, 被咒罵的人(或事)",
+    "def": "an appeal to some supernatural power to inflict evil on someone or some group"
+   }
+  ],
+  "forms": "複數 execrations"
+ },
+ "executable": {
+  "ph": "/'eksikju:tәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可執行的, 可以作成的, 可實行的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 可執行的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 executables"
+ },
+ "execute": {
+  "ph": "/'eksikju:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "執行, 實行, 完成, 處死, 製成",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 執行",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 executed｜過去式 executed｜現在分詞 executing｜第三人稱單數 executes"
+ },
+ "executed": {
+  "ph": "/ˈeksikju:tid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "執行（法令）( execute的過去式和過去分詞 ); （按計劃或設計）作成; 履行; 演（戲）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 executed｜過去分詞 executed"
+ },
+ "execution": {
+  "ph": "/.eksi'kju:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實行, 完成, 執行, 死刑",
+    "def": "putting a condemned person to death"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 執行",
+    "def": ""
+   }
+  ],
+  "forms": "複數 executions"
+ },
+ "executioner": {
+  "ph": "/.eksi'kju:ʃәnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劊子手",
+    "def": "an official who inflicts capital punishment in pursuit of a warrant"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 死刑執行人, 劊子手, 行刑者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 executioners"
+ },
+ "executive": {
+  "ph": "/ig'zekjutiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "執行部門, 執行委員會, 執行者, 經理主管人員",
+    "def": "a person responsible for the administration of a business"
+   },
+   {
+    "pos": "adj.",
+    "zh": "執行的, 善於執行的, 善於經營的",
+    "def": "having the function of carrying out plans or orders etc."
+   },
+   {
+    "pos": "",
+    "zh": "[計] 執行程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 executives"
+ },
+ "executor": {
+  "ph": "/ig'zekjutә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "執行者",
+    "def": "a person appointed by a testator to carry out the terms of the will"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 指定遺囑執行人, 執行者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 executors"
+ },
+ "exegesis": {
+  "ph": "/.eksi'dʒi:sis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "註釋, 解釋",
+    "def": "an explanation or critical interpretation (especially of the Bible)"
+   }
+  ]
+ },
+ "exegete": {
+  "ph": "/'eksidʒi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "註釋學者, 評註家",
+    "def": "a person skilled in exegesis (especially of religious texts)"
+   }
+  ],
+  "forms": "複數 exegetes｜第三人稱單數 exegetes"
+ },
+ "exegetical": {
+  "ph": "/,eksi'dʒetikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "註釋的, 評註的",
+    "def": ""
+   }
+  ]
+ },
+ "exemplar": {
+  "ph": "/ig'zemplә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "模範, 榜樣, 原型, 標本",
+    "def": "something to be imitated"
+   }
+  ],
+  "forms": "複數 exemplars"
+ },
+ "exemplarity": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "exemplary的變形",
+    "def": "Exemplariness."
+   }
+  ]
+ },
+ "exemplary": {
+  "ph": "/ig'zemplәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可仿效的, 可做模範的, 懲戒性的, 示範的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 懲罰性的, 警戒性的, 示範的",
+    "def": ""
+   }
+  ]
+ },
+ "exemplification": {
+  "ph": "/i^,zemplifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "例證, 範例",
+    "def": "showing by example"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 經蓋公章核對的謄本, 例證, 範例",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exemplifications"
+ },
+ "exemplify": {
+  "ph": "/ig'zemplifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "例證, 例示",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 製作經公章證明的謄本, 例證",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exemplified｜第三人稱單數 exemplifies｜現在分詞 exemplifying｜過去式 exemplified"
+ },
+ "exemplum": {
+  "ph": "/ig'zemplәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "例證, 例示, 說教性故事",
+    "def": ""
+   }
+  ]
+ },
+ "exempt": {
+  "ph": "/ig'zempt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "免稅者, 被免除義務者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "免除的",
+    "def": "(of persons) freed from or not subject to an obligation or liability (as e.g. taxes) to which others or other things are subject"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使免除, 豁免",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exempted｜現在分詞 exempting｜第三人稱單數 exempts｜過去式 exempted"
+ },
+ "exemption": {
+  "ph": "/ig'zempʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "解除, 免除, 免稅",
+    "def": "immunity from an obligation or duty"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 免檢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exemptions"
+ },
+ "exercisable": {
+  "ph": "/'eksәsaizәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可實行的, 可運用的, 可操作的",
+    "def": "That may be exercised, used, or exerted."
+   }
+  ]
+ },
+ "exercise": {
+  "ph": "/'eksәsaiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行使, 執行, 運動, 練習, 作業",
+    "def": "the activity of exerting your muscles in various ways to keep fit"
+   },
+   {
+    "pos": "vt.",
+    "zh": "運用, 練習, 運動",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "練習, 鍛鍊",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exercised｜複數 exercises｜現在分詞 exercising｜第三人稱單數 exercises｜過去式 exercised"
+ },
+ "exerciser": {
+  "ph": "/'eksәsaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行使職權者, 鍛鍊者, 肌肉鍛練器具",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 試驗器; 操作器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exercisers"
+ },
+ "exercising": {
+  "ph": "/'eksəsaɪzɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "鍛鍊, 訓練, 練習( exercise的現在分詞 ); 鍛鍊（身體某部位）; 使焦慮; 發揮（作用）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 exercising"
+ },
+ "exert": {
+  "ph": "/ig'zә:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "發揮, 運用, 施以影響",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 施加, 產生, 行使",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exerted｜第三人稱單數 exerts｜過去式 exerted｜現在分詞 exerting"
+ },
+ "exertion": {
+  "ph": "/ig'zә:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "努力, 發揮, 運用",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 勞力, 用力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exertions"
+ },
+ "exeter": {
+  "ph": "/'eksәtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃克塞特（英國英格蘭西南部城市）",
+    "def": ""
+   }
+  ]
+ },
+ "exfoliant": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剝離素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exfoliants"
+ },
+ "exfoliate": {
+  "ph": "/eks'fәulieit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "剝落, 剝脫",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使片狀脫落",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 exfoliated｜現在分詞 exfoliating｜第三人稱單數 exfoliates｜過去分詞 exfoliated"
+ },
+ "exfoliating": {
+  "ph": "/eksˈfəulieitɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "片狀剝落( exfoliate的現在分詞 ); 鱗片樣脫落; 使片狀脫落; 使鱗片脫落",
+    "def": ""
+   }
+  ]
+ },
+ "exfoliation": {
+  "ph": "/eks,fәjli'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剝落, 剝落物",
+    "def": "the peeling off in flakes or scales of bark or dead skin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 表皮脫落, 鱗片樣脫皮, 表皮剝脫",
+    "def": ""
+   }
+  ]
+ },
+ "exfoliator": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "去角質",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exfoliators"
+ },
+ "exhalation": {
+  "ph": "/.ekshә'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呼氣, 蒸發, 散發物",
+    "def": "the act of expelling air from the lungs"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 撥出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exhalations"
+ },
+ "exhale": {
+  "ph": "/eks'heil/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "呼氣, 發出, 散發",
+    "def": "expel air"
+   }
+  ],
+  "forms": "過去式 exhaled｜現在分詞 exhaling｜第三人稱單數 exhales｜過去分詞 exhaled｜複數 exhales"
+ },
+ "exhaled": {
+  "ph": "/eksˈheɪld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "撥出, 發散出( exhale的過去式和過去分詞 ); 吐出（肺中的空氣、煙等）, 呼氣",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 exhaled"
+ },
+ "exhaust": {
+  "ph": "/ig'zɒ:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "排氣, 排氣裝置, 廢氣",
+    "def": "gases ejected from an engine as waste products"
+   },
+   {
+    "pos": "vt.",
+    "zh": "抽完, 用盡, 耗盡, 使精疲力盡",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "排氣",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exhausted｜現在分詞 exhausting｜複數 exhausts｜過去式 exhausted｜第三人稱單數 exhausts"
+ },
+ "exhausted": {
+  "ph": "/iɡ'zɔ:stid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "耗盡的；疲憊的",
+    "def": "depleted of energy, force, or strength"
+   }
+  ],
+  "forms": "過去分詞 exhausted｜過去式 exhausted"
+ },
+ "exhaustible": {
+  "ph": "/ig'zɒ:stibl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可用完的, 會枯竭的",
+    "def": "capable of being used up"
+   }
+  ]
+ },
+ "exhausting": {
+  "ph": "/i^'zɔ:stiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使耗盡的, 使人筋疲力盡的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 經驗, 技巧, 窮舉, 耗盡, 排氣",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 exhausting"
+ },
+ "exhaustion": {
+  "ph": "/ig'zɒ:stʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抽空, 耗盡, 疲憊, 筋疲力盡",
+    "def": "extreme fatigue"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 抽空",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exhaustions"
+ },
+ "exhaustive": {
+  "ph": "/ig'zɒ:stiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "消耗的, 枯竭的, 徹底的, 詳盡的",
+    "def": ""
+   }
+  ]
+ },
+ "exhaustively": {
+  "ph": "/ɪɡ'zɔ:stɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "用盡一切地",
+    "def": ""
+   }
+  ]
+ },
+ "exhibit": {
+  "ph": "/ig'zibit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顯示, 顯現, 展覽品, 陳列品, 展覽",
+    "def": "an object or statement produced before a court of law and referred to while giving evidence"
+   },
+   {
+    "pos": "vt.",
+    "zh": "展現, 陳列, 展覽",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "開展覽會",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exhibited｜複數 exhibits｜現在分詞 exhibiting｜過去式 exhibited｜第三人稱單數 exhibits"
+ },
+ "exhibited": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "展出的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 exhibited"
+ },
+ "exhibiting": {
+  "ph": "/iɡˈzibitɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "陳列, 展覽( exhibit的現在分詞 ); 表現; 顯示; [法律]當庭出示（證件、物證等）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 exhibiting"
+ },
+ "exhibition": {
+  "ph": "/.eksi'biʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表現, 展覽會, 展覽品",
+    "def": "the act of exhibiting"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 投藥, 展覽, 展出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exhibitions"
+ },
+ "exhibitionism": {
+  "ph": "/.eksi'biʃәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自我宣傳癖, 裸露癖, 喜出風頭癖",
+    "def": "extravagant and conspicuous behavior intended to attract attention to yourself"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 露出欲, 露出狂",
+    "def": ""
+   }
+  ]
+ },
+ "exhibitionist": {
+  "ph": "/.eksi'biʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾向自我宣傳的人, 裸露症患者",
+    "def": "someone with a compulsive desire to expose the genitals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 露出欲者, 露出狂者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exhibitionists"
+ },
+ "exhibitionistic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "裸露(或露陰)癖的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "風頭主義",
+    "def": ""
+   }
+  ]
+ },
+ "exhibitor": {
+  "ph": "/i^'zibitә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(展覽會的)參加者, 電影院經理, 電影院老闆, 電影放映者, 展出者",
+    "def": "someone who organizes an exhibit for others to see"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 出示證物人, 展覽者, 提供者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exhibitors"
+ },
+ "exhilarate": {
+  "ph": "/ig'zilәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使高興, 使愉快, 鼓勵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exhilarates｜現在分詞 exhilarating｜過去式 exhilarated｜第三人稱單數 exhilarates｜過去分詞 exhilarated"
+ },
+ "exhilarated": {
+  "ph": "/ɪgˈzɪləˌreɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使高興, 使興奮( exhilarate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "exhilarating": {
+  "ph": "/ig'zilәreitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人喜歡的, 使人愉快的, 爽快的",
+    "def": ""
+   }
+  ]
+ },
+ "exhilaration": {
+  "ph": "/ig.zilә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "令人高興, 愉快",
+    "def": "the feeling of lively and cheerful joy"
+   }
+  ]
+ },
+ "exhort": {
+  "ph": "/ig'zɒ:t/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "勸誡, 忠告",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 exhorted｜現在分詞 exhorting｜過去分詞 exhorted｜第三人稱單數 exhorts｜複數 exhorts"
+ },
+ "exhortation": {
+  "ph": "/.egzɒ:'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勸告, 訓詞, 講道詞",
+    "def": "a communication intended to urge or persuade the recipients to take some action"
+   }
+  ],
+  "forms": "複數 exhortations"
+ },
+ "exhumation": {
+  "ph": "/.ekshju:'meiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發掘, 掘屍",
+    "def": "the act of digging something out of the ground (especially a corpse) where it has been buried"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 屍體發掘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exhumations"
+ },
+ "exhume": {
+  "ph": "/ig'zju:m/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "掘出, 發掘",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exhumed｜現在分詞 exhuming｜過去式 exhumed｜第三人稱單數 exhumes"
+ },
+ "exhumed": {
+  "ph": "/ɪgˈzu:md/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "挖出, 發掘出( exhume的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exhumed"
+ },
+ "exigence": {
+  "ph": "/'eksidʒәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊急, 急迫, 緊急事件",
+    "def": "Exigency."
+   }
+  ],
+  "forms": "複數 exigences"
+ },
+ "exigency": {
+  "ph": "/'eksidʒәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊急, 急迫, 緊急事件",
+    "def": "a pressing or urgent situation"
+   }
+  ],
+  "forms": "複數 exigencies"
+ },
+ "exigent": {
+  "ph": "/'eksidʒәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "緊急的, 迫切的, 苛求的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 催告書, 勒令, 限令",
+    "def": ""
+   }
+  ]
+ },
+ "exiguous": {
+  "ph": "/eg'zigjuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "稀少的, 細微的, 細小的",
+    "def": ""
+   }
+  ]
+ },
+ "exile": {
+  "ph": "/'eksail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放逐, 流放, 被放逐者",
+    "def": "a person who is voluntarily absent from home or country"
+   },
+   {
+    "pos": "vt.",
+    "zh": "放逐, 流放, 使背井離鄉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exiles｜過去分詞 exiled｜現在分詞 exiling｜過去式 exiled｜第三人稱單數 exiles"
+ },
+ "exiled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "放逐的；流亡的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exiled"
+ },
+ "exist": {
+  "ph": "/ig'zist/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "存在, 生存, 發生",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 exists｜過去式 existed｜過去分詞 existed｜現在分詞 existing"
+ },
+ "existence": {
+  "ph": "/ig'zistәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "存在, 生存",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 存在, 存在狀態, 實體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 existences"
+ },
+ "existent": {
+  "ph": "/ig'zistәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "存在的, 生存的, 現存的",
+    "def": "having existence or being or actuality"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生存者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 existents"
+ },
+ "existential": {
+  "ph": "/.egzis'tenʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有關存在的",
+    "def": "of or as conceived by existentialism"
+   }
+  ]
+ },
+ "existentialism": {
+  "ph": "/e^zi'stenʃәliz(ә)m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "存在主義",
+    "def": "(philosophy) a 20th-century philosophical movement chiefly in Europe; assumes that people are entirely free and thus responsible for what they make of themselve"
+   }
+  ]
+ },
+ "existentialist": {
+  "ph": "/,e^zis'tenʃәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "存在主義者",
+    "def": "a philosopher who emphasizes freedom of choice and personal responsibility but who regards human existence in a hostile universe as unexplainable"
+   }
+  ],
+  "forms": "複數 existentialists"
+ },
+ "existing": {
+  "ph": "/i^'zistiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "存在的, 目前的, 現存的, 現有的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 現成的, 已有的, 現存的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 existing"
+ },
+ "exit": {
+  "ph": "/'eksit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出口, 退場, 離去, 去世",
+    "def": "an opening that permits escape or release"
+   },
+   {
+    "pos": "vi.",
+    "zh": "退出, 脫離, 去世",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 退出; DOS內部命令:本命令用於退出當前的命令處理器(COMMAND.COM)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "恢復前一個命令處理器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exits｜現在分詞 exiting｜過去式 exited｜過去分詞 exited｜第三人稱單數 exits"
+ },
+ "exit visa": {
+  "ph": "/ˈeksit ˈvi:zə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（外交）出境簽證",
+    "def": ""
+   }
+  ]
+ },
+ "exiting": {
+  "ph": "/ˈeksitɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "離開, 退場( exit的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "exmoor": {
+  "ph": "/'eksmuə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃克斯穆爾高地",
+    "def": "horned sheep of Devon; valued for mutton"
+   }
+  ]
+ },
+ "exmouth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Exmouth)人名；(英)埃克斯茅斯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "埃克斯茅斯",
+    "def": ""
+   }
+  ]
+ },
+ "exocet": {
+  "ph": "/'eksə,set/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛魚導彈（反艦飛彈的一種）",
+    "def": "a guided missile developed by the French government for use against ships"
+   }
+  ],
+  "forms": "複數 exocets｜第三人稱單數 exocets"
+ },
+ "exocrine": {
+  "ph": "/'eksәkrain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外分泌的",
+    "def": "of or relating to exocrine glands or their secretions"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外分泌的, 外分泌物",
+    "def": ""
+   }
+  ]
+ },
+ "exodus": {
+  "ph": "/'eksәdәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大批的離去",
+    "def": "a journey by a large group to escape from a hostile environment"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 退出, 大批離去, 成一外出",
+    "def": ""
+   }
+  ]
+ },
+ "exogamous": {
+  "ph": "/-mәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "異族結婚的",
+    "def": "characterized by or fit for fertilization by a flower that is not closely related"
+   }
+  ]
+ },
+ "exogamy": {
+  "ph": "/ek'sɒgәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "異族結婚",
+    "def": "marriage to a person belonging to a tribe or group other than your own as required by custom or law"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 異族結婚, 異配生, 異系交配",
+    "def": ""
+   }
+  ]
+ },
+ "exogenous": {
+  "ph": "/ek'sɒdʒinәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外生的",
+    "def": "derived or originating externally"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外原的, 外生的",
+    "def": ""
+   }
+  ]
+ },
+ "exogenously": {
+  "ph": "/ek'sɔdʒənəs/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "exogenous（外源的, 外生的）的變形",
+    "def": ""
+   }
+  ]
+ },
+ "exon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 外顯子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exons"
+ },
+ "exonerate": {
+  "ph": "/ig'zɒnәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "免除, 證明無罪",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 解放, 開釋, 免罪",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exonerated｜過去式 exonerated｜第三人稱單數 exonerates｜現在分詞 exonerating"
+ },
+ "exonerated": {
+  "ph": "/ɪgˈzɔnəˌreɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使免罪, 免除( exonerate的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exonerated｜過去式 exonerated"
+ },
+ "exoneration": {
+  "ph": "/ig.zɒnә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "免罪, 免除",
+    "def": "the condition of being relieved from blame or obligation"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 免除, 解除, 免於",
+    "def": ""
+   }
+  ]
+ },
+ "exoplanet": {
+  "ph": "/ek'sɒpleɪnɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外星球",
+    "def": ""
+   }
+  ]
+ },
+ "exorbitant": {
+  "ph": "/ig'zɒ:bitәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過度的, 過高的, 過分的",
+    "def": ""
+   }
+  ]
+ },
+ "exorbitantly": {
+  "ph": "/ig'zɔ:bitəntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "過高地；過度地",
+    "def": ""
+   }
+  ]
+ },
+ "exorcise": {
+  "ph": "/'eksɒ:saiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "驅邪, 除怪",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exorcised｜過去式 exorcised｜現在分詞 exorcising｜第三人稱單數 exorcises"
+ },
+ "exorcism": {
+  "ph": "/'eksɔ:sizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驅魔, 驅邪所用的咒語",
+    "def": "freeing from evil spirits"
+   }
+  ],
+  "forms": "複數 exorcisms"
+ },
+ "exorcist": {
+  "ph": "/'eksɔ:sist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驅魔的人, 召魂者",
+    "def": "one of the minor orders in the unreformed Western Church but now suppressed in the Roman Catholic Church"
+   }
+  ],
+  "forms": "複數 exorcists"
+ },
+ "exorcize": {
+  "ph": "/'eksɔ:saiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "拔除, 除怪, 驅邪, 從...驅除妖魔, (用咒語)驅除(妖魔)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exorcized｜過去式 exorcized｜現在分詞 exorcizing｜第三人稱單數 exorcizes"
+ },
+ "exoskeletal": {
+  "ph": "/,eksəu'skelitəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "exoskeleton的變形",
+    "def": "Pertaining to the exoskeleton; as exoskeletal muscles."
+   }
+  ]
+ },
+ "exoskeleton": {
+  "ph": "/,eksәu'skelitәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外骨胳, 外甲",
+    "def": "the exterior protective or supporting structure or shell of many animals (especially invertebrates) including bony or horny parts such as nails or scales or hoo"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外骨骼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exoskeletons"
+ },
+ "exoteric": {
+  "ph": "/.eksәu'terik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外界的, 一般人所能理解的, 開放的, 公開的",
+    "def": "suitable for the general public"
+   },
+   {
+    "pos": "n.",
+    "zh": "公開的教義",
+    "def": ""
+   }
+  ]
+ },
+ "exotic": {
+  "ph": "/ig'zɒtik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "異國的, 外來的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "外來人, 外來物, 舶來品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exotics"
+ },
+ "exotica": {
+  "ph": "/eɡ'zɔtikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新奇事物, 異族事物",
+    "def": ""
+   }
+  ]
+ },
+ "exotically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "外來地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "奇異地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "異乎尋常地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "極不穩定地",
+    "def": ""
+   }
+  ]
+ },
+ "exoticism": {
+  "ph": "/ig'zɒtisizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "異國風味, 異族事物, 洋派",
+    "def": "the quality of being exotic"
+   }
+  ]
+ },
+ "exp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "經驗值；指數函式",
+    "def": ""
+   }
+  ]
+ },
+ "expand": {
+  "ph": "/ik'spænd/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使膨脹, 詳述, 擴張",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "張開, 發展",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "展開",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "展開",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 展開; DOS外部命令:將原始DOS磁碟上的壓縮檔案解壓縮並複製到硬碟上",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expanded｜現在分詞 expanding｜第三人稱單數 expands｜過去式 expanded"
+ },
+ "expandable": {
+  "ph": "/ik'spændәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可張開的；可膨脹的",
+    "def": ""
+   }
+  ]
+ },
+ "expanded": {
+  "ph": "/ik'spendid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "擴充的；展開的",
+    "def": "increased in extent or size or bulk or scope"
+   }
+  ],
+  "forms": "過去分詞 expanded｜過去式 expanded"
+ },
+ "expander": {
+  "ph": "/ik'spændә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擴充套件器, 擴管器",
+    "def": "Anything which causes expansion esp. (Mech.) a tool for"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 擴充套件器; 擴大器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expanders"
+ },
+ "expanding": {
+  "ph": "/iks'pændiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 擴張工作",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 expanding"
+ },
+ "expanse": {
+  "ph": "/ik'spæns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寬闊區域, 寬闊, 天空",
+    "def": "a wide and open space or area as of surface or land or sky"
+   }
+  ],
+  "forms": "複數 expanses"
+ },
+ "expansion": {
+  "ph": "/ik'spænʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擴充, 開展, 膨脹",
+    "def": "the act of increasing (something) in size or volume or quantity or scope"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 擴充套件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expansions"
+ },
+ "expansionary": {
+  "ph": "/ik'spænʃәnәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "擴張性的, 發展性的, 展開性的",
+    "def": ""
+   }
+  ]
+ },
+ "expansionism": {
+  "ph": "/ik'spænʃәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膨脹主義, 領土擴張政策",
+    "def": "the doctrine of expanding the territory or the economic influence of a country"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 擴張主義, 膨脹主義者",
+    "def": ""
+   }
+  ]
+ },
+ "expansionist": {
+  "ph": "/ik'spænʃәnist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(關於)擴張主義的, 贊同擴張主義的",
+    "def": "of or involving or guided by expansionism"
+   },
+   {
+    "pos": "n.",
+    "zh": "擴張主義者, 領土擴張論者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expansionists"
+ },
+ "expansive": {
+  "ph": "/ik'spænsiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "擴張性的, 使擴大的, 廣闊的",
+    "def": "able or tending to expand or characterized by expansion"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 膨脹的; 可以膨脹的",
+    "def": ""
+   }
+  ]
+ },
+ "expansively": {
+  "ph": "/ɪk'spænsɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可擴張地, 遼闊地",
+    "def": ""
+   }
+  ]
+ },
+ "expansiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 誇張性",
+    "def": ""
+   }
+  ]
+ },
+ "expat": {
+  "ph": "/ˈeksˈpeɪt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "逐出國外; 脫離國籍; 放逐; 移居國外",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "亡命國外者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expats"
+ },
+ "expatiate": {
+  "ph": "/ek'speiʃieit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "詳述, 細說, 漫遊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 expatiated｜過去分詞 expatiated｜現在分詞 expatiating｜第三人稱單數 expatiates"
+ },
+ "expatriate": {
+  "ph": "/eks'peitrieit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "移居國外者, 僑民, 被流放者, 背井離鄉者",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "逐出國外, 脫離國籍, 放逐",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "移居國外",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expatriates｜過去式 expatriated｜現在分詞 expatriating｜第三人稱單數 expatriates｜過去分詞 expatriated"
+ },
+ "expatriation": {
+  "ph": "/eks.peitri'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放逐國外, 放棄國籍",
+    "def": ""
+   }
+  ]
+ },
+ "expect": {
+  "ph": "/iks'pekt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "預期, 盼望, 期待",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expected｜現在分詞 expecting｜過去式 expected｜第三人稱單數 expects"
+ },
+ "expectable": {
+  "ph": "/ɪks'pektəbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能預期的, 意料中的",
+    "def": ""
+   }
+  ]
+ },
+ "expectancy": {
+  "ph": "/ik'spektәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "期待, 期望的事物, 囑望, 希望, 期望, 預期",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 預期",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expectancies"
+ },
+ "expectant": {
+  "ph": "/iks'pektәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "預期者, 期待者, 候選人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "預期的, 期待的",
+    "def": ""
+   }
+  ]
+ },
+ "expectantly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "期待, 期待著, 期望, 預期",
+    "def": ""
+   }
+  ]
+ },
+ "expectation": {
+  "ph": "/.ekspek'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "期待, 指望, 展望",
+    "def": "belief about (or mental picture of) the future"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 期望值",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expectations"
+ },
+ "expected": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "預期的；預料的",
+    "def": "considered likely or probable to happen or arrive"
+   }
+  ],
+  "forms": "過去分詞 expected｜過去式 expected"
+ },
+ "expectedly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "預期地",
+    "def": "In conformity with expectation."
+   }
+  ]
+ },
+ "expectorant": {
+  "ph": "/eks'pektәrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "化痰的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "除痰劑",
+    "def": "a medicine promoting expectoration"
+   }
+  ],
+  "forms": "複數 expectorants"
+ },
+ "expectorate": {
+  "ph": "/eks'pektәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "咳出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "吐痰",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 expectorating｜過去分詞 expectorated｜過去式 expectorated｜第三人稱單數 expectorates"
+ },
+ "expedience": {
+  "ph": "/ik'spi:djәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "權宜, 方便, 私利",
+    "def": "the quality of being suited to the end in view"
+   }
+  ]
+ },
+ "expediency": {
+  "ph": "/ik'spi:djәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "權宜, 方便, 私利",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expediencies"
+ },
+ "expedient": {
+  "ph": "/ik'spi:diәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "權宜之計",
+    "def": "a means to an end; not necessarily a principled or ethical one"
+   },
+   {
+    "pos": "adj.",
+    "zh": "權宜的, 方便的, 有用的",
+    "def": "serving to promote your interest"
+   }
+  ],
+  "forms": "複數 expedients"
+ },
+ "expediently": {
+  "ph": "/ik'spi:diәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "方便地, 便利地, 得當地",
+    "def": ""
+   }
+  ]
+ },
+ "expedit": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃克佩迪（品牌名稱）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 expediting｜過去分詞 expedited｜過去式 expedited"
+ },
+ "expedite": {
+  "ph": "/'ekspidait/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "加快, 促進, 發出",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "暢通的, 無阻礙的, 迅速的, 方便的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 expediting｜過去式 expedited｜第三人稱單數 expedites｜過去分詞 expedited"
+ },
+ "expedited": {
+  "ph": "/ˈekspɪˌdaɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "加快進展( expedite的過去式和過去分詞 ); 迅速完成",
+    "def": ""
+   }
+  ]
+ },
+ "expediter": {
+  "ph": "/'ekspidaitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釋出公報官員；稽查員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expediters"
+ },
+ "expedition": {
+  "ph": "/.ekspi'diʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遠征, 探險隊, 迅速",
+    "def": "a military campaign designed to achieve a specific objective in a foreign country"
+   }
+  ],
+  "forms": "複數 expeditions"
+ },
+ "expeditionary": {
+  "ph": "/.ekspi'diʃәnәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遠征的, 考察的, 探險的",
+    "def": ""
+   }
+  ]
+ },
+ "expeditious": {
+  "ph": "/.ekspi'diʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "迅速的, 敏捷的",
+    "def": ""
+   }
+  ]
+ },
+ "expeditiously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "迅速(完成), 高效, 效率高, 敏捷, 急速(進行)",
+    "def": ""
+   }
+  ]
+ },
+ "expel": {
+  "ph": "/ik'spel/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "驅逐, 逐出, 排出, 開除",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 排除, 迫出",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expelled｜過去式 expelled｜現在分詞 expelling｜第三人稱單數 expels"
+ },
+ "expelled": {
+  "ph": "/iksˈpeld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "驅逐( expel的過去式和過去分詞 ); 趕走; 把…除名; 排出",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 expelled｜過去分詞 expelled"
+ },
+ "expend": {
+  "ph": "/ik'spend/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "花費, 消耗, 用光",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expended｜過去式 expended｜現在分詞 expending｜第三人稱單數 expends"
+ },
+ "expendable": {
+  "ph": "/iks'pendәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可消費的, 消耗性的, 可犧牲的, 值得消耗的, 可消耗的",
+    "def": "suitable to be expended"
+   },
+   {
+    "pos": "n.",
+    "zh": "消耗物, 可犧牲的人, 可犧牲的物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expendables"
+ },
+ "expended": {
+  "ph": "/iksˈpendid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "花費( expend的過去式和過去分詞 ); 使用（錢等）做某事; 用光; 耗盡",
+    "def": ""
+   }
+  ]
+ },
+ "expenditure": {
+  "ph": "/ik'spenditʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開支, 費用, 用光, 消費額",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 支出, 費用, 消費",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expenditures"
+ },
+ "expense": {
+  "ph": "/ik'spens/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "費用, 代價, 開支, 損失",
+    "def": "amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 費用, 開支, 將支出轉為費用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expenses"
+ },
+ "expenses": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開支, 經費, 費用",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 開支, 支出, 經費",
+    "def": ""
+   }
+  ]
+ },
+ "expensive": {
+  "ph": "/ik'spensiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貴的, 奢華的, 費用浩大的, 亂化錢的",
+    "def": "high in price or charging high prices"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 高價的, 昂貴的, 浪費的",
+    "def": ""
+   }
+  ]
+ },
+ "expensively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "昂貴地；亂花錢地",
+    "def": ""
+   }
+  ]
+ },
+ "experience": {
+  "ph": "/ik'spiәriәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經歷, 經驗, 體驗",
+    "def": "the accumulation of knowledge or skill that results from direct participation in events or activities"
+   },
+   {
+    "pos": "vt.",
+    "zh": "經歷, 經驗, 體驗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 experiences｜過去分詞 experienced｜現在分詞 experiencing｜過去式 experienced｜第三人稱單數 experiences"
+ },
+ "experienced": {
+  "ph": "/ik'spiәriәnst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "富有經驗的, 老練的, 熟練的",
+    "def": "having experience; having knowledge or skill from observation or participation"
+   }
+  ],
+  "forms": "過去分詞 experienced｜過去式 experienced"
+ },
+ "experiencer": {
+  "ph": "/ik'spiəriənsə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經驗者；感受者",
+    "def": "One who experiences."
+   }
+  ]
+ },
+ "experiential": {
+  "ph": "/ik.spiәri'enʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "經驗的, 根據經驗的, 經驗上的",
+    "def": "relating to or resulting from experience"
+   }
+  ]
+ },
+ "experiment": {
+  "ph": "/ik'sperimәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實驗, 試驗, 實驗儀器",
+    "def": "the act of conducting a controlled test or investigation"
+   },
+   {
+    "pos": "vi.",
+    "zh": "實驗, 嘗試",
+    "def": ""
+   }
+  ],
+  "forms": "複數 experiments｜現在分詞 experimenting｜過去分詞 experimented｜過去式 experimented｜第三人稱單數 experiments"
+ },
+ "experimental": {
+  "ph": "/ik.speri'mentәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "實驗的, 根據實驗的",
+    "def": "relating to or based on experiment"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 實驗的",
+    "def": ""
+   }
+  ]
+ },
+ "experimentalism": {
+  "ph": "/ik,speri'mentәlizәm,ek,s-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實驗主義, 經驗主義, 實驗論",
+    "def": "an empirical doctrine that advocates experimental principles"
+   }
+  ]
+ },
+ "experimentalist": {
+  "ph": "/ik,speri'mentәlist,ek,s-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實驗主義者, 試驗者, 實驗者, 經驗主義者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 experimentalists"
+ },
+ "experimentally": {
+  "ph": "/ik.speri'mentli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "實驗式地, 在實驗上",
+    "def": ""
+   }
+  ]
+ },
+ "experimentation": {
+  "ph": "/eks,perimen'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實驗, 試驗, 實驗法",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 實驗; 實驗過程",
+    "def": ""
+   }
+  ],
+  "forms": "複數 experimentations"
+ },
+ "experimenter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實驗者, 試驗者",
+    "def": "a research worker who conducts experiments"
+   }
+  ],
+  "forms": "複數 experimenters"
+ },
+ "experiments": {
+  "ph": "/iksˈperimənts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實驗( experiment的名詞複數 ); 試驗; 嘗試; 實踐",
+    "def": ""
+   }
+  ]
+ },
+ "expert": {
+  "ph": "/'ekspә:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "專家, 行家",
+    "def": "a person with special knowledge or ability who performs skillfully"
+   },
+   {
+    "pos": "adj.",
+    "zh": "老練的, 內行的, 專門的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 高階",
+    "def": ""
+   }
+  ],
+  "forms": "複數 experts"
+ },
+ "expertise": {
+  "ph": "/.ekspә:'ti:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "專家意見, 專門技術",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 專門知識, 專家意見",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expertises"
+ },
+ "expertly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "熟練地；巧妙地",
+    "def": ""
+   }
+  ]
+ },
+ "expiate": {
+  "ph": "/'ekspieit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "補償, 贖",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "抵償, 贖罪",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 expiated｜過去分詞 expiated｜現在分詞 expiating｜第三人稱單數 expiates"
+ },
+ "expiation": {
+  "ph": "/.ekspi'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "贖罪, 補償",
+    "def": "the act of atoning for sin or wrongdoing (especially appeasing a deity)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 償罪, 贖罪",
+    "def": ""
+   }
+  ]
+ },
+ "expiration": {
+  "ph": "/.ekspi'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "終止, 滿期, 撥出, 呼氣",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 呼[氣], 斷氣, 死亡",
+    "def": ""
+   }
+  ]
+ },
+ "expiratory": {
+  "ph": "/ik'spaiәrәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吐氣的, 呼氣的",
+    "def": "of or relating to the breathing out phase of respiration"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 呼[氣]的",
+    "def": ""
+   }
+  ]
+ },
+ "expire": {
+  "ph": "/ik'spaiә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "期滿, 呼氣, 斷氣",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "撥出",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 expired｜第三人稱單數 expires｜過去分詞 expired｜現在分詞 expiring"
+ },
+ "expired": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "失效的；過期的",
+    "def": "having come to an end or become void after passage of a period of time"
+   }
+  ],
+  "forms": "過去分詞 expired｜過去式 expired"
+ },
+ "expiring": {
+  "ph": "/iksˈpaiərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "期滿( expire的現在分詞 ); 檔案、協議等（因到期而）失效; 斷氣; 逝世",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 expiring"
+ },
+ "expiry": {
+  "ph": "/ik'spairi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "終結, 滿期, 呼氣, 斷氣",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 滿期, 到期",
+    "def": ""
+   }
+  ]
+ },
+ "explain": {
+  "ph": "/ik'splein/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "解釋, 說明",
+    "def": "make plain and comprehensible"
+   }
+  ],
+  "forms": "過去式 explained｜過去分詞 explained｜第三人稱單數 explains｜現在分詞 explaining"
+ },
+ "explainable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可說明的, 可辯解的, 可解釋的",
+    "def": ""
+   }
+  ]
+ },
+ "explained": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "解釋（explain的過去式及過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 explained｜過去式 explained"
+ },
+ "explainer": {
+  "ph": "/'eksplә.neitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "講解員；說錳序",
+    "def": "One who explains; an expounder or expositor; a"
+   }
+  ]
+ },
+ "explaining": {
+  "ph": "/iksˈpleinɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "講解, 解釋( explain的現在分詞 ); 說明…的原因, 辯解; 說明, 解釋, 辯解",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 explaining"
+ },
+ "explanation": {
+  "ph": "/.eksplә'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "解釋, 說明, 辯解, 表明",
+    "def": "a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc."
+   },
+   {
+    "pos": "",
+    "zh": "[經] 解釋, 註釋, 說明",
+    "def": ""
+   }
+  ],
+  "forms": "複數 explanations"
+ },
+ "explanatory": {
+  "ph": "/ik'splænәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "說明的, 解釋的, 辯明的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 解釋的, 說明的",
+    "def": ""
+   }
+  ]
+ },
+ "explant": {
+  "ph": "/eks'plænt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "移植",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(組織培養)分離塊, 外植體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 explants｜過去分詞 explanted｜過去式 explanted｜現在分詞 explanting"
+ },
+ "expletive": {
+  "ph": "/eks'pli:tiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "填補的, 多餘的, 附加的, 補足的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "語助詞, 虛詞, 感嘆詞, 詛咒語, 咒罵語, 驚歎語, 填補物, 附加物",
+    "def": "a word or phrase conveying no independent meaning but added to fill out a sentence or metrical line"
+   }
+  ],
+  "forms": "複數 expletives"
+ },
+ "explicable": {
+  "ph": "/'eksplikәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可說明的, 可解釋的",
+    "def": "capable of being explicated or accounted for"
+   }
+  ]
+ },
+ "explicate": {
+  "ph": "/'eksplikeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "詳細說明, 解釋, 說明, 引伸",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 explicated｜現在分詞 explicating｜第三人稱單數 explicates｜過去式 explicated｜複數 explicates"
+ },
+ "explication": {
+  "ph": "/.ekspli'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "解說, 說明, 解釋",
+    "def": "the act of making clear or removing obscurity from the meaning of a word or symbol or expression etc."
+   }
+  ],
+  "forms": "複數 explications"
+ },
+ "explicit": {
+  "ph": "/ik'splisit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "詳述的, 清楚的, 直言的",
+    "def": "precisely and clearly expressed or readily observable; leaving nothing to implication"
+   }
+  ]
+ },
+ "explicitly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "明確地；明白地",
+    "def": ""
+   }
+  ]
+ },
+ "explicitness": {
+  "ph": "/iks'plisitnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "直言不諱；明確性",
+    "def": "clarity as a consequence of being explicit"
+   }
+  ]
+ },
+ "explode": {
+  "ph": "/ik'splәud/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "爆炸, 爆發, 激增",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使爆炸",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 exploded｜現在分詞 exploding｜過去分詞 exploded｜第三人稱單數 explodes"
+ },
+ "exploded": {
+  "ph": "/iks'plәudid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "爆炸了的, 分解的, 被破除的, 被戳穿的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 exploded｜過去分詞 exploded"
+ },
+ "exploding": {
+  "ph": "/iksˈpləudɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）爆炸( explode的現在分詞 ); 突然（發出巨響, 活躍起來, 迸發感情）; 推翻; 駁倒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 exploding｜複數 explodings"
+ },
+ "exploit": {
+  "ph": "/'eksplɒit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "功績, 勳績",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "開發, 利用, 開拓, 剝削",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exploited｜現在分詞 exploiting｜複數 exploits｜過去式 exploited｜第三人稱單數 exploits"
+ },
+ "exploitable": {
+  "ph": "/iks'plɔitәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可開發的, 可剝削的, 可利用的",
+    "def": ""
+   }
+  ]
+ },
+ "exploitation": {
+  "ph": "/.eksplɒi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開發, 開採, 剝削",
+    "def": "the act of making some area of land or water more profitable or productive or useful"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 開發, 剝削, 宜傳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exploitations"
+ },
+ "exploitative": {
+  "ph": "/iks'plɔitәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "開發的, 剝削的, (糟蹋地)利用的",
+    "def": ""
+   }
+  ]
+ },
+ "exploited": {
+  "ph": "/iksˈplɔitid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "開採( exploit的過去式和過去分詞 ); 利用（…為自己謀利）; 運用; 剝削",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exploited｜過去式 exploited"
+ },
+ "exploiter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剝削者",
+    "def": "a person who uses something or someone selfishly or unethically"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 剝削者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exploiters"
+ },
+ "exploitive": {
+  "ph": "/iks'plɔitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "開發資源的, 剝削的",
+    "def": ""
+   }
+  ]
+ },
+ "exploration": {
+  "ph": "/.eksplә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "探險, 踏勘, 探測",
+    "def": "to travel for the purpose of discovery"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 探察",
+    "def": ""
+   }
+  ],
+  "forms": "複數 explorations"
+ },
+ "explorative": {
+  "ph": "/eks'plɔ:rәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "探險的, 探測的",
+    "def": ""
+   }
+  ]
+ },
+ "exploratory": {
+  "ph": "/iks'plɔ:rәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "探究, 探查, 探察(傷處), 探險, 探測, 勘探, 考察, 鑽研, 探索",
+    "def": "serving in or intended for exploration or discovery"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 探察的",
+    "def": ""
+   }
+  ]
+ },
+ "explore": {
+  "ph": "/ik'splɒ:/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "探險, 探測, 探究",
+    "def": "travel to or penetrate into"
+   }
+  ],
+  "forms": "現在分詞 exploring｜過去分詞 explored｜第三人稱單數 explores｜過去式 explored"
+ },
+ "explorer": {
+  "ph": "/ik'splɒ:rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "探險家, 探測者, 勘探器",
+    "def": "someone who travels into little known regions (especially for some scientific purpose)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 探察器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 explorers"
+ },
+ "exploring": {
+  "ph": "/iks'plɔ:riŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "探索的, 探測的；掃描",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 exploring"
+ },
+ "explosion": {
+  "ph": "/ik'splәuʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爆發, 激增, 爆炸(聲)",
+    "def": "a violent release of energy caused by a chemical or nuclear reaction"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 爆炸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 explosions"
+ },
+ "explosive": {
+  "ph": "/ik'splәusiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "炸藥, 爆破音",
+    "def": "a chemical substance that undergoes a rapid chemical change (with the production of gas) on being heated or struck"
+   },
+   {
+    "pos": "adj.",
+    "zh": "易爆發的, 爆炸的, 暴躁的",
+    "def": "serving to explode or characterized by explosion or sudden outburst"
+   }
+  ],
+  "forms": "複數 explosives"
+ },
+ "explosively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "爆發地, 引起爆炸地",
+    "def": ""
+   }
+  ]
+ },
+ "explosiveness": {
+  "ph": "/ɪksp'ləʊsɪvnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "爆炸性; 可爆性",
+    "def": ""
+   }
+  ]
+ },
+ "explosives": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爆炸物, 炸藥；爆炸品（explosive的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "expo": {
+  "ph": "/'ekspәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 展覽會, 市集, 義賣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expos"
+ },
+ "exponent": {
+  "ph": "/ik'spәunәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說明者, 倡導者, 說明物, 指數",
+    "def": "someone who expounds and interprets or explains"
+   },
+   {
+    "pos": "adj.",
+    "zh": "說明的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 指數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exponents"
+ },
+ "exponential": {
+  "ph": "/.ekspәu'nenʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "指數的",
+    "def": "of or involving exponents"
+   },
+   {
+    "pos": "n.",
+    "zh": "指數",
+    "def": "a function in which an independent variable appears as an exponent"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 指數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exponentials"
+ },
+ "exponentially": {
+  "ph": "/ˌekspə'nenʃəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "以指數方式",
+    "def": ""
+   }
+  ]
+ },
+ "export": {
+  "ph": "/ik'spɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輸出品, 輸出",
+    "def": "commodities (goods or services) sold to a foreign country"
+   },
+   {
+    "pos": "vt.",
+    "zh": "輸出, 出口",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "輸出物資",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 匯出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exports｜過去分詞 exported｜第三人稱單數 exports｜現在分詞 exporting｜過去式 exported"
+ },
+ "exportable": {
+  "ph": "/eks'pɒ:tәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可輸出的, 適於輸出的",
+    "def": "suitable for export"
+   }
+  ]
+ },
+ "exportation": {
+  "ph": "/,ekspɔ:'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輸出, 出口物, 輸出品, 出口",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 出口(貨)",
+    "def": ""
+   }
+  ]
+ },
+ "exported": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "出口；輸出（export的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exported｜過去式 exported"
+ },
+ "exporter": {
+  "ph": "/ik'spɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出口商, 輸出者, 出口公司",
+    "def": "a businessperson who transports goods abroad (for sale)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 出口商, 輸出者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exporters"
+ },
+ "exporting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "輸出的；出口的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 exporting"
+ },
+ "expose": {
+  "ph": "/ik'spәuz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使暴露, 使曝光, 揭穿, 陳列",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 暴露, 露置",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exposed｜現在分詞 exposing｜過去式 exposed｜第三人稱單數 exposes"
+ },
+ "exposed": {
+  "ph": "/ik'spәuzd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "暴露的, 無掩蔽的, 易受攻擊的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exposed｜過去式 exposed"
+ },
+ "exposition": {
+  "ph": "/.ekspә'ziʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "闡述, 講解, 說明, 博覽會, 展覽會",
+    "def": "a systematic interpretation or explanation (usually written) of a specific topic"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 展覽會, 集市, 義賣市場",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expositions"
+ },
+ "expository": {
+  "ph": "/ik'spɒzitәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "說明的, 解釋的",
+    "def": ""
+   }
+  ]
+ },
+ "expostulate": {
+  "ph": "/ik'spɔstjuleit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "勸誡, 告誡；忠告",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 expostulated｜第三人稱單數 expostulates｜過去分詞 expostulated｜現在分詞 expostulating"
+ },
+ "exposure": {
+  "ph": "/ik'spәuʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴露, 揭發, 揭露",
+    "def": "vulnerability to the elements; to the action of heat or cold or wind or rain;"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 曝光量; 照射; 照射量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exposures"
+ },
+ "expound": {
+  "ph": "/ik'spaund/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "詳細說明, 解釋",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expounded｜過去式 expounded｜現在分詞 expounding｜第三人稱單數 expounds"
+ },
+ "express": {
+  "ph": "/ik'spres/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "快車, 快遞, 專使",
+    "def": "mail that is distributed by a rapid and efficient system"
+   },
+   {
+    "pos": "adj.",
+    "zh": "明確的, 絲毫不差的, 專門的, 快的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "表達, 表示, 表露",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expressed｜現在分詞 expressing｜過去式 expressed｜第三人稱單數 expresses"
+ },
+ "expressed": {
+  "ph": "/iksˈprest/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "表達( express的過去式和過去分詞 ); （用符號等）表示; 榨; [express oneself]（如在說話、寫作或繪畫中）表達（自己）的意見",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 expressed｜過去分詞 expressed"
+ },
+ "expressible": {
+  "ph": "/ik'spresәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可表現的, 可榨出的",
+    "def": "capable of being expressed"
+   }
+  ]
+ },
+ "expression": {
+  "ph": "/ik'spreʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表達, 表現, 詞語, 措辭",
+    "def": "the feelings expressed on a person's face"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 表示式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expressions"
+ },
+ "expressionism": {
+  "ph": "/k'spreʃәniz(ә)m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表現主義",
+    "def": "an art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a dist"
+   }
+  ]
+ },
+ "expressionist": {
+  "ph": "/ik'spreʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "表現派作家",
+    "def": "an artist who is an adherent of expressionism"
+   },
+   {
+    "pos": "adj.",
+    "zh": "表現主義的",
+    "def": "of or relating to expressionism"
+   }
+  ],
+  "forms": "複數 expressionists"
+ },
+ "expressionistic": {
+  "ph": "/ik,spreʃә'nistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "表現主義的, 有表現派作風的",
+    "def": ""
+   }
+  ]
+ },
+ "expressionless": {
+  "ph": "/ik'spreʃәnlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無表情的, 呆板的",
+    "def": ""
+   }
+  ]
+ },
+ "expressionlessly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "expressionless的變形",
+    "def": ""
+   }
+  ]
+ },
+ "expressive": {
+  "ph": "/ik'spresiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "表達的, 富於表情的",
+    "def": ""
+   }
+  ]
+ },
+ "expressively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "表現地；意味深長地；表示地",
+    "def": ""
+   }
+  ]
+ },
+ "expressiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可表達性",
+    "def": ""
+   }
+  ]
+ },
+ "expressivity": {
+  "ph": "/,ekspre'siviti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "善於表達, 基因的表現度, 表達性",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 表現度(指遺傳特性)",
+    "def": ""
+   }
+  ]
+ },
+ "expressly": {
+  "ph": "/ik'spresli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "明白地, 清楚地, 特意地",
+    "def": ""
+   }
+  ]
+ },
+ "expressway": {
+  "ph": "/ik'spreswei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高速公路",
+    "def": "a broad highway designed for high-speed traffic"
+   }
+  ],
+  "forms": "複數 expressways"
+ },
+ "expropriate": {
+  "ph": "/eks'prәuprieit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "剝奪, 沒收, 徵用",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 徵用, 沒收, 剝奪...的所有權",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expropriated｜過去式 expropriated｜現在分詞 expropriating｜第三人稱單數 expropriates"
+ },
+ "expropriated": {
+  "ph": "/ekˈsprəʊpri:ˌeɪtid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "沒收（財產）, 徵用( expropriate的過去式和過去分詞 ); 剝奪…的所有權",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expropriated｜過去式 expropriated"
+ },
+ "expropriation": {
+  "ph": "/eks.prәupri'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "徵用, 收用, 徵收",
+    "def": "taking out of an owner's hands (especially taking property by public authority)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 徵用, 沒收, 徵購",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expropriations"
+ },
+ "expulsion": {
+  "ph": "/ik'spʌlʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逐出, 開除, 驅逐, 排氣",
+    "def": "the act of expelling or projecting or ejecting"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 逼出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 expulsions"
+ },
+ "expunge": {
+  "ph": "/ik'spʌndʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擦掉, 刪掉, 除去",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expunged｜過去式 expunged｜現在分詞 expunging｜第三人稱單數 expunges"
+ },
+ "expurgate": {
+  "ph": "/'ekspә:geit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "刪除, 修訂, 使純潔",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 expurgated｜過去式 expurgated｜現在分詞 expurgating｜第三人稱單數 expurgates"
+ },
+ "exquisite": {
+  "ph": "/'ekskwizit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精緻的, 細膩的, 敏銳的",
+    "def": ""
+   }
+  ]
+ },
+ "exquisitely": {
+  "ph": "/'ekskwizitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "精巧地, 敏銳地",
+    "def": ""
+   }
+  ]
+ },
+ "ext": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "擴充套件（extension）；外部（exterior）；額外的（extra）；提取（extract）",
+    "def": ""
+   }
+  ]
+ },
+ "extant": {
+  "ph": "/ek'stænt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "現存的, 未毀的",
+    "def": "still in existence; not extinct or destroyed or lost"
+   }
+  ]
+ },
+ "extemporaneous": {
+  "ph": "/ik.stempә'reiniәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無準備的, 即席的, 臨時的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 臨時的, 當時的",
+    "def": ""
+   }
+  ]
+ },
+ "extemporaneously": {
+  "ph": "/ekstempə'reiniəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無準備地, 臨時作成的",
+    "def": ""
+   }
+  ]
+ },
+ "extempore": {
+  "ph": "/ik'stempәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "即席的, 當場的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "即席, 當場",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "即席之作",
+    "def": ""
+   }
+  ]
+ },
+ "extemporize": {
+  "ph": "/ik'stempәraiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "即席演說, 即興演奏, 當場作成",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 extemporizing｜過去式 extemporized｜第三人稱單數 extemporizes｜過去分詞 extemporized"
+ },
+ "extend": {
+  "ph": "/ik'stend/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "擴充, 延伸, 伸展, 擴大",
+    "def": "make available; provide"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 擴充套件",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 extended｜現在分詞 extending｜第三人稱單數 extends｜過去式 extended"
+ },
+ "extendable": {
+  "ph": "/ek'stendәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可延長的；可展開的；可擴張的",
+    "def": ""
+   }
+  ]
+ },
+ "extended": {
+  "ph": "/ik'stendid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "延續的, 伸出的, 竭盡全力的, 廣大的, 擴大範圍的",
+    "def": "fully extended or stretched forth"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 展期的, 延期的, 延長的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 extended｜過去式 extended"
+ },
+ "extended family": {
+  "ph": "/iksˈtendid ˈfæmili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大家庭, 擴大的家庭（如數代同堂的家庭）",
+    "def": ""
+   }
+  ]
+ },
+ "extender": {
+  "ph": "/iks'tendә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 擴充套件器, 延長器, 擴充部件",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 補充劑; 填料",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extenders"
+ },
+ "extending": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擴充套件；伸長",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 extending"
+ },
+ "extensible": {
+  "ph": "/ik'stensәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可展開的, 可延長的, 可擴張的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 可延伸的, 延伸性的",
+    "def": ""
+   }
+  ]
+ },
+ "extension": {
+  "ph": "/ik'stenʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "延長, 擴充, 範圍, 副檔名",
+    "def": "a mutually agreed delay in the date set for the completion of a job or payment of a debt"
+   },
+   {
+    "pos": "adj.",
+    "zh": "伸縮的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 副檔名, 擴充名",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extensions"
+ },
+ "extensional": {
+  "ph": "/iks'tenʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外延的, 事實的, 具體的, 客觀現實的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 擴充的, 擴充套件的, 外延的",
+    "def": ""
+   }
+  ]
+ },
+ "extensive": {
+  "ph": "/ik'stensiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "廣的, 廣泛的, 多方面的",
+    "def": "of agriculture; increasing productivity by using large areas with minimal outlay and labor"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 廣大的, 擴大的",
+    "def": ""
+   }
+  ]
+ },
+ "extensively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "廣大, 廣延, 外延, 大面積(耕種), 粗放, 廣博, 廣泛, 廣闊",
+    "def": ""
+   }
+  ]
+ },
+ "extensiveness": {
+  "ph": "/ɪks'tensɪvnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計]擴充套件（性）, 延伸（性）",
+    "def": ""
+   }
+  ]
+ },
+ "extensor": {
+  "ph": "/ik'stensә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伸肌",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 伸肌",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extensors"
+ },
+ "extent": {
+  "ph": "/ik'stent/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "範圍, 程度, 區域",
+    "def": "the point or degree to which something extends"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 範圍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extents"
+ },
+ "extenuate": {
+  "ph": "/ik'stenjueit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "減輕, 為...找藉口",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 減輕, 低估, 藐視",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 extenuating｜複數 extenuates｜過去式 extenuated｜第三人稱單數 extenuates｜過去分詞 extenuated"
+ },
+ "extenuating": {
+  "ph": "/eks'tenjueitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使減輕的, 情有可原的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 extenuating"
+ },
+ "exterior": {
+  "ph": "/ik'stiәriә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外部, 表面, 外貌",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "外部的, 外在的, 表面的",
+    "def": "situated in or suitable for the outdoors or outside of a building"
+   }
+  ],
+  "forms": "複數 exteriors"
+ },
+ "exteriority": {
+  "ph": "/ekstiәri'ɔriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "在外, 外在性",
+    "def": "Surface; superficies; externality."
+   }
+  ]
+ },
+ "exterminate": {
+  "ph": "/ik'stә:mineit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "撲滅, 消滅, 根絕",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 exterminated｜現在分詞 exterminating｜過去式 exterminated｜第三人稱單數 exterminates"
+ },
+ "exterminating": {
+  "ph": "/ɪkˈstɜ:məˌneɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "消滅, 根絕( exterminate的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "extermination": {
+  "ph": "/ik.stә:mi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "消滅, 根絕",
+    "def": "the act of exterminating"
+   }
+  ],
+  "forms": "複數 exterminations"
+ },
+ "exterminator": {
+  "ph": "/ik'stә:mәneitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "根除者, 撲滅者, 害蟲驅除劑",
+    "def": "someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects)"
+   }
+  ],
+  "forms": "複數 exterminators"
+ },
+ "external": {
+  "ph": "/ik'stә:nl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外部, 外面",
+    "def": "outward features"
+   },
+   {
+    "pos": "adj.",
+    "zh": "外部的, 客觀的, 表面的",
+    "def": "happening or arising or located outside or beyond some limits or especially surface"
+   }
+  ],
+  "forms": "複數 externals"
+ },
+ "externality": {
+  "ph": "/.ekstә:'næliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外形, 外在性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 externalities"
+ },
+ "externalization": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "客觀化, 外表性, 外表化, 客觀性",
+    "def": "attributing to outside causes"
+   }
+  ],
+  "forms": "複數 externalizations"
+ },
+ "externalize": {
+  "ph": "/ik'stә:nәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "給...以外型, 使客觀化, 使具體化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 表面化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 externalized｜過去分詞 externalized｜現在分詞 externalizing｜第三人稱單數 externalizes"
+ },
+ "externalized": {
+  "ph": "/eksˈtə:nəˌlaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給…以外形, 使客觀化, 使具體化( externalize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 externalized"
+ },
+ "externalizing": {
+  "ph": "/eksˈtə:nəˌlaizɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "給…以外形, 使客觀化, 使具體化( externalize的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "externally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在外部, 外表上, 從外面, 在外面, 從外部",
+    "def": ""
+   }
+  ]
+ },
+ "extinct": {
+  "ph": "/ik'stiŋkt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熄滅的, 滅絕的, 耗盡的",
+    "def": "no longer in existence; lost or especially having died out leaving no living representatives"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 消滅了的, 過時的, 無效的",
+    "def": ""
+   }
+  ]
+ },
+ "extinction": {
+  "ph": "/ik'stiŋkʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "消失, 消滅, 廢止",
+    "def": "no longer active; extinguished"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 消光; 熄滅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extinctions"
+ },
+ "extinguish": {
+  "ph": "/ik'stiŋgwiʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "熄滅, 使消亡, 壓制, 使減色",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 消滅",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 extinguished｜現在分詞 extinguishing｜過去式 extinguished｜第三人稱單數 extinguishes"
+ },
+ "extinguished": {
+  "ph": "/ɪks'tɪŋwɪʃt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使熄滅, 撲滅( extinguish的過去式和過去分詞 ); 使…不復存在",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 extinguished｜過去式 extinguished"
+ },
+ "extinguisher": {
+  "ph": "/ik'stiŋ^wiʃә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熄滅者, 滅火器, 消滅者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 滅火器; 滅火劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extinguishers"
+ },
+ "extinguishing": {
+  "ph": "/iks'tiŋ^wiʃiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "熄滅",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 extinguishing"
+ },
+ "extirpate": {
+  "ph": "/'ekstә:peit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "連根拔起, 消滅, 根除, 毀滅",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 extirpated｜過去式 extirpated｜現在分詞 extirpating｜第三人稱單數 extirpates"
+ },
+ "extirpation": {
+  "ph": "/.ekstә:'peiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "消滅, 根除, 毀滅",
+    "def": "the act of pulling up or out; uprooting; cutting off from existence"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 摘除",
+    "def": ""
+   }
+  ]
+ },
+ "extol": {
+  "ph": "/ik'stәul/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "頌揚, 稱讚, 吹捧",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 extolling｜過去分詞 extolled｜過去式 extolled｜第三人稱單數 extols"
+ },
+ "extort": {
+  "ph": "/ik'stɒ:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "勒索, 敲詐, 強要",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外旋",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 extorted｜現在分詞 extorting｜過去式 extorted｜第三人稱單數 extorts"
+ },
+ "extortion": {
+  "ph": "/ik'stɒ:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勒索, 敲詐, 強取",
+    "def": "an exorbitant charge"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 勒索, 強奪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extortions"
+ },
+ "extortionate": {
+  "ph": "/ik'stɒ:ʃәnәt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "敲詐的, 勒索的, 過度的, 昂貴的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 勒索的, 敲詐的, 強奪的",
+    "def": ""
+   }
+  ]
+ },
+ "extortionist": {
+  "ph": "/ik'stɔ:ʃәnә.-ʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勒索者；勒索錢財",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extortionists"
+ },
+ "extra": {
+  "ph": "/'ekstrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "額外的事物, 另外的收費",
+    "def": "an additional edition of a newspaper (usually to report a crisis)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "額外的, 特別的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "額外地, 特別地, 非常地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extras"
+ },
+ "extra time": {
+  "ph": "/ˈekstrə taim/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "加時賽; 額外時間",
+    "def": ""
+   }
+  ]
+ },
+ "extracellular": {
+  "ph": "/,ekstrә'seljulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "細胞外的",
+    "def": "located or occurring outside a cell or cells"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 細胞外的",
+    "def": ""
+   }
+  ]
+ },
+ "extract": {
+  "ph": "/ik'strækt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "榨出物, 精汁, 摘錄, 選段",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "(費力地)取出, 採掘, 榨取, 摘錄, 吸取",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 提取",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extracts｜過去分詞 extracted｜現在分詞 extracting｜過去式 extracted｜第三人稱單數 extracts"
+ },
+ "extractable": {
+  "ph": "/ik'stræktәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可抽出的, 可摘錄的, 可推斷出的, 可提取的, 可榨取的, 可榨出的, 可拔出的",
+    "def": ""
+   }
+  ]
+ },
+ "extracted": {
+  "ph": "/iks'træktid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "引出的；萃取的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 extracted｜過去分詞 extracted"
+ },
+ "extraction": {
+  "ph": "/ik'strækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抽出, 取出, 拔出術, 抽出物",
+    "def": "the process of obtaining something from a mixture or compound by chemical or physical or mechanical means"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 萃取; 提取",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extractions"
+ },
+ "extractive": {
+  "ph": "/ik'stræktiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "引得出的, 萃取的, 抽取的",
+    "def": "Capable of being extracted."
+   },
+   {
+    "pos": "n.",
+    "zh": "抽出物, 精, 熬汁",
+    "def": "Anything extracted; an extract."
+   }
+  ]
+ },
+ "extractor": {
+  "ph": "/ik'stræktә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抽出器, 拔取的人, 抽出者",
+    "def": "an instrument for extracting tight-fitting components"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 抽取字; 析取字",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extractors"
+ },
+ "extracurricular": {
+  "ph": "/.ekstrәkә'rikjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "課外的, 業餘的",
+    "def": ""
+   }
+  ]
+ },
+ "extradite": {
+  "ph": "/'ekstrәdait/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "引渡, 獲取(逃犯等)的引渡",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 引渡, 使被引渡",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 extraditing｜過去式 extradited｜第三人稱單數 extradites｜過去分詞 extradited"
+ },
+ "extradition": {
+  "ph": "/.ekstrә'diʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "引渡逃犯, 亡命者送還本國",
+    "def": "the surrender of an accused or convicted person by one state or country to another (usually under the provisions of a statute or treaty)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 引渡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extraditions"
+ },
+ "extragalactic": {
+  "ph": "/,ekstrә^ә'læktik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[天](位於或來自於)銀河系外的",
+    "def": "outside or beyond a galaxy"
+   }
+  ]
+ },
+ "extrajudicial": {
+  "ph": "/,ekstrәdʒu(:)'diʃәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "法庭職權以外的",
+    "def": ""
+   }
+  ]
+ },
+ "extralinguistic": {
+  "ph": "/,ekstrәliŋ'^wistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "語言之外的, 語言學之外的",
+    "def": "not included within the realm of language"
+   }
+  ]
+ },
+ "extramarital": {
+  "ph": "/.ekstrә'mæritl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "婚外的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 私通的, 通姦的",
+    "def": ""
+   }
+  ]
+ },
+ "extramural": {
+  "ph": "/.ekstrә'mjuәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "市外的, 機構以外的",
+    "def": "carried on outside the bounds of an institution or community"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 壁外的",
+    "def": ""
+   }
+  ]
+ },
+ "extramusical": {
+  "ph": "/,ekstrә'mju:zikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "音樂範圍以外的",
+    "def": ""
+   }
+  ]
+ },
+ "extraneous": {
+  "ph": "/ek'streiniәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外來的, 非必要的, 無關的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 體外的",
+    "def": ""
+   }
+  ]
+ },
+ "extranet": {
+  "ph": "/'ekstrənet/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "外聯網",
+    "def": ""
+   }
+  ]
+ },
+ "extraordinaire": {
+  "ph": "/,ekstrә,ɔ:di'neә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<法>adj.[用作後置形容詞]異常的,特別的,非凡的",
+    "def": ""
+   }
+  ]
+ },
+ "extraordinarily": {
+  "ph": "/ik'strɔ:dθnәrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "非凡, 破例, 特別, 非常, 離奇, 使人驚奇, 驚人, 特命, 特派",
+    "def": ""
+   }
+  ]
+ },
+ "extraordinary": {
+  "ph": "/ik'strɒ:dәnәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非常的, 特別的, 非凡的",
+    "def": "beyond what is ordinary or usual; highly unusual or exceptional or remarkable"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 非常的, 特別的, 臨時的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extraordinaries"
+ },
+ "extrapolate": {
+  "ph": "/ek'stræpәleit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "推斷, 外推",
+    "def": "gain knowledge of (an area not known or experienced) by extrapolating"
+   }
+  ],
+  "forms": "現在分詞 extrapolating｜過去分詞 extrapolated｜過去式 extrapolated｜第三人稱單數 extrapolates｜複數 extrapolates"
+ },
+ "extrapolation": {
+  "ph": "/.ekstæpә'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "推斷, 外推法",
+    "def": "(mathematics) calculation of the value of a function outside the range of known values"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 外插法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extrapolations"
+ },
+ "extrasensory": {
+  "ph": "/.ekstrә'sensәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "超感官的",
+    "def": "seemingly outside normal sensory channels"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 感覺外的",
+    "def": ""
+   }
+  ]
+ },
+ "extrasolar": {
+  "ph": "/,ekstrә'sәulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[天](存在於或來自於)太陽系以外的",
+    "def": ""
+   }
+  ]
+ },
+ "extraterrestrial": {
+  "ph": "/,ekstrәtә'restriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "地球外的, 地球大氣圈外的",
+    "def": "originating or located or occurring outside Earth or its atmosphere"
+   }
+  ],
+  "forms": "複數 extraterrestrials"
+ },
+ "extraterritorial": {
+  "ph": "/'ekstrә,teri'tɔ:riәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "治外法權",
+    "def": "outside territorial limits or jurisdiction"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 治外法權的",
+    "def": ""
+   }
+  ]
+ },
+ "extraterritoriality": {
+  "ph": "/-'æliti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 治外法權, 領事裁判權",
+    "def": ""
+   }
+  ]
+ },
+ "extratextual": {
+  "ph": "/,ekstrə'tekstjuəl; -tʃuəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "文字外的",
+    "def": ""
+   }
+  ]
+ },
+ "extravagance": {
+  "ph": "/ik'strævәgәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奢侈, 浪費, 放肆的言行",
+    "def": "the quality of exceeding the appropriate limits of decorum or probability or truth"
+   }
+  ],
+  "forms": "複數 extravagances"
+ },
+ "extravagant": {
+  "ph": "/ik'strævgәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奢侈的, 揮霍無度的, 浪費的",
+    "def": ""
+   }
+  ]
+ },
+ "extravagantly": {
+  "ph": "/ɪk'strævəɡəntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "揮霍無度地",
+    "def": ""
+   }
+  ]
+ },
+ "extravaganza": {
+  "ph": "/eks,trævә'^ænzә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狂文, 鋪張華麗的表演, 狂行, 狂言, 狂劇, 狂曲, 狂詩",
+    "def": "any lavishly staged or spectacular entertainment"
+   }
+  ],
+  "forms": "複數 extravaganzas"
+ },
+ "extraversion": {
+  "ph": "/,ekstrә'vә:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外傾",
+    "def": "(psychology) an extroverted disposition; concern with what is outside the self"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外傾",
+    "def": ""
+   }
+  ]
+ },
+ "extravert": {
+  "ph": "/'ekstrәvә:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外向性格的人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外傾[性格]者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extraverts"
+ },
+ "extraverted": {
+  "ph": "/'ekstrəvə:tid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外向的（等於extroverted）",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使思想外傾（extravert的過去式）",
+    "def": ""
+   }
+  ]
+ },
+ "extreme": {
+  "ph": "/ik'stri:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "極端, 末端",
+    "def": "the furthest or highest degree of something"
+   },
+   {
+    "pos": "adj.",
+    "zh": "極端的, 盡頭的, 極度的, 偏激的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extremes｜最高級 extremest"
+ },
+ "extremely": {
+  "ph": "/ik'stri:mli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "極端地, 非常地",
+    "def": ""
+   }
+  ]
+ },
+ "extremism": {
+  "ph": "/ik'stri:mizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "極端傾向, 極端論, 過激主義",
+    "def": "any political theory favoring immoderate uncompromising policies"
+   }
+  ]
+ },
+ "extremist": {
+  "ph": "/iks'tri:mist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 偏激份子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extremists"
+ },
+ "extremity": {
+  "ph": "/ik'stremiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "極端, 極點, 困境, 絕境",
+    "def": "an external body part that projects from the body"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 肢, 端",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extremities"
+ },
+ "extremophile": {
+  "ph": "/ɪks'təi:məfɪl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "“嗜極生物”, 或稱作“嗜極菌”, 生活在各種極端惡劣環境下的微生物。",
+    "def": ""
+   }
+  ]
+ },
+ "extricable": {
+  "ph": "/'ekstrikәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可救出的, 可解救的",
+    "def": "capable of being extricated"
+   }
+  ]
+ },
+ "extricate": {
+  "ph": "/'ekstrikeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使解脫, 救出",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 extricating｜過去式 extricated｜過去分詞 extricated｜第三人稱單數 extricates"
+ },
+ "extrication": {
+  "ph": "/.ekstri'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "救出, 解脫, 遊離",
+    "def": ""
+   }
+  ]
+ },
+ "extrinsic": {
+  "ph": "/ek'strinsik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外在的, 外來的, 非國有的, 外表的",
+    "def": "not forming an essential part of a thing or arising or originating from the outside"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外部的, 體外的",
+    "def": ""
+   }
+  ]
+ },
+ "extrinsically": {
+  "ph": "/eks'trinsikəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "非本質地；非固有地",
+    "def": ""
+   }
+  ]
+ },
+ "extroversion": {
+  "ph": "/.ekstrә'vә:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外翻, 外傾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外翻, 外傾",
+    "def": ""
+   }
+  ]
+ },
+ "extrovert": {
+  "ph": "/'ekstrәuvә:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外向性格的人",
+    "def": "(psychology) a person concerned more with practical realities than with inner thoughts and feelings"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外傾[性格]者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extroverts｜過去式 extroverted｜過去分詞 extroverted"
+ },
+ "extroverted": {
+  "ph": "/'ekstrәuvә:tid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外向性的；性格外向的；喜社交的",
+    "def": ""
+   }
+  ]
+ },
+ "extrude": {
+  "ph": "/ek'stru:d/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擠出, 壓出, 逐出",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "伸出, 突出",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 extruded｜過去式 extruded｜第三人稱單數 extrudes｜現在分詞 extruding"
+ },
+ "extruded": {
+  "ph": "/ɪkst'ru:dɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "擠壓出( extrude的過去式和過去分詞 ); 擠壓成; 突出; 伸出",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 extruded"
+ },
+ "extruder": {
+  "ph": "/eks'tru:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擠壓機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 擠出機; 壓出機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extruders"
+ },
+ "extrusion": {
+  "ph": "/ek'stru:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擠出, 推出, 趕出",
+    "def": "squeezing out by applying pressure"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 擠出; 擠塑; 壓出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 extrusions"
+ },
+ "exuberance": {
+  "ph": "/ig'zju:bәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "茂盛, 茂盛的生長物, 豐富",
+    "def": "joyful enthusiasm"
+   }
+  ]
+ },
+ "exuberant": {
+  "ph": "/ig'zju:bәrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "繁茂的, 豐富的, 生氣勃勃的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 生成過多的, 高度增生的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exuberants"
+ },
+ "exuberantly": {
+  "ph": "/ɪɡ'zju:bərəntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "興高采烈地, 活躍地, 愉快地",
+    "def": ""
+   }
+  ]
+ },
+ "exudate": {
+  "ph": "/'eksu:deit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流出物, 分泌液",
+    "def": "a substance that oozes out from plant pores"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 滲出物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 exudates"
+ },
+ "exude": {
+  "ph": "/ig'zju:d/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)流出, (使)滲出",
+    "def": "release (a liquid) in drops or small quantities"
+   }
+  ],
+  "forms": "過去式 exuded｜第三人稱單數 exudes｜現在分詞 exuding｜過去分詞 exuded"
+ },
+ "exult": {
+  "ph": "/ig'zʌlt/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "非常高興, 歡欣",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 exulted｜現在分詞 exulting｜第三人稱單數 exults｜複數 exults｜過去分詞 exulted"
+ },
+ "exultant": {
+  "ph": "/ig'zʌltәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非常高興的, 歡欣的",
+    "def": ""
+   }
+  ]
+ },
+ "exultantly": {
+  "ph": "/ɪɡ'zʌltəntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "狂歡地, 歡欣鼓舞地",
+    "def": ""
+   }
+  ]
+ },
+ "exultation": {
+  "ph": "/.egzʌl'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狂喜, 大悅, 歡欣",
+    "def": "a feeling of extreme joy"
+   }
+  ],
+  "forms": "複數 exultations"
+ },
+ "exurb": {
+  "ph": "/'ekzә:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遠郊地區",
+    "def": ""
+   }
+  ]
+ },
+ "exxon": {
+  "ph": "/'ɛksan/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾克森石油公司",
+    "def": ""
+   }
+  ]
+ }
+}

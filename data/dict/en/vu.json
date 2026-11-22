@@ -1,0 +1,177 @@
+{
+ "vue": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "虛擬機器脫殼引擎（Virtual Machine Unpack Engine）；可視使用者環境（Visual User Environment）；真實使用者環境（Veridical User Environment）；檢視檔案",
+    "def": ""
+   }
+  ]
+ },
+ "vuillard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Vuillard)人名；(法)維亞爾",
+    "def": "French painter (1868-1940)"
+   }
+  ]
+ },
+ "vuitton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威登（法國一時尚品牌）",
+    "def": ""
+   }
+  ]
+ },
+ "vulcan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[羅神]伏爾甘（火和鍛冶的神）",
+    "def": "(Roman mythology) god of fire and metal working; counterpart of Greek Hephaestus"
+   }
+  ]
+ },
+ "vulgar": {
+  "ph": "/'vʌlgә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粗俗的, 庸俗的, 普通的, 通俗的, 方言的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 庸俗的, 卑下的, 粗俗的",
+    "def": ""
+   }
+  ]
+ },
+ "vulgaris": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 尋常的, 普通的",
+    "def": ""
+   }
+  ]
+ },
+ "vulgarity": {
+  "ph": "/vʌl'gæriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粗俗, 粗鄙, 粗話",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 粗鄙, 粗野行為",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vulgarities"
+ },
+ "vulgarization": {
+  "ph": "/.vʌlgәrai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通俗化, 庸俗化, 粗俗化",
+    "def": "the act of rendering something coarse and unrefined"
+   }
+  ],
+  "forms": "複數 vulgarizations"
+ },
+ "vulgarly": {
+  "ph": "/'vʌlgɚli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "通俗地, 普通地, 庸俗地",
+    "def": ""
+   }
+  ]
+ },
+ "vulnerability": {
+  "ph": "/.vʌlnәrә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "易受傷, 易受責難, 易受傷部位",
+    "def": "the state of being vulnerable or exposed"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 易損性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vulnerabilities"
+ },
+ "vulnerable": {
+  "ph": "/'vʌlnәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易受傷害的, 有弱點的, 易受影響的, 脆弱的, 成局的",
+    "def": "susceptible to attack"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 易損的",
+    "def": ""
+   }
+  ]
+ },
+ "vulpine": {
+  "ph": "/'vʌlpain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狐狸的, 狐狸似的, 詭計多端的",
+    "def": "resembling or characteristic of a fox"
+   }
+  ]
+ },
+ "vulture": {
+  "ph": "/'vʌltʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "禿鷲, 貪婪的人",
+    "def": "any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 貪婪而殘酷者, 劫掠成性者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vultures"
+ },
+ "vulva": {
+  "ph": "/'vʌlvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外陰, 陰戶",
+    "def": "external parts of the female genitalia"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外陰, 女陰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 vulvas"
+ }
+}

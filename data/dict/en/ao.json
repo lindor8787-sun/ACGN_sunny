@@ -1,0 +1,54 @@
+{
+ "ao": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 陽極斷電, 房室瓣張開",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aos"
+ },
+ "aorta": {
+  "ph": "/ei'ɒ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主動脈",
+    "def": "the large trunk artery that carries blood from the left ventricle of the heart to branch arteries"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 主動脈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aortas"
+ },
+ "aortic": {
+  "ph": "/ei'ɒ:tik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "主動脈的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 主動脈的",
+    "def": ""
+   }
+  ]
+ },
+ "aoun": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Aoun)人名；(阿拉伯)奧恩",
+    "def": ""
+   }
+  ]
+ }
+}

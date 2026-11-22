@@ -1,0 +1,110 @@
+{
+ "cd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐳射碟, 鐳射唱片",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 光碟, 壓縮盤, 載波檢測, DOS內部命令:顯示或改變當前目錄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cds"
+ },
+ "cd player": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "鐳射唱機；CD播放器",
+    "def": ""
+   }
+  ]
+ },
+ "cd-rom": {
+  "ph": "/si:di:'rɔm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光碟驅動器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cd-roms"
+ },
+ "cdc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "疾病防治中心（Centers for Disease Control）；（美）市民民防團（Citizens ' Defense Corps）；控制資料公司（Control Data Corp）",
+    "def": ""
+   }
+  ]
+ },
+ "cdi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "航向偏差指示器（Course Deviation Indicator）；綜合報告索引（Comprehensive Dissertation Index）",
+    "def": ""
+   }
+  ]
+ },
+ "cdna": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 互補DNA",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cdnas"
+ },
+ "cdp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 胞苷二磷酸",
+    "def": ""
+   }
+  ]
+ },
+ "cdr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "指揮員（Commander）；會長（commander）；交貨收據（Cargo Delivery Receipt）",
+    "def": ""
+   }
+  ]
+ },
+ "cdt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（美國）中央時區（Central Daylight Time）",
+    "def": ""
+   }
+  ]
+ },
+ "cdu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "中央顯示器（Central Display Unit）；海防搜尋潛艇雷達（Coast Defense radar for detecting U-boats）",
+    "def": ""
+   }
+  ]
+ }
+}

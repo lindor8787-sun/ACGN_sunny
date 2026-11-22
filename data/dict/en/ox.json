@@ -1,0 +1,419 @@
+{
+ "ox": {
+  "ph": "/ɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛",
+    "def": "an adult castrated bull of the genus Bos; especially Bos taurus"
+   }
+  ],
+  "forms": "複數 oxen｜比較級 oxer"
+ },
+ "oxalate": {
+  "ph": "/'ɒksәleit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草酸鹽, 乙二酸鹽",
+    "def": "a salt or ester of oxalic acid"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 草酸鹽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oxalates"
+ },
+ "oxbow": {
+  "ph": "/ˈɒksbəʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛軛U字形部分, U字形彎曲",
+    "def": "the land inside an oxbow bend in a river"
+   },
+   {
+    "pos": "adj.",
+    "zh": "呈U字形彎曲的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oxbows"
+ },
+ "oxbridge": {
+  "ph": "/'ɔksbridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛津和劍橋大學, 牛津或劍橋大學",
+    "def": "general term for an ancient and prestigious and privileged university (especially Oxford University or Cambridge University)"
+   }
+  ]
+ },
+ "oxcart": {
+  "ph": "/'ɒkskɑ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛車",
+    "def": "a cart that is drawn by an ox"
+   }
+  ],
+  "forms": "複數 oxcarts"
+ },
+ "oxen": {
+  "ph": "/'ɔksәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "牛, 公牛",
+    "def": ""
+   }
+  ]
+ },
+ "oxfam": {
+  "ph": "/'ɔksfæm/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Oxford Committee for Famine Relief(英國) 牛津饑荒救濟委員會",
+    "def": ""
+   }
+  ]
+ },
+ "oxford": {
+  "ph": "/'ɒksfәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛津, 牛津大學",
+    "def": "a city in southern England to the northwest of London; site of Oxford University"
+   }
+  ]
+ },
+ "oxfordshire": {
+  "ph": "/'ɒksfәdʃiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛津郡",
+    "def": ""
+   }
+  ]
+ },
+ "oxidant": {
+  "ph": "/'ɒksidәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氧化劑",
+    "def": "a substance that oxidizes another substance"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氧化劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oxidants"
+ },
+ "oxidase": {
+  "ph": "/'ɔksideis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 氧化酶",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氧化酶",
+    "def": ""
+   }
+  ]
+ },
+ "oxidation": {
+  "ph": "/.ɒksi'deiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氧化",
+    "def": "the process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氧化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oxidations"
+ },
+ "oxidative": {
+  "ph": "/'ɔksideitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氧化的",
+    "def": ""
+   }
+  ]
+ },
+ "oxide": {
+  "ph": "/'ɒksaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氧化物",
+    "def": "any compound of oxygen with another element or a radical"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氧化物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oxides"
+ },
+ "oxidise": {
+  "ph": "/'ɔksidaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "vt. (使)氧化, (使)生鏽",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 oxidising｜過去分詞 oxidised｜過去式 oxidised｜複數 oxidises｜第三人稱單數 oxidises"
+ },
+ "oxidised": {
+  "ph": "/'ɔksidaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "（英）使氧化；使生鏽",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "氧化；生鏽（等於oxidize）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 oxidised｜過去式 oxidised"
+ },
+ "oxidize": {
+  "ph": "/'ɒksidaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使氧化, 使生鏽",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "氧化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 oxidized｜第三人稱單數 oxidizes｜現在分詞 oxidizing｜過去式 oxidized"
+ },
+ "oxidized": {
+  "ph": "/'ɑksə,daɪz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使某物）氧化, （使某物）生鏽( oxidize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 oxidized｜過去式 oxidized"
+ },
+ "oxidizer": {
+  "ph": "/'ɒksidaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氧化劑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氧化劑",
+    "def": ""
+   }
+  ]
+ },
+ "oxidizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 氧",
+    "def": ""
+   }
+  ]
+ },
+ "oxley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奧克斯利（人名, 地名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oxleys"
+ },
+ "oxo": {
+  "ph": "/'ɔksәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 氧代; (在無機化合物中通常指)氧合",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oxos"
+ },
+ "oxon": {
+  "ph": "/'ɔksɔn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(=Oxfordshire)牛津郡(英格蘭中南部的一郡, 首府Oxford)",
+    "def": ""
+   }
+  ]
+ },
+ "oxtail": {
+  "ph": "/'ɒksteil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(食用的)牛尾",
+    "def": "the skinned tail of cattle; used especially for soups"
+   }
+  ],
+  "forms": "複數 oxtails"
+ },
+ "oxycodone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 羥考酮; 14-羥基二氫可待因酮",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氧可酮, 14-羥基二氧可待因酮",
+    "def": ""
+   }
+  ]
+ },
+ "oxygen": {
+  "ph": "/'ɒksәdʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氧",
+    "def": "a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; th"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氧O-2",
+    "def": ""
+   }
+  ],
+  "forms": "複數 oxygens"
+ },
+ "oxygenate": {
+  "ph": "/'ɔksidʒineit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "氧合, 充氧",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氧合, 充氧",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 oxygenated｜第三人稱單數 oxygenates｜過去分詞 oxygenated｜現在分詞 oxygenating"
+ },
+ "oxygenated": {
+  "ph": "/.ɔksidʒәn'eitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "充了氧的；氧化的；充滿氧氣的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 oxygenated｜過去分詞 oxygenated"
+ },
+ "oxygenating": {
+  "ph": "/ˈɔksidʒineitɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "以氧處理, 氧化( oxygenate的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "oxygenation": {
+  "ph": "/.ɒksidʒә'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "以氧氣處理, 氧化",
+    "def": "the process of providing or combining or treating with oxygen"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氧合作用",
+    "def": ""
+   }
+  ]
+ },
+ "oxymoron": {
+  "ph": "/.ɒksi'mәurɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矛盾修飾法, 逆喻",
+    "def": "conjoining contradictory terms (as in `deafening silence')"
+   }
+  ]
+ },
+ "oxymoronic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "矛盾修飾法的",
+    "def": ""
+   }
+  ]
+ },
+ "oxytocin": {
+  "ph": "/.ɒksi'tәusin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "催產素",
+    "def": "hormone secreted by the posterior pituitary gland (trade name Pitocin); stimulates contractions of the uterus and ejection of milk"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 縮宮素; 催產素",
+    "def": ""
+   }
+  ]
+ }
+}

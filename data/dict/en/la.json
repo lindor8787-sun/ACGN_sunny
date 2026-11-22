@@ -1,0 +1,6287 @@
+{
+ "la": {
+  "ph": "/lɔ:, lɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 鑭(57號元素)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 las"
+ },
+ "laager": {
+  "ph": "/'lɑ:gә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "車陣",
+    "def": "a camp defended by a circular formation of wagons"
+   },
+   {
+    "pos": "vt.",
+    "zh": "布車陣",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "宿營於車陣中",
+    "def": ""
+   }
+  ]
+ },
+ "lab": {
+  "ph": "/læb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實驗室, 研究室",
+    "def": "a workplace for the conduct of scientific research"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 凝乳酶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 labs"
+ },
+ "laban": {
+  "ph": "/'leibәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉班（《聖經·創世記》中Leah和Rachel之父）",
+    "def": "Hungarian choreographer who developed Labanotation (1879-1958)"
+   }
+  ]
+ },
+ "label": {
+  "ph": "/'leibl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "標籤, 稱號, 商標, 標誌",
+    "def": "a brief description given for purposes of identification"
+   },
+   {
+    "pos": "vt.",
+    "zh": "貼標籤於, 標註",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 標誌; 標註; DOS外部命令:用於建立改變或刪除磁碟卷標號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 labels｜過去分詞 labelled｜現在分詞 labelling｜過去式 labelled｜第三人稱單數 labels"
+ },
+ "labeled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有標籤的；示蹤的",
+    "def": "bearing or marked with a label or tag"
+   }
+  ],
+  "forms": "過去式 labeled"
+ },
+ "labeling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 貼標籤",
+    "def": ""
+   }
+  ]
+ },
+ "labelled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貼上標籤的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 labelled｜過去式 labelled"
+ },
+ "labelling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 標號的, 標明, 標記",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 貼標籤, 標記",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 labelling｜複數 labellings"
+ },
+ "labia": {
+  "ph": "/'leibiә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "唇, 陰唇",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [拉]唇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 labia"
+ },
+ "labial": {
+  "ph": "/'leibiәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "唇的, 嘴唇的, 唇音的",
+    "def": "of or relating to the lips of the mouth"
+   },
+   {
+    "pos": "n.",
+    "zh": "唇音, 風琴管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 labials"
+ },
+ "labile": {
+  "ph": "/'leibail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不安定的, 易發生變化的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 不穩定的, 易變的",
+    "def": ""
+   }
+  ]
+ },
+ "labor": {
+  "ph": "/'leibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞動, 努力, 工作, 勞工, 分娩",
+    "def": "a social class comprising those who do manual labor or work for wages"
+   },
+   {
+    "pos": "vi.",
+    "zh": "勞動, 努力, 苦幹",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "詳細分析, 使厭煩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 labors｜現在分詞 laboring｜過去式 labored｜第三人稱單數 labors｜過去分詞 labored"
+ },
+ "laboratory": {
+  "ph": "/'læbrәtәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實驗室, 研究室, 化工廠",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 實驗室, 檢驗室, 化驗室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laboratories"
+ },
+ "labored": {
+  "ph": "/'leibәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吃力的, 緩慢的, 不自然的, 矯揉造作的",
+    "def": ""
+   }
+  ]
+ },
+ "laborer": {
+  "ph": "/'leibәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "體力勞動者, 輔助工",
+    "def": "someone who works with their hands; someone engaged in manual labor"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 勞動者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laborers"
+ },
+ "laboring": {
+  "ph": "/'leibәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "勞動的",
+    "def": ""
+   }
+  ]
+ },
+ "laborious": {
+  "ph": "/lә'bɒ:riәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "艱苦的, 費勁的, 勤勞的",
+    "def": ""
+   }
+  ]
+ },
+ "laboriously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "辛苦地；費力地；不流暢地",
+    "def": ""
+   }
+  ]
+ },
+ "labour": {
+  "ph": "/'leibә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞動, 努力, 工作, 勞工, 分娩",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "勞動, 努力, 苦幹",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "詳細分析, 使厭煩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 labours｜現在分詞 labouring｜過去式 laboured｜過去分詞 laboured｜第三人稱單數 labours"
+ },
+ "labour force": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "勞動力",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 勞動力",
+    "def": ""
+   }
+  ]
+ },
+ "labour market": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "勞動力市場",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 勞動力市場",
+    "def": ""
+   }
+  ]
+ },
+ "laboured": {
+  "ph": "/'leibәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吃力的, 緩慢的, 不自然的, 矯揉造作的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 laboured｜過去式 laboured"
+ },
+ "labourer": {
+  "ph": "/'leibәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞動者, 幹體力工作的工人, 勞工",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 勞動者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 labourers"
+ },
+ "labouring": {
+  "ph": "/'leibәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞動, 操勞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 labouring"
+ },
+ "labourism": {
+  "ph": "/'leibərizəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工黨(尤指英國工黨)的政策, 工黨原則, 工黨宗旨；[l-]工黨",
+    "def": ""
+   }
+  ]
+ },
+ "labrador": {
+  "ph": "/'læbrәdɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紐芬蘭拾貘",
+    "def": "the mainland part of the province of Newfoundland and Labrador in the eastern part of the large Labrador-Ungava Peninsula in northeastern Canada"
+   }
+  ],
+  "forms": "複數 labradors"
+ },
+ "labrum": {
+  "ph": "/'leibrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "上唇",
+    "def": "A lip or edge, as of a basin."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 唇, 緣, 上唇(昆蟲)",
+    "def": ""
+   }
+  ]
+ },
+ "laburnum": {
+  "ph": "/lә'bә:nәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金鍊花",
+    "def": "flowering shrubs or trees having bright yellow flowers; all parts of the plant are poisonous"
+   }
+  ],
+  "forms": "複數 laburnums"
+ },
+ "labyrinth": {
+  "ph": "/'læbәrinθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迷宮, 難解事物, 迷路",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 迷宮; 曲徑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 labyrinths"
+ },
+ "labyrinthine": {
+  "ph": "/,læbә'rinθain, -θin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 迷路的",
+    "def": ""
+   }
+  ]
+ },
+ "lac": {
+  "ph": "/læk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紫膠, 十萬, 許多",
+    "def": "resinlike substance secreted by certain lac insects; used in e.g. varnishes and sealing wax"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蟲膠, 蟲漆, 乳",
+    "def": ""
+   }
+  ]
+ },
+ "lacan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拉康",
+    "def": ""
+   }
+  ]
+ },
+ "lace": {
+  "ph": "/leis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飾帶, 花邊, 緞帶, 鞋帶",
+    "def": "a cord that is drawn through eyelets or around hooks in order to draw together two edges (as of a shoe or garment)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "結帶子, 飾以花邊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "繫帶子",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 全穿孔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laces｜過去分詞 laced｜過去式 laced｜現在分詞 lacing｜第三人稱單數 laces"
+ },
+ "laced": {
+  "ph": "/leist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用帶子束緊了的, 飾有花邊的",
+    "def": "closed with a lace"
+   }
+  ],
+  "forms": "過去式 laced"
+ },
+ "lacerate": {
+  "ph": "/'læsәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "劃破, 割破, 使痛心, 撕碎",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "撕碎的, 受折磨的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lacerating｜過去分詞 lacerated｜過去式 lacerated｜第三人稱單數 lacerates"
+ },
+ "lacerated": {
+  "ph": "/'læsәreitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "撕裂的, 割碎的,受傷的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 lacerated"
+ },
+ "laceration": {
+  "ph": "/.læsә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劃破, 割破, 裂傷撕碎",
+    "def": "a torn ragged wound"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 撕裂, 裂傷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lacerations"
+ },
+ "lacewing": {
+  "ph": "/'leis,wiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草蜻蛉",
+    "def": "any of two families of insects with gauzy wings (Chrysopidae and Hemerobiidae); larvae feed on insect pests such as aphids"
+   }
+  ],
+  "forms": "複數 lacewings｜現在分詞 lacewing"
+ },
+ "lacework": {
+  "ph": "/'leisw\\\\\\\\:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網眼針織物, 花邊",
+    "def": "work consisting of (or resembling) lace fabric"
+   }
+  ]
+ },
+ "lacey": {
+  "ph": "/'leisi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "花邊的",
+    "def": ""
+   }
+  ]
+ },
+ "lachlan": {
+  "ph": "/'læklən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉克蘭河（位於澳大利亞東南部）",
+    "def": ""
+   }
+  ]
+ },
+ "lachrymose": {
+  "ph": "/'lækrimәus/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛哭的, 悲哀的",
+    "def": ""
+   }
+  ]
+ },
+ "lacing": {
+  "ph": "/'leisiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 全穿孔",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lacing｜複數 lacings"
+ },
+ "lack": {
+  "ph": "/læk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "缺乏, 無, 不足",
+    "def": "the state of needing something that is absent or unavailable"
+   },
+   {
+    "pos": "vt.",
+    "zh": "缺乏, 短少, 不足, 需要",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "缺乏",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lacking｜過去式 lacked｜第三人稱單數 lacks｜過去分詞 lacked"
+ },
+ "lackadaisical": {
+  "ph": "/.lækә'deizikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懶洋洋的, 愁悶的, 傷感的",
+    "def": ""
+   }
+  ]
+ },
+ "lackey": {
+  "ph": "/'læki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "僕人, 侍從, 馬屁精",
+    "def": "a male servant (especially a footman)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "服侍, 侍候, 奉承",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lackeys"
+ },
+ "lacking": {
+  "ph": "/'lækiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "缺乏的, 不足的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lacking｜複數 lackings"
+ },
+ "lackluster": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沒有光澤的, 無生氣的, 平凡的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "無光澤, 無生氣, 暗淡",
+    "def": ""
+   }
+  ]
+ },
+ "lacklustre": {
+  "ph": "/'læklʌstә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無光澤的, 無生氣的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "無光澤, 無生氣",
+    "def": ""
+   }
+  ]
+ },
+ "laconic": {
+  "ph": "/lә'kɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "簡潔的, 簡明的",
+    "def": ""
+   }
+  ]
+ },
+ "laconically": {
+  "ph": "/lә'kɒnikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "簡潔地",
+    "def": ""
+   }
+  ]
+ },
+ "lacquer": {
+  "ph": "/'lækә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瓷漆, 漆, 漆器",
+    "def": "a black resinous substance obtained from certain trees and used as a natural varnish"
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗漆",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lacquered｜複數 lacquers｜過去分詞 lacquered｜現在分詞 lacquering｜第三人稱單數 lacquers"
+ },
+ "lacquered": {
+  "ph": "/ˈlækəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "塗漆於( lacquer的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lacquered｜過去分詞 lacquered"
+ },
+ "lacrimal": {
+  "ph": "/'lækrimәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淚的, 流淚的, 啜泣的, 淚腺的",
+    "def": "of or relating to tears"
+   },
+   {
+    "pos": "n.",
+    "zh": "淚壺, 淚腺",
+    "def": ""
+   }
+  ]
+ },
+ "lacroix": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lacroix)人名；(法、西)拉克魯瓦",
+    "def": ""
+   }
+  ]
+ },
+ "lacrosse": {
+  "ph": "/lә'krɒs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長曲棍球",
+    "def": "a game invented by American Indians; now played by two teams who use long-handled rackets to catch and carry and throw the ball toward the opponents' goal"
+   }
+  ]
+ },
+ "lactase": {
+  "ph": "/'lækteis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳糖酶",
+    "def": "any of a group of enzymes (trade name Lactaid) that hydrolyze lactose to glucose and galactose"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 乳糖酶",
+    "def": ""
+   }
+  ]
+ },
+ "lactate": {
+  "ph": "/'lækteit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "分泌乳汁, 授乳",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "乳酸鹽",
+    "def": "a salt or ester of lactic acid"
+   }
+  ],
+  "forms": "現在分詞 lactating｜第三人稱單數 lactates｜複數 lactates｜過去式 lactated｜過去分詞 lactated"
+ },
+ "lactating": {
+  "ph": "/ˈlækˌteɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（指哺乳動物）分泌乳汁( lactate的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lactating"
+ },
+ "lactation": {
+  "ph": "/læk'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分泌乳汁, 授乳, 哺乳",
+    "def": "the period following birth during which milk is secreted"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 哺乳, 授乳, 泌乳",
+    "def": ""
+   }
+  ]
+ },
+ "lactic": {
+  "ph": "/'læktik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "乳的, 乳汁的, 由乳汁取得的",
+    "def": "of or relating to or obtained from milk (especially sour milk or whey)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 乳的",
+    "def": ""
+   }
+  ]
+ },
+ "lactose": {
+  "ph": "/'læktәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳糖",
+    "def": "a sugar comprising one glucose molecule linked to a galactose molecule; occurs only in milk"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 乳糖",
+    "def": ""
+   }
+  ]
+ },
+ "lacuna": {
+  "ph": "/lә'kju:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空白, 空隙, 闕文",
+    "def": "a blank gap or missing part"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腔隙, 陷窩",
+    "def": ""
+   }
+  ]
+ },
+ "lacunae": {
+  "ph": "/lә'kju:ni:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "lacuna 的複數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lacunae"
+ },
+ "lacustrine": {
+  "ph": "/lә'kʌstriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "湖泊的, 湖上的",
+    "def": "of or relating to or living near lakes"
+   }
+  ]
+ },
+ "lacy": {
+  "ph": "/'leisi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絲帶的, 花邊的, 花邊狀的",
+    "def": ""
+   }
+  ]
+ },
+ "lad": {
+  "ph": "/læd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "青年, 傢伙, 少年, 情人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lads"
+ },
+ "lada": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉達（姓名）",
+    "def": ""
+   }
+  ]
+ },
+ "ladbroke": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ladbroke)人名；(英)拉德布魯克",
+    "def": ""
+   }
+  ]
+ },
+ "ladbrokes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ladbrokes)人名；(英)拉德布魯克斯",
+    "def": ""
+   }
+  ]
+ },
+ "ladd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊德（姓）",
+    "def": ""
+   }
+  ]
+ },
+ "ladder": {
+  "ph": "/'lædә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梯, 梯狀物, 發跡的途徑",
+    "def": "steps consisting of two parallel members connected by rungs; for climbing up or down"
+   },
+   {
+    "pos": "vi.",
+    "zh": "襪子抽絲, 成名",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ladders｜過去分詞 laddered｜過去式 laddered｜現在分詞 laddering｜第三人稱單數 ladders"
+ },
+ "laddie": {
+  "ph": "/'lædi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<主蘇>少年, 年青人,老弟(表示親密的稱呼)",
+    "def": ""
+   }
+  ]
+ },
+ "laden": {
+  "ph": "/'leidn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "裝滿的, 負載的, 苦惱的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "lade的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 laden｜現在分詞 lading｜過去式 laded｜第三人稱單數 lades"
+ },
+ "lading": {
+  "ph": "/'leidiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝載, 裝船, 船貨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 裝貨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ladings"
+ },
+ "ladislav": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ladislav)人名；(捷)拉吉斯拉夫；(塞、法)拉迪斯拉夫；(俄)拉季斯拉夫",
+    "def": ""
+   }
+  ]
+ },
+ "ladle": {
+  "ph": "/'leidl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勺子, 長柄勺",
+    "def": "a spoon-shaped vessel with a long handle; frequently used to transfer liquids from one container to another"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以勺舀取, 以勺掬, 不分物件予以贈送",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 ladled｜複數 ladles｜現在分詞 ladling｜第三人稱單數 ladles｜過去分詞 ladled"
+ },
+ "ladleful": {
+  "ph": "/'leidlful/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滿勺",
+    "def": "A quantity sufficient to fill a ladle."
+   }
+  ]
+ },
+ "lady": {
+  "ph": "/'leidi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淑女, 夫人, 女士, 貴婦",
+    "def": "a polite name for any woman"
+   }
+  ],
+  "forms": "複數 ladies"
+ },
+ "ladybird": {
+  "ph": "/'leidibә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瓢蟲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ladybirds"
+ },
+ "ladybug": {
+  "ph": "/'leidibʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瓢蟲",
+    "def": "small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests"
+   }
+  ]
+ },
+ "ladylike": {
+  "ph": "/'leidilaik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嫻淑的, 如淑女的, 高雅的",
+    "def": ""
+   }
+  ]
+ },
+ "ladyship": {
+  "ph": "/'leidiʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貴婦身分, 夫人, 小姐",
+    "def": "a title used to address any peeress except a duchess"
+   }
+  ]
+ },
+ "lafayette": {
+  "ph": "/.lɑ:fei'et/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉斐特（美國印地安納州西部城市）；老佛爺（法國百貨公司）；三刺光鯧",
+    "def": "French soldier who served under George Washington in the American Revolution (1757-1834)"
+   }
+  ]
+ },
+ "lafferty": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lafferty)人名；(英)拉弗蒂",
+    "def": ""
+   }
+  ]
+ },
+ "lafontaine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lafontaine)人名；(英)拉方丹；(法、德)拉方丹",
+    "def": ""
+   }
+  ]
+ },
+ "lag": {
+  "ph": "/læg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "落後, 囚犯, 遲延, 桶板, 防護套",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "最後的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "落後, 蹣跚, 緩緩而行, 滯後",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "落後於, 押往監獄, 加上外套",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 延遲; 落後",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lagging｜第三人稱單數 lags｜複數 lags｜過去分詞 lagged｜過去式 lagged"
+ },
+ "lagan": {
+  "ph": "/'læ^әn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 繫有浮標的投海貨物",
+    "def": ""
+   }
+  ]
+ },
+ "lager": {
+  "ph": "/'lɑ:gә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貯陳啤酒",
+    "def": "a general term for beer made with bottom fermenting yeast (usually by decoction mashing); originally it was brewed in March or April and matured until September"
+   }
+  ],
+  "forms": "複數 lagers｜過去分詞 lagered｜過去式 lagered"
+ },
+ "lagerfeld": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拉格斐（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "laggard": {
+  "ph": "/'lægәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遲鈍者, 落後者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "遲鈍的, 落後的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laggards"
+ },
+ "lagged": {
+  "ph": "/læɡd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "走得極慢, 落後( lag的過去式和過去分詞 ); 給（管道等）加防凍保暖層",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lagged｜過去分詞 lagged"
+ },
+ "lagging": {
+  "ph": "/'lægiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遲鈍, 落後, 防護套",
+    "def": "used to wrap around pipes or boilers or laid in attics to prevent loss of heat"
+   },
+   {
+    "pos": "adj.",
+    "zh": "遲鈍的, 落後的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lagging"
+ },
+ "lagniappe": {
+  "ph": "/læn'jæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小贈品",
+    "def": "a small gift (especially one given by a merchant to a customer who makes a purchase)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 免費贈品, 商人給顧客的小贈品",
+    "def": ""
+   }
+  ]
+ },
+ "lago": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湖泊",
+    "def": ""
+   }
+  ]
+ },
+ "lagoon": {
+  "ph": "/lә'^u:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "環礁湖, 近海岸的淺水區, 瀉湖, 鹹水湖",
+    "def": "a body of water cut off from a larger body by a reef of sand or coral"
+   }
+  ],
+  "forms": "複數 lagoons"
+ },
+ "lagos": {
+  "ph": "/'lɑ:gәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉各斯(奈及利亞的首都)",
+    "def": "chief port and economic center of Nigeria; located in southwestern Nigeria on the Gulf of Guinea; former capital of Nigeria"
+   }
+  ]
+ },
+ "lagrangian": {
+  "ph": "/lә'^rændʒiәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 拉格朗日; 拉格朗日量",
+    "def": ""
+   }
+  ]
+ },
+ "laguna": {
+  "ph": "/lә'ɡu:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小池；小湖",
+    "def": ""
+   }
+  ]
+ },
+ "lahore": {
+  "ph": "/lә'hɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉合爾（巴基斯坦城市）",
+    "def": "city in northeast Pakistan"
+   }
+  ]
+ },
+ "lai": {
+  "ph": "/lai/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "義大利航空公司（Linee Aeree Italiane）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lai"
+ },
+ "laid": {
+  "ph": "/leid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "lay的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 laid｜過去分詞 laid"
+ },
+ "laid-back": {
+  "ph": "/ˌleidˈbæk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懶散的; 悠閒的",
+    "def": ""
+   }
+  ]
+ },
+ "laidlaw": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊德勞（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "laine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊恩（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "laing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊恩（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "lair": {
+  "ph": "/lєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獸穴, 獸窩, 泥潭",
+    "def": "the habitation of wild animals"
+   },
+   {
+    "pos": "vi.",
+    "zh": "進入獸穴, 在泥中打滾",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "放於穴中, 使陷入泥潭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lairs"
+ },
+ "laird": {
+  "ph": "/lєәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地主, 領主",
+    "def": "a landowner"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 地主",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lairds"
+ },
+ "laissez-faire": {
+  "ph": "/lei'sei'fєәr/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自由放任的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "放任政策",
+    "def": ""
+   }
+  ]
+ },
+ "laity": {
+  "ph": "/'leiәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俗人, 外行",
+    "def": "in Christianity, members of a religious community that do not have the priestly responsibilities of ordained clergy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外行[人]",
+    "def": ""
+   }
+  ]
+ },
+ "lakatos": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lakatos)人名；(瑞典、英)拉卡託斯；(羅、匈)拉卡託什",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "拉卡託斯",
+    "def": ""
+   }
+  ]
+ },
+ "lake": {
+  "ph": "/leik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湖, 池, 色澱",
+    "def": "a body of (usually fresh) water surrounded by land"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)血球溶解",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lakes"
+ },
+ "lakefront": {
+  "ph": "/'leikfrʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湖邊平地, 湖邊, 湖畔",
+    "def": "land bordering a lake"
+   }
+  ]
+ },
+ "lakeland": {
+  "ph": "/'leiklәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湖泊地區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lakelands"
+ },
+ "laker": {
+  "ph": "/'leikә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湖畔派詩人；習慣於在湖上居住（或工作, 航行）的人；湖魚（尤指鮭魚）；湖船（尤指北美洲五大湖上的船）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lakers"
+ },
+ "lakes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "色澱；湖泊, 湖畔",
+    "def": ""
+   }
+  ]
+ },
+ "lakeshore": {
+  "ph": "/'leikʃɔ:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湖岸",
+    "def": ""
+   }
+  ]
+ },
+ "lakeside": {
+  "ph": "/'leiksaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湖邊",
+    "def": "the shore of a lake"
+   }
+  ]
+ },
+ "lal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lal)人名；(西、羅、印、尼、瑞典、巴基、阿富)拉爾",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "鱟阿米巴樣細胞溶解物（Limulus Amebocyte Lysate）；區內接駁連線（Local Access Link）；洛杉磯湖人（Los Angeles Lakers）",
+    "def": ""
+   }
+  ]
+ },
+ "lally": {
+  "ph": "/'lɑ:li/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[建]拉萊柱(中間澆注混凝土的鋼圓柱)",
+    "def": "support column consisting of a steel cylinder filled with concrete"
+   }
+  ],
+  "forms": "複數 lallies"
+ },
+ "lam": {
+  "ph": "/læm/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "打, 鞭笞, 逃脫",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "逃亡",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lamming｜過去分詞 lammed｜過去式 lammed｜第三人稱單數 lams"
+ },
+ "lama": {
+  "ph": "/'lɑ:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喇嘛",
+    "def": "a Tibetan or Mongolian priest of Lamaism"
+   }
+  ],
+  "forms": "複數 lamas"
+ },
+ "lamarckian": {
+  "ph": "/lә'mɑ:kiәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 拉馬克氏的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lamarckians"
+ },
+ "lamarckism": {
+  "ph": "/lә'mɑ:kizәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 拉馬克氏學說(後天特性可能遺傳)",
+    "def": ""
+   }
+  ]
+ },
+ "lamb": {
+  "ph": "/læm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小羊, 羔羊",
+    "def": "young sheep"
+   },
+   {
+    "pos": "v.",
+    "zh": "產羊羔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lambs｜現在分詞 lambing｜過去式 lambed｜第三人稱單數 lambs｜過去分詞 lambed"
+ },
+ "lambada": {
+  "ph": "/læmˈbɑ:də/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭巴達（巴西的一種貼身舞）",
+    "def": ""
+   }
+  ]
+ },
+ "lambast": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "鞭打, 狠打, 嚴厲責罵",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 害草淨",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lambasted｜現在分詞 lambasting｜過去分詞 lambasted｜第三人稱單數 lambasts"
+ },
+ "lambaste": {
+  "ph": "/læm'beist/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "痛打, 嚴責",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lambasting｜過去式 lambasted｜第三人稱單數 lambasts｜過去分詞 lambasted"
+ },
+ "lambda": {
+  "ph": "/'læmdә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希臘語的第11個字母(Λλ)",
+    "def": "the 11th letter of the Greek alphabet"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人字縫尖",
+    "def": ""
+   }
+  ]
+ },
+ "lambent": {
+  "ph": "/'læmbәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "輕輕搖曳的, 柔和而光亮的, 巧妙的",
+    "def": ""
+   }
+  ]
+ },
+ "lambert": {
+  "ph": "/'læmbә(:)t/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 蘭伯特",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 朗伯(亮度單位)",
+    "def": ""
+   }
+  ]
+ },
+ "lambeth": {
+  "ph": "/'læmbәθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "倫敦坎特伯雷大主教官邸, 倫敦朗伯斯區",
+    "def": ""
+   }
+  ]
+ },
+ "lambing": {
+  "ph": "/'læmɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "產羔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lambings｜現在分詞 lambing"
+ },
+ "lamborghini": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公司建立於1962年; 以建立人蘭伯基尼命名; 蘭博基尼(LAMBORGHINI)的標誌是一頭公牛; 義大利世界名車：蘭博基尼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lamborghini"
+ },
+ "lambskin": {
+  "ph": "/'læmskin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小羊皮, 羊皮紙",
+    "def": "the skin of a lamb with the wool still on"
+   }
+  ],
+  "forms": "複數 lambskins"
+ },
+ "lambswool": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 羔毛織物",
+    "def": ""
+   }
+  ]
+ },
+ "lambton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lambton)人名；(英)蘭布頓",
+    "def": ""
+   }
+  ]
+ },
+ "lame": {
+  "ph": "/leim/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "跛足的, 僵痛的, 不完全的, 金屬薄板, 不知內情的人",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變跛",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成殘廢, 使無用",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 lames｜過去分詞 lamed｜過去式 lamed｜現在分詞 laming｜最高級 lamest｜比較級 lamer"
+ },
+ "lamely": {
+  "ph": "/'leimli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "一瘸一拐地, 不完全地",
+    "def": ""
+   }
+  ]
+ },
+ "lameness": {
+  "ph": "/'leimnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跛, 瘸, 殘廢",
+    "def": "disability of walking due to crippling of the legs or feet"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 跛, 跛行",
+    "def": ""
+   }
+  ]
+ },
+ "lament": {
+  "ph": "/lә'ment/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "悲嘆, 悔恨, 慟哭, 輓歌, 悼詞",
+    "def": "a cry of sorrow and grief"
+   },
+   {
+    "pos": "vt.",
+    "zh": "哀悼",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "悔恨, 悲嘆",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lamented｜第三人稱單數 laments｜現在分詞 lamenting｜過去分詞 lamented｜複數 laments"
+ },
+ "lamentable": {
+  "ph": "/'læmәntәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可悲的, 哀傷的, 可憐的",
+    "def": ""
+   }
+  ]
+ },
+ "lamentably": {
+  "ph": "/'læməntəblɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "哀傷地, 拙劣地",
+    "def": ""
+   }
+  ]
+ },
+ "lamentation": {
+  "ph": "/.læmәn'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "悲嘆, 哀悼",
+    "def": "the passionate and demonstrative activity of expressing grief"
+   }
+  ],
+  "forms": "複數 lamentations"
+ },
+ "lamented": {
+  "ph": "/lә'mentid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人遺憾的；被哀悼的",
+    "def": "mourned or grieved for"
+   }
+  ],
+  "forms": "過去式 lamented"
+ },
+ "lamina": {
+  "ph": "/'læminә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄板, 薄片, 薄層, 葉片",
+    "def": "a thin plate or layer (especially of bone or mineral)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 板, 層, 葉片(植物)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laminas"
+ },
+ "laminar": {
+  "ph": "/'læminә(r)/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "板, 薄層, 薄片, 層",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 板狀的, 層狀的",
+    "def": ""
+   }
+  ]
+ },
+ "laminate": {
+  "ph": "/'læmineit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "製成薄板, 製成箔",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "分成薄片",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "薄板狀的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "層積塑膠板, 薄片製品",
+    "def": "a sheet of material made by bonding two or more sheets or layers"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 層壓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laminates｜過去式 laminated｜現在分詞 laminating｜過去分詞 laminated｜第三人稱單數 laminates"
+ },
+ "laminated": {
+  "ph": "/'læmineitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用薄片層壓制成, 切成薄片, 把...分成薄片, 由薄片迭成/覆蓋的, 層壓板",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 層壓的, 疊層的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 laminated｜過去式 laminated"
+ },
+ "lamination": {
+  "ph": "/.læmi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "層積, 薄板",
+    "def": "a layered structure"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 層裂; 分層",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laminations"
+ },
+ "laminin": {
+  "ph": "/'leɪmɪnɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "層粘連蛋白, 基板糖蛋白",
+    "def": ""
+   }
+  ]
+ },
+ "lamont": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拉蒙特",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "馬尼拉麻",
+    "def": ""
+   }
+  ]
+ },
+ "lamp": {
+  "ph": "/læmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燈",
+    "def": "an artificial source of visible illumination"
+   },
+   {
+    "pos": "vt.",
+    "zh": "照亮",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 邏輯模擬分析系統",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lamps"
+ },
+ "lampard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭帕德（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "lamplight": {
+  "ph": "/'læmplait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燈火",
+    "def": "light from a lamp"
+   }
+  ]
+ },
+ "lamplighter": {
+  "ph": "/'læmplaitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(點燃街燈的)燈夫, 點燈器",
+    "def": "(when gas was used for streetlights) a person who lights and extinguishes streetlights"
+   }
+  ]
+ },
+ "lamplit": {
+  "ph": "/'læmplit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "用燈光照明的",
+    "def": ""
+   }
+  ]
+ },
+ "lampoon": {
+  "ph": "/læm'pu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "諷刺文",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "諷刺",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lampooned｜過去分詞 lampooned｜現在分詞 lampooning｜複數 lampoons｜第三人稱單數 lampoons"
+ },
+ "lamppost": {
+  "ph": "/'læmpәust/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "街燈柱",
+    "def": "a metal post supporting an outdoor lamp (such as a streetlight)"
+   }
+  ],
+  "forms": "複數 lampposts"
+ },
+ "lamprey": {
+  "ph": "/'læmpri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "八目鰻",
+    "def": "primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue"
+   }
+  ],
+  "forms": "複數 lampreys"
+ },
+ "lampshade": {
+  "ph": "/'læmpʃeid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燈罩",
+    "def": "a protective ornamental shade used to screen a light bulb from direct view"
+   }
+  ],
+  "forms": "複數 lampshades"
+ },
+ "lan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "區域性區域網路, 區域網, 本地網",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 區域性區域網路, 區域性網, 局網, 區域網",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lans"
+ },
+ "lanai": {
+  "ph": "/lɑ:'nɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "涼臺, 門廊",
+    "def": "an island of central Hawaii; a pineapple-growing area"
+   }
+  ],
+  "forms": "複數 lanai"
+ },
+ "lanark": {
+  "ph": "/'lænək/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉納克（英國蘇格蘭中南部的一個郡, 等於Lanarkshire）",
+    "def": ""
+   }
+  ]
+ },
+ "lanarkshire": {
+  "ph": "/'lænәkʃә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拉納克郡[英國蘇格蘭原郡名]",
+    "def": ""
+   }
+  ]
+ },
+ "lancashire": {
+  "ph": "/'læŋkәʃiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭開夏郡(英格蘭郡名)",
+    "def": "a historical area of northwestern England on the Irish Sea; noted for textiles"
+   }
+  ]
+ },
+ "lancaster": {
+  "ph": "/'læŋkәstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭開斯特（美國成市）",
+    "def": "a city in northwestern England"
+   }
+  ]
+ },
+ "lancastrian": {
+  "ph": "/læŋ'kæstriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蘭開斯特王朝的, 蘭開夏人的",
+    "def": "of or relating to the former English royal house or their supporters"
+   },
+   {
+    "pos": "n.",
+    "zh": "蘭開斯特, 蘭開夏人",
+    "def": "a member (or supporter) of the house of Lancaster"
+   }
+  ],
+  "forms": "複數 lancastrians"
+ },
+ "lance": {
+  "ph": "/lɑ:ns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長矛, 柳葉刀, 執矛戰士",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "以長矛攻擊, 衝進",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "急進",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lances｜過去式 lanced｜現在分詞 lancing｜過去分詞 lanced｜第三人稱單數 lances"
+ },
+ "lancelot": {
+  "ph": "/'lɑ:nsәlәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭斯洛特(亞瑟王武士)",
+    "def": "(Arthurian legend) one of the knights of the Round Table; friend of King Arthur until (according to some versions of the legend) he became the lover of Arthur's"
+   }
+  ]
+ },
+ "lancer": {
+  "ph": "/'lɑ:nsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使用長矛的騎兵, 蘭謝舞",
+    "def": "(formerly) a cavalryman armed with a lance"
+   }
+  ],
+  "forms": "複數 lancers"
+ },
+ "lancet": {
+  "ph": "/'lɑ:nsit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刺血針, 小槍, 尖頂窗",
+    "def": "a surgical knife with a pointed double-edged blade; used for punctures and small incisions"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 柳葉刀, 小刀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lancets"
+ },
+ "lanchester": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lanchester)人名；(英)蘭徹斯特",
+    "def": ""
+   }
+  ]
+ },
+ "lancia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藍旗亞（義大利產轎車品牌名）",
+    "def": ""
+   }
+  ]
+ },
+ "lancing": {
+  "ph": "/'lɑ:nsiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "切縫, 氣切割",
+    "def": ""
+   }
+  ]
+ },
+ "lancs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "蘭開夏郡（Lancashire）",
+    "def": ""
+   }
+  ]
+ },
+ "land": {
+  "ph": "/lænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陸地, 地面, 地界, 地產, 國土, 土地",
+    "def": "the land on which real estate is located"
+   },
+   {
+    "pos": "vi.",
+    "zh": "登陸, 登岸, 到達",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使上岸, 使登陸, 使到達",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 連線盤; 焊盤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lands｜過去式 landed｜過去分詞 landed｜現在分詞 landing｜第三人稱單數 lands"
+ },
+ "landau": {
+  "ph": "/'lændɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙排座四輪馬車, 雙排座敞篷轎車",
+    "def": "Soviet physicist who worked on low temperature physics (1908-1968)"
+   }
+  ],
+  "forms": "複數 landaus"
+ },
+ "landed": {
+  "ph": "/'lændid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "擁有土地的, 有田地的",
+    "def": "owning or consisting of land or real estate"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 不動產的, 擁有土地的, 地皮的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 landed｜過去分詞 landed"
+ },
+ "lander": {
+  "ph": "/'lændә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出鐵槽；著陸器；把鉤工人",
+    "def": "a town in central Wyoming"
+   }
+  ],
+  "forms": "複數 landers"
+ },
+ "landes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭德斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "landfall": {
+  "ph": "/'lændfɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "初見陸地, 到達陸地, 著陸",
+    "def": "the seacoast first sighted on a voyage (or flight over water)"
+   }
+  ],
+  "forms": "複數 landfalls"
+ },
+ "landfill": {
+  "ph": "/'lændfil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "垃圾堆；垃圾填埋地",
+    "def": "a low area that has been filled in"
+   }
+  ],
+  "forms": "複數 landfills"
+ },
+ "landfilling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "用垃圾填（landfill的現在分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "landform": {
+  "ph": "/'lændfɒ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地形",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landforms"
+ },
+ "landholder": {
+  "ph": "/'lændhәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地主, 借地人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landholders"
+ },
+ "landholding": {
+  "ph": "/'lændhәuldiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "土地所有的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landholdings｜現在分詞 landholding"
+ },
+ "landing": {
+  "ph": "/'lændiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "登陸, 碼頭, 降落",
+    "def": "an intermediate platform in a staircase"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 上岸, 登陸, 降落",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 landing｜複數 landings"
+ },
+ "landlady": {
+  "ph": "/'lændleidi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女房東, 女地主",
+    "def": "a landlord who is a woman"
+   }
+  ],
+  "forms": "複數 landladies"
+ },
+ "landless": {
+  "ph": "/'lændlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無土地的, 無土地所有權的",
+    "def": "owning no land"
+   }
+  ]
+ },
+ "landline": {
+  "ph": "/'lændlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輸送路線, 地上通訊線, 地平線",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 陸線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landlines"
+ },
+ "landlock": {
+  "ph": "/'lændlɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內陸國",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 landlocked｜過去分詞 landlocked｜現在分詞 landlocking"
+ },
+ "landlocked": {
+  "ph": "/'lændlɔkt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被陸地圍住的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 landlocked"
+ },
+ "landlord": {
+  "ph": "/'lændlɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "房東, 地主",
+    "def": "a landowner who leases to others"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 業主, 地主, 房東",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landlords"
+ },
+ "landlordism": {
+  "ph": "/'lændlɔ:dizәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 地主所有制",
+    "def": ""
+   }
+  ]
+ },
+ "landlubber": {
+  "ph": "/'lændlʌbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新水手, 不習慣航海的人",
+    "def": "a person who lives and works on land"
+   }
+  ],
+  "forms": "複數 landlubbers"
+ },
+ "landmark": {
+  "ph": "/'lændmɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陸標, 劃時代的事, 地界標",
+    "def": "the position of a prominent or well-known object in a particular landscape"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 界標",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landmarks｜現在分詞 landmarking"
+ },
+ "landmass": {
+  "ph": "/'lændmæs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陸塊",
+    "def": "a large continuous extent of land"
+   }
+  ],
+  "forms": "複數 landmasses"
+ },
+ "landmine": {
+  "ph": "/ˈlændmaɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地雷, 投傘水雷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landmines"
+ },
+ "landon": {
+  "ph": "/'lændәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[姓氏] 蘭德勒",
+    "def": ""
+   }
+  ]
+ },
+ "landor": {
+  "ph": "/'lændɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[姓氏] 蘭道",
+    "def": ""
+   }
+  ]
+ },
+ "landowner": {
+  "ph": "/'lændәunә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地主",
+    "def": "a holder or proprietor of land"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 土地所有人, 地主",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landowners"
+ },
+ "landownership": {
+  "ph": "/'lænd,әjnәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土地所有",
+    "def": ""
+   }
+  ]
+ },
+ "landowning": {
+  "ph": "/'lænd,әjniŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "擁有土地的, 有關土地所有權的",
+    "def": "Having property in land; of or pertaining to"
+   },
+   {
+    "pos": "n.",
+    "zh": "作為地主",
+    "def": "The owning of land."
+   }
+  ]
+ },
+ "landrover": {
+  "ph": "/'lændrәuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多用途越野車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landrovers"
+ },
+ "landsat": {
+  "ph": "/'lændsæt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 地球衛星",
+    "def": ""
+   }
+  ]
+ },
+ "landscape": {
+  "ph": "/'lændskeip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風景, 山水, 風景畫",
+    "def": "an expanse of scenery that can be seen in a single view"
+   },
+   {
+    "pos": "vi.",
+    "zh": "從事景觀美化",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "美化...景觀",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 橫向",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landscapes｜過去分詞 landscaped｜現在分詞 landscaping｜過去式 landscaped｜第三人稱單數 landscapes"
+ },
+ "landscaped": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對…做景觀美化, 給…做園林美化（landscape的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 landscaped"
+ },
+ "landscaper": {
+  "ph": "/'lænd.skeipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "庭園設計家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landscapers"
+ },
+ "landscaping": {
+  "ph": "/'lænd.skeipiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "景觀美化",
+    "def": "working as a landscape gardener"
+   }
+  ],
+  "forms": "現在分詞 landscaping"
+ },
+ "landscapist": {
+  "ph": "/'lændskeipist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風景畫家",
+    "def": "someone who paints landscapes"
+   }
+  ]
+ },
+ "landseer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（姓氏）蘭西爾",
+    "def": ""
+   }
+  ]
+ },
+ "landslide": {
+  "ph": "/'lændslaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山崩",
+    "def": "an overwhelming electoral victory"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 滑坡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landslides｜現在分詞 landsliding"
+ },
+ "landslip": {
+  "ph": "/'lændslip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山崩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landslips｜現在分詞 landslipping"
+ },
+ "landsman": {
+  "ph": "/'lændzmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同胞, 未出過海的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 landsmen"
+ },
+ "landward": {
+  "ph": "/'lændwәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向陸的, 近陸的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向陸地",
+    "def": ""
+   }
+  ]
+ },
+ "lane": {
+  "ph": "/lein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小路, 巷, 弄, 單行道",
+    "def": "a narrow way or road"
+   }
+  ],
+  "forms": "複數 lanes"
+ },
+ "lanfranc": {
+  "ph": "/'lænfræŋk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "蘭費朗克(1005?～1089), 蘇格蘭坎特伯雷主教(1070～1089)",
+    "def": ""
+   }
+  ]
+ },
+ "lang": {
+  "ph": "/læŋ/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "語言（language）",
+    "def": ""
+   }
+  ]
+ },
+ "langan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "蘭根(人名姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "langdale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Langdale)人名；(英)蘭代爾",
+    "def": ""
+   }
+  ]
+ },
+ "langdon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "蘭登（人名、地名）",
+    "def": ""
+   }
+  ]
+ },
+ "lange": {
+  "ph": "/'læŋә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭格（姓氏）",
+    "def": "United States photographer remembered for her portraits of rural workers during the Depression (1895-1965)"
+   }
+  ],
+  "forms": "第三人稱單數 langes"
+ },
+ "langer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Langer)人名；(英)蘭格；(法、葡)朗熱；(德、俄、羅、匈、捷、波、塞)朗格爾；(瑞典、丹)朗厄",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "蘭格",
+    "def": ""
+   }
+  ]
+ },
+ "langford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Langford)人名；(德)朗福德；(英)蘭福德",
+    "def": ""
+   }
+  ]
+ },
+ "langham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Langham)人名；(英)蘭厄姆",
+    "def": ""
+   }
+  ]
+ },
+ "langland": {
+  "ph": "/'læŋlәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[姓氏] 朗蘭(英國詩人, 1332-1400)",
+    "def": ""
+   }
+  ]
+ },
+ "langley": {
+  "ph": "/'læŋli/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 蘭勒(太陽輻射或織物、塑膠耐曬牢度試驗的能通量單位)",
+    "def": ""
+   }
+  ]
+ },
+ "langoustine": {
+  "ph": "/lɑ:ŋ'^ustin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動] (挪威)海螯蝦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 langoustines"
+ },
+ "langton": {
+  "ph": "/'læŋtәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[姓氏] 蘭頓",
+    "def": ""
+   }
+  ]
+ },
+ "language": {
+  "ph": "/'læŋgwidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語言, 文字, 措辭",
+    "def": "a systematic means of communicating by the use of sounds or conventional symbols"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 語言",
+    "def": ""
+   }
+  ],
+  "forms": "複數 languages"
+ },
+ "langue": {
+  "ph": "/lɑ:ŋɡ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[語]語言（與parole“言語”相對）",
+    "def": ""
+   }
+  ]
+ },
+ "languedoc": {
+  "ph": "/lɔŋ^ә'dɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "郎格多克(古時法國南部一省)",
+    "def": ""
+   }
+  ]
+ },
+ "languid": {
+  "ph": "/'læŋgwid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "疲倦的, 無力的, 陰沉的",
+    "def": ""
+   }
+  ]
+ },
+ "languidly": {
+  "ph": "/'læŋɡwɪdlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "疲倦地; 陰沉地; 不感興趣地; 不活潑地",
+    "def": ""
+   }
+  ]
+ },
+ "languish": {
+  "ph": "/'læŋgwiʃ/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "憔悴, 凋萎, 苦思",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 languishing｜過去式 languished｜第三人稱單數 languishes｜過去分詞 languished｜複數 languishes"
+ },
+ "languishing": {
+  "ph": "/'læŋ^wiʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(疾病)長期拖延的, 焦思的, 苦苦渴望的, 含情脈脈的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 languishing"
+ },
+ "languor": {
+  "ph": "/'læŋgә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "怠惰, 疲倦, 無氣力",
+    "def": "a relaxed comfortable feeling"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 疲倦, 無力",
+    "def": ""
+   }
+  ]
+ },
+ "languorous": {
+  "ph": "/'læŋgәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "怠惰的, 疲倦的, 無力的",
+    "def": ""
+   }
+  ]
+ },
+ "languorously": {
+  "ph": "/'læŋgərəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "疲倦地, 鬱悶地",
+    "def": ""
+   }
+  ]
+ },
+ "langur": {
+  "ph": "/lʌŋ'guә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葉猴",
+    "def": "slender long-tailed monkey of Asia"
+   }
+  ],
+  "forms": "複數 langurs"
+ },
+ "lank": {
+  "ph": "/læŋk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "瘦的, 細長的, 長而柔軟的",
+    "def": ""
+   }
+  ]
+ },
+ "lanka": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭卡；楞伽",
+    "def": ""
+   }
+  ]
+ },
+ "lanky": {
+  "ph": "/'læŋki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "瘦長的",
+    "def": ""
+   }
+  ]
+ },
+ "lanolin": {
+  "ph": "/'lænәlin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羊毛脂",
+    "def": "a yellow viscous animal oil extracted from wool; a mixture of fatty acids and esters; used in some ointments and cosmetics"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 羊毛脂",
+    "def": ""
+   }
+  ]
+ },
+ "lansdowne": {
+  "ph": "/'lænzdajn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蘭絲唐呢絨",
+    "def": ""
+   }
+  ]
+ },
+ "lantana": {
+  "ph": "/læn'tɑ:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植] 馬櫻丹屬",
+    "def": "a flowering shrub"
+   }
+  ]
+ },
+ "lantau": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lantau)人名；(德)蘭陶",
+    "def": ""
+   }
+  ]
+ },
+ "lantern": {
+  "ph": "/'læntәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "燈籠, 提燈, 航標燈",
+    "def": "light in a transparent protective case"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝上提燈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lanterns"
+ },
+ "lanthanum": {
+  "ph": "/'lænθәnәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鑭",
+    "def": "a white soft metallic element that tarnishes readily; occurs in rare earth minerals and is usually classified as a rare earth"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鑭La",
+    "def": ""
+   }
+  ]
+ },
+ "lanyard": {
+  "ph": "/'lænjәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "系索",
+    "def": "a cord with an attached hook that is used to fire certain types of cannon"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 拉索",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lanyards"
+ },
+ "lanzarote": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lanzarote)人名；(西)蘭薩羅特",
+    "def": ""
+   }
+  ]
+ },
+ "lao": {
+  "ph": "/lau, 'lɑ:әu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寮國語；寮國人",
+    "def": "a member of a Buddhist people inhabiting the area of the Mekong River in Laos and Thailand and speaking the Lao language; related to the Thais"
+   }
+  ]
+ },
+ "laos": {
+  "ph": "/lauz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寮國",
+    "def": "a mountainous landlocked communist state in southeastern Asia; achieved independence from France in 1949"
+   }
+  ]
+ },
+ "laotian": {
+  "ph": "/lei'әuʃiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寮國的, 寮國人, 寮國語",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laotians"
+ },
+ "lap": {
+  "ph": "/læp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膝蓋, 舔, 一圈, 下襬, 衣兜, 山坳",
+    "def": "the upper side of the thighs of a seated person"
+   },
+   {
+    "pos": "vi.",
+    "zh": "重疊, 圍住, 輕拍, 舔",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "包圍, 抱...在膝上, 使重疊, 舔, 拍打, 潑濺",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 連結訪問程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laps｜過去分詞 lapped｜現在分詞 lapping｜過去式 lapped｜第三人稱單數 laps"
+ },
+ "lapa": {
+  "ph": "/'lɑ:pə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫][=leukocyte alkaline phosphatase activity]白細胞鹼性磷酸酶活性",
+    "def": ""
+   }
+  ]
+ },
+ "laparoscope": {
+  "ph": "/'læpәrәjskәjp/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腹腔鏡",
+    "def": ""
+   }
+  ]
+ },
+ "laparoscopic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]腹腔鏡檢查的",
+    "def": ""
+   }
+  ]
+ },
+ "laparoscopy": {
+  "ph": "/,læpә'rɔskәpi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腹腔鏡檢查",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laparoscopies"
+ },
+ "laparotomy": {
+  "ph": "/.læpә'rɒtәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剖腹手術",
+    "def": "surgical incision into the abdominal wall; often done to examine abdominal organs"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 剖腹術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laparotomies"
+ },
+ "lapdog": {
+  "ph": "/'læpdɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "供玩賞用的小狗",
+    "def": "a dog small and tame enough to be held in the lap"
+   }
+  ],
+  "forms": "複數 lapdogs"
+ },
+ "lapel": {
+  "ph": "/lә'pel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "翻領",
+    "def": "lap at the front of a coat; continuation of the coat collar"
+   }
+  ],
+  "forms": "複數 lapels"
+ },
+ "lapidary": {
+  "ph": "/'læpidәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寶石工藝匠, 寶石鑑定家",
+    "def": "an expert on precious stones and the art of cutting and engraving them"
+   },
+   {
+    "pos": "adj.",
+    "zh": "寶石雕刻的, 寶石的",
+    "def": "of or relating to precious stones or the art of working with them"
+   }
+  ],
+  "forms": "複數 lapidaries"
+ },
+ "lapillus": {
+  "ph": "/lә'pilәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火山礫",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 耳石, 耳沙",
+    "def": ""
+   }
+  ]
+ },
+ "lapin": {
+  "ph": "/'læpin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兔子",
+    "def": "the fur of a rabbit"
+   }
+  ]
+ },
+ "lapis": {
+  "ph": "/'læpis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 石",
+    "def": ""
+   }
+  ]
+ },
+ "laplace": {
+  "ph": "/lɑ:'plɑ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（法國天文學家、數學家）拉普拉斯（姓氏）",
+    "def": "French mathematician and astronomer who formulated the nebular hypothesis concerning the origins of the solar system and who developed the theory of probability"
+   }
+  ]
+ },
+ "lapland": {
+  "ph": "/'læplænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉普蘭",
+    "def": ""
+   }
+  ]
+ },
+ "lapointe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lapointe)人名；(葡)拉波因特；(法、英)拉普安特",
+    "def": ""
+   }
+  ]
+ },
+ "laporte": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Laporte)人名；(英、法)拉波特",
+    "def": ""
+   }
+  ]
+ },
+ "lapping": {
+  "ph": "/'læpiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 研磨, 拋光",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 研磨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lapping｜複數 lappings"
+ },
+ "lapse": {
+  "ph": "/læps/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過失, 流逝, 失效",
+    "def": "a break or intermission in the occurrence of something"
+   },
+   {
+    "pos": "vi.",
+    "zh": "犯錯, 墮落, 減退, 消失, 流逝",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使失效",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lapses｜過去式 lapsed｜過去分詞 lapsed｜現在分詞 lapsing｜第三人稱單數 lapses"
+ },
+ "lapsed": {
+  "ph": "/læpst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喪失的, 墮落的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 失效的, 過期的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lapsed｜過去分詞 lapsed"
+ },
+ "laptop": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 膝上型的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laptops"
+ },
+ "lapwing": {
+  "ph": "/'læpwiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥頭麥雞",
+    "def": "large crested Old World plover having wattles and spurs"
+   }
+  ],
+  "forms": "複數 lapwings"
+ },
+ "lara": {
+  "ph": "/'lærә,'lɑ:rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉臘（Laura的異體, 女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "larcenous": {
+  "ph": "/'lɑ:sәnәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "盜竊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 構成盜竊罪的, 犯盜竊罪的, 偷竊的",
+    "def": ""
+   }
+  ]
+ },
+ "larceny": {
+  "ph": "/'lɑ:sәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盜竊罪",
+    "def": "the act of taking something from someone unlawfully"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 盜竊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 larcenies"
+ },
+ "larch": {
+  "ph": "/lɑ:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "落葉松屬植物",
+    "def": "wood of a larch tree"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 落葉松",
+    "def": ""
+   }
+  ],
+  "forms": "複數 larches"
+ },
+ "lard": {
+  "ph": "/lɑ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豬油",
+    "def": "soft white semisolid fat obtained by rendering the fatty tissue of the hog"
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗加豬油, 夾雜, 潤色",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 larded｜現在分詞 larding｜過去式 larded｜第三人稱單數 lards"
+ },
+ "larder": {
+  "ph": "/'lɑ:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食物櫥, 家用食品, 食物儲藏室",
+    "def": "a supply of food especially for a household"
+   }
+  ],
+  "forms": "複數 larders"
+ },
+ "large": {
+  "ph": "/lɑ:dʒ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大的, 大量的, 寬大的, 廣博的",
+    "def": "above average in size or number or quantity or magnitude or extent"
+   },
+   {
+    "pos": "adv.",
+    "zh": "大大地, 誇大地",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 larger｜最高級 largest"
+ },
+ "large-scale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大規模的, 大範圍的, 大比例尺的",
+    "def": ""
+   }
+  ]
+ },
+ "largely": {
+  "ph": "/'lɑ:dʒli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "大量地, 很多地, 大半地",
+    "def": ""
+   }
+  ]
+ },
+ "largemouth": {
+  "ph": "/'lɑ:dʒmajθ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "bass,large-mouthed[-maJTd](black)bass[魚]黑鱸",
+    "def": ""
+   }
+  ]
+ },
+ "largeness": {
+  "ph": "/'lɑ:dʒnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巨大, 廣大, 大量",
+    "def": "large or extensive in breadth or importance or comprehensiveness"
+   }
+  ]
+ },
+ "largess": {
+  "ph": "/'lɑ:dʒes, 'lɑ:dʒis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慷慨的贈與/賜與, 賞賜物, 慷慨, 大度, 施捨",
+    "def": "a gift or money given (as for service or out of benevolence); usually given ostentatiously"
+   }
+  ],
+  "forms": "複數 largesses"
+ },
+ "largesse": {
+  "ph": "/lɑ:'dʒes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "慷慨的贈與, 慷慨贈與物, 慷慨的賞錢",
+    "def": ""
+   }
+  ]
+ },
+ "largish": {
+  "ph": "/'lɑ:dʒiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "稍大的",
+    "def": ""
+   }
+  ]
+ },
+ "largo": {
+  "ph": "/'lɑ:gәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "緩慢的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "緩慢地",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "慢板",
+    "def": "(music) a composition or passage that is to be performed in a slow and dignified manner"
+   }
+  ]
+ },
+ "lariat": {
+  "ph": "/'læriәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "套索",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用套索捉",
+    "def": ""
+   }
+  ]
+ },
+ "larisa": {
+  "ph": "/lə'risə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉里薩（希臘色薩利州東部城市）",
+    "def": ""
+   }
+  ]
+ },
+ "lark": {
+  "ph": "/lɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雲雀, 百靈鳥, 歡樂, 嬉耍",
+    "def": "any of numerous predominantly Old World birds noted for their singing"
+   },
+   {
+    "pos": "vi.",
+    "zh": "嬉耍, 騎馬玩樂",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "愚弄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 larks｜現在分詞 larking｜過去式 larked｜過去分詞 larked｜第三人稱單數 larks"
+ },
+ "larkin": {
+  "ph": "/'lɑ:kin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拉金(男子名)",
+    "def": ""
+   }
+  ]
+ },
+ "larkspur": {
+  "ph": "/'lɑ:kspә:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "翠雀屬植物",
+    "def": "any of numerous cultivated plants of the genus Delphinium"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 飛燕草子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 larkspurs"
+ },
+ "larne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Larne)人名；(芬)拉爾內",
+    "def": ""
+   }
+  ]
+ },
+ "larry": {
+  "ph": "/'læri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉里（男子名）",
+    "def": "Same as Lorry, or Lorrie."
+   }
+  ]
+ },
+ "lars": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉爾斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "larsen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Larsen)人名；(英、法、丹、挪、芬、德、意、葡、捷、瑞典)拉森",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "拉森",
+    "def": ""
+   }
+  ]
+ },
+ "larson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拉森",
+    "def": ""
+   }
+  ]
+ },
+ "larsson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉爾森（人名）；中國紅（wap瀏覽器首頁）",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Larsson)人名；(葡、芬、挪、瑞典)拉松",
+    "def": ""
+   }
+  ]
+ },
+ "larva": {
+  "ph": "/'lɑ:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幼蟲",
+    "def": "the immature free-living form of most invertebrates and amphibians and fish which at hatching from the egg is fundamentally unlike its parent and must metamorph"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 幼蟲(昆蟲), 蚴(蠕蟲)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 larvae"
+ },
+ "larvae": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "幼蟲(昆蟲), 幼體, 蚴(蠕蟲)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 幼蟲(昆蟲), 蚴(蠕蟲)",
+    "def": ""
+   }
+  ]
+ },
+ "larval": {
+  "ph": "/'lɑ:vәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "幼蟲的, 幼蟲狀態的",
+    "def": "relating to or typical of a larva"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 幼蟲的, 蚴的, 隱蔽的, 潛在的",
+    "def": ""
+   }
+  ]
+ },
+ "laryngeal": {
+  "ph": "/lә'rindʒiәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喉頭的, 喉頭治療用的",
+    "def": "of or relating to or situated in the larynx"
+   },
+   {
+    "pos": "n.",
+    "zh": "喉部, 喉音",
+    "def": ""
+   }
+  ]
+ },
+ "laryngectomy": {
+  "ph": "/,lærin'dʒektәmi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 喉切除術",
+    "def": ""
+   }
+  ]
+ },
+ "laryngitis": {
+  "ph": "/.lærin'dʒaitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喉炎",
+    "def": "inflammation of the mucous membrane of the larynx; characterized by hoarseness or loss of voice and coughing"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 喉炎",
+    "def": ""
+   }
+  ]
+ },
+ "laryngoscope": {
+  "ph": "/lә'riŋgәskәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喉鏡",
+    "def": "a medical instrument for examining the larynx"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 喉鏡",
+    "def": ""
+   }
+  ]
+ },
+ "laryngoscopy": {
+  "ph": "/,læriŋ'^ɔskәpi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 喉鏡檢查",
+    "def": ""
+   }
+  ]
+ },
+ "larynx": {
+  "ph": "/'læriŋks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喉頭",
+    "def": "a cartilaginous structure at the top of the trachea; contains elastic vocal cords that are the source of the vocal tone in speech"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 喉",
+    "def": ""
+   }
+  ]
+ },
+ "las": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "阿拉伯國家聯盟（League of Arab States）；大氣科學實驗室（Laboratory of Atmospheric Sciences）；光敏開關（Light Activated Switch）",
+    "def": ""
+   }
+  ]
+ },
+ "lasagna": {
+  "ph": "/lә'zɑ:njә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(=lasagne)烤寬麵條(上澆肉末番茄汁)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lasagnas"
+ },
+ "lasagne": {
+  "ph": "/ləˈzænjə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烤寬麵條",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lasagnes"
+ },
+ "lascivious": {
+  "ph": "/lә'siviәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好色的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 淫蕩的, 好色的",
+    "def": ""
+   }
+  ]
+ },
+ "lasciviously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "好色地；淫亂地；猥褻地",
+    "def": ""
+   }
+  ]
+ },
+ "lasciviousness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好色；淫亂",
+    "def": ""
+   }
+  ]
+ },
+ "laser": {
+  "ph": "/'leizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐳射",
+    "def": "an acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 鐳射器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lasers｜過去式 lasered｜過去分詞 lasered｜現在分詞 lasering"
+ },
+ "laserdisc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "鐳射光碟；鐳射影碟",
+    "def": ""
+   }
+  ]
+ },
+ "laserjet": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐳射印表機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laserjets"
+ },
+ "lash": {
+  "ph": "/læʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞭子, 鞭打, 睫毛, 責罵, 諷刺",
+    "def": "leather strip that forms the flexible part of a whip"
+   },
+   {
+    "pos": "vt.",
+    "zh": "鞭打, 擺動, 扎捆, 衝擊, 諷刺, 煽動",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "沖洗, 鞭打, 責罵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lashes｜過去式 lashed｜現在分詞 lashing｜過去分詞 lashed｜第三人稱單數 lashes"
+ },
+ "lashing": {
+  "ph": "/'læʃiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞭打, 痛罵, 叱責",
+    "def": "rope that is used for fastening something to something else"
+   }
+  ],
+  "forms": "複數 lashings｜現在分詞 lashing"
+ },
+ "lasing": {
+  "ph": "/'leisiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 鐳射作用, 產生鐳射",
+    "def": ""
+   }
+  ]
+ },
+ "laski": {
+  "ph": "/'læski/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[姓氏] 拉斯基(英國資產階級政治家, 著述家, 1893-1950)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laski"
+ },
+ "laslett": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Laslett)人名；(英)拉斯利特",
+    "def": ""
+   }
+  ]
+ },
+ "lass": {
+  "ph": "/læs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "少女, 愛人, 情婦",
+    "def": "a girl or young woman who is unmarried"
+   }
+  ],
+  "forms": "複數 lasses"
+ },
+ "lassie": {
+  "ph": "/'læsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "少女, 姑娘, 戀人",
+    "def": ""
+   }
+  ]
+ },
+ "lassitude": {
+  "ph": "/'læsitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "疲倦, 疲乏, 無精神",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 倦怠",
+    "def": ""
+   }
+  ]
+ },
+ "lasso": {
+  "ph": "/'læsәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "套索, 以套索捕",
+    "def": "Belgian composer (1532-1594)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以套索捕",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lassoing｜複數 lassos｜過去式 lassoed｜第三人稱單數 lassos｜過去分詞 lassoed"
+ },
+ "lassy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lassy)人名；(芬)拉敘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lassies"
+ },
+ "last": {
+  "ph": "/lɑ:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最後的, 末尾的, 最近的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "持續, 支援, 維持",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使維持, 夠...用",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "最後, 後來",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "最後, 末尾, 鞋楦頭",
+    "def": "the last or lowest in an ordering or series"
+   }
+  ],
+  "forms": "過去式 lasted｜第三人稱單數 lasts｜現在分詞 lasting｜過去分詞 lasted"
+ },
+ "last-ditch": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最後的, 極限的, 堅持到最後的",
+    "def": ""
+   }
+  ]
+ },
+ "lasting": {
+  "ph": "/'lɑ:stiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "永久的, 永恆的, 持久的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "厚實斜紋織物",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lasting"
+ },
+ "lastingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]有殘留性, 持久地, 耐久地",
+    "def": ""
+   }
+  ]
+ },
+ "lastly": {
+  "ph": "/'lɑ:stli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "最後, 終於",
+    "def": ""
+   }
+  ]
+ },
+ "laszlo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拉斯洛（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "lat": {
+  "ph": "/læt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉特(拉脫維亞貨幣單位)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 本地傳輸協議",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lats"
+ },
+ "latch": {
+  "ph": "/lætʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門閂",
+    "def": "spring-loaded doorlock that can only be opened from the outside with a key"
+   },
+   {
+    "pos": "vi.",
+    "zh": "上閂, 抓住, 佔有",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "閂上",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 門閂線路; 鎖存器",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 latched｜複數 latches｜現在分詞 latching｜過去分詞 latched｜第三人稱單數 latches"
+ },
+ "latchkey": {
+  "ph": "/'lætʃki:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "彈簧鎖鑰匙",
+    "def": "key for raising or drawing back a latch or opening an outside door"
+   }
+  ]
+ },
+ "late": {
+  "ph": "/leit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遲的, 晚的, 已故的",
+    "def": "being or occurring at an advanced period of time or after a usual or expected time"
+   },
+   {
+    "pos": "adv.",
+    "zh": "很晚, 很遲, 晚",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 later｜最高級 latest"
+ },
+ "late-night": {
+  "ph": "/'leitnait/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "深夜的,午夜的",
+    "def": ""
+   }
+  ]
+ },
+ "latecomer": {
+  "ph": "/'leitkʌmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遲到者",
+    "def": "someone who arrives late"
+   }
+  ],
+  "forms": "複數 latecomers"
+ },
+ "lately": {
+  "ph": "/'leitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "近來, 最近",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 latelier"
+ },
+ "latency": {
+  "ph": "/'leitnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "潛伏, 潛在",
+    "def": "the state of being not yet evident or active"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 傳輸時間, 傳輸延遲時間",
+    "def": ""
+   }
+  ],
+  "forms": "複數 latencies"
+ },
+ "lateness": {
+  "ph": "/'leitnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遲, 晚",
+    "def": "quality of coming late or later in time"
+   }
+  ]
+ },
+ "latent": {
+  "ph": "/'leitnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "潛伏性的, 隱藏的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "隱約指紋",
+    "def": ""
+   }
+  ]
+ },
+ "later": {
+  "ph": "/'leitә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "以後, 隨後",
+    "def": ""
+   }
+  ]
+ },
+ "lateral": {
+  "ph": "/'lætәrәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "側部, 支線, 邊音",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "側面的, 旁邊的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laterals"
+ },
+ "laterality": {
+  "ph": "/lætә'ræliti/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 偏利",
+    "def": ""
+   }
+  ]
+ },
+ "lateralization": {
+  "ph": "/,lætәrәlai'zeiʃәn;-li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[生理](尤指腦部的)偏側性, 偏側優勢,偏利",
+    "def": "localization of function on either the right or left sides of the brain"
+   }
+  ]
+ },
+ "laterally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "旁邊地",
+    "def": ""
+   }
+  ]
+ },
+ "lateran": {
+  "ph": "/'lætәrәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(羅馬)拉特蘭教堂, 拉特蘭宮(現為博物館)",
+    "def": "the site in Rome containing the church of Rome and the Lateran Palace"
+   }
+  ]
+ },
+ "latest": {
+  "ph": "/'leitist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最近的",
+    "def": ""
+   }
+  ]
+ },
+ "latex": {
+  "ph": "/'leiteks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乳液, 膠乳",
+    "def": "a milky exudate from certain plants that coagulates on exposure to air"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 膠乳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 latexes"
+ },
+ "lath": {
+  "ph": "/læθ. lɑ:θ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "板條",
+    "def": "a narrow thin strip of wood used as backing for plaster or to make latticework"
+   }
+  ],
+  "forms": "複數 laths"
+ },
+ "latham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萊瑟姆",
+    "def": ""
+   }
+  ]
+ },
+ "lathe": {
+  "ph": "/leið/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "車床",
+    "def": "machine tool for shaping metal or wood; the workpiece turns about a horizontal axis against a fixed tool"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用車床加工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lathes"
+ },
+ "lather": {
+  "ph": "/'læðә. 'lɑ:ðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肥皂泡",
+    "def": "a workman who puts up laths"
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗以肥皂泡",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lathered｜過去分詞 lathered｜複數 lathers｜第三人稱單數 lathers｜現在分詞 lathering"
+ },
+ "latimer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Latimer)人名；(英)拉蒂默",
+    "def": "An interpreter. [Obs.] Coke."
+   }
+  ]
+ },
+ "latin": {
+  "ph": "/'lætin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉丁人, 拉丁語",
+    "def": "any dialect of the language of ancient Rome"
+   },
+   {
+    "pos": "adj.",
+    "zh": "拉丁人的, 拉丁語的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 latins"
+ },
+ "latinate": {
+  "ph": "/'lætineit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "從拉丁文衍生的, 類似拉丁語的",
+    "def": "derived from or imitative of Latin"
+   }
+  ]
+ },
+ "latinization": {
+  "ph": "/.lætinai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "譯成拉丁語, 使成拉丁語文風, 羅馬天主教化",
+    "def": "The act or process of Latinizing, as a word,"
+   }
+  ]
+ },
+ "latino": {
+  "ph": "/læ'ti:nәu, lә-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉丁美洲人",
+    "def": "an artificial language based on words common to the Romance languages"
+   }
+  ],
+  "forms": "複數 latinos"
+ },
+ "latitude": {
+  "ph": "/'lætitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緯度, 範圍",
+    "def": "the angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 寬容度; 偉度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 latitudes"
+ },
+ "latitudinal": {
+  "ph": "/.læti'tju:dinәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "緯度的",
+    "def": "of or relating to latitudes north or south"
+   }
+  ]
+ },
+ "latke": {
+  "ph": "/'lɑ:tki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬鈴薯餅,土豆烙餅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 latkes"
+ },
+ "latrine": {
+  "ph": "/lә'tri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廁所",
+    "def": "a public toilet in a military area"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 坑廁, 溝廁",
+    "def": ""
+   }
+  ],
+  "forms": "複數 latrines"
+ },
+ "latte": {
+  "ph": "/ˈlɑ:teɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拿鐵咖啡; （義大利語）牛奶",
+    "def": ""
+   }
+  ]
+ },
+ "latter": {
+  "ph": "/'lætә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "後者的, 較後的, 近來的",
+    "def": "referring to the second of two things or persons mentioned (or the last one or ones of several)"
+   }
+  ]
+ },
+ "latter-day": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "近代的, 現代的",
+    "def": ""
+   }
+  ]
+ },
+ "latterly": {
+  "ph": "/'lætәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "近來, 最近",
+    "def": ""
+   }
+  ]
+ },
+ "lattice": {
+  "ph": "/'lætis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格子, 組合格子, 格子狀東西",
+    "def": "an arrangement of points or particles or objects in a regular periodic pattern in 2 or 3 dimensions"
+   },
+   {
+    "pos": "vt.",
+    "zh": "製做格子, 使成格子狀",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 格",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lattices｜過去式 latticed"
+ },
+ "latticed": {
+  "ph": "/'lætist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "製成格狀的, 裝有格子的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 latticed"
+ },
+ "latticework": {
+  "ph": "/'lætiswә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格子",
+    "def": ""
+   }
+  ]
+ },
+ "latvia": {
+  "ph": "/'lætviә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉脫維亞",
+    "def": "a republic in northeastern Europe on the eastern coast of the Baltic Sea"
+   }
+  ]
+ },
+ "latvian": {
+  "ph": "/'lætviәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "拉脫維亞的",
+    "def": "of or relating to or characteristic of Latvia or its people or language"
+   },
+   {
+    "pos": "n.",
+    "zh": "拉脫維亞人, 拉脫維亞語",
+    "def": "a native or inhabitant of Latvia"
+   }
+  ],
+  "forms": "複數 latvians"
+ },
+ "lau": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "區域網接入單元（LAN Access Unit）；線路介面卡單元（Line Adapter Unit）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laus"
+ },
+ "laud": {
+  "ph": "/lɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "讚美, 稱讚",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "讚美, 稱讚",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 lauded｜過去式 lauded｜現在分詞 lauding｜第三人稱單數 lauds"
+ },
+ "lauda": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lauda)人名；(意、捷)勞達",
+    "def": ""
+   }
+  ]
+ },
+ "laudable": {
+  "ph": "/'lɒ:dәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "值得讚賞的, 值得佩服的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 健康的",
+    "def": ""
+   }
+  ]
+ },
+ "laudably": {
+  "ph": "/'lɒ:dәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "值得讚賞地, 可佩地",
+    "def": ""
+   }
+  ]
+ },
+ "laudanum": {
+  "ph": "/'lɒ:dәnәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鴉片酊",
+    "def": "narcotic consisting of an alcohol solution of opium or any preparation in which opium is the main ingredient"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鴉片酒, 鴉片酊",
+    "def": ""
+   }
+  ]
+ },
+ "laudatory": {
+  "ph": "/'lɒ:dәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "讚美的, 讚賞的",
+    "def": ""
+   }
+  ]
+ },
+ "lauded": {
+  "ph": "/lɔ:did/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "稱讚, 讚美( laud的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 lauded"
+ },
+ "lauder": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瞞匯漏稅；洗礦槽（流槽, 出鐵槽, 槽洗機）",
+    "def": "Scottish ballad singer and music hall comedian (1870-1950)"
+   }
+  ]
+ },
+ "lauderdale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "勞德戴爾",
+    "def": ""
+   }
+  ]
+ },
+ "laugh": {
+  "ph": "/lɑ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笑, 笑聲",
+    "def": "the sound of laughing"
+   },
+   {
+    "pos": "vi.",
+    "zh": "笑, 大笑",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "以笑表示",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 laughed｜現在分詞 laughing｜第三人稱單數 laughs｜過去分詞 laughed｜複數 laughs"
+ },
+ "laughable": {
+  "ph": "/'lɑ:fәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可笑的, 有趣的",
+    "def": ""
+   }
+  ]
+ },
+ "laughably": {
+  "ph": "/'lɑ:fәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "荒唐可笑地, 有趣地",
+    "def": ""
+   }
+  ]
+ },
+ "laugher": {
+  "ph": "/'lɑ:fә(r);'læf-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笑者,鬨笑者, 好笑的一邊倒比賽",
+    "def": "a person who is laughing or who laughs easily"
+   }
+  ]
+ },
+ "laughing": {
+  "ph": "/'lɑ:fiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "一笑置之的, 高興的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "笑",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 laughing"
+ },
+ "laughingly": {
+  "ph": "/ˈlɑ:fɪŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "笑著地, 可笑地; 笑哈哈",
+    "def": ""
+   }
+  ]
+ },
+ "laughingstock": {
+  "ph": "/'lɑ:fiŋstɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笑柄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laughingstocks"
+ },
+ "laughter": {
+  "ph": "/'lɑ:ftә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笑, 笑聲",
+    "def": "the activity of laughing; the manifestation of joy or mirth or scorn"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 笑, 大笑",
+    "def": ""
+   }
+  ]
+ },
+ "laughton": {
+  "ph": "/'lɔ:tn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[姓氏]勞頓",
+    "def": "United States film actor (born in England) (1899-1962)"
+   }
+  ]
+ },
+ "launceston": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "朗塞斯頓",
+    "def": ""
+   }
+  ]
+ },
+ "launch": {
+  "ph": "/lɒ:ntʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下水, 汽艇, 發射",
+    "def": "a motorboat with an open deck or a half deck"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使下水, 發射, 發動",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "起飛, 下水, 投入, 開始",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 launched｜過去式 launched｜現在分詞 launching｜第三人稱單數 launches｜複數 launches"
+ },
+ "launcher": {
+  "ph": "/'lɒ:ntʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發射者, 發射臺",
+    "def": "armament in the form of a device capable of launching a rocket"
+   }
+  ],
+  "forms": "複數 launchers"
+ },
+ "launching": {
+  "ph": "/'lɔ:ntʃiŋ, 'lɑ:ntʃiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發射, 船下水, 下水典禮, 開辦",
+    "def": "the act of moving a newly built vessel into the water for the first time"
+   }
+  ],
+  "forms": "現在分詞 launching"
+ },
+ "launchpad": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計][OS/2]快速啟動板",
+    "def": ""
+   }
+  ]
+ },
+ "launder": {
+  "ph": "/'lɒ:ndә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流水槽",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "洗衣, 燙衣",
+    "def": "convert illegally obtained funds into legal ones"
+   }
+  ],
+  "forms": "過去分詞 laundered｜現在分詞 laundering｜過去式 laundered｜複數 launders｜第三人稱單數 launders"
+ },
+ "laundered": {
+  "ph": "/ˈlɔ:ndəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "洗（衣服等）, 洗燙（衣服等）( launder的過去式和過去分詞 ); <非正>洗（黑錢）（把非法收入改頭換面, 變為貌似合法的收入）",
+    "def": ""
+   }
+  ]
+ },
+ "launderer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗衣工",
+    "def": "One who follows the business of laundering."
+   }
+  ],
+  "forms": "複數 launderers"
+ },
+ "launderette": {
+  "ph": "/.lɒ:ndә'ret/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自助洗衣店",
+    "def": "a self-service laundry (service mark Laundromat) where coin-operated washing machines are available to individual customers"
+   }
+  ],
+  "forms": "複數 launderettes"
+ },
+ "laundering": {
+  "ph": "/'lɔ:ndәriŋ. 'lɑ:n-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗燙",
+    "def": "washing clothes and bed linens"
+   }
+  ],
+  "forms": "現在分詞 laundering"
+ },
+ "laundress": {
+  "ph": "/'lɒ:ndris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗衣女工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laundresses"
+ },
+ "laundrette": {
+  "ph": "/'lɔ:ndret/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（裝有投幣洗衣機的）自動洗衣店",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laundrettes"
+ },
+ "laundromat": {
+  "ph": "/'lɑ:ndrә,mæt, lɔ:n-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自助洗衣店, 自動洗衣店",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laundromats"
+ },
+ "laundry": {
+  "ph": "/'lɒ:ndri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗衣店, 洗好的衣服, 洗滌",
+    "def": "garments or white goods that can be cleaned by laundering"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 洗衣作, 洗衣店, 洗衣房",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laundries"
+ },
+ "laundryman": {
+  "ph": "/'lɔ:ndrimәn,'lɑ:n-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗衣男工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laundrymen"
+ },
+ "laura": {
+  "ph": "/'lɔ:rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞拉（女子名）",
+    "def": "A number of hermitages or cells in the same neighborhood"
+   }
+  ]
+ },
+ "laure": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Laure)人名；(意、芬)勞雷；(法)洛爾",
+    "def": ""
+   }
+  ]
+ },
+ "laureate": {
+  "ph": "/'lɒ:riәt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "戴桂冠的, 用月桂樹枝編織成的, 榮譽的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "桂冠詩人",
+    "def": "someone honored for great achievements; figuratively someone crowned with a laurel wreath"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使戴桂冠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laureates"
+ },
+ "laurel": {
+  "ph": "/'lɒ:rәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "月桂樹, 榮譽",
+    "def": "any of various aromatic trees of the laurel family"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使戴桂冠, 授予榮譽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laurels"
+ },
+ "laurels": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "榮譽, 勝利, 名聲",
+    "def": ""
+   }
+  ]
+ },
+ "lauren": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞倫（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "laurence": {
+  "ph": "/'lɔrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞倫斯（男子名）；閃爍景",
+    "def": ""
+   }
+  ]
+ },
+ "laurent": {
+  "ph": "/'lɔrәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞倫（法國數學家）",
+    "def": ""
+   }
+  ]
+ },
+ "laurentian": {
+  "ph": "/'lɔ:renʃiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[地質] (加拿大東南部)勞倫系, 勞倫系岩石層",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "勞倫系的",
+    "def": "Pertaining to, or near, the St. Lawrence River; as, the"
+   }
+  ],
+  "forms": "複數 laurentians"
+ },
+ "laurie": {
+  "ph": "/'lɔ(:)ri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞裡（女子名, 等於Laura）；勞裡（男子名, 等於Lawrence）",
+    "def": ""
+   }
+  ]
+ },
+ "lausanne": {
+  "ph": "/lәu'zæn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "洛桑[瑞士西部城市,在日內瓦湖北岸]",
+    "def": ""
+   }
+  ]
+ },
+ "lautrec": {
+  "ph": "/lәj'trek/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "即Toulouse-Lautrec,Henri",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lautrecs"
+ },
+ "lav": {
+  "ph": "/læv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盥洗室, 廁所, 洗手間, 洗臉盆, 抽水馬桶, 洗禮盆, 公共廁所",
+    "def": ""
+   }
+  ]
+ },
+ "lava": {
+  "ph": "/'lɑ:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熔岩, 火山岩",
+    "def": "rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 火山石(一種順勢療法藥)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lavas"
+ },
+ "lavage": {
+  "ph": "/lә'vɑ:ʒ, 'lævidʒ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 灌洗, 洗出法",
+    "def": ""
+   }
+  ]
+ },
+ "laval": {
+  "ph": "/lә'vɑ:l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熔岩的,像熔岩的, 似熔岩般灼熱的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lavals"
+ },
+ "lavatorial": {
+  "ph": "/lævә'tɔ:riәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "廁所的, 洗滌的, 低階粗俗的",
+    "def": ""
+   }
+  ]
+ },
+ "lavatory": {
+  "ph": "/'lævәtәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗臉盆, 廁所",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lavatories"
+ },
+ "lave": {
+  "ph": "/leiv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "沐浴, 洗",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "剩餘物",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 laved｜過去分詞 laved｜現在分詞 laving｜第三人稱單數 laves"
+ },
+ "lavender": {
+  "ph": "/'lævindә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薰衣草, 淡紫色",
+    "def": "any of various Old World aromatic shrubs or subshrubs with usually mauve or blue flowers; widely cultivated"
+   },
+   {
+    "pos": "adj.",
+    "zh": "淡紫色的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用薰衣草燻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lavenders"
+ },
+ "laver": {
+  "ph": "/'leivә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗滌盆, 紫菜",
+    "def": "Australian tennis player who in 1962 was the second man to win the Australian and French and English and United States singles titles in the same year; in 1969 "
+   }
+  ],
+  "forms": "現在分詞 lavering"
+ },
+ "laverne": {
+  "ph": "/lә'v\\\\\\\\:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉維恩(Verna的異體)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "lavery": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lavery)人名；(瑞典)拉韋呂；(英)萊弗裡",
+    "def": ""
+   }
+  ]
+ },
+ "lavinia": {
+  "ph": "/lə'viniə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉維尼婭（拉丁努斯之女）；（拉）拉維妮婭（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "lavish": {
+  "ph": "/'læviʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "大方的, 豐富的, 浪費的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "浪費, 濫用, 慷慨給予",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 lavished｜過去式 lavished｜現在分詞 lavishing｜第三人稱單數 lavishes"
+ },
+ "lavishly": {
+  "ph": "/'læviʃli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "浪費地, 豐富地",
+    "def": ""
+   }
+  ]
+ },
+ "lavishness": {
+  "ph": "/'lævɪʃnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "浪費, 過度",
+    "def": "the quality possessed by something that is excessively expensive"
+   }
+  ]
+ },
+ "lavoisier": {
+  "ph": "/,lɑ:vwә'zjei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拉瓦錫(Antoine Laurent,1743-1794,法國化學家, 氧發現者)",
+    "def": ""
+   }
+  ]
+ },
+ "law": {
+  "ph": "/lɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法律, 法則, 定律, 法律的制約, 法學, 司法界, 訴訟",
+    "def": "the collection of rules imposed by authority"
+   },
+   {
+    "pos": "v.",
+    "zh": "起訴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laws"
+ },
+ "law and order": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "治安",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 治安, 法律和秩序",
+    "def": ""
+   }
+  ]
+ },
+ "law-abiding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "守法的, 安分守紀的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 守法的, 安分守已的, 守秩序的",
+    "def": ""
+   }
+  ]
+ },
+ "lawbreaker": {
+  "ph": "/'lɒ:breikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犯法者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lawbreakers"
+ },
+ "lawford": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lawford)人名；(英)勞福德",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lawfords"
+ },
+ "lawful": {
+  "ph": "/'lɒ:ful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "法律許可的, 守法的, 合法的",
+    "def": "conformable to or allowed by law"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 合法的, 法定的",
+    "def": ""
+   }
+  ]
+ },
+ "lawfully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "守法地；合法地",
+    "def": ""
+   }
+  ]
+ },
+ "lawfulness": {
+  "ph": "/'lɔ:flnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "法制, 合法",
+    "def": ""
+   }
+  ]
+ },
+ "lawgiver": {
+  "ph": "/'lɒ:givә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立法者",
+    "def": "a maker of laws; someone who gives a code of laws"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 立法者, 制定法律者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lawgivers"
+ },
+ "lawler": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lawler)人名；(英)勞勒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lawlers"
+ },
+ "lawless": {
+  "ph": "/'lɒ:lis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非法的, 違法的",
+    "def": ""
+   }
+  ]
+ },
+ "lawlessness": {
+  "ph": "/'lɔ:ləsnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不服從法律; 不受法律制約; 未實施法律; 目無法紀",
+    "def": "illegality as a consequence of unlawful acts; defiance of the law"
+   }
+  ]
+ },
+ "lawlor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lawlor)人名；(英)勞勒",
+    "def": ""
+   }
+  ]
+ },
+ "lawmaker": {
+  "ph": "/lɒ:'meikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立法者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lawmakers"
+ },
+ "lawmaking": {
+  "ph": "/lɒ:'meikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lawmaking"
+ },
+ "lawman": {
+  "ph": "/'lɔ:mәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[律] 執法官, 警察, 警官",
+    "def": "an officer of the law"
+   }
+  ],
+  "forms": "複數 lawmen"
+ },
+ "lawn": {
+  "ph": "/lɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草地, 草坪, 上等細麻布",
+    "def": "a field of cultivated and mowed grass"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 細篩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lawns"
+ },
+ "lawnmower": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刈割者, 草坪割草機, 割草機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 剪草機型放大器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lawnmowers"
+ },
+ "lawrence": {
+  "ph": "/'lɔrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞倫斯（男子名）",
+    "def": "Roman martyr; supposedly Lawrence was ordered by the police to give up the church's treasure and when he responded by presenting the poor people of Rome he was "
+   }
+  ]
+ },
+ "lawrie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "勞裡（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "lawson": {
+  "ph": "/'lɔ:sn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[姓氏] 勞森",
+    "def": ""
+   }
+  ]
+ },
+ "lawsuit": {
+  "ph": "/'lɒ:sju:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訴訟",
+    "def": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 訴訟, 訴訟案件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lawsuits"
+ },
+ "lawton": {
+  "ph": "/'lɔ:tn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "勞頓（美國城鎮）",
+    "def": "a town in southwest Oklahoma"
+   }
+  ]
+ },
+ "lawyer": {
+  "ph": "/'lɒ:jә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "律師",
+    "def": "a professional person authorized to practice law; conducts lawsuits or gives legal advice"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 律師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lawyers"
+ },
+ "lawyering": {
+  "ph": "/'lɔ:jәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 律師業",
+    "def": ""
+   }
+  ]
+ },
+ "lawyerly": {
+  "ph": "/'lɔ:jәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(=laywerlike) 如律師的, 適合於律師的",
+    "def": "Like, or becoming, a lawyer; as, lawyerlike sagacity."
+   }
+  ]
+ },
+ "lax": {
+  "ph": "/læks/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "松的, 不嚴格的, 腹瀉的, 鬆弛的",
+    "def": "pronounced with muscles of the tongue and jaw relatively relaxed (e.g., the vowel sound in `bet')"
+   },
+   {
+    "pos": "n.",
+    "zh": "腹瀉, 鬆母音",
+    "def": ""
+   }
+  ]
+ },
+ "laxative": {
+  "ph": "/'læksәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "通便的, 輕度腹瀉的",
+    "def": "stimulating evacuation of feces"
+   },
+   {
+    "pos": "n.",
+    "zh": "通瀉劑, 緩瀉藥",
+    "def": "a mild cathartic"
+   }
+  ],
+  "forms": "複數 laxatives"
+ },
+ "laxity": {
+  "ph": "/'læksәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬆弛, 不檢點",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 松馳, 無緊張",
+    "def": ""
+   }
+  ]
+ },
+ "laxton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Laxton)人名；(英)拉克斯頓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laxtons"
+ },
+ "lay": {
+  "ph": "/lei/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "放置, 產, 鋪設, 佈置, 提出, 平息",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "下蛋, 打賭",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "位置, 層, 隱藏處",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "世俗的, 外行的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "lie的過去式",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 laid｜過去式 laid｜現在分詞 laying｜第三人稱單數 lays"
+ },
+ "layabout": {
+  "ph": "/'leiәbajt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懶漢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 layabouts｜第三人稱單數 layabouts"
+ },
+ "layard": {
+  "ph": "/leәd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "萊亞德(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "layaway": {
+  "ph": "/ˈleɪəweɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "保留供將來客戶付清貨款的商品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 layaways"
+ },
+ "layby": {
+  "ph": "/'leɪbɑɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "路側停車處；獨頭岔道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laybys"
+ },
+ "layer": {
+  "ph": "/'leiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "層, 產卵雞, 放置者",
+    "def": "single thickness of usually some homogeneous substance"
+   },
+   {
+    "pos": "vt.",
+    "zh": "分層堆積, 壓植",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 層",
+    "def": ""
+   }
+  ],
+  "forms": "複數 layers｜過去分詞 layered｜現在分詞 layering｜過去式 layered｜第三人稱單數 layers"
+ },
+ "layered": {
+  "ph": "/'leiәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "層狀的；分層的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 layered"
+ },
+ "layering": {
+  "ph": "/'leiәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 分層",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 分層",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 layering｜複數 layerings"
+ },
+ "layette": {
+  "ph": "/lei'et/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 新生兒衣被",
+    "def": ""
+   }
+  ]
+ },
+ "layfield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Layfield)人名；(英)萊菲爾德",
+    "def": ""
+   }
+  ]
+ },
+ "laying": {
+  "ph": "/'leiiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 佈置, 敷設",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 敷設; 鋪設(管道等)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 laying"
+ },
+ "layman": {
+  "ph": "/'leimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俗人, 門外漢, 凡人",
+    "def": "someone who is not a clergyman or a professional person"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外行, 業外人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laymen"
+ },
+ "layoff": {
+  "ph": "/'leiɒf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臨時解僱, 操作停止, 活動停止期間",
+    "def": "the act of laying off an employee or a work force"
+   }
+  ],
+  "forms": "複數 layoffs"
+ },
+ "layout": {
+  "ph": "/'leiaut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佈局, 陳列, 規劃圖, 頁面佈局, 版面編排",
+    "def": "a plan or design of something that is laid out"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 頁面佈局, 版面",
+    "def": ""
+   }
+  ],
+  "forms": "複數 layouts"
+ },
+ "layover": {
+  "ph": "/'leiәuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中途短暫的停留",
+    "def": ""
+   }
+  ]
+ },
+ "laypeople": {
+  "ph": "/'leɪpi:pl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外行, 非專業人員, 未擔任神職的一般信徒",
+    "def": ""
+   }
+  ]
+ },
+ "layperson": {
+  "ph": "/'leip\\\\\\\\:sәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外行",
+    "def": ""
+   }
+  ]
+ },
+ "layton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Layton)人名；(英、德)萊頓",
+    "def": ""
+   }
+  ]
+ },
+ "layup": {
+  "ph": "/'leiʌp/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "接頭[合]處",
+    "def": ""
+   }
+  ]
+ },
+ "laywoman": {
+  "ph": "/'leiwumәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "layman的女性形",
+    "def": ""
+   }
+  ],
+  "forms": "複數 laywomen"
+ },
+ "lazar": {
+  "ph": "/'læzә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惡疾患者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 麻風病人",
+    "def": ""
+   }
+  ]
+ },
+ "lazard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lazard)人名；(法)拉扎爾；(英)拉扎德",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lazards"
+ },
+ "lazarette": {
+  "ph": "/,læzә'ret/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傳染病院, 檢疫船",
+    "def": ""
+   }
+  ]
+ },
+ "lazarus": {
+  "ph": "/'læzәrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乞丐, 窮人",
+    "def": "the person who Jesus raised from the dead after four days in the tomb; this miracle caused the enemies of Jesus to begin the plan to put him to death"
+   }
+  ]
+ },
+ "laze": {
+  "ph": "/leiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "偷懶, 混日子",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "消磨",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "懶散",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 lazing｜過去式 lazed｜過去分詞 lazed｜第三人稱單數 lazes"
+ },
+ "lazenby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Lazenby)人名；(英)拉曾比",
+    "def": ""
+   }
+  ]
+ },
+ "lazily": {
+  "ph": "/'leizili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "懶洋洋地",
+    "def": ""
+   }
+  ]
+ },
+ "laziness": {
+  "ph": "/'leizinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "怠惰, 無精打采",
+    "def": "relaxed and easy activity"
+   }
+  ]
+ },
+ "lazio": {
+  "ph": "/'lɑ:tsiәj/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拉齊奧區[義大利行政區名]",
+    "def": ""
+   }
+  ]
+ },
+ "lazuli": {
+  "ph": "/'læzjulai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(=lapis lazuli)天青石, 青金石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 lazuli"
+ },
+ "lazy": {
+  "ph": "/'leizi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "懶惰的, 怠惰的, 緩慢的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "懶散",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 laziest｜比較級 lazier"
+ }
+}

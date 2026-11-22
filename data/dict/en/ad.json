@@ -1,0 +1,3453 @@
+{
+ "ad": {
+  "ph": "/æd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣告",
+    "def": "a public promotion of some product or service"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 地址, 模擬-數字",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ads"
+ },
+ "ad hoc": {
+  "ph": "/'æd'hɔk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "特別地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 特定, 專設, 臨時",
+    "def": ""
+   }
+  ]
+ },
+ "ada": {
+  "ph": "/'eidә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 資料自動採集程式, 自動動態分析程式",
+    "def": ""
+   }
+  ]
+ },
+ "adage": {
+  "ph": "/'ædidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "格言, 諺語",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adages"
+ },
+ "adagio": {
+  "ph": "/ә'dɑ:dʒiәu/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "緩慢地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "緩慢的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "柔板",
+    "def": "(music) a composition played in adagio tempo (slowly and gracefully)"
+   }
+  ],
+  "forms": "複數 adagios"
+ },
+ "adair": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞岱爾（男子名）；阿戴爾（美國城市名）",
+    "def": ""
+   }
+  ]
+ },
+ "adam": {
+  "ph": "/'ædәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞當",
+    "def": "(Old Testament) in Judeo-Christian mythology; the first man and the husband of Eve and the progenitor of the human race"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 自動直接存取管理",
+    "def": ""
+   }
+  ]
+ },
+ "adamant": {
+  "ph": "/'ædәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堅硬的東西",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "非常堅硬的, 堅強的, 固執的",
+    "def": ""
+   }
+  ]
+ },
+ "adamantine": {
+  "ph": "/.ædә'mæntain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非常堅硬的, 堅定不移的",
+    "def": "consisting of or having the hardness of adamant"
+   },
+   {
+    "pos": "n.",
+    "zh": "金剛硼",
+    "def": ""
+   }
+  ]
+ },
+ "adamantly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "堅硬無比地；堅強地；固執地；不動搖地",
+    "def": ""
+   }
+  ]
+ },
+ "adams": {
+  "ph": "/'ædәmz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 先進資料管理系統",
+    "def": ""
+   }
+  ]
+ },
+ "adamson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿達姆松（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "adana": {
+  "ph": "/'ædәnә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "亞達那(土耳其南部一城市, 瀕Seyhan 河)",
+    "def": ""
+   }
+  ]
+ },
+ "adapt": {
+  "ph": "/ә'dæpt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使適應, 改編",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "適應",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adapted｜現在分詞 adapting｜過去式 adapted｜第三人稱單數 adapts"
+ },
+ "adaptability": {
+  "ph": "/ә.dæptә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適應性",
+    "def": "the ability to change (or be changed) to fit changed circumstances"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 自適應性; 適應性",
+    "def": ""
+   }
+  ]
+ },
+ "adaptable": {
+  "ph": "/ә'dæptәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能適應的, 適合的, 可修改的",
+    "def": "capable of adapting (of becoming or being made suitable) to a particular situation or use"
+   }
+  ]
+ },
+ "adaptation": {
+  "ph": "/.ædæp'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適應, 改編, 改編本",
+    "def": "a written work (as a novel) that has been recast in a new form"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 適應[作用]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adaptations"
+ },
+ "adaptational": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "適應的",
+    "def": ""
+   }
+  ]
+ },
+ "adapted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適合的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adapted｜過去式 adapted"
+ },
+ "adapter": {
+  "ph": "/ә'dæptә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適應者, 改編者, 接合器",
+    "def": "device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 銜接器; 介面卡, 適配卡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adapters"
+ },
+ "adaption": {
+  "ph": "/ә'dæpʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適應, 改編本, 適應性的變化, 適合",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adaptions"
+ },
+ "adaptive": {
+  "ph": "/ә'dæptiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適應的, 能適應的",
+    "def": "having a capacity for adaptation"
+   }
+  ]
+ },
+ "adaptor": {
+  "ph": "/ә'dæptә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "改編者, 插座, 轉接器, 接合器, 拾音器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 介面卡, 轉接器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adaptors"
+ },
+ "adat": {
+  "ph": "/'ɑːdɑːt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<印尼>傳統法律",
+    "def": ""
+   }
+  ]
+ },
+ "adc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 先行資料程式碼, 模數轉換, 文件自動編制程式, 自動數字計算機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 陽極期間收縮",
+    "def": ""
+   }
+  ]
+ },
+ "adcock": {
+  "ph": "/'ædkɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛德考克（男子名）；愛德考克天線",
+    "def": ""
+   }
+  ]
+ },
+ "add": {
+  "ph": "/æd/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "增加, 新增, 附帶說明, 計算...總和",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "做加法, 積累而成, 增添",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 加法",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 added｜過去分詞 added｜現在分詞 adding｜第三人稱單數 adds"
+ },
+ "added": {
+  "ph": "/'ædid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "額外的；更多的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 added｜過去式 added"
+ },
+ "addenda": {
+  "ph": "/ә'dendә/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "補遺, 附加物",
+    "def": ""
+   }
+  ]
+ },
+ "addendum": {
+  "ph": "/ә'dendәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "補遺, 附加物",
+    "def": "textual matter that is added onto a publication; usually at the end"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 附加物; 齒頂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 addendums"
+ },
+ "adder": {
+  "ph": "/'ædә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蝰蛇, 豬鼻蛇, 加法器",
+    "def": "a person who adds numbers"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 加法器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adders"
+ },
+ "addict": {
+  "ph": "/ә'dikt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使沉溺, 使上癮",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "入迷的人, 上癮者",
+    "def": "someone who is so ardently devoted to something that it resembles an addiction"
+   }
+  ],
+  "forms": "過去分詞 addicted｜複數 addicts｜現在分詞 addicting｜過去式 addicted｜第三人稱單數 addicts"
+ },
+ "addicted": {
+  "ph": "/ә'diktid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沉溺於...的, 無法擺脫(某種嗜好)的",
+    "def": "compulsively or physiologically dependent on something habit-forming"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 嗜, 好, 慣於",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 addicted"
+ },
+ "addicting": {
+  "ph": "/'ædɪkt (for n.); əˈdɪkt (for v.)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有癮的人；入迷的人",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使沉溺；使上癮",
+    "def": ""
+   }
+  ]
+ },
+ "addiction": {
+  "ph": "/ә'dikʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "入迷, 癮",
+    "def": "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 癮, 癖嗜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 addictions"
+ },
+ "addictive": {
+  "ph": "/ә'diktiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "上癮的",
+    "def": "causing or characterized by addiction"
+   }
+  ]
+ },
+ "adding": {
+  "ph": "/'ædiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 加法的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 adding"
+ },
+ "addington": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Addington)人名；(英)阿丁頓",
+    "def": ""
+   }
+  ]
+ },
+ "addis": {
+  "ph": "/'ædis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾締思（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "addison": {
+  "ph": "/'ædisn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾迪生（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "addition": {
+  "ph": "/ә'diʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "加法, 增加的人(或物)",
+    "def": "a component that is added to something to improve it"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 加法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 additions"
+ },
+ "additional": {
+  "ph": "/ә'diʃәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "附加的, 另外的, 額外的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 加添的, 附加的",
+    "def": ""
+   }
+  ]
+ },
+ "additionality": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "額外性",
+    "def": ""
+   }
+  ]
+ },
+ "additionally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "另外, 此外",
+    "def": ""
+   }
+  ]
+ },
+ "additive": {
+  "ph": "/'æditiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "新增的, 附加的, 加法的, 累積的",
+    "def": "characterized or produced by addition"
+   },
+   {
+    "pos": "n.",
+    "zh": "新增物",
+    "def": "something added to enhance food or gasoline or paint or medicine"
+   }
+  ],
+  "forms": "複數 additives"
+ },
+ "addle": {
+  "ph": "/'ædl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使昏亂, 使腐壞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變質",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "昏亂的, 腐壞的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 addled｜第三人稱單數 addles｜過去式 addled｜現在分詞 addling"
+ },
+ "addled": {
+  "ph": "/'ædld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頭腦混亂的；腐壞的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 addled"
+ },
+ "address": {
+  "ph": "/ә'dres/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "住址, 演說, 舉止, 靈巧, 求愛",
+    "def": "(computer science) the code that identifies where a piece of information is stored"
+   },
+   {
+    "pos": "vt.",
+    "zh": "發表(演說或講話), 對付, 寫地址",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 地址, 定址",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 addressed｜現在分詞 addressing｜複數 addresses｜過去式 addressed｜第三人稱單數 addresses"
+ },
+ "addressable": {
+  "ph": "/ә'dresәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可定址的",
+    "def": ""
+   }
+  ]
+ },
+ "addressed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "編址的；收信地址；處理",
+    "def": "(of mail) marked with a destination"
+   }
+  ],
+  "forms": "過去式 addressed｜過去分詞 addressed"
+ },
+ "addressee": {
+  "ph": "/.ædre'si:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "收件人, 收信人",
+    "def": "one to whom something is addressed"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 臺頭人, 收信人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 addressees"
+ },
+ "adduce": {
+  "ph": "/ә'dju:s/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "引證, 舉出",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 援引, 引證, 提出",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adduced｜第三人稱單數 adduces｜過去式 adduced｜現在分詞 adducing"
+ },
+ "adduct": {
+  "ph": "/ә'dʌkt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使內收",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "加合物",
+    "def": "a compound formed by an addition reaction"
+   }
+  ],
+  "forms": "複數 adducts｜第三人稱單數 adducts｜過去式 adducted｜現在分詞 adducting｜過去分詞 adducted"
+ },
+ "adduction": {
+  "ph": "/ә'dʌkʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "引證, 內收",
+    "def": "(physiology) moving of a body part toward the central axis of the body"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氧化; 氧化作用; 內收; 內收作用",
+    "def": ""
+   }
+  ]
+ },
+ "adductor": {
+  "ph": "/ә'dʌktә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "內收肌",
+    "def": "a muscle that draws a body part toward the median line"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 收肌, 內收肌",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adductors"
+ },
+ "ade": {
+  "ph": "/eid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 先行資料輸入, 自動除錯環境, 自動設計工程",
+    "def": ""
+   }
+  ]
+ },
+ "adelaide": {
+  "ph": "/'ædәleid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿德萊德（女子名, 澳大利亞港市）",
+    "def": "the state capital of South Australia"
+   }
+  ]
+ },
+ "adele": {
+  "ph": "/ә'del/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿黛爾（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "adelgid": {
+  "ph": "/'ædildʒid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "球蚜",
+    "def": ""
+   }
+  ]
+ },
+ "adelphi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿德爾菲（美國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "aden": {
+  "ph": "/'eidn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞丁(葉門城市)",
+    "def": "an important port of Yemen; located on the Gulf of Aden; its strategic location has made it a major trading center of southern Arabia since ancient times"
+   }
+  ]
+ },
+ "adenauer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Adenauer)人名；(德)阿登納",
+    "def": "German statesman; chancellor of West Germany (1876-1967)"
+   },
+   {
+    "pos": "",
+    "zh": "阿登納",
+    "def": ""
+   }
+  ]
+ },
+ "adenine": {
+  "ph": "/'ædәni:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腺嘌呤",
+    "def": "(biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 腺嘌呤; 6-氨基嘌呤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adenines"
+ },
+ "adenocarcinoma": {
+  "ph": "/'ædinәu,kɑ:si'nәumә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腺癌",
+    "def": "malignant tumor originating in glandular epithelium"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腺癌",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adenocarcinomas"
+ },
+ "adenoid": {
+  "ph": "/'ædinɒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腺的, 淋巴組織的",
+    "def": "relating to or resembling lymphatic glands or lymphoid tissue"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腺樣的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adenoids"
+ },
+ "adenoidal": {
+  "ph": "/,ædi'nɔidәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腺樣的",
+    "def": "of or pertaining to the adenoids"
+   }
+  ]
+ },
+ "adenoidectomy": {
+  "ph": "/,ædinɔi'dektәmi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 增殖腺切除術",
+    "def": ""
+   }
+  ]
+ },
+ "adenoma": {
+  "ph": "/,ædi'nәumә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腺瘤",
+    "def": "a benign epithelial tumor of glandular origin"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腺瘤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adenomas"
+ },
+ "adenomatous": {
+  "ph": "/,ædi'nɔmәtәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腺瘤",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腺瘤的",
+    "def": ""
+   }
+  ]
+ },
+ "adenopathy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腺病",
+    "def": "a glandular disease or enlargement of glandular tissue (especially of the lymph glands)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腺病",
+    "def": ""
+   }
+  ]
+ },
+ "adenosine": {
+  "ph": "/ә'denәsi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腺苷",
+    "def": "(biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of DNA and RN"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 腺嘌呤-9β-呋喃核糖苷; 腺苷",
+    "def": ""
+   }
+  ]
+ },
+ "adenovirus": {
+  "ph": "/.ædәnәu'vaiәrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腺病毒",
+    "def": "any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腺病毒",
+    "def": ""
+   }
+  ]
+ },
+ "adept": {
+  "ph": "/ә'dept/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熟練的, 老練的, 巧妙的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "能手, 內行",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adepts"
+ },
+ "adeptly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "老練地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "熟練地",
+    "def": ""
+   }
+  ]
+ },
+ "adeptness": {
+  "ph": "/ə'deptnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熟練",
+    "def": "skillful performance or ability without difficulty"
+   }
+  ]
+ },
+ "adequacy": {
+  "ph": "/'ædikwәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適當, 足夠",
+    "def": "the quality of being able to meet a need satisfactorily: \"he questioned the adequacy of the usual sentimental interpretation of the Golden Rule\""
+   }
+  ],
+  "forms": "複數 adequacies"
+ },
+ "adequate": {
+  "ph": "/'ædikwәt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適當的, 足夠的",
+    "def": "having the requisite qualities or resources to meet a task"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 勝任的, 適當的, 充分的",
+    "def": ""
+   }
+  ]
+ },
+ "adequately": {
+  "ph": "/'ædikwәtli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "足夠地, 適當地",
+    "def": ""
+   }
+  ]
+ },
+ "adhd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "注意力不集中症（ attention deficit hyperactivity disorder ）",
+    "def": ""
+   }
+  ]
+ },
+ "adhere": {
+  "ph": "/әd'hiә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "依附, 粘著, 堅持, 追隨, 擁護",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使粘附",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adhered｜現在分詞 adhering｜過去式 adhered｜第三人稱單數 adheres"
+ },
+ "adherence": {
+  "ph": "/әd'hiәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "依附, 固執, 堅持",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 粘合",
+    "def": ""
+   }
+  ]
+ },
+ "adherent": {
+  "ph": "/әd'hiәrәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "信徒, 追隨者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "附著的, 發生聯絡的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adherents"
+ },
+ "adhesion": {
+  "ph": "/әd'hi:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附著, 粘著, 支援, 追隨",
+    "def": "abnormal union of bodily tissues; most common in the abdomen"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 粘合; 粘附; 附著; 粘合力; 粘附力; 附著力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adhesions"
+ },
+ "adhesive": {
+  "ph": "/әd'hi:siv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粘著的, 塗有粘性物質的",
+    "def": "tending to adhere"
+   },
+   {
+    "pos": "n.",
+    "zh": "粘合劑, 橡皮膏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adhesives"
+ },
+ "adiabatic": {
+  "ph": "/.ædiә'bætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絕熱的",
+    "def": "occurring without loss or gain of heat"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 絕熱的",
+    "def": ""
+   }
+  ]
+ },
+ "adie": {
+  "ph": "/'eidi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾迪（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "adieu": {
+  "ph": "/ә'dju:/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "再見, 再會",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "告別, 辭別",
+    "def": "a farewell remark"
+   }
+  ]
+ },
+ "adios": {
+  "ph": "/ɑ:'djәus/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 模數輸入輸出系統, 自動診斷輸入輸出系統",
+    "def": ""
+   }
+  ]
+ },
+ "adit": {
+  "ph": "/'ædit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "入口, 進入",
+    "def": "a nearly horizontal passage from the surface into a mine"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 進口, 橫洞, 橫井",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adits"
+ },
+ "adjacency": {
+  "ph": "/ә'dʒeisәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鄰接, 鄰接物",
+    "def": "the attribute of being so near as to be touching"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 鄰近; 鄰接",
+    "def": ""
+   }
+  ]
+ },
+ "adjacent": {
+  "ph": "/ә'dʒeisәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "毗連的, 鄰近的, 連線的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 相鄰的, 鄰位的, 交界的",
+    "def": ""
+   }
+  ]
+ },
+ "adjectival": {
+  "ph": "/.ædʒek'taivәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "形容詞的",
+    "def": "of or relating to or functioning as an adjective"
+   }
+  ]
+ },
+ "adjective": {
+  "ph": "/'ædʒiktiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "形容詞",
+    "def": "a word that expresses an attribute of something"
+   },
+   {
+    "pos": "adj.",
+    "zh": "形容詞的, 從屬的",
+    "def": "relating to court practice and procedure as opposed to the principles of law"
+   }
+  ],
+  "forms": "複數 adjectives"
+ },
+ "adjoin": {
+  "ph": "/ә'dʒɒin/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "鄰接, 毗連",
+    "def": "attach or add"
+   }
+  ],
+  "forms": "現在分詞 adjoining｜第三人稱單數 adjoins｜過去式 adjoined｜過去分詞 adjoined"
+ },
+ "adjoining": {
+  "ph": "/ә'dʒɒiniŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鄰接的, 毗連的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 聯接",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 adjoining"
+ },
+ "adjourn": {
+  "ph": "/ә'dʒә:n/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "休會, 換地方",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使中止, 推遲",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adjourned｜過去式 adjourned｜現在分詞 adjourning｜複數 adjourns｜第三人稱單數 adjourns"
+ },
+ "adjourned": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "休會",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adjourned｜過去式 adjourned"
+ },
+ "adjournment": {
+  "ph": "/ә'dʒә:nmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "延期, 休會, 休會期間",
+    "def": "the termination of a meeting"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 休庭, 休會, 延期",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adjournments"
+ },
+ "adjudge": {
+  "ph": "/ә'dʒʌdʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "宣判, 判決, 裁定給, 認為",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 宣判, 依法判決, 裁決",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adjudged｜過去式 adjudged｜現在分詞 adjudging｜第三人稱單數 adjudges"
+ },
+ "adjudicate": {
+  "ph": "/ә'dʒu:dikeit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "判決, 宣告, 裁定",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adjudicated｜現在分詞 adjudicating｜過去式 adjudicated｜第三人稱單數 adjudicates｜複數 adjudicates"
+ },
+ "adjudication": {
+  "ph": "/ә.dʒu:di'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "判決, 裁定, 宣告",
+    "def": "the final judgment in a legal proceeding; the act of pronouncing judgment based on the evidence presented"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 判決, 裁決",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adjudications"
+ },
+ "adjudicative": {
+  "ph": "/ә'dʒu:dikeitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "判決的, 宣告的",
+    "def": "concerned with adjudicating"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 判決的, 審判的, 裁定的",
+    "def": ""
+   }
+  ]
+ },
+ "adjudicator": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "評判員",
+    "def": "a person who studies and settles conflicts and disputes"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 審判者, 判決者, 裁定者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adjudicators"
+ },
+ "adjunct": {
+  "ph": "/'ædʒʌŋkt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附屬物, 附件, 助手, 修飾語",
+    "def": "something added to another thing but not an essential part of it"
+   },
+   {
+    "pos": "adj.",
+    "zh": "附屬的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adjuncts"
+ },
+ "adjunctive": {
+  "ph": "/ә'dʒʌŋktiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "附屬的, 附加的",
+    "def": ""
+   }
+  ]
+ },
+ "adjust": {
+  "ph": "/ә'dʒʌst/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "調整, 使適應於, 校準",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "適應於, 被調節, 相互熟悉而適應",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adjusted｜現在分詞 adjusting｜過去式 adjusted｜第三人稱單數 adjusts"
+ },
+ "adjustability": {
+  "ph": "/ә,dʒʌstә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適應性",
+    "def": ""
+   }
+  ]
+ },
+ "adjustable": {
+  "ph": "/ә'dʒʌstәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可調節的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[電] 可調整的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adjustables"
+ },
+ "adjusted": {
+  "ph": "/ә'dʒʌstid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "調整過的",
+    "def": "altered to accommodate to certain requirements or bring into a proper relation"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 調節了的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adjusted"
+ },
+ "adjuster": {
+  "ph": "/ә'dʒʌstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "調整員, 調停者, 調節器",
+    "def": "one who investigates insurance claims or claims for damages and recommends an effective settlement"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 調節器; 校正器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adjusters"
+ },
+ "adjusting": {
+  "ph": "/ә'dʒʌstiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 調準",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 adjusting"
+ },
+ "adjustment": {
+  "ph": "/ә'dʒʌstmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "調整, 調節, 校正",
+    "def": "making or becoming suitable; adjusting to circumstances"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 調節",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adjustments"
+ },
+ "adjustor": {
+  "ph": "/ә'dʒʌstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "調整者, 調停者, 調節器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 調整體(反射弧上的神經節部分)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adjustors"
+ },
+ "adjutant": {
+  "ph": "/'ædʒutәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "助手, 副官",
+    "def": "an officer who acts as military assistant to a more senior officer"
+   },
+   {
+    "pos": "adj.",
+    "zh": "輔助的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adjutants"
+ },
+ "adjuvant": {
+  "ph": "/'ædʒuvәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "輔助的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "佐藥, 助手",
+    "def": "an additive that enhances the effectiveness of medical treatment"
+   }
+  ]
+ },
+ "adler": {
+  "ph": "/'ædlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿德勒（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "adlib": {
+  "ph": "/æd'lib/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "臨時穿插, 信口說出, 即興講演",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 狀態說明設計語言",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 adlibbing"
+ },
+ "adman": {
+  "ph": "/'ædmæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣告撰寫員, 廣告商",
+    "def": ""
+   }
+  ],
+  "forms": "複數 admen"
+ },
+ "admin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 行政管理程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 admins"
+ },
+ "administer": {
+  "ph": "/әd'ministә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "管理, 料理, 執行",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "執行遺產管理人的職責, 給予幫助",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 administered｜現在分詞 administering｜第三人稱單數 administers｜過去式 administered"
+ },
+ "administered": {
+  "ph": "/ədˈministəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "管理( administer的過去式和過去分詞 ); 治理（國家）; 給予; 執行",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 administered｜過去式 administered"
+ },
+ "administering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 管理, 執行, 實施",
+    "def": ""
+   }
+  ]
+ },
+ "administrate": {
+  "ph": "/әd'ministreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "管理, 支配",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 administrating｜第三人稱單數 administrates｜過去分詞 administrated｜複數 administrates｜過去式 administrated"
+ },
+ "administration": {
+  "ph": "/әd.mini'streiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "行政, 管理, 政府機關",
+    "def": "a method of tending to or managing the affairs of a some group of people (especially the group's business affairs)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 給藥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 administrations"
+ },
+ "administrative": {
+  "ph": "/әd'ministrәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "管理的, 行政的",
+    "def": "of or relating to or responsible for administration"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 行政的, 管理的, 遺產管理的",
+    "def": ""
+   }
+  ]
+ },
+ "administratively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "管理地；行政地",
+    "def": ""
+   }
+  ]
+ },
+ "administrator": {
+  "ph": "/әd'ministreitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "管理人, 行政官",
+    "def": "someone who administers a business"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 遺產管理人員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 administrators"
+ },
+ "admirable": {
+  "ph": "/'ædmәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可欽佩的, 極好的, 令人驚奇的",
+    "def": ""
+   }
+  ]
+ },
+ "admirably": {
+  "ph": "/'ædmәrәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "極好地, 美好地",
+    "def": ""
+   }
+  ]
+ },
+ "admiral": {
+  "ph": "/'ædmәrәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艦隊司令, 海軍上將, 旗艦",
+    "def": "the supreme commander of a fleet; ranks above a vice admiral and below a fleet admiral"
+   }
+  ],
+  "forms": "複數 admirals"
+ },
+ "admiralty": {
+  "ph": "/'ædmәrәlti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海軍上將的地位(或職權), (1963年前)英國海軍部, 海事法庭",
+    "def": "the department in charge of the navy (as in Great Britain)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 海軍上將的職位, 海軍部, 海事法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 admiralties"
+ },
+ "admiration": {
+  "ph": "/.ædmә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "讚賞, 欽佩, 引人讚賞的物件",
+    "def": "a feeling of delighted approval and liking"
+   }
+  ],
+  "forms": "複數 admirations"
+ },
+ "admire": {
+  "ph": "/әd'maiә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "讚美, 欽佩, 愛慕",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "稱讚, 驚奇",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 admired｜過去分詞 admired｜現在分詞 admiring｜第三人稱單數 admires"
+ },
+ "admired": {
+  "ph": "/əd'maɪəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "羨慕, 讚美；欽佩（admire的過去分詞）",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "受人欽佩的；感到羨慕的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 admired｜過去分詞 admired"
+ },
+ "admirer": {
+  "ph": "/әd'maiәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "欽佩者, 仰慕者, 求愛者",
+    "def": "a person who admires; someone who esteems or respects or approves"
+   }
+  ],
+  "forms": "複數 admirers"
+ },
+ "admiring": {
+  "ph": "/әd'maiәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "讚賞的, 欽佩的, 羨慕的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 admiring"
+ },
+ "admiringly": {
+  "ph": "/әd'maiәriŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "欽佩地, 羨慕地",
+    "def": ""
+   }
+  ]
+ },
+ "admissibility": {
+  "ph": "/әd.misә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有入場的資格, 可容許",
+    "def": "acceptability by virtue of being admissible"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可採納, 可接受, 有資格加入",
+    "def": ""
+   }
+  ]
+ },
+ "admissible": {
+  "ph": "/әd'misәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可進入的, 可容許的",
+    "def": "deserving to be admitted"
+   }
+  ]
+ },
+ "admission": {
+  "ph": "/әd'miʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "准許進入, 入場費, 錄用, 承認",
+    "def": "the act of admitting someone to enter"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 加入, 入股",
+    "def": ""
+   }
+  ],
+  "forms": "複數 admissions"
+ },
+ "admit": {
+  "ph": "/әd'mit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "承認, 接受, 允許進入, 容許",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "開向, 容許, 承認",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 admitted｜過去分詞 admitted｜第三人稱單數 admits｜現在分詞 admitting"
+ },
+ "admittance": {
+  "ph": "/әd'mitәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "進入, 進入權, 准許進入",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 導納",
+    "def": ""
+   }
+  ],
+  "forms": "複數 admittances"
+ },
+ "admitted": {
+  "ph": "/әd'mitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被承認了的, 公認的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 admitted｜過去式 admitted"
+ },
+ "admittedly": {
+  "ph": "/әd'mitidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "公認地, 誠然",
+    "def": ""
+   }
+  ]
+ },
+ "admitting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "承認（admit的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 admitting"
+ },
+ "admixture": {
+  "ph": "/æd'mikstʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混合, 混合物",
+    "def": "the state of impairing the quality or reducing the value of something"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 摻和劑; 混合物; 摻和; 混合",
+    "def": ""
+   }
+  ],
+  "forms": "複數 admixtures"
+ },
+ "adml": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Admiral",
+    "def": ""
+   }
+  ]
+ },
+ "admonish": {
+  "ph": "/әd'mɒniʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "警告, 勸告, 訓誡, 告誡",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 admonished｜過去分詞 admonished｜現在分詞 admonishing｜第三人稱單數 admonishes"
+ },
+ "admonishment": {
+  "ph": "/әd'mɔniʃmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訓戒；警告（等於admonition）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 admonishments"
+ },
+ "admonition": {
+  "ph": "/.ædmәu'niʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "警告, 勸告, 訓誡",
+    "def": "cautionary advice about something imminent (especially imminent danger or other unpleasantness)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 警告, 申戒, 勸告",
+    "def": ""
+   }
+  ],
+  "forms": "複數 admonitions"
+ },
+ "admonitory": {
+  "ph": "/әd'mɒnitәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "警告的, 勸告的, 訓誡的",
+    "def": ""
+   }
+  ]
+ },
+ "adn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "德意志通訊社（Allgemeiner Deutscher Nachrichtendienst, 等於General German News Service）；先進數字網路（Advanced Digital Network）；己二腈（Adiponitrile）",
+    "def": ""
+   }
+  ]
+ },
+ "adnan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Adnan)人名；(阿拉伯、土)阿德南",
+    "def": ""
+   }
+  ]
+ },
+ "ado": {
+  "ph": "/ә'du:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紛擾, 忙亂, 麻煩",
+    "def": ""
+   }
+  ]
+ },
+ "adobe": {
+  "ph": "/ә'doubi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風乾土坯",
+    "def": "the clay from which adobe bricks are made"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 風乾磚; 土磚; 灰質粘土; 多孔粘土",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adobes"
+ },
+ "adobo": {
+  "ph": "/ә'dәjbәj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿斗波(拉美、菲律賓等地的一種菜餚, 源自西班牙)",
+    "def": "a dish of marinated vegetables and meat or fish; served with rice"
+   }
+  ]
+ },
+ "adolescence": {
+  "ph": "/.ædәu'lesәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "青春期",
+    "def": "the time period between the beginning of puberty and adulthood"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 青年期, 青春期",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adolescences"
+ },
+ "adolescent": {
+  "ph": "/.ædәu'lesәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "青春期的, 青少年的",
+    "def": "relating to or peculiar to or suggestive of an adolescent"
+   },
+   {
+    "pos": "n.",
+    "zh": "青少年",
+    "def": "a juvenile between the onset of puberty and maturity"
+   }
+  ],
+  "forms": "複數 adolescents"
+ },
+ "adolf": {
+  "ph": "/'ædɔif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿道夫(亦作Adolph) (m.)",
+    "def": ""
+   }
+  ]
+ },
+ "adolfo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿道夫(人名)",
+    "def": ""
+   }
+  ]
+ },
+ "adolph": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿道夫（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "adolphus": {
+  "ph": "/ә'dɔlfәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿道弗斯(Adolf的異體)(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "adonis": {
+  "ph": "/ә'dәunis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿多尼斯(希臘神話人物), 美少年, 花花公子",
+    "def": "any handsome young man"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 福壽草, 側金盞花",
+    "def": ""
+   }
+  ]
+ },
+ "adopt": {
+  "ph": "/ә'dɒpt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "採用, 正式透過, 收養, 接受",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 採取",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adopted｜過去式 adopted｜現在分詞 adopting｜第三人稱單數 adopts"
+ },
+ "adoptable": {
+  "ph": "/ә'dɒptәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可採用的, 可收養的",
+    "def": "suitable or eligible for adoption"
+   }
+  ]
+ },
+ "adopted": {
+  "ph": "/ә'dɒptid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被收養的, 被採用的",
+    "def": "acquired as your own by free choice"
+   }
+  ],
+  "forms": "過去式 adopted｜過去分詞 adopted"
+ },
+ "adoptee": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 被收養者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adoptees"
+ },
+ "adopter": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 領養人, 收養人, 採用者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adopters"
+ },
+ "adopting": {
+  "ph": "/ə'dɒpt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "採取；接受；收養；正式透過",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "採取；過繼",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 adopting"
+ },
+ "adoption": {
+  "ph": "/ә'dɒpʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "採用, 採納, 收養",
+    "def": "the act of accepting with approval; favorable reception"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 收養, 採納, 採用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adoptions"
+ },
+ "adoptive": {
+  "ph": "/ә'dɒptiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有收養關係的, 採用的",
+    "def": "of parents and children; related by adoption"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 收養的, 採用的",
+    "def": ""
+   }
+  ]
+ },
+ "adorable": {
+  "ph": "/ә'dɒ:rәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可崇拜的, 值得敬慕的, 可愛的",
+    "def": ""
+   }
+  ]
+ },
+ "adorably": {
+  "ph": "/ә'dɒ:rәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可崇敬地, 美妙地, 可愛地",
+    "def": ""
+   }
+  ]
+ },
+ "adoral": {
+  "ph": "/ә'dɔ:rәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 近口的; 向口的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adorals"
+ },
+ "adoration": {
+  "ph": "/.ædә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "崇拜, 愛慕",
+    "def": "the act of admiring strongly"
+   }
+  ],
+  "forms": "複數 adorations"
+ },
+ "adore": {
+  "ph": "/ә'dɒ:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "崇拜, 愛慕, 喜愛",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "崇拜, 愛慕",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 adored｜第三人稱單數 adores｜過去分詞 adored｜現在分詞 adoring"
+ },
+ "adored": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "崇拜",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 adored｜過去分詞 adored"
+ },
+ "adoring": {
+  "ph": "/ә'dɒ:riŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "崇拜的, 敬慕的",
+    "def": ""
+   }
+  ]
+ },
+ "adoringly": {
+  "ph": "/ə'dɔriŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "敬慕地；崇拜地",
+    "def": ""
+   }
+  ]
+ },
+ "adorn": {
+  "ph": "/ә'dɒ:n/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "裝飾, 使生色",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adorned｜過去式 adorned｜現在分詞 adorning｜第三人稱單數 adorns"
+ },
+ "adornment": {
+  "ph": "/ә'dɒ:nmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝飾, 裝飾品",
+    "def": "a decoration of color or interest that is added to relieve plainness"
+   }
+  ],
+  "forms": "複數 adornments"
+ },
+ "adorno": {
+  "ph": "/ə'dɔ:nəu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿多諾（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "adp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 相關資料處理, 自動資料繪圖機, 自動資料處理, 自動診斷程式",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 腺苷二磷酸",
+    "def": ""
+   }
+  ]
+ },
+ "adrenal": {
+  "ph": "/ә'dri:nәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腎上的, 腎上腺的",
+    "def": "of or pertaining to the adrenal glands or their secretions"
+   },
+   {
+    "pos": "n.",
+    "zh": "腎上腺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adrenals"
+ },
+ "adrenalin": {
+  "ph": "/ә'drenәlin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腎上腺素",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 腎上腺素",
+    "def": ""
+   }
+  ]
+ },
+ "adrenaline": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腎上腺素",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 腎上腺素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adrenalines"
+ },
+ "adrian": {
+  "ph": "/'eidriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾德里安（男子名）；艾德里安市（美國密歇根州東南部城市）",
+    "def": "English physiologist who conducted research into the function of neurons; 1st baron of Cambridge (1889-1997)"
+   }
+  ]
+ },
+ "adriano": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿德里亞諾（巴西足球運動員）",
+    "def": ""
+   }
+  ]
+ },
+ "adriatic": {
+  "ph": "/.eidri'ætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞得里亞海的",
+    "def": ""
+   }
+  ]
+ },
+ "adrien": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿德里安（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "adrienne": {
+  "ph": "/'eidrien/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾德麗安(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "adrift": {
+  "ph": "/ә'drift/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "漂流地, 漂浮著, 隨波逐流地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "漂浮著的",
+    "def": ""
+   }
+  ]
+ },
+ "adroit": {
+  "ph": "/ә'drɒit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "靈巧的, 敏捷的, 聰明的",
+    "def": "quick or skillful or adept in action or thought"
+   }
+  ]
+ },
+ "adroitly": {
+  "ph": "/ә'drɒitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "靈巧地, 敏捷地",
+    "def": ""
+   }
+  ]
+ },
+ "adroitness": {
+  "ph": "/ə'drɔitnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熟練；機敏",
+    "def": ""
+   }
+  ]
+ },
+ "adsorb": {
+  "ph": "/æd'sɒ:b/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "吸附",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 吸附",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 adsorbed｜過去分詞 adsorbed｜第三人稱單數 adsorbs｜複數 adsorbs｜現在分詞 adsorbing"
+ },
+ "adsorbed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吸附了的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 adsorbed｜過去分詞 adsorbed"
+ },
+ "adsorption": {
+  "ph": "/æd'sɒ:pʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸附",
+    "def": "the accumulation of molecules of a gas to form a thin film on the surface of a solid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 吸附",
+    "def": ""
+   }
+  ]
+ },
+ "adt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 抽象資料型別, 現用磁碟表, 非同步資料收發機, 屬性分佈樹",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "自動資料翻譯程式, 獨立資料傳送",
+    "def": ""
+   }
+  ]
+ },
+ "adulate": {
+  "ph": "/'ædjuleit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "諂媚, 過分稱讚",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 adulated｜過去分詞 adulated｜現在分詞 adulating｜第三人稱單數 adulates"
+ },
+ "adulation": {
+  "ph": "/.ædju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "諂媚, 過分的稱讚",
+    "def": "servile flattery; exaggerated and hypocritical praise"
+   }
+  ]
+ },
+ "adulatory": {
+  "ph": "/'ædjuleitәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "諂媚的, 過分稱讚的",
+    "def": ""
+   }
+  ]
+ },
+ "adult": {
+  "ph": "/'ædʌlt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成人, 成蟲",
+    "def": "a fully developed person from maturity onward"
+   },
+   {
+    "pos": "adj.",
+    "zh": "成年的, 成熟的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adults"
+ },
+ "adulterate": {
+  "ph": "/ә'dʌltәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "摻雜",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "摻假的, 假的, 通姦的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adulterated｜過去式 adulterated｜第三人稱單數 adulterates｜現在分詞 adulterating"
+ },
+ "adulterated": {
+  "ph": "/ә'dʌltәreitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "摻入次級品的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 adulterated｜過去式 adulterated"
+ },
+ "adulteration": {
+  "ph": "/ә.dʌltә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摻雜, 摻假的東西",
+    "def": "being mixed with extraneous material; the product of adulterating"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 摻雜; 摻加",
+    "def": ""
+   }
+  ]
+ },
+ "adulterer": {
+  "ph": "/ә'dʌltәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "姦夫",
+    "def": "someone who commits adultery or fornication"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 姦夫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adulterers"
+ },
+ "adulteress": {
+  "ph": "/ә'dʌltәris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "姦婦",
+    "def": "a woman adulterer"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 姦婦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adulteresses"
+ },
+ "adulterous": {
+  "ph": "/ә'dʌltәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "通姦的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 通姦的",
+    "def": ""
+   }
+  ]
+ },
+ "adultery": {
+  "ph": "/ә'dʌltәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通姦",
+    "def": "extramarital sex that willfully and maliciously interferes with marriage relations"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 通姦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adulteries"
+ },
+ "adulthood": {
+  "ph": "/ә'dʌlthud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成年",
+    "def": "the period of time in your life after your physical growth has stopped and you are fully developed"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 成人期",
+    "def": ""
+   }
+  ]
+ },
+ "adults": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成年人（adult的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "adumbrate": {
+  "ph": "/'ædʌmbreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "畫...的輪廓, 預示",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 adumbrated｜第三人稱單數 adumbrates｜過去分詞 adumbrated｜現在分詞 adumbrating"
+ },
+ "advance": {
+  "ph": "/әd'vɑ:ns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前進, 進展, 行過的路程",
+    "def": "an amount paid before it is earned"
+   },
+   {
+    "pos": "vi.",
+    "zh": "前進, 進展, 提高, 上漲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使前進, 促進, 提出, 提高, 使提前, 預付",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "前面的, 預先的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 advances｜過去分詞 advanced｜過去式 advanced｜現在分詞 advancing｜第三人稱單數 advances"
+ },
+ "advanced": {
+  "ph": "/әd'vɑ:nst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "在前的, 高階的, 先進的, 年老的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 預付的, 預支的, 墊付的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 advanced｜過去分詞 advanced"
+ },
+ "advancement": {
+  "ph": "/әd'vɑ:nsmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前進, 進步, 提升",
+    "def": "gradual improvement or growth or development"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 徙前術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 advancements"
+ },
+ "advancer": {
+  "ph": "/әd'vɑ:nsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前進者；相位超前補償器, 進相機",
+    "def": "someone who advances"
+   }
+  ]
+ },
+ "advancing": {
+  "ph": "/æd'vɑ:nsiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 導前",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 進行的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 advancing"
+ },
+ "advantage": {
+  "ph": "/әd'vɑ:ntidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優點, 便利, 好處, 優勢",
+    "def": "the quality of having a superior or more favorable position"
+   },
+   {
+    "pos": "vt.",
+    "zh": "有助於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 advantages｜過去分詞 advantaged｜現在分詞 advantaging｜過去式 advantaged｜第三人稱單數 advantages"
+ },
+ "advantaged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "佔有利位置的；得天獨厚的；有利的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 advantaged｜過去式 advantaged"
+ },
+ "advantageous": {
+  "ph": "/.ædvәn'teidʒәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有利的, 有益的",
+    "def": "giving an advantage"
+   }
+  ]
+ },
+ "advantageously": {
+  "ph": "/,ædvən'teidʒəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有利地；方便地；有助地",
+    "def": ""
+   }
+  ]
+ },
+ "advantages": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優勢；特點；有利；[經] 利益（advantage的複數）",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "促進（advantage的三單形式）；有利於",
+    "def": ""
+   }
+  ]
+ },
+ "advent": {
+  "ph": "/'ædvәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "來到, 來臨",
+    "def": "arrival that has been awaited (especially of something momentous)"
+   }
+  ],
+  "forms": "複數 advents"
+ },
+ "adventist": {
+  "ph": "/'ædvәntist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "基督復臨論者",
+    "def": "a member of Christian denomination that expects the imminent advent of Christ"
+   }
+  ],
+  "forms": "複數 adventists"
+ },
+ "adventitious": {
+  "ph": "/.ædven'tiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偶然的, 外來的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 偶生的, 偶發的; 異位的",
+    "def": ""
+   }
+  ]
+ },
+ "adventure": {
+  "ph": "/әd'ventʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冒險, 冒險經歷",
+    "def": "a wild and exciting undertaking (not necessarily lawful)"
+   },
+   {
+    "pos": "v.",
+    "zh": "冒險",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adventures｜現在分詞 adventuring｜過去式 adventured｜第三人稱單數 adventures｜過去分詞 adventured"
+ },
+ "adventurer": {
+  "ph": "/әd'ventʃәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冒險家, 投機者",
+    "def": "a person who enjoys taking risks"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 冒險者, 投機者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adventurers"
+ },
+ "adventuresome": {
+  "ph": "/әd'ventʃәsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冒險性的",
+    "def": ""
+   }
+  ]
+ },
+ "adventuress": {
+  "ph": "/әd'ventʃәris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女冒險家, 女投機家",
+    "def": "a woman adventurer"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 女投機者, 女冒險家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adventuresses"
+ },
+ "adventurism": {
+  "ph": "/әd'ventʃәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冒險主義",
+    "def": "recklessness in politics or foreign affairs"
+   }
+  ]
+ },
+ "adventurous": {
+  "ph": "/әd'ventʃәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喜歡冒險的, 有進取心的, 危險的",
+    "def": "willing to undertake or seeking out new and daring enterprises"
+   }
+  ]
+ },
+ "adventurously": {
+  "ph": "/əd'ventʃərəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "愛冒險地",
+    "def": "In an adventurous manner; venturesomely; boldly;"
+   }
+  ]
+ },
+ "adventurousness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喜歡冒險；敢作敢為",
+    "def": "the trait of being adventurous"
+   }
+  ]
+ },
+ "adverb": {
+  "ph": "/'ædvә:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副詞",
+    "def": "the word class that qualifies verbs or clauses"
+   }
+  ],
+  "forms": "複數 adverbs"
+ },
+ "adverbial": {
+  "ph": "/әd'vә:bjәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "副詞的, 狀語的",
+    "def": "of or relating to or functioning as an adverb"
+   },
+   {
+    "pos": "n.",
+    "zh": "狀語",
+    "def": "a word or group of words function as an adverb"
+   }
+  ],
+  "forms": "複數 adverbials"
+ },
+ "adversarial": {
+  "ph": "/,ædvә'seәriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "敵手的,對手的,對抗(性)的",
+    "def": ""
+   }
+  ]
+ },
+ "adversary": {
+  "ph": "/'ædvәsәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敵手, 對手",
+    "def": "someone who offers opposition"
+   },
+   {
+    "pos": "adj.",
+    "zh": "敵手的, 敵對的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adversaries"
+ },
+ "adverse": {
+  "ph": "/'ædvә:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不利的, 敵對的, 相反的, 逆的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 相反的, 敵對的, 逆的",
+    "def": ""
+   }
+  ]
+ },
+ "adversely": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不利, 有害, 相反, 逆, 敵對, 逆向",
+    "def": ""
+   }
+  ]
+ },
+ "adversity": {
+  "ph": "/әd'vә:sәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "逆境, 不幸, 災禍, 災難",
+    "def": "a state of misfortune or affliction"
+   }
+  ],
+  "forms": "複數 adversities"
+ },
+ "advert": {
+  "ph": "/әd'vә:t/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "提出看法, 引起注意, 留意",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "廣告",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adverts｜過去分詞 adverted｜過去式 adverted｜現在分詞 adverting｜第三人稱單數 adverts"
+ },
+ "advertise": {
+  "ph": "/'ædvәtaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "做廣告, 通知, 公佈",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "做廣告",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 advertised｜過去式 advertised｜現在分詞 advertising｜第三人稱單數 advertises"
+ },
+ "advertised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "廣告的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 advertised｜過去分詞 advertised"
+ },
+ "advertisement": {
+  "ph": "/.ædvә'taizmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣告, 啟事, 廣告宣傳",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 廣告, 公告, 告示",
+    "def": ""
+   }
+  ],
+  "forms": "複數 advertisements"
+ },
+ "advertisements": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[經] 廣告（advertisement的複數）；宣傳",
+    "def": ""
+   }
+  ]
+ },
+ "advertiser": {
+  "ph": "/'ædvәtaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "做廣告者, 廣告客戶",
+    "def": "someone whose business is advertising"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 廣告商, 廣告者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 advertisers"
+ },
+ "advertising": {
+  "ph": "/'ædvәtaiziŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣告業, 廣告",
+    "def": "the business of drawing public attention to goods and services"
+   },
+   {
+    "pos": "adj.",
+    "zh": "廣告的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 發廣告",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 advertising"
+ },
+ "advice": {
+  "ph": "/әd'vais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "忠告, 勸告, 意見, 報道, 通知",
+    "def": "a proposal for an appropriate course of action"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 通知書, 通知, 建議",
+    "def": ""
+   }
+  ]
+ },
+ "advisability": {
+  "ph": "/әd.vaizә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "明智",
+    "def": "the quality of being advisable"
+   }
+  ]
+ },
+ "advisable": {
+  "ph": "/әd'vaizәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適當的, 明智的",
+    "def": "worthy of being recommended or suggested; prudent or wise"
+   }
+  ]
+ },
+ "advise": {
+  "ph": "/әd'vaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "勸告, 給...出主意, 通知, 建議",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "提意見, 商量",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 advised｜過去式 advised｜現在分詞 advising｜第三人稱單數 advises"
+ },
+ "advisedly": {
+  "ph": "/әd'vaizidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "經過考慮地, 故意地",
+    "def": ""
+   }
+  ]
+ },
+ "advisee": {
+  "ph": "/әd'vaizi:. .ædvai'zi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（美）受教授指導選課的學生；受到建議的人",
+    "def": "someone who receives advice"
+   }
+  ],
+  "forms": "複數 advisees"
+ },
+ "advisement": {
+  "ph": "/әd'vaizmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "深思熟慮, 周密的考慮, 勸告",
+    "def": ""
+   }
+  ]
+ },
+ "adviser": {
+  "ph": "/әd'vaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顧問, 勸告者, 指導教師",
+    "def": "an expert who gives advice"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 顧問, 勸告者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 advisers"
+ },
+ "advisor": {
+  "ph": "/әd'vaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顧問, 勸告者, 指導教師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 advisors"
+ },
+ "advisory": {
+  "ph": "/әd'vaizәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顧問的, 諮詢的, 勸告的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 勸告的, 忠告的, 諮詢的",
+    "def": ""
+   }
+  ]
+ },
+ "advocacy": {
+  "ph": "/'ædvәkәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擁護, 支援, 鼓吹, 辯護, 辯護術",
+    "def": "active support of an idea or cause etc.; especially the act of pleading or arguing for something"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 辯護, 擁護, 提倡",
+    "def": ""
+   }
+  ]
+ },
+ "advocate": {
+  "ph": "/'ædvәkeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提倡者, 擁護者",
+    "def": "a person who pleads for a cause or propounds an idea"
+   },
+   {
+    "pos": "vt.",
+    "zh": "主張, 提倡",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 advocated｜複數 advocates｜現在分詞 advocating｜過去式 advocated｜第三人稱單數 advocates"
+ },
+ "advocated": {
+  "ph": "/'ædvəkeɪt；-ət/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "提倡, 主張, 擁護",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "提倡者；支持者；律師",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 advocated"
+ },
+ "adze": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 扁斧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 adzes｜現在分詞 adzing｜過去分詞 adzed"
+ }
+}

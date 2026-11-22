@@ -1,0 +1,346 @@
+{
+ "zodiac": {
+  "ph": "/'zәudiæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃道帶, 黃道十二宮圖",
+    "def": "a belt-shaped region in the heavens on either side to the ecliptic; divided into 12 constellations or signs for astrological purposes"
+   }
+  ],
+  "forms": "複數 zodiacs"
+ },
+ "zodiacal": {
+  "ph": "/zәu'daiәkәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "黃道帶, 十二宮圖",
+    "def": "relating to or included in the zodiac"
+   }
+  ]
+ },
+ "zoe": {
+  "ph": "/'zәui/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生命",
+    "def": ""
+   }
+  ]
+ },
+ "zoetrope": {
+  "ph": "/'zәuitrәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋轉畫筒, 西洋鏡",
+    "def": "An optical toy, in which figures made to revolve on the"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 活動幻鏡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 zoetropes"
+ },
+ "zola": {
+  "ph": "/'zәulә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "左拉(1840-1902), 法國作家, 小說家",
+    "def": ""
+   }
+  ]
+ },
+ "zombie": {
+  "ph": "/'zɔmbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛇神, 起死回生的魔力, 殭屍, 回魂屍, (美)雞尾酒, 木雞, 討厭的傢伙",
+    "def": "several kinds of rum with fruit juice and usually apricot liqueur"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 殭屍",
+    "def": ""
+   }
+  ]
+ },
+ "zomby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "僵停",
+    "def": ""
+   }
+  ],
+  "forms": "複數 zombies"
+ },
+ "zon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[暗黑破壞神]見\"ama\"",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 zoned"
+ },
+ "zonal": {
+  "ph": "/'zәunl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "帶的, 帶狀的, 形成地帶的, 分割槽的",
+    "def": "relating to or of the nature of a zone"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 帶的, 區的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 zonals"
+ },
+ "zone": {
+  "ph": "/zәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地帶, 帶, 地區",
+    "def": "a locally circumscribed place characterized by some distinctive features"
+   },
+   {
+    "pos": "vt.",
+    "zh": "環繞, 使分成地帶",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "分成區",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 卡片頂部的三行區; 區; 區域",
+    "def": ""
+   }
+  ],
+  "forms": "複數 zones｜現在分詞 zoning｜過去式 zoned｜第三人稱單數 zones｜過去分詞 zoned"
+ },
+ "zoned": {
+  "ph": "/zәund/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "佩帶象徵處女的環帶的, 劃成區帶的, 處女(般)的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 zoned"
+ },
+ "zoning": {
+  "ph": "/'zәuniŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分割槽制",
+    "def": "dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 帶現象(補體結合)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 zoning"
+ },
+ "zonk": {
+  "ph": "/'zəʊŋk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "& vi. （使）筋疲力盡, （使）疲憊不堪",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 zonked｜過去式 zonked"
+ },
+ "zoo": {
+  "ph": "/zu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物園",
+    "def": ""
+   }
+  ],
+  "forms": "複數 zoos"
+ },
+ "zookeeper": {
+  "ph": "/'zu:,ki:pә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物園管理者",
+    "def": ""
+   }
+  ]
+ },
+ "zoological": {
+  "ph": "/.zәuә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "動物學的",
+    "def": "concerning the study of animals and their classification and properties"
+   }
+  ]
+ },
+ "zoologist": {
+  "ph": "/zәu'ɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物學家",
+    "def": "a specialist in the branch of biology dealing with animals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動物學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 zoologists"
+ },
+ "zoology": {
+  "ph": "/zәu'ɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物學, 動物區系",
+    "def": "the branch of biology that studies animals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動物學",
+    "def": ""
+   }
+  ]
+ },
+ "zoom": {
+  "ph": "/zu:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "急速上升, 變焦攝影, 嗡嗡聲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "猛增, 急速上升, 攝象機移動",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使攝象機移動",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 縮放",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 zoomed｜現在分詞 zooming｜第三人稱單數 zooms｜過去分詞 zoomed｜複數 zooms"
+ },
+ "zoomorphic": {
+  "ph": "/zәuәu'mɔ:fik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "動物形的, 獸形的",
+    "def": "Of or pertaining to zoomorphism."
+   }
+  ]
+ },
+ "zoonotic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 動物傳染病的",
+    "def": ""
+   }
+  ]
+ },
+ "zooplankton": {
+  "ph": "/,zәuә'plæŋktәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 浮游動物",
+    "def": ""
+   }
+  ]
+ },
+ "zoroastrian": {
+  "ph": "/zɔrәu'æstriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "與索羅亞斯德教有關的",
+    "def": "of or pertaining to Zoroaster or the religion he founded"
+   },
+   {
+    "pos": "n.",
+    "zh": "索羅亞斯德教的教徒",
+    "def": "follower of Zoroaster and Zoroastrianism"
+   }
+  ],
+  "forms": "複數 zoroastrians"
+ },
+ "zoser": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "左賽爾（古埃及第三王朝的法老）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 zosers"
+ },
+ "zoster": {
+  "ph": "/'zɒstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "帶狀皰疹, 帶",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 帶狀皰疹",
+    "def": ""
+   }
+  ]
+ },
+ "zoysia": {
+  "ph": "/'zɔisiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]結縷草",
+    "def": "any of several creeping grasses of the genus Zoysia"
+   }
+  ]
+ }
+}

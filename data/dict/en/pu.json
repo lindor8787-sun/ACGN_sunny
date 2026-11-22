@@ -1,0 +1,3865 @@
+{
+ "pu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 物理單元",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鈽(94號元素)",
+    "def": ""
+   }
+  ]
+ },
+ "pub": {
+  "ph": "/pʌb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酒館, 客棧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pubs"
+ },
+ "pube": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "陰毛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pubes"
+ },
+ "pubertal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 青春期的",
+    "def": ""
+   }
+  ]
+ },
+ "puberty": {
+  "ph": "/'pju:bәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "青春期, 春情發動期",
+    "def": "the time of life when sex glands become functional"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 青春期(12-17歲)",
+    "def": ""
+   }
+  ]
+ },
+ "pubescence": {
+  "ph": "/pju:'besns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "到達青春期, 軟毛",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 青春期, 有毛",
+    "def": ""
+   }
+  ]
+ },
+ "pubescent": {
+  "ph": "/pju:'besnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "青春期的, 有軟毛的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 青春期的, 有毛的",
+    "def": ""
+   }
+  ]
+ },
+ "pubic": {
+  "ph": "/'pju:bik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陰部的, 恥骨的",
+    "def": "relating or near the pubis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 恥骨的",
+    "def": ""
+   }
+  ]
+ },
+ "pubis": {
+  "ph": "/'pju:bis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "恥骨",
+    "def": "one of the three sections of the hipbone; together these two bones form the front of the pelvis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 恥骨",
+    "def": ""
+   }
+  ]
+ },
+ "public": {
+  "ph": "/'pʌblik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公眾, 民眾",
+    "def": "a body of people sharing some common interest"
+   },
+   {
+    "pos": "adj.",
+    "zh": "公眾的, 公共的, 公立的, 公用的",
+    "def": "not private; open to or concerning the people as a whole"
+   }
+  ]
+ },
+ "public company": {
+  "ph": "/ˈpʌblik ˈkʌmpəni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（有股票公開上市的）上市公司",
+    "def": ""
+   }
+  ]
+ },
+ "public opinion": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "輿論, 民意",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 民意輿論",
+    "def": ""
+   }
+  ]
+ },
+ "public relations": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "公共關係",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 公共關係",
+    "def": ""
+   }
+  ]
+ },
+ "public school": {
+  "ph": "/ˈpʌblik sku:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公立中小學",
+    "def": ""
+   }
+  ]
+ },
+ "public sector": {
+  "ph": "/ˈpʌblik ˈsektə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "公共部門, 公共成分",
+    "def": ""
+   }
+  ]
+ },
+ "public service": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 公用事業, 公職",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 公用事業, 公益服務",
+    "def": ""
+   }
+  ]
+ },
+ "public works": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 公共建築, 市政工程",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 公共建築, 市政工程, 公共工程",
+    "def": ""
+   }
+  ]
+ },
+ "publican": {
+  "ph": "/'pʌblikәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小酒館老闆, 酒店老闆, 客棧老闆, 徵收員",
+    "def": "the keeper of a public house"
+   }
+  ],
+  "forms": "複數 publicans"
+ },
+ "publication": {
+  "ph": "/.pʌbli'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出版物, 出版, 公佈",
+    "def": "a copy of a printed work offered for distribution"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 釋出",
+    "def": ""
+   }
+  ],
+  "forms": "複數 publications"
+ },
+ "publicise": {
+  "ph": "/'pʌblisaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "公佈, 為...做廣告, 宣傳",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 publicised｜現在分詞 publicising｜過去式 publicised｜第三人稱單數 publicises"
+ },
+ "publicised": {
+  "ph": "/'pʌblɪsaɪz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "宣傳, 宣揚；公佈, 頌",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 publicised｜過去式 publicised"
+ },
+ "publicist": {
+  "ph": "/'pʌblisist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "國際法學家, 政治評論家, 政治作家, 廣告員",
+    "def": "someone who publicizes"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 國際法學家, 公法學家, 政治學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 publicists"
+ },
+ "publicity": {
+  "ph": "/pʌb'lisiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "名聲, 宣傳, 公開場合",
+    "def": "the quality of being open to public view"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 宣傳, 廣告",
+    "def": ""
+   }
+  ]
+ },
+ "publicize": {
+  "ph": "/'pʌblisaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "宣傳",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 publicized｜現在分詞 publicizing｜過去式 publicized｜第三人稱單數 publicizes"
+ },
+ "publicized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "公佈；廣告；宣傳（publicize的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 publicized"
+ },
+ "publicly": {
+  "ph": "/'pʌblikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "公然地, 以公眾名義",
+    "def": ""
+   }
+  ]
+ },
+ "publicness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 公開性",
+    "def": ""
+   }
+  ]
+ },
+ "publish": {
+  "ph": "/'pʌbliʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "出版, 發行, 公開, 發表, 宣傳, 公佈",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "出版, 發行",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 published｜過去式 published｜現在分詞 publishing｜第三人稱單數 publishes"
+ },
+ "publishable": {
+  "ph": "/'pʌbliʃәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可發表的, 適於出版的",
+    "def": "suitable for publication"
+   }
+  ]
+ },
+ "published": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "已釋出的",
+    "def": "prepared and printed for distribution and sale"
+   }
+  ],
+  "forms": "過去式 published｜過去分詞 published"
+ },
+ "publisher": {
+  "ph": "/'pʌbliʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出版者, 發行人",
+    "def": "a firm in the publishing business"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 發行人, 出版者, 報刊發行者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 publishers"
+ },
+ "publishing": {
+  "ph": "/'pʌbliʃiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出版, 刊印, 發行",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 publishing"
+ },
+ "publishing house": {
+  "ph": "/ˈpʌblɪʃɪŋ haus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出版社; 出版公司",
+    "def": ""
+   }
+  ]
+ },
+ "puccini": {
+  "ph": "/pu:'tʃi:ni:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普契尼（義大利歌劇作曲家）",
+    "def": "Italian operatic composer noted for the dramatic realism of his operas (1858-1924)"
+   }
+  ]
+ },
+ "puce": {
+  "ph": "/pju:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紫褐色",
+    "def": "a color varying from dark purplish brown to dark red"
+   },
+   {
+    "pos": "adj.",
+    "zh": "紫褐色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puces"
+ },
+ "puck": {
+  "ph": "/pʌk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好惡作劇的小妖精, 淘氣小孩, 冰球",
+    "def": "a mischievous sprite of English folklore"
+   }
+  ]
+ },
+ "pucker": {
+  "ph": "/'pʌkә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使起皺",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "折成褶",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "皺紋",
+    "def": "an irregular fold in an otherwise even surface (as in cloth)"
+   }
+  ],
+  "forms": "過去式 puckered｜現在分詞 puckering｜第三人稱單數 puckers｜複數 puckers｜過去分詞 puckered"
+ },
+ "puckered": {
+  "ph": "/ˈpʌkəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使某物）起褶子或皺紋( pucker的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 puckered｜過去分詞 puckered"
+ },
+ "puckering": {
+  "ph": "/'pʌkərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使某物）起褶子或皺紋( pucker的現在分詞 ); 小褶紋; 小褶皺",
+    "def": ""
+   }
+  ]
+ },
+ "puckery": {
+  "ph": "/'pʌkәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "易皺的, 弄皺的, 縮攏的, 起褶的",
+    "def": "Producing, or tending to produce, a pucker; as, a puckery"
+   }
+  ]
+ },
+ "puckish": {
+  "ph": "/'pʌkiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頑皮的, 惡作劇的",
+    "def": ""
+   }
+  ]
+ },
+ "pud": {
+  "ph": "/pʌd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(小孩的)手, 前腳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puds"
+ },
+ "pudding": {
+  "ph": "/'pudiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "布丁",
+    "def": "any of various soft thick unsweetened baked dishes"
+   }
+  ],
+  "forms": "複數 puddings"
+ },
+ "puddle": {
+  "ph": "/'pʌdl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小池, 水坑, 膠土",
+    "def": "a mixture of wet clay and sand that can be used to line a pond and that is impervious to water when dry"
+   },
+   {
+    "pos": "vt.",
+    "zh": "攪濁, 攪煉",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "在泥汙中打滾, (把黏土等)搗製成膠土",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puddles｜現在分詞 puddling｜過去式 puddled｜第三人稱單數 puddles｜過去分詞 puddled"
+ },
+ "puddled": {
+  "ph": "/'pʌd(ə)l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水坑, 泥潭；膠土（由粘土與水和成, 不透水）",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使泥濘, 攪渾；把…搗製成膠土；攪煉；用膠土填塞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "攪泥漿；在水坑中嬉戲",
+    "def": ""
+   }
+  ]
+ },
+ "pudge": {
+  "ph": "/pʌdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "矮胖的人, 短而粗的東西",
+    "def": "a short fat person"
+   }
+  ]
+ },
+ "pudgy": {
+  "ph": "/'pʌdʒi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "矮胖的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 pudgier"
+ },
+ "pudsey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "帕齊（人名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "帕德西（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "pueblo": {
+  "ph": "/pu'eblәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普韋布洛印第安人, 印第安人村莊",
+    "def": "a member of any of about two dozen Native American peoples called `Pueblos' by the Spanish because they live in pueblos (villages built of adobe and rock)"
+   }
+  ],
+  "forms": "複數 pueblos"
+ },
+ "puerile": {
+  "ph": "/'pjuәrail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "孩子氣的, 天真的, 未成熟的",
+    "def": "of or characteristic of a child"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 兒童的, 幼稚的",
+    "def": ""
+   }
+  ]
+ },
+ "puerto": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埡口, 港口, 山口",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Puerto)人名；(西)普埃爾託",
+    "def": ""
+   }
+  ]
+ },
+ "puff": {
+  "ph": "/pʌf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一陣噴煙, 腫塊, 喘息",
+    "def": "a short light gust of air"
+   },
+   {
+    "pos": "v.",
+    "zh": "噴出, 張開, 吹捧, (使)充氣, 喘氣, (使)驕傲, (使)膨脹",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 puffed｜複數 puffs｜現在分詞 puffing｜過去分詞 puffed｜第三人稱單數 puffs"
+ },
+ "puffball": {
+  "ph": "/'pʌfbɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬勃(菌)",
+    "def": "any of various fungi of the family Lycoperdaceae whose round fruiting body discharges a cloud of spores when mature"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 馬勃",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puffballs"
+ },
+ "puffed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "疏鬆的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 puffed｜過去分詞 puffed"
+ },
+ "puffer": {
+  "ph": "/'pʌfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噴煙的人, 吹噓的人, 小絞車工",
+    "def": "any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; cl"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 吹捧者, 抬價人, 加價人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puffers"
+ },
+ "puffery": {
+  "ph": "/'pʌfәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誇大廣告, 吹捧",
+    "def": "a flattering commendation (especially when used for promotional purposes)"
+   }
+  ]
+ },
+ "puffin": {
+  "ph": "/'pʌfin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "角嘴海雀",
+    "def": "any of two genera of northern seabirds having short necks and brightly colored compressed bills"
+   }
+  ],
+  "forms": "複數 puffins"
+ },
+ "puffiness": {
+  "ph": "/'pʌfɪnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膨脹, 腫脹; 虛胖; 虛腫",
+    "def": ""
+   }
+  ]
+ },
+ "puffing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 言過其實的吹噓",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 puffing｜複數 puffings"
+ },
+ "puffy": {
+  "ph": "/'pʌfi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "脹大的, 肥胖的, 喘氣的, 一陣陣吹的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 虛腫的, 浮腫的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 puffier"
+ },
+ "pug": {
+  "ph": "/pʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "哈巴狗, 泥料, 拳擊運動員, (獸)腳印",
+    "def": "small compact smooth-coated breed of Asiatic origin having a tightly curled tail and broad flat wrinkled muzzle"
+   },
+   {
+    "pos": "vt.",
+    "zh": "搗, 跟蹤追尋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pugs｜現在分詞 pugging"
+ },
+ "pugh": {
+  "ph": "/pju:/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "呸(表示輕蔑、嫌惡)",
+    "def": "Pshaw! pish! -- a word used in contempt or disdain."
+   }
+  ]
+ },
+ "pugilism": {
+  "ph": "/'pju:dʒilizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拳擊",
+    "def": ""
+   }
+  ]
+ },
+ "pugilist": {
+  "ph": "/'pju:dʒilist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拳擊手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pugilists"
+ },
+ "pugilistic": {
+  "ph": "/.pju:dʒi'listik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "拳擊的, 拳擊運動員的",
+    "def": "of or relating to pugilism or pugilists"
+   }
+  ]
+ },
+ "pugin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Pugin)人名；(英、俄、芬)皮金；(法)皮然",
+    "def": "English architect who played a prominent role in the 19th century revival of Gothic architecture (1812-1852)"
+   }
+  ]
+ },
+ "pugnacious": {
+  "ph": "/pʌg'neiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好鬥的",
+    "def": ""
+   }
+  ]
+ },
+ "pugnaciously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "好鬥地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "愛爭吵地",
+    "def": ""
+   }
+  ]
+ },
+ "pugnacity": {
+  "ph": "/pʌg'næsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好鬥",
+    "def": ""
+   }
+  ]
+ },
+ "pugwash": {
+  "ph": "/'pʌ^wɔʃ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "conferences [復]帕格沃什會議(\"科學和世界事務會議\"的別稱)",
+    "def": ""
+   }
+  ]
+ },
+ "puissance": {
+  "ph": "/'pju:isns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "力, 勢, 權力",
+    "def": "power to influence or coerce"
+   }
+  ]
+ },
+ "puissant": {
+  "ph": "/'pju:isnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "強有力的, 強盛的, 有權力的",
+    "def": ""
+   }
+  ]
+ },
+ "puja": {
+  "ph": "/'pu:dʒɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<梵> n.(印度教的)禮拜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pujas"
+ },
+ "puke": {
+  "ph": "/pju:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘔吐, 嘔吐物, 吐劑",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "嘔吐",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 puking｜過去式 puked｜過去分詞 puked｜第三人稱單數 pukes"
+ },
+ "pukka": {
+  "ph": "/'pʌkә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "份量充足的, 純良的",
+    "def": ""
+   }
+  ]
+ },
+ "pula": {
+  "ph": "/'pu:lɑ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "普拉(南斯拉夫港市)",
+    "def": ""
+   }
+  ]
+ },
+ "pulchritude": {
+  "ph": "/'pʌlkritju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美麗",
+    "def": "physical beauty (especially of a woman)"
+   }
+  ]
+ },
+ "pulitzer": {
+  "ph": "/'pulitsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普利策（美國新聞業經營者）",
+    "def": "United States newspaper publisher (born in Hungary) who established the Pulitzer prizes (1847-1911)"
+   }
+  ],
+  "forms": "複數 pulitzers"
+ },
+ "pull": {
+  "ph": "/pul/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "拉, 拖, 拔, 牽, 撕開, 吸引",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "拉, 拖, 拔, 有吸引力",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "拉, 拖, 拔, 拉力, 牽引力, 划船, 吸引",
+    "def": "the act of pulling; applying force to move something toward or with you"
+   }
+  ],
+  "forms": "過去式 pulled｜現在分詞 pulling｜過去分詞 pulled｜第三人稱單數 pulls｜複數 pulls"
+ },
+ "pullback": {
+  "ph": "/'pulbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉回, 障礙, 阻擾",
+    "def": "a device (as a decorative loop of cord or fabric) for holding or drawing something back"
+   }
+  ]
+ },
+ "pulled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "牽引的；扯下來的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pulled｜過去分詞 pulled"
+ },
+ "pullen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人姓氏] 普倫職業名稱, 養馬人或綽號, 活潑的人來源於古法語, 含義是“小公馬”(colt)",
+    "def": ""
+   }
+  ]
+ },
+ "puller": {
+  "ph": "/'pulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拉的人, 拔具, 拉出器",
+    "def": "someone who applies force so as to cause motion toward herself or himself"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 拔出器; 拔具; 拆卸器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pullers"
+ },
+ "pullet": {
+  "ph": "/'pulit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小母雞",
+    "def": "young hen usually less than a year old"
+   }
+  ],
+  "forms": "複數 pullets"
+ },
+ "pulley": {
+  "ph": "/'puli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑車, 滑輪",
+    "def": "a simple machine consisting of a wheel with a groove in which a rope can run to change the direction or point of application of a force applied to the rope"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 滑車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pulleys"
+ },
+ "pullin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Pullin)人名；(英、葡)普林",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "牽引；吸入",
+    "def": ""
+   }
+  ]
+ },
+ "pulling": {
+  "ph": "/'puliŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 拉單晶的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 pulling｜複數 pullings"
+ },
+ "pullman": {
+  "ph": "/'pulmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "普爾曼式臥車",
+    "def": "luxurious passenger car; for day or night travel"
+   }
+  ],
+  "forms": "複數 pullmans"
+ },
+ "pullout": {
+  "ph": "/'pulaut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拔, 拉, 撤退",
+    "def": ""
+   }
+  ]
+ },
+ "pullover": {
+  "ph": "/'pul.әuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "套衫",
+    "def": "a sweater that is put on by pulling it over the head"
+   },
+   {
+    "pos": "adj.",
+    "zh": "套穿的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pullovers"
+ },
+ "pullulate": {
+  "ph": "/'pʌljuleit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "發芽, 抽芽, 充滿, 產生, 發展, 成長",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 出芽, 生芽, 發芽",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 pullulating｜過去式 pullulated｜第三人稱單數 pullulates｜過去分詞 pullulated"
+ },
+ "pulmonary": {
+  "ph": "/'pʌlmәnәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "肺的, 與肺有關的, 有肺的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 肺的",
+    "def": ""
+   }
+  ]
+ },
+ "pulmonologist": {
+  "ph": "/pʌl'mənɒlədʒɪst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胸腔科醫師",
+    "def": ""
+   }
+  ]
+ },
+ "pulp": {
+  "ph": "/pʌlp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "果肉, 紙漿",
+    "def": "any soft or soggy mass"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使化成紙漿, 除去...果肉",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變成紙漿",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 pulped｜過去式 pulped｜現在分詞 pulping｜複數 pulps｜第三人稱單數 pulps"
+ },
+ "pulpit": {
+  "ph": "/'pulpit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "講道壇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pulpits"
+ },
+ "pulpwood": {
+  "ph": "/'pʌlpwud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紙漿用木材",
+    "def": "softwood used to make paper"
+   }
+  ]
+ },
+ "pulpy": {
+  "ph": "/'pʌlpi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "果肉狀的, 紙漿狀的, 泥狀的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 髓樣的, 軟的",
+    "def": ""
+   }
+  ]
+ },
+ "pulsar": {
+  "ph": "/'pʌlsɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脈衝星",
+    "def": "a degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation"
+   }
+  ],
+  "forms": "複數 pulsars"
+ },
+ "pulsatance": {
+  "ph": "/'pʌlsətəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "角頻率；角速度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pulsatances"
+ },
+ "pulsate": {
+  "ph": "/'pʌlseit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "搏動, 悸動, 震動",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 搏動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 pulsating｜過去式 pulsated｜複數 pulsates｜第三人稱單數 pulsates｜過去分詞 pulsated"
+ },
+ "pulsatile": {
+  "ph": "/'pʌlsәtail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "脈動的, 悸動的, 跳動的",
+    "def": "Capable of being struck or beaten; played by beating or"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 搏動的",
+    "def": ""
+   }
+  ]
+ },
+ "pulsating": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "脈動的；搏動的；脈衝的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 pulsating"
+ },
+ "pulsation": {
+  "ph": "/pʌl'seiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "悸動, 震動",
+    "def": "(electronics) a sharp transient wave in the normal electrical state (or a series of such transients)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 脈動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pulsations"
+ },
+ "pulse": {
+  "ph": "/pʌls/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "脈衝, 脈搏, 情緒, 意向, 拍子, 豆類",
+    "def": "the rhythmic contraction and expansion of the arteries with each beat of the heart"
+   },
+   {
+    "pos": "vi.",
+    "zh": "跳動, 脈跳",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使跳動, 用脈衝調製",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 脈衝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pulses｜過去式 pulsed｜現在分詞 pulsing｜過去分詞 pulsed｜第三人稱單數 pulses"
+ },
+ "pulsed": {
+  "ph": "/pʌlst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "脈衝的；跳動的；脈衝調製的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pulsed｜過去分詞 pulsed"
+ },
+ "pulsing": {
+  "ph": "/'pʌlsiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 脈衝的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 pulsing｜複數 pulsings"
+ },
+ "pulverise": {
+  "ph": "/'pʌlvәraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "vi. 使成粉末, 研磨, 把...壓成粉末",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "(非正式)粉碎, 徹底打敗, 徹底摧毀",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變成塵埃",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 pulverised｜過去式 pulverised｜第三人稱單數 pulverises｜現在分詞 pulverising"
+ },
+ "pulverised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "粉碎（pulverise的過去式）",
+    "def": ""
+   }
+  ]
+ },
+ "pulverize": {
+  "ph": "/'pʌlvәraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "把...磨成粉",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變成粉",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 pulverized｜過去式 pulverized｜現在分詞 pulverizing｜第三人稱單數 pulverizes"
+ },
+ "pulverized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粉狀的；成粉末的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pulverized｜過去分詞 pulverized"
+ },
+ "puma": {
+  "ph": "/'pju:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美洲獅, 美洲獅毛皮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pumas"
+ },
+ "pumice": {
+  "ph": "/'pʌmis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "輕石, 浮石",
+    "def": "a light glass formed on the surface of some lavas; used as an abrasive"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用浮石磨光",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pumices｜現在分詞 pumicing｜過去式 pumiced｜第三人稱單數 pumices｜過去分詞 pumiced"
+ },
+ "pummel": {
+  "ph": "/'pʌml/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擊, 打, 揍",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pummelled｜現在分詞 pummelling｜過去分詞 pummelled｜第三人稱單數 pummels"
+ },
+ "pummeled": {
+  "ph": "/'pʌm(ə)l/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擊；打；用拳頭連續揍",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "（馬鞍的）前鞍橋；球壯末端；（刀把或劍柄的）圓頭（等於pommel）",
+    "def": ""
+   }
+  ]
+ },
+ "pummeling": {
+  "ph": "/'pʌm(ə)l/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擊；打；用拳頭連續揍",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "（馬鞍的）前鞍橋；球壯末端；（刀把或劍柄的）圓頭（等於pommel）",
+    "def": ""
+   }
+  ]
+ },
+ "pump": {
+  "ph": "/pʌmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抽水機, 打氣筒, 泵, 抽吸",
+    "def": "a mechanical device that moves fluid or gas by pressure or suction"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用唧筒抽水, 打氣, 盤問, 傾注, 使疲憊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "抽水, 上下(或往復)運動",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pumps｜過去分詞 pumped｜現在分詞 pumping｜過去式 pumped｜第三人稱單數 pumps"
+ },
+ "pumped": {
+  "ph": "/pʌmpt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（肌肉由於過度運動）腫脹的；喘得上氣不接下氣的；腐心的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pumped｜過去分詞 pumped"
+ },
+ "pumper": {
+  "ph": "/'pʌmpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "消防車, 使用唧筒者, 唧筒式抽水機",
+    "def": "One who pumps; the instrument or machine used in pumping."
+   }
+  ]
+ },
+ "pumpernickel": {
+  "ph": "/'pʌmpәnikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裸麥粉粗麵包",
+    "def": ""
+   }
+  ]
+ },
+ "pumping": {
+  "ph": "/'pʌmpiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抽水, 泵送",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 抽運",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 pumping"
+ },
+ "pumpkin": {
+  "ph": "/'pʌmpkin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "南瓜",
+    "def": "a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subspecies of Cucurbita pepo include the summer"
+   }
+  ],
+  "forms": "複數 pumpkins"
+ },
+ "pun": {
+  "ph": "/pʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙關語, 俏皮話",
+    "def": "a humorous play on words"
+   },
+   {
+    "pos": "vi.",
+    "zh": "說雙關語, 說俏皮話",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用雙關語說服, 搗實",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puns｜現在分詞 punning｜第三人稱單數 puns｜過去分詞 punned｜過去式 punned"
+ },
+ "punch": {
+  "ph": "/pʌntʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打洞器, 鑽孔機, 衝壓機, 衝床, 潘趣酒",
+    "def": "(boxing) a blow with the fist"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以拳重擊, 開洞, 衝壓",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "用拳猛擊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 punched｜複數 punches｜現在分詞 punching｜過去分詞 punched｜第三人稱單數 punches"
+ },
+ "punchbowl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "潘趣酒碗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 punchbowls"
+ },
+ "punchcard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "穿孔卡（舊時把資訊打成一排排的小孔, 用以將指令輸入計算機等）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 punchcards"
+ },
+ "punched": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿孔, 無孔的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 punched｜過去分詞 punched"
+ },
+ "puncher": {
+  "ph": "/'pʌntʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電報鑿孔機, 衝床工, 鑽床工, (非正式)報務員, 牧人",
+    "def": "someone who delivers punches"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 穿孔員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 punchers"
+ },
+ "punching": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 穿孔",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 衝孔",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 punching"
+ },
+ "punchline": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結尾警語；妙語如珠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 punchlines"
+ },
+ "punchy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有力的, 生氣勃勃的",
+    "def": "Short and thick, or fat."
+   }
+  ],
+  "forms": "比較級 punchier"
+ },
+ "punctilious": {
+  "ph": "/pʌŋk'tiliәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精密細心的, 一絲不苟的, 拘泥形式的",
+    "def": ""
+   }
+  ]
+ },
+ "punctual": {
+  "ph": "/'pәŋktʃuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "準時的, 守時的, 點狀的, 中肯的",
+    "def": "acting or arriving or performed exactly at the time appointed"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 準時的, 不誤期的, 準時",
+    "def": ""
+   }
+  ]
+ },
+ "punctuality": {
+  "ph": "/.pʌŋktʃu'æliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嚴守時間, 正確",
+    "def": "the quality or habit of adhering to an appointed time"
+   }
+  ]
+ },
+ "punctually": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "守時地, 按期地, 準時地, 正確地, 精確地",
+    "def": ""
+   }
+  ]
+ },
+ "punctuate": {
+  "ph": "/'pʌŋktjueit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "vi. 給文章加標點, 加標點符號",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "強調, 加強, (常用被動)不時打斷",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "標點, 標點法, 標點符號",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 punctuated｜現在分詞 punctuating｜過去式 punctuated｜第三人稱單數 punctuates"
+ },
+ "punctuation": {
+  "ph": "/.pʌŋktʃu'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "標點, 標點符號",
+    "def": "something that makes repeated and regular interruptions or divisions"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 標點符號",
+    "def": ""
+   }
+  ],
+  "forms": "複數 punctuations"
+ },
+ "puncture": {
+  "ph": "/'pʌŋktʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刺痕, 穿刺",
+    "def": "loss of air pressure in a tire when a hole is made by some sharp object"
+   },
+   {
+    "pos": "vt.",
+    "zh": "刺穿, 刺, 揭穿",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被刺穿",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 punctured｜過去式 punctured｜複數 punctures｜現在分詞 puncturing｜第三人稱單數 punctures"
+ },
+ "punctured": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "具刻點的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 punctured｜過去式 punctured"
+ },
+ "pundit": {
+  "ph": "/'pʌndit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學者, 梵文學者, 博學的印度人, 權威",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pundits"
+ },
+ "punditry": {
+  "ph": "/'pʌnditri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "專家(或權威等)的學問(或方法、見解)",
+    "def": ""
+   }
+  ]
+ },
+ "pungency": {
+  "ph": "/'pʌndʒәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辛辣, 刺激, 苦痛",
+    "def": "wit having a sharp and caustic quality"
+   }
+  ]
+ },
+ "pungent": {
+  "ph": "/'pʌndʒәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "刺激性的, 尖刻的, 苦痛的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 衝味的, 刺激味的",
+    "def": ""
+   }
+  ]
+ },
+ "pungently": {
+  "ph": "/'pʌndʒəntlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "苦痛地, 尖銳地",
+    "def": ""
+   }
+  ]
+ },
+ "punic": {
+  "ph": "/'pju:nik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "古迦太基人的, 沒有信義的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "迦太基語",
+    "def": "the Phoenician dialect of ancient Carthage"
+   }
+  ]
+ },
+ "punish": {
+  "ph": "/'pʌniʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "處罰, 懲罰, 嚴厲對待",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "懲罰",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 punished｜現在分詞 punishing｜過去式 punished｜第三人稱單數 punishes"
+ },
+ "punishable": {
+  "ph": "/'pʌniʃәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "該罰的, 可罰的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 該罰的, 可受懲處的",
+    "def": ""
+   }
+  ]
+ },
+ "punished": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "未受處罰的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 punished｜過去式 punished"
+ },
+ "punisher": {
+  "ph": "/'pʌniʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "處罰者, 懲罰者",
+    "def": "One who inflicts punishment."
+   },
+   {
+    "pos": "",
+    "zh": "[法] 處罰者, 懲罰者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 punishers"
+ },
+ "punishing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人精疲力竭的, 消耗體力的",
+    "def": "resulting in punishment"
+   }
+  ],
+  "forms": "現在分詞 punishing"
+ },
+ "punishment": {
+  "ph": "/'pʌniʃmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "處罰, 刑罰, 懲罰",
+    "def": "the act of punishing"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 罰, 處罰, 刑罰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 punishments"
+ },
+ "punitive": {
+  "ph": "/'pju:nitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "刑罰的, 懲罰性的",
+    "def": "inflicting punishment"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 刑罰的, 懲罰性的, 結予懲處的",
+    "def": ""
+   }
+  ]
+ },
+ "punitively": {
+  "ph": "/'pju:nətivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "懲罰地；刑罰的",
+    "def": ""
+   }
+  ]
+ },
+ "punjab": {
+  "ph": "/pʌn'dʒɑ:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旁遮普(南亞一地區)",
+    "def": "a historical region on northwestern India and northern Pakistan"
+   }
+  ]
+ },
+ "punjabi": {
+  "ph": "/.pʌn'dʒɑ:bi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旁遮普人, 旁遮普語",
+    "def": "a member of the majority people of Punjab in northwestern India"
+   },
+   {
+    "pos": "adj.",
+    "zh": "旁遮普的, 旁遮普人的, 旁遮普語的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 punjabis"
+ },
+ "punk": {
+  "ph": "/pʌnk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廢物, 小阿飛",
+    "def": "substance that smolders when ignited; used to light fuses (especially fireworks)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "無用的, 腐朽的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 punks"
+ },
+ "punky": {
+  "ph": "/'pʌŋkɪ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "含火絨（或朽木）的; 鬆軟的; 有彈性的; 悶燒的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 punkier"
+ },
+ "punnet": {
+  "ph": "/'pʌnit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓形淺底小籃",
+    "def": "a small light basket used as a measure for fruits"
+   }
+  ],
+  "forms": "複數 punnets"
+ },
+ "punning": {
+  "ph": "/pʌnɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "說雙關語, 說俏皮話( pun的現在分詞 ); 夯實",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 punning"
+ },
+ "punt": {
+  "ph": "/pʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方頭平底船, 踢懸空球, 賭博者",
+    "def": "an open flat-bottomed boat used in shallow waters and propelled by a long pole"
+   },
+   {
+    "pos": "v.",
+    "zh": "踢懸空球, 用篙撐船, 賭博",
+    "def": "kick the ball"
+   }
+  ],
+  "forms": "複數 punts｜現在分詞 punting｜過去式 punted｜過去分詞 punted｜第三人稱單數 punts"
+ },
+ "punta": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Punta)人名；(西、芬)蓬塔",
+    "def": ""
+   }
+  ]
+ },
+ "punter": {
+  "ph": "/'pʌntә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用篙撐船的人, 船伕, 賭博者",
+    "def": "someone who propels a boat with a pole"
+   }
+  ],
+  "forms": "複數 punters"
+ },
+ "punting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "撐篙；踢空中球",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 punting"
+ },
+ "puny": {
+  "ph": "/'pju:ni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "微小的, 弱小的, 微不足道的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 punier｜最高級 puniest"
+ },
+ "pup": {
+  "ph": "/pʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小狗, 幼畜, 令人討厭的年輕人",
+    "def": "young of any of various canines such as a dog or wolf"
+   },
+   {
+    "pos": "v.",
+    "zh": "生小狗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pups｜過去分詞 pupped｜第三人稱單數 pups｜現在分詞 pupping｜過去式 pupped"
+ },
+ "pupa": {
+  "ph": "/'pju:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛹",
+    "def": "an insect in the inactive stage of development (when it is not feeding) intermediate between larva and adult"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蛹",
+    "def": ""
+   }
+  ]
+ },
+ "pupae": {
+  "ph": "/'pju:pi:/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "蛹",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pupae"
+ },
+ "pupal": {
+  "ph": "/'pju:pl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蛹的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蛹的",
+    "def": ""
+   }
+  ]
+ },
+ "pupate": {
+  "ph": "/'pju:peit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "化蛹",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 pupates｜過去分詞 pupated｜現在分詞 pupating｜過去式 pupated"
+ },
+ "pupfish": {
+  "ph": "/'pʌpfiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[魚]鱂, (美國西部產的)內華達鱂",
+    "def": ""
+   }
+  ]
+ },
+ "pupil": {
+  "ph": "/'pju:pl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學生, 門生, 未成年人, 瞳孔",
+    "def": "the contractile aperture in the center of the iris of the eye; resembles a large black dot"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瞳孔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pupils"
+ },
+ "puppet": {
+  "ph": "/'pʌpit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傀儡, 木偶",
+    "def": "a small figure of a person operated from above with strings by a puppeteer"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 木偶, 傀儡, 受他人操縱的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puppets"
+ },
+ "puppeteer": {
+  "ph": "/.pʌpi'tiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "操縱木偶的人",
+    "def": "one who operates puppets or marionettes"
+   }
+  ],
+  "forms": "複數 puppeteers"
+ },
+ "puppetry": {
+  "ph": "/'pʌpitri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "木偶, 傀儡",
+    "def": "the art of making puppets and presenting puppet shows"
+   }
+  ]
+ },
+ "puppy": {
+  "ph": "/'pʌpi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小狗, 小動物, 自負的年輕人",
+    "def": "a young dog"
+   }
+  ],
+  "forms": "複數 puppies"
+ },
+ "pur": {
+  "ph": "/pә:/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "發出喉音；咕嚕咕嚕叫",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 purring"
+ },
+ "purblind": {
+  "ph": "/'pә:blaind/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "半盲的, 愚鈍的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成半瞎",
+    "def": ""
+   }
+  ]
+ },
+ "purcell": {
+  "ph": "/'pә:sl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "珀塞爾(①姓氏 ②Edward Mills, 1912-, 美國物理學家, 曾獲1952年諾貝爾物理學獎)",
+    "def": ""
+   }
+  ]
+ },
+ "purchase": {
+  "ph": "/'pә:tʃәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "購買, 購買品, 緊握, 絞轆",
+    "def": "the acquisition of something for payment"
+   },
+   {
+    "pos": "vt.",
+    "zh": "購買, 贏得, 努力取得, 用滑輪起(錨等)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 purchased｜複數 purchases｜過去式 purchased｜現在分詞 purchasing｜第三人稱單數 purchases"
+ },
+ "purchased": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "已經購買的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 purchased｜過去分詞 purchased"
+ },
+ "purchaser": {
+  "ph": "/'pә:tʃәsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "買方, 購買者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 買主, 購買人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 purchasers"
+ },
+ "purchasing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 採購的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 purchasing"
+ },
+ "purdah": {
+  "ph": "/'pә:dɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窗簾, 帷幕",
+    "def": "the traditional Hindu or Muslim system of keeping women secluded"
+   }
+  ]
+ },
+ "purdy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Purdy)人名；(英)珀迪",
+    "def": ""
+   }
+  ]
+ },
+ "pure": {
+  "ph": "/pjuә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "純的, 純淨的, 純潔的, 清白的, 完美的, 無瑕的, 抽象的",
+    "def": "free of extraneous elements of any kind"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 的, 純淨的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 purest｜比較級 purer"
+ },
+ "purebred": {
+  "ph": "/'pjuәbred/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "純種的",
+    "def": "bred for many generations from member of a recognized breed or strain"
+   },
+   {
+    "pos": "n.",
+    "zh": "純種動物",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 purebred｜複數 purebreds"
+ },
+ "pured": {
+  "ph": "/pjʊə/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "純粹的, 不摻雜的；純淨的, 潔淨的；無垢的；清潔的",
+    "def": "Purified; refined."
+   }
+  ]
+ },
+ "puree": {
+  "ph": "/'pjjәrei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "菜泥, 果泥, 醬, 濃湯",
+    "def": "food prepared by cooking and straining or processed in a blender"
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...製成濃湯/醬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 purees｜現在分詞 pureeing｜過去式 pureed｜第三人稱單數 purees｜過去分詞 pureed"
+ },
+ "purely": {
+  "ph": "/'pjuәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "純粹地, 清白地, 貞潔地",
+    "def": ""
+   }
+  ]
+ },
+ "purest": {
+  "ph": "/ˈpjʊərɪst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "純的( pure的最高階 ); 單純的; 純真的; 乾淨的",
+    "def": ""
+   }
+  ]
+ },
+ "purgation": {
+  "ph": "/pә:'geiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清潔, 淨化, 洗罪, 通便",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 催瀉",
+    "def": ""
+   }
+  ]
+ },
+ "purgative": {
+  "ph": "/'pә:gәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淨化的, 通便的, 贖罪的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "瀉劑",
+    "def": "a purging medicine; stimulates evacuation of the bowels"
+   }
+  ],
+  "forms": "複數 purgatives"
+ },
+ "purgatorial": {
+  "ph": "/.pә:gә'tɒ:riәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "煉獄的, 滌罪的",
+    "def": "serving to purge or rid of sin"
+   }
+  ]
+ },
+ "purgatory": {
+  "ph": "/'pә:gәtәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滌罪, 煉獄",
+    "def": "a temporary condition of torment or suffering"
+   },
+   {
+    "pos": "adj.",
+    "zh": "滌罪的",
+    "def": ""
+   }
+  ]
+ },
+ "purge": {
+  "ph": "/pә:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淨化, 清除, 瀉藥",
+    "def": "the act of clearing yourself (or another) from some stigma or charge"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)淨化, 清除, (使)通便",
+    "def": "oust politically"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 伺服器檔案刪除實用程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 purges｜過去分詞 purged｜現在分詞 purging｜過去式 purged｜第三人稱單數 purges"
+ },
+ "purged": {
+  "ph": "/pə:dʒd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "清除（政敵等）( purge的過去式和過去分詞 ); 滌除（罪惡等）; 淨化（心靈、風氣等）; <律>消除（錯事等）的不良影響",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 purged｜過去式 purged"
+ },
+ "purging": {
+  "ph": "/'pә:dʒiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 催瀉的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 purging｜複數 purgings"
+ },
+ "puri": {
+  "ph": "/'pu:ri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[印尼]宮, 宮殿",
+    "def": "See Euxanthin."
+   }
+  ],
+  "forms": "複數 puri"
+ },
+ "purification": {
+  "ph": "/.pjurifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "純化, 提純, 滌罪",
+    "def": "the act of cleaning by getting rid of impurities"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 提純",
+    "def": ""
+   }
+  ],
+  "forms": "複數 purifications"
+ },
+ "purified": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淨化的；精製的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 purified｜過去分詞 purified"
+ },
+ "purifier": {
+  "ph": "/'pjuәrifaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使潔淨的人, 提純者, 精煉器, 提純器, 精煉者",
+    "def": "an apparatus for removing impurities"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 淨化器; 淨化裝置; 清洗器; 提純器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 purifiers"
+ },
+ "purify": {
+  "ph": "/'pjuәrifai/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "變純淨",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使純淨, 淨化, 提純, 精煉",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 purified｜過去分詞 purified｜現在分詞 purifying｜第三人稱單數 purifies"
+ },
+ "purifying": {
+  "ph": "/'pjuәrifaiiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淨化；精製",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 purifying"
+ },
+ "purine": {
+  "ph": "/'pjuәri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘌呤",
+    "def": "any of several bases that are derivatives of purine"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 嘌呤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 purines"
+ },
+ "purism": {
+  "ph": "/'pjuәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語言純正主義, 純粹派",
+    "def": "scrupulous or exaggerated insistence on purity or correctness (especially in language)"
+   }
+  ]
+ },
+ "purist": {
+  "ph": "/'pjuәrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "純粹主義者",
+    "def": "someone who insists on great precision and correctness (especially in the use of words)"
+   }
+  ],
+  "forms": "複數 purists"
+ },
+ "puritan": {
+  "ph": "/'pjuәritn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清教徒",
+    "def": "a member of a group of English Protestants who in the 16th and 17th centuries thought that the Protestant Reformation under Elizabeth was incomplete and advocat"
+   },
+   {
+    "pos": "adj.",
+    "zh": "清教徒的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puritans"
+ },
+ "puritanical": {
+  "ph": "/,pjuәri'tænikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "清教徒的, 清教主義的, 宗教上極端拘謹的, 道德上極端拘謹的",
+    "def": "of or relating to Puritans or Puritanism"
+   }
+  ]
+ },
+ "puritanism": {
+  "ph": "/'pjuәritәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清教, 清教主義",
+    "def": "the beliefs and practices characteristic of Puritans (most of whom were Calvinists who wished to purify the Church of England of its Catholic aspects)"
+   }
+  ]
+ },
+ "purity": {
+  "ph": "/'pjuәrәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "純淨, 純正, 純粹",
+    "def": "being undiluted or unmixed with extraneous material"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 純度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 purities"
+ },
+ "purl": {
+  "ph": "/pә:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金銀線, 邊飾, 反針, 潺潺聲, 苦艾啤酒",
+    "def": "gold or silver wire thread"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用金銀絲繡, 用反針編織",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "潺潺流水, 用反針編織",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 purling｜過去式 purled｜複數 purls｜第三人稱單數 purls｜過去分詞 purled"
+ },
+ "purley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "珀利（英國地名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "帕裡（人名）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "普爾來（一網際網路伺服器平臺名）",
+    "def": ""
+   }
+  ]
+ },
+ "purlieu": {
+  "ph": "/'pә:lju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "森林邊緣, 常去的地方, 範圍, 界限",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 森林邊緣的空地, 界限, 常到的地方",
+    "def": ""
+   }
+  ]
+ },
+ "purlin": {
+  "ph": "/'pә:lin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檁",
+    "def": "Alt. of Purline"
+   }
+  ],
+  "forms": "複數 purlins"
+ },
+ "purloin": {
+  "ph": "/pә:'lɒin/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "偷竊, 盜取",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 purloined｜過去分詞 purloined｜現在分詞 purloining｜複數 purloins｜第三人稱單數 purloins"
+ },
+ "purloined": {
+  "ph": "/pəˈlɔɪnd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "偷竊( purloin的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 purloined"
+ },
+ "purnell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Purnell)人名；(英)珀內爾",
+    "def": ""
+   }
+  ]
+ },
+ "purple": {
+  "ph": "/'pә:pl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紫色, 帝位",
+    "def": "a purple color or pigment"
+   },
+   {
+    "pos": "adj.",
+    "zh": "紫色的, 帝王的, 華而不實的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)成紫色",
+    "def": "become purple"
+   }
+  ],
+  "forms": "複數 purples｜過去分詞 purpled｜現在分詞 purpling｜過去式 purpled｜第三人稱單數 purples｜比較級 purpler｜最高級 purplest"
+ },
+ "purplish": {
+  "ph": "/'pә:pliʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "略帶紫色的",
+    "def": ""
+   }
+  ]
+ },
+ "purport": {
+  "ph": "/'pә:pɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "意義, 要旨, 目的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "意味著, 聲稱, 打算",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 purports｜現在分詞 purporting｜過去式 purported｜過去分詞 purported"
+ },
+ "purported": {
+  "ph": "/pә:'pɔ:tid. 'pә:p-. 'pә:pә-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傳說的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 purported"
+ },
+ "purportedly": {
+  "ph": "/p\\\\\\\\:'pɔ:tidli,'p\\\\\\\\:p-,'p\\\\\\\\:pәt-/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "據稱",
+    "def": ""
+   }
+  ]
+ },
+ "purpose": {
+  "ph": "/'pә:pәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "目的, 意向, 決心, 用途, 效果, 論題",
+    "def": "an anticipated outcome that is intended or that guides your planned actions"
+   },
+   {
+    "pos": "vt.",
+    "zh": "意欲, 企圖, 計劃",
+    "def": ""
+   }
+  ],
+  "forms": "複數 purposes｜現在分詞 purposing｜過去式 purposed｜第三人稱單數 purposes｜過去分詞 purposed"
+ },
+ "purpose-built": {
+  "ph": "/'p\\\\\\\\:pәsbilt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "為特定目的而造的",
+    "def": ""
+   }
+  ]
+ },
+ "purposeful": {
+  "ph": "/'pә:pәsful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有目的的",
+    "def": "serving as or indicating the existence of a purpose or goal"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有意圖的, 有目的的, 故意的",
+    "def": ""
+   }
+  ]
+ },
+ "purposefully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "自覺地；有目的地",
+    "def": ""
+   }
+  ]
+ },
+ "purposefulness": {
+  "ph": "/'pɜ:pəsflnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "果斷, 意志堅定",
+    "def": "the quality of having a definite purpose"
+   }
+  ]
+ },
+ "purposeless": {
+  "ph": "/'pә:pәslis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無目的的, 無意義的",
+    "def": "not evidencing any purpose or goal"
+   }
+  ]
+ },
+ "purposelessness": {
+  "ph": "/'pɜ:pəsləsnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無目的",
+    "def": "the quality of lacking any definite purpose"
+   }
+  ]
+ },
+ "purposely": {
+  "ph": "/'pә:pәsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "故意地",
+    "def": ""
+   }
+  ]
+ },
+ "purposive": {
+  "ph": "/'pә:pәsiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有目的的",
+    "def": ""
+   }
+  ]
+ },
+ "purposiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "目的性",
+    "def": ""
+   }
+  ]
+ },
+ "purpura": {
+  "ph": "/'pә:pjurә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紫癜",
+    "def": "any of several blood diseases causing subcutaneous bleeding"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 紫癜",
+    "def": ""
+   }
+  ]
+ },
+ "purr": {
+  "ph": "/pә:/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "呼嚕呼嚕叫, 發出喉音",
+    "def": "indicate pleasure by purring; characteristic of cats"
+   },
+   {
+    "pos": "n.",
+    "zh": "呼嚕呼嚕聲",
+    "def": "a low vibrating sound typical of a contented cat"
+   }
+  ],
+  "forms": "過去式 purred｜第三人稱單數 purrs｜複數 purrs｜現在分詞 purring｜過去分詞 purred"
+ },
+ "purring": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 貓喘音樣的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 purring｜複數 purrings"
+ },
+ "purse": {
+  "ph": "/pә:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "錢包, 小錢袋, 金錢, 募捐款, 囊狀物",
+    "def": "a sum of money spoken of as the contents of a money purse"
+   },
+   {
+    "pos": "v.",
+    "zh": "縮攏, 皺起",
+    "def": "contract one's lips into a rounded shape"
+   }
+  ],
+  "forms": "過去式 pursed｜複數 purses｜過去分詞 pursed｜現在分詞 pursing｜第三人稱單數 purses"
+ },
+ "pursed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使皺起, 噘起（purse的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "purser": {
+  "ph": "/'pә:sә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "事務長",
+    "def": "an officer aboard a ship who keeps accounts and attends to the passengers' welfare"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 會計員, 出納員, 事務長",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pursers"
+ },
+ "purslane": {
+  "ph": "/'pә:slin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬齒莧",
+    "def": "a plant of the family Portulacaceae having fleshy succulent obovate leaves often grown as a potherb or salad herb; a weed in some areas"
+   }
+  ]
+ },
+ "pursuance": {
+  "ph": "/pә'sju:әns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "追趕, 實行, 從事",
+    "def": "the continuance of something begun with a view to its completion"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 追求, 追趕, 追蹤",
+    "def": ""
+   }
+  ]
+ },
+ "pursuant": {
+  "ph": "/pә'sju:әnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "依據的, 按照的, 追趕的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "相符地, 一致地",
+    "def": ""
+   }
+  ]
+ },
+ "pursue": {
+  "ph": "/pә'sju:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "追趕, 追蹤, 追隨, 追求, 實行, 繼續, 從事",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "追趕, 繼續",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 pursued｜現在分詞 pursuing｜過去式 pursued｜第三人稱單數 pursues"
+ },
+ "pursued": {
+  "ph": "/pəˈsju:d/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "繼續( pursue的過去式和過去分詞 ); 追求; 進行; 追捕",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 pursued"
+ },
+ "pursuer": {
+  "ph": "/pә'sju:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "追趕者, 追求者, 研究者",
+    "def": "a person who is pursuing and trying to overtake or capture"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 原告, 起訴人, 進行者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pursuers"
+ },
+ "pursuing": {
+  "ph": "/pəˈsju:ɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "繼續( pursue的現在分詞 ); 追求; 進行; 追捕",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 pursuing"
+ },
+ "pursuit": {
+  "ph": "/pә'sju:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "追蹤, 追求, 追趕, 娛樂, 職業",
+    "def": "the act of pursuing in an effort to overtake or capture"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 追捕, 追求",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pursuits"
+ },
+ "purulent": {
+  "ph": "/'pjuәrjulәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "膿的, 化膿性的, 化膿的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膿性的",
+    "def": ""
+   }
+  ]
+ },
+ "purvey": {
+  "ph": "/pә'vei/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "供給, 供應",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 purveyed｜現在分詞 purveying｜第三人稱單數 purveys｜過去分詞 purveyed"
+ },
+ "purveyor": {
+  "ph": "/pә'veiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "承辦伙食者, 承辦商人, 徵發官員",
+    "def": "someone who supplies provisions (especially food)"
+   }
+  ],
+  "forms": "複數 purveyors"
+ },
+ "purview": {
+  "ph": "/'pә:vju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "範圍, 許可權, 視界",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 許可權, 職權範圍, 範圍",
+    "def": ""
+   }
+  ]
+ },
+ "purvis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Purvis)人名；(葡)普爾維斯；(英)珀維斯",
+    "def": ""
+   }
+  ]
+ },
+ "pus": {
+  "ph": "/pʌs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膿, 膿汁",
+    "def": "the tenth month of the Hindu calendar"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膿",
+    "def": ""
+   }
+  ]
+ },
+ "pusey": {
+  "ph": "/'pju:zi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒲賽（英國神學家）",
+    "def": "English theologian who (with John Henry Newman and John Keble) founded the Oxford movement (1800-1882)"
+   }
+  ],
+  "forms": "複數 puseys"
+ },
+ "push": {
+  "ph": "/puʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "推, 推動, 奮鬥, 攻擊, 進取心",
+    "def": "the act of applying force in order to move something away"
+   },
+   {
+    "pos": "vt.",
+    "zh": "推, 推動, 使伸出, 推行, 逼迫, 增加",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "推, 推進, 增加, 努力爭取",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pushed｜現在分詞 pushing｜過去分詞 pushed｜第三人稱單數 pushes"
+ },
+ "push-up": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俯伏撐",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 模面擠凹",
+    "def": ""
+   }
+  ],
+  "forms": "複數 push-ups"
+ },
+ "pushback": {
+  "ph": "/'pʊʃbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機推遲起飛",
+    "def": ""
+   }
+  ]
+ },
+ "pushbike": {
+  "ph": "/ˈpʊʃbaɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳踏車, 腳踏車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pushbikes"
+ },
+ "pushcart": {
+  "ph": "/'puʃkɑ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手推車",
+    "def": ""
+   }
+  ]
+ },
+ "pushchair": {
+  "ph": "/'puʃtʃєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摺疊式嬰兒車",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pushchairs"
+ },
+ "pushed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "拮据的, 緊張的, 沒空的, 忙",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 pushed"
+ },
+ "pusher": {
+  "ph": "/'puʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "推者, 推銷員",
+    "def": "one who intrudes or pushes himself forward"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 推料機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pushers"
+ },
+ "pushing": {
+  "ph": "/'puʃiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有精力的, 富有進取心的, 莽撞的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 pushing｜複數 pushings"
+ },
+ "pushkin": {
+  "ph": "/'pu:ʃkin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "普希金(Alexander Sergeevich, 1799-1837, 俄國詩人、散文家、劇作家)",
+    "def": ""
+   }
+  ]
+ },
+ "pushover": {
+  "ph": "/'puʃ.әuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "容易做的工作, 易被勸服的人, 易被擊敗的人",
+    "def": "someone who is easily taken advantage of"
+   }
+  ],
+  "forms": "複數 pushovers"
+ },
+ "pushpin": {
+  "ph": "/'puʃpin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖釘",
+    "def": ""
+   }
+  ]
+ },
+ "pushrod": {
+  "ph": "/'pʊshrəʊd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "推杆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pushrods"
+ },
+ "pushy": {
+  "ph": "/'puʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粗魯的, 固執己見的, 好勝而愛出風頭的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 pushiest"
+ },
+ "pusillanimous": {
+  "ph": "/.pju:si'lænimәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無勇氣的, 膽怯的, 優柔寡斷的",
+    "def": ""
+   }
+  ]
+ },
+ "puss": {
+  "ph": "/pus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貓味, 小姑娘, 少女",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pusses"
+ },
+ "pussy": {
+  "ph": "/'pusi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "〈非正式〉貓咪；〈侮辱〉女陰；〈侮辱〉娘娘腔",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "多膿的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[網路] 小貓；陰戶；小貓咪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pussies"
+ },
+ "pussycat": {
+  "ph": "/'pusikæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貓",
+    "def": "a person who is regarded as easygoing and agreeable"
+   }
+  ],
+  "forms": "複數 pussycats"
+ },
+ "pustule": {
+  "ph": "/'pʌstju:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膿皰",
+    "def": "a small inflamed elevation of skin containing pus; a blister filled with pus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膿皰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pustules"
+ },
+ "put": {
+  "ph": "/put/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "放, 擺, 安置, 移動, 發射, 投擲, 寫上, 表達, 使從事, 使受到, 驅使, 賦予",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "出發, 航行, 發芽",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "擲, 股票出售權, 笨蛋",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "固定不動的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 傳送檔案",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 put｜過去式 put｜現在分詞 putting｜第三人稱單數 puts"
+ },
+ "put out": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "放出, 伸出, 生產, 出版, 釋出, 熄滅, 消除, 使困擾, 使脫臼, 把...殺出局, 出航",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 關; 停止",
+    "def": ""
+   }
+  ]
+ },
+ "put sth on": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "穿上, 增加, 安排, 開啟",
+    "def": ""
+   }
+  ]
+ },
+ "put sth out": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "熄滅, 釋出",
+    "def": ""
+   }
+  ]
+ },
+ "put-down": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貶低的言語(或行動)",
+    "def": "a crushing remark"
+   }
+  ],
+  "forms": "複數 put-downs"
+ },
+ "putative": {
+  "ph": "/'pju:tәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "推定的, 被公認的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 被公認的, 推定的, 假定的",
+    "def": ""
+   }
+  ]
+ },
+ "putatively": {
+  "ph": "/'pju:tətɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "推定地",
+    "def": ""
+   }
+  ]
+ },
+ "putnam": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Putnam)人名；(英)帕特南",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "帕特南",
+    "def": ""
+   }
+  ]
+ },
+ "putney": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Putney)人名；(匈)普特奈伊；(英)帕特尼",
+    "def": ""
+   }
+  ]
+ },
+ "putrefaction": {
+  "ph": "/.pju:tri'fækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腐敗",
+    "def": "a state of decay usually accompanied by an offensive odor"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腐敗[作用], 腐化[作用]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 putrefactions"
+ },
+ "putrefy": {
+  "ph": "/'pju:trifai/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "(使)化膿, (使)腐爛, (使)墮落",
+    "def": "become putrid; decay with an offensive smell"
+   }
+  ],
+  "forms": "現在分詞 putrefying｜過去式 putrefied｜第三人稱單數 putrefies｜過去分詞 putrefied"
+ },
+ "putrescible": {
+  "ph": "/pju:'tresibl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "會腐敗的, 容易腐爛的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 可腐敗的, 可腐化的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 putrescibles"
+ },
+ "putrid": {
+  "ph": "/'pju:trid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腐敗的",
+    "def": "of or relating to or attended by putrefaction"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腐敗的, 惡臭的",
+    "def": ""
+   }
+  ]
+ },
+ "putsch": {
+  "ph": "/'putʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（德）起義；暴動；叛亂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 putsches"
+ },
+ "putt": {
+  "ph": "/pʌt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擊球入洞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "輕擊高爾夫球",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "輕輕一擊(入洞)",
+    "def": "hitting a golf ball that is on the green using a putter; he didn't sink a single putt over three feet\""
+   }
+  ],
+  "forms": "複數 putts｜第三人稱單數 putts｜現在分詞 putting｜過去式 putted｜過去分詞 putted"
+ },
+ "putter": {
+  "ph": "/'putә. 'pʌtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "置放者, 推車工, 輕擊棒",
+    "def": "a golfer who is putting"
+   },
+   {
+    "pos": "vi.",
+    "zh": "慢條斯理地工作, 漫步, 閒蕩",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "浪費",
+    "def": ""
+   }
+  ],
+  "forms": "複數 putters｜現在分詞 puttering｜過去式 puttered｜過去分詞 puttered｜第三人稱單數 putters"
+ },
+ "putting": {
+  "ph": "/'putiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "投擲；（高爾夫球）打球入洞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 putting"
+ },
+ "putty": {
+  "ph": "/'pʌti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油灰, 淡灰色, 氧化錫",
+    "def": "a dough-like mixture of whiting and boiled linseed oil; used especially to patch woodwork or secure panes of glass"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用油灰填塞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 puttied｜複數 putties｜現在分詞 puttying｜第三人稱單數 putties｜過去分詞 puttied"
+ },
+ "puzzle": {
+  "ph": "/'pʌzl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "難題, 迷惑",
+    "def": "a particularly baffling problem that is said to have a correct solution"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使困惑, 使為難",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "迷惑, 苦思",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puzzles｜現在分詞 puzzling｜過去式 puzzled｜過去分詞 puzzled｜第三人稱單數 puzzles"
+ },
+ "puzzled": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "困惑的, 迷惑的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 puzzled｜過去分詞 puzzled"
+ },
+ "puzzlement": {
+  "ph": "/'pʌzlmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迷惑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puzzlements"
+ },
+ "puzzler": {
+  "ph": "/'pʌzlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "令人困惑的人, 難題",
+    "def": ""
+   }
+  ],
+  "forms": "複數 puzzlers"
+ },
+ "puzzling": {
+  "ph": "/'pʌzliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使迷惑的, 把人難住的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 puzzling"
+ },
+ "puzzlingly": {
+  "ph": "/'pʌzlɪŋlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "使迷惑地, 莫明其妙地",
+    "def": "In a puzzling manner."
+   }
+  ]
+ }
+}

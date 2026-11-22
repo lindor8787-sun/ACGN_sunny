@@ -1,0 +1,33 @@
+{
+ "nv": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 十億分之一伏",
+    "def": ""
+   }
+  ]
+ },
+ "nvocc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "無船承運人（Non-vessel Operating Common Carrier）",
+    "def": ""
+   }
+  ]
+ },
+ "nvq": {
+  "ph": "/ˌen vi: ˈkju:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "National Vocational Qualification 國家職業合格證書",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nvqs"
+ }
+}

@@ -1,0 +1,641 @@
+{
+ "ye": {
+  "ph": "/ji:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "亞薩卡, 乒乓底板（Yasaka Extra）；酵母抽提物（Yeast Extracts）",
+    "def": ""
+   }
+  ]
+ },
+ "yea": {
+  "ph": "/jei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肯定, 贊成, 贊成票",
+    "def": "an affirmative"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 贊成票, 投贊成票者, 贊成者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 yeas"
+ },
+ "yeadon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Yeadon)人名；(英)伊登",
+    "def": ""
+   }
+  ]
+ },
+ "yeah": {
+  "ph": "/jɑ:/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "(非正式)是, 是的",
+    "def": ""
+   }
+  ]
+ },
+ "year": {
+  "ph": "/jiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "年, 年度, 年齡",
+    "def": "a period of time containing 365 (or 366) days"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 年度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 years"
+ },
+ "year-long": {
+  "ph": "/jə: lɔŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "長達一年的, 一年之久的",
+    "def": ""
+   }
+  ]
+ },
+ "year-round": {
+  "ph": "/'j\\\\\\\\:'rajnd,'jiә-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "一年到頭的, 整年的",
+    "def": "operating or continuing throughout the year"
+   }
+  ]
+ },
+ "yearbook": {
+  "ph": "/'jiәbuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "年鑑",
+    "def": "a book published annually by the graduating class of a high school or college usually containing photographs of faculty and graduating students"
+   }
+  ],
+  "forms": "複數 yearbooks"
+ },
+ "yearling": {
+  "ph": "/'yiәliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一歲崽",
+    "def": "a racehorse considered one year old until the second Jan. 1 following its birth"
+   }
+  ],
+  "forms": "複數 yearlings"
+ },
+ "yearly": {
+  "ph": "/'jiәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "每年的, 一年一度的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "一年一次, 每年",
+    "def": ""
+   }
+  ]
+ },
+ "yearn": {
+  "ph": "/jә:n/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "渴望, 想念, 懷念, 同情",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 yearning｜過去式 yearned｜第三人稱單數 yearns｜過去分詞 yearned"
+ },
+ "yearning": {
+  "ph": "/'jә:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渴望, 熱望, 懷念",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "熱望的, 渴望的, 懷念的, 嚮往的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 yearning｜複數 yearnings"
+ },
+ "yeast": {
+  "ph": "/ji:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酵母",
+    "def": "a commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 酵母",
+    "def": ""
+   }
+  ],
+  "forms": "複數 yeasts"
+ },
+ "yeasty": {
+  "ph": "/'ji:sti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "酵母的, 起泡沫的, 淺薄的",
+    "def": "of or resembling or containing yeast"
+   }
+  ]
+ },
+ "yeats": {
+  "ph": "/jeits/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葉芝；耶茨（姓氏, 愛爾蘭詩人及劇作家）",
+    "def": "Irish poet and dramatist (1865-1939)"
+   }
+  ]
+ },
+ "yegor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Yegor)人名；(俄)葉戈爾",
+    "def": ""
+   }
+  ]
+ },
+ "yeh": {
+  "ph": "/je/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "是（等於yes）",
+    "def": ""
+   }
+  ]
+ },
+ "yehudi": {
+  "ph": "/'jehudi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "指向標觸發發射機",
+    "def": ""
+   }
+  ]
+ },
+ "yell": {
+  "ph": "/jel/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "叫喊, 大叫, (齊聲)吶喊歡呼",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "喊叫著說",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "叫聲, 喊聲, 吶喊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 yelled｜現在分詞 yelling｜第三人稱單數 yells｜複數 yells｜過去分詞 yelled"
+ },
+ "yeller": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "yell的變形",
+    "def": ""
+   }
+  ]
+ },
+ "yelling": {
+  "ph": "/jelɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "叫喊, 號叫, 叫著說( yell的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 yelling"
+ },
+ "yellow": {
+  "ph": "/'jelәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃色",
+    "def": "yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons"
+   },
+   {
+    "pos": "adj.",
+    "zh": "黃色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 yellows｜比較級 yellower｜現在分詞 yellowing｜過去式 yellowed｜第三人稱單數 yellows｜過去分詞 yellowed"
+ },
+ "yellowcake": {
+  "ph": "/'jelәjkeik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "\"黃餅\"(核反應燃料重鈾酸銨或重鈾酸鈉的俗稱)",
+    "def": "an impure mixture of uranium oxides obtained during the processing of uranium ore"
+   }
+  ]
+ },
+ "yellowed": {
+  "ph": "/ˈjeləud/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使某物）變黃或發黃( yellow的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 yellowed｜過去式 yellowed"
+ },
+ "yellowfin": {
+  "ph": "/'jelәjfin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "tuna[魚]黃鰭金槍魚(亦作yellowfin)",
+    "def": ""
+   }
+  ]
+ },
+ "yellowhammer": {
+  "ph": "/'jelәjhæmә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[鳥]黃鵡,<美>金翼啄木鳥",
+    "def": "European bunting the male being bright yellow"
+   }
+  ],
+  "forms": "複數 yellowhammers"
+ },
+ "yellowing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃變；黃化, 泛黃",
+    "def": ""
+   }
+  ]
+ },
+ "yellowish": {
+  "ph": "/'jelәuiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淡黃的, 微黃的",
+    "def": ""
+   }
+  ]
+ },
+ "yellowstone": {
+  "ph": "/'jelәjstәjn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃石河",
+    "def": "a tributary of the Missouri River that flows through the Yellowstone National Park"
+   }
+  ]
+ },
+ "yellowtail": {
+  "ph": "/jeləʊ'teɪl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黃鰭短鬚石首魚",
+    "def": "superior food fish of the tropical Atlantic and Caribbean with broad yellow stripe along the sides and on the tail"
+   }
+  ]
+ },
+ "yellowy": {
+  "ph": "/'jelәji/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "淡黃色的, 帶黃色的",
+    "def": ""
+   }
+  ]
+ },
+ "yelp": {
+  "ph": "/jelp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尖聲急叫, 狺吠, 叫喊聲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "尖聲急叫, 叫吠, 叫喊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "叫喊著說",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 yelped｜現在分詞 yelping｜複數 yelps｜第三人稱單數 yelps｜過去分詞 yelped"
+ },
+ "yelping": {
+  "ph": "/jelpɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "發出短而尖的叫聲( yelp的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 yelping"
+ },
+ "yeltsin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葉利欽（俄羅斯前總統）",
+    "def": ""
+   }
+  ]
+ },
+ "yemen": {
+  "ph": "/'jemәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葉門",
+    "def": "a republic on the southwestern shores of the Arabian Peninsula on the Indian Ocean; formed in 1990"
+   }
+  ]
+ },
+ "yemeni": {
+  "ph": "/'jemәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葉門人",
+    "def": "a native or inhabitant of Yemen"
+   },
+   {
+    "pos": "adj.",
+    "zh": "葉門的, 葉門人的",
+    "def": "of or relating to or characteristic of Yemen or its inhabitants"
+   }
+  ],
+  "forms": "複數 yemenis"
+ },
+ "yemenite": {
+  "ph": "/'jemәnait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "葉門人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "葉門的, 葉門人的",
+    "def": ""
+   }
+  ]
+ },
+ "yen": {
+  "ph": "/jen/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "日元(日本貨幣單位), 渴望, 嗜好",
+    "def": "the basic unit of money in Japan; equal to 100 sen"
+   },
+   {
+    "pos": "vi.",
+    "zh": "渴望",
+    "def": ""
+   }
+  ],
+  "forms": "複數 yens"
+ },
+ "yeo": {
+  "ph": "/jәu/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "唷(水手拉繩時一道發出的叫聲)",
+    "def": ""
+   }
+  ]
+ },
+ "yeoman": {
+  "ph": "/'jәumәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由民, 自耕農",
+    "def": "officer in the (ceremonial) bodyguard of the British monarch"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 小地主, 自耕農, 自由民",
+    "def": ""
+   }
+  ],
+  "forms": "複數 yeomen"
+ },
+ "yeomanry": {
+  "ph": "/'jәumәnri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自由民, 自耕農",
+    "def": "class of small freeholders who cultivated their own land"
+   }
+  ]
+ },
+ "yeovil": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "約維爾 (英國國會選區)",
+    "def": ""
+   }
+  ]
+ },
+ "yep": {
+  "ph": "/jep/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "是（美國俚語=yes）",
+    "def": ""
+   }
+  ]
+ },
+ "yer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "[俚]你的（等於your）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 yers"
+ },
+ "yerba": {
+  "ph": "/'jә:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巴拉圭茶",
+    "def": "An herb; a plant."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 草",
+    "def": ""
+   }
+  ]
+ },
+ "yes": {
+  "ph": "/jes/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "是",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "是, 同意",
+    "def": "an affirmative"
+   },
+   {
+    "pos": "v.",
+    "zh": "同意",
+    "def": ""
+   }
+  ]
+ },
+ "yeshiva": {
+  "ph": "/jә'ʃi:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猶太高等學校,猶太初等(或中學)學校",
+    "def": "an academy for the advanced study of Jewish texts (primarily the Talmud)"
+   }
+  ]
+ },
+ "yesterday": {
+  "ph": "/'jestәdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "昨天",
+    "def": "the day immediately before today"
+   },
+   {
+    "pos": "adv.",
+    "zh": "昨天",
+    "def": ""
+   }
+  ]
+ },
+ "yesteryear": {
+  "ph": "/'jestәjiә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "去年, 不久以前",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "過去不久的歲月",
+    "def": ""
+   }
+  ]
+ },
+ "yet": {
+  "ph": "/jet/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "還, 尚, 仍然, 已經, 然而",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "然而",
+    "def": ""
+   }
+  ]
+ },
+ "yeti": {
+  "ph": "/'jeti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雪人",
+    "def": ""
+   }
+  ]
+ },
+ "yew": {
+  "ph": "/ju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紫杉",
+    "def": "wood of a yew; especially the durable fine-grained light brown or red wood of the English yew valued for cabinetwork and archery bows"
+   }
+  ],
+  "forms": "複數 yews"
+ }
+}

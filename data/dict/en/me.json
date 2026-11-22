@@ -1,0 +1,7243 @@
+{
+ "me": {
+  "ph": "/mi:/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "我",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mes"
+ },
+ "mea": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "維修工程分析（Maintenance Engineering Analysis）；β-巰基乙胺（β-Mercaptoethylamine）；沿航線最低高度（Minimum Enroute Altitude）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meas"
+ },
+ "mead": {
+  "ph": "/mi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜂蜜酒, 草地",
+    "def": "United States anthropologist noted for her claims about adolescence and sexual behavior in Polynesian cultures (1901-1978)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蜜酒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meads"
+ },
+ "meade": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美國米德（望遠鏡品牌）；米德（人名）",
+    "def": "English economist noted for his studies of international trade and finance (1907-1995)"
+   }
+  ]
+ },
+ "meadow": {
+  "ph": "/'medәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草地, 牧場",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meadows"
+ },
+ "meadowland": {
+  "ph": "/'medәjlænd, -lәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草地, 牧場, (割制乾草用的)飼料種植地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meadowlands"
+ },
+ "meadowlark": {
+  "ph": "/'medәjlɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[鳥](北美產)草地鷚",
+    "def": "North American songbirds having a yellow breast"
+   }
+  ]
+ },
+ "meadows": {
+  "ph": "/medəuz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅多斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "meadowsweet": {
+  "ph": "/'medәuswi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "繡線菊屬植物",
+    "def": "Alt. of Meadowwort"
+   }
+  ]
+ },
+ "meads": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Meads)人名；(英)米茲",
+    "def": ""
+   }
+  ]
+ },
+ "meager": {
+  "ph": "/'mi:gә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "質量差的, 貧乏的, 不毛的, 瘦的",
+    "def": "deficient in amount or quality or extent"
+   }
+  ]
+ },
+ "meagerly": {
+  "ph": "/'mi:gəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "瘦地, 貧乏地",
+    "def": ""
+   }
+  ]
+ },
+ "meagre": {
+  "ph": "/'mi:^ә(r)/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "瘦的, 不毛的, 貧乏的, 貧弱的, 少量的, 力量不夠的, 質不高的, 量不足的",
+    "def": ""
+   }
+  ]
+ },
+ "meal": {
+  "ph": "/mi:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一餐, 膳食, 粗粉",
+    "def": "the food served and eaten at one time"
+   },
+   {
+    "pos": "vi.",
+    "zh": "進餐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meals"
+ },
+ "mealie": {
+  "ph": "/'mi:li/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玉米",
+    "def": "an ear of corn"
+   }
+  ],
+  "forms": "複數 mealies"
+ },
+ "meals": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膳食；穀類（meal的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "mealtime": {
+  "ph": "/'mi:ltaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "進餐時間",
+    "def": "the hour at which a meal is habitually or customarily eaten"
+   }
+  ],
+  "forms": "複數 mealtimes"
+ },
+ "mealworm": {
+  "ph": "/'mi:lwә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大黃粉蟲幼體",
+    "def": "the larva of beetles of the family Tenebrionidae"
+   }
+  ],
+  "forms": "複數 mealworms"
+ },
+ "mealy": {
+  "ph": "/'mi:li/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粉狀的",
+    "def": "containing meal or made of meal"
+   }
+  ],
+  "forms": "最高級 mealiest"
+ },
+ "mealybug": {
+  "ph": "/'mi:li:bʌ^/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[昆]水蠟蟲,粉蚧",
+    "def": "scalelike plant-eating insect coated with a powdery waxy secretion; destructive especially of fruit trees"
+   }
+  ],
+  "forms": "複數 mealybugs"
+ },
+ "mean": {
+  "ph": "/mi:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "低劣的, 卑賤的, 簡陋的, 吝嗇的, 慚愧的, 平均的, 中間的, 普通的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "意謂, 想要, 意欲, 預定",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "用意, 有意義",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "平均數, 中間, 中庸",
+    "def": "an average of n numbers computed by adding some function of the numbers and dividing by some function of n"
+   }
+  ],
+  "forms": "第三人稱單數 means｜過去式 meant｜過去分詞 meant｜現在分詞 meaning"
+ },
+ "meander": {
+  "ph": "/mi'ændә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(河流的)蜿蜒, 漫步, 迂迴旅行",
+    "def": "a bend or curve, as in a stream or river"
+   },
+   {
+    "pos": "vi.",
+    "zh": "蜿蜒流動, 漫步",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使蜿蜒曲折",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 meandered｜複數 meanders｜現在分詞 meandering｜第三人稱單數 meanders｜過去分詞 meandered"
+ },
+ "meandering": {
+  "ph": "/mi'ændәriŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "曲折的, 漫步的, 聊天的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meanderings｜現在分詞 meandering"
+ },
+ "meanderings": {
+  "ph": "/mi'ændәriŋz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "曲折的路, 迂迴曲折的程序",
+    "def": ""
+   }
+  ]
+ },
+ "meanie": {
+  "ph": "/'mi:ni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小氣鬼, 卑鄙傢伙",
+    "def": "a person of mean disposition"
+   }
+  ]
+ },
+ "meaning": {
+  "ph": "/'mi:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "意義, 含義, 目的, 意圖",
+    "def": "the message that is intended or expressed or signified"
+   },
+   {
+    "pos": "adj.",
+    "zh": "意味深長的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meanings｜現在分詞 meaning"
+ },
+ "meaningful": {
+  "ph": "/'mi:niŋful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "意味深長的",
+    "def": "having a meaning or purpose"
+   }
+  ]
+ },
+ "meaningfully": {
+  "ph": "/'mi:niŋfuli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "意味深長地",
+    "def": ""
+   }
+  ]
+ },
+ "meaningfulness": {
+  "ph": "/'mi:nɪŋflnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "富有意義",
+    "def": "the quality of having great value or significance"
+   }
+  ]
+ },
+ "meaningless": {
+  "ph": "/'mi:niŋlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無意義的",
+    "def": "having no meaning or direction or purpose"
+   }
+  ]
+ },
+ "meaninglessly": {
+  "ph": "/'mi:niŋlisli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無意義地；無目的地；無道理地",
+    "def": ""
+   }
+  ]
+ },
+ "meaninglessness": {
+  "ph": "/'mi:niŋlisnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無意義；無道理",
+    "def": "the quality of having no value or significance"
+   }
+  ]
+ },
+ "meanly": {
+  "ph": "/'mi:nli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "卑賤地；吝嗇地；簡陋地",
+    "def": ""
+   }
+  ]
+ },
+ "meanness": {
+  "ph": "/'mi:nnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吝嗇；卑鄙；劣等",
+    "def": "extreme stinginess"
+   }
+  ],
+  "forms": "複數 meannesses"
+ },
+ "means": {
+  "ph": "/mi:nz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方法, 手段, 工具, 財產, 收入",
+    "def": "how a result is obtained or an end is achieved"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 方法, 手段, 工具; 意謂",
+    "def": ""
+   }
+  ]
+ },
+ "meant": {
+  "ph": "/ment/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "mean的過去式和過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "meantime": {
+  "ph": "/'mi:ntaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "間隔時間, 其時",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "其間",
+    "def": ""
+   }
+  ]
+ },
+ "meanwhile": {
+  "ph": "/'mi:nhwail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "其時, 其間",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "同時, 於此時",
+    "def": ""
+   }
+  ]
+ },
+ "meany": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小氣鬼, 卑鄙傢伙",
+    "def": "United States labor leader who was the first president of the AFL-CIO (1894-1980)"
+   }
+  ],
+  "forms": "複數 meanies"
+ },
+ "mearns": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "默恩斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "measles": {
+  "ph": "/'mi:zlz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麻疹, 風疹, 家畜囊尾蚴病, 米珠",
+    "def": "an acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 麻疹, 囊尾蚴病(家畜)",
+    "def": ""
+   }
+  ]
+ },
+ "measly": {
+  "ph": "/'mi:zli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "患麻疹的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 米珠的, 含囊尾蚴的",
+    "def": ""
+   }
+  ]
+ },
+ "measurable": {
+  "ph": "/'meʒәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可測量的, 不久的, 重要的",
+    "def": "capable of being measured"
+   }
+  ]
+ },
+ "measurably": {
+  "ph": "/'meʒәrәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可以測定的程度, 適度地, 可目視地",
+    "def": ""
+   }
+  ]
+ },
+ "measure": {
+  "ph": "/'meʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尺寸, 量度器, 量度標準, 測量, 量具, 程度, 範圍, 限度, 分寸, 措施, 方法",
+    "def": "any maneuver made as part of progress toward a goal"
+   },
+   {
+    "pos": "vt.",
+    "zh": "測量, 測度, 估量, 權衡, 調節, 拿(自己或自己的力量等)作較量",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "度量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 measures｜過去分詞 measured｜現在分詞 measuring｜過去式 measured｜第三人稱單數 measures"
+ },
+ "measured": {
+  "ph": "/'meʒәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "整齊的, 慎重的, 基於標準的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 measured｜過去分詞 measured"
+ },
+ "measureless": {
+  "ph": "/'meʒәdlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無限的, 不可量的",
+    "def": ""
+   }
+  ]
+ },
+ "measurement": {
+  "ph": "/'meʒәdmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尺寸, 度量, 度量單位",
+    "def": "the act or process of assigning numbers to phenomena according to a rule"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 度量, 度量單位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 measurements"
+ },
+ "measurements": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測量值, 尺寸（measurement的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "measurer": {
+  "ph": "/'meʒәrә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 測量儀表, 測量器",
+    "def": ""
+   }
+  ]
+ },
+ "measures": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "措施；層組（measure的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "measuring": {
+  "ph": "/'meʒәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測量",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 測量的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 measuring"
+ },
+ "meat": {
+  "ph": "/mi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肉, 餐, 食物",
+    "def": "the flesh of animals (including fishes and birds and snails) used as food"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 肉類",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meats"
+ },
+ "meatball": {
+  "ph": "/'mi:tbɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肉團, 愚蠢, 飛機降落目標",
+    "def": "ground meat formed into a ball and fried or simmered in broth"
+   }
+  ],
+  "forms": "複數 meatballs"
+ },
+ "meath": {
+  "ph": "/mi:θ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "米斯郡[愛爾蘭東部倫斯特省的郡]",
+    "def": ""
+   }
+  ]
+ },
+ "meathead": {
+  "ph": "/'mi:thed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笨蛋",
+    "def": ""
+   }
+  ]
+ },
+ "meatless": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無肉的, 無內容的",
+    "def": "lacking meat"
+   }
+  ]
+ },
+ "meatloaf": {
+  "ph": "/mi:t'ləʊf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烘肉卷",
+    "def": ""
+   }
+  ]
+ },
+ "meatus": {
+  "ph": "/mi'eitәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "口, 道",
+    "def": "a natural body passageway"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 道, 口",
+    "def": ""
+   }
+  ]
+ },
+ "meaty": {
+  "ph": "/'mi:ti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "肉的, 似肉的, 多肉的",
+    "def": "like or containing meat; let's have a meaty meal\""
+   }
+  ],
+  "forms": "比較級 meatier"
+ },
+ "meaux": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Meaux)人名；(法)莫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meaux"
+ },
+ "mecca": {
+  "ph": "/'mekә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麥加",
+    "def": "joint capital (with Riyadh) of Saudi Arabia; located in western Saudi Arabia; as the birthplace of Muhammad it is the holiest city of Islam"
+   }
+  ],
+  "forms": "複數 meccas"
+ },
+ "meccano": {
+  "ph": "/mә'kɑ:nәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(兒童)鋼件結構玩具(商標名)",
+    "def": ""
+   }
+  ]
+ },
+ "mechanic": {
+  "ph": "/mi'kænik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機械工, 技工",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "手工的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mechanics"
+ },
+ "mechanical": {
+  "ph": "/mi'kænikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "機械的, 機械性的, 力學的",
+    "def": "using (or as if using) mechanisms or tools or devices"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 機械的, 力學的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mechanicals"
+ },
+ "mechanically": {
+  "ph": "/mi'kænikәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "機械, 用機械, 機械學, 物理, 力學, 呆板, 無意識, 手工操作, 技工",
+    "def": ""
+   }
+  ]
+ },
+ "mechanics": {
+  "ph": "/mi'kæniks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機械學, 結構, 力學",
+    "def": "the branch of physics concerned with the motion of bodies in a frame of reference"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 力學",
+    "def": ""
+   }
+  ]
+ },
+ "mechanisation": {
+  "ph": "/,mekәnai'zeiʃən; -ni'z-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 機械化",
+    "def": ""
+   }
+  ]
+ },
+ "mechanised": {
+  "ph": "/'mekənaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使……用機械裝置；使……機械化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 mechanised"
+ },
+ "mechanism": {
+  "ph": "/'mekәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機械, 機構, 結構, 機理, 技巧",
+    "def": "the atomic process that occurs during a chemical reaction"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 機理; 歷程; 機構",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mechanisms"
+ },
+ "mechanistic": {
+  "ph": "/.mekә'nistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "機械學的, 機械論的, 機械論者的",
+    "def": "of or relating to the philosophical theory of mechanism"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 機械論的",
+    "def": ""
+   }
+  ]
+ },
+ "mechanization": {
+  "ph": "/.mekәnai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機械化, 機動化",
+    "def": "the condition of having a highly technical implementation"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 機械化",
+    "def": ""
+   }
+  ]
+ },
+ "mechanize": {
+  "ph": "/'mekәnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使機械化, 用機械裝置, 機動化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 機械化之, 令其機械化",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 mechanized｜過去分詞 mechanized｜現在分詞 mechanizing｜第三人稱單數 mechanizes"
+ },
+ "mechanized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "機械化的；呆板的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 mechanized"
+ },
+ "mecklenburg": {
+  "ph": "/'meklәn,bә:g/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅克倫堡州[德意志民主共和國州名](瀕波羅的海)",
+    "def": ""
+   }
+  ]
+ },
+ "meconium": {
+  "ph": "/mi'kәuniәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 袂康; 阿片; 罌粟",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胎糞, 鴉片, 阿片",
+    "def": ""
+   }
+  ]
+ },
+ "med": {
+  "ph": "/med/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "教育學碩士",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 med"
+ },
+ "medal": {
+  "ph": "/'medl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獎牌, 勳章",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "授勳予",
+    "def": ""
+   }
+  ],
+  "forms": "複數 medals"
+ },
+ "medalist": {
+  "ph": "/'mædәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獎章獲得者, 獎章設計者, 獎章製作者, 勳章製作者, 獎章蒐集者, 勳章蒐集者",
+    "def": "someone who has won a medal"
+   }
+  ],
+  "forms": "複數 medalists"
+ },
+ "medallion": {
+  "ph": "/mi'dæljәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大獎章, 圓形浮雕, 圓形裝飾",
+    "def": "any of various large ancient Greek coins"
+   }
+  ],
+  "forms": "複數 medallions"
+ },
+ "medallist": {
+  "ph": "/'medәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獎章獲得者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 medallists"
+ },
+ "meddle": {
+  "ph": "/'medl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "干涉, 干預, 擅自摸弄",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 干預, 插手, 弄亂",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 meddling｜過去分詞 meddled｜過去式 meddled｜第三人稱單數 meddles"
+ },
+ "meddler": {
+  "ph": "/'medlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛管閒事的人, 干涉者",
+    "def": "an officious annoying person who interferes with others"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 干預者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meddlers"
+ },
+ "meddlesome": {
+  "ph": "/'medlsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛管閒事的, 好乾涉的",
+    "def": ""
+   }
+  ]
+ },
+ "meddling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "干預；瞎管",
+    "def": "the act of altering something secretly or improperly"
+   }
+  ],
+  "forms": "現在分詞 meddling｜複數 meddlings"
+ },
+ "mede": {
+  "ph": "/mi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "米堤亞人",
+    "def": "A native or inhabitant of Media in Asia."
+   }
+  ],
+  "forms": "複數 medes｜第三人稱單數 medes"
+ },
+ "medea": {
+  "ph": "/mi:'diә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 生殖器, 壯陽藥",
+    "def": ""
+   }
+  ]
+ },
+ "medellin": {
+  "ph": "/,medә'li:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "麥德林(哥倫比亞城市)",
+    "def": ""
+   }
+  ]
+ },
+ "medevac": {
+  "ph": "/'medәvæk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[美口]救傷直升機",
+    "def": ""
+   }
+  ]
+ },
+ "media": {
+  "ph": "/'mi:diә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "媒體",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 媒質",
+    "def": ""
+   }
+  ]
+ },
+ "mediaeval": {
+  "ph": "/.medi'i:vl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中古的, 中世紀的",
+    "def": ""
+   }
+  ]
+ },
+ "mediagenic": {
+  "ph": "/,mediә'dʒenik; ,mi:-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "為傳媒服務物件(尤指電視觀眾) 所喜聞樂見的",
+    "def": ""
+   }
+  ]
+ },
+ "medial": {
+  "ph": "/'mi:diәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中間的, 平均的, 普通的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "中間字母",
+    "def": ""
+   }
+  ]
+ },
+ "medially": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "中間, 向中央延伸, 居中, 中央, 內側, 平均, 一般",
+    "def": ""
+   }
+  ]
+ },
+ "median": {
+  "ph": "/'mi:diәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中央的, 中間的, 正中的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "正中動脈, 中位數, 中線",
+    "def": "the value below which 50% of the cases fall"
+   }
+  ],
+  "forms": "複數 medians"
+ },
+ "mediastinal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 縱隔的",
+    "def": ""
+   }
+  ]
+ },
+ "mediastinum": {
+  "ph": "/,mi:diæs'tainәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縱隔",
+    "def": "the part of the thoracic cavity between the lungs that contains the heart and aorta and esophagus and trachea and thymus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 縱隔",
+    "def": ""
+   }
+  ]
+ },
+ "mediate": {
+  "ph": "/'mi:dieit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "居間的, 間接的",
+    "def": "acting through or dependent on an intervening agency"
+   },
+   {
+    "pos": "vt.",
+    "zh": "斡旋, 調停",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "處於中間, 調解",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 mediated｜過去式 mediated｜現在分詞 mediating｜第三人稱單數 mediates"
+ },
+ "mediated": {
+  "ph": "/'mi:dieitid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "仲裁, 調停；調解（mediate的過去式及過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 mediated"
+ },
+ "mediating": {
+  "ph": "/ˈmi:dieitɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "調停, 調解, 斡旋( mediate的現在分詞 ); 居間促成; 影響…的發生; 使…可能發生",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 mediating"
+ },
+ "mediation": {
+  "ph": "/.mi:di'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "調停, 調解, 中介",
+    "def": "a negotiation to resolve differences that is conducted by some impartial party"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 間介[作用], 居間[作用]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mediations"
+ },
+ "mediational": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "mediation的變形",
+    "def": ""
+   }
+  ]
+ },
+ "mediator": {
+  "ph": "/'mi:dieitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "調停者, 傳遞者, 基督",
+    "def": "a negotiator who acts as a link between parties"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 間介器, 傳遞器, 介質, 傳遞質介體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mediators"
+ },
+ "medic": {
+  "ph": "/'medik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苜蓿屬植物, 醫師, 醫科學生",
+    "def": "any of several Old World herbs of the genus Medicago having small flowers and trifoliate compound leaves"
+   }
+  ],
+  "forms": "複數 medics"
+ },
+ "medica": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "國際醫院及醫療裝置用品展覽會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 medicas"
+ },
+ "medicaid": {
+  "ph": "/'medikeid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫療補助方案, 醫療補助專案",
+    "def": "health care for the needy; a federally and state-funded program"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 公費醫療補助制, 醫療保健業, 醫療補助方案",
+    "def": ""
+   }
+  ]
+ },
+ "medical": {
+  "ph": "/'medikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫生, 體格檢查",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "醫學的, 內科的, 藥的",
+    "def": "relating to the study or practice of medicine"
+   }
+  ],
+  "forms": "複數 medicals"
+ },
+ "medicalization": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用醫療的方法處理",
+    "def": ""
+   }
+  ]
+ },
+ "medically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "醫學, 醫療, 醫術, 內科, 醫藥",
+    "def": ""
+   }
+  ]
+ },
+ "medicament": {
+  "ph": "/me'dikәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫藥, 藥劑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 醫藥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 medicaments"
+ },
+ "medicare": {
+  "ph": "/'medi,keә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫療照顧方案, 醫療照顧專案",
+    "def": "health care for the aged; a federally administered system of health insurance available to persons aged 65 and over"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 公辦的醫療保險制",
+    "def": ""
+   }
+  ]
+ },
+ "medicate": {
+  "ph": "/'medikeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用藥治療",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 用藥治療, 投藥, 加藥, 使含藥",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 medicated｜過去分詞 medicated｜第三人稱單數 medicates｜現在分詞 medicating"
+ },
+ "medicated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "加入藥品/藥物的, 藥制的, 食藥的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 含藥[物]的, 藥制的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 medicated｜過去式 medicated"
+ },
+ "medication": {
+  "ph": "/.medi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥物治療, 藥物處理, 醫藥",
+    "def": "the act of treating with medicines or remedies"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 藥療法, 投藥法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 medications"
+ },
+ "medici": {
+  "ph": "/meditʃi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美第奇（人名）",
+    "def": "aristocratic Italian family of powerful merchants and bankers who ruled Florence in the 15th century"
+   }
+  ],
+  "forms": "複數 medici"
+ },
+ "medicinal": {
+  "ph": "/me'disinәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "藥用的, 藥的, 有益的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 藥用的, 醫藥的, 醫治的",
+    "def": ""
+   }
+  ]
+ },
+ "medicinally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "用藥物, 當做藥",
+    "def": ""
+   }
+  ]
+ },
+ "medicine": {
+  "ph": "/'medisin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藥, 醫學, 內科",
+    "def": "the branches of medical science that deal with nonsurgical techniques"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...用藥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 medicines"
+ },
+ "medico": {
+  "ph": "/'medikәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫師, 醫科學生",
+    "def": ""
+   }
+  ],
+  "forms": "複數 medicos"
+ },
+ "medieval": {
+  "ph": "/.medi'i:vl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中古的, 中世紀的",
+    "def": "relating to or belonging to the Middle Ages"
+   }
+  ]
+ },
+ "medievalism": {
+  "ph": "/,medi'i:vəlzəm; ,mi:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中世紀精神",
+    "def": ""
+   }
+  ]
+ },
+ "medievalist": {
+  "ph": "/,medi'i:vəlist; ,mi:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中世紀史專家, 中世紀史研究者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 medievalists"
+ },
+ "medigap": {
+  "ph": "/medɪ'ɡæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>補充性醫療計劃",
+    "def": ""
+   }
+  ]
+ },
+ "medina": {
+  "ph": "/me'di:nә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "麥地那[沙烏地阿拉伯西部城市](伊斯蘭教創立人穆罕默德的陵墓所在地,伊斯蘭教聖地之一)",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(北非城市中的) 阿拉伯人( 或非歐洲人) 聚居區",
+    "def": "a city in western Saudi Arabia; site of the tomb of Muhammad; the second most holy city of Islam"
+   }
+  ],
+  "forms": "複數 medinas"
+ },
+ "mediocre": {
+  "ph": "/.mi:di'әukә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不好不壞的, 通常, 平凡的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mediocres"
+ },
+ "mediocrity": {
+  "ph": "/.mi:di'ɒkriti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平常, 平庸之才",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mediocrities"
+ },
+ "meditate": {
+  "ph": "/'mediteit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "想, 考慮, 計劃",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "沉思, 反省",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 meditating｜過去式 meditated｜過去分詞 meditated｜第三人稱單數 meditates｜複數 meditates"
+ },
+ "meditation": {
+  "ph": "/.medi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉思, 冥想",
+    "def": "continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature"
+   }
+  ],
+  "forms": "複數 meditations"
+ },
+ "meditative": {
+  "ph": "/'mediteitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "默想的, 耽於默想的, 冥想的",
+    "def": ""
+   }
+  ]
+ },
+ "meditatively": {
+  "ph": "/'medɪtətɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "冥想地",
+    "def": ""
+   }
+  ]
+ },
+ "meditator": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "深思者, 策劃者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meditators"
+ },
+ "mediterranean": {
+  "ph": "/.meditә'reiniәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地中海, 地中海民族",
+    "def": "the largest inland sea; between Europe and Africa and Asia"
+   },
+   {
+    "pos": "adj.",
+    "zh": "地中海的, 地中海民族的",
+    "def": "of or relating to or characteristic of or located near the Mediterranean Sea"
+   }
+  ]
+ },
+ "medium": {
+  "ph": "/'mi:diәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "媒體, 方法, 媒介",
+    "def": "a means or instrumentality for storing or communicating information"
+   },
+   {
+    "pos": "adj.",
+    "zh": "半生熟的, 中間的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 媒體, 中",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mediums"
+ },
+ "medium-sized": {
+  "ph": "/'mi:diәm'saizd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中型的, 中等大小的",
+    "def": ""
+   }
+  ]
+ },
+ "medium-term": {
+  "ph": "/'mi:diәm't\\\\\\\\:m/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "中期的",
+    "def": ""
+   }
+  ]
+ },
+ "medlar": {
+  "ph": "/'medlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歐楂, 歐楂果",
+    "def": "small deciduous Eurasian tree cultivated for its fruit that resemble crab apples"
+   }
+  ],
+  "forms": "複數 medlars"
+ },
+ "medley": {
+  "ph": "/'medli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混合, 混雜, 雜錄",
+    "def": "a musical composition consisting of a series of songs or other musical pieces from various sources"
+   },
+   {
+    "pos": "adj.",
+    "zh": "混合的, 拼湊的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 medleys"
+ },
+ "medoc": {
+  "ph": "/'meidɔk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種紅葡萄酒",
+    "def": "red Bordeaux wine from the Medoc district of southwestern France"
+   }
+  ]
+ },
+ "medulla": {
+  "ph": "/me'dʌlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "骨髓, 髓質, 脊髓",
+    "def": "the inner part of an organ or structure in plant or animal"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 髓[質]",
+    "def": ""
+   }
+  ]
+ },
+ "medullary": {
+  "ph": "/'medʌlәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "骨髓的, 髓質的, 延髓的",
+    "def": "containing or consisting of or resembling bone marrow"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 髓的, 髓狀的",
+    "def": ""
+   }
+  ]
+ },
+ "medusa": {
+  "ph": "/mi'dju:zә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水母",
+    "def": "(Greek mythology) a woman transformed into a Gorgon by Athena; she was slain by Perseus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 水母屬",
+    "def": ""
+   }
+  ]
+ },
+ "medvedev": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅德韋傑夫（俄羅斯總統）",
+    "def": ""
+   }
+  ]
+ },
+ "medway": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅德韋",
+    "def": ""
+   }
+  ]
+ },
+ "mee": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "甲基乙基醚（Methyl Ethyl Ether）；輪機英語（Marine Engineering English）；多效蒸發器（Multiple Effect Evaporator）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mees"
+ },
+ "meegan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Meegan)人名；(英)米根",
+    "def": ""
+   }
+  ]
+ },
+ "meehan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "米漢（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "meek": {
+  "ph": "/mi:k/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溫順的, 逆來順受的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 meekest｜比較級 meeker"
+ },
+ "meekly": {
+  "ph": "/'mi:kli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "溫順地, 柔和地, 忠厚地",
+    "def": ""
+   }
+  ]
+ },
+ "meekness": {
+  "ph": "/'mi:knis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫順, 柔和",
+    "def": "the feeling of patient, submissive humbleness"
+   }
+  ]
+ },
+ "meer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "米爾（人名）",
+    "def": "See Mere, a lake."
+   }
+  ],
+  "forms": "複數 meers"
+ },
+ "meerkat": {
+  "ph": "/'miәkæt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(南非)海島貓鼬, 蒙哥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meerkats｜第三人稱單數 meerkats"
+ },
+ "meerschaum": {
+  "ph": "/'miәʃәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海泡石, 海泡石菸斗",
+    "def": "a white clayey mineral"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 海泡石",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meerschaums"
+ },
+ "meet": {
+  "ph": "/mi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "會, 集會",
+    "def": "a meeting at which a number of athletic contests are held"
+   },
+   {
+    "pos": "adj.",
+    "zh": "適宜的, 合適的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "遇見, 引見, 認識, 滿足, 對付",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "相遇, 接觸",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 met｜過去分詞 met｜現在分詞 meeting｜第三人稱單數 meets"
+ },
+ "meeting": {
+  "ph": "/'mi:tiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "會議, 會面",
+    "def": "a formally arranged gathering"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 會議, 會談, 集會",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meetings｜現在分詞 meeting"
+ },
+ "meeting place": {
+  "ph": "/ˈmi:tiŋ pleis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "會場, 聚會地點",
+    "def": ""
+   }
+  ]
+ },
+ "meetinghouse": {
+  "ph": "/'mi:tiŋhajs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(基督教教友會的)聚會所",
+    "def": ""
+   }
+  ]
+ },
+ "meg": {
+  "ph": "/me^/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅格（女子名, 等於Margaret）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 megs"
+ },
+ "mega": {
+  "ph": "/'me^ә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 兆; 百萬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 megas"
+ },
+ "megabuck": {
+  "ph": "/'megәbʌk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一百萬美金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 megabucks"
+ },
+ "megabyte": {
+  "ph": "/'meɡәbait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[計]兆位元組",
+    "def": "a unit of information equal to 1000 kilobytes or 10^6 (1,000,000) bytes"
+   }
+  ],
+  "forms": "複數 megabytes"
+ },
+ "megachurch": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大教會",
+    "def": ""
+   }
+  ]
+ },
+ "megacity": {
+  "ph": "/'me^ә,siti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(人口超過100萬的)大城市",
+    "def": ""
+   }
+  ],
+  "forms": "複數 megacities"
+ },
+ "megadeal": {
+  "ph": "/meɡə'dɪəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特大交易",
+    "def": ""
+   }
+  ]
+ },
+ "megadose": {
+  "ph": "/'me^әdәjs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(維生素等的)大劑量",
+    "def": ""
+   }
+  ]
+ },
+ "megafauna": {
+  "ph": "/me'ɡæfɔ:nə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巨型（土壤）動物",
+    "def": ""
+   }
+  ]
+ },
+ "megalith": {
+  "ph": "/'megәliθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巨石",
+    "def": "memorial consisting of a very large stone forming part of a prehistoric structure (especially in western Europe)"
+   }
+  ],
+  "forms": "複數 megaliths"
+ },
+ "megalithic": {
+  "ph": "/.megә'liθik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "巨石的",
+    "def": "of or relating to megaliths or the people who erected megaliths"
+   }
+  ]
+ },
+ "megalomania": {
+  "ph": "/.megәlә'meiniә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誇大狂",
+    "def": "a psychological state characterized by delusions of grandeur"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 誇大狂",
+    "def": ""
+   }
+  ]
+ },
+ "megalomaniac": {
+  "ph": "/.megәlәu'meiniæk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "誇大狂的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "誇大狂患者",
+    "def": "a pathological egotist"
+   }
+  ],
+  "forms": "複數 megalomaniacs"
+ },
+ "megalomaniacal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "誇大狂(者)的",
+    "def": ""
+   }
+  ]
+ },
+ "megalopolis": {
+  "ph": "/.megә'lɒpәlis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特大都市, 人口稠密地帶",
+    "def": "a very large urban complex (usually involving several cities and towns)"
+   }
+  ]
+ },
+ "megan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅根（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "megaparsec": {
+  "ph": "/,me^ә'pɑ:sek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[天]百萬秒差距",
+    "def": ""
+   }
+  ],
+  "forms": "複數 megaparsecs"
+ },
+ "megaphone": {
+  "ph": "/'megәfәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擴音器",
+    "def": "a cone-shaped acoustic device held to the mouth to intensify and direct the human voice"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 反射擴音器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 megaphones"
+ },
+ "megapixel": {
+  "ph": "/'meɡəpɪksl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兆畫素",
+    "def": ""
+   }
+  ]
+ },
+ "megaplex": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "巨型建築",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "超級影院",
+    "def": ""
+   }
+  ]
+ },
+ "megastar": {
+  "ph": "/ˈmegəstɑ:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "巨星, 演藝巨星",
+    "def": ""
+   }
+  ],
+  "forms": "複數 megastars"
+ },
+ "megastore": {
+  "ph": "/ˈmegəstɔ:(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特大型商店",
+    "def": ""
+   }
+  ],
+  "forms": "複數 megastores"
+ },
+ "megaton": {
+  "ph": "/'megәtʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兆噸",
+    "def": "a measure of explosive power (of an atomic weapon) equal to that of one million tons of TNT"
+   }
+  ],
+  "forms": "複數 megatons"
+ },
+ "megawatt": {
+  "ph": "/'megәwɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兆瓦特",
+    "def": "a unit of power equal to one million watts"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 百萬瓦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 megawatts｜第三人稱單數 megawatts"
+ },
+ "mehdi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Mehdi)人名；(伊朗、阿拉伯、塔吉)邁赫迪",
+    "def": ""
+   }
+  ]
+ },
+ "mehmed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Mehmed)人名；(塞)穆罕默德",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 mehmed"
+ },
+ "mehmet": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Mehmet)人名；(土)穆罕默德",
+    "def": ""
+   }
+  ]
+ },
+ "mehta": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅塔（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "mei": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "技術細則手冊（Manual of Engineering Instructions）；金屬工程學會（Metals Engineering Institute）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mei"
+ },
+ "meier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邁耶（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "meikle": {
+  "ph": "/'mi:kl/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "多",
+    "def": ""
+   }
+  ]
+ },
+ "mein": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "（德）我的",
+    "def": ""
+   }
+  ]
+ },
+ "meiosis": {
+  "ph": "/mai'әusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成熟分裂, 減數分裂",
+    "def": "(genetics) cell division that produces reproductive cells in sexually reproducing organisms; the nucleus divides into four nuclei each containing half the chrom"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 減數分裂, 成熟分裂",
+    "def": ""
+   }
+  ]
+ },
+ "meir": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "邁爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "mek": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Methyl Ethyl Ketone 甲基乙基酮, 丁酮",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 meks"
+ },
+ "mekong": {
+  "ph": "/'mei'kɒŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "湄公河",
+    "def": "an Asian river; flows through a large delta in southern Vietnam into the South China Sea"
+   }
+  ]
+ },
+ "mel": {
+  "ph": "/mel/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 蜂蜜",
+    "def": ""
+   }
+  ]
+ },
+ "melaleuca": {
+  "ph": "/,melә'lu:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]白千層屬灌木(或喬木)",
+    "def": ""
+   }
+  ]
+ },
+ "melamine": {
+  "ph": "/.melә'mi:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "三聚氰胺",
+    "def": "a white crystalline organic base; used mainly in making melamine resins"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 蜜胺; 三聚氰胺; 三聚氰醯胺",
+    "def": ""
+   }
+  ]
+ },
+ "melancholia": {
+  "ph": "/,melәn'kәuljә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "憂鬱症",
+    "def": "extreme depression characterized by tearful sadness and irrational fears"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 憂鬱症",
+    "def": ""
+   }
+  ],
+  "forms": "複數 melancholias"
+ },
+ "melancholic": {
+  "ph": "/.melәn'kɒlik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "憂鬱症患者",
+    "def": "someone subject to melancholia"
+   },
+   {
+    "pos": "adj.",
+    "zh": "憂鬱的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 melancholics"
+ },
+ "melancholy": {
+  "ph": "/'melәnkɒli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "憂鬱, 悲哀, 愁思",
+    "def": "a feeling of thoughtful sadness"
+   },
+   {
+    "pos": "adj.",
+    "zh": "憂鬱的, 使人悲傷的, 愁思的",
+    "def": ""
+   }
+  ]
+ },
+ "melanesia": {
+  "ph": "/.melә'ni:ziә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美拉尼西亞人, 美拉尼西亞語",
+    "def": "the islands in the southwestern part of Oceania"
+   }
+  ]
+ },
+ "melanesian": {
+  "ph": "/.melә'ni:ʒәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "美拉尼西亞的",
+    "def": "of or relating to Melanesia or its people or culture"
+   },
+   {
+    "pos": "n.",
+    "zh": "美拉尼西亞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 melanesians"
+ },
+ "melange": {
+  "ph": "/mei'lɒŋʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混合物",
+    "def": ""
+   }
+  ]
+ },
+ "melanie": {
+  "ph": "/'melәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅勒妮（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "melanin": {
+  "ph": "/'melәnin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黑色素",
+    "def": "insoluble pigments that account for the color of e.g. skin and scales and feathers"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 黑素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 melanins"
+ },
+ "melanocyte": {
+  "ph": "/'melәnәu,sait/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 黑素細胞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 melanocytes"
+ },
+ "melanoma": {
+  "ph": "/,melә'nәumә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "黑瘤",
+    "def": "any of several malignant neoplasms (usually of the skin) consisting of melanocytes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] │黑瘤, 黑素瘤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 melanomas"
+ },
+ "melatonin": {
+  "ph": "/,melә'tәunin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 褪黑激素; N-乙醯-5-甲氧基色胺",
+    "def": ""
+   }
+  ]
+ },
+ "melba": {
+  "ph": "/'melbә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅爾巴(女子名) Nellie 內利梅抱(1861-1931)澳大利亞花腔女高音歌唱家",
+    "def": ""
+   }
+  ]
+ },
+ "melbourne": {
+  "ph": "/'melbәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墨爾本",
+    "def": "a resort town in east central Florida"
+   }
+  ]
+ },
+ "melchior": {
+  "ph": "/'melkiɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[宗]梅爾基奧(朝拜嬰孩耶穌的三博士之一)",
+    "def": "United States operatic tenor (born in Denmark) noted for his Wagnerian roles (1890-1973)"
+   }
+  ]
+ },
+ "meld": {
+  "ph": "/meld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "混合, 合併",
+    "def": "announce for a score; of cards in a card game"
+   }
+  ],
+  "forms": "過去式 melded｜現在分詞 melding｜過去分詞 melded｜複數 melds｜第三人稱單數 melds"
+ },
+ "melding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "融合；使結合（meld的現在分詞）；使合併",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "結合（meld的現在分詞）；合併",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 melding"
+ },
+ "meldrum": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Meldrum)人名；(英)梅爾德倫",
+    "def": ""
+   }
+  ]
+ },
+ "melee": {
+  "ph": "/me'lei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "互毆, 激烈的論戰, 混戰",
+    "def": "a noisy riotous fight"
+   }
+  ],
+  "forms": "複數 melees"
+ },
+ "melia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Melia)人名；(英)米利亞；(意、西)梅利亞",
+    "def": "type genus of the Meliaceae: East Indian and Australian deciduous trees with leaves resembling those of the ash"
+   },
+   {
+    "pos": "",
+    "zh": "楝屬",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "苦楝皮",
+    "def": ""
+   }
+  ]
+ },
+ "melissa": {
+  "ph": "/mә'lisә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] │蜜蜂花, 蜜裡薩香草",
+    "def": ""
+   }
+  ]
+ },
+ "mellifluous": {
+  "ph": "/me'lifljәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "加了蜜糖的, 甜蜜的, 甜美的, 流暢的",
+    "def": ""
+   }
+  ]
+ },
+ "melling": {
+  "ph": "/mel/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "[英國方言]使混合；使摻和；使結合；使融合",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "干涉；干預；交戰(with)",
+    "def": ""
+   }
+  ]
+ },
+ "mellitus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "糖尿病",
+    "def": ""
+   }
+  ]
+ },
+ "mello": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Mello)人名；(英、意、葡、法)梅洛；(西)梅略",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "梅洛",
+    "def": ""
+   }
+  ]
+ },
+ "mellon": {
+  "ph": "/'melәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 三聚二氰亞胺",
+    "def": ""
+   }
+  ]
+ },
+ "mellor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅勒（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "mellow": {
+  "ph": "/'melәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成熟的, 醇的, 熟練的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 mellowed｜過去式 mellowed｜比較級 mellower｜現在分詞 mellowing｜第三人稱單數 mellows"
+ },
+ "mellowing": {
+  "ph": "/'melәuriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 柔和",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 mellowing"
+ },
+ "mellowness": {
+  "ph": "/'meləʊnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成熟; 芳醇; 肥沃; 怡然",
+    "def": "kindheartedness through maturity or old age"
+   }
+  ]
+ },
+ "melly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Melly)人名；(德、英)梅利",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mellies"
+ },
+ "melo": {
+  "ph": "/'melәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（等於melodrama）音樂劇, 傳奇劇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 melos"
+ },
+ "melodic": {
+  "ph": "/mә'lɒdik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有旋律的, 旋律美妙的",
+    "def": "of or relating to melody"
+   }
+  ]
+ },
+ "melodically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "旋律地（melodic的變體）",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "音調優美地（melodic的變體）",
+    "def": ""
+   }
+  ]
+ },
+ "melodious": {
+  "ph": "/mә'lәudiәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "旋律美妙的, 旋律優美的, 有樂曲的",
+    "def": "containing or constituting or characterized by pleasing melody"
+   }
+  ]
+ },
+ "melodrama": {
+  "ph": "/'melәu.drɑ:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "音樂劇, 傳奇劇, 戲劇似的事件",
+    "def": "an extravagant comedy in which action is more salient than characterization"
+   }
+  ],
+  "forms": "複數 melodramas"
+ },
+ "melodramatic": {
+  "ph": "/.melәdrә'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傳奇劇風格的, 戲劇似的, 誇張的",
+    "def": ""
+   }
+  ]
+ },
+ "melodramatically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "感情誇張地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "戲劇性地",
+    "def": ""
+   }
+  ]
+ },
+ "melody": {
+  "ph": "/'melәdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "曲子, 美妙音樂, 曲調",
+    "def": "the perception of pleasant arrangements of musical notes"
+   }
+  ],
+  "forms": "複數 melodies"
+ },
+ "melon": {
+  "ph": "/'melәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瓜, 甜瓜, 紅利, 贓物",
+    "def": "any of numerous fruits of the gourd family having a hard rind and sweet juicy flesh"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 三聚二氰亞胺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 melons"
+ },
+ "melrose": {
+  "ph": "/'melrәuz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅爾羅斯(美國馬薩諸塞州東部一城市)",
+    "def": ""
+   }
+  ]
+ },
+ "melt": {
+  "ph": "/melt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熔化, 熔化物, 溶解",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)熔化, (使)溶解, (使)消散, (使)變軟",
+    "def": "reduce or cause to be reduced from a solid to a liquid state, usually by heating"
+   }
+  ],
+  "forms": "過去式 melted｜過去分詞 melted｜現在分詞 melting｜第三人稱單數 melts"
+ },
+ "meltdown": {
+  "ph": "/'meltdaun/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 銷燬(貨幣等), 變賣(財產)",
+    "def": ""
+   }
+  ]
+ },
+ "melted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "melt的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 melted｜過去分詞 melted"
+ },
+ "melting": {
+  "ph": "/'meltiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熔化的, 溫柔的, 令人感動的, 甜美的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 熔化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 melting"
+ },
+ "meltingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "溶化",
+    "def": ""
+   }
+  ]
+ },
+ "melton": {
+  "ph": "/'meltn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麥爾登呢",
+    "def": "A kind of stout woolen cloth with unfinished face and"
+   }
+  ]
+ },
+ "meltwater": {
+  "ph": "/'melt,wɔ:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰雪融化成的水,冰河融化後的水",
+    "def": "melted snow or ice"
+   }
+  ],
+  "forms": "複數 meltwaters"
+ },
+ "melville": {
+  "ph": "/'melvil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅爾維爾（男子名）；梅爾維爾湖（位於加拿大東部）",
+    "def": "United States writer of novels and short stories (1819-1891)"
+   }
+  ]
+ },
+ "melvin": {
+  "ph": "/'melvin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅爾文（人名, 意思是男巫, 在塞爾特語中是酋長的意思）",
+    "def": ""
+   }
+  ]
+ },
+ "melvyn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Melvyn)人名；(英、瑞典)梅爾文",
+    "def": ""
+   }
+  ]
+ },
+ "mem": {
+  "ph": "/mem/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] DOS外部命令:顯示記憶體的使用情況",
+    "def": ""
+   }
+  ]
+ },
+ "member": {
+  "ph": "/'membә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "成員, 會員",
+    "def": "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] │肢, 肢體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 members"
+ },
+ "member of parliament": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "國會議員, 下院議員",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 下議院議員",
+    "def": ""
+   }
+  ]
+ },
+ "membership": {
+  "ph": "/'membәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "會員的資格, 全體會員, 會員數目",
+    "def": "the body of members of an organization or group"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 會員資格, 成員資格, 會籍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 memberships"
+ },
+ "membrane": {
+  "ph": "/'membrein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄膜, 膜, 羊皮紙",
+    "def": "a thin pliable sheet of material"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 膜; 隔膜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 membranes"
+ },
+ "membranous": {
+  "ph": "/'membrәnәs, mem'breinәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "膜的, 膜性的",
+    "def": "relating to or made of or similar to a membrane"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膜的",
+    "def": ""
+   }
+  ]
+ },
+ "memento": {
+  "ph": "/mi'mentәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紀念物, 令人回憶的東西",
+    "def": "a reminder of past events"
+   }
+  ],
+  "forms": "複數 mementoes"
+ },
+ "memet": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Memet)人名；(土、羅、印尼)梅梅特",
+    "def": ""
+   }
+  ]
+ },
+ "memo": {
+  "ph": "/'memәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "備忘錄",
+    "def": "a written proposal or reminder"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 備忘錄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 memos"
+ },
+ "memoir": {
+  "ph": "/'memwɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傳記, 實錄, 追思錄, 回憶錄, 自傳",
+    "def": "an account of the author's personal experiences"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 研究報告",
+    "def": ""
+   }
+  ],
+  "forms": "複數 memoirs"
+ },
+ "memoirist": {
+  "ph": "/'memwɑ:rist, -wɔ:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傳記,回憶錄,追思錄",
+    "def": "A writer of memoirs."
+   }
+  ],
+  "forms": "複數 memoirists"
+ },
+ "memorabilia": {
+  "ph": "/.memәrә'biliә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "值得紀念的事物, 大事記",
+    "def": "a record of things worth remembering"
+   }
+  ],
+  "forms": "複數 memorabilia"
+ },
+ "memorable": {
+  "ph": "/'memәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "值得紀念的, 難忘的",
+    "def": ""
+   }
+  ]
+ },
+ "memorably": {
+  "ph": "/'memәrәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "留在記憶中地, 顯著地, 明確地",
+    "def": ""
+   }
+  ]
+ },
+ "memorandum": {
+  "ph": "/.memә'rændәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "備忘錄, 外交備忘錄, 交易備忘錄",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 備忘錄, 便箋, 便函",
+    "def": ""
+   }
+  ],
+  "forms": "複數 memoranda"
+ },
+ "memorial": {
+  "ph": "/mi'mɒ:riәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紀念物, 請願書",
+    "def": "a recognition of meritorious service"
+   },
+   {
+    "pos": "adj.",
+    "zh": "記念的, 記憶的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 memorials"
+ },
+ "memorialization": {
+  "ph": "/mi'mɔ:riəlai'zeiʃən; -li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "memorialize的變形",
+    "def": ""
+   }
+  ]
+ },
+ "memorialize": {
+  "ph": "/mi'mɒ:riәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "提出請願書, 紀念",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 memorialized｜過去式 memorialized｜現在分詞 memorializing｜第三人稱單數 memorializes"
+ },
+ "memorise": {
+  "ph": "/'meməraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "記住, 熟記, 記錄, 儲存",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 memorised｜現在分詞 memorising｜過去式 memorised｜第三人稱單數 memorises"
+ },
+ "memorization": {
+  "ph": "/.memә'rizeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "憑記憶, 暗記",
+    "def": "learning so as to be able to remember verbatim"
+   }
+  ]
+ },
+ "memorize": {
+  "ph": "/'memәraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "記住, 熟記, 背熟",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 memorizing｜過去式 memorized｜過去分詞 memorized｜第三人稱單數 memorizes"
+ },
+ "memorized": {
+  "ph": "/ˈmeməraizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "記住, 熟記( memorize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 memorized"
+ },
+ "memory": {
+  "ph": "/'memәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "記憶, 記憶力, 回憶, 紀念, 儲存",
+    "def": "something that is remembered"
+   },
+   {
+    "pos": "n.",
+    "zh": "記憶體",
+    "def": "the cognitive processes whereby past experience is remembered"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 儲存器, 記憶體, 檢視記憶體實用程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 memories"
+ },
+ "memphis": {
+  "ph": "/'memfis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孟菲斯",
+    "def": "largest city of Tennessee; located in southwestern Tennessee on bluffs overlooking the Mississippi River"
+   }
+  ]
+ },
+ "men": {
+  "ph": "/men/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "man的複數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mens｜第三人稱單數 mens"
+ },
+ "mena": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "米納（女子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 menas"
+ },
+ "menace": {
+  "ph": "/'menis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "威脅, 脅迫",
+    "def": "something that is a source of danger"
+   },
+   {
+    "pos": "v.",
+    "zh": "威嚇, 脅迫",
+    "def": "express a threat either by an utterance or a gesture"
+   }
+  ],
+  "forms": "複數 menaces｜過去分詞 menaced｜過去式 menaced｜現在分詞 menacing｜第三人稱單數 menaces"
+ },
+ "menacing": {
+  "ph": "/'menәsiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "恐嚇的, 威脅的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 威脅的, 恐嚇的, 險惡的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 menacing"
+ },
+ "menacingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "威脅地, 恐嚇地",
+    "def": ""
+   }
+  ]
+ },
+ "menage": {
+  "ph": "/mei'nɑ:ʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家務, 家庭",
+    "def": ""
+   }
+  ]
+ },
+ "menagerie": {
+  "ph": "/mi'nædʒәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動物園, 野生動物",
+    "def": "a collection of live animals for study or display"
+   }
+  ]
+ },
+ "menai": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Menai)人名；(巴布)梅納伊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 menai"
+ },
+ "menarche": {
+  "ph": "/me'nɑ:ki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "初潮",
+    "def": "the first occurrence of menstruation in a woman"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [月]經初期",
+    "def": ""
+   }
+  ]
+ },
+ "mend": {
+  "ph": "/mend/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "改進, 修補, 好轉",
+    "def": "sewing that repairs a worn or torn hole (especially in a garment)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "修改, 改進, 加快, 修理",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "好轉, 改善",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 mending｜過去分詞 mended｜過去式 mended｜第三人稱單數 mends｜複數 mends"
+ },
+ "mendacious": {
+  "ph": "/men'deiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "虛假的, 說謊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 不誠實的, 好說謊的, 虛假的",
+    "def": ""
+   }
+  ]
+ },
+ "mendacity": {
+  "ph": "/men'dæsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "虛偽, 謊話, 說謊癖",
+    "def": "the tendency to be untruthful"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 謊言癖, 謊言",
+    "def": ""
+   }
+  ]
+ },
+ "mendel": {
+  "ph": "/'mendl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孟德爾（奧地利遺傳學家）",
+    "def": "Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884)"
+   }
+  ]
+ },
+ "mendelian": {
+  "ph": "/men'di:liәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "孟德爾學說的",
+    "def": "of or relating to Gregor Mendel or in accord with Mendel's laws"
+   },
+   {
+    "pos": "n.",
+    "zh": "孟德爾學派學者",
+    "def": "a follower of Mendelism"
+   }
+  ],
+  "forms": "複數 mendelians"
+ },
+ "mendelssohn": {
+  "ph": "/'mendlsn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "門德爾松(①姓氏 ②Moses, 1729-1786, 德國哲學家 ③Jakob Ludwig Felix, 1809-1847, 德國作曲家)",
+    "def": ""
+   }
+  ]
+ },
+ "mender": {
+  "ph": "/'mendә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修繕者, 修理者, 修改者",
+    "def": "a skilled worker who mends or repairs things"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 修理工; 報廢板材",
+    "def": ""
+   }
+  ],
+  "forms": "複數 menders"
+ },
+ "mendes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門德人（Mende的複數形式）；門德語（Mende的複數形式）；曼德斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "mendez": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "門德斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "mendicant": {
+  "ph": "/'mendikәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "行乞的, 託缽修道會的, 化緣的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "乞丐, 乞討, 托缽僧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mendicants"
+ },
+ "mending": {
+  "ph": "/'mendiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修補工作",
+    "def": "garments that must be repaired"
+   }
+  ],
+  "forms": "現在分詞 mending"
+ },
+ "mendip": {
+  "ph": "/'mendip/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地質]內露潛丘, 沿海平原小丘",
+    "def": ""
+   }
+  ]
+ },
+ "mendips": {
+  "ph": "/'mendip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[地質學]；內露潛丘",
+    "def": ""
+   }
+  ]
+ },
+ "mendoza": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門多薩（阿根廷城市）",
+    "def": ""
+   }
+  ]
+ },
+ "menfolk": {
+  "ph": "/'menfәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男人, 男成員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 menfolk"
+ },
+ "menial": {
+  "ph": "/'mi:niәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "適合僕人做的, 卑微的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "僕人",
+    "def": "a domestic servant"
+   }
+  ],
+  "forms": "複數 menials"
+ },
+ "meningeal": {
+  "ph": "/mi'nindʒiәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腦膜的",
+    "def": "relating to the meninges"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腦[脊]膜的",
+    "def": ""
+   }
+  ]
+ },
+ "meninges": {
+  "ph": "/mi'nindʒi:z/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腦[脊]膜",
+    "def": ""
+   }
+  ]
+ },
+ "meningioma": {
+  "ph": "/,minindʒi'әumә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 腦(脊)膜瘤",
+    "def": ""
+   }
+  ]
+ },
+ "meningitis": {
+  "ph": "/.menin'dʒaitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腦膜炎",
+    "def": "infectious disease characterized by inflammation of the meninges (the tissues that surround the brain or spinal cord) usually caused by a bacterial infection; s"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腦[脊]膜炎",
+    "def": ""
+   }
+  ]
+ },
+ "meningococcal": {
+  "ph": "/mɪ'nɪŋgəʊsi:l/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "腦膜炎球菌的",
+    "def": ""
+   }
+  ]
+ },
+ "meniscus": {
+  "ph": "/mi'niskәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新月形物, 半月板",
+    "def": "(anatomy) a disk of cartilage that serves as a cushion between the ends of bones that meet at a joint"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 彎液麵; 彎月面",
+    "def": ""
+   }
+  ]
+ },
+ "menlo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "門洛（美國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "mennonite": {
+  "ph": "/'menәnait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門諾派教徒",
+    "def": "a member of an Anabaptist movement in Holland noted for its simplicity of life"
+   }
+  ],
+  "forms": "複數 mennonites"
+ },
+ "menopausal": {
+  "ph": "/,menәj'pɔ:zәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 絕經的",
+    "def": ""
+   }
+  ]
+ },
+ "menopause": {
+  "ph": "/'menәupɒ:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "絕經期",
+    "def": "the time in a woman's life in which the menstrual cycle ends"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 絕經",
+    "def": ""
+   }
+  ]
+ },
+ "menorah": {
+  "ph": "/mә'nɒ:rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "九扦枝大燭臺(猶太教儀式用)",
+    "def": "(Judaism) a candelabrum with seven branches used in ceremonies to symbolize the seven days of Creation"
+   }
+  ]
+ },
+ "mens": {
+  "ph": "/menz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 精神, 意志",
+    "def": ""
+   }
+  ]
+ },
+ "mensa": {
+  "ph": "/'mensә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] Ж面",
+    "def": ""
+   }
+  ]
+ },
+ "mensch": {
+  "ph": "/mentʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公正的人；受尊敬的人；高潔的人",
+    "def": "a decent responsible person with admirable characteristics"
+   }
+  ]
+ },
+ "menses": {
+  "ph": "/'mensi:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "月經",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 月經",
+    "def": ""
+   }
+  ]
+ },
+ "menshevik": {
+  "ph": "/'menʃәvik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孟什維克",
+    "def": "a Russian member of the liberal minority group that advocated gradual reform and opposed the Bolsheviks before and during the Russian Revolution"
+   },
+   {
+    "pos": "adj.",
+    "zh": "孟什維克的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mensheviks"
+ },
+ "menstrual": {
+  "ph": "/'menstruәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "月經的, 一月一次的, 每月的",
+    "def": "of or relating to menstruation or the menses"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 月經的",
+    "def": ""
+   }
+  ]
+ },
+ "menstruate": {
+  "ph": "/'menstrueit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "有月經",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 行經",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 menstruating｜第三人稱單數 menstruates｜過去式 menstruated｜過去分詞 menstruated"
+ },
+ "menstruating": {
+  "ph": "/ˈmenstru:ˌeɪtɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "行經, 月經來潮( menstruate的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 menstruating"
+ },
+ "menstruation": {
+  "ph": "/.menstru'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "月經, 月經期間",
+    "def": "the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 月經, 行經",
+    "def": ""
+   }
+  ],
+  "forms": "複數 menstruations"
+ },
+ "mensuration": {
+  "ph": "/.mensjuә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測定, 測量, 測定法",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 測量, 測診",
+    "def": ""
+   }
+  ]
+ },
+ "menswear": {
+  "ph": "/'menz,weә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男服",
+    "def": ""
+   }
+  ]
+ },
+ "ment": {
+  "ph": "/'mənt/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "mention 提到; mental 精神的; mentalis 精神的; mentioned 提及的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ments"
+ },
+ "mental": {
+  "ph": "/'mentl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "心智的, 精神病的, 心理的, 頦的",
+    "def": "involving the mind or an intellectual process"
+   },
+   {
+    "pos": "n.",
+    "zh": "精神病患者",
+    "def": ""
+   }
+  ]
+ },
+ "mentality": {
+  "ph": "/men'tæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精神力, 智力, 頭腦作用, 心態",
+    "def": "a habitual or characteristic mental attitude that determines how you will interpret and respond to situations"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 智力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mentalities"
+ },
+ "mentally": {
+  "ph": "/'mentli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "心理上, 精神上, 智力上",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 精神上, 智力上",
+    "def": ""
+   }
+  ]
+ },
+ "mentation": {
+  "ph": "/men'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精神作用, 心理狀態",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 精神活動, 精神作用",
+    "def": ""
+   }
+  ]
+ },
+ "mentee": {
+  "ph": "/menˈti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聆聽教導者",
+    "def": ""
+   }
+  ]
+ },
+ "menthol": {
+  "ph": "/'menθoul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄荷醇",
+    "def": "a crystalline compound that has the cool and minty taste and odor that occurs naturally in peppermint oil; used as a flavoring and in medicine to relieve itchin"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 薄荷醇; ┮醇",
+    "def": ""
+   }
+  ]
+ },
+ "mention": {
+  "ph": "/'menʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提到, 言及, 陳述",
+    "def": "a remark that calls attention to something or someone"
+   },
+   {
+    "pos": "vt.",
+    "zh": "提到, 提及",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 mentioned｜過去式 mentioned｜現在分詞 mentioning｜第三人稱單數 mentions｜複數 mentions"
+ },
+ "mentor": {
+  "ph": "/'mentɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "指導者, 良師益友",
+    "def": "a wise and trusted guide and advisor"
+   }
+  ],
+  "forms": "複數 mentors｜現在分詞 mentoring｜過去式 mentored｜第三人稱單數 mentors｜過去分詞 mentored"
+ },
+ "mentoring": {
+  "ph": "/ˈmenˌtɔ:ɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "mentoring是一種工作關係。mentor通常是處在比mentee更高工作職位上的有影響力的人。他/她有比‘mentee’更豐富的工作經驗和知識, 並用心支援mentee的職業（發展）。",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "（無經驗之人的）有經驗可信賴的顧問( mentor的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "mentorship": {
+  "ph": "/'mentɔːʃɪp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "導師制, 輔導教師；師徒制",
+    "def": ""
+   }
+  ]
+ },
+ "menu": {
+  "ph": "/'menju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "選單, (功能)選擇單",
+    "def": "a list of dishes available at a restaurant"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 選單",
+    "def": ""
+   }
+  ],
+  "forms": "複數 menus"
+ },
+ "menuhin": {
+  "ph": "/'menjuin, 'menuhin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅紐因(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "menzies": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "孟席斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "meo": {
+  "ph": "/'mi:əu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Meo)人名；(意、法、英)梅奧",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "中軌道（Medium Earth Orbit）；保養工程規則（Maintenance Engineering Order）",
+    "def": ""
+   }
+  ]
+ },
+ "meow": {
+  "ph": "/mi'au/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貓叫聲",
+    "def": "the sound made by a cat (or any sound resembling this)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "貓叫",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 meowed｜現在分詞 meowing｜第三人稱單數 meows｜複數 meows｜過去分詞 meowed"
+ },
+ "mep": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 最低能量途徑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meps"
+ },
+ "mer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 鏈節",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mers"
+ },
+ "merc": {
+  "ph": "/m\\\\\\\\:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<口>外國僱傭兵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mercs"
+ },
+ "mercantile": {
+  "ph": "/'mә:kәntail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "商業的, 商人的",
+    "def": "of or relating to the economic system of mercantilism"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 商業的",
+    "def": ""
+   }
+  ]
+ },
+ "mercantilism": {
+  "ph": "/'mә:kәntailizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重商主義, 商業理論, 商業活動, 商界習俗, 商用術語",
+    "def": "an economic system (Europe in 18th century) to increase a nation's wealth by government regulation of all of the nation's commercial interests"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 重商主義, 商業活動, 商用術語",
+    "def": ""
+   }
+  ]
+ },
+ "mercedes": {
+  "ph": "/'mә:sidi:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅塞德斯（人名）；梅賽德斯（公司名）",
+    "def": ""
+   }
+  ]
+ },
+ "mercenary": {
+  "ph": "/'mә:sinәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唯利是圖者, 僱傭兵",
+    "def": "a person hired to fight for another country than their own"
+   },
+   {
+    "pos": "adj.",
+    "zh": "為錢而工作的, 被僱的, 圖利的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mercenaries"
+ },
+ "mercer": {
+  "ph": "/'mә:sә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "布商, 綢緞商人, 呢絨布商",
+    "def": "a dealer in textiles (especially silks)"
+   }
+  ],
+  "forms": "複數 mercers"
+ },
+ "merchandise": {
+  "ph": "/'mә:tʃәndaiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "商品, 貨物",
+    "def": "commodities offered for sale"
+   },
+   {
+    "pos": "v.",
+    "zh": "交易, 買賣",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 merchandising｜過去式 merchandised"
+ },
+ "merchandiser": {
+  "ph": "/'mә:tʃәndaizә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "商人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 merchandisers"
+ },
+ "merchandising": {
+  "ph": "/'mә:tʃәndaiziŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 商品銷售, 商品學, 推銷",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 merchandising"
+ },
+ "merchant": {
+  "ph": "/'mә:tʃәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "商人, 店主",
+    "def": "a businessperson engaged in retail trade"
+   },
+   {
+    "pos": "adj.",
+    "zh": "商業的, 商人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 merchants｜現在分詞 merchanting"
+ },
+ "merchant bank": {
+  "ph": "/ˈmə:tʃənt bæŋk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "商業銀行",
+    "def": ""
+   }
+  ]
+ },
+ "merchantable": {
+  "ph": "/'mә:tʃәntәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可買賣的, 有銷路的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 有銷路的, 可銷售的",
+    "def": ""
+   }
+  ]
+ },
+ "merchantman": {
+  "ph": "/'mә:tʃәntmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "商船, 商人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 遠洋或沿海客貨輪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 merchantmen"
+ },
+ "merchiston": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Merchiston)人名；(英)默奇斯頓",
+    "def": ""
+   }
+  ]
+ },
+ "merci": {
+  "ph": "/mεr'si:/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "謝謝（法語）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 merci"
+ },
+ "mercia": {
+  "ph": "/'mә:ʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麥西亞（中世紀早期七國時代的七國之一, 位於今英格蘭中部）",
+    "def": ""
+   }
+  ]
+ },
+ "mercian": {
+  "ph": "/'mә:ʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "莫西亞的, 莫西亞人的, 莫西亞方言的, 莫西亞人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mercians"
+ },
+ "merciful": {
+  "ph": "/'mә:siful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "仁慈的, 慈悲的",
+    "def": "showing or giving mercy"
+   }
+  ]
+ },
+ "mercifully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "仁慈地",
+    "def": ""
+   }
+  ]
+ },
+ "merciless": {
+  "ph": "/'mә:silis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無慈悲心的, 殘忍的",
+    "def": "having or showing no mercy"
+   }
+  ]
+ },
+ "mercilessly": {
+  "ph": "/'mɜ:sɪləslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無情地, 殘忍地",
+    "def": ""
+   }
+  ]
+ },
+ "merck": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "默克公司（財富500強公司之一, 部所在地美國, 主要經營製藥）",
+    "def": ""
+   }
+  ]
+ },
+ "mercurial": {
+  "ph": "/mә:'kjuәriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "水星的, 敏捷的, 活潑的, 水銀的",
+    "def": "relating to or under the (astrological) influence of the planet Mercury"
+   },
+   {
+    "pos": "n.",
+    "zh": "汞劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mercurials"
+ },
+ "mercuric": {
+  "ph": "/mә:'kjuәrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "水銀的, 含水銀的, 汞的",
+    "def": "of or containing mercury"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 汞的; 正汞的; 二價汞的",
+    "def": ""
+   }
+  ]
+ },
+ "mercury": {
+  "ph": "/'mә:kjuri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水銀, 汞, 使者",
+    "def": "a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 汞Hg",
+    "def": ""
+   }
+  ]
+ },
+ "mercy": {
+  "ph": "/'mә:si/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仁慈, 寬恕, 慈悲, 憐憫, 幸運",
+    "def": "something for which to be thankful"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 權宜處置權, 決定權, 寬恕",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mercies"
+ },
+ "merde": {
+  "ph": "/mεrd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[法語]；糞便；汙穢；排洩物",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "髒的；汙穢的",
+    "def": ""
+   },
+   {
+    "pos": "interj.",
+    "zh": "呸![表示厭惡和憤怒的感嘆語]",
+    "def": ""
+   }
+  ]
+ },
+ "mere": {
+  "ph": "/miә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小湖, 池塘",
+    "def": "a small pond of standing water"
+   },
+   {
+    "pos": "adj.",
+    "zh": "僅僅的, 只不過的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 merest｜複數 meres"
+ },
+ "meredith": {
+  "ph": "/'meridiθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅雷迪思(m.) , 梅瑞狄斯(Edward Robert Bulwer-Lytton 的筆名)",
+    "def": "United States civil rights leader whose college registration caused riots in traditionally segregated Mississippi (born in 1933)"
+   }
+  ]
+ },
+ "merely": {
+  "ph": "/'miәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "只",
+    "def": ""
+   }
+  ]
+ },
+ "merengue": {
+  "ph": "/mә'reŋ^ei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅倫格舞(海地和多明尼加的一種交際舞)",
+    "def": ""
+   }
+  ]
+ },
+ "meretricious": {
+  "ph": "/.meri'triʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "華麗而庸俗的, 俗氣的, 娼妓的",
+    "def": "like or relating to a prostitute"
+   }
+  ]
+ },
+ "merganser": {
+  "ph": "/mә:'gænsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "秋沙鴨",
+    "def": "large crested fish-eating diving duck having a slender hooked bill with serrated edges"
+   }
+  ],
+  "forms": "複數 mergansers"
+ },
+ "merge": {
+  "ph": "/mә:dʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使合併, 使消失, 吞沒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "合併, 漸漸消失",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 合併",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 merged｜過去式 merged｜現在分詞 merging｜第三人稱單數 merges"
+ },
+ "merged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "合併；融合（merge的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 merged｜過去式 merged"
+ },
+ "merger": {
+  "ph": "/'mә:dʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合併, 歸併",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 購併",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mergers"
+ },
+ "merging": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 合併, 歸併",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 merging"
+ },
+ "meridian": {
+  "ph": "/mә'ridiәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "子午線, 經線, 頂點",
+    "def": "a town in eastern Mississippi"
+   },
+   {
+    "pos": "adj.",
+    "zh": "子午線的, 最高點的, 頂點的",
+    "def": "of or happening at noon"
+   }
+  ],
+  "forms": "複數 meridians"
+ },
+ "meridional": {
+  "ph": "/mә'ridiәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "南部的, 南歐的, 子午線的",
+    "def": "of or relating to a meridian"
+   },
+   {
+    "pos": "n.",
+    "zh": "南歐人",
+    "def": ""
+   }
+  ]
+ },
+ "meringue": {
+  "ph": "/mә'ræŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糕餅, 蛋白甜餡餅, 蛋白甜餅, 蛋白酥皮筒/酥皮卷, 蛋白酥皮",
+    "def": "sweet topping especially for pies made of beaten egg whites and sugar"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 蛋糖霜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meringues"
+ },
+ "merino": {
+  "ph": "/mә'ri:nәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美利奴羊, 美利奴呢絨, 美利奴絲綢",
+    "def": "white sheep originating in Spain and producing a heavy fleece of exceptional quality"
+   }
+  ],
+  "forms": "複數 merinos"
+ },
+ "meristem": {
+  "ph": "/'meristem/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分生組織",
+    "def": "undifferentiated tissue from which new cells are formed, as at the tip of a stem or root"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 分生組織",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meristems"
+ },
+ "merit": {
+  "ph": "/'merit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "優點, 功績, 價值, 功過, 真相",
+    "def": "any admirable quality or attribute"
+   },
+   {
+    "pos": "vt.",
+    "zh": "值得",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "應受",
+    "def": ""
+   }
+  ],
+  "forms": "複數 merits｜第三人稱單數 merits｜過去式 merited｜過去分詞 merited｜現在分詞 meriting"
+ },
+ "merited": {
+  "ph": "/'meritid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "應得的；理所當然的",
+    "def": "properly deserved"
+   }
+  ]
+ },
+ "meritocracy": {
+  "ph": "/.meri'tɒkrәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "精英領導階級",
+    "def": "a form of social system in which power goes to those with superior intellects"
+   }
+  ],
+  "forms": "複數 meritocracies"
+ },
+ "meritocratic": {
+  "ph": "/ˌmerɪtə'krætɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精英管理的；賢能統治的",
+    "def": "relating to or characteristic of a meritocracy"
+   }
+  ]
+ },
+ "meritorious": {
+  "ph": "/.meri'tɒ:riәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有功績的, 有價值的, 可稱讚的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 有功的, 值得稱讚的, 善意的",
+    "def": ""
+   }
+  ]
+ },
+ "merle": {
+  "ph": "/m\\\\\\\\:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "默爾（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "merlin": {
+  "ph": "/'m\\\\\\\\:lin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[鳥]隼, 灰背隼",
+    "def": "(Arthurian legend) the magician who acted as King Arthur's advisor"
+   }
+  ],
+  "forms": "複數 merlins"
+ },
+ "merlot": {
+  "ph": "/'mɜ:lɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墨爾樂（法國釀酒用葡萄品種名）； 墨爾樂紅葡萄酒",
+    "def": "black wine grape originally from the region of Bordeaux"
+   }
+  ]
+ },
+ "merlyn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Merlyn)人名；(英)默林",
+    "def": ""
+   }
+  ]
+ },
+ "mermaid": {
+  "ph": "/'mә:meid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美人魚, 善泳的女子",
+    "def": "half woman and half fish; lives in the sea"
+   }
+  ],
+  "forms": "複數 mermaids"
+ },
+ "merman": {
+  "ph": "/'mә:mæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男性人魚, 善泳的男子",
+    "def": "United States singer who appeared in several musical comedies (1909-1984)"
+   }
+  ],
+  "forms": "複數 mermen"
+ },
+ "merovingian": {
+  "ph": "/,merəu'vindʒiən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅羅文加王朝的王",
+    "def": "a member of the Merovingian dynasty"
+   },
+   {
+    "pos": "adj.",
+    "zh": "梅羅文加王朝的",
+    "def": "of or relating to the Merovingian dynasty or its members"
+   }
+  ],
+  "forms": "複數 merovingians"
+ },
+ "merrell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅里爾(人名)",
+    "def": ""
+   }
+  ]
+ },
+ "merrick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Merrick)人名；(英、西、葡)梅里克",
+    "def": ""
+   }
+  ],
+  "forms": "複數 merricks"
+ },
+ "merrill": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美林（美國證券公司）；美林（美國城市）",
+    "def": ""
+   }
+  ]
+ },
+ "merrily": {
+  "ph": "/'merili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "愉快地, 高興地",
+    "def": ""
+   }
+  ]
+ },
+ "merriment": {
+  "ph": "/'merimәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歡喜, 嬉戲",
+    "def": ""
+   }
+  ]
+ },
+ "merrion": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Merrion)人名；(英)梅里恩",
+    "def": ""
+   }
+  ]
+ },
+ "merritt": {
+  "ph": "/'merit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅里特(姓氏, 男子名)",
+    "def": ""
+   }
+  ]
+ },
+ "merry": {
+  "ph": "/'meri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "快樂的, 愉快的, 嬉戲作樂的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 merrier｜最高級 merriest"
+ },
+ "merrymaker": {
+  "ph": "/'meri,meikә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尋歡作樂的人, 嬉戲者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 merrymakers"
+ },
+ "merrymaking": {
+  "ph": "/'meri.meikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "作樂",
+    "def": "a boisterous celebration; a merry festivity"
+   }
+  ]
+ },
+ "mersey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "默西河（英格蘭河流名）",
+    "def": ""
+   }
+  ]
+ },
+ "merseyside": {
+  "ph": "/'mә:zisaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "默西賽德郡",
+    "def": ""
+   }
+  ]
+ },
+ "merseysider": {
+  "ph": "/'mə:zisaid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "默西賽德郡(英國英格蘭西部的郡)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 merseysiders"
+ },
+ "merson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Merson)人名；(德)默松；(法)梅爾松；(英)默森",
+    "def": ""
+   }
+  ]
+ },
+ "merthyr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Merthyr)人名；(英)默瑟",
+    "def": ""
+   }
+  ]
+ },
+ "merton": {
+  "ph": "/'mә:tn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "默頓[英國英格蘭東南部城市]",
+    "def": ""
+   }
+  ]
+ },
+ "meryl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅麗爾（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "mesa": {
+  "ph": "/'meisә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "檯面, 巖灘, 平頂山",
+    "def": "flat tableland with steep edges"
+   }
+  ],
+  "forms": "複數 mesas"
+ },
+ "mesalazine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "美沙拉嗪；5-氨基水楊酸唑",
+    "def": ""
+   }
+  ]
+ },
+ "mescal": {
+  "ph": "/me'skæl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "麥斯卡爾酒, 龍舌蘭, 威廉斯仙人球",
+    "def": "a small spineless globe-shaped cactus; source of mescal buttons"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 威廉斯仙人球, 龍舌蘭酵汁",
+    "def": ""
+   }
+  ]
+ },
+ "mescaline": {
+  "ph": "/'meskәlin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墨斯卡林",
+    "def": "the hallucinatory alkaloid that is the active agent in mescal buttons"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 墨斯卡靈; 三甲氧苯乙胺",
+    "def": ""
+   }
+  ]
+ },
+ "mesclun": {
+  "ph": "/mezk'lʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一種多葉的綠色植物的混合物, 通常包含萵苣, 用於製作沙拉冷盤。",
+    "def": ""
+   }
+  ]
+ },
+ "meself": {
+  "ph": "/mi'self, mi:-/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "<方> = myself",
+    "def": ""
+   }
+  ]
+ },
+ "mesenchymal": {
+  "ph": "/mes'eŋkiməl, mez-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 間[充]質的",
+    "def": ""
+   }
+  ]
+ },
+ "mesenchyme": {
+  "ph": "/'mezәnkaim, 'mes-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "間質",
+    "def": "mesodermal tissue that forms connective tissue and blood and smooth muscles"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 間[充]質",
+    "def": ""
+   }
+  ]
+ },
+ "mesh": {
+  "ph": "/meʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網孔, 網絲, 網眼, 網狀物, 圈套, 陷阱, 齧合",
+    "def": "the number of openings per linear inch of a screen; measures size of particles"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以網捕捉, 齧合, 使纏住",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "落網, 相齧合",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meshes｜過去式 meshed｜過去分詞 meshed｜現在分詞 meshing｜第三人稱單數 meshs"
+ },
+ "meshing": {
+  "ph": "/'meʃɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "結網, 齧合",
+    "def": ""
+   }
+  ]
+ },
+ "mesic": {
+  "ph": "/'mi:zik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "棲於溼地的",
+    "def": "having or characterized by moderate or a well-balanced supply of moisture"
+   }
+  ]
+ },
+ "mesmeric": {
+  "ph": "/mes'merik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "催眠術的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 催眠術的",
+    "def": ""
+   }
+  ]
+ },
+ "mesmerise": {
+  "ph": "/'mezmәraiz, 'mes-/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "對...施催眠術, 使目瞪口呆, 使入迷",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 mesmerised｜現在分詞 mesmerising｜過去式 mesmerised"
+ },
+ "mesmerised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "施以催眠術；使…入迷；使…目瞪口呆 (mesmerise的變形)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 mesmerised"
+ },
+ "mesmerising": {
+  "ph": "/'mezməraiz, 'mes-/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "施以催眠術；使…入迷；使…目瞪口呆",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 mesmerising"
+ },
+ "mesmerism": {
+  "ph": "/'mezmәrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "催眠術, 催眠狀態",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 催眠術",
+    "def": ""
+   }
+  ]
+ },
+ "mesmerize": {
+  "ph": "/'mezmәraiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "施催眠術, 迷住, 迷惑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 催眠",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 mesmerized｜過去式 mesmerized｜現在分詞 mesmerizing｜第三人稱單數 mesmerizes"
+ },
+ "mesmerized": {
+  "ph": "/ˈmezməˌraɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使入迷( mesmerize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 mesmerized｜過去分詞 mesmerized"
+ },
+ "mesmerizing": {
+  "ph": "/ˈmezməˌraɪzɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有吸引力的, 有魅力的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使入迷( mesmerize的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "mesoamerican": {
+  "ph": "/,mesəuə'merikən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美索美洲",
+    "def": "a member of one of the various peoples inhabiting Mesoamerica"
+   }
+  ]
+ },
+ "mesomorph": {
+  "ph": "/'mesәumɒ:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "體育型體質的人, 中胚層體型的人",
+    "def": "a person with a well-developed muscular body"
+   }
+  ],
+  "forms": "複數 mesomorphs"
+ },
+ "meson": {
+  "ph": "/'mezɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "介子",
+    "def": "an elementary particle responsible for the forces in the atomic nucleus; a hadron with a baryon number of 0"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 介子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mesons"
+ },
+ "mesophilic": {
+  "ph": "/,mesә'filik, ,mez-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 親中介態的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 嗜常溫的, 適溫的(細菌)",
+    "def": ""
+   }
+  ]
+ },
+ "mesopotamia": {
+  "ph": "/.mesәpә'teimiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美索不達米亞",
+    "def": "the land between the Tigris and Euphrates; site of several ancient civilizations; part of what is now known as Iraq"
+   }
+  ]
+ },
+ "mesopotamian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美索不達米亞（兩河流域）",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "美索不達米亞的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mesopotamians"
+ },
+ "mesoscopic": {
+  "ph": "/meɪ'səskɒpɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]介觀也為奈米觀(nanoscopic), 1～100nm,因在物理層次上既非宏觀又非微觀, 故為相對獨立的領域。",
+    "def": ""
+   }
+  ]
+ },
+ "mesothelioma": {
+  "ph": "/,mesәu,θi:li'әumә, ,mez-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 間皮瘤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mesotheliomas"
+ },
+ "mesozoic": {
+  "ph": "/.mesәu'zәuik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中生代",
+    "def": "from 230 million to 63 million years ago"
+   },
+   {
+    "pos": "adj.",
+    "zh": "中生代的",
+    "def": "of or relating to or denoting the Mesozoic era"
+   }
+  ]
+ },
+ "mesquite": {
+  "ph": "/'meski:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豆科灌木（產於美國西南部和墨西哥）",
+    "def": "any of several small spiny trees or shrubs of the genus Prosopis having small flowers in axillary cylindrical spikes followed by large pods rich in sugar"
+   }
+  ]
+ },
+ "mess": {
+  "ph": "/mes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食堂, 伙食, 用膳, 一份食品, 混亂, 亂七八糟, 困境",
+    "def": "a state of confusion and disorderliness"
+   },
+   {
+    "pos": "vt.",
+    "zh": "將...弄糟, 妨礙, 使紊亂, 使就餐",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "陷入困境, 搞亂, 用膳",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 messing｜過去分詞 messed｜過去式 messed｜複數 messes｜第三人稱單數 messes"
+ },
+ "message": {
+  "ph": "/'mesidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訊息, 通訊, 訊息, 教訓, 預言, 廣告詞",
+    "def": "a communication (usually brief) that is written or spoken or signaled"
+   },
+   {
+    "pos": "vt.",
+    "zh": "通知",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "通報, 報告, 報信",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 報文; 訊息; 資訊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 messages｜現在分詞 messaging｜過去式 messaged｜第三人稱單數 messages｜過去分詞 messaged"
+ },
+ "messaging": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訊息傳送；資訊傳送；通知",
+    "def": "the sending and processing of e-mail by computer"
+   }
+  ],
+  "forms": "現在分詞 messaging"
+ },
+ "messenger": {
+  "ph": "/'mesindʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "報信者, 使者",
+    "def": "a person who carries a message"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 使者, 送信者, 通訊員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 messengers"
+ },
+ "messerschmitt": {
+  "ph": "/'mesәʃmit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(第二次世界大戰期間德國空軍使用的) 梅塞施米特式戰鬥機(尤指 ME109 型)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 messerschmitts"
+ },
+ "messiah": {
+  "ph": "/mә'saiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "彌賽亞",
+    "def": "any expected deliverer"
+   }
+  ],
+  "forms": "複數 messiahs"
+ },
+ "messianic": {
+  "ph": "/.mesi'ænik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "彌賽亞的",
+    "def": "of or relating to a messiah promising deliverance"
+   }
+  ]
+ },
+ "messianism": {
+  "ph": "/mi'saiәnizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對救世主即將降臨之信仰",
+    "def": ""
+   }
+  ]
+ },
+ "messiest": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "骯髒的( messy的最高階 ); 混亂的; 難以處理的; 令人厭煩的",
+    "def": ""
+   }
+  ]
+ },
+ "messily": {
+  "ph": "/'mesili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "亂糟糟地；棘手地",
+    "def": ""
+   }
+  ]
+ },
+ "messina": {
+  "ph": "/me'sinә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "墨西拿[義大利西西里島東北岸港市](臨墨西拿海峽) , 墨西拿海峽(在義大利半島南端和西西里島之間)",
+    "def": ""
+   }
+  ]
+ },
+ "messiness": {
+  "ph": "/'mesɪnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雜亂狀況",
+    "def": ""
+   }
+  ]
+ },
+ "messr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "multi-spectral electronic self-scanning radiometer 多頻譜電子自掃描輻射計",
+    "def": ""
+   }
+  ]
+ },
+ "messrs": {
+  "ph": "/'mesәz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法][pl. ](=Messieurs)各位(先生)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 messrs"
+ },
+ "messy": {
+  "ph": "/'mesi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "散亂的, 汙穢的, 麻煩的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 messier"
+ },
+ "mestiza": {
+  "ph": "/me'sti:zә, mi-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "mestizo的女性形式,女混血(尤指西班牙或葡萄牙和印第安人)兒",
+    "def": "a woman of mixed racial ancestry (especially mixed European and Native American ancestry)"
+   }
+  ]
+ },
+ "mestizo": {
+  "ph": "/me'sti:zәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混血兒",
+    "def": "a person of mixed racial ancestry (especially mixed European and Native American ancestry)"
+   }
+  ],
+  "forms": "複數 mestizos"
+ },
+ "met": {
+  "ph": "/met/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "meet的過去式和過去分詞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 甲硫氨酸; 蛋氨酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mets"
+ },
+ "metabolic": {
+  "ph": "/.metә'bɒlik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "變化的, 變形的, 新陳代謝的",
+    "def": "of or relating to metabolism"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [新陳]代謝的",
+    "def": ""
+   }
+  ]
+ },
+ "metabolically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "代謝的（metabolic的副詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "metabolise": {
+  "ph": "/mi'tæbәlaiz, me-/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使物質替換, 使變形",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 metabolised｜過去式 metabolised｜現在分詞 metabolising"
+ },
+ "metabolism": {
+  "ph": "/mi'tæbәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "新陳代謝, 變態",
+    "def": "the organic processes (in a cell or organism) that are necessary for life"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 新陳代謝; 代謝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metabolisms"
+ },
+ "metabolite": {
+  "ph": "/mi'tæbәlait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代謝物",
+    "def": "any substance involved in metabolism (either as a product of metabolism or as necessary for metabolism)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 代謝物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metabolites"
+ },
+ "metabolize": {
+  "ph": "/mi'tæbәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使物質交替, 使新陳代謝, 使變形",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 引起代謝",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 metabolized｜第三人稱單數 metabolizes｜現在分詞 metabolizing｜過去式 metabolized"
+ },
+ "metacarpal": {
+  "ph": "/.metә'kɑ:pәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "掌的",
+    "def": "of or relating to the metacarpus"
+   },
+   {
+    "pos": "n.",
+    "zh": "掌骨",
+    "def": "any bone of the hand between the wrist and fingers"
+   }
+  ],
+  "forms": "複數 metacarpals"
+ },
+ "metacognition": {
+  "ph": "/me'tækɔ:gnɪʃən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "元認知",
+    "def": ""
+   }
+  ]
+ },
+ "metacognitive": {
+  "ph": "/'metəkɒɡnɪtɪv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "元認知",
+    "def": ""
+   }
+  ]
+ },
+ "metadata": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 後設資料",
+    "def": ""
+   }
+  ]
+ },
+ "metafiction": {
+  "ph": "/,metә'fikʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超小說(現代小說流派或其作品,有意強調作者的媒介作用和寫作技巧,忽略傳統寫作中對真實性的關注)",
+    "def": ""
+   }
+  ]
+ },
+ "metafictional": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "超小說(現代小說流派或其作品；有意強調作者的媒介作用和寫作技巧；忽略傳統寫作中對真實性的關注)",
+    "def": ""
+   }
+  ]
+ },
+ "metal": {
+  "ph": "/'metәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金屬, 金屬製品, 合金, 本質, 質料",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "金屬製的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "以金屬覆蓋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metals｜現在分詞 metaling｜過去式 metaled｜第三人稱單數 metals｜過去分詞 metaled"
+ },
+ "metalanguage": {
+  "ph": "/'metә.læŋgwidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "元語言",
+    "def": "a language that can be used to describe languages"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 元語言",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metalanguages"
+ },
+ "metaleptic": {
+  "ph": "/,metik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "metalepsis的變形",
+    "def": "Of or pertaining to a metalepsis."
+   }
+  ]
+ },
+ "metalhead": {
+  "ph": "/'metl,hed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[美國俚語]“重金屬”（電子）搖滾樂迷[亦作 metal head]",
+    "def": "a fan of heavy metal music"
+   }
+  ],
+  "forms": "複數 metalheads"
+ },
+ "metalinguistic": {
+  "ph": "/,metәliŋ'^wistik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 元語言的",
+    "def": ""
+   }
+  ]
+ },
+ "metalled": {
+  "ph": "/'metəld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "<英>(道路)碎石鋪面的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 metalled"
+ },
+ "metallic": {
+  "ph": "/mi'tælik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "金屬的, 含金屬的, 產生金屬的",
+    "def": "containing or made of or resembling or characteristic of a metal"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 金屬的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metallics"
+ },
+ "metallicity": {
+  "ph": "/mɪtæ'lɪsɪtɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "金屬性, 金屬特徵",
+    "def": ""
+   }
+  ]
+ },
+ "metallurgical": {
+  "ph": "/,metә'lә:dʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冶金的, 冶金學的",
+    "def": "of or relating to metallurgy"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 治金的, 治金術的",
+    "def": ""
+   }
+  ]
+ },
+ "metallurgist": {
+  "ph": "/me'tælәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冶金家, 冶金學者",
+    "def": "an engineer trained in the extraction and refining and alloying and fabrication of metals"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 治金學者, 治金家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metallurgists"
+ },
+ "metallurgy": {
+  "ph": "/'metәlә:dʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冶金學, 冶金術",
+    "def": "the science and technology of metals"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 冶金",
+    "def": ""
+   }
+  ]
+ },
+ "metalsmith": {
+  "ph": "/'metlsmiθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金工技工,金屬加工技工",
+    "def": ""
+   }
+  ]
+ },
+ "metalware": {
+  "ph": "/'metәlwєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金屬器皿",
+    "def": "household articles made of metal (especially for use at table)"
+   }
+  ],
+  "forms": "複數 metalwares"
+ },
+ "metalwork": {
+  "ph": "/'metәlwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金屬製品, 金屬加工",
+    "def": "the metal parts of something"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 金工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metalworks"
+ },
+ "metalworker": {
+  "ph": "/'metlwɜ:kə(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "金屬製造工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metalworkers"
+ },
+ "metalworking": {
+  "ph": "/'metəl,w\\\\\\\\:kiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金屬加工術, 金屬工",
+    "def": "the activity of making things out of metal in a skillful manner"
+   }
+  ]
+ },
+ "metamaterial": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "超材料",
+    "def": ""
+   }
+  ]
+ },
+ "metamorphic": {
+  "ph": "/.metә'mɒ:fik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "變化的, 變性的, 變態的",
+    "def": "of or relating to metamorphosis (especially of rocks)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 變態的",
+    "def": ""
+   }
+  ]
+ },
+ "metamorphism": {
+  "ph": "/.metә'mɒ:fizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "變態, 變形, 變質",
+    "def": "change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances"
+   }
+  ]
+ },
+ "metamorphose": {
+  "ph": "/.metә'mɒ:fәuz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使變形, 使變態, 使變質",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變形, 變質",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 metamorphosed｜複數 metamorphoses｜過去式 metamorphosed｜現在分詞 metamorphosing｜第三人稱單數 metamorphoses"
+ },
+ "metamorphosed": {
+  "ph": "/ˌmetəˈmɔ:ˌfəʊzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使變形, 使變質( metamorphose的過去式和過去分詞 ); 變形, 變質",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 metamorphosed｜過去式 metamorphosed"
+ },
+ "metamorphoses": {
+  "ph": "/ˌmetə'mɔ:fəsi:z/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使變形, 使變質( metamorphose的第三人稱單數 ); 變形, 變質",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "變形（尤指從蛹變為昆蟲）( metamorphosis的名詞複數 ); （性格、環境等的）改變",
+    "def": ""
+   }
+  ]
+ },
+ "metamorphosis": {
+  "ph": "/.metә'mɒ:fәsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛻變, 變質, 變形",
+    "def": "the marked and rapid transformation of a larva into an adult that occurs in some animals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 變態, 變形, 變質",
+    "def": ""
+   }
+  ]
+ },
+ "metanarrative": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "元敘述",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metanarratives"
+ },
+ "metaphor": {
+  "ph": "/'metәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隱喻",
+    "def": "a figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity"
+   }
+  ],
+  "forms": "複數 metaphors"
+ },
+ "metaphoric": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "隱喻的",
+    "def": ""
+   }
+  ]
+ },
+ "metaphorical": {
+  "ph": "/metә'fɒ:rikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "隱喻性的, 比喻性的",
+    "def": ""
+   }
+  ]
+ },
+ "metaphorically": {
+  "ph": "/ˌmetə'fɒrɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "比喻地, 隱喻地",
+    "def": ""
+   }
+  ]
+ },
+ "metaphysic": {
+  "ph": "/,metә'fizik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "形而上學, 玄學",
+    "def": "See Metaphysics."
+   }
+  ],
+  "forms": "複數 metaphysics"
+ },
+ "metaphysical": {
+  "ph": "/.metә'fizikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "形而上學的, 純粹哲學的, 抽象的",
+    "def": "pertaining to or of the nature of metaphysics"
+   }
+  ],
+  "forms": "第三人稱單數 metaphysicals｜複數 metaphysicals"
+ },
+ "metaphysically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "metaphysical的變形",
+    "def": ""
+   }
+  ]
+ },
+ "metaphysician": {
+  "ph": "/.metәfi'ziʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "形而上學者",
+    "def": "One who is versed in metaphysics."
+   }
+  ],
+  "forms": "複數 metaphysicians"
+ },
+ "metaphysics": {
+  "ph": "/.metә'fiziks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "形而上學, 玄學, 空頭理論",
+    "def": "the philosophical study of being and knowing"
+   }
+  ]
+ },
+ "metaplasia": {
+  "ph": "/,metә'pleiziә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "組織變形",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [組織]轉化, 化生, 組織變形",
+    "def": ""
+   }
+  ]
+ },
+ "metastable": {
+  "ph": "/.metә'steibl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "亞穩的",
+    "def": "(of physical systems) continuing in its present state of equilibrium unless sufficiently disturbed to pass to a more stable state of equilibrium"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 亞穩的; 亞穩態的; 介穩的; 介穩態的",
+    "def": ""
+   }
+  ]
+ },
+ "metastase": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]轉移酶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metastases｜第三人稱單數 metastases"
+ },
+ "metastasis": {
+  "ph": "/mә'tæstәsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉移, 新陳代謝, 移位變化",
+    "def": "the spreading of a disease (especially cancer) to another part of the body"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 移位變化; 失α-微粒變化; 轉移",
+    "def": ""
+   }
+  ]
+ },
+ "metastasize": {
+  "ph": "/mi'tæstәsaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "轉移",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 轉移, 遷徒",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 metastasizing｜過去分詞 metastasized｜過去式 metastasized｜第三人稱單數 metastasizes"
+ },
+ "metastatic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "轉移性的, 變態的, 變形的, 由轉移所致的",
+    "def": "relating to or affected by metastasis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 轉移的, 遷徒的",
+    "def": ""
+   }
+  ]
+ },
+ "metatarsal": {
+  "ph": "/.metә'tɑ:sl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蹠骨的",
+    "def": "of or relating to the metatarsus"
+   },
+   {
+    "pos": "n.",
+    "zh": "蹠骨",
+    "def": "any bone of the foot between the ankle and the toes"
+   }
+  ],
+  "forms": "複數 metatarsals"
+ },
+ "metcalf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅特卡夫（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "metcalfe": {
+  "ph": "/'metkɑ:f/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅特卡夫(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "mete": {
+  "ph": "/mi:t/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "量, 測量, 分配",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "邊界, 界石",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 meted｜過去式 meted｜現在分詞 meting｜第三人稱單數 metes｜複數 metes"
+ },
+ "meteor": {
+  "ph": "/'mi:tiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流星, 大氣現象",
+    "def": "a streak of light in the sky at night that results when a meteoroid hits the earth's atmosphere and air friction causes the meteoroid to melt or vaporize or exp"
+   }
+  ],
+  "forms": "複數 meteors"
+ },
+ "meteoric": {
+  "ph": "/.mi:ti'ɒrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "流星的, 疾速的, 大氣的",
+    "def": "pertaining to or consisting of meteors or meteoroids"
+   }
+  ]
+ },
+ "meteorite": {
+  "ph": "/'mi:tiәrait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隕星",
+    "def": "stony or metallic object that is the remains of a meteoroid that has reached the earth's surface"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 隕石; 隕鐵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meteorites"
+ },
+ "meteoritic": {
+  "ph": "/,mi:tiә'ritik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[地質]隕石的",
+    "def": ""
+   }
+  ]
+ },
+ "meteoroid": {
+  "ph": "/'mi:tiәrɒid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流星體",
+    "def": "(astronomy) any of the small solid extraterrestrial bodies that hits the earth's atmosphere"
+   }
+  ]
+ },
+ "meteorological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氣象的, 氣象學的",
+    "def": ""
+   }
+  ]
+ },
+ "meteorologist": {
+  "ph": "/.mi:tiә'rɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣象學者",
+    "def": "a specialist who studies processes in the earth's atmosphere that cause weather conditions"
+   }
+  ],
+  "forms": "複數 meteorologists"
+ },
+ "meteorology": {
+  "ph": "/.mi:tiә'rɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣象學, 氣象狀態",
+    "def": "predicting what the weather will be"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氣象學",
+    "def": ""
+   }
+  ]
+ },
+ "meter": {
+  "ph": "/'mi:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "米, 公尺, 儀表, 計量器",
+    "def": "the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以儀表計量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meters｜過去分詞 metered｜第三人稱單數 meters｜現在分詞 metering｜過去式 metered"
+ },
+ "metered": {
+  "ph": "/'mi:təd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]測定的, 測量的, 按計量的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 metered"
+ },
+ "metering": {
+  "ph": "/'mi:tәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測光模式；計量, 測量",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 metering"
+ },
+ "meth": {
+  "ph": "/meθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甲安菲他明（一種興奮劑）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 meths｜第三人稱單數 meth"
+ },
+ "methadone": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 美沙酮; 美散痛",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 美沙酮, 美散痛(鎮痛藥)",
+    "def": ""
+   }
+  ]
+ },
+ "methamphetamine": {
+  "ph": "/,meθæ'fetәmin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 脫氧麻黃鹼",
+    "def": ""
+   }
+  ]
+ },
+ "methane": {
+  "ph": "/'meθein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甲烷, 沼氣",
+    "def": "a colorless odorless gas used as a fuel"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 甲烷; 沼氣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 methanes"
+ },
+ "methanol": {
+  "ph": "/'meθәnәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甲醇",
+    "def": "a light volatile flammable poisonous liquid alcohol; used as an antifreeze and solvent and fuel and as a denaturant for ethyl alcohol"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 甲醇",
+    "def": ""
+   }
+  ]
+ },
+ "methicillin": {
+  "ph": "/meθi'silin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 甲氧西林; 甲氧苯青黴素",
+    "def": ""
+   }
+  ]
+ },
+ "methinks": {
+  "ph": "/mi'θiŋks/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "我想, 我以為, 據我看來",
+    "def": ""
+   }
+  ]
+ },
+ "methionine": {
+  "ph": "/me'θaiәni:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 甲硫氨酸; 蛋氨酸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蛋氨酸, 甲硫丁氨酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 methionines"
+ },
+ "method": {
+  "ph": "/'meθәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方法, 辦法, 條理, 秩序",
+    "def": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [方]法",
+    "def": ""
+   }
+  ],
+  "forms": "複數 methods"
+ },
+ "methodical": {
+  "ph": "/mi'θɒdikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有方法的, 有系統的",
+    "def": ""
+   }
+  ]
+ },
+ "methodically": {
+  "ph": "/mi'θɒdikәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有系統地, 有方法地",
+    "def": ""
+   }
+  ]
+ },
+ "methodism": {
+  "ph": "/'meθәdizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "循道宗教義, 嚴守規定法則, 拘泥形式",
+    "def": "the religious beliefs and practices of Methodists characterized by concern with social welfare and public morals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 方法醫學(古西臘和羅馬)",
+    "def": ""
+   }
+  ]
+ },
+ "methodist": {
+  "ph": "/'meθәdist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墨守成規者",
+    "def": "a follower of Wesleyanism as practiced by the Methodist Church"
+   }
+  ],
+  "forms": "複數 methodists"
+ },
+ "methodological": {
+  "ph": "/.meθәdә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "方法的",
+    "def": "relating to the methodology of some discipline"
+   }
+  ]
+ },
+ "methodologically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "方法學(methodological的變形)",
+    "def": ""
+   }
+  ]
+ },
+ "methodology": {
+  "ph": "/.meθә'dɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方法學, 方法論",
+    "def": "the branch of philosophy that analyzes the principles and procedures of inquiry in a particular discipline"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 操作法; 工藝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 methodologies"
+ },
+ "methods": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方法, 方式；研究方法（method的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "methotrexate": {
+  "ph": "/,meθә'trekseit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 甲氨蝶呤; 氨甲蝶呤",
+    "def": ""
+   }
+  ]
+ },
+ "methuen": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Methuen)人名；(英)梅休因",
+    "def": ""
+   }
+  ]
+ },
+ "methyl": {
+  "ph": "/'meθil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甲基",
+    "def": "the univalent radical CH3- derived from methane"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 甲基",
+    "def": ""
+   }
+  ]
+ },
+ "methylated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "甲基化的, 加入甲醇的",
+    "def": "having received a methyl group"
+   }
+  ],
+  "forms": "過去式 methylated｜過去分詞 methylated"
+ },
+ "methylation": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 甲基化作用(指加甲基作用和加甲醇使酒精變性的作用)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 甲基化[作用]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 methylations"
+ },
+ "methylene": {
+  "ph": "/'meθili:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞甲基",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 亞甲基",
+    "def": ""
+   }
+  ]
+ },
+ "methylmercury": {
+  "ph": "/.meθil'mә:kjuri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甲基水銀",
+    "def": ""
+   }
+  ]
+ },
+ "methylphenidate": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 哌醋甲酯; 利他靈",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 苯哌啶醋酸甲酯",
+    "def": ""
+   }
+  ]
+ },
+ "meticulous": {
+  "ph": "/mә'tikjulәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "一絲不苟的, 精確的, 過細的",
+    "def": ""
+   }
+  ]
+ },
+ "meticulously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "過細地, 細緻地",
+    "def": ""
+   }
+  ]
+ },
+ "meticulousness": {
+  "ph": "/mə'tɪkjələsnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "謹小慎微",
+    "def": ""
+   }
+  ]
+ },
+ "metier": {
+  "ph": "/ˈmetieɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "職業, 工作",
+    "def": "an occupation for which you are especially well suited"
+   }
+  ]
+ },
+ "metonym": {
+  "ph": "/'metәnim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[修辭]換喻(metonymy)中所使用的詞或短語",
+    "def": "a word that denotes one thing but refers to a related thing"
+   }
+  ]
+ },
+ "metonymic": {
+  "ph": "/,metә'nimik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[語]換喻的, 轉喻的",
+    "def": ""
+   }
+  ]
+ },
+ "metonymical": {
+  "ph": "/'mɪtɒnɪmɪkəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "換喻的, 轉喻的",
+    "def": ""
+   }
+  ]
+ },
+ "metonymically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "轉喻地",
+    "def": ""
+   }
+  ]
+ },
+ "metonymy": {
+  "ph": "/mi'tɒnimi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉喻",
+    "def": "substituting the name of an attribute or feature for the name of the thing itself (as in `they counted heads')"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 代語失當, 選語失當",
+    "def": ""
+   }
+  ]
+ },
+ "metre": {
+  "ph": "/'mi:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公尺, 格律, 韻律",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 米, 公尺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metres"
+ },
+ "metric": {
+  "ph": "/'metrik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "公尺的, 公制的, 計量的",
+    "def": "based on the meter as a standard of measurement"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 測量的, 米制的, 公制的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metrics"
+ },
+ "metric ton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "公噸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 公噸, 法噸",
+    "def": ""
+   }
+  ]
+ },
+ "metrical": {
+  "ph": "/'metrikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "韻律的, 有韻律的, 測量的",
+    "def": ""
+   }
+  ]
+ },
+ "metrically": {
+  "ph": "/'metrɪklɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "韻律地; 計量地",
+    "def": ""
+   }
+  ]
+ },
+ "metrics": {
+  "ph": "/'metriks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "韻律學, (詩等的)韻律特色",
+    "def": ""
+   }
+  ]
+ },
+ "metro": {
+  "ph": "/'metrәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地鐵",
+    "def": "an electric railway operating below the surface of the ground (usually in a city)"
+   }
+  ],
+  "forms": "複數 metros"
+ },
+ "metrology": {
+  "ph": "/mi'trɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "度量衡學, 度量衡",
+    "def": "the scientific study of measurement"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 度量衡學, 測量學",
+    "def": ""
+   }
+  ]
+ },
+ "metronidazole": {
+  "ph": "/,metrә'naidәzәjl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 甲硝唑; 滅滴靈",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 滅滴靈, 甲硝噠唑(口服治療陰道滴蟲)",
+    "def": ""
+   }
+  ]
+ },
+ "metronome": {
+  "ph": "/'metrәnәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節拍器",
+    "def": "clicking pendulum indicates the exact tempo of a piece of music"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 節拍器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metronomes"
+ },
+ "metronomic": {
+  "ph": "/.metrә'nɒmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "節拍器的",
+    "def": ""
+   }
+  ]
+ },
+ "metroplex": {
+  "ph": "/'metrəpleks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（兩個或兩個以上城市構成的）大都會區",
+    "def": ""
+   }
+  ]
+ },
+ "metropole": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "都市酒店",
+    "def": "A metropolis."
+   }
+  ],
+  "forms": "複數 metropoles"
+ },
+ "metropolis": {
+  "ph": "/mi'trɒpәlis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大都市, 重要中心, 首府",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 產地, 生地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 metropolises"
+ },
+ "metropolitan": {
+  "ph": "/.metrә'pɒlitn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大都市居民, 都主教, 宗主國的公民",
+    "def": "in the Eastern Orthodox Church this title is given to a position between bishop and patriarch; equivalent to archbishop in western Christianity"
+   },
+   {
+    "pos": "adj.",
+    "zh": "大都市的, 都主教區的, 宗主國的",
+    "def": "relating to or characteristic of a metropolis"
+   }
+  ],
+  "forms": "複數 metropolitans"
+ },
+ "metrosexual": {
+  "ph": "/ˌmetrəˈsekʃuəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "都市玉男, 城市魅男, 都市美直男",
+    "def": ""
+   }
+  ]
+ },
+ "metternich": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "梅特涅（人名, 奧地利統治者）",
+    "def": "Austrian statesman (1773-1859)"
+   }
+  ]
+ },
+ "mettle": {
+  "ph": "/'metl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣質, 耐力, 勇氣",
+    "def": ""
+   }
+  ]
+ },
+ "mettlesome": {
+  "ph": "/'met(ә)lsәm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精神飽滿的, 有生氣的, 勇敢的",
+    "def": ""
+   }
+  ]
+ },
+ "metz": {
+  "ph": "/mets, mes/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "梅斯[法國東北部城市](或譯麥茨)",
+    "def": ""
+   }
+  ]
+ },
+ "mew": {
+  "ph": "/mju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貓叫聲, 海鷗",
+    "def": "the common gull of Eurasia and northeastern North America"
+   },
+   {
+    "pos": "vi.",
+    "zh": "咪咪叫",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "鷹籠, 巢, 隱匿處",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "關進籠子",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 mewing｜過去式 mewed｜複數 mews｜第三人稱單數 mews｜過去分詞 mewed"
+ },
+ "mewing": {
+  "ph": "/mju:ɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "作貓或海鳥叫, 咪咪叫( mew的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "mewl": {
+  "ph": "/mju:l/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "低泣, 低叫, 咪咪叫",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 mewled｜現在分詞 mewling｜第三人稱單數 mewls｜過去分詞 mewled"
+ },
+ "mews": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小街, 街道, 小巷, 馬廄",
+    "def": "street lined with buildings that were originally private stables but have been remodeled as dwellings"
+   }
+  ],
+  "forms": "複數 mews"
+ },
+ "mex": {
+  "ph": "/meks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墨西哥人",
+    "def": ""
+   }
+  ]
+ },
+ "mexican": {
+  "ph": "/'meksikәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墨西哥人, 墨西哥語",
+    "def": "a native or inhabitant of Mexico"
+   },
+   {
+    "pos": "adj.",
+    "zh": "墨西哥的",
+    "def": "of or relating to Mexico or its inhabitants"
+   }
+  ],
+  "forms": "複數 mexicans"
+ },
+ "mexicana": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "Compania Mexicana de Aviacion, SA de CV （西班牙語）墨西哥航空公司",
+    "def": ""
+   }
+  ]
+ },
+ "mexicano": {
+  "ph": "/,meksə'kɑ:nəu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[西班牙口語]；(印第安語系中的)納瓦特爾語",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mexicanos"
+ },
+ "mexico": {
+  "ph": "/'meksikәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墨西哥",
+    "def": "a republic in southern North America; became independent from Spain in 1810"
+   }
+  ]
+ },
+ "meyer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邁耶（日耳曼語, 指首席侍從或農夫）",
+    "def": ""
+   }
+  ]
+ },
+ "meyrick": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Meyrick)人名；(英)梅里克",
+    "def": ""
+   }
+  ]
+ },
+ "mezuzah": {
+  "ph": "/'metsu:zə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（猶太教）門柱聖卷",
+    "def": "religious texts from Deuteronomy inscribed on parchment and rolled up in a case that is attached to the doorframe of many Jewish households in accordance with J"
+   }
+  ]
+ },
+ "mezzanine": {
+  "ph": "/'mezәni:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兩層樓之間的夾層樓面",
+    "def": "first or lowest balcony"
+   }
+  ],
+  "forms": "複數 mezzanines"
+ },
+ "mezzo": {
+  "ph": "/'metsәu. 'meddzɔ:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（意）一半的；中央的",
+    "def": ""
+   }
+  ]
+ },
+ "mezzotint": {
+  "ph": "/'metsәutint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "網線銅版, 網線銅版印刷品",
+    "def": "print produced by an engraving that has been scraped to represent light or shade"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用網線銅版雕刻法刻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 mezzotints｜現在分詞 mezzotinting"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "pv": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "產品鑑定（Production Validation）；票面值（Par Value）；撐杆跳高（Pole Vault）；卯酉圈（prime vertical）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pvs"
+ },
+ "pva": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "聚醋酸乙烯酯（Polyvinyl Acetate）；聚乙烯醇（Polyvinyl Alcohol）；垂直取向構型（Patterned Vertical Alignment）",
+    "def": ""
+   }
+  ]
+ },
+ "pvc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "聚氯乙烯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 永久虛電路",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pvcs"
+ }
+}

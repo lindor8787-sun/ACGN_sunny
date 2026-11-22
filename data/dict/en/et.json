@@ -1,0 +1,865 @@
+{
+ "et": {
+  "ph": "/'i:ti:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 乙基",
+    "def": ""
+   }
+  ]
+ },
+ "et al.": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "以及其他人, 以及其他地方, ...等人",
+    "def": ""
+   }
+  ]
+ },
+ "eta": {
+  "ph": "/'i:tә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "估計的到達時間",
+    "def": ""
+   }
+  ],
+  "forms": "複數 etas"
+ },
+ "etc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "及其他, 等等",
+    "def": ""
+   }
+  ]
+ },
+ "etcetera": {
+  "ph": "/it'setәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "等等, 額外的人(或物)",
+    "def": "additional unspecified odds and ends; more of the same"
+   }
+  ],
+  "forms": "複數 etceteras"
+ },
+ "etch": {
+  "ph": "/etʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "蝕刻, 蝕鏤",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "施行蝕刻法",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "腐蝕劑",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 刻蝕; 侵蝕",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 etched｜過去式 etched｜現在分詞 etching｜第三人稱單數 etches｜複數 etches"
+ },
+ "etcher": {
+  "ph": "/'etʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蝕刻工",
+    "def": "someone who etches"
+   }
+  ],
+  "forms": "複數 etchers"
+ },
+ "etching": {
+  "ph": "/'etʃiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蝕刻版畫, 蝕刻畫, 蝕刻術",
+    "def": "an impression made from an etched plate"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 蝕刻; 浸蝕",
+    "def": ""
+   }
+  ],
+  "forms": "複數 etchings｜現在分詞 etching"
+ },
+ "eternal": {
+  "ph": "/i'tә:nl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "永恆的, 永遠的, 不滅的",
+    "def": ""
+   }
+  ]
+ },
+ "eternally": {
+  "ph": "/i't\\\\\\\\:nәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "永恆地, 常常",
+    "def": ""
+   }
+  ]
+ },
+ "eternity": {
+  "ph": "/i'tә:niti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "永遠, 來世, 不朽",
+    "def": "time without end"
+   }
+  ],
+  "forms": "複數 eternities"
+ },
+ "ethan": {
+  "ph": "/'i:θәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊桑（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "ethane": {
+  "ph": "/'eθein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乙烷",
+    "def": "a colorless odorless alkane gas used as fuel"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 乙烷",
+    "def": ""
+   }
+  ]
+ },
+ "ethanol": {
+  "ph": "/'eθәnәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乙醇, 酒精",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 乙醇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ethanols"
+ },
+ "ethel": {
+  "ph": "/'eθәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃塞爾（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "ether": {
+  "ph": "/'i:θә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醚, 蒼天, 以太",
+    "def": "any of a class of organic compounds that have two hydrocarbon groups linked by an oxygen atom"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 醚; 以太",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ethers"
+ },
+ "ethereal": {
+  "ph": "/i'θiriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "輕的, 飄渺的, 天上的",
+    "def": "of or containing or dissolved in ether"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 醚制的, 揮發性的",
+    "def": ""
+   }
+  ]
+ },
+ "ethereally": {
+  "ph": "/i'θiәriәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "輕妙地, 幽雅地",
+    "def": "In an ethereal manner."
+   }
+  ]
+ },
+ "etheric": {
+  "ph": "/'i:θerɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "醚的",
+    "def": ""
+   }
+  ]
+ },
+ "ethernet": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乙太網",
+    "def": "a type of network technology for local area networks; coaxial cable carries radio frequency signals between computers at a rate of 10 megabits per second"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 乙太網, 乙太網報文分組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ethernets"
+ },
+ "ethic": {
+  "ph": "/'eθik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "道德規範, 倫理",
+    "def": "the principles of right and wrong that are accepted by an individual or a social group"
+   }
+  ]
+ },
+ "ethical": {
+  "ph": "/'eθikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "倫理的, 民族的, 民族特有的",
+    "def": "of or relating to the philosophical study of ethics"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 倫理的, 道德的",
+    "def": ""
+   }
+  ]
+ },
+ "ethically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "倫理上",
+    "def": ""
+   }
+  ]
+ },
+ "ethicist": {
+  "ph": "/'eθisist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "倫理學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ethicists"
+ },
+ "ethics": {
+  "ph": "/'eθiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "道德規範",
+    "def": "the philosophical study of moral values and rules"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 倫理學",
+    "def": ""
+   }
+  ]
+ },
+ "ethiopia": {
+  "ph": "/.i:θi'әupiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣索比亞",
+    "def": "Ethiopia is a republic in northeastern Africa on the Red Sea; formerly called Abyssinia"
+   }
+  ]
+ },
+ "ethiopian": {
+  "ph": "/.i:θi'әupiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "衣索比亞的",
+    "def": "of or relating to or characteristic of Ethiopia or its people or languages"
+   },
+   {
+    "pos": "n.",
+    "zh": "衣索比亞人",
+    "def": "a native or inhabitant of Ethiopia"
+   }
+  ],
+  "forms": "複數 ethiopians"
+ },
+ "ethmoid": {
+  "ph": "/'eθmɒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "篩骨的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "篩骨",
+    "def": "one of the eight bones of the cranium; a small bone filled with air spaces that forms part of the eye sockets and the nasal cavity"
+   }
+  ]
+ },
+ "ethnic": {
+  "ph": "/'eθnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人種的, 種族的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人種的",
+    "def": ""
+   }
+  ]
+ },
+ "ethnic cleansing": {
+  "ph": "/ˈeθnik ˈklenziŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "種族清洗",
+    "def": ""
+   }
+  ]
+ },
+ "ethnical": {
+  "ph": "/'eθnikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "種族的, 異教徒的, 人種學的",
+    "def": ""
+   }
+  ]
+ },
+ "ethnically": {
+  "ph": "/'eθnikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "人種上, 民族上",
+    "def": ""
+   }
+  ]
+ },
+ "ethnicity": {
+  "ph": "/eθ'nisәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "種族劃分",
+    "def": "an ethnic quality or affiliation resulting from racial or cultural ties"
+   }
+  ],
+  "forms": "複數 ethnicities"
+ },
+ "ethnobotanical": {
+  "ph": "/,eθnәjbә'tænikəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "民族植物學的",
+    "def": ""
+   }
+  ]
+ },
+ "ethnobotany": {
+  "ph": "/,eθnәu'bɔtәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人類植物學",
+    "def": ""
+   }
+  ]
+ },
+ "ethnocentric": {
+  "ph": "/,eθnәu'sentrik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "種族[民族]中心主義的, 種族[民族, 集團]優越感的",
+    "def": ""
+   }
+  ]
+ },
+ "ethnocentrism": {
+  "ph": "/.eθnәu'sentrizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "民族優越感",
+    "def": "belief in the superiority of one's own ethnic group"
+   }
+  ]
+ },
+ "ethnogenesis": {
+  "ph": "/,eθnәj'dʒenisis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人種形成, 種族進化",
+    "def": ""
+   }
+  ]
+ },
+ "ethnographer": {
+  "ph": "/eθ'nɒgrәfә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人種志學者, 人種學者",
+    "def": "an anthropologist who does ethnography"
+   }
+  ],
+  "forms": "複數 ethnographers"
+ },
+ "ethnographic": {
+  "ph": "/ˌeθnə'ɡræfɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人種志的",
+    "def": "of or relating to ethnography"
+   }
+  ]
+ },
+ "ethnographical": {
+  "ph": "/eθnə'gra:fikəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "民族誌學的",
+    "def": ""
+   }
+  ]
+ },
+ "ethnography": {
+  "ph": "/eθ'nɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人種論, 人種學",
+    "def": "the branch of anthropology that provides scientific description of individual human societies"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人種志",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ethnographies"
+ },
+ "ethnohistorical": {
+  "ph": "/,eθnәjhis'tɔrikəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "人種史學的",
+    "def": ""
+   }
+  ]
+ },
+ "ethnolinguistic": {
+  "ph": "/,eθnəʊlɪŋ'ɡwɪstɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "民族語言學",
+    "def": ""
+   }
+  ]
+ },
+ "ethnological": {
+  "ph": "/,eθnәu'lɔdʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "民族的, 人種學的",
+    "def": "of or relating to ethnology"
+   }
+  ]
+ },
+ "ethnologist": {
+  "ph": "/eθ'nɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "民族學者, 人種學者",
+    "def": "an anthropologist who studies ethnology"
+   }
+  ],
+  "forms": "複數 ethnologists"
+ },
+ "ethnology": {
+  "ph": "/eθ'nɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人種學",
+    "def": "the branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人種學",
+    "def": ""
+   }
+  ]
+ },
+ "ethnomethodology": {
+  "ph": "/'eθnәj,meθә'dɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "民族方法學(社會學的一分支學科)",
+    "def": ""
+   }
+  ]
+ },
+ "ethnomusicologist": {
+  "ph": "/eθnɒmju:zɪ'kɒlədʒɪst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人種音樂學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ethnomusicologists"
+ },
+ "ethnomusicology": {
+  "ph": "/,eθnәu,mjuzi'kɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人種音樂學",
+    "def": ""
+   }
+  ]
+ },
+ "ethological": {
+  "ph": "/,eθә'lɔdʒikәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "行為性的, 行為學的",
+    "def": ""
+   }
+  ]
+ },
+ "ethologist": {
+  "ph": "/i'θɔlәdʒist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(個體)生態學研究者, 行為研究者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ethologists"
+ },
+ "ethology": {
+  "ph": "/i(:)'θɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "性格學, 生態學, 特性論",
+    "def": "the branch of zoology that studies the behavior of animals in their natural habitats"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 個體生態學",
+    "def": ""
+   }
+  ]
+ },
+ "ethos": {
+  "ph": "/'i:θɔs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣質；民族精神；社會思潮",
+    "def": "(anthropology) the distinctive spirit of a culture or an era"
+   }
+  ]
+ },
+ "ethyl": {
+  "ph": "/'eθil, 'i:θail/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 乙基",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 乙基",
+    "def": ""
+   }
+  ]
+ },
+ "ethylene": {
+  "ph": "/'eθili:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "乙烯",
+    "def": "a flammable colorless gaseous alkene; obtained from petroleum and natural gas and used in manufacturing many other chemicals; sometimes used as an anesthetic"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 乙烯; 1,2-亞乙基",
+    "def": ""
+   }
+  ]
+ },
+ "etic": {
+  "ph": "/'etik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[語]非位的, 素的,語音學的",
+    "def": ""
+   }
+  ]
+ },
+ "etienne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾蒂安（比利時發明家）",
+    "def": ""
+   }
+  ]
+ },
+ "etiologic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "病原學, 病因學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病因學的, 病原學的",
+    "def": ""
+   }
+  ]
+ },
+ "etiological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "病原學, 病因學",
+    "def": "of or relating to the philosophical study of causation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病因學的, 病原學的",
+    "def": ""
+   }
+  ]
+ },
+ "etiology": {
+  "ph": "/,i:ti'ɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "病原學, 病因學",
+    "def": "the cause of a disease"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病因學, 病原學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 etiologies"
+ },
+ "etiquette": {
+  "ph": "/eti'ket/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "禮儀, 禮節, 成規",
+    "def": "rules governing socially acceptable behavior"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 規則, 成規, 禮節",
+    "def": ""
+   }
+  ],
+  "forms": "複數 etiquettes"
+ },
+ "etna": {
+  "ph": "/'etnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小酒精爐",
+    "def": "an inactive volcano in Sicily; last erupted in 1961; the highest volcano in Europe (10,500 feet)"
+   }
+  ]
+ },
+ "eton": {
+  "ph": "/'i:tn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊頓公學",
+    "def": ""
+   }
+  ]
+ },
+ "etonian": {
+  "ph": "/i(:)'tәunjәn, -niәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "伊頓公學的, 伊頓公學般的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 etonians"
+ },
+ "etruria": {
+  "ph": "/i'truәriә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃特魯斯坎(義大利中部的古國)",
+    "def": "an ancient country in central Italy; assimilated by the Romans by about 200 BC"
+   }
+  ]
+ },
+ "etruscan": {
+  "ph": "/i'trʌskәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(義大利中西部古國)伊特魯里亞的,伊特魯里亞人的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "伊特魯里亞人",
+    "def": "a native or inhabitant of ancient Etruria; the Etruscans influenced the Romans (who had suppressed them by about 200 BC)"
+   }
+  ],
+  "forms": "複數 etruscans"
+ },
+ "ettore": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ettore)人名；(意)埃託雷",
+    "def": ""
+   }
+  ]
+ },
+ "etude": {
+  "ph": "/ei'tju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "練習曲",
+    "def": "a short composition for a solo instrument; intended as an exercise or to demonstrate technical virtuosity"
+   }
+  ],
+  "forms": "複數 etudes"
+ },
+ "etymological": {
+  "ph": "/.etimә'lɒdʒikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "詞源的, 詞源學的",
+    "def": "based on or belonging to etymology"
+   }
+  ]
+ },
+ "etymologically": {
+  "ph": "/ˌɪtɪmə'lɒdʒɪkəlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "語源上",
+    "def": ""
+   }
+  ]
+ },
+ "etymology": {
+  "ph": "/.eti'mɔlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "語源, 語源學",
+    "def": "a history of a word"
+   }
+  ],
+  "forms": "複數 etymologies"
+ }
+}

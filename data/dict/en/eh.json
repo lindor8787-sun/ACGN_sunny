@@ -1,0 +1,28 @@
+{
+ "eh": {
+  "ph": "/ei/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "啊!嗯!是嗎?好嗎?",
+    "def": "An expression of inquiry or slight surprise."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氧化還原電位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ehs"
+ },
+ "ehrlich": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歐利希（德國細菌學家）",
+    "def": "German bacteriologist who found a `magic bullet' to cure syphilis and was a pioneer in the study of immunology (1854-1915)"
+   }
+  ]
+ }
+}

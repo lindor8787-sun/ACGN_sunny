@@ -1,0 +1,571 @@
+{
+ "ic": {
+  "ph": "/ai'si:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "積體電路",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 識別碼, 指令單元, 互連, 內部通訊, 積體電路",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ics"
+ },
+ "ica": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "國際通訊機構（International Communications Agency）；國際合作總署（International Cooperative Administration）；國際檔案理事會（International Council on Archives）",
+    "def": ""
+   }
+  ]
+ },
+ "icarus": {
+  "ph": "/'aikәrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[希神]伊卡洛斯（代達羅斯的兒子）",
+    "def": "(Greek mythology) son of Daedalus; while escaping from Crete with his father (using the wings Daedalus had made) he flew too close to the sun and the wax melted"
+   }
+  ]
+ },
+ "icc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "國際商會（International Chamber of Commerce）；國際計算中心（International Computation Centre）；印第安人申訴委員會（Indian Claims Commission）；國際版權公約（International Copyright Convention）",
+    "def": ""
+   }
+  ]
+ },
+ "ice": {
+  "ph": "/ais/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰, 冰淇淋, 糖衣, 冷若冰霜, 矜持, 賄賂",
+    "def": "water frozen in the solid state"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使結冰, 冰鎮, 覆以糖衣",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "結冰",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 icing｜複數 ices｜過去分詞 iced｜過去式 iced｜第三人稱單數 ices"
+ },
+ "ice age": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "冰期；冰河時代",
+    "def": ""
+   }
+  ]
+ },
+ "ice cream": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "冰淇淋",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 冰淇淋",
+    "def": ""
+   }
+  ]
+ },
+ "ice hockey": {
+  "ph": "/ais ˈhɔki/",
+  "senses": [
+   {
+    "pos": "na.",
+    "zh": "冰球; 冰上曲棍球",
+    "def": ""
+   }
+  ]
+ },
+ "ice-cream": {
+  "ph": "/'aiskri:m/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冰淇淋的, 乳白色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ice-creams"
+ },
+ "iceberg": {
+  "ph": "/'aisbә:g/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰山, 冷冰冰的人",
+    "def": "a large mass of ice floating at sea; usually broken off of a polar glacier"
+   }
+  ],
+  "forms": "複數 icebergs"
+ },
+ "icebox": {
+  "ph": "/'aisbɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冷藏庫, 冰箱, 冷凍室",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 冰箱, 無名死屍安置處, 單人牢房",
+    "def": ""
+   }
+  ],
+  "forms": "複數 iceboxes"
+ },
+ "icebreaker": {
+  "ph": "/'aisbreikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "碎冰船, 破冰裝置",
+    "def": "a ship with a reinforced bow to break up ice and keep channels open for navigation"
+   }
+  ],
+  "forms": "複數 icebreakers"
+ },
+ "icecap": {
+  "ph": "/'aɪskæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（高山等上的）常積不消的冰, 冰蓋",
+    "def": "a mass of ice and snow that permanently covers a large area of land (e.g., the polar regions or a mountain peak)"
+   }
+  ],
+  "forms": "複數 icecaps"
+ },
+ "icecream": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰淇淋",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "乳白色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 icecreams"
+ },
+ "iced": {
+  "ph": "/aist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冰冷的；裝冰的；冰凍的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 iced"
+ },
+ "icefall": {
+  "ph": "/'aisfɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰川陡峭部分, 冰崩",
+    "def": "a steep part of a glacier resembling a frozen waterfall"
+   }
+  ],
+  "forms": "複數 icefalls"
+ },
+ "icehouse": {
+  "ph": "/'aishaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰庫, 製冰廠",
+    "def": "a house for storing ice"
+   }
+  ],
+  "forms": "複數 icehouses"
+ },
+ "iceland": {
+  "ph": "/'aislәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰島",
+    "def": "an island republic on the island of Iceland; became independent of Denmark in 1944"
+   }
+  ],
+  "forms": "複數 icelands"
+ },
+ "icelandic": {
+  "ph": "/.ais'lændik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冰島的, 冰島人的, 冰島語的",
+    "def": "of or relating to Iceland or its people or culture and language"
+   },
+   {
+    "pos": "n.",
+    "zh": "冰島語",
+    "def": "a Scandinavian language that is the official language of Iceland"
+   }
+  ],
+  "forms": "複數 icelandics"
+ },
+ "iceman": {
+  "ph": "/'aismæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "零售冰的人, 製冰的人",
+    "def": "someone who cuts and delivers ice"
+   }
+  ],
+  "forms": "複數 icemen"
+ },
+ "icepick": {
+  "ph": "/'aɪspɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "破冰鎬, 冰錐",
+    "def": "pick consisting of a steel rod with a sharp point; used for breaking up blocks of ice"
+   }
+  ]
+ },
+ "ich": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（德）我要",
+    "def": ""
+   }
+  ]
+ },
+ "ichor": {
+  "ph": "/'aikɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靈液, 敗液, 膿水",
+    "def": "(Greek mythology) the rarified fluid said to flow in the veins of the Gods"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 敗液",
+    "def": ""
+   }
+  ]
+ },
+ "ichthyologist": {
+  "ph": "/.ikθi'ɒlәdʒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魚類學者, 魚類研究者",
+    "def": "a zoologist who studies fishes"
+   }
+  ],
+  "forms": "複數 ichthyologists"
+ },
+ "ichthyosaur": {
+  "ph": "/'ikθiәsɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "魚龍",
+    "def": "any of several marine reptiles of the Mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs"
+   }
+  ],
+  "forms": "複數 ichthyosaurs"
+ },
+ "ici": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "英國化學工業公司（Imperial Chemical Industries Ltd.）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ici"
+ },
+ "icicle": {
+  "ph": "/'aisikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "垂冰, 冰柱, 冷冰冰的人",
+    "def": "ice resembling a pendent spear, formed by the freezing of dripping water"
+   }
+  ],
+  "forms": "複數 icicles"
+ },
+ "icily": {
+  "ph": "/'aisili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "冷冰冰地",
+    "def": ""
+   }
+  ]
+ },
+ "iciness": {
+  "ph": "/'aisinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰冷, 冷淡",
+    "def": ""
+   }
+  ]
+ },
+ "icing": {
+  "ph": "/'aisiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糖衣, 結冰",
+    "def": "(ice hockey) the act of shooting the puck from within your own defensive area the length of the rink beyond the opponent's goal"
+   }
+  ],
+  "forms": "現在分詞 icing｜複數 icings"
+ },
+ "icing sugar": {
+  "ph": "/ˈaɪsɪŋ ˈʃuɡə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糖粉; 糖霜",
+    "def": ""
+   }
+  ]
+ },
+ "icky": {
+  "ph": "/'iki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過粘的, 過甜的, 討厭的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "令人討厭的人",
+    "def": ""
+   }
+  ]
+ },
+ "icl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 國際計算機-, 有限公司",
+    "def": ""
+   }
+  ]
+ },
+ "icm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "缺血性心肌病缺血性心肌病（ischemic cardiomyopathy）；政府間移民委員會（Intergovernmental Committee for Migration）；干擾監控器（interference control monitor）；洲際導彈（Intercontinental Missile）",
+    "def": ""
+   }
+  ]
+ },
+ "ico": {
+  "ph": "/'aikәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 國際咖啡組織",
+    "def": ""
+   }
+  ]
+ },
+ "icon": {
+  "ph": "/'aikɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畫像, 肖像, 偶像, 圖示, 像標",
+    "def": "(computer science) a graphic symbol (usually a simple picture) that denotes a program or a command or a data file or a concept in a graphical user interface"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 像標, 圖示",
+    "def": ""
+   }
+  ],
+  "forms": "複數 icons"
+ },
+ "iconic": {
+  "ph": "/ai'kɔnik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 圖示的",
+    "def": ""
+   }
+  ]
+ },
+ "iconoclasm": {
+  "ph": "/ai'kɒnәklæzm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "破壞偶像, 破壞偶像主義, 打破舊習",
+    "def": "the orientation of an iconoclast"
+   }
+  ]
+ },
+ "iconoclast": {
+  "ph": "/ai'kɒnәklæst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反對偶象崇拜者, 提倡打破舊習的人",
+    "def": "a destroyer of images used in religious worship"
+   }
+  ],
+  "forms": "複數 iconoclasts｜第三人稱單數 iconoclasts"
+ },
+ "iconoclastic": {
+  "ph": "/ai.kɒnәu'klæstik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反對偶象崇拜的, 打破舊習的",
+    "def": ""
+   }
+  ]
+ },
+ "iconographic": {
+  "ph": "/ai.kɔnә'ɡræfik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "影象材料的；肖像學的；肖像的；圖示法的象徵",
+    "def": "Of or pertaining to iconography."
+   }
+  ]
+ },
+ "iconographical": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "影象學的",
+    "def": ""
+   }
+  ]
+ },
+ "iconography": {
+  "ph": "/.aikә'nɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "影象材料, 圖示法, 肖像研究",
+    "def": "the images and symbolic representations that are traditionally associated with a person or a subject"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 影像學, 影像塑造術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 iconographies"
+ },
+ "icosahedral": {
+  "ph": "/,aikәusә'hedrәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "二十面的",
+    "def": ""
+   }
+  ]
+ },
+ "icosahedron": {
+  "ph": "/.aikәsәu'hedrәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "二十面體",
+    "def": "any polyhedron having twenty plane faces"
+   }
+  ]
+ },
+ "icrc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "國際紅十字委員會（International Committee of the Red Cross）",
+    "def": ""
+   }
+  ]
+ },
+ "ics": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "國際外科醫生協會（International College of Surgeons）；因特網連線共享（Internet Connection Sharing）",
+    "def": ""
+   }
+  ]
+ },
+ "icu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 工業控制器, 指令控制器, 綜合控制器, 介面控制器, 中斷控制器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 icus"
+ },
+ "icy": {
+  "ph": "/'aisi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冰的, 冰冷的, 冷淡的, 滑溜的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 icier"
+ }
+}

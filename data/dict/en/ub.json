@@ -1,0 +1,63 @@
+{
+ "ub": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 上限",
+    "def": ""
+   }
+  ]
+ },
+ "ubiquinone": {
+  "ph": "/ju(:)'bikwinәun/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 泛醌; 輔酶Q",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ubiquinones"
+ },
+ "ubiquitous": {
+  "ph": "/ju:'bikwitәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無所不在的, 到處存在的, 普遍存在的",
+    "def": ""
+   }
+  ]
+ },
+ "ubiquitously": {
+  "ph": "/ju:'bɪkwɪtəslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無所不在地",
+    "def": ""
+   }
+  ]
+ },
+ "ubiquity": {
+  "ph": "/ju:'bikwәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "到處存在, 普遍存在",
+    "def": "the state of being everywhere at once (or seeming to be everywhere at once)"
+   }
+  ]
+ },
+ "ubs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "瑞士聯合銀行（United Bank of Switzerland）",
+    "def": ""
+   }
+  ]
+ }
+}

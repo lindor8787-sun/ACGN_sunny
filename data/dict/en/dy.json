@@ -1,0 +1,638 @@
+{
+ "dyad": {
+  "ph": "/'daiæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "二, 一對, 二元一位",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 二價元集(或基); 雙; 對; 成對之物; 並矢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dyads"
+ },
+ "dyadic": {
+  "ph": "/dai'ædik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 二元的, 二進位制的",
+    "def": ""
+   }
+  ]
+ },
+ "dybbuk": {
+  "ph": "/'daibәk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "( 猶太民間傳說中的)惡靈,附在活人身上的罪人死後的靈魂",
+    "def": "(Jewish folklore) a demon that enters the body of a living person and controls that body's behavior"
+   }
+  ],
+  "forms": "複數 dybbuks｜現在分詞 dybbukking"
+ },
+ "dyck": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Dyck)人名；(英、荷)戴克；(德、法)迪克",
+    "def": ""
+   }
+  ]
+ },
+ "dye": {
+  "ph": "/dai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顏料, 染料",
+    "def": "a usually soluble substance for staining or coloring e.g. fabrics or hair"
+   },
+   {
+    "pos": "vt.",
+    "zh": "染, 染色",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被著色",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dyes｜過去分詞 dyed｜現在分詞 dyeing｜過去式 dyed｜第三人稱單數 dyes"
+ },
+ "dyed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被染色的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 dyed｜過去式 dyed"
+ },
+ "dyeing": {
+  "ph": "/'daiiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "染色, 染色工藝",
+    "def": "the use of dye to change the color of something permanently"
+   },
+   {
+    "pos": "adj.",
+    "zh": "染色的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dyeing｜複數 dyeings"
+ },
+ "dyer": {
+  "ph": "/'daiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "染色工",
+    "def": "someone whose job is to dye cloth"
+   }
+  ],
+  "forms": "複數 dyers"
+ },
+ "dyestuff": {
+  "ph": "/'daistʌf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "染料",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 染料",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dyestuffs"
+ },
+ "dyfed": {
+  "ph": "/'dʌved/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "德韋達郡[英國威爾士郡名]",
+    "def": ""
+   }
+  ]
+ },
+ "dying": {
+  "ph": "/'daiiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "垂死的",
+    "def": "in or associated with the process of passing from life or ceasing to be"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 快要死的, 垂死的, 臨終的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dying"
+ },
+ "dyke": {
+  "ph": "/daik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dykes｜現在分詞 dyking｜過去式 dyked｜第三人稱單數 dykes｜過去分詞 dyked"
+ },
+ "dylan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狄倫（男子名）",
+    "def": "United States songwriter noted for his protest songs (born in 1941)"
+   }
+  ]
+ },
+ "dynamic": {
+  "ph": "/dai'næmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "動態的, 有活力的, 有力的, 動力的, 不斷變化的",
+    "def": "characterized by action or forcefulness or force of personality"
+   },
+   {
+    "pos": "n.",
+    "zh": "動力, 動態",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 動態的",
+    "def": ""
+   }
+  ]
+ },
+ "dynamical": {
+  "ph": "/dai'næmikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "動力的, 動態的, 動力學的, (褒)有生氣的, 有力的, 能動的, 精悍的, 機能上的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "動力, 動態, 原動力",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 動態的",
+    "def": ""
+   }
+  ]
+ },
+ "dynamically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 動態的",
+    "def": ""
+   }
+  ]
+ },
+ "dynamics": {
+  "ph": "/dai'næmiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "動力學",
+    "def": "the branch of mechanics concerned with the forces that cause motions of bodies"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 動力學",
+    "def": ""
+   }
+  ]
+ },
+ "dynamism": {
+  "ph": "/'dainәmizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "物力論, 力本說",
+    "def": "any of the various theories or doctrines or philosophical systems that attempt to explain the phenomena of the universe in terms of some immanent force or energ"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 動力說, 動力病原論",
+    "def": ""
+   }
+  ]
+ },
+ "dynamite": {
+  "ph": "/'dainәmait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "炸藥",
+    "def": "an explosive containing nitrate sensitized with nitroglycerin absorbed on wood pulp"
+   },
+   {
+    "pos": "vt.",
+    "zh": "炸燬, 破壞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 dynamiting｜過去式 dynamited｜第三人稱單數 dynamites｜過去分詞 dynamited"
+ },
+ "dynamo": {
+  "ph": "/'dainәmәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發電機",
+    "def": "generator consisting of a coil (the armature) that rotates between the poles of an electromagnet (the field magnet) causing a current to flow in the armature"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 電機, 發電機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dynamos"
+ },
+ "dynamometer": {
+  "ph": "/.dainә'mɒmitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測力計, 功率計, 電功率計",
+    "def": "measuring instrument designed to measure power"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 功率計; 測力計",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dynamometers"
+ },
+ "dynast": {
+  "ph": "/'dainæst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(尤指世襲的)君主, 開國君主",
+    "def": "a hereditary ruler"
+   }
+  ],
+  "forms": "複數 dynasts"
+ },
+ "dynastic": {
+  "ph": "/dai'næstik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "王朝的",
+    "def": "of or relating to or characteristic of a dynasty"
+   }
+  ]
+ },
+ "dynasty": {
+  "ph": "/'dainæsti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "朝代, 王朝",
+    "def": "a sequence of powerful leaders in the same family"
+   }
+  ],
+  "forms": "複數 dynasties"
+ },
+ "dyno": {
+  "ph": "/'dainәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[美口]絕妙的",
+    "def": ""
+   }
+  ]
+ },
+ "dysentery": {
+  "ph": "/'disәntәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "痢疾",
+    "def": "an infection of the intestines marked by severe diarrhea"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 痢疾",
+    "def": ""
+   }
+  ]
+ },
+ "dysfunction": {
+  "ph": "/dis'fʌŋkʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機能不良, 機能障礙",
+    "def": "(medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 機能障礙, 機能不良",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dysfunctions"
+ },
+ "dysfunctional": {
+  "ph": "/dɪsˈfʌŋkʃənl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "功能失調的",
+    "def": ""
+   }
+  ]
+ },
+ "dysfunctionality": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機能不良, 功能紊亂, 官能障礙",
+    "def": ""
+   }
+  ]
+ },
+ "dyslexia": {
+  "ph": "/dis'leksiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誦讀困難",
+    "def": "impaired ability to learn to read"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 誦讀困難",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dyslexias"
+ },
+ "dyslexic": {
+  "ph": "/dis'leksik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誦讀困難者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "誦讀困難的",
+    "def": "of or relating to or symptomatic of dyslexia"
+   }
+  ],
+  "forms": "複數 dyslexics"
+ },
+ "dyson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "戴森（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dysons"
+ },
+ "dyspepsia": {
+  "ph": "/dis'pepsiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "消化不良",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 消化不良",
+    "def": ""
+   }
+  ]
+ },
+ "dyspeptic": {
+  "ph": "/dis'peptik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "消化不良的, 引起消化不良的, 患消化不良的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "消化不良者",
+    "def": "a person suffering from indigestion"
+   }
+  ]
+ },
+ "dysphagia": {
+  "ph": "/dis'feidʒiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嚥下困難, 吞嚥困難",
+    "def": "condition in which swallowing is difficult or painful"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 嚥下困難",
+    "def": ""
+   }
+  ]
+ },
+ "dysphonia": {
+  "ph": "/dis'fәuniә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發聲困難, 言語障礙",
+    "def": "speech disorder attributable to a disorder of phonation"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 發音困難",
+    "def": ""
+   }
+  ]
+ },
+ "dysphoria": {
+  "ph": "/dis'fɔ:riә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煩躁不安",
+    "def": "abnormal depression and discontent"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 煩燥不安, 焦慮",
+    "def": ""
+   }
+  ]
+ },
+ "dysphoric": {
+  "ph": "/-'fɔrik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 煩燥不安的, 焦慮的",
+    "def": ""
+   }
+  ]
+ },
+ "dysplasia": {
+  "ph": "/dis'pleiziә, -'pleiʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發育異常, 發育不良",
+    "def": "abnormal development (of organs or cells) or an abnormal structure resulting from such growth"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 發育異常, 發育不良",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dysplasias"
+ },
+ "dysplastic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 發育異常的, 發育不良的",
+    "def": ""
+   }
+  ]
+ },
+ "dyspnea": {
+  "ph": "/dis'pni:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呼吸困難",
+    "def": "difficult or labored respiration"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 呼吸困難",
+    "def": ""
+   }
+  ]
+ },
+ "dyspnoea": {
+  "ph": "/dis'pni:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呼吸困難",
+    "def": ""
+   }
+  ]
+ },
+ "dysregulation": {
+  "ph": "/di:zreɡjʊ'leɪʃn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]失調",
+    "def": ""
+   }
+  ]
+ },
+ "dysthymia": {
+  "ph": "/dis'θaimiә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 胸腺機能障礙, 心境惡劣",
+    "def": ""
+   }
+  ]
+ },
+ "dystopia": {
+  "ph": "/dis'tәupiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "非理想化的地方",
+    "def": "state in which the conditions of life are extremely bad as from deprivation or oppression or terror"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 異位, 錯位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dystopias"
+ },
+ "dystopian": {
+  "ph": "/dis'tәjpiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反面烏托邦的,反面假想國的",
+    "def": "of or pertaining to or resembling a dystopia"
+   },
+   {
+    "pos": "n.",
+    "zh": "反面烏托邦的鼓吹者(或描寫者)",
+    "def": ""
+   }
+  ]
+ },
+ "dystrophy": {
+  "ph": "/'distrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "營養障礙, 營養不良",
+    "def": "any degenerative disorder resulting from inadequate or faulty nutrition"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 營養不良, 營養障礙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 dystrophies"
+ }
+}

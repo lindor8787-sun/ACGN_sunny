@@ -1,0 +1,5610 @@
+{
+ "fo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(英)空軍中尉, (英國)外交部, 前進觀察員, 校官, 野戰命令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fos｜最高級 foest"
+ },
+ "foal": {
+  "ph": "/fәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "駒",
+    "def": "a young horse"
+   },
+   {
+    "pos": "v.",
+    "zh": "生仔",
+    "def": "give birth to a foal"
+   }
+  ],
+  "forms": "複數 foals｜現在分詞 foaling｜過去分詞 foaled｜過去式 foaled｜第三人稱單數 foals"
+ },
+ "foam": {
+  "ph": "/fәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泡沫, 水沫, 泡沫材料",
+    "def": "a mass of small bubbles formed in or on a liquid"
+   },
+   {
+    "pos": "vi.",
+    "zh": "起泡沫, 吐白沫",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使起泡沫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foams｜現在分詞 foaming｜過去式 foamed｜第三人稱單數 foams｜過去分詞 foamed"
+ },
+ "foaming": {
+  "ph": "/'fәumiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 泡沫的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 發泡; 泡沫層",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 foaming｜複數 foamings"
+ },
+ "foamy": {
+  "ph": "/'fәumi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "全是泡沫的, 起泡沫的, 泡沫的",
+    "def": ""
+   }
+  ]
+ },
+ "fob": {
+  "ph": "/fɒb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "詭計, 表袋, 短錶鏈",
+    "def": "a vest pocket to hold a pocket watch"
+   },
+   {
+    "pos": "vt.",
+    "zh": "騙人, 混騙",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fobbed｜過去式 fobbed｜現在分詞 fobbing｜複數 fobs｜第三人稱單數 fobs"
+ },
+ "foca": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Foca)人名；(塞)福察；(意、羅)福卡",
+    "def": ""
+   }
+  ]
+ },
+ "focaccia": {
+  "ph": "/fəʊ'kækʃɪɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<意>香草橄欖油麵包",
+    "def": ""
+   }
+  ]
+ },
+ "focal": {
+  "ph": "/'fәukl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "焦點的, 在焦點上的",
+    "def": "of or relating to a focus"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病灶的, 灶的",
+    "def": ""
+   }
+  ]
+ },
+ "focal point": {
+  "ph": "/ˈfəʊkəl pɔint/",
+  "senses": [
+   {
+    "pos": "na.",
+    "zh": "焦點",
+    "def": ""
+   }
+  ]
+ },
+ "focalization": {
+  "ph": "/.fәukәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "集中焦點",
+    "def": "the confinement of an infection to a limited area"
+   }
+  ]
+ },
+ "focalized": {
+  "ph": "/ˈfəukəlaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "調節…的焦距( focalize的過去式和過去分詞 ); 使集中在焦點上; 聚焦; 調焦距",
+    "def": ""
+   }
+  ]
+ },
+ "focalizer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聚焦裝置, 聚焦裝置",
+    "def": ""
+   }
+  ]
+ },
+ "focus": {
+  "ph": "/'fәukәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焦點, 焦距",
+    "def": "the concentration of attention or energy on something"
+   },
+   {
+    "pos": "vi.",
+    "zh": "聚焦, 注視",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使聚焦, 調焦, 集中",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 焦點",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 focused｜現在分詞 focusing｜第三人稱單數 focuses｜過去式 focused｜複數 foci"
+ },
+ "focused": {
+  "ph": "/'fәukәst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聚焦的；專心的",
+    "def": "being in focus or brought into focus"
+   }
+  ],
+  "forms": "過去分詞 focused｜過去式 focused"
+ },
+ "focuser": {
+  "ph": "/'fəʊkəsər/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "聚焦放大鏡, 聚焦裝置",
+    "def": ""
+   }
+  ]
+ },
+ "focusing": {
+  "ph": "/'fәukәsiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 調焦; 聚焦",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 focusing"
+ },
+ "focuss": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）集中, （使）聚集( focus的第三人稱單數 ); 調整（鏡頭, 眼睛）焦點[焦距]以便看清; （光、聲等的）焦點; 集中（光束於）",
+    "def": ""
+   }
+  ]
+ },
+ "focussed": {
+  "ph": "/'fəʊkəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[物理學]焦點；[光學](鏡頭的)焦點, 焦距",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使聚焦, 使集中於焦點：；調節(眼睛、透鏡等的)焦距；定…的焦點；使(眼睛)注視：",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "聚焦；集中於焦點, 注視：；(照相機)對準焦點(於)；調焦距",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 focussed｜過去式 focussed"
+ },
+ "fodder": {
+  "ph": "/'fɒdә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飼料, 草料, 素材, 彈藥",
+    "def": "coarse food (especially for livestock) composed of entire plants or the leaves and stalks of a cereal crop"
+   },
+   {
+    "pos": "vt.",
+    "zh": "喂",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 foddering｜過去式 foddered｜第三人稱單數 fodders｜過去分詞 foddered"
+ },
+ "fodor": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fodor)人名；(捷、意、塞、法、瑞典、匈、羅、英)福多爾",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "福多",
+    "def": ""
+   }
+  ]
+ },
+ "foe": {
+  "ph": "/fou/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仇敵, 反對者, 敵人, 對手",
+    "def": "a personal enemy"
+   }
+  ],
+  "forms": "複數 foes"
+ },
+ "foetal": {
+  "ph": "/'fi:tl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "似胎兒的, 胎兒的",
+    "def": ""
+   }
+  ]
+ },
+ "foetid": {
+  "ph": "/'fiːtɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有惡臭的",
+    "def": ""
+   }
+  ]
+ },
+ "foetus": {
+  "ph": "/'fi:tәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胚胎, 胎兒",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胎, 胎兒",
+    "def": ""
+   }
+  ]
+ },
+ "fog": {
+  "ph": "/fɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霧, 迷惑, (割後的)最生草, 苔蘚",
+    "def": "droplets of water vapor suspended in the air near the ground"
+   },
+   {
+    "pos": "vi.",
+    "zh": "被霧籠罩, 變模糊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使困惑, 以霧籠罩",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fogs｜現在分詞 fogging｜過去分詞 fogged｜過去式 fogged｜第三人稱單數 fogs"
+ },
+ "fogey": {
+  "ph": "/'fәu^i/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(思想)守舊者, 抱殘守缺的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fogeys"
+ },
+ "fogg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "福格（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "fogged": {
+  "ph": "/fɔɡd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有灰霧的；不清晰的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fogged"
+ },
+ "foggy": {
+  "ph": "/'fɒgi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "霧深的, 模糊的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 foggiest｜比較級 foggier"
+ },
+ "foghorn": {
+  "ph": "/'fɒghɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霧號, 響而尖的聲音",
+    "def": "a loud low warning signal that can be heard by fogbound ships"
+   }
+  ],
+  "forms": "複數 foghorns"
+ },
+ "fogy": {
+  "ph": "/'fәugi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "守舊者, 趕不上時代的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fogies"
+ },
+ "foible": {
+  "ph": "/'fɒibl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弱點, 缺點",
+    "def": "the weaker part of a sword's blade from the forte to the tip"
+   }
+  ],
+  "forms": "複數 foibles"
+ },
+ "foil": {
+  "ph": "/fɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "箔, 烘托, 襯托",
+    "def": "a piece of thin and flexible sheet metal"
+   },
+   {
+    "pos": "vt.",
+    "zh": "貼箔於, 襯托, 阻止, 擋開, 挫敗",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foiled｜過去式 foiled｜複數 foils｜第三人稱單數 foils｜現在分詞 foiling"
+ },
+ "foiled": {
+  "ph": "/fɒild/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有葉形裝飾的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foiled"
+ },
+ "foist": {
+  "ph": "/fɒist/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "硬賣給, 偷偷插入, 使混入",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foisted｜過去式 foisted｜現在分詞 foisting｜複數 foists｜第三人稱單數 foists"
+ },
+ "fokker": {
+  "ph": "/'fɔkə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 福克",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fokkers"
+ },
+ "folate": {
+  "ph": "/'fәuleit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 葉酸鹽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 folates"
+ },
+ "fold": {
+  "ph": "/fәuld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "折層, 折, 羊欄, 摺痕, 信徒",
+    "def": "an angular or rounded shape made by folding"
+   },
+   {
+    "pos": "vt.",
+    "zh": "摺疊, 包, 合攏, 交迭",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "摺疊起來, 徹底失敗",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 摺疊; 合併",
+    "def": ""
+   }
+  ],
+  "forms": "複數 folds｜過去分詞 folded｜過去式 folded｜現在分詞 folding｜第三人稱單數 folds"
+ },
+ "foldable": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 可全並的",
+    "def": ""
+   }
+  ]
+ },
+ "folded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "摺疊；交叉合攏；失敗垮臺；把牲畜關在欄中（fold的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 folded｜過去式 folded"
+ },
+ "folder": {
+  "ph": "/'fәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "資料夾, 摺紙機, 摺疊式書本, 卷宗",
+    "def": "covering that is folded over to protect the contents"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 資料夾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 folders"
+ },
+ "folderol": {
+  "ph": "/'fɒldәrɒl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無用物, 廢話",
+    "def": "nonsensical talk or writing"
+   }
+  ]
+ },
+ "folding": {
+  "ph": "/'fәuldiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可摺疊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 摺疊; 摺疊效應",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 folding｜複數 foldings"
+ },
+ "foley": {
+  "ph": "/'fәuli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福利（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "foliage": {
+  "ph": "/'fәuliidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樹葉, 植物",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 foliaged｜複數 foliages"
+ },
+ "folic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]葉酸",
+    "def": ""
+   }
+  ]
+ },
+ "folie": {
+  "ph": "/fɔ'li:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 精神錯亂, 精神病",
+    "def": ""
+   }
+  ]
+ },
+ "folio": {
+  "ph": "/'fәuliәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對開紙, 頁碼, (原稿的)一頁",
+    "def": "a book (or manuscript) consisting of large sheets of paper folded in the middle to make two leaves or four pages"
+   },
+   {
+    "pos": "adj.",
+    "zh": "對摺的, 對開的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "編頁碼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 folios"
+ },
+ "folk": {
+  "ph": "/fәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人們, 家人, 親屬, 民族",
+    "def": "people in general (often used in the plural)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "民間的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 folks"
+ },
+ "folkestone": {
+  "ph": "/'fәukstәun/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "福克斯通(英國肯特郡東部港市)",
+    "def": ""
+   }
+  ]
+ },
+ "folkie": {
+  "ph": "/'fәjki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<俚>民謠歌手",
+    "def": ""
+   }
+  ]
+ },
+ "folklore": {
+  "ph": "/'fәuklɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "民俗學, 民間風俗, 民間傳說",
+    "def": "the unwritten lore (stories and proverbs and riddles and songs) of a culture"
+   }
+  ]
+ },
+ "folkloric": {
+  "ph": "/fәuk'lɔ:rik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "民間傳說的；民俗的",
+    "def": ""
+   }
+  ]
+ },
+ "folklorist": {
+  "ph": "/'fәjk,lɔ:rist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "民俗學者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 folklorists"
+ },
+ "folkloristic": {
+  "ph": "/fəʊk'lɔːrɪstɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "與民間傳說有關的",
+    "def": ""
+   }
+  ]
+ },
+ "folksong": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "民歌",
+    "def": ""
+   }
+  ],
+  "forms": "複數 folksongs"
+ },
+ "folksy": {
+  "ph": "/'fәuksi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "和氣的, 有民間風味的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 folksier"
+ },
+ "folktale": {
+  "ph": "/'fәukteil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "民間故事",
+    "def": "a tale circulated by word of mouth among the common folk"
+   }
+  ],
+  "forms": "複數 folktales"
+ },
+ "folkways": {
+  "ph": "/'ʃeʊkˌweɪz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "民俗",
+    "def": ""
+   }
+  ]
+ },
+ "folky": {
+  "ph": "/'fəuki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "普通的; 常見的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 folkies"
+ },
+ "follett": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Follett)人名；(英、西)福利特",
+    "def": ""
+   }
+  ]
+ },
+ "follicle": {
+  "ph": "/'fɒlikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小囊, 濾泡",
+    "def": "any small spherical group of cells containing a cavity"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 濾泡, 小囊; 卵泡; ńň(植)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 follicles"
+ },
+ "follicular": {
+  "ph": "/fә'likjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "小囊的, 濾泡的, 卵泡的",
+    "def": "of or relating to or constituting a follicle"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 濾泡的, 小囊的; 卵泡的; ńň的",
+    "def": ""
+   }
+  ]
+ },
+ "folliculitis": {
+  "ph": "/fә,likju'laitis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 濾泡炎; 毛囊炎",
+    "def": ""
+   }
+  ]
+ },
+ "follow": {
+  "ph": "/'fɒlәu/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "跟隨, 沿行, 遵循, 追求",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "跟隨, 接著",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "跟隨, 追隨",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 following｜過去分詞 followed｜第三人稱單數 follows｜過去式 followed"
+ },
+ "follow on": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "繼續下去",
+    "def": ""
+   }
+  ]
+ },
+ "follow-through": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "持久的貫徹, 持續",
+    "def": "carrying some project or intention to full completion"
+   }
+  ]
+ },
+ "follow-up": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "繼續的, 作為重複的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 follow-ups"
+ },
+ "follower": {
+  "ph": "/'fɒlәuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "從者, 屬下, 追補者",
+    "def": "a person who accepts the leadership of another"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 隨動機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 followers"
+ },
+ "following": {
+  "ph": "/'fɒlәuiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "下列各項, 部下, 追隨者",
+    "def": "a group of followers or enthusiasts"
+   },
+   {
+    "pos": "adj.",
+    "zh": "下列的, 其次的",
+    "def": "going or proceeding or coming after in the same direction"
+   }
+  ],
+  "forms": "現在分詞 following｜複數 followings"
+ },
+ "folly": {
+  "ph": "/'fɒli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愚蠢, 荒唐事, 諷刺劇",
+    "def": "the trait of acting stupidly or rashly"
+   }
+  ],
+  "forms": "複數 follies"
+ },
+ "foment": {
+  "ph": "/fәu'ment/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "熱敷, 煽動",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fomenting｜過去分詞 fomented｜過去式 fomented｜複數 foments｜第三人稱單數 foments"
+ },
+ "fon": {
+  "ph": "/fɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豐人, 豐語（西非洲達荷美, 多哥及象牙海岸）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fons"
+ },
+ "fond": {
+  "ph": "/fɒnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "喜歡的, 寵愛的, 溫柔的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 fonder｜最高級 fondest｜複數 fonds"
+ },
+ "fonda": {
+  "ph": "/'fɔndɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅館",
+    "def": "United States film actress and daughter of Henry Fonda (born in 1937)"
+   }
+  ],
+  "forms": "複數 fondas"
+ },
+ "fondant": {
+  "ph": "/'fɔndәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟糖料",
+    "def": "candy made of a thick creamy sugar paste"
+   }
+  ],
+  "forms": "複數 fondants"
+ },
+ "fondle": {
+  "ph": "/'fɒndl/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "愛, 愛撫, 溺愛",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "愛撫",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fondling｜過去式 fondled｜過去分詞 fondled｜第三人稱單數 fondles｜複數 fondles"
+ },
+ "fondling": {
+  "ph": "/'fɒndliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被溺愛的人, 愛子, 寵愛的動物",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fondling"
+ },
+ "fondly": {
+  "ph": "/'fɒndli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "溺愛地, 憐愛地, 情柔地",
+    "def": ""
+   }
+  ]
+ },
+ "fondness": {
+  "ph": "/'fɔndnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溺愛；愛好",
+    "def": "a predisposition to like something"
+   }
+  ],
+  "forms": "複數 fondnesses"
+ },
+ "fondue": {
+  "ph": "/'fɔndu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛋白乳酪酥",
+    "def": "cubes of meat or seafood cooked in hot oil and then dipped in any of various sauces"
+   }
+  ],
+  "forms": "複數 fondues"
+ },
+ "font": {
+  "ph": "/fɒnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "字型, 字形, 洗禮盤, 泉",
+    "def": "a specific size and style of type within a type family"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 字型",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fonts"
+ },
+ "fontaine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "常流泉",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 fontaines"
+ },
+ "fontainebleau": {
+  "ph": "/'fɔntinblәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "楓丹白露 [法國北部城鎮](在巴黎東南, 有著名的宮殿)",
+    "def": ""
+   }
+  ]
+ },
+ "fontana": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豐塔納 （美國地名）；豐塔納 （男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "fontina": {
+  "ph": "/fɔn'ti:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "義大利果仁味羊奶乾酪",
+    "def": ""
+   }
+  ]
+ },
+ "foo": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "富/夫（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "food": {
+  "ph": "/fu:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食物, 養料",
+    "def": "any substance that can be metabolized by an animal to give energy and build tissue"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 食物, 食品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foods"
+ },
+ "food chain": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "食物鏈",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 食物鏈",
+    "def": ""
+   }
+  ]
+ },
+ "food poisoning": {
+  "ph": "/fu:d ˈpɔɪznɪŋ/",
+  "senses": [
+   {
+    "pos": "na.",
+    "zh": "食物中毒",
+    "def": ""
+   }
+  ]
+ },
+ "food processor": {
+  "ph": "/fu:d ˈprɔsˌesə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食品加工機",
+    "def": ""
+   }
+  ]
+ },
+ "food stamp": {
+  "ph": "/fu:d stæmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食物券（政府發放給低收入者的票或券）",
+    "def": ""
+   }
+  ]
+ },
+ "foodborne": {
+  "ph": "/'fu:dbɔ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]食物傳播的, 食物傳染的",
+    "def": ""
+   }
+  ]
+ },
+ "foodie": {
+  "ph": "/ˈfu:di/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美食家",
+    "def": ""
+   }
+  ]
+ },
+ "foodstuff": {
+  "ph": "/'fu:dstæf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食品, 糧食",
+    "def": "a substance that can be used or prepared for use as food"
+   }
+  ],
+  "forms": "複數 foodstuffs"
+ },
+ "fool": {
+  "ph": "/fu:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愚人, 受騙者, 奶油拌水果",
+    "def": "a person who lacks good judgment"
+   },
+   {
+    "pos": "vt.",
+    "zh": "愚弄, 欺騙, 浪費",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "幹傻事, 開玩笑, 遊蕩",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "傻的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fools｜過去分詞 fooled｜現在分詞 fooling｜過去式 fooled｜第三人稱單數 fools"
+ },
+ "foolhardiness": {
+  "ph": "/'fu:lhɑ:dinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愚勇, 蠻勇, 有勇無謀",
+    "def": ""
+   }
+  ]
+ },
+ "foolhardy": {
+  "ph": "/'fu:lhɑ:di/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愚勇的, 有勇無謀的",
+    "def": ""
+   }
+  ]
+ },
+ "foolish": {
+  "ph": "/'fu:liʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愚蠢的, 傻的",
+    "def": "devoid of good sense or judgment"
+   }
+  ]
+ },
+ "foolishly": {
+  "ph": "/'fu:liʃli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "愚笨地, 無聊地",
+    "def": ""
+   }
+  ]
+ },
+ "foolishness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愚蠢；可笑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foolishnesses"
+ },
+ "foolproof": {
+  "ph": "/'fu:lpru:f/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "十分簡單的, 十分安全的",
+    "def": ""
+   }
+  ]
+ },
+ "foolscap": {
+  "ph": "/'fu:lzkæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑稽帽, 圓錐形紙帽, 大頁書寫紙",
+    "def": "a size of paper used especially in Britain"
+   }
+  ]
+ },
+ "foosball": {
+  "ph": "/'fuzbɔl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桌上足球",
+    "def": ""
+   }
+  ]
+ },
+ "foot": {
+  "ph": "/fut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳, 步調, 英尺, 底部, 末尾, 步兵",
+    "def": "the part of the leg of a human being below the ankle joint"
+   },
+   {
+    "pos": "vt.",
+    "zh": "走在...上, 給...換底, 支付",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "跳舞, 步行, 總計",
+    "def": ""
+   }
+  ],
+  "forms": "複數 feet｜現在分詞 footing｜過去式 footed｜第三人稱單數 foots｜過去分詞 footed"
+ },
+ "footage": {
+  "ph": "/'futidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英尺長度, 英板尺, (影片的)連續鏡頭",
+    "def": "film that has been shot"
+   }
+  ]
+ },
+ "football": {
+  "ph": "/'futbɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "足球, 橄欖球",
+    "def": "any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal"
+   }
+  ],
+  "forms": "複數 footballs"
+ },
+ "footballer": {
+  "ph": "/'futbɒ:lә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "足球員, 足球選手",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footballers"
+ },
+ "footballing": {
+  "ph": "/ˈfʊtbɔ:lɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "足球的；和足球運動有關的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footballings"
+ },
+ "footboard": {
+  "ph": "/'futbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "踏腳板, 放腳臺, 豎板",
+    "def": "a narrow platform on which to stand or brace the feet"
+   }
+  ],
+  "forms": "複數 footboards"
+ },
+ "footbridge": {
+  "ph": "/'futbridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人行橋",
+    "def": "a bridge designed for pedestrians"
+   }
+  ],
+  "forms": "複數 footbridges"
+ },
+ "footed": {
+  "ph": "/'futid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有腳的, 腳步...的, 有...腳的",
+    "def": "having feet"
+   }
+  ],
+  "forms": "過去式 footed"
+ },
+ "footer": {
+  "ph": "/'futә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墩基, 牆基, 足球比賽",
+    "def": "(used only in combinations) the height or length of something in feet"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 頁尾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footers｜現在分詞 footering"
+ },
+ "footfall": {
+  "ph": "/'futfɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳聲, 踏步, 腳步",
+    "def": "the sound of a step of someone walking"
+   }
+  ],
+  "forms": "複數 footfalls"
+ },
+ "footgear": {
+  "ph": "/'futgiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋襪",
+    "def": ""
+   }
+  ]
+ },
+ "foothill": {
+  "ph": "/'futhil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山麓小丘",
+    "def": "a relatively low hill on the lower slope of a mountain"
+   }
+  ],
+  "forms": "複數 foothills"
+ },
+ "foothills": {
+  "ph": "/'fʊthɪlz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "山麓丘陵地帶; 前陸",
+    "def": ""
+   }
+  ]
+ },
+ "foothold": {
+  "ph": "/'futhәuld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "立足處, 據點, 根據地",
+    "def": "a place providing support for the foot in standing or climbing"
+   }
+  ],
+  "forms": "複數 footholds｜第三人稱單數 footholds"
+ },
+ "footie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "= football (1)",
+    "def": ""
+   }
+  ]
+ },
+ "footing": {
+  "ph": "/'futiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "站穩, 立足點, 立場, 關係",
+    "def": "status with respect to the relations between people or groups"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 腳子(糖漿下腳的結晶)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footings｜現在分詞 footing"
+ },
+ "footle": {
+  "ph": "/'fu:tl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廢話, 傻話, 愚蠢的做法, 囈語, 呆話",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "說呆話, 做笨事",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 footling｜過去式 footled｜第三人稱單數 footles｜過去分詞 footled"
+ },
+ "footlight": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳光, 舞臺生涯",
+    "def": "One of a row of lights in the front of the stage in a"
+   }
+  ],
+  "forms": "複數 footlights"
+ },
+ "footlocker": {
+  "ph": "/'futlɒkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軍人用床腳櫃",
+    "def": "a trunk for storing personal possessions; usually kept at the foot of a bed (as in a barracks)"
+   }
+  ]
+ },
+ "footloose": {
+  "ph": "/'futlu:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自由自在的, 能做所要做的, 不受束縛的",
+    "def": ""
+   }
+  ]
+ },
+ "footman": {
+  "ph": "/'futmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬伕, 僕役",
+    "def": "a man employed as a servant in a large establishment (as a palace) to run errands and do chores"
+   }
+  ],
+  "forms": "複數 footmen"
+ },
+ "footmark": {
+  "ph": "/'futmɑ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "足跡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footmarks"
+ },
+ "footnote": {
+  "ph": "/'futnәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳註",
+    "def": "a printed note placed below the text on a printed page"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 腳註",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footnotes｜過去式 footnoted｜現在分詞 footnoting｜第三人稱單數 footnotes｜過去分詞 footnoted"
+ },
+ "footpad": {
+  "ph": "/'futpæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攔路強盜",
+    "def": "a highwayman who robs on foot"
+   }
+  ],
+  "forms": "複數 footpads"
+ },
+ "footpath": {
+  "ph": "/'futpæθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "步道, 人行道, 小路",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footpaths"
+ },
+ "footplate": {
+  "ph": "/'futpleit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "踏板, 地板",
+    "def": "the platform in the cab of a locomotive on which the engineer stands to operate the controls"
+   }
+  ],
+  "forms": "複數 footplates"
+ },
+ "footprint": {
+  "ph": "/'futprint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "足跡",
+    "def": "a mark of a foot or shoe on a surface"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 印跡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footprints｜現在分詞 footprinting｜第三人稱單數 footprints"
+ },
+ "footrace": {
+  "ph": "/'fjtreis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "競走",
+    "def": "a race run on foot"
+   }
+  ]
+ },
+ "footrest": {
+  "ph": "/'futrest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擱腳物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footrests"
+ },
+ "footsie": {
+  "ph": "/'futsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳, 調戲, 挑逗",
+    "def": ""
+   }
+  ]
+ },
+ "footstep": {
+  "ph": "/'futstep/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳步, 腳步聲, 足跡",
+    "def": "the act of taking a step in walking"
+   }
+  ],
+  "forms": "複數 footsteps"
+ },
+ "footstool": {
+  "ph": "/'futstu:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳凳",
+    "def": "a low seat or a stool to rest the feet of a seated person"
+   }
+  ],
+  "forms": "複數 footstools"
+ },
+ "footswitch": {
+  "ph": "/fʊts'wɪtʃ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "腳踏開關",
+    "def": ""
+   }
+  ],
+  "forms": "複數 footswitches｜現在分詞 footswitching"
+ },
+ "footway": {
+  "ph": "/'futwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小路, 人行道",
+    "def": "A passage for pedestrians only."
+   }
+  ],
+  "forms": "複數 footways"
+ },
+ "footwear": {
+  "ph": "/'fjtweә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋類, 靴類",
+    "def": "clothing worn on a person's feet"
+   }
+  ]
+ },
+ "footwork": {
+  "ph": "/'futwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳的動作, 腳力, 現場採訪活動",
+    "def": "the manner of using the feet"
+   }
+  ],
+  "forms": "複數 footworks"
+ },
+ "fop": {
+  "ph": "/fɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自高自大的人, 花花公子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fops｜過去式 fopped"
+ },
+ "foppish": {
+  "ph": "/'fɒpiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "浮華的, 矯飾的, 紈絝的, 傻的",
+    "def": ""
+   }
+  ]
+ },
+ "for": {
+  "ph": "/fɒ:/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "為, 因為, 至於",
+    "def": "In the most general sense, indicating that in consideration"
+   },
+   {
+    "pos": "conj.",
+    "zh": "因為",
+    "def": "Because; by reason that; for that; indicating, in Old"
+   },
+   {
+    "pos": "",
+    "zh": "[計] DOS批處理命令:對一組引數重複執行指定的命令",
+    "def": ""
+   }
+  ]
+ },
+ "for instance": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "例如",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 例如",
+    "def": ""
+   }
+  ]
+ },
+ "forage": {
+  "ph": "/'fɒridʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糧草, 飼料, 搜尋糧草",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "喂, 掠奪, 搜尋糧秣",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "搜尋糧草, 掠奪",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 foraging｜過去式 foraged｜第三人稱單數 forages｜過去分詞 foraged｜複數 forages"
+ },
+ "forager": {
+  "ph": "/'fɒridʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糧秣徵收員, 搶劫者",
+    "def": "someone who hunts for food and provisions"
+   }
+  ],
+  "forms": "複數 foragers"
+ },
+ "foraging": {
+  "ph": "/'fɒrɪdʒɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "搜尋（食物）, 尤指動物覓（食）( forage的現在分詞 ); （尤指用手）搜尋（東西）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 foraging"
+ },
+ "foray": {
+  "ph": "/'fɒrei/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "侵略, 劫掠, 襲擊",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "侵掠, 侵略, 攻擊",
+    "def": "a sudden short attack"
+   }
+  ],
+  "forms": "複數 forays｜現在分詞 foraying｜過去式 forayed｜第三人稱單數 forays｜過去分詞 forayed"
+ },
+ "forbear": {
+  "ph": "/fɒ:'bєә/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "忍耐, 剋制, 容忍",
+    "def": "refrain from doing"
+   },
+   {
+    "pos": "n.",
+    "zh": "祖先",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forbears｜現在分詞 forbearing｜第三人稱單數 forbears｜過去式 forbore｜過去分詞 forborne"
+ },
+ "forbearance": {
+  "ph": "/fɒ:'bєәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節制, 自制, 忍耐",
+    "def": "a delay in enforcing rights or claims or privileges; refraining from acting"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 債務償還期的延展, 忍耐, 寬容",
+    "def": ""
+   }
+  ]
+ },
+ "forbes": {
+  "ph": "/'fɔ:bz, 'fɔ:bis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福布斯（美國出版及媒體集團）；福布斯（美國著名財經雜誌）；福布斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "forbid": {
+  "ph": "/fә'bid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "禁止, 不準, 妨礙",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 不許, 禁止, 阻止",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forbidden｜過去式 forbade｜第三人稱單數 forbids｜現在分詞 forbidding"
+ },
+ "forbidden": {
+  "ph": "/fә'bidn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被禁止的, 嚴禁的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "forbid的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forbidden"
+ },
+ "forbidding": {
+  "ph": "/fә'bidiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嚴峻的, 可怕的, 令人難親近的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 forbidding｜複數 forbiddings"
+ },
+ "forbiddingly": {
+  "ph": "/fə'bidiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人生畏地；嚴峻地",
+    "def": ""
+   }
+  ]
+ },
+ "forbore": {
+  "ph": "/fɔ:'bɔ:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "forbear的過去式",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 forbore"
+ },
+ "force": {
+  "ph": "/fɒ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "力量, 武力, 勢力, 影響力, 軍隊, 力, 效力",
+    "def": "a powerful effect or influence"
+   },
+   {
+    "pos": "vt.",
+    "zh": "強迫, 強奪, 推動, 提高",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 人工轉移; 強制",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forces｜過去分詞 forced｜過去式 forced｜現在分詞 forcing｜第三人稱單數 forces"
+ },
+ "forced": {
+  "ph": "/fɒ:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被迫的, 強迫的, 用力的",
+    "def": "produced by or subjected to forcing"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 強制的, 法定的, 強迫的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 forced｜過去分詞 forced"
+ },
+ "forceful": {
+  "ph": "/'fɒ:sful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有力的, 強烈的, 有說服力的",
+    "def": "characterized by or full of force or strength (often but not necessarily physical)"
+   }
+  ]
+ },
+ "forcefully": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "激烈地；強有力地；有說服力地",
+    "def": ""
+   }
+  ]
+ },
+ "forcefulness": {
+  "ph": "/'fɔ:sflnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]強有力, 堅強",
+    "def": ""
+   }
+  ]
+ },
+ "forcep": {
+  "ph": "/fɔ:'sep/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "焊鉗, 鉗狀體, 鉗子; 鉗狀骨針",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forceps｜第三人稱單數 forceps"
+ },
+ "forceps": {
+  "ph": "/'fɒ:seps/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鑷子, 鉗子, 鉗子狀器官",
+    "def": "an extractor consisting of a pair of pincers used in medical treatment (especially for the delivery of babies)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鉗, 鑷, 鉗狀體",
+    "def": ""
+   }
+  ]
+ },
+ "forcible": {
+  "ph": "/'fɒ:sәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "強制的, 強迫的, 有氣力的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 強制的, 強迫的, 有勢力的",
+    "def": ""
+   }
+  ]
+ },
+ "forcibly": {
+  "ph": "/'fɒ:sәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "強制地, 用力地",
+    "def": ""
+   }
+  ]
+ },
+ "forcing": {
+  "ph": "/'fɔ:siŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "強迫, 培育, 奪取, 施加壓力",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "強迫的, 促成(植物早熟)的, 施加壓力的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 強制的, 強迫的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 forcing"
+ },
+ "ford": {
+  "ph": "/fɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "淺灘, 福特汽車",
+    "def": "United States film maker (1896-1973)"
+   },
+   {
+    "pos": "v.",
+    "zh": "涉過, 涉水",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fords｜現在分詞 fording｜過去式 forded｜第三人稱單數 fords｜過去分詞 forded"
+ },
+ "forde": {
+  "ph": "/fɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "峽灣",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Forde)人名；(英)福德；(法)福爾德",
+    "def": ""
+   }
+  ]
+ },
+ "fordham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "福特漢姆",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "福德姆",
+    "def": ""
+   }
+  ]
+ },
+ "fore": {
+  "ph": "/fɒ:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "在前的, 以前的",
+    "def": "situated at or toward the bow of a vessel"
+   },
+   {
+    "pos": "adv.",
+    "zh": "在前面, 在船頭",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "在...前",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fores"
+ },
+ "forearm": {
+  "ph": "/'fɒ:rɑ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前臂",
+    "def": "the part of the superior limb between the elbow and the wrist"
+   },
+   {
+    "pos": "vt.",
+    "zh": "預先武裝, 準備",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forearms｜現在分詞 forearming｜過去式 forearmed｜第三人稱單數 forearms｜過去分詞 forearmed"
+ },
+ "forearmed": {
+  "ph": "/fɔː'ɑːmd/",
+  "senses": [
+   {
+    "pos": "phr.",
+    "zh": "凡事預則立；有備無患",
+    "def": ""
+   }
+  ]
+ },
+ "forebear": {
+  "ph": "/'fɒ:bєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祖先, 祖宗",
+    "def": "a person from whom you are descended"
+   }
+  ],
+  "forms": "複數 forebears"
+ },
+ "forebode": {
+  "ph": "/fɒ:'bәud/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "預示, 預兆, 預感",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 foreboded｜現在分詞 foreboding｜第三人稱單數 forebodes｜過去分詞 foreboded"
+ },
+ "foreboding": {
+  "ph": "/fɒ:'bәudiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "預感, 先兆, 預兆",
+    "def": "a feeling of evil to come"
+   }
+  ],
+  "forms": "複數 forebodings"
+ },
+ "forebrain": {
+  "ph": "/'fɒ:brein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前腦",
+    "def": "the anterior portion of the brain; the part of the brain that develops from the anterior part of the neural tube"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 前腦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forebrains"
+ },
+ "forecast": {
+  "ph": "/'fɒ:kɑ:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "預想, 預測, 預報",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "預想, 預測, 預報",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 趨勢預測",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forecasts｜過去分詞 forecast｜現在分詞 forecasting｜第三人稱單數 forecasts｜過去式 forecast"
+ },
+ "forecasted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "forecast的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 forecasted"
+ },
+ "forecaster": {
+  "ph": "/'fɔ:kɑ:stә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "預報員",
+    "def": "someone who makes predictions of the future (usually on the basis of special knowledge)"
+   }
+  ],
+  "forms": "複數 forecasters"
+ },
+ "forecasting": {
+  "ph": "/'fɔ:kɑ:stiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 預報, 預測",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 預測",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 forecasting"
+ },
+ "foreclose": {
+  "ph": "/fɒ:'klәus/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "阻止, 排除, 預先處理, 取消抵押品贖回權",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "取消抵押品贖回權",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foreclosed｜現在分詞 foreclosing｜第三人稱單數 forecloses｜過去式 foreclosed"
+ },
+ "foreclosed": {
+  "ph": "/fɔ:ˈkləʊzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "取消（抵押品）贖回權( foreclose的過去式和過去分詞 ); 取消（抵押人的）贖回抵押品的權利; 排除; 阻止",
+    "def": ""
+   }
+  ]
+ },
+ "foreclosure": {
+  "ph": "/fɔ:'klәjʒә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "取消抵押品贖回權",
+    "def": "the legal proceedings initiated by a creditor to repossess the collateral for loan that is in default"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 取消抵押品贖回權的法律手續",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foreclosures"
+ },
+ "forecourt": {
+  "ph": "/'fɒ:kɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前院",
+    "def": "the outer or front court of a building or of a group of buildings"
+   }
+  ],
+  "forms": "複數 forecourts"
+ },
+ "foredeck": {
+  "ph": "/'fɔ:dek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前甲板",
+    "def": "the deck between the bridge and the forecastle"
+   }
+  ]
+ },
+ "forefather": {
+  "ph": "/'fɒ:fɑ:ðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祖先",
+    "def": "the founder of a family"
+   }
+  ],
+  "forms": "複數 forefathers"
+ },
+ "forefinger": {
+  "ph": "/'fɒ:fiŋgә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "食指",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 食指, 示指",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forefingers"
+ },
+ "forefoot": {
+  "ph": "/'fɒ:fut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前腳",
+    "def": "a front foot of a quadruped"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 前肢(四肢動物), 足前段",
+    "def": ""
+   }
+  ]
+ },
+ "forefront": {
+  "ph": "/'fɒ:frʌnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "最前部, 最前線",
+    "def": "the part in the front or nearest the viewer"
+   }
+  ]
+ },
+ "foregather": {
+  "ph": "/fɔ:'^æðә/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "偶然碰見, 相遇",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 foregathered｜過去分詞 foregathered｜現在分詞 foregathering｜第三人稱單數 foregathers"
+ },
+ "forego": {
+  "ph": "/fɒ:'gәu/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "放棄, 在...之前, 居先",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foregone｜現在分詞 foregoing｜第三人稱單數 foregoes｜過去式 forewent"
+ },
+ "foregoing": {
+  "ph": "/'fɒ:'gәuiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "前面的, 先前的, 前述的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 foregoing"
+ },
+ "foregone": {
+  "ph": "/fɒ:'gʌn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "預先決定的, 逝去的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "forego的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foregone"
+ },
+ "foreground": {
+  "ph": "/'fɒ:graund/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前景, 最顯著的位置",
+    "def": "the part of a scene that is near the viewer"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 前景, 前臺",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foregrounds｜現在分詞 foregrounding｜過去分詞 foregrounded｜過去式 foregrounded｜第三人稱單數 foregrounds"
+ },
+ "foregrounded": {
+  "ph": "/ˈfɔ:ɡraundid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "前景( foreground的過去式和過去分詞 ); 突出的地方, 最顯著的位置",
+    "def": ""
+   }
+  ]
+ },
+ "foregrounding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前臺操作, 前臺設制",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 前臺設定",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 foregrounding｜複數 foregroundings"
+ },
+ "forehand": {
+  "ph": "/'fɒ:hænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正打, 正擊",
+    "def": "(sports) a return made with the palm of the hand facing the direction of the stroke (as in tennis or badminton or squash)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "正打的",
+    "def": "(of racket strokes) made with palm facing direction of stroke"
+   }
+  ],
+  "forms": "複數 forehands"
+ },
+ "forehead": {
+  "ph": "/'fɒ:rid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "額, 前額, 前部",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 額",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foreheads"
+ },
+ "foreign": {
+  "ph": "/'fɒ:rin/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "外國的, 外交的, 外省的, 外來的, 不相關的",
+    "def": "of concern to or concerning the affairs of other nations (other than your own)"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 外來的",
+    "def": ""
+   }
+  ]
+ },
+ "foreign exchange": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "國際匯兌, 外匯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 外匯, 國外匯兌",
+    "def": ""
+   }
+  ]
+ },
+ "foreign office": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(英國)外交部",
+    "def": ""
+   }
+  ]
+ },
+ "foreigner": {
+  "ph": "/'fɒ:rinә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外國人, 外地人",
+    "def": "a person who comes from a foreign country; someone who does not owe allegiance to your country"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 外國人, 進口貨, 外國貨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foreigners"
+ },
+ "foreignness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外國（人）的特性",
+    "def": "the quality of being alien or not native"
+   }
+  ]
+ },
+ "foreknowledge": {
+  "ph": "/'fɒ:nɒlidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "預知, 先見之明",
+    "def": ""
+   }
+  ]
+ },
+ "foreland": {
+  "ph": "/'fɒ:lәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沿海地區, 海角, 海岸地",
+    "def": "land forming the forward margin of something"
+   }
+  ]
+ },
+ "foreleg": {
+  "ph": "/'fɒ:leg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前腿, 前腳",
+    "def": "the forelimb of a quadruped"
+   }
+  ],
+  "forms": "複數 forelegs"
+ },
+ "forelimb": {
+  "ph": "/'fɒ:lim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前肢",
+    "def": "the front limb (or the homologous structure in other animals, such as a flipper or wing)"
+   }
+  ],
+  "forms": "複數 forelimbs"
+ },
+ "forelock": {
+  "ph": "/'fɒ:lɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "額髮, 額毛, 銷",
+    "def": "a lock of hair growing (or falling) over the forehead"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用銷銷住",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forelocks"
+ },
+ "foreman": {
+  "ph": "/'fɒ:mәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領班, 工頭, 陪審長",
+    "def": "a person who exercises control over workers"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 領班, 工頭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foremen"
+ },
+ "foremast": {
+  "ph": "/'fɒ:mæst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前桅",
+    "def": "the mast nearest the bow in vessels with two or more masts"
+   }
+  ]
+ },
+ "foremost": {
+  "ph": "/'fәumәust/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最初的, 最重要的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在最前",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 foremost"
+ },
+ "forename": {
+  "ph": "/'fɒ:neim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "名",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forenames｜第三人稱單數 forenames"
+ },
+ "forenoon": {
+  "ph": "/'fɒ:nu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "午前, 上午",
+    "def": ""
+   }
+  ]
+ },
+ "forensic": {
+  "ph": "/fә'rensik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "辯論的, 法院的, 關於法庭的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "辯論練習",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forensics"
+ },
+ "forensics": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辯論學, 辯論術",
+    "def": "scientific tests or techniques used in the investigation of crimes"
+   }
+  ]
+ },
+ "forepaw": {
+  "ph": "/'fɒ:pɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前掌, 前爪",
+    "def": "front paw; analogous to the human hand"
+   }
+  ],
+  "forms": "複數 forepaws"
+ },
+ "foreperson": {
+  "ph": "/'fɔ:pə:sən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陪審團團長, 陪審長；工頭, 領班",
+    "def": "the presiding member of the jury and the one who speaks on their behalf"
+   }
+  ]
+ },
+ "foreplay": {
+  "ph": "/ˈfɔ:pleɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "性交前的愛撫, 前奏, 前戲",
+    "def": "mutual sexual fondling prior to sexual intercourse"
+   }
+  ]
+ },
+ "forerunner": {
+  "ph": "/fɒ:'rʌnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "先驅, 前兆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forerunners"
+ },
+ "foresee": {
+  "ph": "/fɒ:'si:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "預見, 預知",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foreseen｜過去式 foresaw｜第三人稱單數 foresees｜現在分詞 foreseeing"
+ },
+ "foreseeability": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 預知性",
+    "def": ""
+   }
+  ]
+ },
+ "foreseeable": {
+  "ph": "/'fɒ:'si:әbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可預知的, 能預測的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可預見的, 可預料的",
+    "def": ""
+   }
+  ]
+ },
+ "foreseeably": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "可預知地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "能預測地",
+    "def": ""
+   }
+  ]
+ },
+ "foreshadow": {
+  "ph": "/fɒ:'ʃædәu/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "成為前兆, 預示",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 foreshadowed｜過去分詞 foreshadowed｜第三人稱單數 foreshadows｜現在分詞 foreshadowing"
+ },
+ "foreshadowing": {
+  "ph": "/fɔ:'ʃædəʊɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "預示, 是…的先兆( foreshadow的現在分詞 ); 伏筆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foreshadowings"
+ },
+ "foreshore": {
+  "ph": "/'fɒ:ʃɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前灘, 海灘",
+    "def": "the part of the seashore between the highwater mark and the low-water mark"
+   }
+  ],
+  "forms": "複數 foreshores｜第三人稱單數 foreshores"
+ },
+ "foreshorten": {
+  "ph": "/fɒ:'ʃɒ:tn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "照透視法縮短, 縮短",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foreshortened｜現在分詞 foreshortening｜過去式 foreshortened｜第三人稱單數 foreshortens"
+ },
+ "foreshortened": {
+  "ph": "/fɔ:ˈʃɔ:tnd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "按照透視法縮短（描繪物件）( foreshorten的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foreshortened"
+ },
+ "foresight": {
+  "ph": "/'fɒ:sait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遠見, 深謀遠慮",
+    "def": "providence by virtue of planning prudently for the future"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 先見, 預見, 預見的能力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foresights"
+ },
+ "foreskin": {
+  "ph": "/'fɔ:skin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "包皮",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 包皮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foreskins"
+ },
+ "forest": {
+  "ph": "/'fɒrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "森林, 林區",
+    "def": "the trees and other plants in a large densely wooded area"
+   },
+   {
+    "pos": "vt.",
+    "zh": "植樹於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forests｜現在分詞 foresting｜過去式 forested｜第三人稱單數 forests｜過去分詞 forested"
+ },
+ "forestal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "forest（森林）的變形",
+    "def": "Of or pertaining to forests; as, forestal rights."
+   }
+  ],
+  "forms": "過去式 forestalled｜過去分詞 forestalled｜現在分詞 forestalling"
+ },
+ "forestall": {
+  "ph": "/fɒ:'stɒ:l/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "預先阻止, 先...一步行動, 佔先一步, 壟斷, 阻礙",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 先採取行動預防或阻止, 壟斷",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 forestalls｜現在分詞 forestalling｜過去式 forestalled｜過去分詞 forestalled"
+ },
+ "forested": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "草木叢生的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forested｜過去式 forested"
+ },
+ "forester": {
+  "ph": "/'fɔristә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "林務員, 森林動物, 森林居民, 森林管理人",
+    "def": "English writer of adventure novels featuring Captain Horatio Hornblower (1899-1966)"
+   }
+  ],
+  "forms": "複數 foresters"
+ },
+ "forestland": {
+  "ph": "/'fɔ:ristlәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "林地",
+    "def": ""
+   }
+  ]
+ },
+ "forestry": {
+  "ph": "/'fɒristri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "林學, 森林地",
+    "def": "the science of planting and caring for forests and the management of growing timber"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 林地, 林學, 林業",
+    "def": ""
+   }
+  ]
+ },
+ "foretaste": {
+  "ph": "/fɒ:'teist/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "預嘗, 先試",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "先嚐, 預示",
+    "def": "an early limited awareness of something yet to occur"
+   }
+  ]
+ },
+ "foretell": {
+  "ph": "/fɒ:'tel/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "預言, 預告, 預示",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 foretells｜複數 foretells｜現在分詞 foretelling｜過去式 foretold｜過去分詞 foretold"
+ },
+ "forethought": {
+  "ph": "/'fɒ:θɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "事先的考慮, 事先的籌劃, 深慮, 先見",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 預謀",
+    "def": ""
+   }
+  ]
+ },
+ "foretold": {
+  "ph": "/fɔ:'tәuld/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "foretell的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 foretold｜過去式 foretold"
+ },
+ "forever": {
+  "ph": "/fә'revә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "永遠",
+    "def": ""
+   }
+  ]
+ },
+ "forewarn": {
+  "ph": "/fɒ:'wɒ:n/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "預先警告",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forewarned｜第三人稱單數 forewarns｜現在分詞 forewarning｜過去式 forewarned"
+ },
+ "forewarned": {
+  "ph": "/fɔ:ˈwɔ:nd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "預先警告, 事先告知( forewarn的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forewarned"
+ },
+ "forewarning": {
+  "ph": "/fɔ:'wɔ:nɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "預先警告的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "預先警告, 事先告知( forewarn的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forewarnings｜現在分詞 forewarning"
+ },
+ "forewing": {
+  "ph": "/'fɔ:wiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[昆蟲]前翅",
+    "def": "either of the anterior pair of wings on an insect that has four wings"
+   }
+  ],
+  "forms": "現在分詞 forewing｜複數 forewings"
+ },
+ "forewoman": {
+  "ph": "/'fɒ:wumәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女工頭, 女工監督, 婦女陪審長",
+    "def": "a woman who is foreperson of a jury"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 女陪審團主席, 女陪審長",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forewomen"
+ },
+ "foreword": {
+  "ph": "/'fɒ:wә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "前言, 序",
+    "def": "a short introductory essay preceding the text of a book"
+   }
+  ],
+  "forms": "複數 forewords"
+ },
+ "forex": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 外匯",
+    "def": ""
+   }
+  ]
+ },
+ "forfar": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Forfar)人名；(英)福法",
+    "def": ""
+   }
+  ]
+ },
+ "forfeit": {
+  "ph": "/'fɒ:fit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沒收物, 罰金, 喪失",
+    "def": "something that is lost or surrendered as a penalty;"
+   },
+   {
+    "pos": "vt.",
+    "zh": "沒收, 喪失",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "喪失了的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forfeited｜過去式 forfeited｜現在分詞 forfeiting｜複數 forfeits｜第三人稱單數 forfeits"
+ },
+ "forfeited": {
+  "ph": "/ˈfɔ:fitid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（因違反協議、犯規、受罰等）喪失, 失去( forfeit的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 forfeited"
+ },
+ "forfeiture": {
+  "ph": "/'fɒ:fitʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沒收物, 罰金, 喪失",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 沒收, 沒收物, 罰金",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forfeitures"
+ },
+ "forge": {
+  "ph": "/fɒ:dʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熔爐, 鐵工廠",
+    "def": "furnace consisting of a special hearth where metal is heated before shaping"
+   },
+   {
+    "pos": "vt.",
+    "zh": "打製, 鍛造, 偽造",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "鍛造, 偽造",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forged｜現在分詞 forging｜過去式 forged｜複數 forges｜第三人稱單數 forges"
+ },
+ "forged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鍛的；鍛造的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forged｜過去式 forged"
+ },
+ "forger": {
+  "ph": "/'fɒ:dʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐵匠, 偽造者, 贗造者",
+    "def": "someone who operates a forge"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 偽造者, 偽造犯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forgers"
+ },
+ "forgery": {
+  "ph": "/'fɒ:dʒәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偽造, 偽造罪, 偽造物",
+    "def": "criminal falsification by making or altering an instrument with intent to defraud"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 偽造簽字, 偽造品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forgeries"
+ },
+ "forget": {
+  "ph": "/fә'get/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "忘記, 忽略, 忘",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "忘記",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forgotten｜過去式 forgot｜現在分詞 forgetting｜第三人稱單數 forgets"
+ },
+ "forgetful": {
+  "ph": "/fә'getful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "健忘的, 易忘的",
+    "def": ""
+   }
+  ]
+ },
+ "forgetfulness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 忽視",
+    "def": ""
+   }
+  ]
+ },
+ "forgettable": {
+  "ph": "/fә'getәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "容易被忘的, 可忘記的",
+    "def": "easily forgotten"
+   }
+  ]
+ },
+ "forging": {
+  "ph": "/'fɒ:dʒiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鍛鍊, 偽造",
+    "def": "shaping metal by heating and hammering"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 鍛造, 鍛件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forgings｜現在分詞 forging"
+ },
+ "forgivable": {
+  "ph": "/fә'givәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可寬恕的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 可寬恕的",
+    "def": ""
+   }
+  ]
+ },
+ "forgive": {
+  "ph": "/fә'giv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "原諒, 寬恕, 免除",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 免除, 寬恕, 原諒",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forgiven｜過去式 forgave｜第三人稱單數 forgives｜現在分詞 forgiving"
+ },
+ "forgiveness": {
+  "ph": "/fә'givnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寬恕, 寬仁之心",
+    "def": "compassionate feelings that support a willingness to forgive"
+   }
+  ],
+  "forms": "複數 forgivenesses"
+ },
+ "forgiving": {
+  "ph": "/fә'giviŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "寬大的, 容許有錯誤的",
+    "def": "inclined or able to forgive and show mercy"
+   }
+  ],
+  "forms": "現在分詞 forgiving"
+ },
+ "forgo": {
+  "ph": "/fɒ:'gәu/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "摒絕, 放棄",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 forgoing｜過去式 forwent｜第三人稱單數 forgoes｜過去分詞 forgone"
+ },
+ "forgone": {
+  "ph": "/fɔ:ˈgɒn/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "沒有也行, 放棄( forgo的過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "forgotten": {
+  "ph": "/fә'gɒtn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "forget的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forgotten"
+ },
+ "forint": {
+  "ph": "/'fɒ:rint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福林(匈牙利的貨幣單位)",
+    "def": "the basic unit of money in Hungary"
+   }
+  ],
+  "forms": "複數 forints"
+ },
+ "fork": {
+  "ph": "/fɒ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叉子, 叉狀物, 分岔",
+    "def": "cutlery used for serving and eating food"
+   },
+   {
+    "pos": "vi.",
+    "zh": "分支, 分歧",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "做成叉形, 叉起",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 派生指令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forks｜過去式 forked｜現在分詞 forking｜過去分詞 forked｜第三人稱單數 forks"
+ },
+ "forkball": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "指叉球",
+    "def": ""
+   }
+  ]
+ },
+ "forked": {
+  "ph": "/fɒ:kt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成叉的, 叉的, 叉狀的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 叉狀的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 forked｜過去分詞 forked"
+ },
+ "forkful": {
+  "ph": "/'fɔ:kfjl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一叉的量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forkfuls"
+ },
+ "forklift": {
+  "ph": "/'fɔ:klift/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剷車, 叉式升降機",
+    "def": "a small industrial vehicle with a power operated forked platform in front that can be inserted under loads to lift and move them"
+   }
+  ],
+  "forms": "複數 forklifts"
+ },
+ "forlorn": {
+  "ph": "/fә'lɒ:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "孤獨的, 悲慘的, 淒涼的",
+    "def": ""
+   }
+  ]
+ },
+ "forlornly": {
+  "ph": "/fə'lɔ:nli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可憐地；孤苦伶仃地；沒希望地；渺茫地",
+    "def": ""
+   }
+  ]
+ },
+ "form": {
+  "ph": "/fɒ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "形狀, 形體, 型別, 方式, 表格, 形式",
+    "def": "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something"
+   },
+   {
+    "pos": "v.",
+    "zh": "形成, 排列, (使)組成",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "表單",
+    "def": "a perceptual structure"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 表單",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forms｜過去分詞 formed｜過去式 formed｜現在分詞 forming｜第三人稱單數 forms"
+ },
+ "formal": {
+  "ph": "/'fɒ:mәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "正式的, 形式的, 禮儀的, 拘於禮節的, 拘謹的",
+    "def": "being in accord with established forms and conventions and requirements (as e.g. of formal dress)"
+   },
+   {
+    "pos": "n.",
+    "zh": "正式的社交活動",
+    "def": ""
+   }
+  ]
+ },
+ "formaldehyde": {
+  "ph": "/fɒ:'mældihaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "甲醛",
+    "def": "a colorless poisonous gas; made by the oxidation of methanol"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 甲醛",
+    "def": ""
+   }
+  ]
+ },
+ "formalin": {
+  "ph": "/'fɒ:mәlin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福爾馬林",
+    "def": "a 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 福爾馬林",
+    "def": ""
+   }
+  ]
+ },
+ "formalisation": {
+  "ph": "/,fɔ:məlai'zeiʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正規化（等於formalization）",
+    "def": ""
+   }
+  ]
+ },
+ "formalise": {
+  "ph": "/'fɔ:məlaɪz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使（協議、計劃等）成書面文字形式; 使成為正式, 使具有一定形式",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 formalised｜現在分詞 formalising｜過去式 formalised｜第三人稱單數 formalises"
+ },
+ "formalised": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "使成為正式",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 formalised｜過去式 formalised"
+ },
+ "formalism": {
+  "ph": "/'fɒ:mәlizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拘泥形式, 形式主義",
+    "def": "the doctrine that formal structure rather than content is what should be represented"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 形式主義",
+    "def": ""
+   }
+  ],
+  "forms": "複數 formalisms"
+ },
+ "formalist": {
+  "ph": "/'fɒ:mәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拘泥形式的人, 形式主義者",
+    "def": "One overattentive to forms, or too much confined to"
+   }
+  ],
+  "forms": "複數 formalists"
+ },
+ "formalistic": {
+  "ph": "/.fɒ:mә'listik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "形式主義的",
+    "def": "concerned with or characterized by rigorous adherence to recognized forms (especially in religion or art)"
+   }
+  ]
+ },
+ "formality": {
+  "ph": "/fɒ:'mæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "禮節, 拘謹, 正式手續",
+    "def": "a requirement of etiquette or custom"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 克式濃度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 formalities"
+ },
+ "formalization": {
+  "ph": "/.fɒ:mәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "定型, 形式化, 禮儀化",
+    "def": "the act of making formal (as by stating formal rules governing classes of expressions)"
+   }
+  ]
+ },
+ "formalize": {
+  "ph": "/'fɒ:mәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使正式, 使整形, 形式化",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "拘泥於形式",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 formalized｜現在分詞 formalizing｜過去式 formalized｜第三人稱單數 formalizes"
+ },
+ "formalized": {
+  "ph": "/'fɔ:məlaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使（協議、計劃等）成書面文字形式( formalize的過去式和過去分詞); 使成為正式, 使具有一定形式",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 formalized｜過去式 formalized"
+ },
+ "formally": {
+  "ph": "/'fɒ:mәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "正式地, 形式上",
+    "def": ""
+   }
+  ]
+ },
+ "forman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "工頭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 formen"
+ },
+ "formant": {
+  "ph": "/'fɔ:mәnt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 構形, 峰段, 共振峰",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 純音",
+    "def": ""
+   }
+  ]
+ },
+ "format": {
+  "ph": "/'fɒ:mæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開本, 版式, 形式, 格式",
+    "def": "the organization of information according to preset specifications (usually for computer processing)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "格式化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 格式; DOS外部命令:對磁碟進行格式化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 formats｜現在分詞 formatting｜過去分詞 formatted｜過去式 formatted｜第三人稱單數 formats"
+ },
+ "formation": {
+  "ph": "/fɒ:'meiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "形成, 構造, 編隊",
+    "def": "an arrangement of people or things acting as a unit"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 形成, 結構",
+    "def": ""
+   }
+  ],
+  "forms": "複數 formations"
+ },
+ "formative": {
+  "ph": "/'fɒ:mәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有助於形成的, 造型的, 形成的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "構詞要素",
+    "def": "minimal language unit that has a syntactic (or morphological) function"
+   }
+  ]
+ },
+ "formatted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "格式化（的）；格式化了的；有格式的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 formatted｜過去分詞 formatted"
+ },
+ "formatting": {
+  "ph": "/'fɔ:mætiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 格式化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 formatting"
+ },
+ "formby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Formby)人名；(英)豐比",
+    "def": ""
+   }
+  ]
+ },
+ "forme": {
+  "ph": "/fɒ:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "印版",
+    "def": ""
+   }
+  ],
+  "forms": "複數 formes"
+ },
+ "formed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成形的, 成形",
+    "def": "having or given a form or shape"
+   }
+  ],
+  "forms": "過去式 formed｜過去分詞 formed"
+ },
+ "former": {
+  "ph": "/'fɒ:mә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "從前的, 前者的",
+    "def": "referring to the first of two things or persons mentioned (or the earlier one or ones of several); I prefer the former version to the latter one\""
+   },
+   {
+    "pos": "n.",
+    "zh": "起形成作用的人(或物), 模型, 樣板",
+    "def": "the first of two or the first mentioned of two"
+   }
+  ],
+  "forms": "複數 formers"
+ },
+ "formerly": {
+  "ph": "/'fɒ:mәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "從前, 以前",
+    "def": ""
+   }
+  ]
+ },
+ "formic": {
+  "ph": "/'fɒ:mik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蟻的, 甲酸的, 蟻酸的",
+    "def": "of or relating to or derived from ants"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蟻的",
+    "def": ""
+   }
+  ]
+ },
+ "formica": {
+  "ph": "/fɔ:'maikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膠木",
+    "def": "any of various plastic laminates containing melamine"
+   }
+  ]
+ },
+ "formidable": {
+  "ph": "/'fɒ:midәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "巨大的, 優秀的, 可怕的, 艱難的",
+    "def": ""
+   }
+  ]
+ },
+ "formidably": {
+  "ph": "/'fɒ:midәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可怕地, 敵不住, 強大地",
+    "def": ""
+   }
+  ]
+ },
+ "forming": {
+  "ph": "/'fɔ:miŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[電] 形成",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 forming｜複數 formings"
+ },
+ "formless": {
+  "ph": "/'fɒ:mlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無定形的, 形體不明的, 沒有形狀的",
+    "def": ""
+   }
+  ]
+ },
+ "formlessness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]無極",
+    "def": ""
+   }
+  ]
+ },
+ "formosa": {
+  "ph": "/fɔ:'mәusә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臺灣",
+    "def": ""
+   }
+  ]
+ },
+ "formosan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "臺灣話的；臺灣的；臺灣人的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 formosans"
+ },
+ "forms": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窗體；表單；表格（form的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "formula": {
+  "ph": "/'fɒ:mjulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "客套語, 公式, 準則",
+    "def": "a group of symbols that make a mathematical statement"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 公式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 formulae"
+ },
+ "formulaic": {
+  "ph": "/-'leiik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(根據)公式的,用俗套話堆砌成的,刻板的",
+    "def": ""
+   }
+  ]
+ },
+ "formulary": {
+  "ph": "/'fɒ:mjulәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "公式集, 處方集, 套話",
+    "def": "(pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation"
+   },
+   {
+    "pos": "adj.",
+    "zh": "規定的, 公式的, 藥方的",
+    "def": "of or relating to or of the nature of a formula"
+   }
+  ],
+  "forms": "複數 formularies"
+ },
+ "formulate": {
+  "ph": "/'fɒ:mjuleit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用公式表示, 明確敘述, 制訂",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 公式化, 公式表示",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 formulated｜現在分詞 formulating｜過去式 formulated｜第三人稱單數 formulates"
+ },
+ "formulated": {
+  "ph": "/ˈfɔ:mjuleitid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "構想出( formulate的過去式和過去分詞 ); 規劃; 確切地闡述; 用公式表示",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 formulated"
+ },
+ "formulation": {
+  "ph": "/.fɒ:mju'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "系統陳述, 公式化, 配製",
+    "def": "a substance prepared according to a formula"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 表述; 數學表述; 數式化; 數學表述",
+    "def": ""
+   }
+  ],
+  "forms": "複數 formulations"
+ },
+ "fornicate": {
+  "ph": "/'fɒ:nikeit/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "通姦",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 穹窿狀的, 非法性交",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fornicating｜過去分詞 fornicated｜過去式 fornicated｜第三人稱單數 fornicates"
+ },
+ "fornication": {
+  "ph": "/.fɒ:ni'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通姦, 亂倫",
+    "def": "voluntary sexual intercourse between persons not married to each other"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 非法性交",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fornications"
+ },
+ "fornicator": {
+  "ph": "/'fɒ:nikeitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "私通者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 私通者, 通姦者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fornicators"
+ },
+ "forres": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Forres)人名；(英)福里斯",
+    "def": ""
+   }
+  ]
+ },
+ "forrest": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "佛利斯特（人名, 或美國電影阿甘正傳）",
+    "def": ""
+   }
+  ]
+ },
+ "forrester": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福雷斯特（姓氏）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forresters"
+ },
+ "forsake": {
+  "ph": "/fә'seik/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "放棄, 斷念, 拋棄",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 遺棄, 拋棄, 摒絕",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forsaken｜現在分詞 forsaking｜第三人稱單數 forsakes｜過去式 forsook"
+ },
+ "forsaken": {
+  "ph": "/fә'seikәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被拋棄的, 孤獨的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "forsake的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 forsaken"
+ },
+ "forseeable": {
+  "ph": "/fɔ:'si:əbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可預見到的",
+    "def": ""
+   }
+  ]
+ },
+ "forsook": {
+  "ph": "/fә'suk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "forsake的過去式",
+    "def": ""
+   }
+  ]
+ },
+ "forster": {
+  "ph": "/'fɔ:stә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "福斯特(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "forswear": {
+  "ph": "/fɒ:'swєә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "發誓拋棄, 發誓否定",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發偽誓, 作偽證",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 forswearing｜過去式 forswore｜第三人稱單數 forswears｜過去分詞 forsworn"
+ },
+ "forsworn": {
+  "ph": "/fɒ:'swɒ:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不守誓的, 偽誓的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "forswear的過去分詞",
+    "def": ""
+   }
+  ]
+ },
+ "forsyth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福賽斯（美國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "forsythe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "福賽思（愛爾蘭姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "forsythia": {
+  "ph": "/fɒ:'saiθjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連翹",
+    "def": "any of various early blooming oleaceous shrubs of the genus Forsythia; native to eastern Asia and southern Europe but widely cultivated for their branches of br"
+   }
+  ]
+ },
+ "fort": {
+  "ph": "/fɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "堡壘, 要塞, 易貨站",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "設要塞保衛",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "設要塞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forts"
+ },
+ "forte": {
+  "ph": "/fɔ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長處, 特長, 拿手, 優點",
+    "def": "an asset of special worth or utility"
+   }
+  ],
+  "forms": "複數 fortes"
+ },
+ "fortescue": {
+  "ph": "/'fɔ:tә,skju:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "澳洲鱗",
+    "def": ""
+   }
+  ]
+ },
+ "forth": {
+  "ph": "/fɒ:θ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "往前, 以後, 向外",
+    "def": ""
+   }
+  ]
+ },
+ "forthcoming": {
+  "ph": "/'fɒ:θ'kʌmɑŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "即將來臨的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "來臨",
+    "def": ""
+   }
+  ]
+ },
+ "forthright": {
+  "ph": "/fɒ:θ'rait/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "直率地, 直接地, 馬上, 立即",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "直接的, 直率的, 坦白的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "直路",
+    "def": ""
+   }
+  ]
+ },
+ "forthrightly": {
+  "ph": "/'fɔ:θraitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "直率地；言行坦誠地",
+    "def": ""
+   }
+  ]
+ },
+ "forthrightness": {
+  "ph": "/ˈfɔ:θˈraɪtnɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正直",
+    "def": ""
+   }
+  ]
+ },
+ "forthwith": {
+  "ph": "/'fɒ:θ'wiθ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "立刻, 不猶豫地, 不延遲地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 必須立即執行的命令",
+    "def": ""
+   }
+  ]
+ },
+ "fortieth": {
+  "ph": "/'fɒ:tiiθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第四十, 四十分之一",
+    "def": ""
+   }
+  ]
+ },
+ "fortification": {
+  "ph": "/.fɒ:tifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "築城, 防禦工事, 要塞",
+    "def": "defensive structure consisting of walls or mounds built around a stronghold to strengthen it"
+   }
+  ],
+  "forms": "複數 fortifications"
+ },
+ "fortified": {
+  "ph": "/'fɒ:tifaid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "加強的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fortified"
+ },
+ "fortify": {
+  "ph": "/'fɒ:tifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "設要塞於, 加強, 使堅強, 增加",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "築防禦工事",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fortified｜現在分詞 fortifying｜過去式 fortified｜第三人稱單數 fortifies"
+ },
+ "fortissimo": {
+  "ph": "/fɔ:'tisimәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "非常嘹亮的, 最強音的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "非常響亮地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fortissimos"
+ },
+ "fortitude": {
+  "ph": "/'fɒ:titju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剛毅, 堅毅, 不屈不撓",
+    "def": "strength of mind that enables one to endure adversity with courage"
+   }
+  ],
+  "forms": "複數 fortitudes"
+ },
+ "fortnight": {
+  "ph": "/'fɒ:tnait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兩星期",
+    "def": "a period of fourteen consecutive days"
+   }
+  ],
+  "forms": "複數 fortnights"
+ },
+ "fortnightly": {
+  "ph": "/'fɒ:tnaitli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "每兩星期一次的, 隔週發行的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "雙週刊",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "隔週, 每兩星期一次地",
+    "def": ""
+   }
+  ]
+ },
+ "fortnum": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] [英格蘭人姓氏] 福特納姆綽號, 四肢發達頭腦簡單的人, 來源於古法語, 含義是“強壯的+驢”(strong+donkey)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fortnums"
+ },
+ "fortran": {
+  "ph": "/'fɔ:træn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "FORTRAN語言",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] FORTRAN語言, 公式翻譯語言",
+    "def": ""
+   }
+  ]
+ },
+ "fortress": {
+  "ph": "/'fɒ:tris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "城堡, 要塞",
+    "def": "a fortified defensive structure"
+   },
+   {
+    "pos": "vt.",
+    "zh": "築要塞, 以要塞防守",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fortresses｜過去分詞 fortressed"
+ },
+ "fortuitous": {
+  "ph": "/fɒ:'tju:itәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偶然的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 偶然的, 機會的",
+    "def": ""
+   }
+  ]
+ },
+ "fortuitously": {
+  "ph": "/fɔ:'tju:ɪtəslɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "偶然地, 意外地",
+    "def": ""
+   }
+  ]
+ },
+ "fortuna": {
+  "ph": "/fɔ:'tju:nә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 命運, 埋藏物",
+    "def": ""
+   }
+  ]
+ },
+ "fortunate": {
+  "ph": "/'fɒ:tʃәnit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "幸運的, 幸福的",
+    "def": "having unexpected good fortune"
+   }
+  ]
+ },
+ "fortunately": {
+  "ph": "/'fɒitʃәnitli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "幸運地, 幸虧",
+    "def": ""
+   }
+  ]
+ },
+ "fortune": {
+  "ph": "/'fɒ:tʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "財富, 運氣, 興隆, 大量財產, 好運, 命運",
+    "def": "a large amount of wealth or prosperity"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 命運, 財產, 大量財產",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fortunes"
+ },
+ "forty": {
+  "ph": "/'fɒ:ti/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "四十, 四十個",
+    "def": ""
+   }
+  ]
+ },
+ "fortyish": {
+  "ph": "/'fɔ:tiiʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "近四十歲的, 四十歲左右的",
+    "def": ""
+   }
+  ]
+ },
+ "forum": {
+  "ph": "/'fɒ:rәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "論壇, 公開討論的廣場, 法庭, 討論會",
+    "def": "a public meeting or assembly for open discussion"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 討論會, 專題討論, 公共論壇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forums"
+ },
+ "forward": {
+  "ph": "/'fɒ:wәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "向前的, 早的, 迅速的, 在前的, 進步的",
+    "def": "at or near or directed toward the front"
+   },
+   {
+    "pos": "vt.",
+    "zh": "促進...的生長, 轉寄, 運送",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "向前地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 前推, 轉信",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forwards｜過去分詞 forwarded｜過去式 forwarded｜現在分詞 forwarding｜第三人稱單數 forwards"
+ },
+ "forwarder": {
+  "ph": "/'fɔ:wәdә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 傳送器",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 轉運商, 運輸代理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 forwarders"
+ },
+ "forwarding": {
+  "ph": "/'fɔ:wәdiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 轉發",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 轉入下頁, 信件轉寄(投)發運",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 forwarding"
+ },
+ "forwards": {
+  "ph": "/'fɔ:wәdz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向前；今後",
+    "def": ""
+   }
+  ]
+ },
+ "foss": {
+  "ph": "/fɔs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壕坑, 城河",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 fosses｜過去式 fossed｜複數 fosses"
+ },
+ "fossa": {
+  "ph": "/'fɒsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窩, 凹",
+    "def": "monotypic genus of Madagascar civets closely related to palm civets"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 窩, 凹",
+    "def": ""
+   }
+  ]
+ },
+ "fosse": {
+  "ph": "/fɒs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壕, 溝渠, 護城河",
+    "def": ""
+   }
+  ]
+ },
+ "fossil": {
+  "ph": "/'fɒsәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "化石, 古物",
+    "def": "the remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated from the soil"
+   },
+   {
+    "pos": "adj.",
+    "zh": "化石的, 陳腐的, 守舊的",
+    "def": "characteristic of a fossil"
+   }
+  ],
+  "forms": "複數 fossils"
+ },
+ "fossil fuel": {
+  "ph": "/ˈfɔsl fjuəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "化石燃料",
+    "def": ""
+   }
+  ]
+ },
+ "fossilise": {
+  "ph": "/'fɔsilaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "vi. 使成化石, 變成化石, 使(思想)陳舊, 使僵化",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fossilised｜過去式 fossilised｜複數 fossilises"
+ },
+ "fossilised": {
+  "ph": "/'fɔsilaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "變成化石（等於fossilize）",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成化石（等於fossilize）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fossilised"
+ },
+ "fossilization": {
+  "ph": "/.fɒsilai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "化石化, 固定化, 使陳腐",
+    "def": "the process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone"
+   }
+  ]
+ },
+ "fossilize": {
+  "ph": "/'fɒsilaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使成化石, 使陳腐",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變成化石, 變陳腐",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fossilized｜過去分詞 fossilized｜第三人稱單數 fossilizes｜現在分詞 fossilizing"
+ },
+ "fossilized": {
+  "ph": "/'fɔsilaizd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使成化石( fossilize的過去式和過去分詞); 使陳腐; 變成化石; 變陳腐",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 fossilized｜過去分詞 fossilized"
+ },
+ "fossils": {
+  "ph": "/'fɒslz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "化石( fossil的名詞複數 ); 老頑固; 食古不化的人; 老古董（老人）",
+    "def": ""
+   }
+  ]
+ },
+ "foster": {
+  "ph": "/'fɒstә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "收養的, 養育的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "養育, 撫育, 培養, 鼓勵, 抱(希望)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fostered｜現在分詞 fostering｜過去式 fostered｜第三人稱單數 fosters"
+ },
+ "fostering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "哺育；養育（foster的現在分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fostering"
+ },
+ "fothergill": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fothergill)人名；(英、西)福瑟吉爾",
+    "def": ""
+   }
+  ]
+ },
+ "foucault": {
+  "ph": "/fu:'kəu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傅科（人名）",
+    "def": "French physicist who determined the speed of light and showed that it travels slower in water than in air; invented the Foucault pendulum and the gyroscope (181"
+   }
+  ]
+ },
+ "foucaultian": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "福柯主義者, 福柯主義追隨者",
+    "def": ""
+   }
+  ]
+ },
+ "fouchard": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fouchard)人名；(英)福查德；(法)富沙爾",
+    "def": ""
+   }
+  ]
+ },
+ "foul": {
+  "ph": "/faul/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "汙穢的, 邪惡的, 惡臭的, 骯髒的, 惡劣的, 淤塞的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "弄髒, 妨害, 汙衊, 犯規, 淤塞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "腐爛, 犯規, 纏結",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "違反規則地, 不正當地",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "犯規, 纏繞",
+    "def": "an act that violates the rules of a sport"
+   }
+  ],
+  "forms": "現在分詞 fouling｜過去分詞 fouled｜過去式 fouled｜複數 fouls｜最高級 foulest｜第三人稱單數 fouls｜比較級 fouler"
+ },
+ "foulds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(fould 的複數)  [人名] 福爾德",
+    "def": ""
+   }
+  ]
+ },
+ "fouled": {
+  "ph": "/fauld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使汙穢( foul的過去式和過去分詞 ); 弄髒; 擊球出界; （通常用廢物）弄髒",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 fouled｜過去式 fouled"
+ },
+ "fouling": {
+  "ph": "/'fauliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汙垢",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 汙染",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 fouling"
+ },
+ "foulke": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Foulke)人名；(英)福克",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 foulkes｜複數 foulkes"
+ },
+ "foully": {
+  "ph": "/'fauli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "骯髒地, 下流地, 卑鄙地, 邪惡地",
+    "def": ""
+   }
+  ]
+ },
+ "foulness": {
+  "ph": "/faʊlnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糾纏, 卑鄙",
+    "def": "disgusting wickedness and immorality"
+   }
+  ]
+ },
+ "found": {
+  "ph": "/faund/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "建立, 創立, 鑄造",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "find的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 founded｜過去式 founded｜現在分詞 founding｜第三人稱單數 founds"
+ },
+ "foundation": {
+  "ph": "/faun'deiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "基礎, 根據, 建立",
+    "def": "the basis on which something is grounded"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 地基",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foundations"
+ },
+ "foundational": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "基礎的, 基本的",
+    "def": ""
+   }
+  ]
+ },
+ "foundationalism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "基礎主義",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foundationalisms"
+ },
+ "founded": {
+  "ph": "/'faundid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有基礎的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "創辦, 成立(found的過去式和過去分詞)",
+    "def": ""
+   }
+  ]
+ },
+ "founder": {
+  "ph": "/'faundә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "創立者, 建立者",
+    "def": "a person who founds or establishes some institution"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使沉沒, 使摔倒, 弄跛, 浸水, 破壞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "沉沒, 摔到, 變跛, 倒塌, 失敗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 founders｜過去式 foundered｜過去分詞 foundered｜現在分詞 foundering｜第三人稱單數 founders"
+ },
+ "founder member": {
+  "ph": "/ˈfaʊndə ˈmembə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "創辦人；發起者",
+    "def": ""
+   }
+  ]
+ },
+ "foundering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 沉沒, 全船沉沒",
+    "def": ""
+   }
+  ]
+ },
+ "founding": {
+  "ph": "/'faundiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 鑄造",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 founding"
+ },
+ "founding father": {
+  "ph": "/ˈfaundiŋ ˈfɑ:ðə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開國者, 創立人",
+    "def": ""
+   }
+  ]
+ },
+ "foundling": {
+  "ph": "/'faundliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "棄兒, 拾來的孩兒",
+    "def": "a child who has been abandoned and whose parents are unknown"
+   }
+  ],
+  "forms": "複數 foundlings"
+ },
+ "foundress": {
+  "ph": "/'faundris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女創立者",
+    "def": "a woman founder"
+   }
+  ],
+  "forms": "複數 foundresses"
+ },
+ "foundry": {
+  "ph": "/'faundri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鑄造, 鑄造廠, 鑄造類",
+    "def": "factory where metal castings are produced"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 鑄造廠, 鑄造",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foundries"
+ },
+ "fount": {
+  "ph": "/faunt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泉, 源泉, 墨水缸, 一副鉛字",
+    "def": ""
+   }
+  ],
+  "forms": "複數 founts"
+ },
+ "fountain": {
+  "ph": "/'fauntin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水源, 源, 噴泉, 泉水, 本源",
+    "def": "a structure from which an artificially produced jet of water arises"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 泉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fountains｜過去式 fountained｜現在分詞 fountaining"
+ },
+ "fountainhead": {
+  "ph": "/'fauntinhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水源, 源, 本源",
+    "def": "the source of water from which a stream arises"
+   }
+  ]
+ },
+ "four": {
+  "ph": "/fɒ:/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "四, 四個",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 四衝程迴圈",
+    "def": ""
+   }
+  ]
+ },
+ "four-poster": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四柱大型臥床",
+    "def": "a bed with posts at the four corners that can be used to support a canopy or curtains"
+   }
+  ],
+  "forms": "複數 four-posters"
+ },
+ "fourfold": {
+  "ph": "/'fɒ:fәuld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "四重的, 四倍的, 四壘的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "四倍, 四重",
+    "def": ""
+   }
+  ]
+ },
+ "fourier": {
+  "ph": "/'furiei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傅立葉（姓氏）；傅立葉（法國空想社會主義者, 社會改革家）",
+    "def": "French mathematician who developed Fourier analysis and studied the conduction of heat (1768-1830)"
+   }
+  ],
+  "forms": "複數 fouriers"
+ },
+ "fournier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fournier)人名；(西)福涅爾；(英)福尼爾；(法)富尼耶",
+    "def": ""
+   }
+  ]
+ },
+ "fourpence": {
+  "ph": "/'fɒ:pәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四便士, 四便士銀幣",
+    "def": "a former English silver coin worth four pennies"
+   }
+  ]
+ },
+ "fours": {
+  "ph": "/fɔ:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙打比賽；燈籠褲；四人舞；四人單槳無舵手（four的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "foursome": {
+  "ph": "/'fɒ:sәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四人的一組, 四人對抗賽",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "四人做的, 由四組成的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foursomes"
+ },
+ "foursquare": {
+  "ph": "/'fɒ:'skwєә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "正方形的, 直爽的, 堅定的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "正方形地, 正直地",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "正方形, 四角",
+    "def": ""
+   }
+  ]
+ },
+ "fourteen": {
+  "ph": "/'fɒ:'ti:n/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "十四, 十四個",
+    "def": ""
+   }
+  ]
+ },
+ "fourteenth": {
+  "ph": "/'fɒ:'ti:nθ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第十四, 十四分之一",
+    "def": ""
+   }
+  ]
+ },
+ "fourth": {
+  "ph": "/fɒ:θ/",
+  "senses": [
+   {
+    "pos": "num.",
+    "zh": "第四, 四分之一",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fourths"
+ },
+ "fourthly": {
+  "ph": "/'fɔ:θli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "第四(列舉條目等時用)",
+    "def": ""
+   }
+  ]
+ },
+ "fourths": {
+  "ph": "/fɔ:θs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "第四( fourth的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "fovea": {
+  "ph": "/'fәuviә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "窩, 凹",
+    "def": "area consisting of a small depression in the retina containing cones and where vision is most acute"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 凹",
+    "def": ""
+   }
+  ]
+ },
+ "fowey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安東尼·休伊什",
+    "def": ""
+   }
+  ]
+ },
+ "fowl": {
+  "ph": "/faul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鳥, 飛禽, 家禽",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "打鳥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fowls｜現在分詞 fowling｜過去式 fowled｜第三人稱單數 fowls｜過去分詞 fowled"
+ },
+ "fowle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Fowle)人名；(英)福爾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fowles"
+ },
+ "fowler": {
+  "ph": "/'faulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捕鳥者",
+    "def": "English lexicographer who wrote a well-known book on English usage (1858-1933)"
+   }
+  ],
+  "forms": "複數 fowlers"
+ },
+ "fowling": {
+  "ph": "/'fauliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "捕鳥, 打鳥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 fowlings"
+ },
+ "fox": {
+  "ph": "/fɒks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狐狸, 狡猾的人",
+    "def": "alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs"
+   },
+   {
+    "pos": "vi.",
+    "zh": "奸狡地行動, (書頁)生斑, 變酸",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "欺騙, 使變酸, 為(鞋等)換面, 使生黃斑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foxes｜過去分詞 foxed｜過去式 foxed｜現在分詞 foxing｜第三人稱單數 foxes"
+ },
+ "foxglove": {
+  "ph": "/'fɒksglʌv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毛地黃",
+    "def": "any of several plants of the genus Digitalis"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 洋地黃; 毛地黃",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foxgloves"
+ },
+ "foxhole": {
+  "ph": "/'fɒkshәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "散兵坑",
+    "def": "a small dugout with a pit for individual shelter against enemy fire"
+   }
+  ],
+  "forms": "複數 foxholes"
+ },
+ "foxhound": {
+  "ph": "/'fɒkshaund/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獵狐狗",
+    "def": "medium-sized glossy-coated hounds developed for hunting foxes"
+   }
+  ],
+  "forms": "複數 foxhounds｜第三人稱單數 foxhounds"
+ },
+ "foxtail": {
+  "ph": "/'fɒksteil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狐尾, 狐尾草",
+    "def": "grasses of the genera Alopecurus and Setaria having dense silky or bristly brushlike flowering spikes"
+   }
+  ]
+ },
+ "foxton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "福克斯頓",
+    "def": ""
+   }
+  ]
+ },
+ "foxtrot": {
+  "ph": "/'fɔkstrɔt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "狐步舞",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "跳狐步舞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 foxtrotting｜複數 foxtrots"
+ },
+ "foxy": {
+  "ph": "/'fɒksi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "如狐的, 狡猾的, 赤褐色的",
+    "def": ""
+   }
+  ]
+ },
+ "foy": {
+  "ph": "/fɒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "餞行宴會",
+    "def": "Faith; allegiance; fealty."
+   }
+  ],
+  "forms": "複數 foys"
+ },
+ "foyer": {
+  "ph": "/'fɔiei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "門廳, 入門大堂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 foyers"
+ },
+ "foyle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Foyle)人名；(英)福伊爾",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "ns": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 毫微秒, 納秒",
+    "def": ""
+   }
+  ]
+ },
+ "nsa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國國家安全域性（National Security Agency）；美國國家標準協會（National Standards Association）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 nsas"
+ },
+ "nsaid": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "非甾體抗炎藥（nonsteroidal anti-inflammatory drug）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 nsaid"
+ },
+ "nsc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "國家安全委員會",
+    "def": ""
+   }
+  ]
+ },
+ "nsf": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "國家科學基金會",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 美國國家科學基金會",
+    "def": ""
+   }
+  ]
+ },
+ "nspcc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "英國全國防止虐待兒童學會（National Society for the Prevention of Cruelty to Children）",
+    "def": ""
+   }
+  ]
+ },
+ "nsw": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（澳大利亞）新南威爾士（New South Wales）",
+    "def": ""
+   }
+  ]
+ }
+}

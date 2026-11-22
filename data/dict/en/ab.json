@@ -1,0 +1,2669 @@
+{
+ "a bit": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "一點兒；有一點兒",
+    "def": ""
+   }
+  ]
+ },
+ "ab": {
+  "ph": "/æb/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "從, 自",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 地址匯流排",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 abbing"
+ },
+ "aba": {
+  "ph": "/'ɑ:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寬大無袖長袍, 駝毛織物",
+    "def": "a loose sleeveless outer garment made from aba cloth; worn by Arabs"
+   }
+  ],
+  "forms": "複數 abas"
+ },
+ "ababa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Ababa)人名；(塞)阿巴巴",
+    "def": ""
+   }
+  ]
+ },
+ "aback": {
+  "ph": "/ә'bæk/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向後, 朝後, 突然, 船頂風地",
+    "def": ""
+   }
+  ]
+ },
+ "abacus": {
+  "ph": "/'æbәkәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "算盤",
+    "def": "a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 算盤",
+    "def": ""
+   }
+  ]
+ },
+ "abalone": {
+  "ph": "/æbә'lәuni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鮑",
+    "def": "any of various large edible marine gastropods of the genus Haliotis having an ear-shaped shell with pearly interior"
+   }
+  ],
+  "forms": "複數 abalones"
+ },
+ "abandon": {
+  "ph": "/ә'bændәn/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "放棄, 拋棄, 遺棄, 使屈從, 沉溺, 放縱",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "放任, 無拘束, 狂熱",
+    "def": "the trait of lacking restraint or control; reckless freedom from inhibition or worry"
+   }
+  ],
+  "forms": "過去分詞 abandoned｜過去式 abandoned｜現在分詞 abandoning｜第三人稱單數 abandons"
+ },
+ "abandoned": {
+  "ph": "/ә'bændәnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "被拋棄的, 無約束的, 恣意放蕩的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 abandoned｜過去分詞 abandoned"
+ },
+ "abandoning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "放棄；屈服（abandon的現在分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "abandonment": {
+  "ph": "/ә'bændәmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放棄, 拋棄, 放縱",
+    "def": "the act of giving something up"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 委付, 廢棄, 放棄(採礦權)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abandonments"
+ },
+ "abase": {
+  "ph": "/ә'beis/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "降低...的地位, 降低...的品格, 貶抑, 使謙卑",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 abasing｜過去式 abased｜第三人稱單數 abases｜過去分詞 abased"
+ },
+ "abasement": {
+  "ph": "/ә'beismәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貶抑, 屈辱, 謙卑",
+    "def": "a low or downcast state"
+   }
+  ]
+ },
+ "abash": {
+  "ph": "/ә'bæʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使不安, 使羞愧, 使困窘",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abashed｜現在分詞 abashing｜過去式 abashed｜第三人稱單數 abashes"
+ },
+ "abashed": {
+  "ph": "/ә'bæʃd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不安的, 窘迫的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abashed"
+ },
+ "abate": {
+  "ph": "/ә'beit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "減少, 減輕, 減弱, 廢除, 打折扣",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "減輕, 減弱, 減少, 失效, 被廢除",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abated｜現在分詞 abating｜過去式 abated｜第三人稱單數 abates"
+ },
+ "abatement": {
+  "ph": "/ә'beitmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "減少, 減輕, 緩和, 折扣, 撤消, 中止",
+    "def": "the act of abating"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 廢料; 失效",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abatements"
+ },
+ "abattoir": {
+  "ph": "/'æbәtwɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屠場, 角鬥場",
+    "def": "a building where animals are butchered"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 屠宰場",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abattoirs"
+ },
+ "abaya": {
+  "ph": "/ә'beijә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "毛織物, (阿拉伯式)長袍",
+    "def": "(Arabic) a loose black robe from head to toe; traditionally worn by Muslim women"
+   }
+  ],
+  "forms": "複數 abayas"
+ },
+ "abb": {
+  "ph": "/æb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "等外羊毛, 緯紗",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 積木塊陣列",
+    "def": ""
+   }
+  ]
+ },
+ "abba": {
+  "ph": "/'æbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿爸父(耶穌對上帝的尊稱)",
+    "def": "Father; religious superior; -- in the Syriac, Coptic, and"
+   }
+  ]
+ },
+ "abbas": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿巴斯（地名, 伊朗最大港口）；阿巴斯王朝",
+    "def": ""
+   }
+  ]
+ },
+ "abbe": {
+  "ph": "/'æbei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男修道院院長, 神父",
+    "def": "a French abbot"
+   }
+  ],
+  "forms": "第三人稱單數 abbes"
+ },
+ "abbess": {
+  "ph": "/'æbes/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女修道院院長",
+    "def": "the superior of a group of nuns"
+   }
+  ],
+  "forms": "複數 abbesses"
+ },
+ "abbeville": {
+  "ph": "/'æbivil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿布維爾（法國一城市）",
+    "def": ""
+   }
+  ]
+ },
+ "abbey": {
+  "ph": "/'æbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大修道院",
+    "def": "a church associated with a monastery or convent"
+   }
+  ],
+  "forms": "複數 abbeys"
+ },
+ "abbot": {
+  "ph": "/'æbәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男修道院院長, 大寺院男住持",
+    "def": "the superior of an abbey of monks"
+   }
+  ],
+  "forms": "複數 abbots"
+ },
+ "abbott": {
+  "ph": "/'æbət/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿爾伯特（人名）；雅培（公司名）",
+    "def": ""
+   }
+  ]
+ },
+ "abbreviate": {
+  "ph": "/ә'bri:vieit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "縮寫, 使...簡略, 縮短",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "使用縮寫詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abbreviated｜現在分詞 abbreviating｜過去式 abbreviated｜第三人稱單數 abbreviates"
+ },
+ "abbreviated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 縮寫的, 短縮的, 簡寫的, 簡略的, 縮略的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 減短的, 縮減的, 省略的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abbreviated"
+ },
+ "abbreviation": {
+  "ph": "/ә.bri:vi'eiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縮寫詞, 縮寫, 縮短, 節略",
+    "def": "a shortened form of a word or phrase"
+   }
+  ],
+  "forms": "複數 abbreviations"
+ },
+ "abby": {
+  "ph": "/'æbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾比（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "abc": {
+  "ph": "/'eibi:'si:/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "預定章程, 美國廣播公司, 澳大利亞廣播公司, 字母表, 基礎知識",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 記帳預算計價系統, 通用外掛板計算機, 美國廣播公司, 自動編碼系統",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abcs"
+ },
+ "abd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "[俚]準博士（All But Dissertation）",
+    "def": ""
+   }
+  ]
+ },
+ "abdallah": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Abdallah)人名；(坦桑、阿拉伯)阿卜杜拉",
+    "def": ""
+   }
+  ]
+ },
+ "abdel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Abdel)人名；(阿拉伯、哈薩、塔吉、吉爾、烏茲、阿塞、土庫、乍、塞)阿卜杜勒",
+    "def": ""
+   }
+  ]
+ },
+ "abdicate": {
+  "ph": "/'æbdikeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "正式放棄",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "退位, 退出, 辭職",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 abdicated｜過去分詞 abdicated｜現在分詞 abdicating｜第三人稱單數 abdicates｜複數 abdicates"
+ },
+ "abdication": {
+  "ph": "/.æbdi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遜位, 棄權, 辭職",
+    "def": "a formal resignation and renunciation of powers"
+   }
+  ]
+ },
+ "abdomen": {
+  "ph": "/'æbdәmen/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腹部",
+    "def": "the region of the body of a vertebrate between the thorax and the pelvis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腹[部]",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abdomens"
+ },
+ "abdominal": {
+  "ph": "/æb'dɒminәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腹部的, 有腹鰭的",
+    "def": "of or relating to or near the abdomen"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腹[部]的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abdominals"
+ },
+ "abduct": {
+  "ph": "/æb'dʌkt/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "誘拐, 綁架, 使外展",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外展, 展",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abducted｜過去式 abducted｜現在分詞 abducting｜第三人稱單數 abducts"
+ },
+ "abducted": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 誘拐",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abducted"
+ },
+ "abductee": {
+  "ph": "/,æbdʌk'ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被綁架者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abductees"
+ },
+ "abduction": {
+  "ph": "/æb'dʌkʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誘拐, 綁架, 外展",
+    "def": "the criminal act of capturing and carrying away by force a family member; if a man's wife is abducted it is a crime against the family relationship and against "
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 外展, 展",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abductions"
+ },
+ "abductor": {
+  "ph": "/æb'dʌktә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誘拐者, 綁架者, 外展肌",
+    "def": "a muscle that draws a body part away from the median line"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 展肌, 外展肌",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abductors"
+ },
+ "abdul": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿卜杜勒（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "abdullah": {
+  "ph": "/,æb'dʌlə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿布杜拉（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "abe": {
+  "ph": "/eib/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞伯（男子名, 等於Abraham）",
+    "def": ""
+   }
+  ]
+ },
+ "abed": {
+  "ph": "/ә'bed/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在床上",
+    "def": ""
+   }
+  ]
+ },
+ "abel": {
+  "ph": "/'eibәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞伯（亞當和夏娃的次子）；艾貝爾（男子名）",
+    "def": "Norwegian mathematician (1802-1829)"
+   }
+  ]
+ },
+ "abelard": {
+  "ph": "/'æbə,la:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿伯拉德（法國哲學家、神學家）",
+    "def": "French philosopher and theologian; lover of Heloise (1079-1142)"
+   }
+  ]
+ },
+ "abercrombie": {
+  "ph": "/'æbəkrʌmbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿伯克龍比（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "aberdare": {
+  "ph": "/,æbə'dεə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞伯達；阿伯德爾（英國威爾士南部城鎮）",
+    "def": "a mining town in southern Wales"
+   }
+  ]
+ },
+ "aberdeen": {
+  "ph": "/,æbә'di:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞伯丁（英國蘇格蘭一郡 ）；蘇格蘭粗毛獵狐狗（等於Aberdeenterrier）",
+    "def": "a town in western Washington"
+   }
+  ]
+ },
+ "aberdeenshire": {
+  "ph": "/,æbә'di:nʃә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿伯丁郡[英國蘇格蘭原郡名]",
+    "def": ""
+   }
+  ]
+ },
+ "abergavenny": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿伯加文尼（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "abernethy": {
+  "ph": "/'æbәneθi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硬餅乾",
+    "def": ""
+   }
+  ]
+ },
+ "aberrant": {
+  "ph": "/æ'berәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偏離正路的, 偏離常軌的, 畸變的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 異常的",
+    "def": ""
+   }
+  ]
+ },
+ "aberration": {
+  "ph": "/æbә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "離開正路, 偏離, 畸變, 光行差, 心理失常, 色差",
+    "def": "a disorder in one's mental state"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 光行差; 像差",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aberrations"
+ },
+ "aberrational": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "離開軌道的, 越軌的, 脫離常規的",
+    "def": ""
+   }
+  ]
+ },
+ "aberystwyth": {
+  "ph": "/,æbə'ristwiθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿伯里斯特威斯（英國威爾士西部自治市）",
+    "def": ""
+   }
+  ]
+ },
+ "abet": {
+  "ph": "/ә'bet/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "教唆, 煽動, 慫恿, 幫助, 支援",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 abetted｜現在分詞 abetting｜過去分詞 abetted｜第三人稱單數 abets"
+ },
+ "abeyance": {
+  "ph": "/ә'beiәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "中止, 暫擱, 停止, 歸屬待定",
+    "def": "temporary cessation or suspension"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 潛態",
+    "def": ""
+   }
+  ]
+ },
+ "abhor": {
+  "ph": "/әb'hɒ:/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "憎惡, 痛恨, 迴避, 拒絕",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 abhorred｜第三人稱單數 abhors｜過去分詞 abhorred｜現在分詞 abhorring"
+ },
+ "abhorrence": {
+  "ph": "/әb'hɒrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厭惡, 痛恨",
+    "def": "hate coupled with disgust"
+   }
+  ],
+  "forms": "複數 abhorrences"
+ },
+ "abhorrent": {
+  "ph": "/әb'hɒrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人憎恨的, 可惡的, 厭惡的, 相牴觸的, 不一致的",
+    "def": ""
+   }
+  ]
+ },
+ "abi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "聯合商業情報（Allied Business Intelligence）；英國保險業協會（The Association of British Insurers）；踝肱指數（Ankle Brachial Index）；應用系統二進位制介面（application binary interfaces）",
+    "def": ""
+   }
+  ]
+ },
+ "abide": {
+  "ph": "/ә'baid/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "停留, 遵守, 居留, 繼續下去",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "忍受, 經受, 屈從於",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 abiding｜第三人稱單數 abides｜過去式 abided｜過去分詞 abided"
+ },
+ "abiding": {
+  "ph": "/ә'baidiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "永久的, 持久的, 不變的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 abiding"
+ },
+ "abidjan": {
+  "ph": "/,æbi'dʒɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿比讓（象牙海岸首都）",
+    "def": "city recognized by the United States as the capital of the Ivory Coast; largest city of the Ivory Coast"
+   }
+  ]
+ },
+ "abie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Abie)人名；(以)阿比",
+    "def": ""
+   }
+  ]
+ },
+ "abigail": {
+  "ph": "/'æbigeil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貼身使女",
+    "def": "A lady's waiting-maid."
+   }
+  ],
+  "forms": "複數 abigails"
+ },
+ "ability": {
+  "ph": "/ә'biliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "能力, 才幹",
+    "def": "the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 能力, 才能",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abilities"
+ },
+ "abingdon": {
+  "ph": "/'æbiŋdən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿賓頓（位於泰晤士河畔的一個古老集鎮）",
+    "def": ""
+   }
+  ]
+ },
+ "abiotic": {
+  "ph": "/.eibai'ɒtik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無生命的, 非生物的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無生命的; 生活力缺失的",
+    "def": ""
+   }
+  ]
+ },
+ "abject": {
+  "ph": "/'æbdʒekt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絕望無助的, 可憐的, 糟透的, 卑鄙的, 自卑的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 卑鄙的, 卑下的, 可憐的",
+    "def": ""
+   }
+  ]
+ },
+ "abjection": {
+  "ph": "/æb'dʒekʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卑鄙, 落魄, 拋棄, 驅逐",
+    "def": ""
+   }
+  ]
+ },
+ "abjectly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "(境況)低賤, 悽慘, 很可憐, 可鄙, 不自愛, 卑鄙, 卑下",
+    "def": ""
+   }
+  ]
+ },
+ "abjure": {
+  "ph": "/әb'dʒuә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "發誓斷絕, 公開放棄",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 誓絕, 棄絕, 公開放棄",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abjured｜現在分詞 abjuring｜過去式 abjured｜複數 abjures｜第三人稱單數 abjures"
+ },
+ "abkhazia": {
+  "ph": "/æb'keiʒə, -zi:ə, -'ka:-, a:b-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿布哈茲（喬治亞的一個自治地區）",
+    "def": ""
+   }
+  ]
+ },
+ "abl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 結構框圖語言",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 ablest｜比較級 abler"
+ },
+ "ablate": {
+  "ph": "/æb'leit/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "切除, 腐蝕, 溶化掉, 燒蝕",
+    "def": "wear away through erosion or vaporization"
+   }
+  ],
+  "forms": "過去分詞 ablated｜過去式 ablated｜複數 ablates｜現在分詞 ablating｜第三人稱單數 ablates"
+ },
+ "ablation": {
+  "ph": "/æb'leiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腐蝕, 切除, 燒蝕",
+    "def": "surgical removal of a body part or tissue"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 燒蝕",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ablations"
+ },
+ "ablative": {
+  "ph": "/'æblәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "奪格的",
+    "def": "relating to the ablative case"
+   },
+   {
+    "pos": "n.",
+    "zh": "奪格",
+    "def": "the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb"
+   }
+  ]
+ },
+ "ablaze": {
+  "ph": "/ә'bleiz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "著火的, 閃亮的, 激昂的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "著火, 閃耀",
+    "def": ""
+   }
+  ]
+ },
+ "able": {
+  "ph": "/'eibl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能幹的, 能夠的",
+    "def": "(usually followed by `to') having the necessary means or skill or know-how or authority to do something"
+   }
+  ]
+ },
+ "ablution": {
+  "ph": "/ә'blu:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洗澡, 洗禮, 齋戒沐浴",
+    "def": "the ritual washing of a priest's hands or of sacred vessels"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 洗淨; 洗淨液",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ablutions"
+ },
+ "ably": {
+  "ph": "/'eibli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "能幹地, 精明強幹地",
+    "def": ""
+   }
+  ]
+ },
+ "abm": {
+  "ph": "/ei bi:'em/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "反彈道導彈",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 非同步平衡方式",
+    "def": ""
+   }
+  ]
+ },
+ "abnegate": {
+  "ph": "/'æbnigeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "放棄, 捨棄, 剋制(慾望)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abnegated｜現在分詞 abnegating｜過去式 abnegated｜第三人稱單數 abnegates"
+ },
+ "abnegation": {
+  "ph": "/.æbni'geiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "放棄, 捨棄, 剋制",
+    "def": "the denial and rejection of a doctrine or belief"
+   }
+  ]
+ },
+ "abnormal": {
+  "ph": "/æb'nɒ:mәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "反常的, 不規則的, 變態的, 畸形的",
+    "def": "not normal; not typical or usual or regular or conforming to a norm"
+   },
+   {
+    "pos": "n.",
+    "zh": "畸形的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abnormals"
+ },
+ "abnormality": {
+  "ph": "/.æbnɒ:'mæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "反常, 畸形, 變態",
+    "def": "an abnormal physical condition resulting from defective genes or developmental deficiencies"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 反常; 非正態性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abnormalities"
+ },
+ "abnormally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不正常, 異常, (貶)不同尋常, 不規則, 變態, 反常",
+    "def": ""
+   }
+  ]
+ },
+ "abo": {
+  "ph": "/'æbәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] ABO分型法(血型)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abos"
+ },
+ "aboard": {
+  "ph": "/ә'bɒ:d/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在船上, 在火車上, 在飛機上",
+    "def": ""
+   },
+   {
+    "pos": "prep.",
+    "zh": "在...之上",
+    "def": ""
+   }
+  ]
+ },
+ "abode": {
+  "ph": "/ә'bәud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "住所, 住處",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "abide的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abodes"
+ },
+ "abolish": {
+  "ph": "/ә'bɒliʃ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "廢止, 革除, 消滅",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 廢除, 取消, 裁撤",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abolished｜現在分詞 abolishing｜過去式 abolished｜第三人稱單數 abolishes"
+ },
+ "abolishment": {
+  "ph": "/ә'bɒliʃmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廢止, 革除, 消滅",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 廢止, 廢除, 取消",
+    "def": ""
+   }
+  ]
+ },
+ "abolition": {
+  "ph": "/.æbәu'liʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廢除, 廢奴運動",
+    "def": "the act of abolishing a system or practice or institution (especially abolishing slavery)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 禁止, 消失",
+    "def": ""
+   }
+  ]
+ },
+ "abolitionism": {
+  "ph": "/.æbәu'liʃәnizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廢除主義, 廢奴主義",
+    "def": "the doctrine that calls for the abolition of slavery"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 活體解剖禁止論",
+    "def": ""
+   }
+  ]
+ },
+ "abolitionist": {
+  "ph": "/.æbәu'liʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廢除主義者, 廢奴主義者",
+    "def": "a reformer who favors abolishing slavery"
+   }
+  ],
+  "forms": "複數 abolitionists"
+ },
+ "abominable": {
+  "ph": "/ә'bɒminәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "討厭的, 令人憎惡的",
+    "def": ""
+   }
+  ]
+ },
+ "abominably": {
+  "ph": "/ә'bɒminәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可惡地, 討厭地, 極端地",
+    "def": ""
+   }
+  ]
+ },
+ "abominate": {
+  "ph": "/ә'bɒmineit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "厭惡, 憎惡",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 abominated｜第三人稱單數 abominates｜現在分詞 abominating｜過去分詞 abominated"
+ },
+ "abomination": {
+  "ph": "/ә.bɒmi'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厭惡, 痛惡, 令人厭惡的事物",
+    "def": "a person who is loathsome or disgusting"
+   }
+  ],
+  "forms": "複數 abominations"
+ },
+ "aboriginal": {
+  "ph": "/.æbә'ridʒәnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "原始的, 土著的",
+    "def": "of or pertaining to members of the indigenous people of Australia"
+   },
+   {
+    "pos": "n.",
+    "zh": "土著居民, 土生生物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aboriginals"
+ },
+ "aboriginals": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土著居民（aboriginal複數）",
+    "def": ""
+   }
+  ]
+ },
+ "aborigine": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土著, 土著居民, 土人",
+    "def": "a dark-skinned member of a race of people living in Australia when Europeans arrived"
+   }
+  ],
+  "forms": "複數 aborigines"
+ },
+ "abort": {
+  "ph": "/ә'bɒ:t/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "流產, 中途失敗",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使流產, 使失敗, 使中止",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 aborted｜過去式 aborted｜現在分詞 aborting｜第三人稱單數 aborts"
+ },
+ "aborted": {
+  "ph": "/ә'bɒ:tid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "流產的, 中途失敗的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aborted"
+ },
+ "abortifacient": {
+  "ph": "/ә.bɒ:ti'feiʃәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "墮胎藥",
+    "def": "a drug (or other chemical agent) that causes abortion"
+   },
+   {
+    "pos": "adj.",
+    "zh": "墮胎的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abortifacients"
+ },
+ "abortion": {
+  "ph": "/ә'bɒ:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流產, 墮胎, 失敗, 夭折, 中止",
+    "def": "termination of pregnancy"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 流產, 小產; 頓挫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abortions"
+ },
+ "abortionist": {
+  "ph": "/ә'bɒ:ʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "為人墮胎者",
+    "def": "a person (who should be a doctor) who terminates pregnancies"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 墮胎者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abortionists"
+ },
+ "abortive": {
+  "ph": "/ә'bɒ:tiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "流產的, 墮胎的, 失敗的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 流產的; 頓挫的",
+    "def": ""
+   }
+  ]
+ },
+ "abound": {
+  "ph": "/ә'baund/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "大量存在, 富於, 充滿",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 abounds｜過去式 abounded｜現在分詞 abounding｜過去分詞 abounded"
+ },
+ "about": {
+  "ph": "/ә'baut/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在...周圍, 大約, 有關, 關於",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "大約, 四處, 在附近, 周圍",
+    "def": ""
+   }
+  ]
+ },
+ "above": {
+  "ph": "/ә'bʌv/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在上方, 超出",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在上面",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "上述的, 上面的",
+    "def": ""
+   }
+  ]
+ },
+ "aboveboard": {
+  "ph": "/ә.bʌv'bɒ:d/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "光明正大地, 率直地",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "光明正大的, 率直的",
+    "def": ""
+   }
+  ]
+ },
+ "abracadabra": {
+  "ph": "/.æbrәkә'dæbrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咒語, 胡言亂語",
+    "def": "gibberish and nonsense"
+   }
+  ]
+ },
+ "abrade": {
+  "ph": "/ә'breid/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "擦傷, 磨損, 磨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 擦除, 擦破; 磨損, 磨除",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abraded｜過去式 abraded｜現在分詞 abrading｜第三人稱單數 abrades"
+ },
+ "abraded": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "刮擦的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "磨損；擦掉；擦傷（abrade的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abraded"
+ },
+ "abraham": {
+  "ph": "/'eibrәhæm, -hәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞伯拉罕（男子名）",
+    "def": "the first of the Old Testament patriarchs and the father of Isaac; according to Genesis, God promised to give Abraham's family (the Hebrews) the land of Canaan "
+   }
+  ]
+ },
+ "abrahamic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "亞伯拉罕（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "abrahams": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Abrahams)人名；(英、法)亞伯拉罕斯；(西)阿夫拉姆斯",
+    "def": ""
+   }
+  ]
+ },
+ "abram": {
+  "ph": "/'eibrәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾布拉姆（男子名, 等於Abraham）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abrams｜第三人稱單數 abrams"
+ },
+ "abrams": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾布拉姆斯（公司名稱）",
+    "def": ""
+   }
+  ]
+ },
+ "abrasion": {
+  "ph": "/ә'breiʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磨擦, 磨損, 磨損處",
+    "def": "an abraded area where the skin is torn or worn off"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 磨耗; 磨蝕",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abrasions"
+ },
+ "abrasive": {
+  "ph": "/ә'breisiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "研磨料",
+    "def": "a substance that abrades or wears down"
+   },
+   {
+    "pos": "adj.",
+    "zh": "有研磨作用的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abrasives"
+ },
+ "abrasively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有磨蝕作用, 使人厭煩, 粗魯",
+    "def": ""
+   }
+  ]
+ },
+ "abrasiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 磨損性",
+    "def": ""
+   }
+  ]
+ },
+ "abreast": {
+  "ph": "/ә'brest/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "並肩地, 並列地",
+    "def": ""
+   }
+  ]
+ },
+ "abridge": {
+  "ph": "/ә'bridʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "縮短, 刪節, 減少, 剝奪",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 剝奪; 節略",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abridged｜現在分詞 abridging｜過去式 abridged｜第三人稱單數 abridges"
+ },
+ "abridged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "刪節的；削減的",
+    "def": "(used of texts) shortened by condensing or rewriting"
+   }
+  ],
+  "forms": "過去式 abridged｜過去分詞 abridged"
+ },
+ "abridgement": {
+  "ph": "/ә'bridʒmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節本, 節略, (權利/自由的)剝奪",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 節略, 縮寫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abridgements"
+ },
+ "abridgment": {
+  "ph": "/ә'bridʒmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刪節, 刪節本, 縮短, 限制",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abridgments"
+ },
+ "abroad": {
+  "ph": "/ә'brɒ:d/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "往國外, 到室外, 到處",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "往國外的, 在室外的, 廣泛四散的",
+    "def": ""
+   }
+  ]
+ },
+ "abrogate": {
+  "ph": "/'æbrәgeit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "廢除, 取消",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 取消, 廢除, 不生效(的法令)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abrogated｜現在分詞 abrogating｜過去式 abrogated｜第三人稱單數 abrogates"
+ },
+ "abrogation": {
+  "ph": "/.æbrәu'geiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廢除, 取消",
+    "def": "the act of abrogating; an official or legal cancellation"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 廢除, 取消",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abrogations"
+ },
+ "abrupt": {
+  "ph": "/ә'brʌpt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "突然的, 唐突的, 陡峭的, 不連貫的",
+    "def": ""
+   }
+  ]
+ },
+ "abruptly": {
+  "ph": "/ә'brʌptli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "突然地, 唐突地",
+    "def": ""
+   }
+  ]
+ },
+ "abruptness": {
+  "ph": "/ә'brʌptnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突然, 唐突",
+    "def": "an abrupt discourteous manner"
+   }
+  ]
+ },
+ "abs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 絕對, 美國標準局",
+    "def": ""
+   }
+  ]
+ },
+ "absalom": {
+  "ph": "/'æbsәlәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "押沙龍(《 聖經 》中 人物, 大衛王之第三子, 後因背叛其父被殺)",
+    "def": ""
+   }
+  ]
+ },
+ "abscess": {
+  "ph": "/'æbsis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膿腫",
+    "def": "symptom consisting of a localized collection of pus surrounded by inflamed tissue"
+   },
+   {
+    "pos": "vi.",
+    "zh": "形成膿腫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abscesses"
+ },
+ "abscessed": {
+  "ph": "/'æbsist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有膿腫的",
+    "def": ""
+   }
+  ]
+ },
+ "abscission": {
+  "ph": "/æb'siʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "切斷, 除去",
+    "def": "shedding of flowers and leaves and fruit following formation of scar tissue in a plant"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 切除",
+    "def": ""
+   }
+  ]
+ },
+ "abscond": {
+  "ph": "/әb'skɒnd/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "潛逃, 逃匿",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] (為躲避罪責,債務等)潛逃",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 absconded｜過去分詞 absconded｜現在分詞 absconding｜第三人稱單數 absconds｜複數 absconds"
+ },
+ "abseil": {
+  "ph": "/'ɑ:bzail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(登山運動中的)沿繩滑下法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 abseiling｜過去式 abseiled｜複數 abseils｜過去分詞 abseiled｜第三人稱單數 abseils"
+ },
+ "absence": {
+  "ph": "/'æbsәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "缺席, 缺乏, 沒有",
+    "def": "the state of being absent"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 失神",
+    "def": ""
+   }
+  ],
+  "forms": "複數 absences"
+ },
+ "absent": {
+  "ph": "/'æbsәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "缺席的, 不在的, 缺乏的, 漫不經心的",
+    "def": "not being in a specified place"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使缺席",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 absented｜現在分詞 absenting｜過去分詞 absented｜第三人稱單數 absents"
+ },
+ "absentee": {
+  "ph": "/.æbsәn'ti:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "缺席者, 不在者",
+    "def": "one that is absent or not in residence"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 缺勤者, 缺席者, 未到工者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 absentees"
+ },
+ "absenteeism": {
+  "ph": "/æbsәn'ti:iz(ә)m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "經常無故缺席, 曠職, 曠工, 曠課",
+    "def": "habitual absence from work"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 有計劃的怠工, 曠工",
+    "def": ""
+   }
+  ]
+ },
+ "absently": {
+  "ph": "/'æbsәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "心不在焉地",
+    "def": ""
+   }
+  ]
+ },
+ "absentmindedly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "茫然地；精神不集中地",
+    "def": ""
+   }
+  ]
+ },
+ "absinthe": {
+  "ph": "/'æbsinθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾酒",
+    "def": ""
+   }
+  ]
+ },
+ "absolute": {
+  "ph": "/'æbsәlu:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "絕對的, 專制的, 完全的, 獨立的",
+    "def": "perfect or complete or pure"
+   },
+   {
+    "pos": "n.",
+    "zh": "絕對事物",
+    "def": "something that is conceived or that exists independently and not in relation to other things; something that does not depend on anything else and is beyond huma"
+   }
+  ],
+  "forms": "複數 absolutes"
+ },
+ "absolutely": {
+  "ph": "/'æbsәlu:tli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "完全地, 絕對地, 確確實實地",
+    "def": ""
+   }
+  ]
+ },
+ "absoluteness": {
+  "ph": "/'æbsәlu:tnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "絕對, 完全, 無限制",
+    "def": "the quality of being absolute"
+   }
+  ]
+ },
+ "absolution": {
+  "ph": "/æbsә'lu:ʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "免罪, 赦免, 免除",
+    "def": "the condition of being formally forgiven by a priest in the sacrament of penance"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 免罰, 赦免, 免除",
+    "def": ""
+   }
+  ]
+ },
+ "absolutism": {
+  "ph": "/'æbsәlu:tizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "專制主義, 專制政體論, 絕對主義",
+    "def": "dominance through threat of punishment and violence"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 專制主義, 專制政治論, 絕對主義",
+    "def": ""
+   }
+  ],
+  "forms": "複數 absolutisms"
+ },
+ "absolutist": {
+  "ph": "/'æbsәlu:tist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "專制主義者, 專制政體者, 絕對主義者",
+    "def": "one who advocates absolutism"
+   }
+  ],
+  "forms": "複數 absolutists"
+ },
+ "absolve": {
+  "ph": "/әb'zɒlv/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "宣告...無罪, 赦免, 免除",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 免償(債務), 解除",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 absolved｜過去式 absolved｜現在分詞 absolving｜第三人稱單數 absolves"
+ },
+ "absorb": {
+  "ph": "/әb'sɒ:b/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "吸收, 使全神貫注, 同化, 買進, 理解, 承受, 忍受, 承擔",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 吸收",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 absorbed｜過去式 absorbed｜第三人稱單數 absorbs｜現在分詞 absorbing"
+ },
+ "absorbable": {
+  "ph": "/әb'sɒ:bәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可吸收的, 容易被吸收的",
+    "def": "capable of being absorbed or taken in through the pores of a surface"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 可吸收的",
+    "def": ""
+   }
+  ]
+ },
+ "absorbance": {
+  "ph": "/әb'sɒ:bәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸光率",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 吸光度; 吸收度",
+    "def": ""
+   }
+  ],
+  "forms": "複數 absorbances"
+ },
+ "absorbed": {
+  "ph": "/әb'sɒ:bd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "全神貫注的, 一心一意的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 被吸收的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 absorbed｜過去式 absorbed"
+ },
+ "absorbency": {
+  "ph": "/әb'sɒ:bәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸收性, 吸光度",
+    "def": "the property of being absorbent"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 吸墨性",
+    "def": ""
+   }
+  ]
+ },
+ "absorbent": {
+  "ph": "/әb'sɒ:bәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "能吸收的",
+    "def": "having power or capacity or tendency to absorb or soak up something (liquids or energy etc.)"
+   },
+   {
+    "pos": "n.",
+    "zh": "吸收劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 absorbents"
+ },
+ "absorber": {
+  "ph": "/әb'sɔ:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸收器",
+    "def": "(physics) material in a nuclear reactor that absorbs radiation"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 吸收劑; 消振器; 緩衝器; 吸收器; 吸收體",
+    "def": ""
+   }
+  ],
+  "forms": "複數 absorbers"
+ },
+ "absorbing": {
+  "ph": "/әb'sɒ:biŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吸引人的, 非常有趣的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 吸收的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 absorbing"
+ },
+ "absorption": {
+  "ph": "/әb'sɒ:pʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸收, 專心, 全神貫注",
+    "def": "(chemistry) a process in which one substance permeates another; a fluid permeates or is dissolved by a liquid or solid"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 吸收; 吸收作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 absorptions"
+ },
+ "absorptive": {
+  "ph": "/әb'sɒ:ptiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吸收性的, 有吸收力的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 吸收的",
+    "def": ""
+   }
+  ]
+ },
+ "abstain": {
+  "ph": "/әb'stein/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "自制, 戒絕, 棄權, 迴避",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 abstained｜現在分詞 abstaining｜過去分詞 abstained｜第三人稱單數 abstains"
+ },
+ "abstainer": {
+  "ph": "/әb'steinә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節制者, 棄權者",
+    "def": "someone who practices self denial as a spiritual discipline"
+   }
+  ],
+  "forms": "複數 abstainers"
+ },
+ "abstemious": {
+  "ph": "/æb'sti:mjәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有節制的, 節約的",
+    "def": "sparing in consumption of especially food and drink"
+   }
+  ]
+ },
+ "abstention": {
+  "ph": "/әb'stenʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戒絕, 迴避, 棄權",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abstentions"
+ },
+ "abstentious": {
+  "ph": "/æb'stenʃəs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有節制的",
+    "def": "Characterized by abstinence; self-restraining."
+   }
+  ]
+ },
+ "abstinence": {
+  "ph": "/'æbstinәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "節制, 禁慾, 戒酒",
+    "def": "the trait of abstaining (especially from alcohol)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 節制, 禁戒(如禁酒,節慾)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abstinences"
+ },
+ "abstinent": {
+  "ph": "/'æbstinәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有節制的, 禁慾的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "禁慾者",
+    "def": ""
+   }
+  ]
+ },
+ "abstract": {
+  "ph": "/'æbstrækt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抽象的, 深奧的",
+    "def": "existing only in the mind; separated from embodiment"
+   },
+   {
+    "pos": "n.",
+    "zh": "摘要, 抽象概念",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "摘要, 提煉, 使抽象化",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 摘錄; 摘要; 抽象",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abstracts｜過去分詞 abstracted｜現在分詞 abstracting｜第三人稱單數 abstracts｜過去式 abstracted"
+ },
+ "abstracted": {
+  "ph": "/æb'stræktid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "心不在焉的, 出神的, 分離出的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abstracted"
+ },
+ "abstractedly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "心不在焉, 抽出了, 分心, 出神",
+    "def": ""
+   }
+  ]
+ },
+ "abstraction": {
+  "ph": "/æb'strækʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抽象化, 心不在焉, 空想, 提煉, 抽象派作品",
+    "def": "a concept or idea not associated with any specific instance"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 提取; 抽取; 奪取; 奪取反應; 除去",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abstractions"
+ },
+ "abstractionist": {
+  "ph": "/æb'strækʃәnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抽象派藝術家",
+    "def": "a painter of abstract pictures"
+   }
+  ],
+  "forms": "複數 abstractionists"
+ },
+ "abstractly": {
+  "ph": "/æb'stræktli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "抽象地；理論上地",
+    "def": ""
+   }
+  ]
+ },
+ "abstractness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抽象性",
+    "def": "the quality of being considered apart from a specific instance or object"
+   }
+  ]
+ },
+ "abstruse": {
+  "ph": "/æb'stru:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "難解的, 深奧的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 abstruser"
+ },
+ "absurd": {
+  "ph": "/әb'sә:d/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "荒謬的, 不合理的, 可笑的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "荒誕",
+    "def": "a situation in which life seems irrational and meaningless"
+   }
+  ],
+  "forms": "複數 absurds"
+ },
+ "absurdist": {
+  "ph": "/әb'sә:dist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荒誕主義者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 absurdists"
+ },
+ "absurdity": {
+  "ph": "/әb'sә:diti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荒謬, 悖理, 荒謬的言行",
+    "def": "a message whose content is at variance with reason"
+   }
+  ],
+  "forms": "複數 absurdities"
+ },
+ "absurdly": {
+  "ph": "/әb'sә:dli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "荒謬地, 荒唐地, 愚蠢地",
+    "def": ""
+   }
+  ]
+ },
+ "abta": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "英國旅行社協會（Association of British Travel Agents）；澳大利亞-英國貿易協會（Australian British Trade Association）",
+    "def": ""
+   }
+  ]
+ },
+ "abu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "亞洲廣播聯盟（Asian Broadcast Union）",
+    "def": ""
+   }
+  ]
+ },
+ "abundance": {
+  "ph": "/ә'bʌndәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豐富, 充足, 大量",
+    "def": "the property of a more than adequate quantity or supply"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 豐富, 充裕",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abundances"
+ },
+ "abundant": {
+  "ph": "/ә'bʌndәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "豐富的, 充分的, 大量的",
+    "def": "present in great quantity"
+   }
+  ]
+ },
+ "abundantly": {
+  "ph": "/ә'bʌndәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "大量地, 豐富地",
+    "def": ""
+   }
+  ]
+ },
+ "abuse": {
+  "ph": "/ә'bju:s.ә'bju:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "濫用, 虐待, 惡習, 辱罵",
+    "def": "a rude expression intended to offend or hurt"
+   },
+   {
+    "pos": "vt.",
+    "zh": "濫用, 辱罵, 虐待",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abused｜複數 abuses｜現在分詞 abusing｜第三人稱單數 abuses｜過去式 abused"
+ },
+ "abused": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "受虐；濫用, 惡習",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 abused｜過去式 abused"
+ },
+ "abuser": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "濫用者",
+    "def": "someone who abuses"
+   }
+  ],
+  "forms": "複數 abusers"
+ },
+ "abusive": {
+  "ph": "/ә'bju:siv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "惡言謾罵的, 被濫用的, 腐敗的, 虐待的",
+    "def": ""
+   }
+  ]
+ },
+ "abusively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "辱罵性, 陋習性, 被濫用, 濫用, 罵人",
+    "def": ""
+   }
+  ]
+ },
+ "abusiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "濫用；咒罵",
+    "def": "The quality of being abusive; rudeness of language, or"
+   }
+  ]
+ },
+ "abut": {
+  "ph": "/ә'bʌt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "鄰接, 毗鄰",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 abutting｜第三人稱單數 abuts｜過去式 abutted｜過去分詞 abutted"
+ },
+ "abutment": {
+  "ph": "/ә'bʌtmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鄰接, 接界, 橋臺",
+    "def": "point of contact between two objects or parts"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 橋基, 基牙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 abutments"
+ },
+ "abysmal": {
+  "ph": "/ә'bizmәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "深不可測的, 無底的",
+    "def": ""
+   }
+  ]
+ },
+ "abysmally": {
+  "ph": "/ə'bɪzməlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "極糟地; 可怕地; 完全地; 極端地",
+    "def": ""
+   }
+  ]
+ },
+ "abyss": {
+  "ph": "/ә'bis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "深淵, 深邃, 地獄",
+    "def": "a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively)"
+   }
+  ],
+  "forms": "複數 abysses"
+ },
+ "abyssal": {
+  "ph": "/ә'bisәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "深不可測的, 深海的",
+    "def": "relating to ocean depths from 2000 to 5000 meters"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 海底深處的, 深淵的",
+    "def": ""
+   }
+  ]
+ },
+ "abyssinia": {
+  "ph": "/.æbi'sinjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿比西尼亞",
+    "def": ""
+   }
+  ]
+ },
+ "abyssinian": {
+  "ph": "/.æbi'sinjәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "阿比西尼亞的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "阿比西尼亞人, 衣索比亞人",
+    "def": "a small slender short-haired breed of African origin having brownish fur with a reddish undercoat"
+   }
+  ],
+  "forms": "複數 abyssinians"
+ }
+}

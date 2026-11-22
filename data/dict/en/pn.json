@@ -1,0 +1,159 @@
+{
+ "pn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "清注意, 本票, 期票",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 頁編號, 可程式設計網路",
+    "def": ""
+   }
+  ]
+ },
+ "pnc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "太平洋鄰里協會（Pacific Neighborhood Consortium）；巴勒斯坦全國委員會（Palestinian National Council）；尋呼網路控制器（Paging Network Controller）；郵幣首日封",
+    "def": ""
+   }
+  ]
+ },
+ "pneumatic": {
+  "ph": "/nju:'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "充氣的, 空氣的, 有氣胎的, 氣動的, 靈魂的",
+    "def": "of or relating to or using air (or a similar gas)"
+   },
+   {
+    "pos": "n.",
+    "zh": "充氣輪胎",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pneumatics"
+ },
+ "pneumatically": {
+  "ph": "/nju:'mætikli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "充氣地",
+    "def": ""
+   }
+  ]
+ },
+ "pneumatological": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "pneumatology的變形",
+    "def": "Of or pertaining to pneumatology."
+   }
+  ]
+ },
+ "pneumatology": {
+  "ph": "/.nju:mә'tɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靈物學, 聖靈論, 氣體(治療)學",
+    "def": "The doctrine of, or a treatise on, air and other"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氣體[治療]學",
+    "def": ""
+   }
+  ]
+ },
+ "pneumococcal": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 肺炎球菌的",
+    "def": ""
+   }
+  ]
+ },
+ "pneumocystis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]肺囊蟲",
+    "def": ""
+   }
+  ]
+ },
+ "pneumonia": {
+  "ph": "/nju:'mәunjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肺炎",
+    "def": "respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 肺炎",
+    "def": ""
+   }
+  ],
+  "forms": "複數 pneumonias"
+ },
+ "pneumonic": {
+  "ph": "/nju:'mɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "肺的, 肺炎的",
+    "def": "pertaining to or characterized by or affected by pneumonia"
+   }
+  ]
+ },
+ "pneumothorax": {
+  "ph": "/,nju:mәu'θɔ:ræks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣胸",
+    "def": "abnormal presence of air in the pleural cavity resulting in the collapse of the lung; may be spontaneous (due to injury to the chest) or induced (as a treatment"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氣胸",
+    "def": ""
+   }
+  ]
+ },
+ "png": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "可移植的網路圖象檔案格式（Portable Network Graphic）；（拉）不受歡迎的人（Persona Non Grata）；巴布亞紐幾內亞（Papua New Guina）",
+    "def": ""
+   }
+  ]
+ },
+ "pnp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 即插即用",
+    "def": ""
+   }
+  ]
+ }
+}

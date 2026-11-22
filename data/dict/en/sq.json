@@ -1,0 +1,969 @@
+{
+ "sq": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正方形, 方形物, 平方, 廣場, 直角尺, 矩尺, 棋盤上的方格, 縱橫字謎, 方陣",
+    "def": ""
+   }
+  ]
+ },
+ "sql": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 結構化英語詢問語言",
+    "def": ""
+   }
+  ]
+ },
+ "sqn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "squadron",
+    "def": ""
+   }
+  ]
+ },
+ "squab": {
+  "ph": "/skwɒb/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尚未生毛的, 矮胖的, 剛孵出的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "雛鳥, 矮胖子",
+    "def": "flesh of a pigeon suitable for roasting or braising; flesh of a dove (young squab) may be broiled"
+   },
+   {
+    "pos": "adv.",
+    "zh": "沉重地",
+    "def": ""
+   }
+  ]
+ },
+ "squabble": {
+  "ph": "/'skwɒbl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "爭吵, 口角",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "爭吵, 口角",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squabbles｜現在分詞 squabbling｜過去式 squabbled｜第三人稱單數 squabbles｜過去分詞 squabbled"
+ },
+ "squabbling": {
+  "ph": "/ˈskwɔbəlɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（為小事而）爭論, 吵嘴( squabble的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squabbling｜複數 squabblings"
+ },
+ "squad": {
+  "ph": "/skwɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "班, 小隊, 小集團",
+    "def": "a smallest army unit"
+   },
+   {
+    "pos": "vt.",
+    "zh": "編成班",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squads"
+ },
+ "squaddie": {
+  "ph": "/ˈskwɒdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（英國）新兵, 二等兵",
+    "def": ""
+   }
+  ]
+ },
+ "squadron": {
+  "ph": "/'skwɒdrәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎兵營, 分遣隊, 小艦隊",
+    "def": "a cavalry unit consisting of two or more troops and headquarters and supporting arms"
+   }
+  ],
+  "forms": "複數 squadrons"
+ },
+ "squalid": {
+  "ph": "/'skwɒlid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "汙穢的, 骯髒的, 悲慘的, 可憐的, 卑劣的",
+    "def": ""
+   }
+  ]
+ },
+ "squall": {
+  "ph": "/skwɒ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "颮, 喊叫",
+    "def": "sudden violent winds; often accompanied by precipitation"
+   },
+   {
+    "pos": "vi.",
+    "zh": "起颮, 嚎啕, 叫嚷",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "尖叫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squalls｜現在分詞 squalling｜過去式 squalled｜第三人稱單數 squalls｜過去分詞 squalled"
+ },
+ "squalling": {
+  "ph": "/skwɔ:lɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "號啕, 尖叫( squall的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squalling"
+ },
+ "squally": {
+  "ph": "/'skwɒ:li/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多颮的, 多風波的",
+    "def": ""
+   }
+  ]
+ },
+ "squalor": {
+  "ph": "/'skwɒlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "骯髒, 貧窮, 不乾淨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squalors"
+ },
+ "squamous": {
+  "ph": "/'skweimәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有鱗的, 多鱗的, 鱗狀的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鱗狀的, 鱗屑的",
+    "def": ""
+   }
+  ]
+ },
+ "squander": {
+  "ph": "/'skwɒndә/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "浪費, 使分散",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "浪費, 漂泊, 四散",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 squandered｜過去式 squandered｜現在分詞 squandering｜第三人稱單數 squanders"
+ },
+ "squandered": {
+  "ph": "/ˈskwɔndəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（指錢, 財產等）浪費, 亂花( squander的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squandered"
+ },
+ "squandering": {
+  "ph": "/ˈskwɔndərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（指錢, 財產等）浪費, 亂花( squander的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squandering"
+ },
+ "square": {
+  "ph": "/skwєә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正方形, 街區, 廣場, 平方, 直角尺",
+    "def": "(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon"
+   },
+   {
+    "pos": "adj.",
+    "zh": "正方形的, 正直的, 公正的, 平方的, 方正的, 結清的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "成直角地, 對準地",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "一致, 符合, 結清",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成方形, 使平方自乘, 調正, 結清, 使一致",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squares｜過去分詞 squared｜現在分詞 squaring｜過去式 squared｜第三人稱單數 squares"
+ },
+ "squared": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "方格的；成正方形的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 squared｜過去式 squared｜複數 squareds"
+ },
+ "squarely": {
+  "ph": "/'skwєәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "乾脆地, 正好, 直角地",
+    "def": ""
+   }
+  ]
+ },
+ "squareness": {
+  "ph": "/'skwєәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方形, 拘謹, 一絲不苟",
+    "def": "the property of being shaped like a square"
+   }
+  ]
+ },
+ "squarish": {
+  "ph": "/'skwєәriʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有點方的",
+    "def": ""
+   }
+  ]
+ },
+ "squash": {
+  "ph": "/skwɒʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擠壓, 壓碎的東西, 南瓜屬植物, 擁擠的人群",
+    "def": "any of numerous annual trailing plants of the genus Cucurbita grown for their fleshy edible fruits"
+   },
+   {
+    "pos": "vt.",
+    "zh": "壓扁, 鎮壓, 壓制",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被壓扁, 發濺潑聲, 擠入",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 squashed｜現在分詞 squashing｜過去式 squashed｜複數 squashes｜第三人稱單數 squashes"
+ },
+ "squashed": {
+  "ph": "/skwɔʃd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "壓碎的, 壓扁的",
+    "def": "that has been violently compressed"
+   },
+   {
+    "pos": "v.",
+    "zh": "擠進( squash的過去式和過去分詞 ); 將（某人[某物]）壓扁; 將（某人[某物]）向某方擠; 平定（叛亂等）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 squashed｜過去式 squashed"
+ },
+ "squashy": {
+  "ph": "/'skwɒʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "又溼又軟的, 柔軟的, 熟透的",
+    "def": ""
+   }
+  ]
+ },
+ "squat": {
+  "ph": "/skwɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蹲, 窩",
+    "def": "the act of assuming or maintaining a crouching position with the knees bent and the buttocks near the heels"
+   },
+   {
+    "pos": "adj.",
+    "zh": "蹲著的, 矮胖的",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "蹲下, 蹲坐, 蹲伏",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使蹲下, 擅自佔有",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squatted｜現在分詞 squatting｜第三人稱單數 squats｜複數 squats｜過去分詞 squatted"
+ },
+ "squatter": {
+  "ph": "/'skwɒtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蹲著的人, 擅自佔用土地或房屋者",
+    "def": "someone who settles lawfully on government land with the intent to acquire title to it"
+   },
+   {
+    "pos": "vi.",
+    "zh": "涉水而過",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squatters"
+ },
+ "squatting": {
+  "ph": "/'skwɔtiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航行尾傾",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squatting"
+ },
+ "squaw": {
+  "ph": "/'skwɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女人, 妻子",
+    "def": "an American Indian woman"
+   }
+  ],
+  "forms": "複數 squaws"
+ },
+ "squawfish": {
+  "ph": "/'skwɔ:fiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大型食用淡水魚",
+    "def": ""
+   }
+  ]
+ },
+ "squawk": {
+  "ph": "/skwɒ:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "響而粗的叫聲, 夜鷺",
+    "def": "the noise of squawking"
+   },
+   {
+    "pos": "vi.",
+    "zh": "發出響而粗的叫聲, 發牢騷, 訴苦",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squawked｜現在分詞 squawking｜複數 squawks｜第三人稱單數 squawks｜過去分詞 squawked"
+ },
+ "squawking": {
+  "ph": "/skwɔ:kɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "發出粗厲的叫聲, 咯咯地叫( squawk的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squawking"
+ },
+ "squeak": {
+  "ph": "/skwi:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吱吱聲, 僥倖",
+    "def": "a short high-pitched noise"
+   },
+   {
+    "pos": "vi.",
+    "zh": "吱吱叫, 告密, 僥倖成功",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "以短促尖聲發出",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squeaked｜複數 squeaks｜現在分詞 squeaking｜第三人稱單數 squeaks｜過去分詞 squeaked"
+ },
+ "squeaker": {
+  "ph": "/'skwi:kә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吱吱叫的東西, 小豬, 雛鴿",
+    "def": "any artifact that makes a squeaking sound when used"
+   }
+  ],
+  "forms": "複數 squeakers"
+ },
+ "squeaking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滑音測試；銳音",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squeaking"
+ },
+ "squeaky": {
+  "ph": "/'skwi:ki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吱吱響的, 發軋聲的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squeakies｜最高級 squeakiest"
+ },
+ "squeal": {
+  "ph": "/skwi:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尖叫, 抱怨",
+    "def": "a high-pitched howl"
+   },
+   {
+    "pos": "vi.",
+    "zh": "發出尖叫聲, 高聲埋怨",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用尖聲說",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squealed｜現在分詞 squealing｜複數 squeals｜第三人稱單數 squeals｜過去分詞 squealed"
+ },
+ "squealer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "告密者, 尖叫的動物, 雛鳥",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 發出尖叫聲音者, 告密人, 大聲訴苦人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squealers"
+ },
+ "squealing": {
+  "ph": "/'skwi:liŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "振鳴聲, 嘯聲；號叫",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squealing｜複數 squealings"
+ },
+ "squeamish": {
+  "ph": "/'skwi:miʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "過於拘謹的, 神經質的, 易嘔吐的",
+    "def": ""
+   }
+  ]
+ },
+ "squeamishness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "squeamish的變形",
+    "def": "the trait of being excessively fastidious and easily shocked"
+   }
+  ]
+ },
+ "squeegee": {
+  "ph": "/'skwi:dʒi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塗刷器, 橡膠滾軸",
+    "def": "T-shaped cleaning implement with a rubber edge across the top; drawn across a surface to remove water (as in washing windows)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用塗刷器塗刷, 用橡膠滾軸壓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squeegees｜現在分詞 squeegeeing｜過去式 squeegeed｜第三人稱單數 squeegees｜過去分詞 squeegeed"
+ },
+ "squeeze": {
+  "ph": "/skwi:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "緊握, 擠, 榨, 榨取, 佣金",
+    "def": "the act of gripping and pressing firmly"
+   },
+   {
+    "pos": "vt.",
+    "zh": "緊握, 擠, 榨取",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "壓榨, 榨",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squeezed｜過去分詞 squeezed｜現在分詞 squeezing｜第三人稱單數 squeezes｜複數 squeezes"
+ },
+ "squeezebox": {
+  "ph": "/'skwi:zbɔks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<口>(六角形)手風琴",
+    "def": ""
+   }
+  ]
+ },
+ "squeezed": {
+  "ph": "/skwi:zd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "squeeze（擠壓）的過去式與過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squeezed｜過去分詞 squeezed"
+ },
+ "squeezer": {
+  "ph": "/'skwi:zә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壓榨者, 剝奪者, 敲詐者, 壓榨機, 軋水機, (美)(非正式)小氣鬼, 吝嗇者",
+    "def": "a kitchen utensil for squeezing juice from fruit"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 擠水機; 壓榨機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squeezers"
+ },
+ "squeezing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 推擠",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squeezing"
+ },
+ "squelch": {
+  "ph": "/'skweltʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘎吱聲, 壓碎的一堆, 使對手啞口無言的話",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "壓碎, 鎮壓, 使咯吱咯吱響",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "咯吱咯吱響, 涉水而過",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 撤消許可權",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squelched｜現在分詞 squelching｜過去分詞 squelched｜複數 squelches｜第三人稱單數 squelches"
+ },
+ "squelching": {
+  "ph": "/skweltʃɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "發吧唧聲, 發撲哧聲( squelch的現在分詞 ); <美>制止; 壓制; 遏制",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squelching"
+ },
+ "squelchy": {
+  "ph": "/'skweltʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "嘎吱聲的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 squelchiest"
+ },
+ "squib": {
+  "ph": "/skwib/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爆竹, 嘲諷, 諷刺文章",
+    "def": "firework consisting of a tube filled with powder (as a broken firecracker) that burns with a fizzing noise"
+   },
+   {
+    "pos": "v.",
+    "zh": "放爆竹, 砰然爆開, 嘲弄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squibs"
+ },
+ "squid": {
+  "ph": "/skwid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "槍烏賊, 魷魚, 反潛水雷發射裝置",
+    "def": "(Italian cuisine) squid prepared as food"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 超導量子干涉元件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squids"
+ },
+ "squidgy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "軟而溼的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 squidgier"
+ },
+ "squiggle": {
+  "ph": "/'skwigl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "波形曲線, 花體",
+    "def": "a short twisting line"
+   }
+  ],
+  "forms": "複數 squiggles｜第三人稱單數 squiggles"
+ },
+ "squiggly": {
+  "ph": "/'skwɪɡlɪ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "彎彎曲曲的",
+    "def": ""
+   }
+  ]
+ },
+ "squinch": {
+  "ph": "/skwintʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對角斜拱",
+    "def": "a small arch built across the interior angle of two walls (usually to support a spire)"
+   }
+  ],
+  "forms": "複數 squinches"
+ },
+ "squint": {
+  "ph": "/skwint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斜視眼, 斜著",
+    "def": "the act of squinting; looking with the eyes partly closed"
+   },
+   {
+    "pos": "adj.",
+    "zh": "斜視的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使變斜視眼",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "斜視, 傾向, 斜行",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squinted｜現在分詞 squinting｜第三人稱單數 squints｜過去分詞 squinted｜複數 squints"
+ },
+ "squinty": {
+  "ph": "/'skwinti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "斜視眼的, 鬥雞眼的",
+    "def": "characterized by squinting"
+   }
+  ]
+ },
+ "squire": {
+  "ph": "/skwaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鄉紳, 大地主, 治安官",
+    "def": "young nobleman attendant on a knight"
+   },
+   {
+    "pos": "vt.",
+    "zh": "隨侍, 護衛",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "當鄉紳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squires｜過去分詞 squired｜現在分詞 squiring｜過去式 squired｜第三人稱單數 squires"
+ },
+ "squirearchy": {
+  "ph": "/'skwaiә.rɑ:ki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地主政治, 地主階級",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 地主勢力, 地主政治, 地主階級",
+    "def": ""
+   }
+  ]
+ },
+ "squirm": {
+  "ph": "/skә:m/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "蠕動, 輾轉不安",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "蠕動",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 squirmed｜現在分詞 squirming｜第三人稱單數 squirms｜過去分詞 squirmed｜複數 squirms"
+ },
+ "squirming": {
+  "ph": "/skwɜ:rmɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "蠕動（ squirm的現在分詞 ）; 扭曲身體; 難為情; 不舒服",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "扭動的; 動來動去的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 squirming"
+ },
+ "squirmy": {
+  "ph": "/'skә:mi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蠕動的",
+    "def": ""
+   }
+  ]
+ },
+ "squirrel": {
+  "ph": "/'skwә:rәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "松鼠, 松鼠毛皮",
+    "def": "a kind of arboreal rodent having a long bushy tail"
+   },
+   {
+    "pos": "vt.",
+    "zh": "貯藏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 squirrels｜現在分詞 squirrelling｜過去式 squirrelled｜過去分詞 squirrelled"
+ },
+ "squirrelly": {
+  "ph": "/'skwirәli; 'skw\\\\\\\\:-, 'skwʌ-/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "古怪的, 毫無意義的, 發瘋的",
+    "def": ""
+   }
+  ]
+ },
+ "squirt": {
+  "ph": "/skwә:t/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "噴出, 濺迸, 注射",
+    "def": "cause to come out in a squirt"
+   },
+   {
+    "pos": "n.",
+    "zh": "水槍, 注射器, 噴出",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 squirted｜第三人稱單數 squirts｜現在分詞 squirting｜過去式 squirted｜複數 squirts"
+ },
+ "squish": {
+  "ph": "/skwiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咯吱聲, 擠扁",
+    "def": "the noise of soft mud being walked on"
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...擠扁, 壓扁",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "咯吱咯吱地走",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 squished｜過去式 squished｜現在分詞 squishing｜第三人稱單數 squishes"
+ },
+ "squishy": {
+  "ph": "/'skwiʃi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溼軟的, 粘糊糊的",
+    "def": ""
+   }
+  ]
+ }
+}

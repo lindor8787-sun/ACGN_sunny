@@ -1,0 +1,883 @@
+{
+ "cy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "日曆年度（calendar year）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cys"
+ },
+ "cyan": {
+  "ph": "/'saiæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藍綠色, 青色",
+    "def": "a primary subtractive color for light; has a blue-green color"
+   },
+   {
+    "pos": "",
+    "zh": "[建] 氰基",
+    "def": ""
+   }
+  ]
+ },
+ "cyanide": {
+  "ph": "/'saiәnaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氰化物",
+    "def": "an extremely poisonous salt of hydrocyanic acid"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用氰化物處理",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 氰化物",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 cyaniding"
+ },
+ "cyanobacteria": {
+  "ph": "/saɪænɒ'bæktɪərɪə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "藍細菌",
+    "def": ""
+   }
+  ]
+ },
+ "cyanobacterial": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "藍藻",
+    "def": ""
+   }
+  ]
+ },
+ "cybele": {
+  "ph": "/'sibili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自然女神",
+    "def": "great nature goddess of ancient Phrygia in Asia Minor; counterpart of Greek Rhea and Roman Ops"
+   }
+  ]
+ },
+ "cybernetic": {
+  "ph": "/.saibә'nætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "控制論的",
+    "def": "of or relating the principles of cybernetics"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 控制論的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cybernetics"
+ },
+ "cybernetics": {
+  "ph": "/,saibә:'netiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "控制論",
+    "def": "(biology) the field of science concerned with processes of communication and control (especially the comparison of these processes in biological and artificial "
+   },
+   {
+    "pos": "",
+    "zh": "[計] 控制論",
+    "def": ""
+   }
+  ]
+ },
+ "cyberpunk": {
+  "ph": "/ˈsaɪbəpʌŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "計算機科幻小說； 網路駭客",
+    "def": "a writer of science fiction set in a lawless subculture of an oppressive society dominated by computer technology"
+   }
+  ]
+ },
+ "cyberspace": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 空間, 網控空間",
+    "def": ""
+   }
+  ]
+ },
+ "cyberterrorism": {
+  "ph": "/saɪbə'terərɪzəm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "網路恐怖主義",
+    "def": ""
+   }
+  ]
+ },
+ "cyberworld": {
+  "ph": "/'saibə,wə:ld/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "指利用計算機網路建立的世界",
+    "def": ""
+   }
+  ]
+ },
+ "cyborg": {
+  "ph": "/'saibɔ:^/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靠機械裝置維持生命的人, 宇航員",
+    "def": "a human being whose body has been taken over in whole or in part by electromechanical devices"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 生物機器人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cyborgs"
+ },
+ "cycad": {
+  "ph": "/'saikæd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐵樹目裸子植物",
+    "def": "any tropical gymnosperm of the order Cycadales; having unbranched stems with a crown of fernlike leaves"
+   }
+  ],
+  "forms": "複數 cycads"
+ },
+ "cycladic": {
+  "ph": "/si'klædik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "基克拉迪群島的,(史前青銅時代)基克拉迪文化的",
+    "def": ""
+   }
+  ]
+ },
+ "cyclamen": {
+  "ph": "/'siklәmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仙客來",
+    "def": "Mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with re"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 仙客來屬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cyclamens"
+ },
+ "cyclase": {
+  "ph": "/'sikleis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[生化]環化酶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cyclases"
+ },
+ "cycle": {
+  "ph": "/'saikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "週期, 迴圈, 腳踏車, 一段時間, 整套",
+    "def": "an interval during which a recurring sequence of events occurs"
+   },
+   {
+    "pos": "vi.",
+    "zh": "迴圈, 輪轉, 騎腳踏車",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使迴圈, 使輪轉",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 環路; 週期; 迴圈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cycles｜現在分詞 cycling｜過去式 cycled｜過去分詞 cycled｜第三人稱單數 cycles"
+ },
+ "cycleway": {
+  "ph": "/saɪk'lu:eɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腳踏車道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cycleways"
+ },
+ "cyclic": {
+  "ph": "/'saiklik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "週期的, 輪轉的, 迴圈的, 輪列的, 輪卷的, 環狀的, 環的, 組詩的, 始末的",
+    "def": "conforming to the Carnot cycle"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 迴圈的, 週期的",
+    "def": ""
+   }
+  ]
+ },
+ "cyclical": {
+  "ph": "/'siklik(e)l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "週期的, 輪轉的, 迴圈的, 輪列的, 輪卷的, 環狀的, 環的, 組詩的, 始末的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 迴圈的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cyclicals"
+ },
+ "cyclically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "迴圈的",
+    "def": ""
+   }
+  ]
+ },
+ "cycling": {
+  "ph": "/'saikliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎腳踏車兜風, 騎腳踏車消遣",
+    "def": "the sport of traveling on a bicycle or motorcycle"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 迴圈操作",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 cycling"
+ },
+ "cyclist": {
+  "ph": "/'saiklist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎腳踏車的人",
+    "def": "a person who rides a bicycle"
+   }
+  ],
+  "forms": "複數 cyclists"
+ },
+ "cyclo": {
+  "ph": "/'si:klәu, 'saiklәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出租機動三輪車",
+    "def": ""
+   }
+  ]
+ },
+ "cyclone": {
+  "ph": "/'saiklәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "龍捲風, 暴風",
+    "def": "(meteorology) rapid inward circulation of air masses about a low pressure center; circling counterclockwise in the northern hemisphere and clockwise in the sout"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 旋流(分離,除塵)器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cyclones"
+ },
+ "cyclonic": {
+  "ph": "/saɪ'klɒnɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氣旋的, 颶風的",
+    "def": "of or relating to or characteristic of the atmosphere around a low pressure center"
+   }
+  ]
+ },
+ "cyclop": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獨眼巨人, 獨眼的人, 獨眼畸胎",
+    "def": "See Note under Cyclops, 1."
+   }
+  ],
+  "forms": "複數 cyclops｜第三人稱單數 cyclops"
+ },
+ "cyclopean": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "獨眼巨人的, 巨大的, 巨石堆積的",
+    "def": "of or relating to or resembling the Cyclops"
+   }
+  ]
+ },
+ "cyclophosphamide": {
+  "ph": "/,saiklәu'fɔsfæmaid/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 環磷醯胺",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 環磷醯胺",
+    "def": ""
+   }
+  ]
+ },
+ "cyclops": {
+  "ph": "/'saiklɔps/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獨眼巨人, 獨眼的人, 獨眼畸胎",
+    "def": "(Greek mythology) one of a race of giants having a single eye in the middle of their forehead"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 劍水蚤屬",
+    "def": ""
+   }
+  ]
+ },
+ "cyclorama": {
+  "ph": "/.saiklә'rɑ:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓形幻畫, 大風景畫幕",
+    "def": ""
+   }
+  ]
+ },
+ "cyclosporin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 環孢菌素",
+    "def": ""
+   }
+  ]
+ },
+ "cyclotron": {
+  "ph": "/'saiklә,trɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "迴旋加速器",
+    "def": "an accelerator that imparts energies of several million electron-volts to rapidly moving particles"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 迴旋加速器",
+    "def": ""
+   }
+  ]
+ },
+ "cygnet": {
+  "ph": "/'signit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小天鵝",
+    "def": "a young swan"
+   }
+  ],
+  "forms": "複數 cygnets"
+ },
+ "cylinder": {
+  "ph": "/'silindә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓筒, 圓筒狀物, 汽缸, 柱面",
+    "def": "a solid bounded by a cylindrical surface and two parallel planes (the bases)"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 柱面",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cylinders"
+ },
+ "cylindrical": {
+  "ph": "/si'lindrik(ә)l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "圓柱體的, 圓筒形的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 圓柱形的, 圓柱體的, 圓筒形的, 柱面的",
+    "def": ""
+   }
+  ]
+ },
+ "cymbal": {
+  "ph": "/'simbl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐃鈸",
+    "def": "a percussion instrument consisting of a concave brass disk; makes a loud crashing sound when hit with a drumstick or when two are struck together"
+   }
+  ],
+  "forms": "複數 cymbals"
+ },
+ "cymru": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（威爾士語）威爾士",
+    "def": ""
+   }
+  ]
+ },
+ "cynic": {
+  "ph": "/'sinik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犬儒學派的人, 玩世不恭的人, 憤世嫉俗者, 好挖苦人的人",
+    "def": "someone who is critical of the motives of others"
+   },
+   {
+    "pos": "adj.",
+    "zh": "犬儒學派的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cynics"
+ },
+ "cynical": {
+  "ph": "/'sinikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "憤世嫉俗的, 諷刺的, 冷嘲的",
+    "def": ""
+   }
+  ]
+ },
+ "cynically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "愛嘲笑地；冷笑地",
+    "def": ""
+   }
+  ]
+ },
+ "cynicism": {
+  "ph": "/'sinisizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犬儒主義",
+    "def": "a cynical feeling of distrust"
+   }
+  ]
+ },
+ "cynosure": {
+  "ph": "/'sinә.zjuә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小熊座, 北極星, 眾目之的",
+    "def": "something that provides guidance (as Polaris guides mariners)"
+   }
+  ]
+ },
+ "cynthia": {
+  "ph": "/'sinθjә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "月亮女神, 月亮",
+    "def": ""
+   }
+  ]
+ },
+ "cypher": {
+  "ph": "/'saifә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "零, 零的記號, 密碼索引書",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "計算, 用密碼書寫",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cyphers｜現在分詞 cyphering｜過去式 cyphered｜第三人稱單數 cyphers｜過去分詞 cyphered"
+ },
+ "cypress": {
+  "ph": "/'saiprәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柏, 落羽杉, 柏樹",
+    "def": "wood of any of various cypress trees especially of the genus Cupressus"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 檜木",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cypresses"
+ },
+ "cypriot": {
+  "ph": "/'sipriәt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "塞普勒斯的, 塞普勒斯語的, 塞普勒斯人的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "塞普勒斯人, 塞普勒斯語",
+    "def": "a native or inhabitant of Cyprus"
+   }
+  ],
+  "forms": "複數 cypriots"
+ },
+ "cyprus": {
+  "ph": "/'saiprәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塞普勒斯",
+    "def": "a country on the island of Cyprus; 80% of the people are of Greek origin and 20% or Turkish origin"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 賽浦路斯",
+    "def": ""
+   }
+  ]
+ },
+ "cyrano": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "西拉諾（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "cyril": {
+  "ph": "/'siril/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "西里爾（男子名）",
+    "def": "Greek missionary; the invention of the Cyrillic alphabet is attributed to him (826-869)"
+   }
+  ]
+ },
+ "cyrillic": {
+  "ph": "/si'rilik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古代斯拉夫語的字母",
+    "def": ""
+   }
+  ]
+ },
+ "cyrus": {
+  "ph": "/'saiәrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賽勒斯（男子名）",
+    "def": "Persian prince who was defeated in battle by his brother Artaxerxes II (424-401 BC)"
+   }
+  ]
+ },
+ "cyst": {
+  "ph": "/sist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "包囊, 囊腫",
+    "def": "a closed sac that develops abnormally in some body structure"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 囊腫; [包]囊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cysts｜第三人稱單數 cysts"
+ },
+ "cystic": {
+  "ph": "/'sistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "胞囊的, 膀胱的, 膽囊的",
+    "def": "of or relating to a normal cyst (as the gallbladder or urinary bladder)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 囊的; 膽囊的; 膀胱的",
+    "def": ""
+   }
+  ]
+ },
+ "cystic fibrosis": {
+  "ph": "/ˌsɪstɪk faɪˈbrəʊsɪs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "囊性纖維化（屬遺傳性胰腺病）",
+    "def": ""
+   }
+  ]
+ },
+ "cystitis": {
+  "ph": "/sis'taitis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膀胱炎",
+    "def": "inflammation of the urinary bladder and ureters"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膀胱炎",
+    "def": ""
+   }
+  ]
+ },
+ "cystoscopy": {
+  "ph": "/sis'tɔskәpi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "膀胱鏡檢查",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膀胱鏡檢查",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cystoscopies｜過去分詞 cystoscopied"
+ },
+ "cytochrome": {
+  "ph": "/'saitәukrәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細胞色素",
+    "def": "(biochemistry) a class of hemoprotein whose principal biological function is electron transfer (especially in cellular respiration)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 細胞色素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cytochromes"
+ },
+ "cytogenetic": {
+  "ph": "/,saitәjdʒi'netik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[生]細胞發生的, 細胞生成的",
+    "def": "of or relating to cytogenetics"
+   }
+  ],
+  "forms": "複數 cytogenetics"
+ },
+ "cytokine": {
+  "ph": "/ˌsɪtə'kɪn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "細胞活素",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cytokines｜第三人稱單數 cytokines"
+ },
+ "cytologic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "細胞學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 細胞學的",
+    "def": ""
+   }
+  ]
+ },
+ "cytology": {
+  "ph": "/sai'tɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細胞學",
+    "def": "the branch of biology that studies the structure and function of cells"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 細胞學",
+    "def": ""
+   }
+  ]
+ },
+ "cytomegalovirus": {
+  "ph": "/,saitә,me^әlәu'vaiәrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉅細胞病毒",
+    "def": "any of a group of herpes viruses that enlarge epithelial cells and can cause birth defects; can affect humans with impaired immunological systems"
+   }
+  ]
+ },
+ "cytoplasm": {
+  "ph": "/'saitәplæzm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "細胞質",
+    "def": "the protoplasm of a cell excluding the nucleus; is full of proteins that control cell metabolism"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [細]胞質, [細]胞漿",
+    "def": ""
+   }
+  ]
+ },
+ "cytoplasmic": {
+  "ph": "/.saitә'plæzmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "細胞質的",
+    "def": "of or relating to cytoplasm"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] [細]胞質的, [細]胞漿的",
+    "def": ""
+   }
+  ]
+ },
+ "cytosine": {
+  "ph": "/'saitәsi:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 胞嘧啶",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 胞嘧啶",
+    "def": ""
+   }
+  ]
+ },
+ "cytotoxic": {
+  "ph": "/,saitә'tɔksik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "細胞毒素的",
+    "def": "of or relating to substances that are toxic to cells"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 細胞毒素的",
+    "def": ""
+   }
+  ]
+ }
+}

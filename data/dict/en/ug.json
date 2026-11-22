@@ -1,0 +1,86 @@
+{
+ "uganda": {
+  "ph": "/ju(:)'^ændә, u:'^ændә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏干達",
+    "def": "a landlocked republic in eastern Africa; achieved independence from the United Kingdom in 1962"
+   }
+  ]
+ },
+ "ugandan": {
+  "ph": "/ju:'^ændәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烏干達人",
+    "def": "a native or inhabitant of Uganda"
+   },
+   {
+    "pos": "adj.",
+    "zh": "烏干達(人)的",
+    "def": "of or relating to or characteristic of Uganda or its people"
+   }
+  ],
+  "forms": "複數 ugandans"
+ },
+ "ugc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "ultrasonic grating constant 超聲光柵常數; unity grain crossover 統一糧食切割",
+    "def": ""
+   }
+  ]
+ },
+ "ugh": {
+  "ph": "/uh, ә:h/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "咄!, 啊!, 呸!",
+    "def": "An exclamation expressive of disgust, horror, or recoil."
+   }
+  ],
+  "forms": "複數 ughs"
+ },
+ "ugliness": {
+  "ph": "/'ʌglinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醜陋",
+    "def": "qualities of appearance that do not give pleasure to the senses"
+   }
+  ],
+  "forms": "複數 uglinesses"
+ },
+ "ugly": {
+  "ph": "/'ʌgli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "醜陋的, 邪惡的, 險惡的, 不祥的",
+    "def": "displeasing to the senses"
+   },
+   {
+    "pos": "n.",
+    "zh": "醜陋的人(或物)",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 ugliest｜比較級 uglier｜複數 uglies"
+ },
+ "ugt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "急電",
+    "def": ""
+   }
+  ]
+ }
+}

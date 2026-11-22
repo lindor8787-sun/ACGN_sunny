@@ -1,0 +1,579 @@
+{
+ "ef": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "每面（each face）；超精度（extremely fine）；仰角指示器（Elevation Finder）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 efs"
+ },
+ "efa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "essential fatty acids 必需的脂肪酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 efas"
+ },
+ "eff": {
+  "ph": "/ef/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "[俚]弄糟",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 effing｜過去式 effed｜第三人稱單數 effs｜過去分詞 effed"
+ },
+ "efface": {
+  "ph": "/i'feis/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "抹去, 消除, 忘卻",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 effaced｜過去式 effaced｜第三人稱單數 effaces｜現在分詞 effacing"
+ },
+ "effacement": {
+  "ph": "/ɪ'feɪsmənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抹消, 抹殺",
+    "def": "shortening of the uterine cervix and thinning of its walls as it is dilated during labor"
+   }
+  ]
+ },
+ "effect": {
+  "ph": "/i'fekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結果, 影響, 效果, 印象",
+    "def": "an impression (especially one that is artificial or contrived)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "實行, 引起, 完成",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 效果",
+    "def": ""
+   }
+  ],
+  "forms": "複數 effects｜過去分詞 effected｜現在分詞 effecting｜過去式 effected｜第三人稱單數 effects"
+ },
+ "effective": {
+  "ph": "/i'fektiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有效的, 有力的, 實際的",
+    "def": "producing or capable of producing an intended result or having a striking effect"
+   },
+   {
+    "pos": "n.",
+    "zh": "有生力量",
+    "def": ""
+   }
+  ]
+ },
+ "effectively": {
+  "ph": "/i'fektivli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有效地, 有力地, 實際上",
+    "def": ""
+   }
+  ]
+ },
+ "effectiveness": {
+  "ph": "/i'fektivnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "效力",
+    "def": "power to be effective; the quality of being able to bring about an effect"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 有效性, 能行性",
+    "def": ""
+   }
+  ]
+ },
+ "effector": {
+  "ph": "/i'fektә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "效應器, 效應基因",
+    "def": "a nerve fiber that terminates on a muscle or gland and stimulates contraction or secretion"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 格式控制字元",
+    "def": ""
+   }
+  ],
+  "forms": "複數 effectors"
+ },
+ "effects": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "財物, 個人財產",
+    "def": "property of a personal character that is portable but not used in business"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 動產, 財物",
+    "def": ""
+   }
+  ]
+ },
+ "effectual": {
+  "ph": "/i'fektʃuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有效果的, 會應驗的, 有法律效力的",
+    "def": ""
+   }
+  ]
+ },
+ "effectually": {
+  "ph": "/i'fektʃuәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有效地；全然；實質上",
+    "def": ""
+   }
+  ]
+ },
+ "effectuate": {
+  "ph": "/i'fektʃueit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使發生, 實行, 完成",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 effectuates｜過去分詞 effectuated｜現在分詞 effectuating｜過去式 effectuated"
+ },
+ "effeminacy": {
+  "ph": "/i'feminәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "柔弱, 女人氣",
+    "def": "the trait of being effeminate (derogatory of a man)"
+   }
+  ]
+ },
+ "effeminate": {
+  "ph": "/i'feminit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "柔弱的, 女人氣的",
+    "def": ""
+   }
+  ]
+ },
+ "effendi": {
+  "ph": "/e'fendi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<土><敬>閣下, 先生",
+    "def": "a former Turkish term of respect; especially for government officials"
+   }
+  ]
+ },
+ "efferent": {
+  "ph": "/'efәrәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "傳出的",
+    "def": "of nerves and nerve impulses; conveying information away from the CNS"
+   },
+   {
+    "pos": "n.",
+    "zh": "輸出管",
+    "def": ""
+   }
+  ]
+ },
+ "effervesce": {
+  "ph": "/.efә'ves/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "冒泡, 泡騰, 興奮",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 起泡, 發氣泡",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 effervesces｜現在分詞 effervescing｜過去式 effervesced｜過去分詞 effervesced"
+ },
+ "effervescence": {
+  "ph": "/.efә'vesns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冒泡, 歡騰, 興高采烈",
+    "def": "the process of bubbling as gas escapes"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 泡騰; 起泡; 起泡沫",
+    "def": ""
+   }
+  ]
+ },
+ "effervescent": {
+  "ph": "/.efә'vesnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "冒泡的, 興奮的, 泡騰的",
+    "def": "(of a liquid) giving off bubbles"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 泡騰的, 泡騰劑",
+    "def": ""
+   }
+  ]
+ },
+ "effete": {
+  "ph": "/i'fi:t/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貧瘠的, 枯竭的, 衰微的",
+    "def": ""
+   }
+  ]
+ },
+ "efficacious": {
+  "ph": "/.efi'keiʃәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有效的, 靈驗的",
+    "def": "marked by qualities giving the power to produce an intended effect"
+   }
+  ]
+ },
+ "efficacy": {
+  "ph": "/'efikәsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "功效, 效力",
+    "def": "capacity or power to produce a desired effect"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 效能, 功效, 效驗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 efficacies"
+ },
+ "efficiency": {
+  "ph": "/i'fiʃәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "效率, 效能, 功效",
+    "def": "the ratio of the output to the input of any system"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 效率, 效力",
+    "def": ""
+   }
+  ],
+  "forms": "複數 efficiencies"
+ },
+ "efficient": {
+  "ph": "/i'fiʃәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有效率的, 能幹的",
+    "def": "being effective without wasting time or effort or expense"
+   }
+  ]
+ },
+ "efficiently": {
+  "ph": "/i'fiʃәntli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "生效, 能勝任, 有能力, 效率高, 有效",
+    "def": ""
+   }
+  ]
+ },
+ "effigy": {
+  "ph": "/'efidʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肖像, 雕像",
+    "def": "a representation of a person (especially in the form of sculpture)"
+   }
+  ],
+  "forms": "複數 effigies"
+ },
+ "effing": {
+  "ph": "/ˈefɪŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "該死的, 混賬的（尤用於生氣或惱火時）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 effing"
+ },
+ "efflorescence": {
+  "ph": "/.eflɒ:'resәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開花, 風化",
+    "def": "a powdery deposit on a surface"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 風化",
+    "def": ""
+   }
+  ],
+  "forms": "複數 efflorescences"
+ },
+ "effluent": {
+  "ph": "/'efluәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "流出的, 射出的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "流出物, 由河湖等流出之水流",
+    "def": "water mixed with waste matter"
+   }
+  ],
+  "forms": "複數 effluents"
+ },
+ "effluvia": {
+  "ph": "/i'flu:vjә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 洩出, 排出, 排出物, 臭氣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 effluvia"
+ },
+ "effluvium": {
+  "ph": "/i'flu:viәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "臭氣, 惡臭, 廢料",
+    "def": "a foul-smelling outflow or vapor (especially a gaseous waste)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 洩出, 排出, 排出物, 臭氣",
+    "def": ""
+   }
+  ]
+ },
+ "efflux": {
+  "ph": "/'eflʌks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流出物, 流出, 消逝",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 溢位物, 流產, 射流(物理)",
+    "def": ""
+   }
+  ]
+ },
+ "effort": {
+  "ph": "/'efәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "努力, 成就",
+    "def": "use of physical or mental energy; hard work"
+   }
+  ],
+  "forms": "複數 efforts"
+ },
+ "effortful": {
+  "ph": "/'efәtfjl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "顯示努力的,充滿努力的,需要努力的",
+    "def": "requiring great physical effort"
+   }
+  ]
+ },
+ "effortless": {
+  "ph": "/'efәtlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "容易的, 不費力氣的",
+    "def": "requiring or apparently requiring no effort"
+   }
+  ]
+ },
+ "effortlessly": {
+  "ph": "/'efətləslɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不作努力地, 不費力地",
+    "def": ""
+   }
+  ]
+ },
+ "effortlessness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "effortless的變形",
+    "def": "the quality of requiring little effort"
+   }
+  ]
+ },
+ "effrontery": {
+  "ph": "/i'frʌntәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "厚顏無恥",
+    "def": ""
+   }
+  ]
+ },
+ "effulgence": {
+  "ph": "/i'fʌldʒәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "光輝, 燦爛",
+    "def": ""
+   }
+  ]
+ },
+ "effulgent": {
+  "ph": "/i'fʌldʒәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "光輝燦爛的",
+    "def": ""
+   }
+  ]
+ },
+ "effusion": {
+  "ph": "/i'fju:ʒәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流出物, 瀉出",
+    "def": "an unrestrained expression of emotion"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 瀉流; 滲透; 隙透",
+    "def": ""
+   }
+  ],
+  "forms": "複數 effusions"
+ },
+ "effusive": {
+  "ph": "/i'fju:siv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "感情橫溢的, 奔放的, 流出的",
+    "def": ""
+   }
+  ]
+ },
+ "effusively": {
+  "ph": "/ɪ'fju:sɪvlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "變溢地, 熱情洋溢地",
+    "def": ""
+   }
+  ]
+ },
+ "efl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 發射極功能邏輯電路",
+    "def": ""
+   }
+  ]
+ },
+ "efta": {
+  "ph": "/'eftә/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "European Free Trade Area 歐洲自由貿易地域",
+    "def": ""
+   },
+   {
+    "pos": "abbr.",
+    "zh": "European Free Trade Association  歐洲自由貿易協會",
+    "def": ""
+   }
+  ]
+ }
+}

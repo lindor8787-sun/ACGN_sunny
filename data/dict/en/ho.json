@@ -1,0 +1,6480 @@
+{
+ "ho": {
+  "ph": "/hәu/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "嗬(表示驚訝或引人注意)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鈥(67號元素)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hos"
+ },
+ "hoagie": {
+  "ph": "/'hәj^i/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<美>=hero sandwich",
+    "def": ""
+   }
+  ]
+ },
+ "hoar": {
+  "ph": "/hɒ:/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "白的, 灰色的, 發白的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "灰白, 灰白色, 白霜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoars"
+ },
+ "hoard": {
+  "ph": "/hɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貯藏物, 密藏的金錢",
+    "def": "a secret store of valuables or money"
+   },
+   {
+    "pos": "v.",
+    "zh": "囤積, 貯藏",
+    "def": "save up as for future use"
+   }
+  ],
+  "forms": "複數 hoards｜現在分詞 hoarding｜過去分詞 hoarded｜過去式 hoarded｜第三人稱單數 hoards"
+ },
+ "hoarder": {
+  "ph": "/'hɒ:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "囤積者, 貯藏者",
+    "def": "a person who accumulates things and hides them away for future use"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 囤戶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoarders"
+ },
+ "hoarding": {
+  "ph": "/'hɒ:diŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "貯藏, 積蓄, 囤積, 臨時圍牆",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 囤積",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoardings｜現在分詞 hoarding"
+ },
+ "hoare": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 霍爾",
+    "def": ""
+   }
+  ]
+ },
+ "hoarfrost": {
+  "ph": "/'hɒ:frɒst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白霜",
+    "def": ""
+   }
+  ]
+ },
+ "hoarse": {
+  "ph": "/hɒ:s/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "沙啞的, 嘶啞的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 聲嘶的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 hoarser"
+ },
+ "hoarsely": {
+  "ph": "/hɔ:slɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "嘶啞地, 刺耳地",
+    "def": ""
+   }
+  ]
+ },
+ "hoarseness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粗啞, 嘶啞",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 聲嘶",
+    "def": ""
+   }
+  ]
+ },
+ "hoary": {
+  "ph": "/'hɒ:ri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "灰白的, 陳舊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 灰髮的, 白髮的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 hoariest｜比較級 hoarier"
+ },
+ "hoax": {
+  "ph": "/hәuks/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "欺騙, 哄騙, 愚弄",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "愚弄人, 惡作劇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoaxes｜過去分詞 hoaxed｜現在分詞 hoaxing｜過去式 hoaxed｜第三人稱單數 hoaxes"
+ },
+ "hoaxer": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "欺騙者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoaxers"
+ },
+ "hob": {
+  "ph": "/hɒb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滾刀, 鐵架, 捉弄人的精靈",
+    "def": "a hard steel edge tool used to cut gears"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 滾齒刀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hobs｜現在分詞 hobbing｜過去式 hobbed｜第三人稱單數 hobs｜過去分詞 hobbed"
+ },
+ "hobart": {
+  "ph": "/'hәubɑ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍巴特（澳大利亞地名）",
+    "def": "a port and state capital of Tasmania"
+   }
+  ]
+ },
+ "hobbes": {
+  "ph": "/hɔbz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍布斯（姓氏, 特指英國哲學家托馬斯·霍布斯）",
+    "def": "English materialist and political philosopher who advocated absolute sovereignty as the only kind of government that could resolve problems caused by the selfis"
+   }
+  ]
+ },
+ "hobbesian": {
+  "ph": "/'hɔbziәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(英國政治哲學家)霍布斯的, 霍布斯哲學的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hobbesians"
+ },
+ "hobbies": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嗜好；興趣愛好；燕隼；[英方]小馬（hobby的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "hobbit": {
+  "ph": "/'hɑbət/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（英國作家J R R Tolkien筆下的）",
+    "def": "an imaginary being similar to a person but smaller and with hairy feet; invented by J.R.R. Tolkien"
+   }
+  ],
+  "forms": "複數 hobbits｜第三人稱單數 hobbits"
+ },
+ "hobble": {
+  "ph": "/'hɒbl/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "蹣跚",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使跛行, 阻礙",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "跛行",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 hobbled｜現在分詞 hobbling｜過去分詞 hobbled｜第三人稱單數 hobbles｜複數 hobbles"
+ },
+ "hobbled": {
+  "ph": "/ˈhɔbəld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "跛行, 蹣跚, 一瘸一拐地走( hobble的過去式和過去分詞 ); 捆縛（馬等）之兩腿（以防走失）",
+    "def": ""
+   }
+  ]
+ },
+ "hobbs": {
+  "ph": "/hɔbz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍布斯（人名）",
+    "def": "notable English cricketer (1882-1963)"
+   }
+  ]
+ },
+ "hobby": {
+  "ph": "/'hɒbi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嗜好, 癖好, 愛好",
+    "def": "a child's plaything consisting of an imitation horse mounted on rockers; the child straddles it and pretends to ride"
+   }
+  ],
+  "forms": "複數 hobbies"
+ },
+ "hobbyist": {
+  "ph": "/'hɔbiist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有業餘癖好者",
+    "def": "a person who pursues an activity in their spare time for pleasure"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 業餘愛好者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hobbyists"
+ },
+ "hobgoblin": {
+  "ph": "/'hɒbgɒblin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "妖怪, 幽靈",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hobgoblins"
+ },
+ "hobhouse": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍布豪斯",
+    "def": ""
+   }
+  ]
+ },
+ "hobnob": {
+  "ph": "/'hɒbnɒb/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "過從甚密, 共飲, 交談",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "共飲, 交談",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hobnobbing｜複數 hobnobs｜過去式 hobnobbed｜第三人稱單數 hobnobs｜過去分詞 hobnobbed"
+ },
+ "hobo": {
+  "ph": "/'hәubәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無業遊民, 流浪漢, 流動人口",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "過流浪生涯",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hobos"
+ },
+ "hobsbawm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hobsbawm)人名；(英)霍布斯鮑姆",
+    "def": ""
+   }
+  ]
+ },
+ "hobson": {
+  "ph": "/'hɔbsn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍布森(姓氏)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hobsons"
+ },
+ "hoc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "下議院, 眾議院（House of Commons）；肝卵圓細胞（Hepaticoval Cells）；重油催化裂化（Heavy Oil Cracking ）；最高輸出通道（Highest Outgoing Channel）；均質鑄錠（Homogeneous Casting）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hocs"
+ },
+ "hoch": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hoch)人名；(英、瑞典)霍克；(德、羅、捷)霍赫；(法)奧克",
+    "def": ""
+   }
+  ]
+ },
+ "hock": {
+  "ph": "/hɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "踝關節, 德國產白葡萄酒, 服刑所",
+    "def": "tarsal joint of the hind leg of hoofed mammals; corresponds to the human ankle"
+   },
+   {
+    "pos": "vt.",
+    "zh": "典當, 割斷踝腱使成殘廢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hocks｜現在分詞 hocking｜過去式 hocked｜過去分詞 hocked｜第三人稱單數 hocks"
+ },
+ "hockey": {
+  "ph": "/'hɒki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冰球, 曲棍球",
+    "def": ""
+   }
+  ]
+ },
+ "hockley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hockley)人名；(英)霍克利",
+    "def": ""
+   }
+  ]
+ },
+ "hockney": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍克尼（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "hod": {
+  "ph": "/hɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "木製容器, 煤鬥, 裝木炭容器",
+    "def": "an open box attached to a long pole handle; bricks or mortar are carried on the shoulder"
+   }
+  ],
+  "forms": "第三人稱單數 hods｜複數 hods"
+ },
+ "hodder": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍德（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "hodge": {
+  "ph": "/hɔdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍奇（男子名, 等於Roger）",
+    "def": ""
+   }
+  ]
+ },
+ "hodgepodge": {
+  "ph": "/'hɒdʒpɒdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雜燴菜, 混雜物",
+    "def": ""
+   }
+  ]
+ },
+ "hodges": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍奇斯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "hodgkin": {
+  "ph": "/'hɔdʒkin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍奇金（英國生理學家、生物物理學家, 曾獲1963年諾貝爾生理學-醫學獎）；霍奇金（英國女化學家, 曾獲1964年諾貝爾化學獎）",
+    "def": "English physician who first described Hodgkin's disease (1798-1866)"
+   }
+  ]
+ },
+ "hodgkinson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍奇金森",
+    "def": ""
+   }
+  ]
+ },
+ "hodgson": {
+  "ph": "/'hɔdʒsn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍奇森(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "hodkinson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hodkinson)人名；(英)霍金森",
+    "def": ""
+   }
+  ]
+ },
+ "hodson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hodson)人名；(英)霍德森",
+    "def": ""
+   }
+  ]
+ },
+ "hoe": {
+  "ph": "/hәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鋤頭",
+    "def": "a tool with a flat blade attached at right angles to a long handle"
+   },
+   {
+    "pos": "v.",
+    "zh": "用鋤耕地, 鋤",
+    "def": "dig with a hoe"
+   }
+  ],
+  "forms": "現在分詞 hoeing｜複數 hoes｜過去分詞 hoed｜過去式 hoed｜第三人稱單數 hoes"
+ },
+ "hoechst": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "赫斯特（德國公司）",
+    "def": ""
+   }
+  ]
+ },
+ "hoedown": {
+  "ph": "/'hәudaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "方形舞, 方形舞舞會",
+    "def": ""
+   }
+  ]
+ },
+ "hoey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hoey)人名；(英)霍伊；(德)赫伊",
+    "def": ""
+   }
+  ]
+ },
+ "hof": {
+  "ph": "/hɔf/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 核窩(核所在處的胞漿空腔)",
+    "def": ""
+   }
+  ]
+ },
+ "hoffman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 霍夫曼",
+    "def": ""
+   }
+  ]
+ },
+ "hoffmann": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍夫曼（德國姓氏）",
+    "def": "Austrian architect known for his use of rectilinear units (1870-1956)"
+   }
+  ]
+ },
+ "hofmann": {
+  "ph": "/'hɔfmәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍夫曼(①姓氏 ②August Wilhelm von, 1818-1892, 德國有機化學家)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hofmanns"
+ },
+ "hog": {
+  "ph": "/hɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豬, 貪婪者, 象豬般的人",
+    "def": "a person regarded as greedy and pig-like"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)拱起",
+    "def": "take greedily; take more than one's share"
+   }
+  ],
+  "forms": "現在分詞 hogging｜複數 hogs｜過去式 hogged｜第三人稱單數 hogs｜過去分詞 hogged"
+ },
+ "hogan": {
+  "ph": "/'hәuɡәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泥蓋木屋",
+    "def": "United States golfer who won many major golf tournaments (1912-1997)"
+   }
+  ],
+  "forms": "複數 hogans"
+ },
+ "hogarth": {
+  "ph": "/'hәu^ɑ:θ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "賀加斯(①姓氏 ②William, 1697-1764, 英國繪 畫家和雕刻家)",
+    "def": ""
+   }
+  ]
+ },
+ "hogback": {
+  "ph": "/'hɒgbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拱起的背部, 鬃丘",
+    "def": "a narrow ridge of hills"
+   }
+  ]
+ },
+ "hogg": {
+  "ph": "/hɔ^/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍格(姓氏)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoggs｜第三人稱單數 hoggs"
+ },
+ "hoggart": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 霍格特",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoggarts"
+ },
+ "hogmanay": {
+  "ph": "/'hɔ^mәnei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大年夜, 除夕禮物",
+    "def": "New Year's Eve in Scotland"
+   }
+  ],
+  "forms": "複數 hogmanays"
+ },
+ "hogshead": {
+  "ph": "/'hɔ^zhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大桶",
+    "def": "a British unit of capacity for alcoholic beverages"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 豬頭桶(裝酒用52.5加侖容量桶)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hogsheads"
+ },
+ "hogwash": {
+  "ph": "/'hɒgwɒʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泔腳, 廢話, 空洞的作品",
+    "def": ""
+   }
+  ]
+ },
+ "hohenzollern": {
+  "ph": "/'hәuәntsәlәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍亨索倫王室(德國普魯士王室, 1701-1918)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hohenzollerns"
+ },
+ "hoi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "鋼鐵雄心（遊戲名, Hearts of Iron）；高階介面（High Order Interface）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoi"
+ },
+ "hoist": {
+  "ph": "/hɒist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "升高, 起重機, 推動",
+    "def": "lifting device for raising heavy or cumbersome objects"
+   },
+   {
+    "pos": "v.",
+    "zh": "升起, 升高, 舉起",
+    "def": "raise or haul up with or as if with mechanical help"
+   }
+  ],
+  "forms": "過去式 hoisted｜過去分詞 hoisted｜現在分詞 hoisting｜第三人稱單數 hoists｜複數 hoists"
+ },
+ "hokey": {
+  "ph": "/'hәjki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "虛情假意的, 做作的",
+    "def": ""
+   }
+  ]
+ },
+ "hokkaido": {
+  "ph": "/hɔ'kaidәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "北海道（日本第二大島）",
+    "def": "the second largest of the four main islands of Japan; to the north of Honshu"
+   }
+  ]
+ },
+ "hokum": {
+  "ph": "/'houkәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "低階噱頭, 廢話",
+    "def": ""
+   }
+  ]
+ },
+ "hol": {
+  "ph": "/hɔl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<英口>假日",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hols｜第三人稱單數 hols"
+ },
+ "holbein": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍爾拜因（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "holborn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Holborn)人名；(英、瑞典)霍爾本",
+    "def": ""
+   }
+  ]
+ },
+ "holbrook": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Holbrook)人名；(英)霍爾布魯克",
+    "def": ""
+   }
+  ]
+ },
+ "holcombe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Holcombe)人名；(英)霍爾庫姆",
+    "def": ""
+   }
+  ]
+ },
+ "hold": {
+  "ph": "/hәuld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "把握, 把持力, 柄, 控制, 掌握, 監禁",
+    "def": "power by which something or someone is affected or dominated"
+   },
+   {
+    "pos": "vt.",
+    "zh": "儲存, 握住, 拿住, 佔據, 持有, 擁有",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "支援, 持續, 有效",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "保留",
+    "def": "a stronghold"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 保留",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 held｜過去式 held｜現在分詞 holding｜第三人稱單數 holds｜複數 holds"
+ },
+ "hold-up": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 塔藏量; 滯留量",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hold-ups"
+ },
+ "holdall": {
+  "ph": "/'hәjldɔ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅行手提包, 手提箱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holdalls"
+ },
+ "holdback": {
+  "ph": "/'hәuldbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "妨害, 障礙",
+    "def": "Check; hindrance; restraint; obstacle."
+   }
+  ],
+  "forms": "複數 holdbacks"
+ },
+ "holden": {
+  "ph": "/'hәuldәn/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "留下；抱住；拿住（hold的過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "holder": {
+  "ph": "/'hәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "持有人, 所有人, 支援物",
+    "def": "a holding device"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 夾持器; 夾具; 貯罐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holders"
+ },
+ "holding": {
+  "ph": "/'hәuldiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "把持, 支援, 保持",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 租借地, 佔有物, 擁有的財產",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holdings｜現在分詞 holding"
+ },
+ "holdout": {
+  "ph": "/'hәuldaut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抵抗, 堅持, 支援",
+    "def": "a negotiator who hopes to gain concessions by refusing to come to terms"
+   }
+  ]
+ },
+ "holdover": {
+  "ph": "/'hәuldәuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "延期, 剩餘物, 任期屆滿後仍佔據同樣地位的人",
+    "def": "an official who remains in office after his term"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 緩繳稅款",
+    "def": ""
+   }
+  ]
+ },
+ "holdsworth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Holdsworth)人名；(英)霍爾茲沃思",
+    "def": ""
+   }
+  ]
+ },
+ "holdup": {
+  "ph": "/'hәuldʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攔劫行人的強盜行為, 劫盜, 停頓, 索高價",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 索高價, 阻礙, 停頓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holdups"
+ },
+ "hole": {
+  "ph": "/hәul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "孔, 洞, 穴, 漏洞",
+    "def": "an opening into or through something"
+   },
+   {
+    "pos": "vt.",
+    "zh": "挖洞, 掘坑",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "進洞, 鑿洞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holes｜過去式 holed｜過去分詞 holed｜現在分詞 holing｜第三人稱單數 holes"
+ },
+ "holey": {
+  "ph": "/'hәuli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有穴的, 多洞的",
+    "def": ""
+   }
+  ]
+ },
+ "holiday": {
+  "ph": "/'hɒlәdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "假日, 假期, 節日",
+    "def": "a day on which work is suspended by law or custom"
+   },
+   {
+    "pos": "vi.",
+    "zh": "度假",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holidays｜現在分詞 holidaying｜第三人稱單數 holidays｜過去式 holidayed｜過去分詞 holidayed"
+ },
+ "holidaymaker": {
+  "ph": "/'hɒlәdi.meikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "度假者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holidaymakers"
+ },
+ "holiness": {
+  "ph": "/'hәulinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神聖；聖座（大寫, 對教宗等的尊稱）",
+    "def": "the quality of being holy"
+   }
+  ],
+  "forms": "複數 holinesses"
+ },
+ "holism": {
+  "ph": "/'hәulizm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 機能整體性",
+    "def": ""
+   }
+  ]
+ },
+ "holist": {
+  "ph": "/'hәulist/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "整體論者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holists"
+ },
+ "holistic": {
+  "ph": "/hәj'listik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 完整的, 整體的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 機能整體性的",
+    "def": ""
+   }
+  ]
+ },
+ "holistically": {
+  "ph": "/ -kli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "holistic（整體的, 全盤的）的副詞形式",
+    "def": ""
+   }
+  ]
+ },
+ "holland": {
+  "ph": "/'hɒlәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荷蘭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hollands"
+ },
+ "hollandaise": {
+  "ph": "/,hɔlәn'deiz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(= hollandaise sauce)蛋黃奶油酸辣醬, 荷蘭式的",
+    "def": ""
+   }
+  ]
+ },
+ "holler": {
+  "ph": "/'hɒlә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "叫喊, 發牢騷, 抱怨",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "大聲叫喊",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "叫喊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 hollered｜現在分詞 hollering｜第三人稱單數 hollers｜複數 hollers｜過去分詞 hollered"
+ },
+ "hollering": {
+  "ph": "/ˈhɔlərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "喊出（某事物）, 叫喊( holler的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hollering"
+ },
+ "holliday": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍利迪（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "hollingsworth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hollingsworth)人名；(英)霍林斯沃思",
+    "def": ""
+   }
+  ]
+ },
+ "hollins": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hollins)人名；(英)霍林斯",
+    "def": ""
+   }
+  ]
+ },
+ "hollis": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍利斯（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "hollow": {
+  "ph": "/'hɒlәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洞, 窟窿, 山谷",
+    "def": "a cavity or space in something"
+   },
+   {
+    "pos": "adj.",
+    "zh": "空的, 虛偽的, 空腹的, 凹的",
+    "def": "not solid; having a space or gap or cavity"
+   },
+   {
+    "pos": "vi.",
+    "zh": "形成空洞",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "挖空",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hollows｜過去式 hollowed｜過去分詞 hollowed｜現在分詞 hollowing｜第三人稱單數 hollows"
+ },
+ "holloware": {
+  "ph": "/'hɔlәu,weә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鍋, 盤子",
+    "def": ""
+   }
+  ]
+ },
+ "holloway": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍洛韋（人名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holloways"
+ },
+ "hollowed": {
+  "ph": "/ˈhɔləud/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "挖洞( hollow的過去式和過去分詞 ); 挖空（某物）, 挖出（孔、洞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 hollowed"
+ },
+ "hollowing": {
+  "ph": "/'hɔlәuiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打凹成形（雕塑技法）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hollowings｜現在分詞 hollowing"
+ },
+ "hollowly": {
+  "ph": "/'hɒlәuli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "凹陷地, 空心地, 不誠實地",
+    "def": "Insincerely; deceitfully."
+   }
+  ]
+ },
+ "hollowness": {
+  "ph": "/'hɒlәunis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凹窩, 空曠, 空虛",
+    "def": "the state of being hollow: having an empty space within"
+   }
+  ]
+ },
+ "holly": {
+  "ph": "/'hɒli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冬青樹",
+    "def": "any tree or shrub of the genus Ilex having red berries and shiny evergreen leaves with prickly edges"
+   }
+  ],
+  "forms": "複數 hollies"
+ },
+ "hollyhock": {
+  "ph": "/'hɒlihɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜀葵",
+    "def": "any of various tall plants of the genus Alcea; native to the Middle East but widely naturalized and cultivated for its very large variously colored flowers"
+   }
+  ],
+  "forms": "複數 hollyhocks"
+ },
+ "hollywood": {
+  "ph": "/'hɔliwud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "好萊塢, 美國電影界, 美國電影工業, 美國式電影",
+    "def": "the film industry of the United States"
+   }
+  ]
+ },
+ "holm": {
+  "ph": "/hәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<主英>河邊肥沃的低地, 河(或湖)中小島",
+    "def": "A common evergreen oak, of Europe (Quercus Ilex); -- called"
+   }
+  ],
+  "forms": "複數 holms"
+ },
+ "holman": {
+  "ph": "/'hәulmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小群島",
+    "def": ""
+   }
+  ]
+ },
+ "holme": {
+  "ph": "/həulm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "河中沙洲；河邊的平地（等於holm）",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Holme)人名；(西)奧爾梅；(瑞典)霍爾梅；(英)霍姆",
+    "def": ""
+   }
+  ]
+ },
+ "holmes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "福爾摩斯（英國作家柯南道爾所著偵探小說中的神探）",
+    "def": "United States jurist noted for his liberal opinions (1841-1935)"
+   }
+  ]
+ },
+ "holocaust": {
+  "ph": "/'hɔlәkɔ:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大屠殺, 大火災, 毀滅, 大規模燒殺",
+    "def": "an act of mass destruction and loss of life (especially in war or by fire)"
+   }
+  ],
+  "forms": "複數 holocausts"
+ },
+ "hologram": {
+  "ph": "/'hɔlәu^ræm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "全息照相圖",
+    "def": "the intermediate photograph (or photographic record) that contains information for reproducing a three-dimensional image by holography"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 全息照相, 全息圖",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holograms"
+ },
+ "holograph": {
+  "ph": "/'hɒlәugræf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "親筆檔案",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "親筆的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holographs"
+ },
+ "holographic": {
+  "ph": "/,hɔlәu'^ræfik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 全息的",
+    "def": ""
+   }
+  ]
+ },
+ "holography": {
+  "ph": "/hɒ'lɒgrәfi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "全息攝影術",
+    "def": "the branch of optics that deals with the use of coherent light from a laser in order to make a hologram that can then be used to create a three-dimensional imag"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 全息照相術",
+    "def": ""
+   }
+  ]
+ },
+ "holroyd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Holroyd)人名；(英)霍爾羅伊德",
+    "def": ""
+   }
+  ]
+ },
+ "holst": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍爾斯特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "holstein": {
+  "ph": "/'hɔlstain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荷蘭的一種乳牛；黑白花牛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 holsteins"
+ },
+ "holster": {
+  "ph": "/'hәulstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手槍皮套",
+    "def": "a sheath (usually leather) for carrying a handgun"
+   }
+  ],
+  "forms": "複數 holsters｜過去式 holstered｜過去分詞 holstered｜現在分詞 holstering"
+ },
+ "holstered": {
+  "ph": "/'həʊlstə; 'hɒl-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "手槍皮套",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "(Holster)人名；(瑞典)霍爾斯特",
+    "def": ""
+   }
+  ]
+ },
+ "holt": {
+  "ph": "/hәult/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小林, 林丘",
+    "def": "A piece of woodland; especially, a woody hill."
+   }
+  ],
+  "forms": "複數 holts"
+ },
+ "holton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍爾頓（姓）；霍爾頓（英國, 美國地名）",
+    "def": ""
+   }
+  ]
+ },
+ "holy": {
+  "ph": "/'hәuli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神聖的, 聖潔的, 至善的",
+    "def": "belonging to or derived from or associated with a divine power"
+   },
+   {
+    "pos": "n.",
+    "zh": "神聖的東西",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 holiest｜比較級 holier｜複數 holies"
+ },
+ "holyfield": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Holyfield)人名；(英)霍利菲爾德",
+    "def": ""
+   }
+  ]
+ },
+ "holyhead": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍利黑德",
+    "def": ""
+   }
+  ]
+ },
+ "holyrood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍利魯德",
+    "def": ""
+   }
+  ]
+ },
+ "holyroodhouse": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荷里路德宮, 愛丁堡",
+    "def": ""
+   }
+  ]
+ },
+ "homage": {
+  "ph": "/'hɒmidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尊崇, 尊敬, 效忠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homages"
+ },
+ "hombre": {
+  "ph": "/'ɔmbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男人；傢伙；西班牙系的人",
+    "def": ""
+   }
+  ]
+ },
+ "homburg": {
+  "ph": "/'hɔmb\\\\\\\\:^/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漢堡帽, 小禮帽",
+    "def": ""
+   }
+  ]
+ },
+ "home": {
+  "ph": "/hәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家, 避難所, 故鄉",
+    "def": "where you live at a particular time"
+   },
+   {
+    "pos": "adj.",
+    "zh": "家庭的, 國內的, 打中目標的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在家, 在本國, 打中目標地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 返回始位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homes｜現在分詞 homing｜過去式 homed｜第三人稱單數 homes｜過去分詞 homed"
+ },
+ "home counties": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（英）倫敦周圍各郡",
+    "def": ""
+   }
+  ]
+ },
+ "home office": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "總機構, 總店, 總公司",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 家庭辦公",
+    "def": ""
+   }
+  ]
+ },
+ "home owner": {
+  "ph": "/həum ˈəunə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "業主",
+    "def": ""
+   }
+  ]
+ },
+ "home secretary": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（英國）內政大臣",
+    "def": ""
+   }
+  ]
+ },
+ "home-grown": {
+  "ph": "/'hәum'ɡrәun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "在當地出產的；本國產的",
+    "def": ""
+   }
+  ]
+ },
+ "home-made": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "家裡做的, 本國造的, 本國製造的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 自制的, 手工的",
+    "def": ""
+   }
+  ]
+ },
+ "homebody": {
+  "ph": "/'hәumbɒdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重視家庭生活的人, 喜歡在家消遣的男人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homebodies"
+ },
+ "homebound": {
+  "ph": "/'hәjmbajnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "回家(鄉)的, 回本國的",
+    "def": ""
+   }
+  ]
+ },
+ "homeboy": {
+  "ph": "/ˈhəʊmbɔɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老鄉, 同鄉; 宅男",
+    "def": "a fellow male member of a youth gang"
+   }
+  ],
+  "forms": "複數 homeboys"
+ },
+ "homebuilder": {
+  "ph": "/'həʊm,bɪldə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "住宅設計家；住宅建築公司；住宅建築商",
+    "def": "someone who builds houses as a business"
+   }
+  ]
+ },
+ "homebuyer": {
+  "ph": "/ˈhəʊmbaɪə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "購房者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homebuyers"
+ },
+ "homecoming": {
+  "ph": "/'hәumkʌmiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歸國, 省親回家, 同學會",
+    "def": "an annual school or university reunion for graduates"
+   }
+  ],
+  "forms": "複數 homecomings"
+ },
+ "homed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "回家（home的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ]
+ },
+ "homegirl": {
+  "ph": "/ˈhəʊmgɜ:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "閨蜜",
+    "def": "a fellow female member of a youth gang"
+   }
+  ]
+ },
+ "homegrown": {
+  "ph": "/hәum'grәun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自家種植的, 國產的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 homegrown｜複數 homegrowns"
+ },
+ "homeland": {
+  "ph": "/'hәumlænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "本國, 故國",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homelands"
+ },
+ "homeless": {
+  "ph": "/'hәumlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無家的, 無養主的",
+    "def": ""
+   }
+  ]
+ },
+ "homelessness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無家可歸",
+    "def": "the state or condition of having no home (especially the state of living in the streets)"
+   }
+  ]
+ },
+ "homelike": {
+  "ph": "/'hәumlaik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "在自己家似的, 舒適的, 自在的",
+    "def": ""
+   }
+  ]
+ },
+ "homeliness": {
+  "ph": "/'hәumlinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "樸素, 粗野, 尋常",
+    "def": "an appearance that is not attractive or beautiful"
+   }
+  ]
+ },
+ "homely": {
+  "ph": "/'hәumli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "家常的, 平凡的, 樸實無華的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 homelier"
+ },
+ "homemade": {
+  "ph": "/'hәum'meid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "自制的, 國產的",
+    "def": "made or produced in the home or by yourself"
+   }
+  ]
+ },
+ "homemaker": {
+  "ph": "/'hәummeikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主婦",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homemakers"
+ },
+ "homemaking": {
+  "ph": "/'hәummeikiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家政",
+    "def": "the management of a household"
+   }
+  ]
+ },
+ "homeopath": {
+  "ph": "/'hәumiәpɑ:θ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 順勢醫療者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homeopaths"
+ },
+ "homeopathic": {
+  "ph": "/'hәumiәu,pæθik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 順勢醫療的",
+    "def": ""
+   }
+  ]
+ },
+ "homeopathy": {
+  "ph": "/.hәumi'ɒpәθi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "順勢療法",
+    "def": "a method of treating disease with small amounts of remedies that, in large amounts in healthy people, produce symptoms similar to those being treated"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 順勢療法",
+    "def": ""
+   }
+  ]
+ },
+ "homeostasis": {
+  "ph": "/,hәumiәu'steisis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "體內平衡, 內環境穩定",
+    "def": "(physiology) metabolic equilibrium actively maintained by several complex biological mechanisms that operate via the autonomic nervous system to offset disrupti"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 動態靜止; 動態平衡",
+    "def": ""
+   }
+  ]
+ },
+ "homeostatic": {
+  "ph": "/,hәu miәu 'stætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "體內平衡, 內環境穩定",
+    "def": "related to or characterized by homeostasis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 內環境穩定的",
+    "def": ""
+   }
+  ]
+ },
+ "homeowner": {
+  "ph": "/'hәum.әunә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "私房屋主；自己擁有住房者",
+    "def": "someone who owns a home"
+   }
+  ],
+  "forms": "複數 homeowners"
+ },
+ "homepage": {
+  "ph": "/'hәumpeidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主頁",
+    "def": ""
+   }
+  ]
+ },
+ "homeplace": {
+  "ph": "/'hәjmpleis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出生地, 祖籍",
+    "def": ""
+   }
+  ]
+ },
+ "homer": {
+  "ph": "/'hәumә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "本壘打, 傳信鴿",
+    "def": "a base hit on which the batter scores a run"
+   }
+  ],
+  "forms": "複數 homers"
+ },
+ "homeric": {
+  "ph": "/hәu'merik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "荷馬的, 荷馬式的, 古希臘時代的",
+    "def": "relating to or characteristic of Homer or his age or the works attributed to him"
+   }
+  ]
+ },
+ "homeroom": {
+  "ph": "/'hәjmru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學生接受指導的教室",
+    "def": ""
+   }
+  ]
+ },
+ "homerun": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "跑吧！孩子",
+    "def": ""
+   }
+  ]
+ },
+ "homesick": {
+  "ph": "/'hәumsik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "思家的, 思鄉病的",
+    "def": ""
+   }
+  ]
+ },
+ "homesickness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鄉愁",
+    "def": "a longing to return home"
+   }
+  ]
+ },
+ "homesite": {
+  "ph": "/'hәumsait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "住宅根據地, 家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homesites"
+ },
+ "homespun": {
+  "ph": "/'hәjmspʌn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "家裡紡的, 家裡做的, 簡樸的, 不做作的, 平凡的, 樸素的, 樸實的, 粗陋的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "土布",
+    "def": "a rough loosely woven fabric originally made with yarn that was spun at home"
+   }
+  ]
+ },
+ "homestead": {
+  "ph": "/'hәumsted/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家園, 田產",
+    "def": "the home and adjacent grounds occupied by a family"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 宅基地, 住宅",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homesteads｜現在分詞 homesteading"
+ },
+ "homesteader": {
+  "ph": "/'hәjm,stedә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 佔有宅地的人, 承領開墾的公地的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homesteaders"
+ },
+ "homesteading": {
+  "ph": "/'həʊmsted/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宅地；家園；田產",
+    "def": ""
+   }
+  ]
+ },
+ "homestretch": {
+  "ph": "/'hәumstretʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(比賽)決勝跑道",
+    "def": "the end of an enterprise"
+   }
+  ]
+ },
+ "hometown": {
+  "ph": "/hәum'taun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "故鄉, 家鄉",
+    "def": "the town (or city) where you grew up or where you have your principal residence"
+   }
+  ]
+ },
+ "homeward": {
+  "ph": "/'hәumwәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "在歸途上的, 向家的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "在歸途上, 向家地",
+    "def": ""
+   }
+  ]
+ },
+ "homewards": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "向家(鄉), 向本國",
+    "def": ""
+   }
+  ]
+ },
+ "homework": {
+  "ph": "/'hәumwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家庭作業, 家裡做的工作",
+    "def": "preparatory school work done outside school (especially at home)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 家庭作業",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homeworks｜現在分詞 homeworking"
+ },
+ "homeworker": {
+  "ph": "/'hәjm'w\\\\\\\\:kә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家庭僱傭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homeworkers"
+ },
+ "homey": {
+  "ph": "/'hәumi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "家庭似的, 自在的, 舒適的",
+    "def": ""
+   }
+  ]
+ },
+ "homicidal": {
+  "ph": "/.hɒmi'saidl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "殺人的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 殺人犯的, 有殺人癖好的",
+    "def": ""
+   }
+  ]
+ },
+ "homicide": {
+  "ph": "/'hɒmisaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "殺人, 殺人者",
+    "def": "the killing of a human being by another human being"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 殺人, 殺人者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homicides"
+ },
+ "homie": {
+  "ph": "/'hәjmi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "家庭似的, 舒適的, 自在的",
+    "def": ""
+   }
+  ]
+ },
+ "homiletic": {
+  "ph": "/.hɒmi'letik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "說教術的, 說教的, 教訓的",
+    "def": "of the nature of a homily or sermon"
+   }
+  ],
+  "forms": "複數 homiletics"
+ },
+ "homiletics": {
+  "ph": "/.hɒmi'letiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說教術",
+    "def": "the branch of theology that deals with sermons and homilies"
+   }
+  ]
+ },
+ "homily": {
+  "ph": "/'hɒmili/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "說教, 訓誡",
+    "def": "a sermon on a moral or religious topic"
+   }
+  ],
+  "forms": "複數 homilies"
+ },
+ "homing": {
+  "ph": "/'hәumiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歸航, 動物的返回性",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "有返回性的, 回家的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 homing"
+ },
+ "hominid": {
+  "ph": "/'hɒminid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人科的動物",
+    "def": "a primate of the family Hominidae"
+   }
+  ],
+  "forms": "複數 hominids"
+ },
+ "hominy": {
+  "ph": "/'hɒmini/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玉米粥",
+    "def": "hulled corn with the bran and germ removed"
+   }
+  ]
+ },
+ "homo": {
+  "ph": "/'hәumәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 最高佔據軌道; 最高佔據分子軌道; 最高已佔分子軌道",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 人屬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homos"
+ },
+ "homoclinic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "同宿波",
+    "def": ""
+   }
+  ]
+ },
+ "homocysteine": {
+  "ph": "/,hәumәu'sisti:in/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 高半胱氨酸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 高半胱氨酸",
+    "def": ""
+   }
+  ]
+ },
+ "homoeopathic": {
+  "ph": "/,hәumjәu'pæθik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "順勢療法的",
+    "def": ""
+   }
+  ]
+ },
+ "homoeopathy": {
+  "ph": "/,hәumi'ɔpәθi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "順勢療法",
+    "def": ""
+   }
+  ]
+ },
+ "homoerotic": {
+  "ph": "/,hɔmәji'rɔtik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 同性戀愛的",
+    "def": ""
+   }
+  ]
+ },
+ "homoeroticism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 同性性慾, 同性戀愛",
+    "def": ""
+   }
+  ]
+ },
+ "homogenate": {
+  "ph": "/hә'mɔdʒineit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] [組織]勻漿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homogenates｜第三人稱單數 homogenates"
+ },
+ "homogeneity": {
+  "ph": "/.hɒmәdʒe'ni:iti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同種, 同質, 齊性",
+    "def": "the quality of being similar or comparable in kind or nature"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 同種性, 純一性, 同質性, 均勻性",
+    "def": ""
+   }
+  ]
+ },
+ "homogeneous": {
+  "ph": "/.hәumә'dʒi:niәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同種的, 同質的, 齊性的",
+    "def": "all of the same or similar kind or nature"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 同種的, 純一的, 同質的, 均勻的",
+    "def": ""
+   }
+  ]
+ },
+ "homogeneously": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同一的, 基因",
+    "def": ""
+   }
+  ]
+ },
+ "homogenisation": {
+  "ph": "/ˌhəʊmədʒənɑɪ'zeɪʃən/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "均化",
+    "def": ""
+   }
+  ]
+ },
+ "homogenise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使均勻",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 homogenised｜過去式 homogenised｜現在分詞 homogenising"
+ },
+ "homogenization": {
+  "ph": "/,hәumәdʒәnai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 均勻性, 均化作用",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 均化; 均化作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homogenizations"
+ },
+ "homogenize": {
+  "ph": "/hɒ'mɒdʒәnaiz/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "變均勻",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使均勻",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 homogenized｜現在分詞 homogenizing｜第三人稱單數 homogenizes｜過去式 homogenized"
+ },
+ "homogenized": {
+  "ph": "/həˈmɒdʒənaɪzd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（牛奶中的油脂粒）均勻分佈的, 均質的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "使類同( homogenize的過去式和過去分詞 ); 使…均質",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 homogenized"
+ },
+ "homogenizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 均質化",
+    "def": ""
+   }
+  ]
+ },
+ "homogenous": {
+  "ph": "/hә'mɔdʒinәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同質的, 相似的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 同源的, 純系的, 同質的",
+    "def": ""
+   }
+  ]
+ },
+ "homograph": {
+  "ph": "/'hɒmәugræf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同形異義字",
+    "def": "two words are homographs if they are spelled the same way but differ in meaning (e.g. fair)"
+   }
+  ],
+  "forms": "複數 homographs"
+ },
+ "homologous": {
+  "ph": "/hɒ'mɒlәgәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相應的, 同源的, 一致的",
+    "def": "having the same evolutionary origin but not necessarily the same function"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 同種的(組織,血清), 同系的(化合物), 相應的, 類似的",
+    "def": ""
+   }
+  ]
+ },
+ "homologue": {
+  "ph": "/'hɔmәlɔ^/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 同種組織, 同系[化合]物, 相應的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homologues"
+ },
+ "homology": {
+  "ph": "/hɒ'mɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "相同, 異體同形, 同族關係",
+    "def": "the quality of being similar or corresponding in position or value or structure or function"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 同源性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homologies"
+ },
+ "homonym": {
+  "ph": "/'hɒmәunim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同音異義字, 同名異物",
+    "def": "two words are homonyms if they are pronounced or spelled the same way but have different meanings"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 同名物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homonyms"
+ },
+ "homonymy": {
+  "ph": "/hɔ'mɔnimi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同名,歧義",
+    "def": "the relation between two words that are spelled the same way but differ in meaning or the relation between two words that are pronounced the same way but differ"
+   }
+  ]
+ },
+ "homophobe": {
+  "ph": "/ˈhɔməfəub/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "憎惡同性戀的人",
+    "def": "a person who hates or fears homosexual people"
+   }
+  ],
+  "forms": "複數 homophobes｜第三人稱單數 homophobes"
+ },
+ "homophobia": {
+  "ph": "/,hәumә'fәubiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "對同性戀的憎惡（或恐懼）",
+    "def": "prejudice against (fear or dislike of) homosexual people and homosexuality"
+   }
+  ]
+ },
+ "homophobic": {
+  "ph": "/,hɔmə'fəubik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "害怕同性戀的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homophobics"
+ },
+ "homophone": {
+  "ph": "/'hɔmәufәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同音異形異義字",
+    "def": "two words are homophones if they are pronounced the same way but differ in meaning or spelling or both (e.g. bare and bear)"
+   }
+  ],
+  "forms": "複數 homophones｜第三人稱單數 homophones"
+ },
+ "homophony": {
+  "ph": "/hɒ'mɒfәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同音, 齊唱, 齊奏",
+    "def": "the same pronunciation for words of different origins"
+   }
+  ]
+ },
+ "homosexual": {
+  "ph": "/.hɒmәu'sekjuәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同性戀的",
+    "def": "sexually attracted to members of your own sex"
+   },
+   {
+    "pos": "n.",
+    "zh": "同性戀者",
+    "def": "someone who practices homosexuality; having a sexual attraction to persons of the same sex"
+   }
+  ],
+  "forms": "複數 homosexuals"
+ },
+ "homosexuality": {
+  "ph": "/-'æliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同性戀",
+    "def": "a sexual attraction to (or sexual relations with) persons of the same sex"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 同性性慾, 同性戀愛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 homosexualities"
+ },
+ "homozygous": {
+  "ph": "/,hɔmә'zai^әus/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 純合的, 同型[接合]的",
+    "def": ""
+   }
+  ]
+ },
+ "homunculus": {
+  "ph": "/hәu'mʌŋkjulәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "侏儒",
+    "def": "a tiny fully formed individual that (according to the discredited theory of preformation) is supposed to be present in the sperm cell"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 小人(精神病人幻想的), 矮人",
+    "def": ""
+   }
+  ]
+ },
+ "hon": {
+  "ph": "/hʌn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] δ-羥基-γ-氧代正纈氨酸",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 羥氧基正纈氨酸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hons｜現在分詞 honing"
+ },
+ "honcho": {
+  "ph": "/'hɒntʃәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老闆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honchos"
+ },
+ "honda": {
+  "ph": "/'hɔndә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "本田汽車公司",
+    "def": ""
+   }
+  ]
+ },
+ "honduran": {
+  "ph": "/hɔn'djuәrәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "宏都拉斯的",
+    "def": "of or relating to or characteristic of Honduras or its people"
+   }
+  ],
+  "forms": "複數 hondurans"
+ },
+ "honduras": {
+  "ph": "/hɒn'djurәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宏都拉斯",
+    "def": "a republic in Central America; achieved independence from Spain in 1821; an early center of Mayan culture"
+   }
+  ]
+ },
+ "hone": {
+  "ph": "/hәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "磨刀石, 抱怨, 想念",
+    "def": "a whetstone made of fine gritstone; used for sharpening razors"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用磨刀石磨, 磨練",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 honed｜過去式 honed｜第三人稱單數 hones｜複數 hones｜現在分詞 honing"
+ },
+ "honecker": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Honecker)人名；(法、德)昂納克",
+    "def": ""
+   }
+  ]
+ },
+ "honest": {
+  "ph": "/'ɒnist/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "誠實的, 坦直的, 可靠的",
+    "def": "not disposed to cheat or defraud; not deceptive or fraudulent"
+   }
+  ]
+ },
+ "honestly": {
+  "ph": "/'ɒnistli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "真誠地, 公正地",
+    "def": ""
+   }
+  ]
+ },
+ "honesty": {
+  "ph": "/'ɒnisti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "誠實, 公正, 正直",
+    "def": "the quality of being honest"
+   }
+  ]
+ },
+ "honey": {
+  "ph": "/'hʌni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜂蜜, 甜蜜, 愛人",
+    "def": "a sweet yellow liquid produced by bees"
+   },
+   {
+    "pos": "adj.",
+    "zh": "蜂蜜似的, 甜蜜的, 甘美的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "加蜜使甜, 對...說甜言蜜語",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "說甜言蜜語, 奉承",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honeys｜現在分詞 honeying｜過去式 honied｜第三人稱單數 honeys｜過去分詞 honied"
+ },
+ "honeybee": {
+  "ph": "/'hʌnibi:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜜蜂",
+    "def": "social bee often domesticated for the honey it produces"
+   }
+  ],
+  "forms": "複數 honeybees"
+ },
+ "honeycomb": {
+  "ph": "/'hʌnikәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜂巢, 蜂房, 蜂窩",
+    "def": "a structure of small hexagonal cells constructed from beeswax by bees and used to store honey and larvae"
+   },
+   {
+    "pos": "adj.",
+    "zh": "蜂巢的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成蜂巢狀",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "變成蜂巢狀",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 honeycombed｜複數 honeycombs｜過去式 honeycombed｜現在分詞 honeycombing｜第三人稱單數 honeycombs"
+ },
+ "honeycombed": {
+  "ph": "/ˈhʌnikəʊmd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "蜂窩結構的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "蜂窩, 蜂巢( honeycomb的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "honeydew": {
+  "ph": "/'hʌnidju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜜汁, 蜜露",
+    "def": "the fruit of a variety of winter melon vine; a large smooth greenish-white melon with pale green flesh"
+   }
+  ]
+ },
+ "honeyed": {
+  "ph": "/'hʌnid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "加了蜜的, 甜如蜜的, 多蜜的",
+    "def": ""
+   }
+  ]
+ },
+ "honeymoon": {
+  "ph": "/'hʌnimu:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蜜月, 蜜月假期",
+    "def": "a holiday taken by a newly married couple"
+   },
+   {
+    "pos": "vi.",
+    "zh": "渡蜜月",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honeymoons｜現在分詞 honeymooning｜過去式 honeymooned｜第三人稱單數 honeymoons｜過去分詞 honeymooned"
+ },
+ "honeymooner": {
+  "ph": "/'hʌni,mu:nə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "度蜜月的人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honeymooners"
+ },
+ "honeypot": {
+  "ph": "/ˈhʌnipɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裝蜜的罐子; 極有吸引力的事物",
+    "def": "South African shrub whose flowers when open are cup-shaped resembling artichokes"
+   }
+  ],
+  "forms": "複數 honeypots"
+ },
+ "honeysuckle": {
+  "ph": "/'hʌnisʌkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "忍冬, 杜鵑花",
+    "def": "shrub or vine of the genus Lonicera"
+   }
+  ],
+  "forms": "複數 honeysuckles"
+ },
+ "honeywell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍尼韋爾公司（美國公司名）",
+    "def": ""
+   }
+  ]
+ },
+ "hong": {
+  "ph": "/hɔŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（中國、日本的）行, 商行",
+    "def": "A mercantile establishment or factory for foreign trade in"
+   }
+  ]
+ },
+ "hongkong": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "香港",
+    "def": ""
+   }
+  ]
+ },
+ "honiton": {
+  "ph": "/'hɔnitən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍尼頓（英國一座城鎮）",
+    "def": ""
+   }
+  ]
+ },
+ "honk": {
+  "ph": "/hɒŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雁鳴, 汽車的喇叭聲",
+    "def": "the cry of a goose (or any sound resembling this)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "雁鳴叫, 按汽車喇叭",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "撳(喇叭)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 honking｜過去式 honked｜複數 honks｜過去分詞 honked｜第三人稱單數 honks"
+ },
+ "honker": {
+  "ph": "/'hɒŋkə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "發出雁號聲的人或物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honkers"
+ },
+ "honking": {
+  "ph": "/hɔ:ŋkɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）發出雁叫似的聲音, 鳴（喇叭）, 按（喇叭）( honk的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "honky": {
+  "ph": "/'hɒnki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白鬼子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honkies"
+ },
+ "honolulu": {
+  "ph": "/.hɒnә'lu:lu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火奴魯魯(檀香山)",
+    "def": "the capital and largest city of Hawaii; located on a large bay on the island of Oahu"
+   }
+  ]
+ },
+ "honor": {
+  "ph": "/'ɒnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "榮譽, 頭銜, 信用, 尊敬, 名譽, 閣下, 勳章",
+    "def": "the state of being honored"
+   },
+   {
+    "pos": "vt.",
+    "zh": "尊敬, 授予榮譽, 承兌, 實踐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honors｜現在分詞 honoring｜過去式 honored｜第三人稱單數 honors｜過去分詞 honored"
+ },
+ "honorable": {
+  "ph": "/'ɒnәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "值得尊敬的, 榮耀的, 高貴的",
+    "def": "worthy of being honored; entitled to honor and respect"
+   }
+  ]
+ },
+ "honorably": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "值得尊敬地；體面地",
+    "def": ""
+   }
+  ]
+ },
+ "honorarium": {
+  "ph": "/.ɒnә'rєәriәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "酬金, 謝禮",
+    "def": "a fee paid for a nominally free service"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 酬金, 謝禮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honorariums"
+ },
+ "honorary": {
+  "ph": "/'ɒnәrәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "榮譽的, 無報酬的, 道義上的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 名譽的, 榮譽的",
+    "def": ""
+   }
+  ]
+ },
+ "honored": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "已承兌或付款的；受尊敬的",
+    "def": ""
+   }
+  ]
+ },
+ "honoree": {
+  "ph": "/,ɔnә'ri:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "領獎人, 主賓",
+    "def": "a recipient of honors in recognition of noteworthy accomplishments"
+   }
+  ]
+ },
+ "honorific": {
+  "ph": "/.ɒnә'rifik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "尊敬的, 表示敬意的, 敬稱的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "敬語",
+    "def": "an expression of respect"
+   }
+  ],
+  "forms": "複數 honorifics"
+ },
+ "honoring": {
+  "ph": "/ˈɔnərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "尊敬, 給以榮譽( honor的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "honorius": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Honorius)人名；(法)奧諾里於斯",
+    "def": ""
+   }
+  ]
+ },
+ "honour": {
+  "ph": "/'ɒnә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "榮譽, 頭銜, 信用, 尊敬, 名譽, 閣下, 勳章",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "尊敬, 授予榮譽, 承兌, 實踐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honours｜過去分詞 honoured｜現在分詞 honouring｜過去式 honoured｜第三人稱單數 honours"
+ },
+ "honourable": {
+  "ph": "/'ɒnәrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "值得尊敬的, 榮耀的, 高貴的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 榮譽的, 正直的, 體面的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 honourables"
+ },
+ "honourably": {
+  "ph": "/'ɒnərəblɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可尊敬地, 光榮地, 體面地",
+    "def": ""
+   }
+  ]
+ },
+ "honoured": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "尊敬（honour的過去式與過去分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 honoured｜過去式 honoured"
+ },
+ "honouring": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "尊敬（honour的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 honouring"
+ },
+ "hoo": {
+  "ph": "/hu:/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "呼！（表示高興, 輕蔑, 贊同, 激動等）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hooing"
+ },
+ "hooch": {
+  "ph": "/hu:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "私酒, 烈酒",
+    "def": "an illicitly distilled (and usually inferior) alcoholic liquor"
+   }
+  ]
+ },
+ "hood": {
+  "ph": "/hud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "頭巾, 兜帽, 覆蓋, 強盜",
+    "def": "an aggressive and violent young criminal"
+   },
+   {
+    "pos": "vt.",
+    "zh": "罩上, 覆蓋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoods｜現在分詞 hooding｜過去式 hooded｜第三人稱單數 hoods｜過去分詞 hooded"
+ },
+ "hooded": {
+  "ph": "/'hudid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有罩蓋的, 戴頭巾的",
+    "def": ""
+   }
+  ]
+ },
+ "hoodie": {
+  "ph": "/'hjdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有冠烏鴉",
+    "def": ""
+   }
+  ]
+ },
+ "hoodlum": {
+  "ph": "/'hu:dlәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴徒, 年輕無賴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoodlums"
+ },
+ "hoodoo": {
+  "ph": "/'hu:du:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不祥之物",
+    "def": "(geology) a column of weathered and unusually shaped rock"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使倒黴",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoodoos｜現在分詞 hoodooing｜過去式 hoodooed｜第三人稱單數 hoodoos｜過去分詞 hoodooed"
+ },
+ "hoodwink": {
+  "ph": "/'hudwiŋk/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "遮眼, 矇蔽, 欺騙",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 hoodwinked｜過去式 hoodwinked｜現在分詞 hoodwinking｜第三人稱單數 hoodwinks"
+ },
+ "hooey": {
+  "ph": "/'hu:i/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡言亂語, 傻事",
+    "def": ""
+   },
+   {
+    "pos": "interj.",
+    "zh": "真傻, 騙人",
+    "def": ""
+   }
+  ]
+ },
+ "hoof": {
+  "ph": "/hu:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蹄, (人的)腳",
+    "def": "the foot of an ungulate mammal"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以蹄踢, 行走, 步行",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "走, 踢, 踏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hooves｜現在分詞 hoofing｜過去式 hoofed｜第三人稱單數 hoofs｜過去分詞 hoofed"
+ },
+ "hoofed": {
+  "ph": "/hu:ft/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有蹄的, 裝蹄的, 蹄形狀的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 hoofed"
+ },
+ "hoofer": {
+  "ph": "/'hu:fә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "職業舞蹈家(尤指跳踢踏舞)",
+    "def": "a professional dancer"
+   }
+  ],
+  "forms": "複數 hoofers"
+ },
+ "hoofprint": {
+  "ph": "/'hu:fprint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蹄印",
+    "def": "a visible impression on a surface made by the hoof of an animal"
+   }
+  ],
+  "forms": "複數 hoofprints"
+ },
+ "hook": {
+  "ph": "/huk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉤, 鉤狀, 鐮刀, 陷阱",
+    "def": "a catch for locking a door"
+   },
+   {
+    "pos": "vt.",
+    "zh": "掛...於鉤上, 鉤住, 引上鉤, 偷竊",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "彎成鉤狀, 鉤緊",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 鉤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hooks｜過去分詞 hooked｜過去式 hooked｜現在分詞 hooking｜第三人稱單數 hooks"
+ },
+ "hookah": {
+  "ph": "/'hukә, -kɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水煙筒",
+    "def": "an oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water"
+   }
+  ],
+  "forms": "複數 hookahs"
+ },
+ "hooke": {
+  "ph": "/huk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "萬向接頭, 虎克",
+    "def": "English scientist who formulated the law of elasticity and proposed a wave theory of light and formulated a theory of planetary motion and proposed the inverse "
+   }
+  ],
+  "forms": "複數 hookes"
+ },
+ "hooked": {
+  "ph": "/hukt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "鉤狀的, 有鉤的, 用鉤針編織的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 hooked"
+ },
+ "hooker": {
+  "ph": "/'hukә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用鉤子的人, 漁船",
+    "def": "United States general in the Union Army who was defeated at Chancellorsville by Robert E. Lee (1814-1879)"
+   }
+  ],
+  "forms": "複數 hookers"
+ },
+ "hooking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 掛鉤",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hooking"
+ },
+ "hookup": {
+  "ph": "/'hukʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "連線, 接線圖, 聯播",
+    "def": "a device providing a connection between a power source and a user"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 勾住",
+    "def": ""
+   }
+  ]
+ },
+ "hookworm": {
+  "ph": "/'hukwә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鉤蟲",
+    "def": "parasitic bloodsucking roundworms having hooked mouth parts to fasten to the intestinal wall of human and other hosts"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鉤蟲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hookworms｜第三人稱單數 hookworms"
+ },
+ "hooligan": {
+  "ph": "/'hu:ligәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小流氓",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 阿飛, 流氓, 街頭惡棍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hooligans"
+ },
+ "hooliganism": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流氓行為",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 流氓行為",
+    "def": ""
+   }
+  ]
+ },
+ "hoop": {
+  "ph": "/hu:p/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "箍, 鐵環, 呼呼聲",
+    "def": "a light curved skeleton to spread out a skirt"
+   },
+   {
+    "pos": "vt.",
+    "zh": "加箍於, 包圍",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發呼呼聲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoops｜過去式 hooped｜過去分詞 hooped｜現在分詞 hooping｜第三人稱單數 hoops"
+ },
+ "hooped": {
+  "ph": "/hu:pt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "以環作裝飾的；帶橫紋的；帶有環的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 hooped"
+ },
+ "hooper": {
+  "ph": "/'hu:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桶匠",
+    "def": "One who hoops casks or tubs; a cooper."
+   }
+  ],
+  "forms": "複數 hoopers"
+ },
+ "hoopla": {
+  "ph": "/'hu:plɑ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喧鬧, 大吹大擂的宣傳, 投環套物遊戲",
+    "def": ""
+   }
+  ]
+ },
+ "hoopoe": {
+  "ph": "/'hu:pu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戴勝鳥",
+    "def": "any of several crested Old World birds with a slender downward-curved bill"
+   }
+  ],
+  "forms": "複數 hoopoes"
+ },
+ "hoopster": {
+  "ph": "/'hu:pstә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "籃球運動員",
+    "def": ""
+   }
+  ]
+ },
+ "hooray": {
+  "ph": "/hu'rei/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "萬歲",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "萬歲",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "呼萬歲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoorays"
+ },
+ "hoot": {
+  "ph": "/hu:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叫囂, 嘲罵聲, 鳴響",
+    "def": "a loud raucous cry (as of an owl)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "大聲叫囂, 鳴響, 貓頭鷹叫",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "呵斥, 轟趕",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 hooted｜複數 hoots｜現在分詞 hooting｜第三人稱單數 hoots｜過去分詞 hooted"
+ },
+ "hootch": {
+  "ph": "/hu:tʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "私酒, 私運入的酒",
+    "def": ""
+   }
+  ]
+ },
+ "hooter": {
+  "ph": "/'hu:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "呼喊的人, 汽笛, 號笛, 警笛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hooters"
+ },
+ "hooting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "喊叫；鳴響；攝製（hoot的ing形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hooting｜複數 hootings"
+ },
+ "hooton": {
+  "ph": "/'hu:tәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "胡頓(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "hoover": {
+  "ph": "/'hu:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡佛電動吸塵器",
+    "def": "United States industrialist who manufactured vacuum cleaners (1849-1932)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "用真空吸塵器打掃",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hoovering｜過去式 hoovered｜過去分詞 hoovered｜複數 hoovers｜第三人稱單數 hoovers"
+ },
+ "hop": {
+  "ph": "/hɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單腳跳, 跳躍, 舞會, 飛行",
+    "def": "the act of hopping; jumping upward or forward (especially on one foot)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "單腳跳, 跳躍",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "躍過, 跳上, 加蛇麻子於, 服麻醉藥",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 跳躍式傳輸",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hops｜現在分詞 hopping｜過去式 hopped｜過去分詞 hopped｜第三人稱單數 hops"
+ },
+ "hope": {
+  "ph": "/hәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "希望, 信心, 期待",
+    "def": "a specific instance of feeling hopeful"
+   },
+   {
+    "pos": "v.",
+    "zh": "希望, 期望, 信賴",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hoping｜過去分詞 hoped｜過去式 hoped｜複數 hopes｜第三人稱單數 hopes"
+ },
+ "hopeful": {
+  "ph": "/'hәupful/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有希望之人, 有前途之人",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "有希望的, 懷抱希望的, 保持樂觀的",
+    "def": "having or manifesting hope"
+   }
+  ],
+  "forms": "複數 hopefuls"
+ },
+ "hopefully": {
+  "ph": "/'hәjpfjli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "有希望地, 如果希望能實現的話",
+    "def": ""
+   }
+  ]
+ },
+ "hopefulness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抱有希望",
+    "def": "full of hope"
+   }
+  ]
+ },
+ "hopeless": {
+  "ph": "/'hәuplis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無希望的, 絕望的, 不可救藥的",
+    "def": "without hope because there seems to be no possibility of comfort or success"
+   }
+  ]
+ },
+ "hopelessly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "絕望地, 無可奈何地",
+    "def": ""
+   }
+  ]
+ },
+ "hopelessness": {
+  "ph": "/'həʊpləsnəs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "絕望",
+    "def": ""
+   }
+  ]
+ },
+ "hopi": {
+  "ph": "/'hәupi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍皮人, 霍皮語",
+    "def": "a member of the Shoshonean people of northeastern Arizona"
+   }
+  ]
+ },
+ "hopkin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hopkin)人名；(英)霍普金",
+    "def": ""
+   }
+  ]
+ },
+ "hopkins": {
+  "ph": "/'hɔpkinz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍普金（姓氏）",
+    "def": "United States educator and theologian (1802-1887)"
+   }
+  ]
+ },
+ "hopkinson": {
+  "ph": "/'hɔpkinsn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍普金森(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "hoplite": {
+  "ph": "/'hɒplait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(古希臘)重甲步兵",
+    "def": "A heavy-armed infantry soldier."
+   }
+  ],
+  "forms": "複數 hoplites"
+ },
+ "hopper": {
+  "ph": "/'hɒpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跳躍的東西, 單足跳者, 跳蟲",
+    "def": "funnel-shaped receptacle; contents pass by gravity into a receptacle below"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 漏斗; 貯鬥; 料斗; 集塵箱; 集塵鬥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoppers"
+ },
+ "hopping": {
+  "ph": "/'hɔpiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 跳躍",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hopping"
+ },
+ "hoppy": {
+  "ph": "/'hɔpi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸毒成癮者",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "蛇麻草的；啤酒花的；跳動的",
+    "def": ""
+   }
+  ]
+ },
+ "hopscotch": {
+  "ph": "/'hɒpskɒtʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "\"跳房子\"遊戲",
+    "def": "a game in which a child tosses a stone into an area drawn on the ground and then hops through it and back to regain the stone"
+   }
+  ],
+  "forms": "過去式 hopscotched"
+ },
+ "hopwood": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hopwood)人名；(英)霍普伍德",
+    "def": ""
+   }
+  ]
+ },
+ "hora": {
+  "ph": "/'hɔ:rә, 'hәurә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 小時",
+    "def": ""
+   }
+  ]
+ },
+ "horace": {
+  "ph": "/'hɔrәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賀拉斯（男子名）",
+    "def": "Roman lyric poet said to have influenced English poetry (65-8 BC)"
+   }
+  ]
+ },
+ "horan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Horan)人名；(英)霍蘭；(西)奧蘭",
+    "def": ""
+   }
+  ]
+ },
+ "horatia": {
+  "ph": "/hә'reiʃiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍雷希亞(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "horatian": {
+  "ph": "/hɔ'reiʃiәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "羅馬詩人賀瑞斯的",
+    "def": "Of or pertaining to Horace, the Latin poet, or resembling"
+   }
+  ]
+ },
+ "horatio": {
+  "ph": "/hɔ'reiʃiәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍雷肖（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "horde": {
+  "ph": "/hɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(一)群, 遊牧部落, 移動群",
+    "def": "a vast multitude"
+   },
+   {
+    "pos": "vi.",
+    "zh": "成群結隊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hordes"
+ },
+ "horehound": {
+  "ph": "/'hɔ:haund/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 歐夏至草; 苦汁薄荷",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 夏至草",
+    "def": ""
+   }
+  ]
+ },
+ "horizon": {
+  "ph": "/hә'raizәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地平線, 眼界, (天)視地平",
+    "def": "the line at which the sky and Earth appear to meet"
+   }
+  ],
+  "forms": "複數 horizons"
+ },
+ "horizontal": {
+  "ph": "/.hɒri'zɒntәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水平線, 水平面, 水平位置",
+    "def": "something that is oriented horizontally"
+   },
+   {
+    "pos": "adj.",
+    "zh": "水平線的, 平坦的, 橫的",
+    "def": "parallel to or in the plane of the horizon or a base line"
+   },
+   {
+    "pos": "n.",
+    "zh": "水平",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 水平",
+    "def": ""
+   }
+  ],
+  "forms": "複數 horizontals"
+ },
+ "horizontality": {
+  "ph": "/,hɔrizɔn'tælәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水平狀態(或位置、性質)",
+    "def": "the quality of being parallel to the horizon"
+   }
+  ]
+ },
+ "horizontally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 水平置中",
+    "def": ""
+   }
+  ]
+ },
+ "horley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Horley)人名；(英)霍利",
+    "def": ""
+   }
+  ]
+ },
+ "hormonal": {
+  "ph": "/hɒ:'mәunәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "荷爾蒙的",
+    "def": "of or relating to or caused by hormones"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 激素的",
+    "def": ""
+   }
+  ]
+ },
+ "hormone": {
+  "ph": "/'hɒ:mәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荷爾蒙",
+    "def": "the secretion of an endocrine gland that is transmitted by the blood to the tissue on which it has a specific effect"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 激素(舊稱荷爾蒙)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hormones"
+ },
+ "horn": {
+  "ph": "/hɒ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "角, 角質, 喇叭, 號角",
+    "def": "a noisemaker (as at parties or games) that makes a loud noise when you blow through it"
+   },
+   {
+    "pos": "adj.",
+    "zh": "角制的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用角觸, 長角於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 horns｜過去式 horned｜過去分詞 horned｜現在分詞 horning｜第三人稱單數 horns"
+ },
+ "hornbeam": {
+  "ph": "/'hɒ:nbi:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鵝耳櫪",
+    "def": "any of several trees or shrubs of the genus Carpinus"
+   }
+  ]
+ },
+ "hornbill": {
+  "ph": "/'hɒ:nbil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "犀鳥",
+    "def": "bird of tropical Africa and Asia having a very large bill surmounted by a bony protuberance; related to kingfishers"
+   }
+  ],
+  "forms": "複數 hornbills"
+ },
+ "hornby": {
+  "ph": "/'hɔ:nbi/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍恩比(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "horne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍恩（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "horned": {
+  "ph": "/hɒ:nd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有角的, 角狀的",
+    "def": "having a horn or horns or hornlike parts or horns of a particular kind"
+   }
+  ],
+  "forms": "過去式 horned"
+ },
+ "horner": {
+  "ph": "/'hɔ:nә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吹號角者, (非正式)服海洛因的人",
+    "def": "One who works or deal in horn or horns."
+   }
+  ]
+ },
+ "hornet": {
+  "ph": "/'hɒ:nit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大黃蜂",
+    "def": "large stinging paper wasp"
+   }
+  ],
+  "forms": "複數 hornets"
+ },
+ "hornpipe": {
+  "ph": "/'hɔ:npaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "號笛, 號笛舞曲, 號笛舞",
+    "def": "a British solo dance performed by sailors"
+   }
+  ],
+  "forms": "複數 hornpipes"
+ },
+ "hornsby": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hornsby)人名；(英)霍恩斯比",
+    "def": ""
+   }
+  ]
+ },
+ "hornsey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍恩西（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "hornworm": {
+  "ph": "/'hɔ:nwә:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[動]天蛾幼蟲",
+    "def": ""
+   }
+  ]
+ },
+ "horny": {
+  "ph": "/'hɒ:ni/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "角的, 似角一樣堅硬的, 角質的, 老繭的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 角性的, 角的",
+    "def": ""
+   }
+  ],
+  "forms": "最高級 horniest"
+ },
+ "horology": {
+  "ph": "/hɒ'rɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "測時法, 鐘錶製造術",
+    "def": "the art of designing and making clocks"
+   }
+  ]
+ },
+ "horoscope": {
+  "ph": "/'hɔrәskәup/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星佔, 算命天宮圖",
+    "def": "a prediction of someone's future based on the relative positions of the planets"
+   }
+  ],
+  "forms": "複數 horoscopes"
+ },
+ "horowitz": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍羅威茨",
+    "def": ""
+   }
+  ]
+ },
+ "horrendous": {
+  "ph": "/hɒ'rendәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可怕的, 駭人的, 不得了的",
+    "def": ""
+   }
+  ]
+ },
+ "horrendously": {
+  "ph": "/hɔ'rendəsli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "駭人聽聞地；可怕地",
+    "def": ""
+   }
+  ]
+ },
+ "horrible": {
+  "ph": "/'hɒrәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可怕的, 遭透的, 極討厭的",
+    "def": ""
+   }
+  ]
+ },
+ "horribly": {
+  "ph": "/'hɒrәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "可怕地, 非常地",
+    "def": ""
+   }
+  ]
+ },
+ "horrid": {
+  "ph": "/'hɒrid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可怕的, 極討厭的, 毛骨悚然的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 horrids"
+ },
+ "horrific": {
+  "ph": "/hɒ'rifik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人毛骨悚然的, 感到恐懼的",
+    "def": ""
+   }
+  ]
+ },
+ "horrifically": {
+  "ph": "/hɔ'rifikəli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "極其可怕地；令人恐懼地",
+    "def": ""
+   }
+  ]
+ },
+ "horrified": {
+  "ph": "/'hɒrifaid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "驚駭的, 帶有恐怖感的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 horrified｜過去式 horrified"
+ },
+ "horrify": {
+  "ph": "/'hɒrifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使恐懼, 使震驚",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 horrified｜過去式 horrified｜第三人稱單數 horrifies｜現在分詞 horrifying"
+ },
+ "horrifying": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人恐懼的；使人驚駭的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 horrifying"
+ },
+ "horrifyingly": {
+  "ph": "/'hɔrifaiiŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人恐懼地；叫人毛骨悚然地",
+    "def": ""
+   }
+  ]
+ },
+ "horrocks": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Horrocks)人名；(英)霍羅克斯",
+    "def": ""
+   }
+  ]
+ },
+ "horror": {
+  "ph": "/'hɒrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驚駭, 恐怖, 慘狀",
+    "def": "intense and profound fear"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 恐怖, 恐懼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 horrors"
+ },
+ "horse": {
+  "ph": "/hɒ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬, 騎兵, 腳架",
+    "def": "solid-hoofed herbivorous quadruped domesticated since prehistoric times"
+   },
+   {
+    "pos": "vi.",
+    "zh": "騎馬, 取笑",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使騎馬, 繫馬於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 horses｜現在分詞 horsing｜過去式 horsed｜第三人稱單數 horses｜過去分詞 horsed"
+ },
+ "horse racing": {
+  "ph": "/hɔ:s ˈreisiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "賽馬",
+    "def": ""
+   }
+  ]
+ },
+ "horseback": {
+  "ph": "/'hɒ:sbæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬背",
+    "def": "the back of a horse"
+   },
+   {
+    "pos": "adv.",
+    "zh": "在馬背上, 騎在馬上",
+    "def": ""
+   }
+  ]
+ },
+ "horsebox": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有篷的運馬拖車",
+    "def": "a conveyance (railroad car or trailer) for transporting racehorses"
+   }
+  ],
+  "forms": "複數 horseboxes"
+ },
+ "horseflesh": {
+  "ph": "/'hɒ:sfleʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬肉, 馬",
+    "def": ""
+   }
+  ]
+ },
+ "horsefly": {
+  "ph": "/'hɒ:sflai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬蠅",
+    "def": "large swift fly the female of which sucks blood of various animals"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 虻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 horseflies｜第三人稱單數 horseflies"
+ },
+ "horsehair": {
+  "ph": "/'hɔ:sheә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬毛, 馬鬃",
+    "def": "hair taken from the mane or tail of a horse"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 馬鬃",
+    "def": ""
+   }
+  ]
+ },
+ "horsehide": {
+  "ph": "/'hɒ:shaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬皮, 馬革, 棒球",
+    "def": "leather from the hide of a horse"
+   }
+  ]
+ },
+ "horseless": {
+  "ph": "/'hɒ:slis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無馬的, 不用馬的",
+    "def": ""
+   }
+  ]
+ },
+ "horseman": {
+  "ph": "/'hɒ:smәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騎馬者, 馬術師, 養馬者",
+    "def": "a man skilled in equitation"
+   }
+  ],
+  "forms": "複數 horsemen"
+ },
+ "horsemanship": {
+  "ph": "/'hɒ:smәnʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬術",
+    "def": "skill in handling and riding horses"
+   }
+  ]
+ },
+ "horsemeat": {
+  "ph": "/'hɒ:smi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬肉",
+    "def": "the flesh of horses as food"
+   }
+  ]
+ },
+ "horseplay": {
+  "ph": "/'hɒ:splei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喧鬧的嬉戲",
+    "def": "rowdy or boisterous play"
+   }
+  ]
+ },
+ "horsepower": {
+  "ph": "/'hɒ:spauә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬力",
+    "def": "a unit of power equal to 746 watts"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 馬力",
+    "def": ""
+   }
+  ]
+ },
+ "horseradish": {
+  "ph": "/hɒ:s'rædiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辣根, 辣根所制調味劑",
+    "def": "the root of the horseradish plant; it is grated or ground and used for seasoning"
+   }
+  ]
+ },
+ "horses": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬；馬匹（horse的複數形式）",
+    "def": ""
+   }
+  ]
+ },
+ "horseshit": {
+  "ph": "/'hɔ:sʃit,'hɔ:ʃ-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡說, 謊話",
+    "def": ""
+   }
+  ]
+ },
+ "horseshoe": {
+  "ph": "/'hɒ:sʃu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬蹄鐵",
+    "def": "game equipment consisting of an open ring of iron used in playing horseshoes"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝蹄鐵於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 horseshoes｜現在分詞 horseshoeing｜過去式 horseshoed｜第三人稱單數 horseshoes｜過去分詞 horseshoed"
+ },
+ "horsetail": {
+  "ph": "/'hɒ:steil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬尾, 馬尾旗, 馬尾式髮型",
+    "def": "perennial rushlike flowerless herbs with jointed hollow stems and narrow toothlike leaves that spread by creeping rhizomes; tend to become weedy; common in nort"
+   }
+  ],
+  "forms": "複數 horsetails｜第三人稱單數 horsetails"
+ },
+ "horsewoman": {
+  "ph": "/'hɒ:swumәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女騎馬者, 女騎士",
+    "def": "a woman horseman"
+   }
+  ],
+  "forms": "複數 horsewomen"
+ },
+ "horsey": {
+  "ph": "/'hɔ:si/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "馬的；似馬的（等於sorsy）",
+    "def": ""
+   }
+  ]
+ },
+ "horsham": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍舍姆",
+    "def": ""
+   }
+  ]
+ },
+ "horsley": {
+  "ph": "/'hɔ:sli/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍斯利(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "horst": {
+  "ph": "/'hɒ:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地壘",
+    "def": "a ridge of the earth's crust that has been forced upward between two faults and so is higher than the surrounding land"
+   }
+  ]
+ },
+ "horsy": {
+  "ph": "/'hɒ:si/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "馬的, 愛馬的",
+    "def": "Pertaining to, or suggestive of, a horse, or of horse"
+   }
+  ]
+ },
+ "hortative": {
+  "ph": "/'hɒ:tәtiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "勸告的, 獎勵的",
+    "def": ""
+   }
+  ]
+ },
+ "hortatory": {
+  "ph": "/'hɔ:tәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "激勵的",
+    "def": ""
+   }
+  ]
+ },
+ "horticultural": {
+  "ph": "/.hɒ:ti'kʌltʃәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "園藝的",
+    "def": "of or relating to the cultivation of plants"
+   }
+  ]
+ },
+ "horticulturalist": {
+  "ph": "/'hɔ:tɪkʌltʃərəlɪst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "園藝種植者；（尤指）園藝（學）家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 horticulturalists"
+ },
+ "horticulture": {
+  "ph": "/.hɒ:ti'kʌltʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "園藝",
+    "def": ""
+   }
+  ]
+ },
+ "horticulturist": {
+  "ph": "/.hɒ:ti'kʌltʃәrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "園藝家",
+    "def": "an expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants)"
+   }
+  ],
+  "forms": "複數 horticulturists"
+ },
+ "horton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "荷頓奇遇記（美國喜劇動畫電影名）",
+    "def": ""
+   }
+  ]
+ },
+ "horus": {
+  "ph": "/'hɔ:rәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "何露斯（古代埃及的太陽神）",
+    "def": "Egyptian solar god with the head of a falcon; the son of Osiris and Isis"
+   }
+  ]
+ },
+ "horwich": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍里奇（英國）（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "hosanna": {
+  "ph": "/hәu'zænә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "〈聖經〉和撒那（讚美上帝之語）",
+    "def": "a cry of praise or adoration (to God)"
+   }
+  ],
+  "forms": "複數 hosannas"
+ },
+ "hose": {
+  "ph": "/hәuz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水管, 橡皮軟管, 長統襪",
+    "def": "man's close-fitting garment of the 16th and 17th centuries covering the legs and reaching up to the waist; worn with a doublet"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用水管澆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hoses｜現在分詞 hosing｜過去分詞 hosed｜過去式 hosed｜第三人稱單數 hoses"
+ },
+ "hosea": {
+  "ph": "/hәu'zi:ә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "何西阿(希伯來先知), <<何西阿書>>",
+    "def": "a minor Hebrew prophet (8th century BC)"
+   }
+  ]
+ },
+ "hosel": {
+  "ph": "/'hәjzmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使用水龍帶的消防人員",
+    "def": ""
+   }
+  ]
+ },
+ "hosepipe": {
+  "ph": "/'hәjzpaip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "軟管, 水龍軟管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hosepipes｜現在分詞 hosepiping"
+ },
+ "hosiery": {
+  "ph": "/'hәjziәri, 'hәjʒәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "襪, 內衣褲",
+    "def": "socks and stockings and tights collectively (the British include underwear)"
+   }
+  ]
+ },
+ "hoskins": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍斯金斯",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "霍斯金斯",
+    "def": ""
+   }
+  ]
+ },
+ "hoskyns": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 霍士金斯",
+    "def": ""
+   }
+  ]
+ },
+ "hosni": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Hosni)人名；(阿拉伯)胡斯尼",
+    "def": ""
+   }
+  ]
+ },
+ "hospice": {
+  "ph": "/'hɒspis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅客住宿處, 收容所",
+    "def": "a lodging for travelers (especially one kept by a monastic order)"
+   }
+  ],
+  "forms": "複數 hospices"
+ },
+ "hospitable": {
+  "ph": "/'hɒspitәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "好客的, 招待周到的",
+    "def": "favorable to life and growth"
+   }
+  ]
+ },
+ "hospitably": {
+  "ph": "/'hɒspitәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "招待周到地, 善於款待地, 親切地",
+    "def": ""
+   }
+  ]
+ },
+ "hospital": {
+  "ph": "/'hɒspitәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫院",
+    "def": "a health facility where patients receive treatment"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 醫院",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hospitals"
+ },
+ "hospitalisation": {
+  "ph": "/,hɔspitәlai'zeiʃәn;-li'z-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<主英>=hospitalization",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hospitalisations"
+ },
+ "hospitalise": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使住院, 把...送進醫院治療",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 hospitalised｜過去式 hospitalised"
+ },
+ "hospitality": {
+  "ph": "/.hɒspi'tæliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "款待, 親切, 殷勤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hospitalities"
+ },
+ "hospitalization": {
+  "ph": "/,hɔspitәlai'zeiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫院收容, 住院治療",
+    "def": "a period of time when you are confined to a hospital"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 住院, 入院",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hospitalizations"
+ },
+ "hospitalize": {
+  "ph": "/'hɒspitәlaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "送...進醫院治療",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 入院",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 hospitalized｜過去式 hospitalized｜第三人稱單數 hospitalizes｜現在分詞 hospitalizing"
+ },
+ "hospitalized": {
+  "ph": "/ˈhɔspɪtlˌaɪzd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "送…住院, 使留醫( hospitalize的過去式和過去分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "hospitaller": {
+  "ph": "/'hɔspitәlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "醫院牧師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hospitallers"
+ },
+ "host": {
+  "ph": "/hәust/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主人, 旅館老闆, 節目主持人",
+    "def": "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there"
+   },
+   {
+    "pos": "vt.",
+    "zh": "當主人招待, 作...節目主持人",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 主機, 宿主機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hosts｜過去分詞 hosted｜現在分詞 hosting｜過去式 hosted｜第三人稱單數 hosts"
+ },
+ "hosta": {
+  "ph": "/'hɔstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玉簪屬草本植物",
+    "def": "robust east Asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family Hostaceae"
+   }
+  ],
+  "forms": "複數 hostas"
+ },
+ "hostage": {
+  "ph": "/'hɒstidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人質, 抵押品",
+    "def": "a prisoner who is held by one party to insure that another party will meet specified terms"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 人質, 抵押品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hostages"
+ },
+ "hostel": {
+  "ph": "/'hɒstәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "青年招待所, 宿舍, 旅店",
+    "def": "a hotel providing overnight lodging for travelers"
+   }
+  ],
+  "forms": "複數 hostels｜現在分詞 hostelling"
+ },
+ "hostelry": {
+  "ph": "/'hɔstәlri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(幽默)旅館, 客棧, 旅店",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hostelries"
+ },
+ "hostess": {
+  "ph": "/'hәustis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女主人, 女房東, 女老闆",
+    "def": "a woman host"
+   }
+  ],
+  "forms": "複數 hostesses｜現在分詞 hostessing｜過去分詞 hostessed"
+ },
+ "hostile": {
+  "ph": "/'hɒstail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "敵人的, 懷敵意的, 敵對的",
+    "def": "characterized by enmity or ill will"
+   },
+   {
+    "pos": "n.",
+    "zh": "敵對分子",
+    "def": "troops belonging to the enemy's military forces"
+   }
+  ],
+  "forms": "複數 hostiles"
+ },
+ "hostilities": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "戰爭行動, 戰爭",
+    "def": "fighting; acts of overt warfare"
+   }
+  ]
+ },
+ "hostility": {
+  "ph": "/hɒs'tiliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敵意, 敵對, 反對",
+    "def": "a hostile (very unfriendly) disposition"
+   }
+  ],
+  "forms": "複數 hostilities"
+ },
+ "hosting": {
+  "ph": "/'hәustiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "作戰；群眾或部隊的集合",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hosting"
+ },
+ "hot": {
+  "ph": "/hɒt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "熱的, 熱心的, 辣的, 熱情的, 激動的, 猛烈的, 緊迫的",
+    "def": "used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning"
+   },
+   {
+    "pos": "adv.",
+    "zh": "熱, 緊迫地",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 hotter｜最高級 hottest｜現在分詞 hotting｜複數 hots"
+ },
+ "hot air": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "吹牛",
+    "def": ""
+   }
+  ]
+ },
+ "hot dog": {
+  "ph": "/hɔt dɔɡ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "<口>熱狗（一種中間夾有燻紅腸並配有芥菜, 作料等的麵包）",
+    "def": ""
+   }
+  ]
+ },
+ "hot spot": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 熱點",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 過熱點",
+    "def": ""
+   }
+  ]
+ },
+ "hotbed": {
+  "ph": "/'hɒtbed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫床",
+    "def": "a situation that is ideal for rapid development (especially of something bad)"
+   }
+  ],
+  "forms": "複數 hotbeds"
+ },
+ "hotchpotch": {
+  "ph": "/'hɒtʃpɒtʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "什錦濃湯, 雜燴",
+    "def": "a stew (or thick soup) made with meat and vegetables"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 財產混同",
+    "def": ""
+   }
+  ]
+ },
+ "hotdog": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "賣弄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hotdogs｜現在分詞 hotdogging"
+ },
+ "hotel": {
+  "ph": "/hәu'tel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅館, 客棧",
+    "def": "a building where travelers can pay for lodging and meals and other services"
+   }
+  ],
+  "forms": "複數 hotels"
+ },
+ "hotelier": {
+  "ph": "/hәj'teliә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旅館老闆",
+    "def": "an owner or manager of hotels"
+   }
+  ],
+  "forms": "複數 hoteliers"
+ },
+ "hotfoot": {
+  "ph": "/'hɔtfjt/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "急忙地；火急地",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hotfooting｜過去式 hotfooted｜過去分詞 hotfooted｜第三人稱單數 hotfoots"
+ },
+ "hothead": {
+  "ph": "/'hɒthed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "性急人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hotheads｜過去分詞 hotheaded"
+ },
+ "hothouse": {
+  "ph": "/'hɒthaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "溫室, 溫床, 浴室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hothouses"
+ },
+ "hotline": {
+  "ph": "/'hɔtlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱線電話, 諮詢電話；熱線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hotlines"
+ },
+ "hotly": {
+  "ph": "/'hɒtli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "暑熱地, 激烈地, 熱心地",
+    "def": ""
+   }
+  ]
+ },
+ "hotness": {
+  "ph": "/'hɒtnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暑熱, 熱烈, 熱心",
+    "def": "the presence of heat"
+   }
+  ]
+ },
+ "hotplate": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電爐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hotplates｜第三人稱單數 hotplates"
+ },
+ "hotshot": {
+  "ph": "/'hɒtʃɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藝高而自負的人, 貨物快車, 快速交通工具, 大人物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hotshots"
+ },
+ "hotspot": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "熱區；熱點",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hotspots｜第三人稱單數 hotspots"
+ },
+ "hotspur": {
+  "ph": "/'hɒtspә:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "性急的人, 暴躁的人",
+    "def": "a rash or impetuous person"
+   }
+  ]
+ },
+ "hottie": {
+  "ph": "/'hɔti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[口]=hot-water bottle",
+    "def": ""
+   }
+  ]
+ },
+ "hou": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "休斯頓（Houston）",
+    "def": ""
+   }
+  ]
+ },
+ "houdini": {
+  "ph": "/hu:'di:ni/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍迪尼(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "hough": {
+  "ph": "/hɔk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 後踝(四足動物後肢的踝關節)",
+    "def": ""
+   }
+  ]
+ },
+ "houghton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍頓（城市名, 位於密歇根北部）",
+    "def": "United States publisher who founded a printing shop that became an important book publisher (1823-1895)"
+   }
+  ]
+ },
+ "hound": {
+  "ph": "/haund/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "獵犬",
+    "def": "any of several breeds of dog used for hunting typically having large drooping ears"
+   },
+   {
+    "pos": "vt.",
+    "zh": "帶獵犬狩獵, 追捕, 激勵, 使追逐",
+    "def": ""
+   }
+  ],
+  "forms": "複數 hounds｜過去分詞 hounded｜現在分詞 hounding｜過去式 hounded｜第三人稱單數 hounds"
+ },
+ "hounslow": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豪恩斯洛區",
+    "def": ""
+   }
+  ]
+ },
+ "hour": {
+  "ph": "/auә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小時, 鐘頭, 時間, ...點鐘, 課時",
+    "def": "a period of time equal to 1/24th of a day"
+   }
+  ],
+  "forms": "複數 hours"
+ },
+ "hourglass": {
+  "ph": "/'auәglæs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時漏, 砂漏, 水漏",
+    "def": "a sandglass that runs for sixty minutes"
+   },
+   {
+    "pos": "n.",
+    "zh": "沙漏標",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 沙漏標",
+    "def": ""
+   }
+  ]
+ },
+ "houri": {
+  "ph": "/'huәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天堂女神, 迷人的美女",
+    "def": "(Islam) one of the dark-eyed virgins of perfect beauty believed to live with the blessed in Paradise"
+   }
+  ],
+  "forms": "複數 houris"
+ },
+ "hourly": {
+  "ph": "/'auәli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "每小時的, 以小時計的, 頻繁的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "每小時地, 頻繁地, 不絕地",
+    "def": ""
+   }
+  ]
+ },
+ "house": {
+  "ph": "/haus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "房子, 住宅, 機構, 議院, 家族, 家庭",
+    "def": "a dwelling that serves as living quarters for one or more families"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...房子住, 收藏",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "住, 躲藏",
+    "def": ""
+   }
+  ],
+  "forms": "複數 houses｜現在分詞 housing｜過去分詞 housed｜第三人稱單數 houses｜過去式 housed"
+ },
+ "house arrest": {
+  "ph": "/haus əˈrest/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（本宅）軟禁; 軟禁於家中",
+    "def": ""
+   }
+  ]
+ },
+ "house of commons": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（英國、加拿大的）下議院",
+    "def": ""
+   }
+  ]
+ },
+ "house of lords": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（英議會的）上議院",
+    "def": ""
+   }
+  ]
+ },
+ "house of representatives": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "眾議院",
+    "def": ""
+   }
+  ]
+ },
+ "house-to-house": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "逐戶的, 各戶的",
+    "def": ""
+   }
+  ]
+ },
+ "houseboat": {
+  "ph": "/'hausbәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "居住船, 遊艇",
+    "def": "a barge that is designed and equipped for use as a dwelling"
+   }
+  ],
+  "forms": "複數 houseboats"
+ },
+ "housebound": {
+  "ph": "/'hajsbajnd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "閉門不出的",
+    "def": ""
+   }
+  ]
+ },
+ "houseboy": {
+  "ph": "/'hɑjsbɔi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男僕, 僮僕",
+    "def": ""
+   }
+  ],
+  "forms": "複數 houseboys"
+ },
+ "housebreaker": {
+  "ph": "/'hausbreikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "侵入家宅者, 強盜, 拆屋者",
+    "def": "a burglar who unlawfully breaks into and enters another person's house"
+   }
+  ],
+  "forms": "複數 housebreakers"
+ },
+ "housebroken": {
+  "ph": "/'hɑjs,brәjkәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(經訓練的家養小動物)會到房外便溺的",
+    "def": ""
+   }
+  ]
+ },
+ "housebuilder": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]造房工",
+    "def": ""
+   }
+  ],
+  "forms": "複數 housebuilders"
+ },
+ "housecleaner": {
+  "ph": "/'haʊzkli:nə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打掃房屋",
+    "def": ""
+   }
+  ]
+ },
+ "housecleaning": {
+  "ph": "/'hauskli:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清掃房屋, 肅清, 革除",
+    "def": "(figurative) the act of reforming by the removal of unwanted personnel or practices or conditions"
+   }
+  ],
+  "forms": "複數 housecleanings｜現在分詞 housecleaning"
+ },
+ "housecoat": {
+  "ph": "/'hauskәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家常服",
+    "def": ""
+   }
+  ],
+  "forms": "複數 housecoats"
+ },
+ "housedress": {
+  "ph": "/'hɑjsdres/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(尤指從事家務勞動時穿的)女便服",
+    "def": ""
+   }
+  ]
+ },
+ "housefly": {
+  "ph": "/'hausflai/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家蠅",
+    "def": "common fly that frequents human habitations and spreads many diseases"
+   }
+  ],
+  "forms": "複數 houseflies"
+ },
+ "houseful": {
+  "ph": "/'hausful/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "滿屋",
+    "def": "as many as a house will accommodate"
+   }
+  ]
+ },
+ "houseguest": {
+  "ph": "/'hɑjs^est/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "在家過夜或暫住的來客",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 houseguests｜現在分詞 houseguesting"
+ },
+ "household": {
+  "ph": "/'haushәuld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一家人, 家庭, 家族, 王室",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "家庭的, 家常的, 王室的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 households"
+ },
+ "householder": {
+  "ph": "/'haushәuldә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一家之主, 家長, 戶長",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 戶主, 家長, 住",
+    "def": ""
+   }
+  ],
+  "forms": "複數 householders"
+ },
+ "households": {
+  "ph": "/'haʊshəʊldz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同住在一所房子裡的人, 一家人, 戶( household的名詞複數 )",
+    "def": ""
+   }
+  ]
+ },
+ "housekeeper": {
+  "ph": "/'hauski:pә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主婦, 女管家",
+    "def": "a servant who is employed to perform domestic task in a household"
+   }
+  ],
+  "forms": "複數 housekeepers"
+ },
+ "housekeeping": {
+  "ph": "/'hauski:piŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家事, 家政, 持家",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 內務處理",
+    "def": ""
+   }
+  ]
+ },
+ "houselights": {
+  "ph": "/haʊs'laɪts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（劇場）觀眾席的照明燈光; 觀眾席座燈光",
+    "def": "lights that illuminate the audience's part of a theater or other auditorium"
+   }
+  ]
+ },
+ "housemaid": {
+  "ph": "/'hausmeid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女傭",
+    "def": ""
+   }
+  ],
+  "forms": "複數 housemaids"
+ },
+ "houseman": {
+  "ph": "/'hajsmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "實習醫生",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 石油煉廠控制室操作者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 housemen"
+ },
+ "housemaster": {
+  "ph": "/'hausmɑ:stә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "男舍監",
+    "def": "teacher in charge of a school boardinghouse"
+   }
+  ],
+  "forms": "複數 housemasters"
+ },
+ "housemate": {
+  "ph": "/'hɑjsmeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "住在同一所房子裡的人",
+    "def": "someone who resides in the same house with you"
+   }
+  ],
+  "forms": "複數 housemates"
+ },
+ "housemother": {
+  "ph": "/'hausmʌðә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "女家長, 女舍監",
+    "def": "a woman employed as a chaperon in a residence for young people"
+   }
+  ]
+ },
+ "houseplant": {
+  "ph": "/'hɑʊsˌplænt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "室內植物",
+    "def": ""
+   }
+  ],
+  "forms": "複數 houseplants"
+ },
+ "houses of parliament": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國的國會大廈",
+    "def": ""
+   }
+  ]
+ },
+ "housetop": {
+  "ph": "/'haustɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屋頂",
+    "def": "the roof of a house"
+   }
+  ],
+  "forms": "複數 housetops"
+ },
+ "housewarming": {
+  "ph": "/'hauswɒ:miŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喬遷慶宴",
+    "def": "a party of people assembled to celebrate moving into a new home"
+   }
+  ],
+  "forms": "現在分詞 housewarming"
+ },
+ "housewife": {
+  "ph": "/'hauswaif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主婦, 家庭婦女",
+    "def": "a wife who manages a household while her husband earns the family income"
+   }
+  ],
+  "forms": "複數 housewives"
+ },
+ "housework": {
+  "ph": "/'hauswә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家事, 家務",
+    "def": "the work of cleaning and running a house"
+   }
+  ]
+ },
+ "housing": {
+  "ph": "/'hausiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遮蓋, 住房供給, 居留(處), 房屋, 裝飾",
+    "def": "structures collectively in which people are housed"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 外殼",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 housing｜複數 housings"
+ },
+ "housing association": {
+  "ph": "/ˈhauziŋ əˌsəuʃiˈeiʃən/",
+  "senses": [
+   {
+    "pos": "na.",
+    "zh": "住房協會",
+    "def": ""
+   }
+  ]
+ },
+ "housing benefit": {
+  "ph": "/ˈhauziŋ ˈbenifit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（英國政府為無收入或低收入人群提供的）住房補助",
+    "def": ""
+   }
+  ]
+ },
+ "housing estate": {
+  "ph": "/ˈhauziŋ isˈteit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "居民村, 居住區; 住宅區, 住宅群; 住房費用",
+    "def": ""
+   }
+  ]
+ },
+ "housing project": {
+  "ph": "/ˈhauziŋ prəˈdʒekt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "住房建造計劃; 住房計劃; 住房建築方案",
+    "def": ""
+   }
+  ]
+ },
+ "housman": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Housman)人名；(英)豪斯曼",
+    "def": "English poet (1859-1936)"
+   },
+   {
+    "pos": "",
+    "zh": "豪斯曼（英格蘭人姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "houston": {
+  "ph": "/'hju:stәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "休斯敦",
+    "def": "the largest city in Texas; located in southeastern Texas near the Gulf of Mexico; site of the National Aeronautics and Space Administration"
+   }
+  ]
+ },
+ "hove": {
+  "ph": "/hәuv/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "heave的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 hove｜第三人稱單數 hoves｜過去分詞 hove｜現在分詞 hoving"
+ },
+ "hovel": {
+  "ph": "/'hʌvәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "簡陋小屋, 雜物間, 家畜小屋",
+    "def": "small crude shelter used as a dwelling"
+   }
+  ],
+  "forms": "複數 hovels｜過去式 hovelled"
+ },
+ "hover": {
+  "ph": "/'hʌvә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "盤旋, 翱翔, 徘徊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "孵",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "翱翔",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hovering｜過去式 hovered｜第三人稱單數 hovers｜過去分詞 hovered"
+ },
+ "hovercraft": {
+  "ph": "/'hʌvәkræft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣墊船",
+    "def": "a craft capable of moving over water or land on a cushion of air created by jet engines"
+   }
+  ]
+ },
+ "hovering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "停懸；空中懸停",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 hovering"
+ },
+ "hovis": {
+  "ph": "/'hәuvis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "霍維斯小麥麵粉",
+    "def": ""
+   }
+  ]
+ },
+ "how": {
+  "ph": "/hau/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "如何, 怎樣, 多少, 多麼",
+    "def": "In what manner or way; by what means or process."
+   },
+   {
+    "pos": "n.",
+    "zh": "方式",
+    "def": ""
+   }
+  ]
+ },
+ "howard": {
+  "ph": "/'hauәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍華德（男子名）",
+    "def": "English actor of stage and screen (1893-1943)"
+   }
+  ]
+ },
+ "howdah": {
+  "ph": "/'haudә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "象轎(象背上設定有篷蓋的座席), 象輿",
+    "def": "a (usually canopied) seat for riding on the back of a camel or elephant"
+   }
+  ],
+  "forms": "複數 howdahs"
+ },
+ "howden": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "豪登",
+    "def": ""
+   }
+  ]
+ },
+ "howdy": {
+  "ph": "/'haudi/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "您好(招呼用語)",
+    "def": ""
+   }
+  ]
+ },
+ "howe": {
+  "ph": "/hau/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洞；窪地",
+    "def": "United States editor (1920-1993)"
+   }
+  ]
+ },
+ "howell": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豪厄爾（男子名）",
+    "def": "The upper stage of a porcelian furnace."
+   }
+  ]
+ },
+ "howes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Howes)人名；(英)豪斯",
+    "def": ""
+   }
+  ]
+ },
+ "however": {
+  "ph": "/hau'evә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "然而, 無論如何, 究竟怎樣",
+    "def": ""
+   },
+   {
+    "pos": "conj.",
+    "zh": "然而, 可是",
+    "def": ""
+   }
+  ]
+ },
+ "howey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "豪伊（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "howgill": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Howgill)人名；(英)豪吉爾",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 howgills｜複數 howgills"
+ },
+ "howie": {
+  "ph": "/'haji/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豪伊 (Howard 的異體)(m.)",
+    "def": ""
+   }
+  ]
+ },
+ "howitt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Howitt)人名；(英)豪伊特",
+    "def": ""
+   }
+  ]
+ },
+ "howitzer": {
+  "ph": "/'hauitsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "榴彈炮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 howitzers"
+ },
+ "howl": {
+  "ph": "/haul/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嗥叫, 吠聲, 號叫",
+    "def": "a long loud emotional utterance"
+   },
+   {
+    "pos": "vi.",
+    "zh": "狂吠, 咆哮, 呼嘯",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "對...吼叫, 狂喊著說",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 howled｜複數 howls｜現在分詞 howling｜第三人稱單數 howls｜過去分詞 howled"
+ },
+ "howland": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Howland)人名；(英)豪蘭",
+    "def": ""
+   }
+  ]
+ },
+ "howler": {
+  "ph": "/'haulә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咆哮者, 號哭的人",
+    "def": "a glaring blunder"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 嘯鳴電路",
+    "def": ""
+   }
+  ],
+  "forms": "複數 howlers"
+ },
+ "howlett": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Howlett)人名；(英)豪利特",
+    "def": ""
+   }
+  ]
+ },
+ "howling": {
+  "ph": "/'hauliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "咆哮的, 極大的, 荒涼的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "嘯聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 howling｜複數 howlings"
+ },
+ "howsoever": {
+  "ph": "/,hausәu'evә/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "無論如何, 不管怎樣",
+    "def": ""
+   }
+  ]
+ },
+ "howson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Howson)人名；(英)豪森",
+    "def": ""
+   }
+  ]
+ },
+ "hoy": {
+  "ph": "/hɒi/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "嗬",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "獨桅小船, 駁船",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 hoyed｜複數 hoys"
+ },
+ "hoyden": {
+  "ph": "/'hɒidәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "野丫頭, 淘氣姑娘",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "淘氣的, 頑皮的, 吵鬧的",
+    "def": ""
+   }
+  ]
+ },
+ "hoyle": {
+  "ph": "/hɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "霍伊爾紙牌遊戲書",
+    "def": "an English astrophysicist and advocate of the steady state theory of cosmology; described processes of nucleosynthesis inside stars (1915-2001)"
+   }
+  ],
+  "forms": "複數 hoyles"
+ }
+}

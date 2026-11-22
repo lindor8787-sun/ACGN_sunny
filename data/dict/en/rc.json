@@ -1,0 +1,59 @@
+{
+ "rc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "紅十字, 紅十字會",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 遙控, 補碼, 遠端集中器",
+    "def": ""
+   }
+  ]
+ },
+ "rca": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "美國無線電公司（Radio Corporation of America）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rcas"
+ },
+ "rcc": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "救援指揮中心（Rescue Control Center）；英國放射化學中心（Radio Chemical Centre）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 rccs"
+ },
+ "rcd": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "剩餘電流裝置（residual current device）；路由控制數字（Route Control Digit）；接收機載波檢測器（Receiver Carrier Detector）",
+    "def": ""
+   }
+  ]
+ },
+ "rcn": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "英國皇家護理學院（Royal College of Nursing）；廣域網（remote computer network）；加拿大皇家海軍（Royal Canadian Navy）；右側尾狀核（right caudate nucleus）",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "oh": {
+  "ph": "/әu/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "(表示驚訝、恐怖、讚歎)哦",
+    "def": ""
+   }
+  ]
+ },
+ "ohio": {
+  "ph": "/әu'haiәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俄亥俄",
+    "def": "a midwestern state in north central United States in the Great Lakes region"
+   }
+  ]
+ },
+ "ohm": {
+  "ph": "/әum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歐姆",
+    "def": "a unit of electrical resistance equal to the resistance between two points on a conductor when a potential difference of one volt between them produces a curren"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 歐姆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ohms"
+ },
+ "oho": {
+  "ph": "/әu'hәu/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "(表示驚訝、喜悅、嘲弄)哦嗬, 啊哈",
+    "def": "An exclamation of surprise, etc."
+   }
+  ]
+ },
+ "ohp": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "overhead projection 高架發射, 頂置防護; oxygen at high pressure 高壓氧氣",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ohps"
+ }
+}

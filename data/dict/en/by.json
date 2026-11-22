@@ -1,0 +1,355 @@
+{
+ "by": {
+  "ph": "/bai/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "被, 經, 由, 在...之旁",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "經過, 在近處",
+    "def": ""
+   }
+  ]
+ },
+ "by accident": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "偶然",
+    "def": ""
+   }
+  ]
+ },
+ "by means of": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "依靠",
+    "def": ""
+   }
+  ]
+ },
+ "by-election": {
+  "ph": "/'baiilekʃ(ә)n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "遞補選舉",
+    "def": "a special election between regular elections"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 補選, 缺補選舉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 by-elections"
+ },
+ "by-product": {
+  "ph": "/'baiprɔdʌkt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副產品, 額外收穫, 意外收穫",
+    "def": "a secondary and sometimes unexpected consequence"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 副產品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 by-products"
+ },
+ "byatt": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "拜厄特",
+    "def": ""
+   }
+  ]
+ },
+ "bye": {
+  "ph": "/bai/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "再會, 回頭見",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 結束命令",
+    "def": ""
+   }
+  ],
+  "forms": "複數 byes"
+ },
+ "byelaw": {
+  "ph": "/'bailɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "規則, 條例, 內部規則",
+    "def": ""
+   }
+  ],
+  "forms": "複數 byelaws"
+ },
+ "byelorussia": {
+  "ph": "/,bjelә'rʌʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白俄羅斯",
+    "def": ""
+   }
+  ]
+ },
+ "byelorussian": {
+  "ph": "/,bjeləu'rʌʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白俄羅斯語；白俄羅斯人",
+    "def": "a native or inhabitant of Byelorussia"
+   },
+   {
+    "pos": "adj.",
+    "zh": "白俄羅斯的；白俄羅斯人的；白俄羅斯語的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 byelorussians"
+ },
+ "byers": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "（人名）拜爾斯",
+    "def": ""
+   }
+  ]
+ },
+ "bygone": {
+  "ph": "/'baigɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "過去的事, 往事",
+    "def": "past events to be put aside"
+   },
+   {
+    "pos": "adj.",
+    "zh": "過去的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bygones"
+ },
+ "bylaw": {
+  "ph": "/'bailɔ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "附則, 細則",
+    "def": "a rule adopted by an organization in order to regulate its own affairs and the behavior of its members"
+   }
+  ],
+  "forms": "複數 bylaws"
+ },
+ "byline": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副業, 署名報道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bylines"
+ },
+ "byng": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Byng)人名；(英)賓",
+    "def": ""
+   }
+  ],
+  "forms": "複數 byngs"
+ },
+ "bypass": {
+  "ph": "/'baipɑ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旁路",
+    "def": "a surgically created shunt (usually around a damaged part)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "省略, 繞過, 忽視, 迴避",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 bypassing｜過去分詞 bypassed｜複數 bypasses｜過去式 bypassed｜第三人稱單數 bypasses"
+ },
+ "byproduct": {
+  "ph": "/'bai.prɒdækt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副產品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 byproducts｜第三人稱單數 byproducts"
+ },
+ "byrd": {
+  "ph": "/bә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯德（姓氏）",
+    "def": "English organist and composer of church music; master of 16th century polyphony; was granted a monopoly in music printing with Thomas Tallis (1543-1623)"
+   }
+  ]
+ },
+ "byre": {
+  "ph": "/'baiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛欄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 byres"
+ },
+ "byrne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伯恩（姓氏）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 byrnes｜第三人稱單數 byrnes"
+ },
+ "byron": {
+  "ph": "/'baiәrәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拜倫（男子名）",
+    "def": "English romantic poet notorious for his rebellious and unconventional lifestyle (1788-1824)"
+   }
+  ]
+ },
+ "byronic": {
+  "ph": "/bai'rɒnik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "拜倫的, 拜倫詩風的, 冷笑而浪漫的",
+    "def": "Pertaining to, or in the style of, Lord Byron."
+   }
+  ]
+ },
+ "bysshe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "比希（英格蘭人姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "bystander": {
+  "ph": "/'baistændә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旁觀者, 目擊者",
+    "def": "a nonparticipant spectator"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 候補陪審員, 旁觀者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bystanders"
+ },
+ "byte": {
+  "ph": "/bait/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "位元組, 位組",
+    "def": "a sequence of 8 bits (enough to represent one character of alphanumeric data) processed as a single unit of information"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 位元組",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bytes"
+ },
+ "byway": {
+  "ph": "/'baiwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旁道, 偏僻小路",
+    "def": "a side road little traveled (as in the countryside)"
+   }
+  ],
+  "forms": "複數 byways"
+ },
+ "byword": {
+  "ph": "/'baiwә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "諺語, 俗話, 笑柄",
+    "def": ""
+   }
+  ],
+  "forms": "複數 bywords"
+ },
+ "byzantine": {
+  "ph": "/bi'zæntain/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "拜占庭帝國的, 拜占庭式的",
+    "def": "of or relating to the Eastern Orthodox Church or the rites performed in it"
+   }
+  ],
+  "forms": "複數 byzantines"
+ },
+ "byzantium": {
+  "ph": "/bi'zæntiәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拜占庭(古羅馬城市)",
+    "def": "an ancient city on the Bosporus founded by the Greeks; site of modern Istanbul; in 330 Constantine I rebuilt the city and called it Constantinople and made it h"
+   }
+  ]
+ }
+}

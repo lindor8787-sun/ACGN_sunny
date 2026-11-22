@@ -1,0 +1,2330 @@
+{
+ "tu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "工會, 訓練單位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tus｜比較級 tuer"
+ },
+ "tuan": {
+  "ph": "/tu:'ɑ:n,tj-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（馬來語）先生；（馬來語）老爺",
+    "def": ""
+   }
+  ]
+ },
+ "tuareg": {
+  "ph": "/'twɑ:re^/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(pl. Tuareg, Tuaregs)西撒哈拉和中撒哈拉的柏柏爾人, 柏柏爾語",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tuaregs｜第三人稱單數 tuaregs"
+ },
+ "tub": {
+  "ph": "/tʌb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "桶, 浴盆",
+    "def": "a large open vessel for holding or storing liquids"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝入桶, 洗澡",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "洗盆浴, 被放在桶裡洗",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tubs｜現在分詞 tubbing｜過去分詞 tubbed"
+ },
+ "tuba": {
+  "ph": "/'tju:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大號",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tubas"
+ },
+ "tubal": {
+  "ph": "/'tju:bl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "管的, 輸卵管的",
+    "def": "of or relating to occurring in a tube such as e.g. the Fallopian tube or Eustachian tube"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 管的",
+    "def": ""
+   }
+  ]
+ },
+ "tubbs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tubbs)人名；(英、南非)塔布斯",
+    "def": ""
+   }
+  ]
+ },
+ "tubby": {
+  "ph": "/'tʌbi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "桶狀的, 肥胖的, 發鈍音的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tubbies｜比較級 tubbier"
+ },
+ "tube": {
+  "ph": "/tju:b/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "管, 軟管, 隧道",
+    "def": "conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases"
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...裝管, 使透過管子",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 管子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tubes｜過去分詞 tubed｜現在分詞 tubing｜過去式 tubed｜第三人稱單數 tubes"
+ },
+ "tubeless": {
+  "ph": "/t'ju:bləs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無內胎的",
+    "def": "of a tire; not needing an inner tube"
+   }
+  ]
+ },
+ "tuber": {
+  "ph": "/'tju:bә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塊莖, 突起, 結節",
+    "def": "a fleshy underground stem or root serving for reproductive and food storage"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 結節; 塊莖(植物)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tubers"
+ },
+ "tubercle": {
+  "ph": "/'tju:bәkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小瘤, 結節",
+    "def": "a swelling that is the characteristic lesion of tuberculosis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 結節; 結核",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tubercles"
+ },
+ "tubercular": {
+  "ph": "/tju:'bә:kjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有結核的, 結節的, 結核的",
+    "def": "characterized by the presence of tuberculosis lesions or tubercles"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 結節的, 結節狀的",
+    "def": ""
+   }
+  ]
+ },
+ "tuberculin": {
+  "ph": "/tju:'bә:kjulin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結核菌素",
+    "def": "a sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis"
+   }
+  ],
+  "forms": "複數 tuberculins"
+ },
+ "tuberculosis": {
+  "ph": "/tju,bә:kju'lәusis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肺結核",
+    "def": "infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts "
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 頓挫性結核",
+    "def": ""
+   }
+  ]
+ },
+ "tuberculous": {
+  "ph": "/tju:'bә:kjulәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有結節的, 結節狀的, 患結核病的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 結核性的",
+    "def": ""
+   }
+  ]
+ },
+ "tuberose": {
+  "ph": "/'tju:bәrәus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晚香玉",
+    "def": "a tuberous Mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有結節的, 結節狀的, 隆凸的; 有塊莖的, 塊莖狀的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tuberoses"
+ },
+ "tuberosity": {
+  "ph": "/.tju:bә'rɒsiti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塊莖性, 結節",
+    "def": "a protuberance on a bone especially for attachment of a muscle or ligament"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 粗隆",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tuberosities"
+ },
+ "tuberous": {
+  "ph": "/'tju:bәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有塊莖的, 塊莖狀的, 有結節的",
+    "def": "of or relating to or resembling a tuber"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 有結節的, 結節狀的, 隆凸的; 有塊莖的, 塊莖狀的",
+    "def": ""
+   }
+  ]
+ },
+ "tubing": {
+  "ph": "/'tju:biŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "管料, 管道系統, 管狀組織",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 管工; 管材; 管線; 管道; 管道系統; 鋪設管道",
+    "def": ""
+   }
+  ]
+ },
+ "tubular": {
+  "ph": "/'tju:bjulә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "管狀的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 小管的, 管狀的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tubulars"
+ },
+ "tubule": {
+  "ph": "/'tju:bju:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小管, 細管",
+    "def": "a small tube"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 小管, 細管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tubules"
+ },
+ "tuc": {
+  "ph": "/,ti: ju: 'si:/",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "英國勞工聯合會議（Trades Union Congress）",
+    "def": ""
+   }
+  ]
+ },
+ "tuck": {
+  "ph": "/tʌk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "縫褶, 活力, 鼓聲, 船尾突出部, 食品",
+    "def": "eatables (especially sweets)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "打褶, 捲起, 擠進, 塞, 收藏",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "縫褶襉, 縮攏",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tucked｜過去式 tucked｜現在分詞 tucking｜第三人稱單數 tucks｜複數 tucks"
+ },
+ "tucked": {
+  "ph": "/tʌkt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "塞進( tuck的過去式和過去分詞 ); 翻折; 蓋住; 捲起",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tucked"
+ },
+ "tucker": {
+  "ph": "/'tʌkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "打橫褶的人, 打褶裝置",
+    "def": "United States anarchist influential before World War I (1854-1939)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使疲倦, 使筋疲力盡",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tuckers｜現在分詞 tuckering｜過去式 tuckered｜第三人稱單數 tuckers｜過去分詞 tuckered"
+ },
+ "tuckett": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tuckett)人名；(英)塔克特",
+    "def": ""
+   }
+  ]
+ },
+ "tucson": {
+  "ph": "/tu:'sɔn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖森（美國亞利桑那州南部城市）",
+    "def": "a city in southeastern Arizona ringed by mountain ranges; long known as a winter and health resort but the population shift from industrial states to the Sunbel"
+   }
+  ]
+ },
+ "tudor": {
+  "ph": "/'tju:dә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國都鐸王朝",
+    "def": "an English dynasty descended from Henry Tudor; Tudor monarchs ruled from Henry VII to Elizabeth I (from 1485 to 1603)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "都鐸王朝的, 都鐸式建築式樣的",
+    "def": ""
+   }
+  ]
+ },
+ "tue": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "星期二（Tuesday）",
+    "def": ""
+   }
+  ]
+ },
+ "tues": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "星期二（tuesday）",
+    "def": ""
+   }
+  ]
+ },
+ "tuesday": {
+  "ph": "/'tju:zdi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "星期二",
+    "def": "the third day of the week; the second working day"
+   }
+  ],
+  "forms": "複數 tuesdays"
+ },
+ "tufa": {
+  "ph": "/'tju:fә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[礦]泉華,石灰華",
+    "def": "a soft porous rock consisting of calcium carbonate deposited from springs rich in lime"
+   }
+  ],
+  "forms": "複數 tufas"
+ },
+ "tuft": {
+  "ph": "/tʌft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一簇, 矮樹叢",
+    "def": "a bunch of hair or feathers or growing grass"
+   },
+   {
+    "pos": "vi.",
+    "zh": "叢生",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用叢毛裝飾",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tufts｜現在分詞 tufting"
+ },
+ "tufted": {
+  "ph": "/'tʌftid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "植絨的, 有簇飾的, 成簇狀的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tufteds"
+ },
+ "tug": {
+  "ph": "/tʌg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "用力拉, 拖曳, 苦幹, 掙扎, 繩索",
+    "def": "a sudden abrupt pull"
+   },
+   {
+    "pos": "v.",
+    "zh": "用力拉",
+    "def": "pull hard"
+   }
+  ],
+  "forms": "過去式 tugged｜現在分詞 tugging｜複數 tugs｜過去分詞 tugged｜第三人稱單數 tugs"
+ },
+ "tugboat": {
+  "ph": "/'tʌgbәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拖船",
+    "def": "a powerful small boat designed to pull or push larger ships"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 拖輪",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tugboats"
+ },
+ "tugging": {
+  "ph": "/'tʌ^iŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 牽引感",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 拖帶",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tugging｜複數 tuggings"
+ },
+ "tuition": {
+  "ph": "/tju:'iʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "學費, 講授",
+    "def": "a fee paid for instruction (especially for higher education)"
+   }
+  ],
+  "forms": "現在分詞 tuitioning"
+ },
+ "tularemia": {
+  "ph": "/tu:lә'ri:miә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 土拉菌病, 兔熱病",
+    "def": ""
+   }
+  ]
+ },
+ "tule": {
+  "ph": "/ 'tuːlɪ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "藨草地",
+    "def": ""
+   }
+  ]
+ },
+ "tulip": {
+  "ph": "/'tju:lip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬱金香",
+    "def": "any of numerous perennial bulbous herbs having linear or broadly lanceolate leaves and usually a single showy flower"
+   }
+  ],
+  "forms": "複數 tulips"
+ },
+ "tull": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔爾",
+    "def": ""
+   }
+  ]
+ },
+ "tulle": {
+  "ph": "/tju:l/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薄紗",
+    "def": "a fine (often starched) net used for veils or tutus or gowns"
+   }
+  ],
+  "forms": "複數 tulles"
+ },
+ "tulloch": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tulloch)人名；(德)圖洛赫；(英)塔洛克",
+    "def": ""
+   }
+  ]
+ },
+ "tully": {
+  "ph": "/'tʌli/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "塔利(Marcus Tullius Cicero的英語名)",
+    "def": ""
+   }
+  ]
+ },
+ "tulsa": {
+  "ph": "/'tʌlsә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔爾薩（美國俄克拉菏馬州東北部城市）",
+    "def": "a major city of northeastern Oklahoma on the Arkansas river; once known as the oil capital of the world and still heavily involved in the oil and gas industries"
+   }
+  ]
+ },
+ "tum": {
+  "ph": "/tʌm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(絃樂器彈撥時發出的)噹的一聲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tums"
+ },
+ "tumble": {
+  "ph": "/tʌmbl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跌倒, 摔跤, 翻斤斗",
+    "def": "an acrobatic feat of rolling or turning end over end"
+   },
+   {
+    "pos": "vi.",
+    "zh": "翻倒, 摔倒, 倒塌, 滾動, 翻斤斗, 倉促地行動",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使摔倒, 使滾翻, 弄亂",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tumbled｜現在分詞 tumbling｜過去分詞 tumbled｜第三人稱單數 tumbles｜複數 tumbles"
+ },
+ "tumbled": {
+  "ph": "/ˈtʌmbld/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "倒塌( tumble的過去式和過去分詞 ); 翻滾; 突然摔倒; <非正>恍然大悟",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tumbled"
+ },
+ "tumbledown": {
+  "ph": "/'tʌmbldaun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "搖搖欲墜的",
+    "def": ""
+   }
+  ]
+ },
+ "tumbler": {
+  "ph": "/'tʌmblә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平底玻璃杯, 一杯的容量, 雜技演員, 翻斤斗者",
+    "def": "a gymnast who performs rolls and somersaults and twists etc."
+   },
+   {
+    "pos": "",
+    "zh": "[機] 滾光機, 滾筒, 齒輪換向器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tumblers"
+ },
+ "tumbleweed": {
+  "ph": "/'tʌmblwi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "風滾草",
+    "def": "any plant that breaks away from its roots in autumn and is driven by the wind as a light rolling mass"
+   }
+  ]
+ },
+ "tumbling": {
+  "ph": "/'tʌmbliŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "摔跤, 翻筋斗",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "斜的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tumbling"
+ },
+ "tumescence": {
+  "ph": "/tju'mesns, tu:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腫脹, 腫大, 腫大部分",
+    "def": "tumidity resulting from the presence of blood or other fluid in the tissues"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腫脹, 腫大",
+    "def": ""
+   }
+  ]
+ },
+ "tumescent": {
+  "ph": "/tju:'mesnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "略為腫大的, 稍許腫脹的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腫脹的, 腫大的",
+    "def": ""
+   }
+  ]
+ },
+ "tumid": {
+  "ph": "/'tju:mid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腫脹的, 腫大的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 腫脹的",
+    "def": ""
+   }
+  ]
+ },
+ "tummy": {
+  "ph": "/'tʌmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胃, 肚子",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tummies"
+ },
+ "tumor": {
+  "ph": "/'tju:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "腫大, 腫塊, 瘤, 贅生物, 腫瘤",
+    "def": "an abnormal new mass of tissue that serves no purpose"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瘤; 腫脹, 腫塊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tumors"
+ },
+ "tumour": {
+  "ph": "/'tju:mә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘤, 腫塊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tumours"
+ },
+ "tumult": {
+  "ph": "/'tju:mʌlt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騷動, 吵鬧, 混亂",
+    "def": "a state of commotion and noise and confusion"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 騷亂, 騷動, 暴亂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tumults"
+ },
+ "tumultuous": {
+  "ph": "/tju:'mʌltʃuәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吵鬧的, 紛亂的, 騷亂的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 喧囂的, 騷亂的, 兇猛的",
+    "def": ""
+   }
+  ]
+ },
+ "tumulus": {
+  "ph": "/'tju:mjulәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "冢, 墳墓, 古墓",
+    "def": ""
+   }
+  ]
+ },
+ "tun": {
+  "ph": "/tʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大酒桶",
+    "def": "a large cask especially one holding a volume equivalent to 2 butts or 252 gals"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝入大酒桶",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tuns"
+ },
+ "tuna": {
+  "ph": "/'tju:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "金槍魚, 金槍魚肉",
+    "def": "tropical American prickly pear of Jamaica"
+   }
+  ],
+  "forms": "複數 tunas"
+ },
+ "tunable": {
+  "ph": "/'tju:nәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可調音的, 能調諧的, 音調美的",
+    "def": "Capable of being tuned, or made harmonious; hence,"
+   }
+  ]
+ },
+ "tundra": {
+  "ph": "/'tʌndrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "苔原, 凍原",
+    "def": "a vast treeless plain in the Arctic regions where the subsoil is permanently frozen"
+   }
+  ],
+  "forms": "複數 tundras"
+ },
+ "tune": {
+  "ph": "/tju:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "歌曲, 主旋律, 心情, 聲調, 和諧, 一致, 語調, 程度",
+    "def": "a succession of notes forming a distinctive sequence"
+   },
+   {
+    "pos": "vt.",
+    "zh": "為...調音, 調整, 調諧, 使一致",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "協調, 調諧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tunes｜過去分詞 tuned｜現在分詞 tuning｜過去式 tuned｜第三人稱單數 tunes"
+ },
+ "tuned": {
+  "ph": "/tju:nd/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 調諧的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 tuned"
+ },
+ "tuneful": {
+  "ph": "/'tju:nful/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "和諧的, 音調優美的",
+    "def": "having a musical sound; especially a pleasing tune"
+   }
+  ]
+ },
+ "tuneless": {
+  "ph": "/'tju:nlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不和諧的, 不成調子的",
+    "def": "not having a musical sound or pleasing tune"
+   }
+  ]
+ },
+ "tunelessly": {
+  "ph": "/'tju:nlisli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "不入調地；不悅耳地",
+    "def": ""
+   }
+  ]
+ },
+ "tuner": {
+  "ph": "/'tju:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "調音師, 調音的人, 調節器",
+    "def": "someone who tunes pianos"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 調諧器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tuners"
+ },
+ "tunesmith": {
+  "ph": "/'tju:nsmiθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "流行歌曲作曲者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tunesmiths"
+ },
+ "tung": {
+  "ph": "/tʌŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "油桐",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tung"
+ },
+ "tungsten": {
+  "ph": "/'tʌŋstәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鎢",
+    "def": "a heavy grey-white metallic element; the pure form is used mainly in electrical applications; it is found in several ores including wolframite and scheelite"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 鎢W",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tungstens"
+ },
+ "tunic": {
+  "ph": "/'tju:nik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "束腰外衣",
+    "def": "an enveloping or covering membrane or layer of body tissue"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 膜, 被膜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tunics"
+ },
+ "tunica": {
+  "ph": "/'tju:nikә, 'tu:-/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 膜, 被膜",
+    "def": ""
+   }
+  ]
+ },
+ "tuning": {
+  "ph": "/'tju:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "調音, 調諧, 協調",
+    "def": "(music) calibrating something (an instrument or electronic circuit) to a standard frequency"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 調整",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tunings｜現在分詞 tuning"
+ },
+ "tunis": {
+  "ph": "/'tju:nis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突尼西亞(城)",
+    "def": "the capital and principal port of Tunisia"
+   }
+  ]
+ },
+ "tunisia": {
+  "ph": "/tju:'nisiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突尼西亞",
+    "def": "a republic in northwestern Africa on the Mediterranean coast; achieved independence from France in 1956"
+   }
+  ]
+ },
+ "tunisian": {
+  "ph": "/tju:'niziәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "突尼西亞的, 突尼西亞人的",
+    "def": "of or relating to the city of Tunis or its residents"
+   },
+   {
+    "pos": "n.",
+    "zh": "突尼西亞人",
+    "def": "a native or inhabitant of Tunisia"
+   }
+  ],
+  "forms": "複數 tunisians"
+ },
+ "tunnel": {
+  "ph": "/'tʌnl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隧道, 地下道",
+    "def": "a passageway through or under something, usually underground (especially one for trains or cars)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "挖隧道",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "掘隧道於",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tunnels｜過去分詞 tunnelled｜過去式 tunnelled｜現在分詞 tunnelling｜第三人稱單數 tunnels"
+ },
+ "tunneling": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 隧道效應, 資料封裝",
+    "def": ""
+   }
+  ]
+ },
+ "tunnelling": {
+  "ph": "/'tʌnәliŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "隧道效應, 開挖隧道",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tunnelling｜複數 tunnellings"
+ },
+ "tunnels": {
+  "ph": "/ˈtʌnəlz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "隧道, 地道( tunnel的名詞複數 ); （動物棲息的）穴",
+    "def": ""
+   }
+  ]
+ },
+ "tunney": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tunney)人名；(英)滕尼",
+    "def": "United States prizefighter who won the world heavyweight championship by defeating Jack Dempsey twice (1898-1978)"
+   }
+  ]
+ },
+ "tuple": {
+  "ph": "/'tʌpl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "元組, 重數",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tuples｜過去分詞 tupled"
+ },
+ "tupolev": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "圖波列夫（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "tuppence": {
+  "ph": "/'tʌpәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "兩便士, 兩便士銀幣",
+    "def": ""
+   }
+  ]
+ },
+ "tupperware": {
+  "ph": "/'tʌpәweә(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[總稱]塔珀家用塑膠製品",
+    "def": ""
+   }
+  ]
+ },
+ "turban": {
+  "ph": "/'tә:bәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(穆斯林的)頭巾",
+    "def": "a traditional Muslim headdress consisting of a long scarf wrapped around the head"
+   }
+  ],
+  "forms": "複數 turbans"
+ },
+ "turbaned": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "戴頭巾的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 turbaned"
+ },
+ "turbid": {
+  "ph": "/'tә:bid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "渾濁的, 汙濁的, 混亂的, 霧重的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 混濁的",
+    "def": ""
+   }
+  ]
+ },
+ "turbidity": {
+  "ph": "/tә:'biditi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渾濁, 混亂",
+    "def": "muddiness created by stirring up sediment or having foreign particles suspended"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 濁度",
+    "def": ""
+   }
+  ]
+ },
+ "turbinate": {
+  "ph": "/'tә:binit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陀螺狀的, 鼻甲的",
+    "def": "of or relating to the scroll-shaped turbinate bones in the nasal passages"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 甲介形的; 鼻甲",
+    "def": ""
+   }
+  ]
+ },
+ "turbine": {
+  "ph": "/'tә:bain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渦輪機",
+    "def": "rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 渦輪機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turbines"
+ },
+ "turbo": {
+  "ph": "/'tә:bәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渦輪增壓器",
+    "def": "Any one of numerous marine gastropods of the genus Turbo or"
+   }
+  ],
+  "forms": "複數 turbos"
+ },
+ "turbocharge": {
+  "ph": "/'t\\\\\\\\:bәjtʃɑ:dʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用渦輪給(發動機)增壓",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 turbocharging｜過去式 turbocharged｜過去分詞 turbocharged"
+ },
+ "turbocharged": {
+  "ph": "/'tɜːbə(ʊ)tʃɑːdʒ/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "用渦輪給增壓",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 turbocharged"
+ },
+ "turbocharger": {
+  "ph": "/'tә:bәu,tʃɑ:dʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渦輪增壓器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turbochargers"
+ },
+ "turbofan": {
+  "ph": "/'tә:bәu,fæn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 輪機式鼓風機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turbofans"
+ },
+ "turbojet": {
+  "ph": "/'tәbәjdʒet/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渦輪噴氣發動機, 渦輪噴氣飛機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 輪機噴射",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turbojets｜第三人稱單數 turbojets"
+ },
+ "turboprop": {
+  "ph": "/'tә:bәuprɔp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "渦輪螺槳發動機, 渦輪螺槳飛機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 輪機螺旋槳推進",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turboprops"
+ },
+ "turbot": {
+  "ph": "/'tә:bәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大菱鮃",
+    "def": "flesh of a large European flatfish"
+   }
+  ]
+ },
+ "turbulence": {
+  "ph": "/'tә:bjulәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混亂, 動盪, 騷亂, 紊流",
+    "def": "unstable flow of a liquid or gas"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 湍流; 紊流",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turbulences"
+ },
+ "turbulent": {
+  "ph": "/'tә:bjulәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "狂暴的, 騷亂的, 紊亂的",
+    "def": ""
+   }
+  ]
+ },
+ "turd": {
+  "ph": "/tә:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "糞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turds"
+ },
+ "tureen": {
+  "ph": "/tju'ri:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蓋碗, 焙盤",
+    "def": "large deep serving dish with a cover; for serving soups and stews"
+   }
+  ],
+  "forms": "複數 tureens"
+ },
+ "turf": {
+  "ph": "/tә:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草皮, 泥炭, 跑馬場",
+    "def": "surface layer of ground containing a mat of grass and grass roots"
+   },
+   {
+    "pos": "vt.",
+    "zh": "覆草皮於",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 turfed｜複數 turfs｜現在分詞 turfing｜過去式 turfed｜第三人稱單數 turfs"
+ },
+ "turgenev": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "屠格涅夫（俄國作家名）",
+    "def": "Russian writer of stories and novels and plays (1818-1883)"
+   }
+  ]
+ },
+ "turgid": {
+  "ph": "/'tә:dʒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腫的, 浮誇的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 充滿的, 脹滿的",
+    "def": ""
+   }
+  ]
+ },
+ "turin": {
+  "ph": "/tju'rin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "都靈（義大利城市）",
+    "def": "capital city of the Piemonte region of northwestern Italy"
+   }
+  ]
+ },
+ "turing": {
+  "ph": "/'tjjәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 圖靈機",
+    "def": ""
+   }
+  ]
+ },
+ "turk": {
+  "ph": "/tә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土耳其人, 土耳其馬",
+    "def": "a native or inhabitant of Turkey"
+   }
+  ],
+  "forms": "複數 turks"
+ },
+ "turkana": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "圖爾卡納人",
+    "def": ""
+   }
+  ]
+ },
+ "turkestan": {
+  "ph": "/tә:kis'tæn, -'tɑ:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "土耳其斯坦( 某些外國人沿用的對裡海以東廣大中亞地區的稱呼)",
+    "def": ""
+   }
+  ]
+ },
+ "turkey": {
+  "ph": "/'tә:ki/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火雞, 無用的傢伙, 土耳其",
+    "def": "large gallinaceous bird with fan-shaped tail; widely domesticated for food"
+   }
+  ],
+  "forms": "複數 turkeys"
+ },
+ "turkic": {
+  "ph": "/'tә:kik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "突厥語",
+    "def": ""
+   }
+  ]
+ },
+ "turkish": {
+  "ph": "/'tә:kiʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土耳其語",
+    "def": "a Turkic language spoken by the Turks"
+   },
+   {
+    "pos": "adj.",
+    "zh": "土耳其的, 土耳其人的, 土耳其語的",
+    "def": "of or relating to or characteristic of Turkey or its people or language"
+   }
+  ]
+ },
+ "turkmenistan": {
+  "ph": "/,tә:kmeni'stɑ:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土庫曼(位於中亞)",
+    "def": "a republic in Asia to the east of the Caspian Sea and to the south of Kazakhstan and to the north of Iran; an Asian soviet from 1925 to 1991"
+   }
+  ]
+ },
+ "turley": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Turley)人名；(英)特利",
+    "def": ""
+   }
+  ]
+ },
+ "turmeric": {
+  "ph": "/'tә:mәrik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "薑黃, 薑黃根粉末",
+    "def": "widely cultivated tropical plant of India having yellow flowers and a large aromatic deep yellow rhizome; source of a condiment and a yellow dye"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 薑黃",
+    "def": ""
+   }
+  ]
+ },
+ "turmoil": {
+  "ph": "/'tә:mɒil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "騷動, 混亂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turmoils｜過去式 turmoiled"
+ },
+ "turn": {
+  "ph": "/tә:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉彎, 轉動, 旋轉, 翻轉, 一圈, 順次, 改動, 變化, 性格, 特色, 形狀, 轉折",
+    "def": "the act of changing or reversing the direction of the course"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使旋轉, 轉彎, 轉動, 使轉向, 驅趕, 阻擋, 兌換, 改寫, 使作對, 繞過, 使流通",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "轉動, 轉彎, 轉向, 翻轉, 迴轉, 改變, 轉身, 變成, 變質, 暈眩, 易脫手",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 turned｜過去分詞 turned｜現在分詞 turning｜第三人稱單數 turns｜複數 turns"
+ },
+ "turnabout": {
+  "ph": "/'tә:nә.baut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉向, 報復, 轉變",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turnabouts"
+ },
+ "turnaround": {
+  "ph": "/'tә:nә.raund/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉向, 回車道, 轉變",
+    "def": "time need to prepare a vessel or ship for a return trip"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 小修; 預防(性)修理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turnarounds"
+ },
+ "turnbuckle": {
+  "ph": "/'tә:n.bʌkl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬆緊螺旋扣",
+    "def": "an oblong metal coupling with a swivel at one end and an internal thread at the other into which a threaded rod can be screwed in order to form a unit that can "
+   },
+   {
+    "pos": "",
+    "zh": "[機] 鬆緊螺旋扣",
+    "def": ""
+   }
+  ]
+ },
+ "turnbull": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特恩布林（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "turncoat": {
+  "ph": "/'tә:nkәut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "背叛者, 變節者",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 脫黨者, 變節者, 判徒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turncoats"
+ },
+ "turndown": {
+  "ph": "/'tә:ndaun/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可翻下的, 可折轉的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "可翻下部分, 拒絕, 低落",
+    "def": ""
+   }
+  ]
+ },
+ "turned": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "變質的；被轉動的；[金屬加工]車削的",
+    "def": "moved around an axis or center"
+   }
+  ],
+  "forms": "過去式 turned｜過去分詞 turned"
+ },
+ "turner": {
+  "ph": "/'tә:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "車工, 體育協會會員",
+    "def": "United States slave and insurrectionist who in 1831 led a rebellion of slaves in Virginia; he was captured and executed (1800-1831)"
+   }
+  ],
+  "forms": "複數 turners"
+ },
+ "turning": {
+  "ph": "/'tә:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "旋轉, 轉彎處, 車削工作",
+    "def": "act of changing in practice or custom"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 車削",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 turning｜複數 turnings"
+ },
+ "turning point": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "轉折點",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 轉折點",
+    "def": ""
+   }
+  ]
+ },
+ "turnip": {
+  "ph": "/'tә:nip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蕪菁, 蕪菁甘藍",
+    "def": "widely cultivated plant having a large fleshy edible white or yellow root"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 蕪菁, 蘿蔔",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turnips｜第三人稱單數 turnips"
+ },
+ "turnkey": {
+  "ph": "/'tә:nki:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "監獄看守, 獄吏",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 總控鑰匙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turnkeys"
+ },
+ "turnoff": {
+  "ph": "/'tә:nɒf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "岔開, 岔道, 關閉",
+    "def": "something causing antagonism or loss of interest"
+   }
+  ]
+ },
+ "turnout": {
+  "ph": "/'tә:naut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聚集的人群, 出席者, 產量",
+    "def": "the group that gathers together for a particular occasion"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 輸出; 產額",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turnouts"
+ },
+ "turnover": {
+  "ph": "/'tә:n.әuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "翻倒, 翻轉, 半圓酥餅, 營業額, 流通, 週轉",
+    "def": "a dish made by folding a piece of pastry over a filling"
+   },
+   {
+    "pos": "adj.",
+    "zh": "可翻轉的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turnovers"
+ },
+ "turnpike": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "收稅柵, 收稅路, 收稅高速公路, 公路, 大道",
+    "def": "(from 16th to 19th centuries) gates set across a road to prevent passage until a toll had been paid"
+   }
+  ],
+  "forms": "複數 turnpikes｜第三人稱單數 turnpikes｜過去分詞 turnpiked｜現在分詞 turnpiking"
+ },
+ "turnround": {
+  "ph": "/'tә:nraund/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "(機車、貨車)週轉(時間)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turnrounds"
+ },
+ "turnstile": {
+  "ph": "/'tә:nstail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "十字轉門",
+    "def": "a gate consisting of a post that acts as a pivot for rotating arms; set in a passageway for controlling the persons entering"
+   }
+  ],
+  "forms": "複數 turnstiles"
+ },
+ "turntable": {
+  "ph": "/'tә:nteibl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "轉車臺, 唱盤",
+    "def": "a circular horizontal platform that rotates a phonograph record while it is being played"
+   }
+  ],
+  "forms": "複數 turntables"
+ },
+ "turpentine": {
+  "ph": "/'tә:pәntain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "松脂, 松木油, 松節油",
+    "def": "obtained from conifers (especially pines)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "塗以松節油",
+    "def": ""
+   }
+  ]
+ },
+ "turpin": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "特平（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "turpitude": {
+  "ph": "/'tә:pitju:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卑鄙行為, 卑鄙",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 邪惡, 可恥行為, 卑鄙",
+    "def": ""
+   }
+  ]
+ },
+ "turps": {
+  "ph": "/tә:ps/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "松節油",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 松節油",
+    "def": ""
+   }
+  ]
+ },
+ "turquoise": {
+  "ph": "/'tә:kwɒiz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "綠松石, 綠松石色",
+    "def": "a blue to grey green mineral consisting of copper aluminum phosphate"
+   }
+  ],
+  "forms": "複數 turquoises"
+ },
+ "turret": {
+  "ph": "/'tʌrit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "塔樓, 角樓, 攻城用仰衝車",
+    "def": "a small tower extending above a building"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 轉塔, 多角刀架",
+    "def": ""
+   }
+  ],
+  "forms": "複數 turrets"
+ },
+ "turreted": {
+  "ph": "/'tʌritid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有角塔的, 有錐形螺旋狀殼階的",
+    "def": "Furnished with a turret or turrets; specifically (Zool.),"
+   }
+  ]
+ },
+ "turtle": {
+  "ph": "/'tә:tl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海龜",
+    "def": "any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming"
+   }
+  ],
+  "forms": "複數 turtles｜現在分詞 turtling｜過去式 turtled｜第三人稱單數 turtles｜過去分詞 turtled"
+ },
+ "turtledove": {
+  "ph": "/'tә:tldʌv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "斑鳩, 情人",
+    "def": "any of several Old World wild doves"
+   }
+  ],
+  "forms": "複數 turtledoves"
+ },
+ "turtleneck": {
+  "ph": "/'tә:tlnek/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圓翻領, 高翻領毛衣",
+    "def": "a sweater or jersey with a high close-fitting collar"
+   }
+  ]
+ },
+ "turton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Turton)人名；(英)特頓",
+    "def": ""
+   }
+  ]
+ },
+ "tuscan": {
+  "ph": "/'tʌskәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "托斯卡納的, 托斯卡納人的",
+    "def": "of or relating to or characteristic of Tuscany or its people"
+   },
+   {
+    "pos": "n.",
+    "zh": "托斯卡納人, 托斯卡納語",
+    "def": "a resident of Tuscany"
+   }
+  ]
+ },
+ "tuscany": {
+  "ph": "/'tʌskәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "托斯卡納區（義大利行政區名）",
+    "def": "a region in central Italy"
+   }
+  ]
+ },
+ "tush": {
+  "ph": "/tʌʃ/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "呸(表示申斥、輕蔑)",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "犬齒",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發出呸聲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tushes｜過去式 tushed"
+ },
+ "tusk": {
+  "ph": "/tʌsk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "長牙, 獠牙, 尖物",
+    "def": "a long pointed tooth specialized for fighting or digging; especially in an elephant or walrus or hog"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以長牙刺戳, 以長牙掘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tusks｜過去式 tusked｜第三人稱單數 tusks｜現在分詞 tusking｜過去分詞 tusked"
+ },
+ "tussaud": {
+  "ph": "/'tu:sәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "圖索(姓氏)",
+    "def": ""
+   }
+  ]
+ },
+ "tussle": {
+  "ph": "/'tʌsl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "扭打, 爭鬥, 論爭",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "扭打, 打鬥",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tussles｜現在分詞 tussling｜過去式 tussled｜第三人稱單數 tussles｜過去分詞 tussled"
+ },
+ "tussock": {
+  "ph": "/'tʌsәk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "草叢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tussocks"
+ },
+ "tussocky": {
+  "ph": "/'tʌsәki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多叢的, 叢狀的, 成簇的",
+    "def": "Having the form of tussocks; full of, or covered with,"
+   }
+  ]
+ },
+ "tut": {
+  "ph": "/tʌt/",
+  "senses": [
+   {
+    "pos": "interj.",
+    "zh": "嘖嘖(表示不贊成、責難)",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "嘖嘖聲音",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發嘖嘖聲",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 tutted｜現在分詞 tutting｜第三人稱單數 tuts｜過去分詞 tutted"
+ },
+ "tutankhamen": {
+  "ph": "/,tu:tən'kɑ:men; -mən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖坦卡蒙（埃及法老名）",
+    "def": "Pharaoh of Egypt around 1358 BC; his tomb was discovered almost intact by Howard Carter in 1922"
+   }
+  ]
+ },
+ "tutankhamun": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖坦卡門（古埃及法老）",
+    "def": ""
+   }
+  ]
+ },
+ "tutee": {
+  "ph": "/tju:'ti:, tu:-/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "被指導者, 學生, 被教導者",
+    "def": "learns from a tutor"
+   }
+  ],
+  "forms": "複數 tutees"
+ },
+ "tutelage": {
+  "ph": "/'tju:tilidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "守護, 監護, 指導",
+    "def": "teaching pupils individually (usually by a tutor hired privately)"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 監護, 保護, 指導",
+    "def": ""
+   }
+  ]
+ },
+ "tutelary": {
+  "ph": "/'tju:tilәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "保護的, 監護的, 監護人的",
+    "def": ""
+   }
+  ]
+ },
+ "tutor": {
+  "ph": "/'tju:tә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家庭教師, 導師, 助教, 監護人",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "當...的教師, 教, 指導, 約束, 剋制",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "當家庭教師, 受家庭教師的指導",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tutors｜現在分詞 tutoring｜過去式 tutored｜第三人稱單數 tutors｜過去分詞 tutored"
+ },
+ "tutorial": {
+  "ph": "/tju:'tɒ:riәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "個別指導, 論文, 學習指南, 指導手冊",
+    "def": "a session of intensive tuition given by a tutor to an individual or to a small number of students"
+   },
+   {
+    "pos": "adj.",
+    "zh": "個別指導的, 家庭教師的, 輔導的",
+    "def": "of or relating to tutors or tutoring"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 教程",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tutorials"
+ },
+ "tutoring": {
+  "ph": "/ˈtju:tərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "當家庭教師( tutor的現在分詞 ); 任大學導師; 任課",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 tutoring"
+ },
+ "tutsi": {
+  "ph": "/'tjtsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "圖西人(盧安達與蒲隆地境內的少數民族人)",
+    "def": "a member of a Bantu speaking people living in Rwanda and Burundi"
+   }
+  ]
+ },
+ "tutte": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Tutte)人名；(德)圖特",
+    "def": ""
+   }
+  ]
+ },
+ "tutti": {
+  "ph": "/'tuti/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "全體齊奏的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "合奏, 合唱",
+    "def": "pl. All; -- a direction for all the singers or players to"
+   }
+  ],
+  "forms": "複數 tutti"
+ },
+ "tuttle": {
+  "ph": "/'tʌtl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 托特",
+    "def": ""
+   }
+  ]
+ },
+ "tutu": {
+  "ph": "/'tu:tu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(芭蕾舞女演員用)短裙",
+    "def": "South African prelate and leader of the antiapartheid struggle (born in 1931)"
+   }
+  ],
+  "forms": "複數 tutus"
+ },
+ "tux": {
+  "ph": "/tʌks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夜小禮服, 無尾夜常禮服",
+    "def": ""
+   }
+  ]
+ },
+ "tuxedo": {
+  "ph": "/tʌk'si:dәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無尾禮服, 男小禮服",
+    "def": ""
+   }
+  ],
+  "forms": "複數 tuxedos"
+ },
+ "tuxedoed": {
+  "ph": "/tʌk'siːdəʊd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "穿無尾禮服的, 穿（夜）小禮服的",
+    "def": ""
+   }
+  ]
+ }
+}

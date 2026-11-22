@@ -1,0 +1,1245 @@
+{
+ "ai": {
+  "ph": "/ai/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 附加資訊, 人工智慧",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 人工智慧",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ais"
+ },
+ "aib": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（英國）銀行家學會準會員（Associate of the Institute of Bankers）",
+    "def": ""
+   }
+  ]
+ },
+ "aid": {
+  "ph": "/eid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幫助, 外援, 助手",
+    "def": "a resource"
+   },
+   {
+    "pos": "vt.",
+    "zh": "援助, 幫助, 有助於",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "幫助",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 自動內部診斷",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aids｜過去分詞 aided｜現在分詞 aiding｜過去式 aided｜第三人稱單數 aids"
+ },
+ "aida": {
+  "ph": "/ɑ:'i:dә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[經] 廣告作用四階段",
+    "def": ""
+   }
+  ]
+ },
+ "aidan": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "艾丹",
+    "def": ""
+   }
+  ]
+ },
+ "aide": {
+  "ph": "/eid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "助手, 副官",
+    "def": "someone who acts as assistant"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 資料輸入的可說明性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aides"
+ },
+ "aided": {
+  "ph": "/'eidid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "輔助的；半自動的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aided｜過去分詞 aided"
+ },
+ "aider": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 助手, 幫手, 輔助人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aiders"
+ },
+ "aids": {
+  "ph": "/eidz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "愛滋病(獲得性免疫缺陷綜合徵)",
+    "def": "a serious (often fatal) disease of the immune system transmitted through blood products especially by sexual contact or contaminated needles"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 高階綜合資料系統, 先進互動除錯系統, 自動圖解文件編制系統",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "美國決策學學會, 資訊自動顯示系統, 自動綜合除錯系統",
+    "def": ""
+   }
+  ]
+ },
+ "aiken": {
+  "ph": "/'eikәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾肯（美國詩人、文學批評家、小說家）；艾肯（南卡羅萊納大學University of South Carolina 分校校區）",
+    "def": "United States writer (1889-1973)"
+   }
+  ]
+ },
+ "aikido": {
+  "ph": "/ai'ki:dәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<日>合氣道(日本的一種徒手自衛術,利用對方的力氣取勝)",
+    "def": ""
+   }
+  ]
+ },
+ "ail": {
+  "ph": "/eil/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使苦惱",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "生病, 處境困難",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 陣列互聯邏輯",
+    "def": ""
+   }
+  ],
+  "forms": "第三人稱單數 ails｜過去式 ailed｜現在分詞 ailing｜過去分詞 ailed"
+ },
+ "aileen": {
+  "ph": "/'eili:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾琳（女子名, 等於Alene, Eileen, Helen）",
+    "def": ""
+   }
+  ]
+ },
+ "aileron": {
+  "ph": "/'eilәrɒn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "副翼",
+    "def": "an airfoil that controls lateral motion"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 補助翼, 副翼",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ailerons"
+ },
+ "ailing": {
+  "ph": "/'eiliŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "生病的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 患病的, 病痛的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ailing"
+ },
+ "ailment": {
+  "ph": "/'eilmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "病痛, 疾病",
+    "def": "an often persistent bodily disorder or disease; a cause for complaining"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 疾病",
+    "def": ""
+   }
+  ],
+  "forms": "複數 ailments"
+ },
+ "ailsa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾爾莎（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "aim": {
+  "ph": "/eim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "目標, 瞄準, 擊中目標的能力",
+    "def": "the goal intended to be attained (and which is believed to be attainable)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "對準目標, 致力, 打算",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "瞄準",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 醫學文摘索引, 存取隔離機構, 高階資訊管理程式, 先進介面模組",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "應用介面模組, 醫學人工智慧, 相聯索引法, 非同步介面模組",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "自動化資訊管理, 自動化綜合製造, 自動化庫存管理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aims｜第三人稱單數 aims｜過去式 aimed｜過去分詞 aimed｜現在分詞 aiming"
+ },
+ "aimless": {
+  "ph": "/'eimlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無目的的, 沒有目標的",
+    "def": ""
+   }
+  ]
+ },
+ "aimlessly": {
+  "ph": "/'eimlisli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "漫無目的地, 無目標地",
+    "def": ""
+   }
+  ]
+ },
+ "aimlessness": {
+  "ph": "/'eimlisnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無目的, 盲目性",
+    "def": ""
+   }
+  ]
+ },
+ "ain": {
+  "ph": "/ein/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "（蘇格蘭）自己的",
+    "def": ""
+   }
+  ]
+ },
+ "ain't": {
+  "ph": "/eint/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "不是",
+    "def": ""
+   }
+  ]
+ },
+ "ainslie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安斯利區（位於澳大利亞堪培拉）",
+    "def": ""
+   }
+  ]
+ },
+ "ainsworth": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "安斯沃思",
+    "def": ""
+   }
+  ]
+ },
+ "aintree": {
+  "ph": "/'eintri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "安特里（英國西北部利物浦市郊區）",
+    "def": ""
+   }
+  ]
+ },
+ "aioli": {
+  "ph": "/ai'әjli/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蒜泥蛋黃醬(一種用蒜泥、蛋黃、橄欖油和檸檬汁配製的調味汁)",
+    "def": "garlic mayonnaise"
+   }
+  ],
+  "forms": "複數 aioli"
+ },
+ "air": {
+  "ph": "/єә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空氣, 旋律, 態度",
+    "def": "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of"
+   },
+   {
+    "pos": "vt.",
+    "zh": "晾, 使通風, 誇耀",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 aired｜複數 airs｜現在分詞 airing｜過去式 aired｜第三人稱單數 airs"
+ },
+ "air base": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空軍基地",
+    "def": ""
+   }
+  ]
+ },
+ "air force": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "空軍, 美國航空隊",
+    "def": ""
+   }
+  ]
+ },
+ "air power": {
+  "ph": "/'εəpauə/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "空軍力量；空軍實力",
+    "def": ""
+   }
+  ]
+ },
+ "air raid": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "空襲",
+    "def": ""
+   }
+  ]
+ },
+ "air strike": {
+  "ph": "/eə(r) straik/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "空中出擊; 空襲",
+    "def": ""
+   }
+  ]
+ },
+ "air traffic controller": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "空中交通指揮員",
+    "def": ""
+   }
+  ]
+ },
+ "air-conditioned": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "備有空調裝置的",
+    "def": ""
+   }
+  ]
+ },
+ "air-conditioning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 空氣調節",
+    "def": ""
+   }
+  ]
+ },
+ "airbag": {
+  "ph": "/'eәbæ^/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 空氣囊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airbags｜第三人稱單數 airbags"
+ },
+ "airbase": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空軍基地；航空基地",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airbases"
+ },
+ "airboat": {
+  "ph": "/'eәbәjt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣艇",
+    "def": ""
+   }
+  ]
+ },
+ "airborne": {
+  "ph": "/'єәbɒ:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "升空的, 空運的, 空中傳播的, 空降的",
+    "def": ""
+   }
+  ]
+ },
+ "airbrake": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空氣制動器；減速板",
+    "def": "a small parachute or articulated flap to reduce the speed of an aircraft"
+   }
+  ],
+  "forms": "複數 airbrakes｜第三人稱單數 airbrakes｜過去式 airbraked"
+ },
+ "airbrush": {
+  "ph": "/'єәbrʌʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噴槍",
+    "def": "an atomizer to spray paint by means of compressed air"
+   }
+  ],
+  "forms": "複數 airbrushes｜第三人稱單數 airbrushes｜過去式 airbrushed｜現在分詞 airbrushing｜過去分詞 airbrushed"
+ },
+ "airbrushed": {
+  "ph": "/'eəbrʌʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噴槍；氣筆",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "用氣筆修（照片等）；用噴槍噴；粉飾",
+    "def": ""
+   }
+  ]
+ },
+ "airburst": {
+  "ph": "/'eәb\\\\\\\\:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空中爆炸",
+    "def": "an explosion in the atmosphere"
+   }
+  ],
+  "forms": "複數 airbursts"
+ },
+ "airbus": {
+  "ph": "/'eәbʌs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "空中客車",
+    "def": ""
+   }
+  ]
+ },
+ "aircraft": {
+  "ph": "/'єәkræft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航空器, 飛機",
+    "def": "a vehicle that can fly"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 航空器",
+    "def": ""
+   }
+  ]
+ },
+ "aircraft carrier": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "航空母艦",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 航空母艦",
+    "def": ""
+   }
+  ]
+ },
+ "aircrew": {
+  "ph": "/'єәkru:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空勤組",
+    "def": "the crew of an aircraft"
+   }
+  ],
+  "forms": "複數 aircrews｜第三人稱單數 aircrews"
+ },
+ "aird": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "艾爾德（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "airdrie": {
+  "ph": "/'εədri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾爾德里（英國蘇格蘭中部城市）",
+    "def": ""
+   }
+  ]
+ },
+ "airdrop": {
+  "ph": "/'єәdrɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空投",
+    "def": "delivery of supplies or equipment or personnel by dropping them by parachute from an aircraft"
+   },
+   {
+    "pos": "vt.",
+    "zh": "空投",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airdrops｜第三人稱單數 airdrops"
+ },
+ "aire": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "亞耳河（英國約克郡西部河流）",
+    "def": "a river in northern England that flows southeast through West Yorkshire"
+   }
+  ]
+ },
+ "aired": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "通風",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "誇耀",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "晾乾（air的過去式和過去分詞）",
+    "def": ""
+   }
+  ]
+ },
+ "airedale": {
+  "ph": "/'eәdeil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硬毛雜種狗, 艾爾谷犬",
+    "def": "breed of large wiry-coated terrier bred in Yorkshire"
+   }
+  ],
+  "forms": "複數 airedales"
+ },
+ "aires": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "白羊座",
+    "def": ""
+   }
+  ]
+ },
+ "airey": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "艾雷（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "airfare": {
+  "ph": "/'εә.fεә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機票價",
+    "def": "the fare charged for traveling by airplane"
+   }
+  ],
+  "forms": "複數 airfares｜第三人稱單數 airfares"
+ },
+ "airfield": {
+  "ph": "/'єәfi:ld/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機場",
+    "def": "a place where planes take off and land"
+   }
+  ],
+  "forms": "複數 airfields"
+ },
+ "airflow": {
+  "ph": "/'єәflәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空氣的流動, 氣流",
+    "def": "the flow of air"
+   }
+  ],
+  "forms": "複數 airflows"
+ },
+ "airfoil": {
+  "ph": "/'eәfɔil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機翼, 方向艙",
+    "def": "a device that provides reactive force when in motion relative to the surrounding air; can lift or control a plane in flight"
+   }
+  ]
+ },
+ "airforce": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空軍",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airforces"
+ },
+ "airframe": {
+  "ph": "/'єәfreim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機身",
+    "def": "the framework and covering of an airplane or rocket (excluding the engines)"
+   }
+  ],
+  "forms": "複數 airframes｜第三人稱單數 airframes"
+ },
+ "airgun": {
+  "ph": "/'ɛrɡʌn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣槍；噴霧器（等於airbrush）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airguns"
+ },
+ "airhead": {
+  "ph": "/'eәhed/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空降物",
+    "def": "a flighty scatterbrained simpleton"
+   }
+  ],
+  "forms": "複數 airheads"
+ },
+ "airily": {
+  "ph": "/'єәrili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "輕盈地, 快活地",
+    "def": ""
+   }
+  ]
+ },
+ "airiness": {
+  "ph": "/'єәrinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通風, 輕快, 輕浮, 虛無縹渺",
+    "def": "the property of something spacious and abounding in fresh air"
+   }
+  ]
+ },
+ "airing": {
+  "ph": "/'єәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晾, 通風, 兜風",
+    "def": "a short excursion (a walk or ride) in the open air"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 充氣",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 airing｜複數 airings"
+ },
+ "airless": {
+  "ph": "/'єәlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無空氣的, 不通風的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 無氣, 無氣式",
+    "def": ""
+   }
+  ]
+ },
+ "airlie": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Airlie)人名；(英)艾爾利",
+    "def": ""
+   }
+  ]
+ },
+ "airlift": {
+  "ph": "/'єәlift/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空運, 空中補給線, 空運物資",
+    "def": "transportation of people or goods by air (especially when other means of access are unavailable)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "空運",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 airlifted｜複數 airlifts｜過去式 airlifted｜現在分詞 airlifting｜第三人稱單數 airlifts"
+ },
+ "airline": {
+  "ph": "/'єәlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航線, 航線的裝置, 航空公司",
+    "def": "a hose that carries air under pressure"
+   }
+  ],
+  "forms": "複數 airlines"
+ },
+ "airliner": {
+  "ph": "/'єәlainә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "班機, 大型客機",
+    "def": "a commercial airplane that carries passengers"
+   }
+  ],
+  "forms": "複數 airliners"
+ },
+ "airlock": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣塞, 氣閘, 氣密艙",
+    "def": "a chamber that provides access to space where air is under pressure"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 風閘; 氣封; 氣窩(塑膠表面的)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airlocks"
+ },
+ "airmail": {
+  "ph": "/'єәmeil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航空郵件",
+    "def": "letters and packages that are transported by aircraft"
+   }
+  ],
+  "forms": "過去分詞 airmailed｜複數 airmails｜現在分詞 airmailing｜過去式 airmailed｜第三人稱單數 airmails"
+ },
+ "airman": {
+  "ph": "/'єәmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛行員, 空軍士兵",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airmen"
+ },
+ "airplane": {
+  "ph": "/'єәplein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機",
+    "def": "an aircraft that has a fixed wing and is powered by propellers or jets"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 飛機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airplanes"
+ },
+ "airplay": {
+  "ph": "/'eәplei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(無線電臺上)唱片的播送",
+    "def": ""
+   }
+  ]
+ },
+ "airport": {
+  "ph": "/'єәpɒ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機場",
+    "def": "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 航空站, 機場",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airports"
+ },
+ "airpower": {
+  "ph": "/'εəpauə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空中實力；制空權",
+    "def": ""
+   }
+  ]
+ },
+ "airshaft": {
+  "ph": "/eə'ʃɑ:ft/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "通風井, 通風管道",
+    "def": ""
+   }
+  ]
+ },
+ "airship": {
+  "ph": "/'єәʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛艇, 飛船",
+    "def": "a steerable self-propelled aircraft"
+   }
+  ],
+  "forms": "複數 airships"
+ },
+ "airshow": {
+  "ph": "/'εəʃəu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛行特技表演；飛機展覽",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airshows｜第三人稱單數 airshows"
+ },
+ "airsick": {
+  "ph": "/'єәsik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "暈機的",
+    "def": ""
+   }
+  ]
+ },
+ "airsickness": {
+  "ph": "/'єәsiknis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暈機",
+    "def": "motion sickness experienced while traveling by air (especially during turbulence)"
+   }
+  ]
+ },
+ "airspace": {
+  "ph": "/'єәspeis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空域, 空間",
+    "def": "the space in the atmosphere immediately above the earth"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 氣隙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airspaces"
+ },
+ "airspeed": {
+  "ph": "/'єәspi:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空速",
+    "def": "the speed of an aircraft relative to the air in which it is flying"
+   }
+  ],
+  "forms": "複數 airspeeds"
+ },
+ "airstream": {
+  "ph": "/'eәstri:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣流",
+    "def": "a relatively well-defined prevailing wind"
+   }
+  ],
+  "forms": "複數 airstreams"
+ },
+ "airstrike": {
+  "ph": "/'er,straik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空襲；空中打擊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airstrikes"
+ },
+ "airstrip": {
+  "ph": "/'єәstrip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機跑道",
+    "def": "an airfield without normal airport facilities"
+   }
+  ],
+  "forms": "複數 airstrips"
+ },
+ "airtight": {
+  "ph": "/'єәtait/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氣密的, 不透氣的, 無懈可擊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 氣密, 不透氣",
+    "def": ""
+   }
+  ]
+ },
+ "airtime": {
+  "ph": "/'eәtaim/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "電影或電視節目開始的時間",
+    "def": ""
+   }
+  ]
+ },
+ "airwave": {
+  "ph": "/'єәweiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "電波, 波道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airwaves"
+ },
+ "airwaves": {
+  "ph": "/'eәweivz/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "電視廣播",
+    "def": ""
+   }
+  ]
+ },
+ "airway": {
+  "ph": "/'єәwei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空中航線, 風道",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 導氣管",
+    "def": ""
+   }
+  ],
+  "forms": "複數 airways"
+ },
+ "airworthiness": {
+  "ph": "/'єә.wә:ðinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適航性",
+    "def": "fitness to fly"
+   }
+  ]
+ },
+ "airworthy": {
+  "ph": "/'єәwә:ði/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "飛行效能好的, 適宜航空的",
+    "def": "(of aircraft) fit to fly"
+   }
+  ]
+ },
+ "airy": {
+  "ph": "/'єәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "空氣的, 空中的, 通風的, 幻想的, 輕快的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 airier"
+ },
+ "aisle": {
+  "ph": "/ail/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "走廊, 側廊, 過道",
+    "def": "a long narrow passage (as in a cave or woods)"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 走道",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aisles"
+ },
+ "aitch": {
+  "ph": "/eitʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "H, h的字母, h音",
+    "def": "The letter h or H."
+   },
+   {
+    "pos": "adj.",
+    "zh": "H形的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aitches｜過去分詞 aitched"
+ },
+ "aitchison": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Aitchison)人名；(英)艾奇遜",
+    "def": ""
+   }
+  ]
+ },
+ "aitken": {
+  "ph": "/'eitkin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃特金, 艾特肯（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "aix": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 高階互動執行程式",
+    "def": ""
+   }
+  ]
+ }
+}

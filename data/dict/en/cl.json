@@ -1,0 +1,4894 @@
+{
+ "cl": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 命令語言, 編譯程式語言, 計算機語言, 控制線",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 中心線",
+    "def": ""
+   }
+  ]
+ },
+ "clack": {
+  "ph": "/klæk/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "噼啪響",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "噼啪響",
+    "def": "a sharp abrupt noise as if two objects hit together; may be repeated"
+   }
+  ],
+  "forms": "現在分詞 clacking｜過去式 clacked｜第三人稱單數 clacks｜過去分詞 clacked"
+ },
+ "clacking": {
+  "ph": "/klækɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "噼啪響( clack的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clacking"
+ },
+ "clacton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克拉克頓（地名）",
+    "def": ""
+   }
+  ]
+ },
+ "clad": {
+  "ph": "/klæd/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "在金屬外包上另一種金屬",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "包層金屬的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "clothe的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clad｜過去式 clad｜現在分詞 cladding｜複數 clads"
+ },
+ "cladding": {
+  "ph": "/'klædiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "包層",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 包層, 敷箔, 覆蓋",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 cladding"
+ },
+ "clade": {
+  "ph": "/kleid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[生]進化枝,分化枝",
+    "def": "a group of biological taxa or species that share features inherited from a common ancestor"
+   }
+  ],
+  "forms": "複數 clades"
+ },
+ "claiborne": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克萊本（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "claim": {
+  "ph": "/kleim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "要求, 要求權, 斷言, 權利",
+    "def": "an assertion of a right (as to money or property)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "要求, 認領, 主張",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "提出要求, 主張, 斷言",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 claimed｜複數 claims｜第三人稱單數 claims｜過去分詞 claimed｜現在分詞 claiming"
+ },
+ "claimant": {
+  "ph": "/'kleimәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "提出要求者, 原告",
+    "def": "someone who claims a benefit or right or title"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 索賠人, 債權人",
+    "def": ""
+   }
+  ],
+  "forms": "複數 claimants"
+ },
+ "claimed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "宣稱；聲稱；斷言（claim的過去式）",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 claimed｜過去式 claimed"
+ },
+ "claiming": {
+  "ph": "/kleimɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "要求（應得權利）( claim的現在分詞 ); 聲稱; 需要; 奪走",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 claiming"
+ },
+ "clair": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "自治體國際化協會",
+    "def": ""
+   }
+  ]
+ },
+ "claire": {
+  "ph": "/kleә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊兒（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "clairol": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊卡璐（商標名）；克萊若（公司名, 已被寶潔公司收購）",
+    "def": ""
+   }
+  ]
+ },
+ "clairvoyance": {
+  "ph": "/klєә'vɒiәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "神視, 超人的視力, 洞察力",
+    "def": "apparent power to perceive things that are not present to the senses"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 千里眼, 神視",
+    "def": ""
+   }
+  ]
+ },
+ "clairvoyant": {
+  "ph": "/klєә'vɒiәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "神視的, 有洞察力的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "有洞察力的人, 千里眼",
+    "def": "someone who has the power of clairvoyance"
+   }
+  ],
+  "forms": "複數 clairvoyants"
+ },
+ "clam": {
+  "ph": "/klæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛤, 沉默寡言的人",
+    "def": "burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness"
+   },
+   {
+    "pos": "vi.",
+    "zh": "撈蛤",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clams｜過去式 clammed｜第三人稱單數 clams｜過去分詞 clammed｜現在分詞 clamming"
+ },
+ "clambake": {
+  "ph": "/'klæmbeik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烤蛤野餐會",
+    "def": "a cookout at the seashore where clams and fish and other foods are cooked--usually on heated stones covered with seaweed"
+   }
+  ]
+ },
+ "clamber": {
+  "ph": "/'klæmbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "攀登, 爬上",
+    "def": "an awkward climb"
+   },
+   {
+    "pos": "v.",
+    "zh": "爬上, 攀登",
+    "def": "climb awkwardly, as if by scrambling"
+   }
+  ],
+  "forms": "過去式 clambered｜現在分詞 clambering｜過去分詞 clambered｜第三人稱單數 clambers"
+ },
+ "clammy": {
+  "ph": "/'klæmi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "溼粘的, 病態的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clammying"
+ },
+ "clamor": {
+  "ph": "/'klæmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喧鬧, 叫嚷, 大聲的要求",
+    "def": "loud and persistent outcry from many people"
+   },
+   {
+    "pos": "v.",
+    "zh": "喧嚷, 大聲地要求",
+    "def": "make loud demands"
+   }
+  ],
+  "forms": "現在分詞 clamoring｜過去式 clamored｜第三人稱單數 clamors｜過去分詞 clamored"
+ },
+ "clamoring": {
+  "ph": "/ˈklæmərɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "喧譁, 吵鬧( clamor的現在分詞 ); 大聲地要求或抗議",
+    "def": ""
+   }
+  ]
+ },
+ "clamorous": {
+  "ph": "/'klæmәrәs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "吵鬧的",
+    "def": ""
+   }
+  ]
+ },
+ "clamour": {
+  "ph": "/'klæmә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "喧鬧",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "大聲地要求",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clamouring｜過去式 clamoured｜過去分詞 clamoured｜第三人稱單數 clamours｜複數 clamours"
+ },
+ "clamp": {
+  "ph": "/klæmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "夾鉗",
+    "def": "a device (generally used by carpenters) that holds things firmly together"
+   },
+   {
+    "pos": "vt.",
+    "zh": "夾緊, 強加",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clamped｜過去式 clamped｜現在分詞 clamping｜複數 clamps｜第三人稱單數 clamps"
+ },
+ "clampdown": {
+  "ph": "/'klæmdaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壓制, 取締",
+    "def": "sudden restriction on an activity"
+   }
+  ],
+  "forms": "複數 clampdowns"
+ },
+ "clamping": {
+  "ph": "/'klæmpiŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 鉗位",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clamping"
+ },
+ "clamshell": {
+  "ph": "/'klæmʃәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "蛤殼, 蛤殼狀挖泥器",
+    "def": "the shell of a clam"
+   }
+  ]
+ },
+ "clan": {
+  "ph": "/klæn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氏族, 宗族, 集團",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 支",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clans"
+ },
+ "clancy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克蘭西（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "clandestine": {
+  "ph": "/klæn'destin/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "偷偷摸摸的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 秘密的, 暗中的",
+    "def": ""
+   }
+  ]
+ },
+ "clandestinely": {
+  "ph": "/klæn'destɪnlɪ/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "秘密地, 暗中地",
+    "def": ""
+   }
+  ]
+ },
+ "clang": {
+  "ph": "/klæŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "噹噹聲, 鏗鏘聲",
+    "def": "a loud resonant repeating noise"
+   },
+   {
+    "pos": "vi.",
+    "zh": "發出噹噹聲, 發鏗鏘聲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使發鏗鏘聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clanging｜複數 clangs｜第三人稱單數 clangs｜過去式 clanged｜過去分詞 clanged"
+ },
+ "clanger": {
+  "ph": "/'klæŋә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大失策, 過失",
+    "def": "a conspicuous mistake whose effects seem to reverberate"
+   }
+  ],
+  "forms": "複數 clangers"
+ },
+ "clanging": {
+  "ph": "/klæŋɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）叮噹地響( clang的現在分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clanging"
+ },
+ "clangor": {
+  "ph": "/'klæŋ^ә/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "發鏗鏘聲, 發丁當聲",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "鏗鏘聲, 丁當聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clangoring｜過去式 clangored｜第三人稱單數 clangors｜過去分詞 clangored｜複數 clangors"
+ },
+ "clank": {
+  "ph": "/klæŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叮噹聲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發叮噹聲, 發鏗鏘聲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使鏗然作響",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clanking｜過去式 clanked｜複數 clanks｜過去分詞 clanked｜第三人稱單數 clanks"
+ },
+ "clanking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "發出丁當聲",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clankings｜現在分詞 clanking"
+ },
+ "clannish": {
+  "ph": "/'klæniʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氏族的, 宗族的, 團結心很強的",
+    "def": ""
+   }
+  ]
+ },
+ "clansman": {
+  "ph": "/'klænzmәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "族人, 同宗",
+    "def": "a member of a clan"
+   }
+  ],
+  "forms": "複數 clansmen"
+ },
+ "clap": {
+  "ph": "/klæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拍手, 拍手聲, 霹靂聲, 花柳病",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "鼓掌, (使)啪地關上",
+    "def": "put quickly or forcibly"
+   }
+  ],
+  "forms": "過去式 clapped｜現在分詞 clapping｜過去分詞 clapped｜第三人稱單數 claps｜複數 claps"
+ },
+ "clapboard": {
+  "ph": "/'klæpbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "護牆板, 護壁板, 桶板",
+    "def": "a long thin board with one edge thicker than the other; used as siding by lapping one board over the board below"
+   },
+   {
+    "pos": "vt.",
+    "zh": "給...覆蓋護牆板",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clapboarding｜過去式 clapboarded｜第三人稱單數 clapboards｜過去分詞 clapboarded"
+ },
+ "clapham": {
+  "ph": "/'klæpәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克拉彭[英國倫敦西南部一地區]",
+    "def": ""
+   }
+  ]
+ },
+ "clapper": {
+  "ph": "/'klæpә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拍手者, 鈴錘, 鍾錘",
+    "def": "someone who applauds"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 鈴錘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clappers"
+ },
+ "clapping": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "掌聲, 拍手聲",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 拍打法(按摩的一種手法)",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clapping"
+ },
+ "clapton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊普頓（音樂人）；克拉普頓（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "claptrap": {
+  "ph": "/'klæptræp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "譁眾取寵的空話(花招)",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "譁眾取寵的",
+    "def": ""
+   }
+  ]
+ },
+ "claque": {
+  "ph": "/klæk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "僱用的一群喝采者, 一群諂媚者, 一群捧場者",
+    "def": "a group of followers hired to applaud at a performance"
+   }
+  ]
+ },
+ "clara": {
+  "ph": "/'kleәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克拉拉（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "clare": {
+  "ph": "/kleә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊爾（女子名）",
+    "def": "A nun of the order of St. Clare."
+   }
+  ]
+ },
+ "claremont": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊爾蒙特（美國一城市）",
+    "def": ""
+   }
+  ]
+ },
+ "clarence": {
+  "ph": "/'klærәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克拉倫斯馬車(一種四輪馬車)",
+    "def": "a closed carriage with four wheels and seats for four passengers"
+   }
+  ]
+ },
+ "clarendon": {
+  "ph": "/'klærәndәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "筆畫較粗而字型略長的一種鉛字",
+    "def": "A style of type having a narrow and heave face. It is"
+   },
+   {
+    "pos": "adj.",
+    "zh": "筆畫較粗而字型略長的一種鉛字的",
+    "def": ""
+   }
+  ]
+ },
+ "claret": {
+  "ph": "/'klærәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紅葡萄酒, 深紫紅色",
+    "def": "a dark purplish-red color"
+   },
+   {
+    "pos": "adj.",
+    "zh": "深紫紅色的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clarets"
+ },
+ "clarice": {
+  "ph": "/'klæris,klә'ri:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克拉麗斯(Clara的暱稱)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "claridge": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Claridge)人名；(英)克拉裡奇",
+    "def": ""
+   }
+  ]
+ },
+ "clarification": {
+  "ph": "/.klærifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "澄清, 淨化",
+    "def": "an interpretation that removes obstacles to understanding"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 澄清報告; 澄清",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clarifications"
+ },
+ "clarified": {
+  "ph": "/ˈklærifaid/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使清楚, 澄清( clarify的過去式和過去分詞 ); （尤指透過加熱使黃油）純淨; 說明; 使（頭腦、神智等）清醒",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clarified｜過去分詞 clarified"
+ },
+ "clarifier": {
+  "ph": "/'klærifaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "澄清劑, 淨化劑",
+    "def": "That which clarifies."
+   },
+   {
+    "pos": "",
+    "zh": "[化] 澄清器; 沉降器; 澄清劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clarifiers"
+ },
+ "clarify": {
+  "ph": "/'klærifai/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "澄清, 闡明",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使明晰",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clarified｜現在分詞 clarifying｜第三人稱單數 clarifies｜過去式 clarified"
+ },
+ "clarifying": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 澄清的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clarifying"
+ },
+ "clarinet": {
+  "ph": "/klæri'net/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "豎笛, 單簧管, 黑管",
+    "def": "a single-reed instrument with a straight tube"
+   }
+  ],
+  "forms": "複數 clarinets"
+ },
+ "clarinetist": {
+  "ph": "/,klæri'netist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吹木簫者",
+    "def": "a musician who plays the clarinet"
+   }
+  ]
+ },
+ "clarinettist": {
+  "ph": "/ˌklærəˈnetɪst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "單簧管或豎笛吹奏者。",
+    "def": ""
+   }
+  ]
+ },
+ "clarion": {
+  "ph": "/'klæriәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "尖音號角",
+    "def": "a medieval brass instrument with a clear shrill tone"
+   },
+   {
+    "pos": "adj.",
+    "zh": "清澈響亮的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clarioning｜過去式 clarioned｜第三人稱單數 clarions｜過去分詞 clarioned"
+ },
+ "clarissa": {
+  "ph": "/klә'risә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克拉麗莎(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "clarity": {
+  "ph": "/'klærәti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清楚, 明晰",
+    "def": "free from obscurity and easy to understand; the comprehensibility of clear expression"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 透明度; 透明性; 清晰性",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clarities"
+ },
+ "clark": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克拉克（男子名）",
+    "def": "United States explorer who (with Meriwether Lewis) led an expedition from St. Louis to the mouth of the Columbia River; Clark was responsible for making maps of"
+   }
+  ]
+ },
+ "clarke": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克拉克（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "clarks": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "英國其樂（品牌名）；克拉克（姓氏）",
+    "def": ""
+   }
+  ]
+ },
+ "clarkson": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克拉克森（男子名）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clarksons"
+ },
+ "claro": {
+  "ph": "/'klɑ:rәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克拉洛雪茄煙",
+    "def": "a cigar made with light-colored tobacco"
+   }
+  ]
+ },
+ "clary": {
+  "ph": "/'kleәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[植]鼠尾草屬的植物",
+    "def": "aromatic herb of southern Europe; cultivated in Great Britain as a potherb and widely as an ornamental"
+   }
+  ]
+ },
+ "clash": {
+  "ph": "/klæʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衝突, 撞擊聲, 牴觸",
+    "def": "a state of conflict between persons"
+   },
+   {
+    "pos": "vi.",
+    "zh": "衝突, 牴觸",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使發出撞擊聲",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 對撞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clashes｜過去分詞 clashed｜過去式 clashed｜現在分詞 clashing｜第三人稱單數 clashes"
+ },
+ "clashing": {
+  "ph": "/klæʃɪŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "相反; 碰損險",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clashing"
+ },
+ "clasp": {
+  "ph": "/klɑ:sp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釦子, 鉤, 緊握",
+    "def": "a fastener (as a buckle or hook) that is used to hold two things together"
+   },
+   {
+    "pos": "v.",
+    "zh": "扣緊, 緊握",
+    "def": "hold firmly and tightly"
+   }
+  ],
+  "forms": "過去式 clasped｜現在分詞 clasping｜過去分詞 clasped｜複數 clasps｜第三人稱單數 clasps"
+ },
+ "clasped": {
+  "ph": "/klɑ:spt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "抱緊( clasp的過去式和過去分詞 ); 緊緊擁抱; 握緊; 攥緊",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clasped｜過去式 clasped"
+ },
+ "clasper": {
+  "ph": "/'klɑ:spә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釦子, 抱莖卷鬚, 鰭腳",
+    "def": "One who, or that which, clasps, as a tendril."
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 抱握器, 交接突起, 鰭腳",
+    "def": ""
+   }
+  ],
+  "forms": "複數 claspers"
+ },
+ "class": {
+  "ph": "/klɑ:s/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "班級, 階級, 種類, 課",
+    "def": "a collection of things sharing a common attribute"
+   },
+   {
+    "pos": "vt.",
+    "zh": "分類",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 類別; 類; 種類; 類程",
+    "def": ""
+   }
+  ],
+  "forms": "複數 classes｜過去分詞 classed｜現在分詞 classing｜過去式 classed｜第三人稱單數 classes"
+ },
+ "classic": {
+  "ph": "/'klæsik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古典作品, 傑作, 大藝術家",
+    "def": "a creation of the highest excellence"
+   },
+   {
+    "pos": "adj.",
+    "zh": "第一流的, 最優秀的, 古典的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 classics"
+ },
+ "classical": {
+  "ph": "/'klæsikl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "古典的, 正統派的, 經典的",
+    "def": "of or relating to the most highly developed stage of an earlier civilisation and its culture"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 古典的; 標準的, 典型的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 classicals"
+ },
+ "classically": {
+  "ph": "/'klæsikәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "古典主義地, 擬古地",
+    "def": ""
+   }
+  ]
+ },
+ "classicism": {
+  "ph": "/'klæsisizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古典主義, 古典風格, 古典崇拜, 古典知識, 古典成語",
+    "def": "a movement in literature and art during the 17th and 18th centuries in Europe that favored rationality and restraint and strict forms"
+   }
+  ]
+ },
+ "classicist": {
+  "ph": "/'klæsist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "古典學者, 古典主義者",
+    "def": "an artistic person who adheres to classicism"
+   }
+  ],
+  "forms": "複數 classicists"
+ },
+ "classicizing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "做成古典式, 模仿古典( classicize的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "classifiable": {
+  "ph": "/'klæsifaiәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可分類的",
+    "def": ""
+   }
+  ]
+ },
+ "classification": {
+  "ph": "/.klæsifi'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分類, 分級",
+    "def": "a group of people or things arranged by class or category"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 分級; 分粒; 分類",
+    "def": ""
+   }
+  ],
+  "forms": "複數 classifications"
+ },
+ "classificatory": {
+  "ph": "/'klæsifikәtәri/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分類上的, 類別的",
+    "def": "relating to or involving classification:\"classificatory criteria\""
+   }
+  ]
+ },
+ "classified": {
+  "ph": "/'klæsifaid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "分類的, 被歸入某類的, 被指定為機密的",
+    "def": "arranged into classes"
+   },
+   {
+    "pos": "",
+    "zh": "[建] 分了類的, 分了級的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 classified｜複數 classifieds｜過去式 classified"
+ },
+ "classifieds": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分類廣告",
+    "def": ""
+   }
+  ]
+ },
+ "classifier": {
+  "ph": "/'klæsifaiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分類者, 分粒器, 分級機, 漢語中的量詞",
+    "def": "a person who creates classifications"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 分類符, 分類器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 classifiers"
+ },
+ "classify": {
+  "ph": "/'klæsifai/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "分類, 歸類, 分等",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[建] 分類, 分級, 分粒",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 classified｜現在分詞 classifying｜第三人稱單數 classifies｜過去式 classified"
+ },
+ "classism": {
+  "ph": "/klɑ:'sɪzəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "階級歧視, 階級優越論",
+    "def": ""
+   }
+  ]
+ },
+ "classless": {
+  "ph": "/'klɑ:slis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無階級的",
+    "def": ""
+   }
+  ]
+ },
+ "classlessness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "無階級性",
+    "def": ""
+   }
+  ]
+ },
+ "classmate": {
+  "ph": "/'klɑ:smeit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同班同學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 classmates"
+ },
+ "classmates": {
+  "ph": "/k'lɑ:smeɪts/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（同班）同學( classmate的名詞複數 ); 硯兄硯弟",
+    "def": ""
+   }
+  ]
+ },
+ "classroom": {
+  "ph": "/'klɑ:sru:m/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教室",
+    "def": "a room in a school where lessons take place"
+   }
+  ],
+  "forms": "複數 classrooms"
+ },
+ "classwork": {
+  "ph": "/'klɑ:s,w\\\\\\\\:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "在教室做的功課, 老師與學生一起在教室做的功課",
+    "def": "the part of a student's work that is done in the classroom"
+   }
+  ]
+ },
+ "classy": {
+  "ph": "/'klɑ:si/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "上等的, 優等的, 漂亮的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 classier｜最高級 classiest"
+ },
+ "clathrate": {
+  "ph": "/'klæθreit/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 包合物",
+    "def": ""
+   }
+  ]
+ },
+ "clatter": {
+  "ph": "/'klætә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咔嗒聲, 嘩啦聲, 嘈雜的談笑聲",
+    "def": "a rattling noise (often produced by rapid movement)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "發出嘩啦聲, 喧鬧的談笑",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使咔嗒咔嗒地響",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clattered｜現在分詞 clattering｜第三人稱單數 clatters｜過去分詞 clattered｜複數 clatters"
+ },
+ "clattering": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "& vi. 發出咔噠聲（clatter的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clattering"
+ },
+ "claud": {
+  "ph": "/klɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克勞德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "claude": {
+  "ph": "/klɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克勞德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "claudel": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Claudel)人名；(法)克洛代爾；(英、西)克勞德爾",
+    "def": ""
+   }
+  ]
+ },
+ "claudia": {
+  "ph": "/'klɔ:djә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克勞迪婭（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "claudication": {
+  "ph": "/.klɒ:di'keiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "跛行",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 跛行",
+    "def": ""
+   }
+  ]
+ },
+ "claudine": {
+  "ph": "/klɔ:'di:n/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克勞丁(Claudia的暱稱)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "claudio": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克勞迪奧（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "claudius": {
+  "ph": "/'klɔ:diәs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克勞迪亞斯(Claude的異體)(m.)",
+    "def": "Roman Emperor after his nephew Caligula was murdered; consolidated the Roman Empire and conquered southern Britain; was poisoned by his fourth wife Agrippina af"
+   }
+  ]
+ },
+ "claus": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克勞斯（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "clause": {
+  "ph": "/klɒ:z/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "子句, 條款",
+    "def": "(grammar) an expression including a subject and predicate but not constituting a complete sentence"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 子句",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clauses"
+ },
+ "claustrophobia": {
+  "ph": "/klɒ:strә'fәubiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幽閉恐怖症",
+    "def": "a morbid fear of being closed in a confined space"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 幽閉恐怖",
+    "def": ""
+   }
+  ]
+ },
+ "claustrophobic": {
+  "ph": "/,klɔ:strә'fәjbik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(患)幽閉恐怖症的,導致幽閉恐怖症的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 claustrophobics"
+ },
+ "clave": {
+  "ph": "/kleiv/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "cleave的過去式",
+    "def": ""
+   }
+  ]
+ },
+ "clavichord": {
+  "ph": "/'klævikɔ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "擊弦古鋼琴",
+    "def": "an early stringed instrument like a piano but with more delicate sound"
+   }
+  ],
+  "forms": "複數 clavichords"
+ },
+ "clavicle": {
+  "ph": "/'klævikl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鎖骨",
+    "def": "bone linking the scapula and sternum"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 鎖骨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clavicles"
+ },
+ "clavier": {
+  "ph": "/'klæviә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鍵盤, 練習用無聲鍵盤, 鍵盤樂器",
+    "def": "a stringed instrument that has a keyboard"
+   }
+  ]
+ },
+ "claw": {
+  "ph": "/klɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爪, 螯, 抓傷",
+    "def": "sharp curved horny process on the toe of a bird or some mammals or reptiles"
+   },
+   {
+    "pos": "v.",
+    "zh": "用爪抓, 挖, 搜刮",
+    "def": "move as if by clawing, seizing, or digging"
+   }
+  ],
+  "forms": "複數 claws｜過去式 clawed｜現在分詞 clawing｜過去分詞 clawed｜第三人稱單數 claws"
+ },
+ "clawback": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "已支付給民眾錢款的收回；回收款",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clawbacks"
+ },
+ "clawed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "有爪/螯的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clawed"
+ },
+ "clawfoot": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 爪形足, 弓形足",
+    "def": ""
+   }
+  ]
+ },
+ "clawing": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "& vi. 用爪抓（claw的現在分詞形式）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clawing｜複數 clawings"
+ },
+ "claxton": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Claxton)人名；(英)克拉克斯頓",
+    "def": ""
+   }
+  ]
+ },
+ "clay": {
+  "ph": "/klei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泥土, 肉體, 黏土",
+    "def": "a very fine-grained soil that is plastic when moist but hard when fired"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 粘土",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clays"
+ },
+ "claydon": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Claydon)人名；(英)克萊登",
+    "def": ""
+   }
+  ]
+ },
+ "clayey": {
+  "ph": "/'kleii/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "黏土的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[建] 泥質的, 含粘土的",
+    "def": ""
+   }
+  ]
+ },
+ "claymore": {
+  "ph": "/'kleimɒ:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雙刃大砍刀",
+    "def": "a large double-edged broadsword; formerly used by Scottish Highlanders"
+   }
+  ],
+  "forms": "複數 claymores"
+ },
+ "clayton": {
+  "ph": "/'kleitn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊頓（姓氏, 男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "cle": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "克利夫蘭（Cleveland, 美國城市名）；建構主義學習環境（Constructivist Learning Environment）；漢語培訓中心（Chinese Language Education）",
+    "def": ""
+   }
+  ]
+ },
+ "clean": {
+  "ph": "/kli:n/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "乾淨的, 清白的, 簡潔的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "清潔地, 完全地",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "清理, 使乾淨, 出空",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "被搞乾淨",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "打掃",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 cleaning｜過去分詞 cleaned｜比較級 cleaner｜過去式 cleaned｜第三人稱單數 cleans｜最高級 cleanest"
+ },
+ "clean-up": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 提純, 淨化, 調整",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[經] 清潔, 賺錢, 獲利",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clean-ups"
+ },
+ "cleaned": {
+  "ph": "/kli:nd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使）清潔( clean的過去式和過去分詞 ); 變乾淨; 除去…的灰塵; 使…乾淨",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cleaned"
+ },
+ "cleaner": {
+  "ph": "/'kli:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清潔工人, 清潔劑, 乾洗商",
+    "def": "the operator of dry-cleaning establishment"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 濾清器; 除垢器; 洗淨劑; 清潔劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cleaners"
+ },
+ "cleaning": {
+  "ph": "/'kli:niŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清潔, 掃除, 家畜的胞衣, 掃除出來的垃圾, 大敗, 輸得精光, 除伐, 鉅額利潤",
+    "def": "the act of making something clean"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 清洗, 清除",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 cleaning｜複數 cleanings"
+ },
+ "cleanliness": {
+  "ph": "/'klenlinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清潔, 乾淨",
+    "def": "the habit of keeping free of superficial imperfections"
+   }
+  ]
+ },
+ "cleanly": {
+  "ph": "/'klenli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛清潔的, 乾淨的, 清潔的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "乾淨地, 利索地, 熟練地",
+    "def": ""
+   }
+  ]
+ },
+ "cleanness": {
+  "ph": "/'kli:nnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清潔, 乾淨",
+    "def": "the state of being clean; without dirt or other impurities"
+   }
+  ]
+ },
+ "cleanout": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清除, 清洗",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 清除; 清焦(如裂化爐,分餾塔盤)",
+    "def": ""
+   }
+  ]
+ },
+ "cleanse": {
+  "ph": "/klenz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使清潔, 淨化, 使純淨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[建] 純化, 淨化, 精煉",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cleansed｜現在分詞 cleansing｜第三人稱單數 cleanses｜過去式 cleansed"
+ },
+ "cleanser": {
+  "ph": "/'klenzә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "使清潔的東西, 清潔劑, 清潔工",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[建] 瀘清器, 清潔器, 刮淨器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cleansers"
+ },
+ "cleansing": {
+  "ph": "/'klenziŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 洗淨, 清洗法",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 cleansing"
+ },
+ "cleanup": {
+  "ph": "/'kli:nʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清除, 暴利",
+    "def": "(baseball) the fourth position in the batting order (usually filled by the best batter on the team)"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 清掃工作, 掃除",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cleanups"
+ },
+ "clear": {
+  "ph": "/kliә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "清楚的, 明確的, 澄清的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "清晰地",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "澄清, 清除障礙",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "放晴, 變清澈",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "空隙",
+    "def": "the state of being free of suspicion"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 清除",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cleared｜比較級 clearer｜過去式 cleared｜現在分詞 clearing｜最高級 clearest｜第三人稱單數 clears"
+ },
+ "clear-cut": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "輪廓清晰的, 明確的, 清楚的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 清晰的, 明確的, 輪廓清楚的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clear-cutting｜過去式 clear-cut｜第三人稱單數 clear-cuts｜過去分詞 clear-cut"
+ },
+ "clear-up": {
+  "ph": "/'kliəʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "整理; 破案; 治癒",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "（案件）已經了結的; （罪犯）已捉拿的",
+    "def": ""
+   }
+  ]
+ },
+ "clearance": {
+  "ph": "/'kliәrәns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清除, 間隙",
+    "def": "the distance by which one thing clears another; the space between them"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 間隙; 空隙",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clearances"
+ },
+ "clearcut": {
+  "ph": "/k'lɪəkʌt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "小蔥拌豆腐, 一清二白；小蔥拌豆腐, 一清二白",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clearcutting"
+ },
+ "cleared": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使乾淨；清除（clear的過去分詞）",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 cleared｜過去分詞 cleared"
+ },
+ "clearing": {
+  "ph": "/'kliәriŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "清掃, 空地, 票據清算",
+    "def": "a tract of land with few or no trees in the middle of a wooded area"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 票據交換, 結算, 結帳",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clearing｜複數 clearings"
+ },
+ "clearinghouse": {
+  "ph": "/'kliәriŋhaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "票據交換所",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clearinghouses"
+ },
+ "clearly": {
+  "ph": "/'kliәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "清楚地",
+    "def": ""
+   }
+  ]
+ },
+ "clearness": {
+  "ph": "/'kliәnis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晴朗, 明白",
+    "def": "the quality of clear water"
+   }
+  ]
+ },
+ "cleary": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Cleary)人名；(英)克利裡",
+    "def": ""
+   }
+  ]
+ },
+ "cleat": {
+  "ph": "/kli:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "楔子, 栓, 繫纜墩",
+    "def": "a metal or leather projection (as from the sole of a shoe); prevents slipping"
+   },
+   {
+    "pos": "vt.",
+    "zh": "裝上栓, 把索系在栓上",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cleats｜現在分詞 cleating｜過去式 cleated｜第三人稱單數 cleats｜過去分詞 cleated"
+ },
+ "cleavage": {
+  "ph": "/'kli:vidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "劈開, 裂片, 分裂",
+    "def": "the state of being split or cleft"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 解理",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cleavages"
+ },
+ "cleave": {
+  "ph": "/kli:v/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "劈開, 分開",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "劈開, 分開, 粘著, 依戀",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cleaved｜現在分詞 cleaving｜過去式 cleaved｜第三人稱單數 cleaves｜複數 cleaves"
+ },
+ "cleaver": {
+  "ph": "/'kli:vә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "切肉刀, 切割者, 劈脊",
+    "def": "a butcher's knife having a large square blade"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 劈刀",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cleavers"
+ },
+ "clee": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Clee)人名；(英)克利",
+    "def": "A claw."
+   }
+  ],
+  "forms": "複數 clees"
+ },
+ "cleese": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Cleese)人名；(英)克利斯",
+    "def": ""
+   }
+  ]
+ },
+ "cleethorpes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克利索普斯",
+    "def": ""
+   }
+  ]
+ },
+ "clef": {
+  "ph": "/klef/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "譜號",
+    "def": "a musical notation written on a staff indicating the pitch of the notes following it"
+   }
+  ],
+  "forms": "複數 clefs"
+ },
+ "cleft": {
+  "ph": "/kleft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "裂縫, 裂口",
+    "def": "a split or indentation in something (as the palate or chin)"
+   },
+   {
+    "pos": "adj.",
+    "zh": "劈開的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "cleave的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clefts｜過去分詞 cleft｜過去式 cleft"
+ },
+ "clegg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克萊格",
+    "def": ""
+   }
+  ]
+ },
+ "cleland": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克萊蘭德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "clelia": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Clelia)人名；(意)克萊利亞",
+    "def": ""
+   }
+  ]
+ },
+ "clem": {
+  "ph": "/klem/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "使飢餓, 使苦",
+    "def": "t. & i. To starve; to famish."
+   }
+  ]
+ },
+ "clematis": {
+  "ph": "/'klemәtis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐵線蓮",
+    "def": "any of various ornamental climbing plants of the genus Clematis usually having showy flowers"
+   }
+  ]
+ },
+ "clemence": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克萊曼斯",
+    "def": ""
+   }
+  ]
+ },
+ "clemency": {
+  "ph": "/'klemәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "仁慈, 寬厚, 仁厚",
+    "def": "leniency and compassion shown toward offenders by a person or agency charged with administering justice"
+   }
+  ]
+ },
+ "clemens": {
+  "ph": "/'klemәnz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊門斯（姓氏）",
+    "def": "United States writer and humorist best known for his novels about Tom Sawyer and Huckleberry Finn (1835-1910)"
+   }
+  ]
+ },
+ "clement": {
+  "ph": "/'klemәnt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "仁慈的, 寬厚的, 溫和的",
+    "def": "(of weather or climate) physically mild"
+   }
+  ],
+  "forms": "複數 clements"
+ },
+ "clemente": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Clemente)人名；(西、意、葡、羅、瑞典)克萊門特",
+    "def": ""
+   }
+  ]
+ },
+ "clementina": {
+  "ph": "/,klemәn'ti:nә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊門蒂娜（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "clementine": {
+  "ph": "/'klemәntain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊門氏小柑橘(為柑橘與酸柑雜交的品種)",
+    "def": "a variety of mandarin orange that is grown around the Mediterranean and in South Africa"
+   }
+  ],
+  "forms": "複數 clementines"
+ },
+ "clements": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊門茨（美國生態學家）",
+    "def": ""
+   }
+  ]
+ },
+ "clench": {
+  "ph": "/klentʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牢牢抓住, 釘緊, 敲彎釘尖",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "緊握, 牢牢地抓住, 確定, 敲彎",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "握緊, 釘牢",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clenched｜現在分詞 clenching｜過去分詞 clenched｜第三人稱單數 clenches｜複數 clenches"
+ },
+ "clenched": {
+  "ph": "/klentʃd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "緊握, 抓緊, 咬緊( clench的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clenched｜過去式 clenched"
+ },
+ "cleo": {
+  "ph": "/'kli:әj/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克利奧(Cleopatra的暱稱)(f.)",
+    "def": ""
+   }
+  ]
+ },
+ "cleopatra": {
+  "ph": "/kliә'pɑ:trә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克利奧帕特拉（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "clerestory": {
+  "ph": "/'kliәstәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天窗, 高側窗, 長廊, 樓座, 火車車廂頂的通風部分",
+    "def": "part of an interior wall rising above the adjacent roof with windows admitting light"
+   }
+  ],
+  "forms": "過去分詞 clerestoried｜複數 clerestories"
+ },
+ "clergy": {
+  "ph": "/'klә:dʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牧師, 僧侶, 神職人員",
+    "def": "in Christianity, clergymen collectively (as distinguished from the laity)"
+   }
+  ],
+  "forms": "複數 clergy"
+ },
+ "clergyman": {
+  "ph": "/'klә:dʒimәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牧師",
+    "def": "a member of the clergy and a spiritual leader of the Christian Church"
+   }
+  ],
+  "forms": "複數 clergymen"
+ },
+ "cleric": {
+  "ph": "/'klerik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "牧師的, 教士的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clerics"
+ },
+ "clerical": {
+  "ph": "/'klerikәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牧師",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "文書的, 事務上的, 抄寫員的, 牧師的",
+    "def": "of or relating to clerks"
+   }
+  ],
+  "forms": "複數 clericals"
+ },
+ "clericalism": {
+  "ph": "/'klerikәlizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教權主義",
+    "def": "a policy of supporting the influence and power of the clergy in secular or political matters"
+   }
+  ]
+ },
+ "clerk": {
+  "ph": "/klә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "辦事員, 職員, 文書",
+    "def": "an employee who performs clerical work (e.g., keeps records or accounts)"
+   },
+   {
+    "pos": "vi.",
+    "zh": "當店員",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clerks｜現在分詞 clerking｜過去式 clerked｜第三人稱單數 clerks｜過去分詞 clerked"
+ },
+ "clerkly": {
+  "ph": "/'klә:kli/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "辦事員的, 辦事員似的",
+    "def": "Of or pertaining to a clerk."
+   }
+  ]
+ },
+ "clerkship": {
+  "ph": "/'klә:kʃip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "文書的職位",
+    "def": "the job of clerk"
+   }
+  ],
+  "forms": "複數 clerkships"
+ },
+ "clermont": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克萊蒙特（人名）",
+    "def": ""
+   }
+  ]
+ },
+ "cleveland": {
+  "ph": "/'kli:vlәnd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克利夫蘭",
+    "def": "the largest city in Ohio; located in northeastern Ohio on Lake Erie; a major Great Lakes port"
+   }
+  ]
+ },
+ "clever": {
+  "ph": "/'klevә/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聰明的, 精明的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 cleverer｜最高級 cleverest"
+ },
+ "cleverly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "聰明地, 全然, 完全, 巧妙地",
+    "def": ""
+   }
+  ]
+ },
+ "cleverness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "機靈；聰明",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clevernesses"
+ },
+ "clevis": {
+  "ph": "/'klevis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "U形鉤, 馬蹄鉤",
+    "def": "a coupler shaped like the letter U with holes through each end so a bolt or pin can pass through the holes to complete the coupling; used to attach a drawbar to"
+   }
+  ]
+ },
+ "cli": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "命令列介面（Command Line Interface for batch scripting）；生活指數（Cost of Living Index）",
+    "def": ""
+   }
+  ]
+ },
+ "cliche": {
+  "ph": "/'kli:ʃei/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陳腔濫調, 凸印版",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "陳腐的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cliches"
+ },
+ "cliched": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陳腐的",
+    "def": ""
+   }
+  ]
+ },
+ "click": {
+  "ph": "/klik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咔噠聲, 啪嗒聲",
+    "def": "depression of a button on a computer mouse"
+   },
+   {
+    "pos": "vi.",
+    "zh": "作咔噠聲",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使發咔噠聲",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 單擊",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clicked｜現在分詞 clicking｜複數 clicks｜第三人稱單數 clicks｜過去分詞 clicked"
+ },
+ "clicker": {
+  "ph": "/'klikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鞋匠工頭, (英)排字工頭",
+    "def": "One who stands before a shop door to invite people to buy."
+   }
+  ],
+  "forms": "複數 clickers"
+ },
+ "clicking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "微小靜電干擾聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clicking｜複數 clickings"
+ },
+ "clicquot": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Clicquot)人名；(法)克利科",
+    "def": ""
+   }
+  ]
+ },
+ "client": {
+  "ph": "/'klaiәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "客戶, 顧客, 委託人",
+    "def": "a person who seeks the advice of a lawyer"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 客戶, 客戶機, 客戶機程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clients"
+ },
+ "clientele": {
+  "ph": "/.kli:ɒn'tel/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "訴訟委託人, 客戶",
+    "def": "customers collectively"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 委託人, 受保護者, 門徒",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clienteles"
+ },
+ "clientelistic": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "侍從的",
+    "def": ""
+   }
+  ]
+ },
+ "clients": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "客戶端；顧客；救濟物件；應受賬款；委託方（client的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "cliff": {
+  "ph": "/klif/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懸崖, 絕壁",
+    "def": "a steep high face of rock"
+   }
+  ],
+  "forms": "複數 cliffs"
+ },
+ "cliffe": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "科裡夫",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "克利夫（英格蘭姓氏, Clive的變體）",
+    "def": ""
+   }
+  ]
+ },
+ "cliffhanger": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "驚險故事, 驚心動魄的比賽",
+    "def": "a contest whose outcome is uncertain up to the very end"
+   }
+  ],
+  "forms": "複數 cliffhangers"
+ },
+ "clifford": {
+  "ph": "/'klifәd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克利福德（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "cliffside": {
+  "ph": "/klɪf'saɪd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懸崖的邊或面",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cliffsides"
+ },
+ "clifftop": {
+  "ph": "/ˈklɪftɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "懸崖頂部",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clifftops"
+ },
+ "clift": {
+  "ph": "/klift/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(=cliff)絕壁, 斷崖",
+    "def": "A cliff."
+   }
+  ],
+  "forms": "複數 clifts"
+ },
+ "clifton": {
+  "ph": "/'kliftәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克利夫頓（男子名）",
+    "def": ""
+   }
+  ]
+ },
+ "climactic": {
+  "ph": "/klai'mæktik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "頂點的, 高潮的",
+    "def": "consisting of or causing a climax"
+   }
+  ]
+ },
+ "climate": {
+  "ph": "/'klaimit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣候, 社會趨勢, 氣候區",
+    "def": "the weather in some location averaged over some long period of time"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氣候",
+    "def": ""
+   }
+  ],
+  "forms": "複數 climates"
+ },
+ "climatic": {
+  "ph": "/klai'mætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "氣候的",
+    "def": "of or relating to a climate"
+   }
+  ]
+ },
+ "climatically": {
+  "ph": "/klai'mætikәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "氣候上, 由氣候引起地",
+    "def": ""
+   }
+  ]
+ },
+ "climatological": {
+  "ph": "/ˌklaɪmətə'lɒdʒɪkl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[氣象學]與氣候學有關的",
+    "def": "Of or pertaining to climatology."
+   }
+  ]
+ },
+ "climatologist": {
+  "ph": "/ˌklaɪməˈtɔlədʒɪst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣候學家",
+    "def": "someone who is expert in climatology"
+   }
+  ],
+  "forms": "複數 climatologists"
+ },
+ "climatology": {
+  "ph": "/.klaimә'tɒlәdʒi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "氣候學",
+    "def": "meteorology of climates and their phenomena"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氣候學, 風土學",
+    "def": ""
+   }
+  ]
+ },
+ "climax": {
+  "ph": "/'klaimæks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高潮, 極點, 層進法",
+    "def": "the highest point of anything conceived of as growing or developing or unfolding"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)達到頂點, (使)達到高潮",
+    "def": ""
+   }
+  ],
+  "forms": "複數 climaxes｜過去式 climaxed｜現在分詞 climaxing｜第三人稱單數 climaxes｜過去分詞 climaxed"
+ },
+ "climb": {
+  "ph": "/klaim/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "攀登, 上升, 爬",
+    "def": "go upward with gradual or continuous progress"
+   },
+   {
+    "pos": "n.",
+    "zh": "攀登, 爬升",
+    "def": "an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)"
+   }
+  ],
+  "forms": "過去式 climbed｜現在分詞 climbing｜過去分詞 climbed｜第三人稱單數 climbs｜複數 climbs"
+ },
+ "climbdown": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "爬下, 退讓, 屈服",
+    "def": ""
+   }
+  ],
+  "forms": "複數 climbdowns"
+ },
+ "climber": {
+  "ph": "/'klaimә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "登山者",
+    "def": "a vine or climbing plant that readily grows up a support or over other plants"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 登杆器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 climbers"
+ },
+ "climbing": {
+  "ph": "/'klaimiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "攀緣而登的, 上升的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "攀登",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 climbing"
+ },
+ "clime": {
+  "ph": "/klaim/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地方, 氣候區",
+    "def": ""
+   }
+  ],
+  "forms": "複數 climes"
+ },
+ "clinch": {
+  "ph": "/klintʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "釘牢",
+    "def": "(boxing) the act of one boxer holding onto the other to avoid being hit and to rest momentarily"
+   },
+   {
+    "pos": "v.",
+    "zh": "敲彎, 用臂鉗住",
+    "def": "secure or fasten by flattening the ends of nails or bolts"
+   }
+  ],
+  "forms": "過去式 clinched｜現在分詞 clinching｜過去分詞 clinched｜第三人稱單數 clinches｜複數 clinches"
+ },
+ "clincher": {
+  "ph": "/'klintʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敲彎釘尖的用具, 緊鉗, 鉚釘",
+    "def": "an argument that is conclusive"
+   }
+  ]
+ },
+ "clindamycin": {
+  "ph": "/,klindә'maisin/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 克林黴素; 氯潔黴素; 氯林肯黴素",
+    "def": ""
+   }
+  ]
+ },
+ "cline": {
+  "ph": "/klain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "漸變群, 生態群",
+    "def": "American geneticist who succeeded in transferring a functioning gene from one mouse to another (born in 1934)"
+   }
+  ],
+  "forms": "複數 clines"
+ },
+ "cling": {
+  "ph": "/kliŋ/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "粘緊, 附著, 緊貼, 堅持",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clung｜現在分詞 clinging｜第三人稱單數 clings｜過去分詞 clung"
+ },
+ "clingfilm": {
+  "ph": "/klɪŋ'fɪlm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "保鮮膜",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clingfilms"
+ },
+ "clinging": {
+  "ph": "/'kliŋiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "執著的, 有粘性的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clinging"
+ },
+ "clingy": {
+  "ph": "/'kliŋi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粘住的, 緊貼的",
+    "def": "Apt to cling; adhesive."
+   }
+  ],
+  "forms": "比較級 clingier"
+ },
+ "clinic": {
+  "ph": "/'klinik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "診所, 臨床教學",
+    "def": "a medical establishment run by a group of medical specialists"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 診所(門診部); 臨床(講解); 臨床(學)科",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clinics"
+ },
+ "clinical": {
+  "ph": "/'klinikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "臨床的, 門診部的",
+    "def": "relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 臨床的, 臨證的",
+    "def": ""
+   }
+  ]
+ },
+ "clinically": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "臨床, 臨診, 冷靜, 不偏不倚, 分析",
+    "def": ""
+   }
+  ]
+ },
+ "clinician": {
+  "ph": "/kli'niʃәn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 臨床醫師, 臨證醫師",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clinicians"
+ },
+ "clinique": {
+  "ph": "/kli'ni:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "診所, 門診部（等於clinic）",
+    "def": "A clinic."
+   }
+  ]
+ },
+ "clink": {
+  "ph": "/kliŋk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叮噹聲",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)發叮噹聲",
+    "def": "make a high sound typical of glass"
+   }
+  ],
+  "forms": "過去式 clinked｜現在分詞 clinking｜過去分詞 clinked｜第三人稱單數 clinks"
+ },
+ "clinker": {
+  "ph": "/'kliŋkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煉磚, 渣塊",
+    "def": "a hard brick used as a paving stone"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)煉成渣",
+    "def": "clear out the cinders and clinker from"
+   }
+  ],
+  "forms": "複數 clinkers｜現在分詞 clinkering｜過去式 clinkered｜第三人稱單數 clinkers｜過去分詞 clinkered"
+ },
+ "clinking": {
+  "ph": "/'kliŋkiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "叮噹響的, 無比的, 無上的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "非常地",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clinking"
+ },
+ "clint": {
+  "ph": "/klint/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "石芽；石灰岩巖脊；巖溝",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clints"
+ },
+ "clinton": {
+  "ph": "/'klintәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克林頓（男子名）",
+    "def": "wife of President Clinton and later a woman member of the United States Senate (1947-)"
+   }
+  ]
+ },
+ "clintonian": {
+  "ph": "/'klintəniən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[地質] 克林頓階",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clintonians"
+ },
+ "clio": {
+  "ph": "/'klaiәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主管史詩、歷史的女神",
+    "def": "(Greek mythology) the Muse of history"
+   }
+  ]
+ },
+ "clip": {
+  "ph": "/klip/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修剪, 夾子, 回形針, 剪下來的東西",
+    "def": "any of various small fasteners used to hold loose articles together"
+   },
+   {
+    "pos": "vt.",
+    "zh": "修剪, 痛打, 夾牢, 剪報",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "剪報",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clips｜過去分詞 clipped｜過去式 clipped｜現在分詞 clipping｜第三人稱單數 clips"
+ },
+ "clipboard": {
+  "ph": "/'klipbɒ:d/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有紙夾的寫字板, 剪貼簿",
+    "def": "a small writing board with a clip at the top for holding papers"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 剪貼簿",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clipboards"
+ },
+ "clipped": {
+  "ph": "/klipt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "省略一部分的, 發音清楚的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clipped｜過去式 clipped"
+ },
+ "clipper": {
+  "ph": "/'klipә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大剪刀",
+    "def": "a fast sailing ship used in former times"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 截割器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clippers"
+ },
+ "clipping": {
+  "ph": "/'klipiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "剪斷, 剪裁, 剪下物, 剪報",
+    "def": "an excerpt cut from a newspaper or magazine"
+   },
+   {
+    "pos": "adj.",
+    "zh": "第一流的, 頭等的, 極好的, 快速的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 剪取; 削波",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clippings｜現在分詞 clipping"
+ },
+ "clique": {
+  "ph": "/kli:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "派系, 集團",
+    "def": "an exclusive circle of people with a common purpose"
+   },
+   {
+    "pos": "vi.",
+    "zh": "結黨",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 集團型",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cliques"
+ },
+ "clit": {
+  "ph": "/klit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陰核, 陰蒂",
+    "def": ""
+   }
+  ]
+ },
+ "clitoral": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 陰蒂的",
+    "def": ""
+   }
+  ]
+ },
+ "clitoridectomy": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 陰蒂切除術",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clitoridectomies"
+ },
+ "clitoris": {
+  "ph": "/'klitәris/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "陰核, 陰蒂",
+    "def": "a female sexual organ homologous to the penis"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 陰蒂",
+    "def": ""
+   }
+  ]
+ },
+ "clive": {
+  "ph": "/klaiv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊夫（男子名）",
+    "def": "British general and statesman whose victory at Plassey in 1757 strengthened British control of India (1725-1774)"
+   }
+  ]
+ },
+ "cliveden": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凱林豪庭",
+    "def": ""
+   }
+  ]
+ },
+ "cllr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "議員（councillor）",
+    "def": ""
+   }
+  ]
+ },
+ "clo": {
+  "ph": "/klәu/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 克漏(航空醫學測量絕熱的單位)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clos"
+ },
+ "cloaca": {
+  "ph": "/klәu'eikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洩殖腔, 陰溝",
+    "def": "(zoology) the cavity (in birds, reptiles, amphibians, most fish, and monotremes but not mammals) at the end of the digestive tract into which the intestinal, ge"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 洩殖腔, 一穴肛; 骨瘻",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cloacas"
+ },
+ "cloak": {
+  "ph": "/klәuk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鬥蓬, 大氅, 掩護",
+    "def": "anything that covers or conceals"
+   },
+   {
+    "pos": "vt.",
+    "zh": "遮掩, 隱匿, 使披鬥蓬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cloaks｜過去分詞 cloaked｜現在分詞 cloaking｜第三人稱單數 cloaks｜過去式 cloaked"
+ },
+ "cloaked": {
+  "ph": "/kləukt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "遮蓋, 掩蓋( cloak的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cloaked｜過去式 cloaked"
+ },
+ "cloaking": {
+  "ph": "/'kləʊkɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "遮蓋, 掩蓋( cloak的現在分詞 )",
+    "def": ""
+   }
+  ]
+ },
+ "cloakroom": {
+  "ph": "/'klәukrum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "寄物間",
+    "def": "a private lounge off of a legislative chamber"
+   }
+  ],
+  "forms": "複數 cloakrooms"
+ },
+ "clobber": {
+  "ph": "/'klɒbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣服, (鞋匠用來掩飾皮革縫的)軟膏",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "痛打, 擊倒, 拉垮",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clobbered｜現在分詞 clobbering｜過去式 clobbered｜第三人稱單數 clobbers"
+ },
+ "cloche": {
+  "ph": "/klɒʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "園藝用鐘形玻璃蓋, 鐘形女帽",
+    "def": "a low transparent cover put over young plants to protect them from cold"
+   }
+  ]
+ },
+ "clock": {
+  "ph": "/klɒk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "時鐘, 計時器, (襪子上的)繡花邊花",
+    "def": "a timepiece that shows the time of day"
+   },
+   {
+    "pos": "vt.",
+    "zh": "繡花樣, 記時, 記錄",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "記錄時間",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 時鐘",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clocks｜過去式 clocked｜過去分詞 clocked｜現在分詞 clocking｜第三人稱單數 clocks"
+ },
+ "clocking": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 定時",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clocking｜複數 clockings"
+ },
+ "clockmaker": {
+  "ph": "/'klɒkmeikә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "製造或修理鐘錶者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clockmakers"
+ },
+ "clockwise": {
+  "ph": "/'klɒkwaiz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "順時針方向的",
+    "def": "in the same direction as the rotating hands of a clock"
+   },
+   {
+    "pos": "adv.",
+    "zh": "順時針方向地",
+    "def": ""
+   }
+  ]
+ },
+ "clockwork": {
+  "ph": "/'klɒkwә:k/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鐘錶裝置, 發條裝置",
+    "def": "any mechanism of geared wheels that is driven by a coiled spring; resembles the works of a mechanical clock"
+   },
+   {
+    "pos": "",
+    "zh": "[電] 時鐘開關",
+    "def": ""
+   }
+  ]
+ },
+ "clod": {
+  "ph": "/klɒd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土塊",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "對...擲土塊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clods"
+ },
+ "clog": {
+  "ph": "/klɒg/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "障礙, 腳墜",
+    "def": "footwear usually with wooden soles"
+   },
+   {
+    "pos": "v.",
+    "zh": "障礙, 阻塞",
+    "def": "become or cause to become obstructed"
+   }
+  ],
+  "forms": "複數 clogs｜過去分詞 clogged｜現在分詞 clogging｜過去式 clogged｜第三人稱單數 clogs"
+ },
+ "clogged": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "阻塞的；堵住的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clogged"
+ },
+ "clogger": {
+  "ph": "/k'lɒɡər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "木屐匠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cloggers"
+ },
+ "clogging": {
+  "ph": "/'klɔ^iŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 堵塞",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clogging"
+ },
+ "cloisonne": {
+  "ph": "/klwɑ:zɒŋ'nei/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "景泰藍的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "景泰藍瓷器",
+    "def": "enamelware in which colored areas are separated by thin metal strips"
+   }
+  ]
+ },
+ "cloister": {
+  "ph": "/'klɒistә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "修道院, 迴廊",
+    "def": "a courtyard with covered walks (as in religious institutions)"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使與塵世隔絕",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cloisters｜過去分詞 cloistered｜過去式 cloistered｜現在分詞 cloistering｜第三人稱單數 cloisters"
+ },
+ "cloistered": {
+  "ph": "/'klɔistәd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "居於修道院內的, 隱居的, 與世隔絕的, 有迴廊的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cloistered｜過去式 cloistered"
+ },
+ "clomp": {
+  "ph": "/klɒmp/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "重踏著走",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clomped｜現在分詞 clomping｜第三人稱單數 clomps｜過去分詞 clomped"
+ },
+ "clon": {
+  "ph": "/klәun/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 無性系, 純系(植物、細胞、細菌等)",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cloned｜過去式 cloned｜現在分詞 cloning"
+ },
+ "clonal": {
+  "ph": "/'klәjnәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無性系的, 克隆的",
+    "def": "of or relating to a clone"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 無性系的, 純系的",
+    "def": ""
+   }
+  ]
+ },
+ "clone": {
+  "ph": "/klәun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無性系",
+    "def": "a group of genetically identical cells or organisms derived from a single cell or individual by some kind of asexual reproduction"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 代用件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clones｜現在分詞 cloning｜過去式 cloned｜第三人稱單數 clones｜過去分詞 cloned"
+ },
+ "cloned": {
+  "ph": "/kləund/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（使某物）無性繁殖( clone的過去式和過去分詞 )",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 cloned｜過去分詞 cloned"
+ },
+ "clonidine": {
+  "ph": "/'klɔnidi:n/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 可樂定",
+    "def": ""
+   }
+  ]
+ },
+ "cloning": {
+  "ph": "/'klɔniŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 研製相容產品",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 克隆",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 cloning"
+ },
+ "clop": {
+  "ph": "/klɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馬蹄聲",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "發得得聲",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clopping｜過去式 clopped｜複數 clops｜第三人稱單數 clops｜過去分詞 clopped"
+ },
+ "close": {
+  "ph": "/klәuz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結束, 完結",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "靠近的, 親近的, 親密的, 嚴密的, 關閉的, 狹窄的, 秘密的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "關, 結束, 使靠近, 封閉, 使接近",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "關閉, 結束, 靠近",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "接近地, 緊密地",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 關閉",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 closed｜比較級 closer｜過去分詞 closed｜現在分詞 closing｜最高級 closest｜第三人稱單數 closes"
+ },
+ "close season": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "禁獵季節",
+    "def": ""
+   }
+  ]
+ },
+ "close-up": {
+  "ph": "/'klәuzʌp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特寫鏡頭, 仔細的觀察, 小傳",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 閉合; 接通",
+    "def": ""
+   }
+  ],
+  "forms": "複數 close-ups"
+ },
+ "closed": {
+  "ph": "/klәuzd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "關閉的, 限於少數人的",
+    "def": "not open or affording passage or access"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 關閉指令",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 closed｜過去式 closed"
+ },
+ "closed-minded": {
+  "ph": "/'kləʊzdˌmɑɪndɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "思想保守的, 不易接受新鮮事物的, 有成見的",
+    "def": ""
+   }
+  ]
+ },
+ "closedown": {
+  "ph": "/'klәuzdaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關閉, 中止, 降臨",
+    "def": ""
+   }
+  ]
+ },
+ "closely": {
+  "ph": "/'klәusli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "接近地",
+    "def": ""
+   }
+  ]
+ },
+ "closeness": {
+  "ph": "/'klәusnis/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[建] 密閉, 緊密",
+    "def": ""
+   }
+  ],
+  "forms": "複數 closenesses"
+ },
+ "closeout": {
+  "ph": "/ˈkləʊzaʊt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出清存貨, 出清存貨",
+    "def": "a sale intended to dispose of all remaining stock"
+   }
+  ]
+ },
+ "closer": {
+  "ph": "/'klәuzә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關閉者, 閉合器, 關閉器",
+    "def": "a person who closes something"
+   }
+  ],
+  "forms": "複數 closers"
+ },
+ "closest": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "最靠近的（close的最高階）",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 closest"
+ },
+ "closet": {
+  "ph": "/'klɒzit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "壁櫥, 小室",
+    "def": "a small private room for study or prayer"
+   },
+   {
+    "pos": "adj.",
+    "zh": "秘密的, 空談的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "把...關入小室",
+    "def": ""
+   }
+  ],
+  "forms": "複數 closets｜過去分詞 closeted｜過去式 closeted｜現在分詞 closetting｜第三人稱單數 closets"
+ },
+ "closeted": {
+  "ph": "/'klɒzɪtɪd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "秘密交談的；私下會談的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 closeted"
+ },
+ "closeup": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(電影的)特寫鏡頭, 近景照片, 仔細的觀察, 小傳",
+    "def": "a photograph taken at close range"
+   }
+  ],
+  "forms": "複數 closeups"
+ },
+ "closing": {
+  "ph": "/'klәuziŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結束",
+    "def": "approaching a particular destination; a coming closer; a narrowing of a gap"
+   },
+   {
+    "pos": "adj.",
+    "zh": "結束的",
+    "def": "final or ending"
+   }
+  ],
+  "forms": "現在分詞 closing｜複數 closings"
+ },
+ "clostridium": {
+  "ph": "/klɔs'tridiәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 梭狀芽胞桿菌",
+    "def": ""
+   }
+  ]
+ },
+ "closure": {
+  "ph": "/'klәuʒә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "關閉",
+    "def": "a rule for limiting or ending debate in a deliberative body"
+   },
+   {
+    "pos": "vt.",
+    "zh": "使終止",
+    "def": ""
+   }
+  ],
+  "forms": "複數 closures｜現在分詞 closuring｜過去式 closured｜第三人稱單數 closures｜過去分詞 closured"
+ },
+ "clot": {
+  "ph": "/klɒt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "凝塊, 一團",
+    "def": "a lump of material formed from the content of a liquid"
+   },
+   {
+    "pos": "v.",
+    "zh": "(使)凝結, (使)聚集",
+    "def": "change from a liquid to a thickened or solid state"
+   }
+  ],
+  "forms": "過去式 clotted｜現在分詞 clotting｜複數 clots｜第三人稱單數 clots｜過去分詞 clotted"
+ },
+ "cloth": {
+  "ph": "/klɒ:θ. klɒθ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "布料, 織品, 布",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[建] 布",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cloths"
+ },
+ "clothe": {
+  "ph": "/klәuð/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "給...穿衣, 蓋上, 賦予",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clothed｜過去式 clothed｜複數 clothes｜第三人稱單數 clothes｜現在分詞 cloathing"
+ },
+ "clothed": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "clothe的過去式和過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clothed"
+ },
+ "clothes": {
+  "ph": "/klәuðz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣服",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clothes"
+ },
+ "clotheshorse": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "晾衣架",
+    "def": "a framework on which to hang clothes (as for drying)"
+   }
+  ]
+ },
+ "clothesline": {
+  "ph": "/'klәuðzlain/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "曬衣繩",
+    "def": "a cord on which clothes are hung to dry"
+   }
+  ],
+  "forms": "複數 clotheslines"
+ },
+ "clothespin": {
+  "ph": "/'klәjðzpin/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "曬衣繩上夾衣服之夾子",
+    "def": "wood or plastic fastener; for holding clothes on a clothesline"
+   }
+  ]
+ },
+ "clothier": {
+  "ph": "/'klәuðiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "布商, 衣商",
+    "def": "a merchant who sells men's clothing"
+   }
+  ],
+  "forms": "複數 clothiers"
+ },
+ "clothing": {
+  "ph": "/'klәuðiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "衣服",
+    "def": "a covering designed to be worn on a person's body"
+   }
+  ],
+  "forms": "現在分詞 clothing"
+ },
+ "clotted": {
+  "ph": "/'klɒtid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "為塊狀物阻塞的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clotted"
+ },
+ "clotting": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 塊凝",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 凝固",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clotting"
+ },
+ "cloture": {
+  "ph": "/'klәutʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "討論終結提付表決",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "以提付表決來結束辯論",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 cloturing｜過去式 clotured｜第三人稱單數 clotures｜過去分詞 clotured"
+ },
+ "cloud": {
+  "ph": "/klaud/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雲, 陰暗, 煙霧, 疑團",
+    "def": "any collection of particles (e.g., smoke or dust) or gases that is visible"
+   },
+   {
+    "pos": "vt.",
+    "zh": "以雲遮敝, 籠罩, 使黯然",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "烏雲密佈, 陰沉",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clouds｜過去分詞 clouded｜過去式 clouded｜現在分詞 clouding｜第三人稱單數 clouds"
+ },
+ "cloudburst": {
+  "ph": "/'klaudbә:st/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "傾盆大雨, 豪雨",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cloudbursts"
+ },
+ "clouded": {
+  "ph": "/'klaudid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "陰的, 有暗影的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 clouded｜過去式 clouded"
+ },
+ "cloudiness": {
+  "ph": "/'klaudinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "多雲, 陰暗, 光澤暗晦, 朦朧",
+    "def": "the state of the sky when it is covered by clouds"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 濁度; 渾濁性",
+    "def": ""
+   }
+  ]
+ },
+ "clouding": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "無光澤, 雲狀花紋, (圖象上的)模糊, 雲斑",
+    "def": "the process whereby water particles become visible in the sky"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 混濁, 模糊",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clouding"
+ },
+ "cloudless": {
+  "ph": "/'klaudlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "晴朗的, 無雲的",
+    "def": ""
+   }
+  ]
+ },
+ "cloudlike": {
+  "ph": "/k'laʊdlaɪk/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫]雲霧狀的",
+    "def": ""
+   }
+  ]
+ },
+ "cloudy": {
+  "ph": "/'klaudi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "多雲的, 有愁容的, 雲的, 渾濁的",
+    "def": "full of or covered with clouds"
+   },
+   {
+    "pos": "",
+    "zh": "[建] (混)濁的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 cloudier"
+ },
+ "clough": {
+  "ph": "/klʌf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "深谷, 峽谷",
+    "def": "A cleft in a hill; a ravine; a narrow valley."
+   }
+  ],
+  "forms": "複數 cloughs"
+ },
+ "clout": {
+  "ph": "/klaut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敲擊, 破布",
+    "def": "a target used in archery"
+   },
+   {
+    "pos": "vt.",
+    "zh": "打補釘",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clouted｜現在分詞 clouting｜過去分詞 clouted｜複數 clouts｜第三人稱單數 clouts"
+ },
+ "clove": {
+  "ph": "/klәuv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "丁香",
+    "def": "aromatic flower bud of a clove tree; yields a spice"
+   },
+   {
+    "pos": "",
+    "zh": "cleave的過去式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cloves｜過去式 clove"
+ },
+ "cloven": {
+  "ph": "/'klәuvn/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "cleave的過去分詞",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cloven"
+ },
+ "clover": {
+  "ph": "/'klәuvә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紅花草",
+    "def": "a plant of the genus Trifolium"
+   },
+   {
+    "pos": "",
+    "zh": "[建] 三葉草",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clovers"
+ },
+ "cloverleaf": {
+  "ph": "/'klәuvәli:f/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "四葉苜蓿形的立體道路交叉點",
+    "def": "an interchange that does not require left-hand turns"
+   }
+  ]
+ },
+ "clovis": {
+  "ph": "/'kləuvis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克羅維斯；克洛維斯；克洛維（法國國王）",
+    "def": "king of the Franks who unified Gaul and established his capital at Paris and founded the Frankish monarchy; his name was rendered as Gallic `Louis' (466-511)"
+   }
+  ]
+ },
+ "clowes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Clowes)人名；(英)克洛斯",
+    "def": ""
+   }
+  ]
+ },
+ "clown": {
+  "ph": "/klaun/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "小丑, 鄉下人",
+    "def": "a rude or vulgar fool"
+   }
+  ],
+  "forms": "複數 clowns｜現在分詞 clowning｜過去式 clowned｜第三人稱單數 clowns｜過去分詞 clowned"
+ },
+ "clowning": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "插科打諢；噱頭",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clowning"
+ },
+ "clownish": {
+  "ph": "/'klauniʃ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "滑稽的",
+    "def": ""
+   }
+  ]
+ },
+ "cloy": {
+  "ph": "/klɒi/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使吃飽, 使過飽, 使厭膩",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "倒胃口",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 cloyed｜現在分詞 cloying｜複數 cloys｜第三人稱單數 cloys｜過去分詞 cloyed"
+ },
+ "cloying": {
+  "ph": "/'klɔiiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "厭煩的；倒胃口的；因過量而厭煩的",
+    "def": ""
+   }
+  ]
+ },
+ "cloyingly": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "cloy的變形",
+    "def": ""
+   }
+  ]
+ },
+ "cloze": {
+  "ph": "/klәuz/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "完形的, 填充測驗法的",
+    "def": "based on or being a test of reading skill using the cloze procedure"
+   }
+  ]
+ },
+ "clr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 清除",
+    "def": ""
+   }
+  ]
+ },
+ "club": {
+  "ph": "/klʌb/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俱樂部, 木棍, 球棒",
+    "def": "a formal association of people with similar interests"
+   },
+   {
+    "pos": "vt.",
+    "zh": "用棍棒打, 繳納",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "聯合起來",
+    "def": ""
+   },
+   {
+    "pos": "adj.",
+    "zh": "俱樂部的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clubs｜過去分詞 clubbed｜現在分詞 clubbing｜過去式 clubbed｜第三人稱單數 clubs"
+ },
+ "clubbable": {
+  "ph": "/'klʌbәb(ә)l/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "夠俱樂部會員資格的, 愛好交際的",
+    "def": ""
+   }
+  ]
+ },
+ "clubbed": {
+  "ph": "/klʌbd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "棒狀的",
+    "def": ""
+   }
+  ]
+ },
+ "clubby": {
+  "ph": "/'klʌbi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "象俱樂部的, 愛交際的, 排外的",
+    "def": ""
+   }
+  ]
+ },
+ "clubfoot": {
+  "ph": "/.klʌb'fut/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "畸形足",
+    "def": "congenital deformity of the foot usually marked by a curled shape or twisted position of the ankle and heel and toes"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 畸形足",
+    "def": ""
+   }
+  ]
+ },
+ "clubhouse": {
+  "ph": "/'klʌbhaus/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俱樂部會所",
+    "def": "a building that is occupied by a social club"
+   }
+  ],
+  "forms": "複數 clubhouses"
+ },
+ "clubland": {
+  "ph": "/'klʌblænd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俱樂部區",
+    "def": ""
+   }
+  ]
+ },
+ "clubroom": {
+  "ph": "/'klʌbrjm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "俱樂部聚會室",
+    "def": "a room used for the activities of a club"
+   }
+  ],
+  "forms": "複數 clubrooms"
+ },
+ "clubs": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（撲克牌）梅花；俱樂部；社團（club的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "cluck": {
+  "ph": "/klʌk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "咯咯的叫聲",
+    "def": "the sound made by a hen (as in calling her chicks)"
+   },
+   {
+    "pos": "v.",
+    "zh": "咯咯叫",
+    "def": "make a clucking sounds, characteristic of hens"
+   }
+  ],
+  "forms": "過去式 clucked｜現在分詞 clucking｜第三人稱單數 clucks｜過去分詞 clucked｜複數 clucks"
+ },
+ "clucking": {
+  "ph": "/klʌkɪŋ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "（母雞）咯咯聲( cluck的現在分詞 ); <俚>傻瓜, 笨蛋",
+    "def": ""
+   }
+  ],
+  "forms": "複數 cluckings｜現在分詞 clucking"
+ },
+ "clue": {
+  "ph": "/klu:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "線索, 暗示",
+    "def": "evidence that helps to solve a problem"
+   },
+   {
+    "pos": "vt.",
+    "zh": "暗示, 提供線索",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clues｜過去分詞 clued｜過去式 clued｜現在分詞 cluing｜第三人稱單數 clues"
+ },
+ "clueless": {
+  "ph": "/ˈklu:ləs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "無能的, 笨的",
+    "def": ""
+   }
+  ]
+ },
+ "cluj": {
+  "ph": "/klu:ʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克魯日（羅馬尼亞西北部城市）",
+    "def": ""
+   }
+  ]
+ },
+ "clumber": {
+  "ph": "/'klʌmbә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克倫伯長毛垂耳狗",
+    "def": "a thickset spaniel with longish silky hair"
+   }
+  ]
+ },
+ "clump": {
+  "ph": "/klʌmp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叢, 塊, 笨重的腳步聲",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 叢",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clumps｜過去式 clumped｜現在分詞 clumping｜過去分詞 clumped｜第三人稱單數 clumps"
+ },
+ "clumped": {
+  "ph": "/klʌmpt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[醫]成群的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "（樹、灌木、植物等的）叢、簇( clump的過去式和過去分詞 ); （土、泥等）團; 塊; 笨重的腳步聲",
+    "def": ""
+   }
+  ]
+ },
+ "clumping": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 聚叢",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 團集, 凝集",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clumping"
+ },
+ "clumpy": {
+  "ph": "/'klʌmpi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成塊的, 成叢的, 多塊的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[建] 笨重的, 塊的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 clumpier"
+ },
+ "clumsily": {
+  "ph": "/'klʌmzili/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "笨拙, 粗陋, 不漂亮",
+    "def": ""
+   }
+  ]
+ },
+ "clumsiness": {
+  "ph": "/'klʌmzinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笨拙, 粗陋, 不漂亮",
+    "def": ""
+   }
+  ]
+ },
+ "clumsy": {
+  "ph": "/'klʌmzi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "笨拙的, 不雅觀的, 粗陋的",
+    "def": ""
+   }
+  ],
+  "forms": "比較級 clumsier｜最高級 clumsiest"
+ },
+ "clunk": {
+  "ph": "/klʌnk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "沉悶的金屬聲",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "發出沉悶聲",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clunked｜現在分詞 clunking｜第三人稱單數 clunks｜複數 clunks｜過去分詞 clunked"
+ },
+ "clunker": {
+  "ph": "/'klʌnkә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "年久失修的舊機器",
+    "def": ""
+   }
+  ]
+ },
+ "clunky": {
+  "ph": "/ˈklʌŋki/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "粗笨的；笨重的",
+    "def": ""
+   }
+  ]
+ },
+ "cluny": {
+  "ph": "/'klu:ni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克盧尼市（城市名）",
+    "def": ""
+   }
+  ]
+ },
+ "cluster": {
+  "ph": "/'klʌstә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "串, 叢, 群, 簇",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成串, 叢生",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使聚集",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 簇",
+    "def": ""
+   }
+  ],
+  "forms": "複數 clusters｜過去式 clustered｜過去分詞 clustered｜現在分詞 clustering｜第三人稱單數 clusters"
+ },
+ "clustered": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "成群的, 集束的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 成群的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 clustered"
+ },
+ "clustering": {
+  "ph": "/'klʌstәriŋ/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 分類歸併; 聚類",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clustering｜複數 clusterings"
+ },
+ "clutch": {
+  "ph": "/klʌtʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "抓緊, 掌握, 離合器, 一窩小雞",
+    "def": "a tense critical situation"
+   },
+   {
+    "pos": "vt.",
+    "zh": "抓住, 踩汽車離合器踏板",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "抓",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 聯軸器; 離合器",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 clutching｜過去式 clutched｜複數 clutches｜過去分詞 clutched｜第三人稱單數 clutches"
+ },
+ "clutter": {
+  "ph": "/'klʌtә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雜亂",
+    "def": "a confused multitude of things"
+   },
+   {
+    "pos": "vt.",
+    "zh": "弄亂, 使凌亂",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cluttered｜現在分詞 cluttering｜過去式 cluttered｜第三人稱單數 clutters｜複數 clutters"
+ },
+ "cluttered": {
+  "ph": "/ˈklʌtəd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "雜物, 零亂的東西<X>零亂<DDX>vt.( clutter的過去式和過去分詞 ); 亂糟糟地堆滿, 把…弄得很亂; （以…） 塞滿…",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 cluttered｜過去式 cluttered"
+ },
+ "clwyd": {
+  "ph": "/'klu:id/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "克盧伊達郡[英國威爾士郡名]",
+    "def": ""
+   }
+  ]
+ },
+ "clyde": {
+  "ph": "/klaid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "克萊德（男子名）",
+    "def": "a river in western Scotland that flows from the southern uplands into the Firth of Clyde; navigable by oceangoing vessels as far as Glasgow"
+   }
+  ]
+ },
+ "clydesdale": {
+  "ph": "/'klaidzdeil/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "強健的挽馬",
+    "def": "heavy feathered-legged breed of draft horse originally from Scotland"
+   },
+   {
+    "pos": "adj.",
+    "zh": "強健的挽馬的",
+    "def": ""
+   }
+  ]
+ }
+}

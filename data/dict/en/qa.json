@@ -1,0 +1,53 @@
+{
+ "qa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "品質保證（Quality Assurance）；質量評價（Quality Assessment）",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 qaing"
+ },
+ "qaddafi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(Qaddafi)人名；(阿拉伯)卡扎菲",
+    "def": "Libyan leader who seized power in a military coup d'etat in 1969; deposed the Libyan monarchy and imposed socialism and Islamic orthodoxy on the country (born i"
+   },
+   {
+    "pos": "",
+    "zh": "卡扎菲",
+    "def": ""
+   }
+  ]
+ },
+ "qatar": {
+  "ph": "/'kɑ:tәr/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卡達",
+    "def": "an Arab country on the peninsula of Qatar; achieved independence from the United Kingdom in 1971; the economy is dominated by oil"
+   }
+  ]
+ },
+ "qatari": {
+  "ph": "/'kɑ:təri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "卡達人",
+    "def": "a native or inhabitant of Qatar"
+   },
+   {
+    "pos": "adj.",
+    "zh": "卡達的",
+    "def": "of or concerning Qatar or its inhabitants"
+   }
+  ]
+ }
+}

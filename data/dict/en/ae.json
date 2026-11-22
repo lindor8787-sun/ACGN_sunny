@@ -1,0 +1,642 @@
+{
+ "ae": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[計] 絕對誤差, 運算器",
+    "def": ""
+   }
+  ]
+ },
+ "aea": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "原子能法（Atomic Energy Authority）；演員協會（Actors ' Equity Association）；美國經濟協會（American Economic Association）；成人教育協會（Adult Education Association）；美國教育協會（American Education Association）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aeas"
+ },
+ "aeg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "（德意志聯邦共和國）通用電力公司（Allgemeine Elektrizitts Gesellschaft）",
+    "def": ""
+   }
+  ]
+ },
+ "aegean": {
+  "ph": "/i:'dʒi:әn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "愛琴海的",
+    "def": "of or relating to or characteristic of the prehistoric Aegean civilization"
+   },
+   {
+    "pos": "n.",
+    "zh": "愛琴海",
+    "def": "an arm of the Mediterranean between Greece and Turkey; a main trade route for the ancient civilizations of Crete and Greece and Rome and Persia"
+   }
+  ]
+ },
+ "aegis": {
+  "ph": "/'i:dʒis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "羊皮盾, 保護, 庇護, 贊助, 支援",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 庇護, 保護",
+    "def": ""
+   }
+  ]
+ },
+ "aeneas": {
+  "ph": "/i'ni:әs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特洛伊戰爭中的勇士",
+    "def": "a mythical Greek warrior who was a leader on the Trojan side of the Trojan War; hero of the Aeneid"
+   }
+  ]
+ },
+ "aeneid": {
+  "ph": "/'i:niid/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃涅伊特(古羅馬史詩)",
+    "def": "an epic in Latin by Virgil; tells the adventures of Aeneas after the Trojan War; provides an illustrious historical background for the Roman Empire"
+   }
+  ]
+ },
+ "aeolian": {
+  "ph": "/i:'әjliәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "風的, 風蝕的, 風神埃俄羅斯的, 伊奧利亞人的",
+    "def": "of or pertaining to Aeolus, the Greek god of the winds; relating to or caused by the wind"
+   }
+  ],
+  "forms": "複數 aeolians"
+ },
+ "aeon": {
+  "ph": "/'i:әn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "永世, 萬古, 極長的時期",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aeons"
+ },
+ "aer": {
+  "ph": "/eә/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 氣壓單位",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aers"
+ },
+ "aerate": {
+  "ph": "/'eiәreit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使暴露於空氣中, 使充滿氣體",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 曝氣; 充氣; 吹氣",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aerated｜現在分詞 aerating｜過去分詞 aerated｜複數 aerates｜第三人稱單數 aerates"
+ },
+ "aerated": {
+  "ph": "/'eiәreitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "充氣的；充入二氧化碳的；同空氣混合的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aerated｜過去分詞 aerated"
+ },
+ "aeration": {
+  "ph": "/eiә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "通風",
+    "def": "the process of exposing to air (so as to purify)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 換氣; 曝氣",
+    "def": ""
+   }
+  ]
+ },
+ "aerator": {
+  "ph": "/'eiәreitә(r)/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 曝氣器; 曝氣裝置",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 曝氣池; 充氣器, 灌氣器",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aerators"
+ },
+ "aerial": {
+  "ph": "/'єәriәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "空中的, 航空的, 空氣的, 空想的",
+    "def": "existing or living or growing or operating in the air"
+   },
+   {
+    "pos": "n.",
+    "zh": "天線",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aerials"
+ },
+ "aerialist": {
+  "ph": "/'єәriәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "高空雜技演員",
+    "def": "an acrobat who performs in the air (as on a rope or trapeze)"
+   }
+  ]
+ },
+ "aerie": {
+  "ph": "/'єәri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猛禽的巢, 高處的房子, 高處的城堡",
+    "def": "the lofty nest of a bird of prey (such as a hawk or eagle)"
+   }
+  ]
+ },
+ "aero": {
+  "ph": "/'єәrәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "飛機的, 航空的, 飛行的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aeros"
+ },
+ "aerobatic": {
+  "ph": "/,eәrәu'bætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "特技飛行的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aerobatics"
+ },
+ "aerobatics": {
+  "ph": "/.єәrәu'bætiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特技飛行, 飛行特技",
+    "def": ""
+   }
+  ]
+ },
+ "aerobic": {
+  "ph": "/єә'rәubik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "需氧的, 需氧菌產生的, 增氧健身法的",
+    "def": "depending on free oxygen or air"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 需氧的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aerobics"
+ },
+ "aerobically": {
+  "ph": "/,eiə'rəubik/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "aerobic（需氧的, 需氣的, 生存於氧氣中的）的變形",
+    "def": ""
+   }
+  ]
+ },
+ "aerobics": {
+  "ph": "/.eiә'rәubiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "有氧運動法；增氧健身法",
+    "def": "exercise that increases the need for oxygen"
+   }
+  ]
+ },
+ "aerodrome": {
+  "ph": "/'єәrәdrәum/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機場, 機場",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aerodromes"
+ },
+ "aerodynamic": {
+  "ph": "/,eәrәudai'næmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "空氣動力學的",
+    "def": "of or relating to aerodynamics"
+   }
+  ],
+  "forms": "複數 aerodynamics"
+ },
+ "aerodynamically": {
+  "ph": "/,eәrәudai'næmikәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "空氣動力學地",
+    "def": ""
+   }
+  ]
+ },
+ "aerodynamics": {
+  "ph": "/.єәrәudai'næmiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "空氣動力學",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 空氣動力學",
+    "def": ""
+   }
+  ]
+ },
+ "aeroflot": {
+  "ph": "/'eәrәuflɔt/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "<俄> n.蘇聯民用航空總局",
+    "def": ""
+   }
+  ]
+ },
+ "aerofoil": {
+  "ph": "/'eәrәfɔil/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[機] 機翼, 螺旋槳, 機舵總稱",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aerofoils"
+ },
+ "aerogel": {
+  "ph": "/'eәrәdʒәl/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 氣凝膠",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 氣凝膠[體]",
+    "def": ""
+   }
+  ]
+ },
+ "aeronautic": {
+  "ph": "/.єәrә'nɒ:tik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "航空的",
+    "def": ""
+   }
+  ]
+ },
+ "aeronautical": {
+  "ph": "/,eәrә'nɔ:tikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "航空的, 航空學的",
+    "def": "of or pertaining to aeronautics"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 航空學的",
+    "def": ""
+   }
+  ]
+ },
+ "aeronautics": {
+  "ph": "/.єәrә'nɒ:tiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航空學, 飛行術",
+    "def": "the theory and practice of navigation through air or space"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 航空學",
+    "def": ""
+   }
+  ]
+ },
+ "aeroplane": {
+  "ph": "/'єәrәplein/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "飛機",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 飛機",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aeroplanes"
+ },
+ "aerosol": {
+  "ph": "/'єәrәusɒl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煙, 霧",
+    "def": "a cloud of solid or liquid particles in a gas"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 氣溶膠; 煙霧劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aerosols｜過去分詞 aerosolled"
+ },
+ "aerosolized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "霧化（aerosolize的過去分詞）；使…成煙霧狀散開",
+    "def": ""
+   }
+  ]
+ },
+ "aerospace": {
+  "ph": "/'єәrәuspeis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "航天空間, 航天技術",
+    "def": "the atmosphere and outer space considered as a whole"
+   }
+  ]
+ },
+ "aerospatiale": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "法國宇航公司",
+    "def": ""
+   }
+  ]
+ },
+ "aerostat": {
+  "ph": "/'єәrәustæt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "浮空器",
+    "def": "A balloon."
+   },
+   {
+    "pos": "",
+    "zh": "[機] 氣球, 飛船, 浮空器",
+    "def": ""
+   }
+  ]
+ },
+ "aes": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 原子發射光譜; 俄歇電子能譜(學)",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 內琥珀酸鈉蒽(致癌物質)",
+    "def": ""
+   }
+  ]
+ },
+ "aeschylus": {
+  "ph": "/'i:skiləs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "埃斯庫羅斯（希臘的詩人及悲劇作家）",
+    "def": "Greek tragedian; the father of Greek tragic drama (525-456 BC)"
+   }
+  ]
+ },
+ "aesop": {
+  "ph": "/'i:sɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "伊索",
+    "def": "Greek author of fables (circa 620-560 BC)"
+   }
+  ]
+ },
+ "aesthete": {
+  "ph": "/'i:sθi:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "審美家, 唯美主義者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aesthetes"
+ },
+ "aesthetic": {
+  "ph": "/i:s'θetik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "美學的, 審美的, 有美感的",
+    "def": "relating to or dealing with the subject of aesthetics"
+   }
+  ]
+ },
+ "aesthetical": {
+  "ph": "/i:s'θetikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "美學的, 藝術的, 美的, 審美的",
+    "def": ""
+   }
+  ]
+ },
+ "aesthetically": {
+  "ph": "/i:s'θetikәli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "美學觀點上地；審美地",
+    "def": ""
+   }
+  ]
+ },
+ "aesthetician": {
+  "ph": "/,i:sθi'tiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "審美學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aestheticians"
+ },
+ "aestheticism": {
+  "ph": "/i:s'θetizm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "唯美主義",
+    "def": "The doctrine of aesthetics; aesthetic principles;"
+   }
+  ]
+ },
+ "aestheticization": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "審美化",
+    "def": ""
+   }
+  ]
+ },
+ "aesthetics": {
+  "ph": "/i:s'θetiks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "美學",
+    "def": "(art) the branch of philosophy dealing with beauty and taste (emphasizing the evaluative criteria that are applied to art)"
+   }
+  ]
+ },
+ "aethelred": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[人名] 艾塞雷德",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aethelred"
+ },
+ "aetiological": {
+  "ph": "/,i:tiә'lɔdʒikәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "病因論的, 病原學的",
+    "def": ""
+   }
+  ]
+ },
+ "aetiology": {
+  "ph": "/.i:ti'ɒlәdʒɑ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "原因的說明, 原因論, 病原學, 病原",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 病原學, 病因學",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aetiologies"
+ },
+ "aeu": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "新歐洲共同體（Advanced European Union）；美國倫理學聯合會（American Ethical Union）；亞洲電子學聯合會（Asia Electronics Union）；（英國）混合機械工業工會（Amalgamated Engineering Union）；阿斯特賴俄斯航空",
+    "def": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,1489 @@
+{
+ "aga": {
+  "ph": "/'ɑ:gә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "將軍, 大官, 宗教領袖",
+    "def": "title for a civil or military leader (especially in Turkey)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 速長區(胚)",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agas"
+ },
+ "again": {
+  "ph": "/ә'gein/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "再一次, 又, 到原處",
+    "def": ""
+   }
+  ]
+ },
+ "against": {
+  "ph": "/ә'geinst/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "反對, 對著, 倚靠",
+    "def": "Abreast; opposite to; facing; towards; as, against the"
+   }
+  ]
+ },
+ "agamemnon": {
+  "ph": "/.ægә'memnәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿伽門農(特洛伊戰爭中希臘統帥)",
+    "def": "(Greek mythology) the king who lead the Greeks against Troy in the Trojan War"
+   }
+  ]
+ },
+ "agape": {
+  "ph": "/ә'geip/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "張口發呆的, 目瞪口呆的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "張口發呆地, 目瞪口呆地",
+    "def": ""
+   }
+  ]
+ },
+ "agar": {
+  "ph": "/'eigә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瓊脂, 石花菜",
+    "def": "any culture medium that uses agar as the gelling agent"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 瓊脂",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agars"
+ },
+ "agarose": {
+  "ph": "/'ɑ:^әrәjs/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[化] 瓊脂糖",
+    "def": ""
+   }
+  ]
+ },
+ "agassi": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿加西(人名)",
+    "def": ""
+   }
+  ]
+ },
+ "agate": {
+  "ph": "/'ægәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瑪瑙, 五又二分之一點鉛字",
+    "def": "an impure form of quartz consisting of banded chalcedony; used as a gemstone and for making mortars and pestles"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 瑪瑙149",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agates"
+ },
+ "agatha": {
+  "ph": "/'æ^әθә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿加莎（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "agave": {
+  "ph": "/ә'geivi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "龍舌蘭",
+    "def": "tropical American plants with basal rosettes of fibrous sword-shaped leaves and flowers in tall spikes; some cultivated for ornament or for fiber"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 龍舌蘭屬",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agaves"
+ },
+ "age": {
+  "ph": "/eidʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "年齡, 老年, 成年, 壽命, 時代, 時期",
+    "def": "how long something has existed"
+   },
+   {
+    "pos": "v.",
+    "zh": "變老, 成熟",
+    "def": "begin to seem older; get older"
+   }
+  ],
+  "forms": "複數 ages｜過去分詞 aged｜現在分詞 ageing｜第三人稱單數 ages｜過去式 aged"
+ },
+ "age group": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "同年齡範圍內的人",
+    "def": ""
+   }
+  ]
+ },
+ "age of consent": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "合法年齡；承諾年齡（指可以結婚或進行性行為, 而不觸犯法律的最低年齡）",
+    "def": ""
+   }
+  ]
+ },
+ "age-old": {
+  "ph": "/'eidʒәjld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "古老的",
+    "def": ""
+   }
+  ]
+ },
+ "aged": {
+  "ph": "/'eidʒid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "老的, 陳的, 有...歲的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 老化的; 老化了的; 陳化的; 陳化了的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 aged"
+ },
+ "ageing": {
+  "ph": "/'eidʒiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "變老, 成熟",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 老化; 陳化; 老成; 熟化; 時效",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 ageing"
+ },
+ "ageism": {
+  "ph": "/'eidʒizәm/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[法] 年齡歧視",
+    "def": ""
+   }
+  ]
+ },
+ "ageist": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "年齡歧視者",
+    "def": ""
+   }
+  ]
+ },
+ "ageless": {
+  "ph": "/'eidʒlis/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不老的, 永恆的",
+    "def": ""
+   }
+  ]
+ },
+ "agencies": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代理；代理處（agency的複數）",
+    "def": ""
+   }
+  ]
+ },
+ "agency": {
+  "ph": "/'eidʒәnsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代理機構, 經銷商, 中介",
+    "def": "an administrative unit of government"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 辦事處",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agencies"
+ },
+ "agenda": {
+  "ph": "/ә'dʒendә/",
+  "senses": [
+   {
+    "pos": "pl.",
+    "zh": "議程, 日常工作事項",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[計] 待議事件",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agendas"
+ },
+ "agent": {
+  "ph": "/'eidʒәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代理商, 政府代表, 動原, 媒介",
+    "def": "an active and efficient cause; capable of producing a certain effect"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 代理程式",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agents"
+ },
+ "agentry": {
+  "ph": "/'eidʒәntri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代理人業務(或職責)",
+    "def": ""
+   }
+  ]
+ },
+ "ageratum": {
+  "ph": "/.ædʒә'reitәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "藿香薊",
+    "def": "any plant of the genus Ageratum having opposite leaves and small heads of blue or white flowers"
+   }
+  ],
+  "forms": "複數 ageratums"
+ },
+ "agg": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "自動增益控制；automatic gain control",
+    "def": ""
+   }
+  ]
+ },
+ "aggie": {
+  "ph": "/'æɡi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農業學校；農科大學生",
+    "def": ""
+   }
+  ]
+ },
+ "aggiornamento": {
+  "ph": "/ә.dʒɒ:nә'mentou/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "現代化",
+    "def": ""
+   }
+  ]
+ },
+ "agglomerate": {
+  "ph": "/ә'glɒmәreit/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大團, 大塊",
+    "def": "volcanic rock consisting of large fragments fused together"
+   },
+   {
+    "pos": "adj.",
+    "zh": "成塊的, 聚結的",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "使成團, 使成塊, 使聚結",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "成團, 成塊, 聚結",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agglomerates｜現在分詞 agglomerating｜過去式 agglomerated｜第三人稱單數 agglomerates｜過去分詞 agglomerated"
+ },
+ "agglomeration": {
+  "ph": "/ә.glɒmә'reiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "結塊, 聚結, 大塊",
+    "def": "a jumbled collection or mass"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 附聚; 附聚作用; 燒結團聚; 燒結作用; 團聚",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agglomerations"
+ },
+ "agglutination": {
+  "ph": "/ә.glu:ti'neiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "粘著, 膠合, 粘結團",
+    "def": "a clumping of bacteria or red cells when held together by antibodies (agglutinins)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 燒結; 燒結作用; 凝集; 凝集作用",
+    "def": ""
+   }
+  ]
+ },
+ "aggrandize": {
+  "ph": "/ә'grændaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "增加, 誇大",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 aggrandizing｜過去式 aggrandized｜第三人稱單數 aggrandizes｜過去分詞 aggrandized"
+ },
+ "aggrandizement": {
+  "ph": "/ә'grændizmәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "增大, 擴大, 誇大",
+    "def": "the act of increasing the wealth or prestige or power or scope of something"
+   }
+  ],
+  "forms": "複數 aggrandizements"
+ },
+ "aggravate": {
+  "ph": "/'ægrәveit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使惡化, 使更嚴重, 加重",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 aggravated｜過去式 aggravated｜現在分詞 aggravating｜第三人稱單數 aggravates"
+ },
+ "aggravated": {
+  "ph": "/'æɡrә.veitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "加重的；惡化的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 aggravated"
+ },
+ "aggravating": {
+  "ph": "/'ægrәveitiŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "使惡化的, 加重的, 惱人的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 aggravating"
+ },
+ "aggravation": {
+  "ph": "/ægrә'veiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "惡化, 加重, 惱怒",
+    "def": "an exasperated feeling of annoyance"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 加重, 嚴重",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aggravations"
+ },
+ "aggregate": {
+  "ph": "/'ægrigәt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "合計, 總計, 聚集體",
+    "def": "material such as sand or gravel used with cement and water to make concrete, mortar, or plaster"
+   },
+   {
+    "pos": "adj.",
+    "zh": "合計的, 聚集的",
+    "def": ""
+   },
+   {
+    "pos": "v.",
+    "zh": "聚集, 集合, 合計達",
+    "def": "amount in the aggregate to"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 聚合體; 聚集",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aggregates｜過去分詞 aggregated｜現在分詞 aggregating｜第三人稱單數 aggregates｜過去式 aggregated"
+ },
+ "aggregated": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聚合的；合計的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 aggregated"
+ },
+ "aggregation": {
+  "ph": "/ægri'geiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "集合, 聚合, 集合體",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[化] 聚集; 聚集作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aggregations"
+ },
+ "aggregative": {
+  "ph": "/'ægrigeitiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "集合的, 聚集的, 作為整體的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[機] 聚集的",
+    "def": ""
+   }
+  ]
+ },
+ "aggregator": {
+  "ph": "/ˈægrɪgeɪtə(r)/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "聚合器, 整合者; 彙集者, 聚合",
+    "def": ""
+   }
+  ]
+ },
+ "aggress": {
+  "ph": "/ә'gres/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "挑畔, 侵犯, 侵略",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 aggressing｜過去式 aggressed｜第三人稱單數 aggresses｜過去分詞 aggressed"
+ },
+ "aggression": {
+  "ph": "/ә'greʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "侵犯, 侵略",
+    "def": "a disposition to behave aggressively"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 攻擊",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aggressions"
+ },
+ "aggressive": {
+  "ph": "/ә'gresiv/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "侵略的, 挑畔的, 進取的",
+    "def": "having or showing determination and energetic pursuit of your ends; positive in his convictions\""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 侵略的, 愛挑釁的, 行為過火的",
+    "def": ""
+   }
+  ]
+ },
+ "aggressively": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "(貶)侵略, 侵犯, 尋釁, (褒)敢作敢為, 有進取心, (武器)攻擊性, 過分, 放肆",
+    "def": ""
+   }
+  ]
+ },
+ "aggressiveness": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "(貶)侵略, 侵犯, 尋釁, (褒)敢作敢為, 有進取心, (武器)攻擊性, 過分, 放肆",
+    "def": "the quality of being bold and enterprising"
+   }
+  ]
+ },
+ "aggressivity": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 攻擊性, 攻擊力",
+    "def": ""
+   }
+  ]
+ },
+ "aggressor": {
+  "ph": "/ә'gresә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "侵略者, 挑畔者",
+    "def": "a confident assertive person who acts as instigator"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 侵略者, 攻擊者",
+    "def": ""
+   }
+  ],
+  "forms": "複數 aggressors"
+ },
+ "aggrieve": {
+  "ph": "/ә'gri:v/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使委屈, 使悲痛, 侵害",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 侵害, 使悲痛, 使委屈",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 aggrieved｜過去式 aggrieved｜現在分詞 aggrieving｜第三人稱單數 aggrieves"
+ },
+ "aggrieved": {
+  "ph": "/ә'gri:vd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "受委屈的, 權利受到不法侵害的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 aggrieved｜過去式 aggrieved"
+ },
+ "aggro": {
+  "ph": "/'æ^rәu/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "暴力行為",
+    "def": "(informal British usage) aggravation or aggression"
+   }
+  ],
+  "forms": "複數 aggros"
+ },
+ "aghast": {
+  "ph": "/ә'gɑ:st/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "驚駭的, 嚇呆的",
+    "def": ""
+   }
+  ]
+ },
+ "agile": {
+  "ph": "/'ædʒail/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "敏捷的, 靈活的, 機敏的",
+    "def": ""
+   }
+  ]
+ },
+ "agility": {
+  "ph": "/ә'dʒiliti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "敏捷, 靈活, 機敏",
+    "def": "the gracefulness of a person or animal that is quick and nimble"
+   }
+  ]
+ },
+ "agin": {
+  "ph": "/ә'^in/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "(=against)",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "(謔)反對",
+    "def": ""
+   }
+  ]
+ },
+ "agincourt": {
+  "ph": "/'ædʒinkɔ:t/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "[史](1415年英王亨利五世於法國北部阿金庫爾村重創兵力數倍於己的法軍的)阿金庫爾戰役",
+    "def": "a battle in northern France in which English longbowmen under Henry V decisively defeated a much larger French army in 1415"
+   }
+  ]
+ },
+ "aging": {
+  "ph": "/'eidʒiŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老化, 變陳",
+    "def": "the organic process of growing older and showing the effects of increasing age"
+   },
+   {
+    "pos": "",
+    "zh": "[計] 老化, 陳化",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 aging"
+ },
+ "agitate": {
+  "ph": "/'ædʒiteit/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使搖動, 攪動, 使激動, 使不安",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "鼓動, 煽動",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 agitated｜現在分詞 agitating｜過去式 agitated｜第三人稱單數 agitates"
+ },
+ "agitated": {
+  "ph": "/'ædʒiteitid/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(表現出)不安/焦慮的, (被)激烈辯論的, (被)熱烈討論的, 顫抖的",
+    "def": "troubled emotionally and usually deeply"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 激越的",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 agitated"
+ },
+ "agitatedly": {
+  "ph": "/'ædʒiteitidli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "激動地, 焦慮地",
+    "def": "In an agitated manner."
+   }
+  ]
+ },
+ "agitation": {
+  "ph": "/.ædʒi'teiʃәn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "激動, 焦慮, 煽動, 攪動, 搖動",
+    "def": "a mental state of extreme emotional disturbance"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 攪拌; 攪拌作用",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agitations"
+ },
+ "agitator": {
+  "ph": "/'ædʒiteitә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "煽動者",
+    "def": "one who agitates; a political troublemaker"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 攪拌器; 攪拌機; 攪抖裝置",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agitators"
+ },
+ "agitprop": {
+  "ph": "/'ædʒitprɒp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "宣傳鼓動",
+    "def": "political propaganda (especially communist propaganda) communicated via art and literature and cinema"
+   },
+   {
+    "pos": "adj.",
+    "zh": "宣傳鼓動的",
+    "def": ""
+   }
+  ]
+ },
+ "aglow": {
+  "ph": "/ә'glәu/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "發光的, 通紅的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "發光地",
+    "def": ""
+   }
+  ]
+ },
+ "agm": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "空對地導彈（Air-to-Ground Missile）；美國音樂家協會（American Guild of Musicians）",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agms"
+ },
+ "agnate": {
+  "ph": "/'ægneit/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "男方親屬的, 宗族的",
+    "def": ""
+   },
+   {
+    "pos": "n.",
+    "zh": "男方親屬",
+    "def": "one related on the father's side"
+   }
+  ],
+  "forms": "第三人稱單數 agnates｜複數 agnates"
+ },
+ "agnatic": {
+  "ph": "/æg'nætik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "男方親屬的",
+    "def": ""
+   }
+  ]
+ },
+ "agnes": {
+  "ph": "/'æ^nis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "艾格尼絲（女子名）",
+    "def": ""
+   }
+  ]
+ },
+ "agnew": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿格紐",
+    "def": ""
+   }
+  ]
+ },
+ "agnostic": {
+  "ph": "/æg'nɒstik/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不可知論者",
+    "def": "someone who is doubtful or noncommittal about something"
+   }
+  ],
+  "forms": "複數 agnostics"
+ },
+ "agnosticism": {
+  "ph": "/æg'nɒstisizәm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "不可知論",
+    "def": "a religious orientation of doubt; a denial of ultimate knowledge of the existence of God"
+   }
+  ]
+ },
+ "ago": {
+  "ph": "/ә'gәu/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "以前",
+    "def": ""
+   }
+  ]
+ },
+ "agog": {
+  "ph": "/ә'gɒg/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "興奮著的, 急切的",
+    "def": ""
+   },
+   {
+    "pos": "adv.",
+    "zh": "急切地, 渴望",
+    "def": ""
+   }
+  ]
+ },
+ "agonise": {
+  "ph": "/'æ^әnaiz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "煩惱, 掙扎",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 agonising｜過去式 agonised｜過去分詞 agonised｜第三人稱單數 agonises"
+ },
+ "agonised": {
+  "ph": "/'æɡənaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "掙扎；煩惱",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "感到苦悶；掙扎",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 agonised｜過去分詞 agonised"
+ },
+ "agonising": {
+  "ph": "/'æɡə,naiziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "煩惱的；苦悶的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 agonising｜複數 agonisings"
+ },
+ "agonisingly": {
+  "ph": "/'ægənaiziŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "煩惱地；苦悶地",
+    "def": ""
+   }
+  ]
+ },
+ "agonist": {
+  "ph": "/'æ^әnist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "主動肌, 促效藥, 顯效藥, 主縮肌",
+    "def": "someone involved in a contest or battle (as in an agon)"
+   },
+   {
+    "pos": "",
+    "zh": "[化] 興奮劑; 激動劑",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agonists"
+ },
+ "agonistes": {
+  "ph": "/,æɡə'nis,ti:z/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "[只用於被修飾的詞之後]奮鬥者的",
+    "def": ""
+   }
+  ]
+ },
+ "agonistic": {
+  "ph": "/.ægәu'nistik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "競賽的, 論爭的",
+    "def": "of or relating to the athletic contests held in ancient Greece"
+   }
+  ]
+ },
+ "agonize": {
+  "ph": "/'ægәnaiz/",
+  "senses": [
+   {
+    "pos": "vt.",
+    "zh": "使極度痛苦, 折磨",
+    "def": ""
+   },
+   {
+    "pos": "vi.",
+    "zh": "感到痛苦",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 agonized｜過去分詞 agonized｜現在分詞 agonizing｜第三人稱單數 agonizes"
+ },
+ "agonized": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "(感到/表示)極度痛苦的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 agonized"
+ },
+ "agonizing": {
+  "ph": "/'ægәnaiziŋ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "折磨人的, 痛苦難忍的",
+    "def": ""
+   }
+  ],
+  "forms": "現在分詞 agonizing"
+ },
+ "agonizingly": {
+  "ph": "/'ægənaiziŋli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "使人煩惱地；苦悶地",
+    "def": ""
+   }
+  ]
+ },
+ "agony": {
+  "ph": "/'ægәni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "極大的痛苦, 掙扎",
+    "def": "intense feelings of suffering; acute mental or physical pain"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瀕死苦悶; 劇痛",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agonies"
+ },
+ "agora": {
+  "ph": "/'ægәrә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "集會, 市場",
+    "def": "100 agorot equal 1 shekel in Israel"
+   }
+  ]
+ },
+ "agoraphobia": {
+  "ph": "/.ægәrә'fәubiә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "廣場恐怖症",
+    "def": "a morbid fear of open spaces (as fear of being caught alone in some public place)"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 廣場恐怖, 曠野恐怖",
+    "def": ""
+   }
+  ]
+ },
+ "agoraphobic": {
+  "ph": "/,æ^әrә'fәjbik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "廣場恐怖的, 曠野恐怖的, 恐曠症的, 陌生環境恐怖的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agoraphobics"
+ },
+ "agouti": {
+  "ph": "/ә'gu:ti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "刺豚鼠",
+    "def": "agile long-legged rabbit-sized rodent of Central America and South America and the West Indies; valued as food"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 刺鼠, 南美豚鼠",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agouti"
+ },
+ "agr": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "abbr.",
+    "zh": "改進型氣冷反應堆（advanced gas-cooled reactor）",
+    "def": ""
+   }
+  ]
+ },
+ "agra": {
+  "ph": "/'ɑ:^rә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿格拉（印度北部一城市）",
+    "def": "a city in northern India; former capital of the Mogul empire; site of the Taj Mahal"
+   }
+  ]
+ },
+ "agrarian": {
+  "ph": "/ә'grєәriәn/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "土地的, 耕地的",
+    "def": ""
+   },
+   {
+    "pos": "",
+    "zh": "[法] 土地的, 土地所有制的",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agrarians"
+ },
+ "agrarianism": {
+  "ph": "/ә'^reәriәnizəm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "平均地權論",
+    "def": "An equal or equitable division of landed property; the"
+   }
+  ]
+ },
+ "agree": {
+  "ph": "/ә'gri:/",
+  "senses": [
+   {
+    "pos": "vi.",
+    "zh": "同意, 贊成, 應允, 適合",
+    "def": ""
+   },
+   {
+    "pos": "vt.",
+    "zh": "承認, 認定, 同意",
+    "def": ""
+   }
+  ],
+  "forms": "過去分詞 agreed｜過去式 agreed｜第三人稱單數 agrees｜現在分詞 agreeing"
+ },
+ "agreeable": {
+  "ph": "/ә'griәbl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人愉快的, 同意的",
+    "def": "conforming to your own liking or feelings or nature"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 佳適的",
+    "def": ""
+   }
+  ]
+ },
+ "agreeableness": {
+  "ph": "/ə'griəblnəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "適合；一致",
+    "def": "pleasantness resulting from agreeable conditions"
+   }
+  ]
+ },
+ "agreeably": {
+  "ph": "/ә'griәbli/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "令人愉快地",
+    "def": ""
+   }
+  ]
+ },
+ "agreed": {
+  "ph": "/ә'ɡri:d/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "同意的；透過協議的",
+    "def": ""
+   }
+  ],
+  "forms": "過去式 agreed｜過去分詞 agreed"
+ },
+ "agreement": {
+  "ph": "/ә'gri:mәnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同意, 合約, 協議",
+    "def": "the statement (oral or written) of an exchange of promises"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 契約, 協議, 協定",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agreements"
+ },
+ "agribusiness": {
+  "ph": "/'ægri.bizinis/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農業綜合經營",
+    "def": "a large-scale farming enterprise"
+   },
+   {
+    "pos": "",
+    "zh": "[經] 農產品行業",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agribusinesses"
+ },
+ "agricola": {
+  "ph": "/ә'^rikәlә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阿格里科拉（德國歷史學家和礦物學家）",
+    "def": "Roman general who was governor of Britain and extended Roman rule north to the Firth of Forth (37-93)"
+   }
+  ]
+ },
+ "agricultural": {
+  "ph": "/.ægri'kʌltʃәrәl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "農業的",
+    "def": "relating to or used in or promoting agriculture or farming"
+   },
+   {
+    "pos": "",
+    "zh": "[法] 農業的, 耕作的",
+    "def": ""
+   }
+  ]
+ },
+ "agriculturalist": {
+  "ph": "/,æ^ri'kʌltʃərәlist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農學家",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agriculturalists"
+ },
+ "agriculturally": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "農業地",
+    "def": ""
+   }
+  ]
+ },
+ "agriculture": {
+  "ph": "/'ægrikʌltʃә/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農業",
+    "def": "the class of people engaged in growing food"
+   },
+   {
+    "pos": "",
+    "zh": "[機] 農業, 農學",
+    "def": ""
+   }
+  ]
+ },
+ "agriculturist": {
+  "ph": "/,æ^ri'kʌltʃәrist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農學家",
+    "def": "someone concerned with the science or art or business of cultivating the soil"
+   }
+  ],
+  "forms": "複數 agriculturists"
+ },
+ "agrippa": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[醫] 臀式生產兒",
+    "def": ""
+   }
+  ]
+ },
+ "agrochemical": {
+  "ph": "/.ægrәu'kemikәl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農用化學品",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agrochemicals"
+ },
+ "agroforestry": {
+  "ph": "/,æɡrəu'fɔristri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農林業；農業林學",
+    "def": ""
+   }
+  ]
+ },
+ "agronomic": {
+  "ph": "/.ægrә'nɒmik/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "農藝學的, 農學的",
+    "def": "of or relating to or promoting agronomy"
+   }
+  ],
+  "forms": "複數 agronomics"
+ },
+ "agronomist": {
+  "ph": "/ә'grɒnәmist/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農藝師, 農學家",
+    "def": "an expert in soil management and field-crop production"
+   }
+  ],
+  "forms": "複數 agronomists"
+ },
+ "agronomy": {
+  "ph": "/ә'grɒnәmi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "農藝學, 農學",
+    "def": "the application of soil and plant sciences to land management and crop production"
+   }
+  ]
+ },
+ "aground": {
+  "ph": "/ә'graund/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "擱淺地, 地面上",
+    "def": ""
+   }
+  ]
+ },
+ "aguardiente": {
+  "ph": "/ɑ:^wɑ:di'entei/",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "[西] 次白蘭地酒, (美西部)甘蔗做的酒, 燒酒",
+    "def": ""
+   }
+  ]
+ },
+ "ague": {
+  "ph": "/'eigju:/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "瘧疾, 打冷顫",
+    "def": "a fit of shivering or shaking"
+   },
+   {
+    "pos": "",
+    "zh": "[醫] 瘧[疾], 瘧狀發熱; 寒戰",
+    "def": ""
+   }
+  ],
+  "forms": "複數 agues"
+ },
+ "aguirre": {
+  "ph": "",
+  "senses": [
+   {
+    "pos": "",
+    "zh": "阿吉雷（人名）",
+    "def": ""
+   }
+  ]
+ }
+}
