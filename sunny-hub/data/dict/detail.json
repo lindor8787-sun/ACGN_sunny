@@ -1,0 +1,338 @@
+{
+ "subtle": {
+  "lang": "en",
+  "ph": "/ˈsʌt.əl/",
+  "level": "CEFR C1",
+  "forms": "比較級 subtler／最高級 subtlest｜名詞 subtlety｜副詞 subtly",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "細微的、不易察覺的",
+    "def": "not obvious; small but important",
+    "ex": "There's a subtle difference between the two proposals.",
+    "exZh": "兩份提案之間有細微的差異。",
+    "scene": "比較方案、分析數據"
+   },
+   {
+    "pos": "adj.",
+    "zh": "含蓄的、委婉的、不著痕跡的",
+    "def": "done in a quiet, indirect way",
+    "ex": "She gave him a subtle hint to wrap up the meeting.",
+    "exZh": "她委婉地暗示他該結束會議了。",
+    "scene": "溝通、給回饋"
+   },
+   {
+    "pos": "adj.",
+    "zh": "巧妙的、精妙的",
+    "def": "clever and skilful in a way that is not obvious",
+    "ex": "It was a subtle marketing strategy that built trust over time.",
+    "exZh": "那是個巧妙的行銷策略，逐步建立信任。",
+    "scene": "評價策略、設計"
+   },
+   {
+    "pos": "adj.",
+    "zh": "（人、頭腦）敏銳的、精明的",
+    "def": "able to notice and understand small details",
+    "ex": "He's a subtle negotiator who reads the room well.",
+    "exZh": "他是很敏銳的談判者，很會察言觀色。",
+    "scene": "評價人"
+   },
+   {
+    "pos": "adj.",
+    "zh": "（顏色、氣味、味道）淡雅的、清淡的",
+    "def": "delicate and not strong",
+    "ex": "The packaging uses a subtle shade of beige.",
+    "exZh": "包裝使用淡雅的米色。",
+    "scene": "產品、設計描述"
+   }
+  ],
+  "syn": "slight, understated, delicate, nuanced",
+  "ant": "obvious, blatant",
+  "confuse": "subtle（細微、含蓄）≠ delicate（易碎、精緻）；字中的 b 不發音"
+ },
+ "needy": {
+  "lang": "en",
+  "ph": "/ˈniː.di/",
+  "level": "CEFR B2",
+  "forms": "比較級 needier／最高級 neediest｜名詞 neediness",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "貧困的、需要救濟的",
+    "def": "not having enough money, food, etc.",
+    "ex": "The foundation supports needy families in rural areas.",
+    "exZh": "基金會援助鄉村地區的貧困家庭。",
+    "scene": "公益、CSR 報告"
+   },
+   {
+    "pos": "n.（the needy）",
+    "zh": "窮人、需要幫助的人（集合名詞）",
+    "def": "people who are poor",
+    "ex": "The company donates part of its profits to the needy.",
+    "exZh": "公司把部分利潤捐給弱勢族群。",
+    "scene": "公益、新聞"
+   },
+   {
+    "pos": "adj.",
+    "zh": "黏人的、情感上過度依賴的（口語，帶負面）",
+    "def": "wanting a lot of attention or reassurance",
+    "ex": "He's a bit needy and asks for feedback every hour.",
+    "exZh": "他有點黏人，每小時都要回饋。",
+    "scene": "描述同事或伴侶 ⚠ 帶貶意"
+   },
+   {
+    "pos": "adj.",
+    "zh": "（客戶）需求很多的、需要大量關照的",
+    "def": "requiring a lot of support or attention",
+    "ex": "We have a needy client who calls several times a day.",
+    "exZh": "我們有個需要大量關照的客戶，一天打好幾通電話。",
+    "scene": "客服、專案管理；正式場合改說 high-maintenance 或 requires a lot of support"
+   }
+  ],
+  "syn": "poor, deprived（貧困）／clingy, demanding（黏人）",
+  "ant": "well-off／independent",
+  "confuse": "needy（需要幫助的）≠ needful（必要的，較古典）"
+ },
+ "negotiate": {
+  "lang": "en",
+  "ph": "/nɪˈɡoʊ.ʃi.eɪt/",
+  "level": "CEFR B2",
+  "forms": "名詞 negotiation／negotiator｜形容詞 negotiable",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "談判、協商",
+    "def": "to discuss in order to reach an agreement",
+    "ex": "We are negotiating with two suppliers.",
+    "exZh": "我們正在跟兩家供應商談判。",
+    "scene": "採購、合作洽談"
+   },
+   {
+    "pos": "v.",
+    "zh": "談妥、議定（合約、價格）",
+    "def": "to reach an agreement on something",
+    "ex": "They negotiated a three-year contract.",
+    "exZh": "他們談妥了三年合約。",
+    "scene": "合約、報價"
+   },
+   {
+    "pos": "v.",
+    "zh": "順利通過、克服（障礙、困難）",
+    "def": "to successfully get past something difficult",
+    "ex": "The team negotiated several obstacles before launch.",
+    "exZh": "團隊在上線前克服了好幾個難關。",
+    "scene": "專案回顧"
+   },
+   {
+    "pos": "v.（金融）",
+    "zh": "兌現、轉讓（票據）",
+    "def": "to transfer or convert a cheque or bill",
+    "ex": "The bank refused to negotiate the cheque.",
+    "exZh": "銀行拒絕兌現這張支票。",
+    "scene": "財務、貿易"
+   }
+  ],
+  "syn": "bargain, discuss, work out",
+  "ant": "—",
+  "confuse": "negotiate with 人／negotiate 某事物（不加 about 也可）"
+ },
+ "circle back": {
+  "lang": "en",
+  "ph": "/ˈsɝː.kəl bæk/",
+  "level": "商務口語",
+  "forms": "circled back／circling back",
+  "senses": [
+   {
+    "pos": "phr. v.",
+    "zh": "（會議中）回頭再談、稍後再討論",
+    "def": "to return to a topic later",
+    "ex": "Let's circle back to the budget after the demo.",
+    "exZh": "Demo 之後我們再回頭談預算。",
+    "scene": "會議主持"
+   },
+   {
+    "pos": "phr. v.",
+    "zh": "之後再聯絡、回覆",
+    "def": "to contact someone again later with information",
+    "ex": "I'll circle back with you once I hear from legal.",
+    "exZh": "等法務回覆後我再跟你聯絡。",
+    "scene": "郵件、跟進"
+   },
+   {
+    "pos": "phr. v.",
+    "zh": "回到原點、重新檢視",
+    "def": "to go back to the starting point",
+    "ex": "We need to circle back to our original goal.",
+    "exZh": "我們需要回到最初的目標重新檢視。",
+    "scene": "策略討論"
+   }
+  ],
+  "syn": "follow up, revisit, get back to",
+  "ant": "—",
+  "confuse": "過度使用會被視為職場套話（corporate jargon）"
+ },
+ "wrap up": {
+  "lang": "en",
+  "ph": "/ræp ʌp/",
+  "level": "CEFR B1",
+  "forms": "wrapped up／wrapping up｜名詞 wrap-up",
+  "senses": [
+   {
+    "pos": "phr. v.",
+    "zh": "結束、收尾（會議、專案）",
+    "def": "to finish something",
+    "ex": "Let's wrap up the meeting by 3:30.",
+    "exZh": "我們 3:30 前把會議收尾。",
+    "scene": "會議主持"
+   },
+   {
+    "pos": "n.（wrap-up）",
+    "zh": "總結、摘要",
+    "def": "a summary",
+    "ex": "Here's a quick wrap-up of today's discussion.",
+    "exZh": "以下是今天討論的簡短總結。",
+    "scene": "會議記錄、郵件"
+   },
+   {
+    "pos": "phr. v.",
+    "zh": "包裝、包好",
+    "def": "to cover something in paper",
+    "ex": "Could you wrap it up as a gift?",
+    "exZh": "可以幫我包裝成禮物嗎？",
+    "scene": "購物"
+   },
+   {
+    "pos": "phr. v.",
+    "zh": "穿暖",
+    "def": "to put on warm clothes",
+    "ex": "Wrap up warm — it's cold outside.",
+    "exZh": "穿暖一點，外面很冷。",
+    "scene": "日常"
+   },
+   {
+    "pos": "be wrapped up in",
+    "zh": "全神貫注於",
+    "def": "to be very busy with or focused on",
+    "ex": "She's wrapped up in the product launch this week.",
+    "exZh": "她這週全心投入產品上市。",
+    "scene": "描述同事狀態"
+   }
+  ],
+  "syn": "conclude, finish, summarize",
+  "ant": "kick off, start",
+  "confuse": "wrap up（結束）vs. wrap-up（名詞，總結）"
+ },
+ "次第": {
+  "lang": "ja",
+  "ph": "しだい",
+  "level": "JLPT N2",
+  "forms": "〜次第／次第に／事の次第／式次第／〜次第です",
+  "senses": [
+   {
+    "pos": "接尾（動詞ます形＋次第）",
+    "zh": "一…就立刻",
+    "def": "〜したらすぐに",
+    "ex": "準備ができ次第、出発いたします。",
+    "exZh": "準備一好就出發。",
+    "scene": "承諾後續聯絡（商用高頻）"
+   },
+   {
+    "pos": "接尾（名詞＋次第）",
+    "zh": "取決於、全憑",
+    "def": "〜によって決まる",
+    "ex": "合否は面接の結果次第です。",
+    "exZh": "錄取與否取決於面試結果。",
+    "scene": "說明條件、前提"
+   },
+   {
+    "pos": "名詞（事の次第）",
+    "zh": "緣由、來龍去脈",
+    "def": "物事の経過・事情",
+    "ex": "事の次第をご説明いたします。",
+    "exZh": "向您說明事情的經過。",
+    "scene": "事故報告、致歉"
+   },
+   {
+    "pos": "名詞（〜次第です／次第で）",
+    "zh": "（書面）情況如此、特此…",
+    "def": "〜というわけです",
+    "ex": "以上のような次第で、発売を延期することとなりました。",
+    "exZh": "基於上述情況，決定延後發售。",
+    "scene": "說明信、道歉信結論"
+   },
+   {
+    "pos": "名詞（式次第）",
+    "zh": "程序、流程、議程",
+    "def": "物事を行う順序",
+    "ex": "式次第は受付でお配りします。",
+    "exZh": "典禮流程表將於報到處發放。",
+    "scene": "典禮、正式會議"
+   },
+   {
+    "pos": "副詞（次第に）",
+    "zh": "逐漸、漸漸",
+    "def": "だんだん",
+    "ex": "売上は次第に回復しています。",
+    "exZh": "營收正逐漸回升。",
+    "scene": "報告趨勢"
+   }
+  ],
+  "syn": "〜たらすぐ（口語）／〜によって／だんだん",
+  "ant": "—",
+  "confuse": "〜次第（一…就）的前句不能用過去式；〜次第です 是書面說明，不是「一…就」"
+ },
+ "査収": {
+  "lang": "ja",
+  "ph": "さしゅう",
+  "level": "商用書面",
+  "forms": "ご査収ください／ご査収のほど",
+  "senses": [
+   {
+    "pos": "名詞・サ変",
+    "zh": "查收（文件、款項、物品）",
+    "def": "よく調べて受け取ること",
+    "ex": "請求書を添付いたしましたので、ご査収ください。",
+    "exZh": "已附上請款單，敬請查收。",
+    "scene": "寄送附件、文件"
+   }
+  ],
+  "syn": "ご確認ください（較口語）",
+  "ant": "—",
+  "confuse": "只用於「需要對方確認內容」的文件或款項；單純通知用「ご確認ください」"
+ },
+ "基調": {
+  "lang": "ja",
+  "ph": "きちょう",
+  "level": "JLPT N1",
+  "forms": "基調講演／〜を基調とする",
+  "senses": [
+   {
+    "pos": "名詞",
+    "zh": "基本趨勢（經濟、市場）",
+    "def": "全体の基本的な傾向",
+    "ex": "市場では円安基調が続いている。",
+    "exZh": "市場持續日圓走弱的趨勢。",
+    "scene": "經濟新聞、市場報告"
+   },
+   {
+    "pos": "名詞（〜を基調とする）",
+    "zh": "基本方針、主軸、主色調",
+    "def": "根底にある考え方・色合い",
+    "ex": "白を基調としたデザインです。",
+    "exZh": "以白色為主色調的設計。",
+    "scene": "設計、方針說明"
+   },
+   {
+    "pos": "名詞（基調講演）",
+    "zh": "主題演講（keynote）",
+    "def": "会議の基本方針を示す講演",
+    "ex": "社長が基調講演を務めます。",
+    "exZh": "由社長擔任主題演講。",
+    "scene": "研討會、活動"
+   }
+  ],
+  "syn": "傾向、方針、トーン",
+  "ant": "—",
+  "confuse": "基調（基本傾向）≠ 基本（基礎）"
+ }
+}

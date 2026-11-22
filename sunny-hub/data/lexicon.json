@@ -1,0 +1,572 @@
+{
+ "updated": {
+  "fam": "2026-10-19",
+  "jlpt": "2026-10-19"
+ },
+ "fam": [
+  {
+   "r": [
+    "accept",
+    "acceptance",
+    "acceptable",
+    "acceptably",
+    "acceptance criteria 驗收標準"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "achieve",
+    "achievement",
+    "achievable",
+    "—",
+    "achieve a target 達成目標"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "analyze",
+    "analysis / analyst",
+    "analytical",
+    "analytically",
+    "in-depth analysis 深入分析"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "apply",
+    "application / applicant",
+    "applicable",
+    "—",
+    "where applicable 如適用"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "approve",
+    "approval",
+    "approved",
+    "—",
+    "pending approval 待核准"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "assess",
+    "assessment",
+    "assessable",
+    "—",
+    "risk assessment 風險評估"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "assume",
+    "assumption",
+    "assumed",
+    "—",
+    "based on the assumption that 基於…假設"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "attend",
+    "attendance / attendee",
+    "—",
+    "—",
+    "attendance rate 出席率"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "collaborate",
+    "collaboration / collaborator",
+    "collaborative",
+    "collaboratively",
+    "cross-team collaboration 跨部門合作"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "communicate",
+    "communication",
+    "communicative",
+    "—",
+    "internal communication 內部溝通"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "compete",
+    "competition / competitor",
+    "competitive",
+    "competitively",
+    "competitive advantage 競爭優勢"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "comply",
+    "compliance",
+    "compliant",
+    "—",
+    "in compliance with 遵循"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "consider",
+    "consideration",
+    "considerable / considerate",
+    "considerably",
+    "take into consideration 納入考量"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "consult",
+    "consultation / consultant",
+    "consultative",
+    "—",
+    "upon consultation 經諮詢後"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "decide",
+    "decision",
+    "decisive",
+    "decisively",
+    "make a decision 做決定"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "deliver",
+    "delivery / deliverable",
+    "—",
+    "—",
+    "key deliverables 主要交付項目"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "depend",
+    "dependence / dependency",
+    "dependent / dependable",
+    "dependably",
+    "dependent on 取決於"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "develop",
+    "development / developer",
+    "developmental",
+    "—",
+    "product development 產品開發"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "distribute",
+    "distribution / distributor",
+    "distributive",
+    "—",
+    "distribution channel 通路"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "estimate",
+    "estimate / estimation",
+    "estimated",
+    "—",
+    "rough estimate 粗估"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "expand",
+    "expansion",
+    "expansive",
+    "expansively",
+    "market expansion 市場擴張"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "expect",
+    "expectation",
+    "expected",
+    "unexpectedly",
+    "meet expectations 符合預期"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "finance",
+    "finance / financing",
+    "financial",
+    "financially",
+    "financially viable 財務可行"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "implement",
+    "implementation",
+    "implementable",
+    "—",
+    "implementation plan 執行計畫"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "improve",
+    "improvement",
+    "improved",
+    "—",
+    "room for improvement 改善空間"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "inform",
+    "information",
+    "informative",
+    "—",
+    "for your information (FYI)"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "invest",
+    "investment / investor",
+    "—",
+    "—",
+    "return on investment (ROI)"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "maintain",
+    "maintenance",
+    "maintainable",
+    "—",
+    "scheduled maintenance 定期維護"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "manage",
+    "management / manager",
+    "manageable / managerial",
+    "—",
+    "manageable workload 可負荷工作量"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "motivate",
+    "motivation",
+    "motivated / motivational",
+    "—",
+    "highly motivated 積極主動"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "negotiate",
+    "negotiation / negotiator",
+    "negotiable",
+    "—",
+    "the price is negotiable 價格可議"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "operate",
+    "operation / operator",
+    "operational",
+    "operationally",
+    "operational cost 營運成本"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "prioritize",
+    "priority",
+    "prior",
+    "—",
+    "top priority 最優先"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "produce",
+    "product / production / productivity",
+    "productive",
+    "productively",
+    "productivity tools 生產力工具"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "profit",
+    "profit / profitability",
+    "profitable",
+    "profitably",
+    "profit margin 利潤率"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "propose",
+    "proposal",
+    "proposed",
+    "—",
+    "submit a proposal 提交提案"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "reduce",
+    "reduction",
+    "reducible",
+    "—",
+    "cost reduction 降低成本"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "rely",
+    "reliance / reliability",
+    "reliable",
+    "reliably",
+    "reliable supplier 可靠供應商"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "require",
+    "requirement",
+    "required / requisite",
+    "—",
+    "meet the requirements 符合需求"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "respond",
+    "response",
+    "responsive",
+    "responsively",
+    "prompt response 迅速回應"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "satisfy",
+    "satisfaction",
+    "satisfactory / satisfied",
+    "satisfactorily",
+    "customer satisfaction 顧客滿意度"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "strategize",
+    "strategy",
+    "strategic",
+    "strategically",
+    "strategic partnership 策略合作"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "succeed",
+    "success / successor",
+    "successful / successive",
+    "successfully",
+    "success rate 成功率"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "sustain",
+    "sustainability",
+    "sustainable",
+    "sustainably",
+    "sustainable growth 永續成長"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "verify",
+    "verification",
+    "verifiable",
+    "verifiably",
+    "identity verification 身分驗證"
+   ],
+   "added": "2026-09-30"
+  },
+  {
+   "r": [
+    "—",
+    "efficiency",
+    "efficient",
+    "efficiently",
+    "improve efficiency 提升效率"
+   ],
+   "added": "2026-09-30"
+  }
+ ],
+ "jlpt": {
+  "N1": [
+   {
+    "added": "2026-09-30",
+    "g": "〜を余儀なくされる",
+    "m": "被迫…",
+    "ex": "計画の変更を余儀なくされた。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜をもって",
+    "m": "以…（期限／方式）",
+    "ex": "本日をもって退職いたします。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜に即して",
+    "m": "依照…",
+    "ex": "実情に即して判断いたします。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜いかんによらず",
+    "m": "無論…如何",
+    "ex": "理由のいかんによらず、返金はいたしかねます。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜べく",
+    "m": "為了…而",
+    "ex": "目標を達成すべく、全力を尽くします。"
+   }
+  ],
+  "N2": [
+   {
+    "added": "2026-09-30",
+    "g": "〜次第",
+    "m": "一…就立刻",
+    "ex": "確認でき次第、ご連絡いたします。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜に基づいて",
+    "m": "根據…",
+    "ex": "契約に基づいて対応いたします。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜につき",
+    "m": "因為…（公告）",
+    "ex": "工事中につき、ご迷惑をおかけします。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜上で",
+    "m": "在…之後",
+    "ex": "検討した上で、お返事いたします。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜にかかわらず",
+    "m": "不論…",
+    "ex": "経験の有無にかかわらず、応募可能です。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜を踏まえて",
+    "m": "根據…考量",
+    "ex": "ご意見を踏まえて、修正いたしました。"
+   }
+  ],
+  "N3": [
+   {
+    "added": "2026-09-30",
+    "g": "〜ようにする",
+    "m": "盡量做到…",
+    "ex": "毎朝メールを確認するようにしています。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜ことになる",
+    "m": "（決定）變成…",
+    "ex": "来月から大阪に異動することになりました。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜について",
+    "m": "關於…",
+    "ex": "新製品についてご説明します。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜させていただく",
+    "m": "謙讓地做…",
+    "ex": "資料を送付させていただきます。"
+   },
+   {
+    "added": "2026-09-30",
+    "g": "〜ことにする",
+    "m": "（自己）決定…",
+    "ex": "今回は見送ることにしました。"
+   }
+  ]
+ }
+}

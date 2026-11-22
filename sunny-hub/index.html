@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sunny Hub · 個人資訊中樞</title>
+<style>
+:root{
+  --bg:#f5eee3;--bg2:#ece2d3;--card:#fffaf2;--card2:#fbf3e6;--line:#e2d3bd;
+  --txt:#3d2e23;--sub:#76604c;--mut:#a68f78;--brown:#8b5e3c;
+  --en:#4f7489;--ja:#b05d6f;--anime:#c0663f;--comic:#3f8a86;--games:#6f8a3a;--novel:#c08a1e;--news:#7b5a8a;--dict:#8b5e3c;--vocab:#5c7a5a;
+  --gold:#c08a1e;--r:14px;--sh:0 2px 10px rgba(110,80,50,.08);
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{font-family:"Segoe UI","PingFang TC","Microsoft JhengHei",system-ui,sans-serif;background:var(--bg);color:var(--txt);font-size:14px}
+a{color:var(--en)}
+button,input,select,textarea{font:inherit;color:inherit}
+.preview-bar{background:#8b5e3c;color:#fff8ec;font-size:12.5px;padding:7px 14px;text-align:center}
+.preview-bar b{color:#ffe0a3}
+.app{display:flex;min-height:calc(100vh - 32px)}
+.side{width:214px;flex:0 0 214px;background:var(--bg2);border-right:1px solid var(--line);padding:16px 10px;position:sticky;top:0;height:100vh;overflow:auto}
+.logo{font-size:19px;font-weight:800;padding:4px 10px 14px;color:var(--brown)}
+.logo small{display:block;font-size:11px;color:var(--mut);font-weight:400;margin-top:2px}
+.nav{display:flex;flex-direction:column;gap:3px}
+.nav-btn{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:10px;border:none;background:none;cursor:pointer;text-align:left;color:var(--sub)}
+.nav-btn:hover{background:var(--card2)}
+.nav-btn.on{background:var(--card);color:var(--brown);font-weight:700;box-shadow:var(--sh)}
+.nav-btn .ic{width:20px;text-align:center}
+.nav-btn .n{margin-left:auto;font-size:11px;color:var(--mut)}
+.nav-sep{height:1px;background:var(--line);margin:10px 6px}
+.main{flex:1;min-width:0;padding:16px 22px 90px}
+.top{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:12px}
+.top h1{font-size:20px;margin:0;color:var(--brown)}
+.top .upd{font-size:12px;color:var(--mut)}
+.search{flex:1;min-width:200px;position:relative;margin-left:auto;max-width:420px}
+.search input,.inp{width:100%;padding:10px 12px 10px 34px;border-radius:10px;border:1px solid var(--line);background:var(--card);font-size:14px;outline:none}
+.inp{padding-left:12px}
+.search input:focus,.inp:focus{border-color:var(--brown)}
+.search::before{content:"🔎";position:absolute;left:10px;top:50%;transform:translateY(-50%);font-size:13px}
+.subtabs{display:flex;gap:6px;flex-wrap:wrap;margin:4px 0 10px}
+.st{padding:8px 15px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--sub);cursor:pointer}
+.st.on{color:#fff;font-weight:700;border-color:transparent;background:var(--c,var(--brown))}
+.bar{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:6px 0 12px}
+.chip{padding:5px 11px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--sub);font-size:12.5px;cursor:pointer;white-space:nowrap}
+.chip.on{background:var(--c,var(--brown));border-color:transparent;color:#fff;font-weight:600}
+.chip .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--c);margin-right:5px;vertical-align:1px}
+.chip.on .dot{background:#fff}
+.lbl{font-size:12px;color:var(--mut);margin:0 2px 0 6px}
+.pager{display:flex;align-items:center;gap:4px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:3px}
+.pager button{border:none;background:none;cursor:pointer;padding:5px 9px;border-radius:7px;color:var(--sub)}
+.pager button:hover{background:var(--bg2)}
+.pager button:disabled{opacity:.3;cursor:default}
+.pager .d{min-width:118px;text-align:center;font-weight:700;font-size:13px}
+.cnt{margin-left:auto;color:var(--mut);font-size:12.5px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:13px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:14px 15px 11px;position:relative;overflow:hidden;box-shadow:var(--sh)}
+.card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--c)}
+.card .k{font-size:11px;color:var(--mut);letter-spacing:.5px;margin-bottom:3px}
+.card h3{margin:0 0 4px;font-size:16px;line-height:1.4;padding-right:30px}
+.card h3 small{font-size:12px;color:var(--mut);font-weight:400}
+.card .meta{font-size:12.5px;color:var(--sub);margin-bottom:6px}
+.card .desc{font-size:13.3px;line-height:1.7;margin:5px 0 8px}
+/* 圖片 */
+.media{display:flex;gap:12px;align-items:flex-start}
+.media .mt{flex:1;min-width:0}
+.cover{flex:0 0 98px;width:98px;aspect-ratio:3/4;border-radius:10px;object-fit:cover;background:var(--bg2);cursor:zoom-in;box-shadow:0 2px 8px rgba(60,40,20,.18)}
+.banner{width:calc(100% + 30px);margin:-14px -15px 10px;aspect-ratio:16/7;object-fit:cover;display:block;cursor:zoom-in;background:var(--bg2)}
+.shots{display:flex;gap:6px;margin:6px 0}
+.shots img{flex:1;min-width:0;aspect-ratio:16/9;object-fit:cover;border-radius:7px;cursor:zoom-in;background:var(--bg2)}
+.imgsrc{font-size:10.5px;color:var(--mut);margin-top:-4px;margin-bottom:6px}
+.lightbox{position:fixed;inset:0;background:rgba(40,28,18,.86);display:none;align-items:center;justify-content:center;flex-direction:column;z-index:200;padding:20px;cursor:zoom-out}
+.lightbox.on{display:flex}
+.lightbox img{max-width:min(92vw,900px);max-height:80vh;border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,.4)}
+.lightbox div{color:#fff8ec;margin-top:10px;font-size:13px}
+.bd{display:flex;flex-wrap:wrap;gap:5px;margin:4px 0 6px}
+.b{font-size:11.5px;padding:2px 8px;border-radius:7px;background:var(--bg2);color:var(--sub)}
+.b.c{background:var(--c);color:#fff;font-weight:600}
+.b.soft{background:color-mix(in srgb,var(--c) 16%,#fff);color:var(--c);font-weight:600}
+.b.new{background:#c0392b;color:#fff;font-weight:700}
+.b.up{background:#e6efd9;color:#4d6b23}
+.b.pick{background:#f6e3b4;color:#8a5f00}
+.lk{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
+.lk a,.lk button,.mini{font-size:12px;padding:3px 9px;border-radius:7px;background:var(--bg2);border:1px solid var(--line);text-decoration:none;color:var(--brown);cursor:pointer;white-space:nowrap}
+.mini.added{background:#e3ecdc;color:#4d6b23;border-color:#c9dbbd}
+.pts{margin:4px 0 6px;padding-left:18px;font-size:13px;line-height:1.65}
+.pts li{margin-bottom:2px}
+.ptitle{font-size:12px;font-weight:700;color:var(--c);margin-top:6px}
+.info{display:grid;grid-template-columns:auto 1fr;gap:3px 10px;font-size:12.8px;margin:6px 0;background:var(--card2);border-radius:9px;padding:8px 10px}
+.info dt{color:var(--mut);white-space:nowrap}
+.info dd{margin:0}
+.more{font-size:12px;color:var(--brown);cursor:pointer;background:none;border:none;padding:0;font-weight:600}
+.full{display:none;margin-top:6px;padding:9px 11px;background:var(--card2);border-radius:9px;font-size:13px;line-height:1.75}
+.card.open .full{display:block}
+.fav{position:absolute;top:9px;right:9px;border:none;background:none;font-size:20px;cursor:pointer;color:var(--mut);line-height:1;z-index:2}
+.fav.on{color:var(--gold)}
+.banner~.fav,.card.g .fav{background:rgba(255,250,242,.85);border-radius:50%;width:30px;height:30px}
+.foot{font-size:11px;color:var(--mut);margin-top:7px;display:flex;justify-content:space-between}
+.sec{display:flex;align-items:center;gap:8px;margin:22px 0 10px}
+.sec h2{font-size:16px;margin:0;color:var(--brown)}
+.sec .go{margin-left:auto;font-size:12.5px;color:var(--brown);cursor:pointer;background:none;border:none}
+.picks{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:12px}
+.pick{background:linear-gradient(135deg,#fbecd0,#f6e0c8);border:1px solid #e8c99a;border-radius:var(--r);padding:13px 14px;position:relative;box-shadow:var(--sh)}
+.pick .no{position:absolute;right:12px;top:6px;font-size:32px;font-weight:900;color:rgba(139,94,60,.18)}
+.pick h3{margin:4px 0 6px;font-size:15px;line-height:1.45;padding-right:30px}
+.pick ul{margin:0;padding-left:17px;font-size:12.8px;line-height:1.6}
+.stats{display:grid;grid-template-columns:repeat(auto-fill,minmax(125px,1fr));gap:9px}
+.stat{background:var(--card);border:1px solid var(--line);border-top:4px solid var(--c);border-radius:12px;padding:11px;cursor:pointer;box-shadow:var(--sh)}
+.stat .v{font-size:22px;font-weight:800;color:var(--c)}
+.stat .l{font-size:12px;color:var(--sub)}
+.stat .d{font-size:11px;color:var(--mut)}
+.empty{padding:50px 10px;text-align:center;color:var(--mut)}
+mark{background:#f7d98b;color:inherit;border-radius:3px;padding:0 1px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px 18px;margin-bottom:14px;box-shadow:var(--sh);position:relative}
+.panel h3{margin:0 0 10px;font-size:15px;color:var(--brown)}
+.panel h4{margin:14px 0 6px;font-size:13.5px}
+.panel p{margin:4px 0 8px;line-height:1.7;color:var(--sub);font-size:13px}
+table.t{width:100%;border-collapse:collapse;font-size:13px}
+table.t th,table.t td{border-bottom:1px solid var(--line);padding:7px 6px;text-align:left;vertical-align:top}
+table.t th{color:var(--sub);font-weight:600;background:var(--card2)}
+table.t td.w{cursor:pointer;color:var(--brown);font-weight:600}
+table.t td.w:hover{text-decoration:underline}
+table.t td.act{white-space:nowrap;width:1%}
+.tagw{display:inline-block;font-size:11px;padding:1px 7px;border-radius:6px;background:#e7e0f0;color:#5d4a7a;margin-right:4px}
+.tags{display:inline-block;font-size:11px;padding:1px 7px;border-radius:6px;background:#e3ecdc;color:#4d6b23;margin-right:4px}
+.scroll{overflow-x:auto}
+.panel code,.panel pre{font-family:Consolas,monospace;font-size:12.5px}
+.panel pre{background:var(--card2);padding:10px 12px;border-radius:9px;overflow:auto;line-height:1.55;margin:0}
+.flow{display:flex;align-items:stretch;gap:8px;flex-wrap:wrap}
+.flow .box{flex:1;min-width:140px;background:var(--card2);border:1px solid var(--line);border-radius:11px;padding:10px;font-size:12.5px;line-height:1.5}
+.flow .box b{display:block;font-size:13.5px;margin-bottom:3px;color:var(--brown)}
+.flow .arr{align-self:center;color:var(--mut);font-size:18px}
+.ok{color:var(--games);font-weight:700} .q{color:var(--gold);font-weight:700} .ng{color:#b0413e;font-weight:700}
+.tools{display:flex;gap:8px;flex-wrap:wrap;margin:4px 0 12px;align-items:center}
+.btn{padding:8px 14px;border-radius:9px;border:1px solid var(--line);background:var(--card);cursor:pointer;font-size:13px}
+.btn.pri{background:var(--brown);color:#fff;border-color:transparent;font-weight:600}
+.btn.grn{background:var(--vocab);color:#fff;border-color:transparent;font-weight:600}
+.btn:hover{border-color:var(--brown)}
+.wk{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:12px}
+.dictsites{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}
+.def{border-left:4px solid var(--c);padding:8px 12px;background:var(--card2);border-radius:0 9px 9px 0;margin:8px 0}
+.def .pos{display:inline-block;font-size:11.5px;background:var(--c);color:#fff;border-radius:6px;padding:1px 7px;margin-right:6px}
+.conj{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:8px;margin-top:10px}
+.conj div{background:var(--card2);border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.conj small{display:block;color:var(--mut);font-size:11.5px}
+.conj b{font-size:16px}
+.say{border:none;background:none;cursor:pointer;font-size:14px;padding:0 3px}
+/* 單字庫 */
+.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:11px}
+.vc{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 13px;box-shadow:var(--sh);border-left:5px solid var(--c)}
+.vc .term{font-size:17px;font-weight:700}
+.vc .rd{font-size:12px;color:var(--mut);margin-left:6px}
+.vc .mn{font-size:13.3px;margin:4px 0}
+.vc .ex{font-size:12.5px;color:var(--sub);background:var(--card2);border-radius:8px;padding:6px 8px;margin:5px 0}
+.vc .row{display:flex;gap:5px;flex-wrap:wrap;align-items:center;margin-top:6px}
+.lv{font-size:11.5px;padding:2px 9px;border-radius:999px;border:1px solid var(--line);background:var(--card);cursor:pointer}
+.lv.on.l0{background:#c0663f;color:#fff;border-color:transparent}
+.lv.on.l1{background:#c08a1e;color:#fff;border-color:transparent}
+.lv.on.l2{background:#5c7a5a;color:#fff;border-color:transparent}
+.flash{max-width:520px;margin:10px auto;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:34px 24px;text-align:center;box-shadow:var(--sh)}
+.flash .ft{font-size:30px;font-weight:800;margin-bottom:6px}
+.flash .fb{display:none;margin-top:14px;font-size:15px;line-height:1.7}
+.flash.show .fb{display:block}
+.form2{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px}
+.toast{position:fixed;left:50%;bottom:80px;transform:translateX(-50%);background:#3d2e23e6;color:#fff;padding:9px 16px;border-radius:9px;font-size:13px;display:none;z-index:99}
+.bnav{display:none}
+@media(max-width:820px){
+  .side{display:none}
+  .main{padding:12px 12px 90px}
+  .bnav{display:flex;position:fixed;bottom:0;left:0;right:0;background:var(--card);border-top:1px solid var(--line);z-index:50;padding:4px 2px env(safe-area-inset-bottom);overflow-x:auto}
+  .bnav button{flex:0 0 auto;min-width:56px;border:none;background:none;color:var(--mut);font-size:10.5px;padding:6px 4px;cursor:pointer}
+  .bnav button .ic{display:block;font-size:19px}
+  .bnav button.on{color:var(--brown);font-weight:700}
+  .grid{grid-template-columns:1fr}
+  .search{max-width:none;order:3;flex-basis:100%}
+  .cover{flex-basis:84px;width:84px}
+}
+
+/* v4 */
+.search{display:flex;align-items:stretch;gap:0;max-width:520px}
+.search::before{content:none}
+.search select{border:1px solid var(--line);border-right:none;border-radius:10px 0 0 10px;background:var(--card2);padding:0 8px;font-size:13px;color:var(--brown);max-width:150px;outline:none}
+.search input{border-radius:0 10px 10px 0;padding-left:12px}
+.search .qgo{border:1px solid var(--line);border-left:none;background:var(--brown);color:#fff;border-radius:0 10px 10px 0;padding:0 12px;cursor:pointer}
+.search:has(.qgo[style=""]) input{border-radius:0}
+.panel.coll .ph{cursor:pointer;user-select:none;padding-right:34px}
+.panel.coll .chev{display:inline-block;width:18px;color:var(--mut)}
+.panel.coll.closed{padding-bottom:6px}
+.panel.coll.closed .pb{display:none}
+.panel.coll>.fav{top:12px;right:12px}
+table.lim tr.x{display:none}
+table.lim.filtering tr.x{display:table-row}
+.lexbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;font-size:12.5px;color:var(--sub);background:var(--card2);border-radius:10px;padding:8px 10px;margin-bottom:8px}
+.ehead{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:4px}
+.eword{font-size:22px;font-weight:800}
+.eph{color:var(--mut);font-size:14px}
+.eforms{font-size:12.5px;color:var(--sub);margin-bottom:8px}
+.sense{display:flex;gap:10px;padding:10px 0;border-top:1px dashed var(--line)}
+.sense .sn{flex:0 0 26px;height:26px;border-radius:50%;background:var(--card2);border:1px solid var(--line);display:flex;align-items:center;justify-content:center;font-weight:700;color:var(--brown);font-size:13px}
+.sense .sbody{flex:1;min-width:0;font-size:13.5px;line-height:1.6}
+.sense .pos{display:inline-block;font-size:11.5px;background:var(--c);color:#fff;border-radius:6px;padding:1px 7px;margin-right:6px}
+.sense .szh{font-size:15px}
+.sense .sdef{color:var(--sub);font-size:12.5px}
+.sense .sex{background:var(--card2);border-radius:8px;padding:6px 9px;margin:5px 0;font-size:13px}
+.sense .sex div{color:var(--sub);font-size:12.5px}
+.sense .srow{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.scene{font-size:11.5px;background:#f3e6cf;color:#8a5f00;border-radius:6px;padding:2px 8px}
+.srcline{font-size:11px;color:var(--mut);margin-top:8px}
+.hint{background:#fbf0dc;border:1px solid #ecd3a4;border-radius:10px;padding:10px 12px;font-size:12.8px;margin-top:8px;line-height:1.8}
+.pat2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.wline{display:flex;gap:8px;align-items:flex-start;padding:6px 0;border-bottom:1px dashed var(--line);font-size:13.3px}
+.lstar{border:none;background:none;cursor:pointer;font-size:17px;color:var(--mut);line-height:1;padding:0}
+.lstar.on{color:var(--gold)}
+@media(max-width:820px){.pat2{grid-template-columns:1fr}.search select{max-width:110px}}
+</style>
+</head>
+<body>
+<div class="preview-bar" id="seedbar" style="display:none">📦 目前顯示的是<b>範例資料</b>：到 GitHub › Actions 手動執行一次「Sunny Hub 每日更新」，就會換成真實內容。</div>
+<div class="app">
+  <aside class="side">
+    <div class="logo">☀️ Sunny Hub<small>個人資訊中樞 · 語言／ACGN／新聞</small></div>
+    <nav class="nav" id="nav"></nav>
+  </aside>
+  <main class="main">
+    <div class="top">
+      <h1 id="ttl">首頁</h1>
+      <span class="upd" id="upd"></span>
+      <div class="search"><select id="qs" title="搜尋範圍"></select><input id="q" type="search" placeholder="本站查詢：作品、作者、文法、標籤、來源…" autocomplete="off"><button id="qgo" class="qgo" style="display:none" title="另開分頁搜尋">↗</button></div>
+    </div>
+    <div id="view"></div>
+  </main>
+</div>
+<nav class="bnav" id="bnav"></nav>
+<div class="lightbox" id="lb"><img id="lbimg" alt=""><div id="lbcap"></div></div>
+<div class="toast" id="toast"></div>
+
+<script>
+/* ================= 設定 ================= */
+const PREVIEW = false;   // 正式版改 false → 讀 data/*.json
+const MODS = {
+  home:{name:"首頁",ic:"🏠"},
+  lang:{name:"語言學習",ic:"🗣️",cats:{en:{n:"商用英文",c:"var(--en)"},ja:{n:"日文 商用・JLPT",c:"var(--ja)"}}},
+  dict:{name:"字典・文法",ic:"📖"},
+  acgn:{name:"ACGN",ic:"🎴",cats:{anime:{n:"動畫",c:"var(--anime)"},comic:{n:"漫畫",c:"var(--comic)"},games:{n:"遊戲",c:"var(--games)"},novel:{n:"小說",c:"var(--novel)"}}},
+  news:{name:"ACGN 新聞",ic:"📰",cats:{news:{n:"新聞",c:"var(--news)"}}},
+  fav:{name:"珍藏",ic:"★"},
+  weekly:{name:"週報",ic:"📊",cats:{weekly:{n:"週報",c:"var(--brown)"}}},
+  vocab:{name:"單字庫",ic:"📝"},
+  arch:{name:"架構說明",ic:"🧭"},
+};
+const NEWSC={"動漫":"var(--anime)","漫畫":"var(--comic)","遊戲":"var(--games)","小說":"var(--novel)","業界":"var(--news)"};
+const FILTERS = {
+  en:{key:"category",opts:["商務Email","會議英文","談判協商","簡報英文","報告撰寫","人脈拓展","商業詞彙","商用慣用語"]},
+  ja:{key:"category",opts:["ニュース","文法","語彙","ビジネス","敬語"],key2:"level",lbl2:"JLPT",opts2:[["N1","N1"],["N2","N2"],["N3","N3"]]},
+  anime:{key:"season_type",opts:[["current","本季"],["next","下季"],["prev","上季"]]},
+  comic:{key:"origin",opts:["日漫","韓漫","連載更新"]},
+  games:{key:"platform",opts:["PC/Steam","手機","Indie"]},
+  novel:{key:"origin",opts:["華文網文","韓國網路小說"],key2:"status",lbl2:"狀態",opts2:[["連載中","連載中"],["已完結","已完結"]]},
+  news:{key:"category",opts:Object.keys(NEWSC),colors:NEWSC,key2:"origin",lbl2:"地區",opts2:[["TW","台灣"],["INTL","國際"]]},
+};
+
+/* ================= 示意圖片（Preview 用；正式版換成真實封面/截圖） ================= */
+const PAL={anime:["#c0663f","#e9a46c"],comic:["#3f8a86","#9fcfc2"],games:["#6f8a3a","#c5d48a"],novel:["#c08a1e","#f0d38a"]};
+function art(title,cat,w,h,seed){
+  const [a,b]=PAL[cat]||["#8b5e3c","#e2c8a8"];const s=(seed||0)%5;
+  const t=esc(title.replace(/（範例）/,"")).slice(0,10);
+  const shapes=[`<circle cx="${w*.75}" cy="${h*.28}" r="${w*.22}" fill="#fff" opacity=".22"/>`,`<path d="M0 ${h*.72} Q${w*.5} ${h*.5} ${w} ${h*.7} V${h} H0Z" fill="#fff" opacity=".2"/>`,`<rect x="${w*.1}" y="${h*.12}" width="${w*.8}" height="${h*.45}" rx="12" fill="#fff" opacity=".16"/>`,`<polygon points="${w*.5},${h*.1} ${w*.9},${h*.65} ${w*.1},${h*.65}" fill="#fff" opacity=".18"/>`,`<circle cx="${w*.3}" cy="${h*.4}" r="${w*.3}" fill="#fff" opacity=".15"/><circle cx="${w*.75}" cy="${h*.6}" r="${w*.18}" fill="#fff" opacity=".2"/>`][s];
+  const fs=Math.round(Math.min(w,h)*.11);
+  const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${a}"/><stop offset="1" stop-color="${b}"/></linearGradient></defs><rect width="${w}" height="${h}" fill="url(#g)"/>${shapes}<text x="50%" y="${h*.84}" font-family="Microsoft JhengHei,PingFang TC,sans-serif" font-size="${fs}" font-weight="700" fill="#fff" text-anchor="middle">${t}</text></svg>`;
+  return "data:image/svg+xml;charset=utf-8,"+encodeURIComponent(svg);
+}
+const FALLBACK=(t,c,w,h)=>art(t,c,w,h,0);
+
+/* ================= 範例資料 ================= */
+function ds(n){const d=new Date();d.setDate(d.getDate()-n);return d.toISOString().slice(0,10)}
+function mockData(){
+  const it=[];let i=0;
+  const push=(m,c,day,o)=>it.push(Object.assign({id:`${c}_${i++}`,mod:m,cat:c,added:ds(day),updated:ds(Math.max(0,day-1))},o));
+  const enT=[["Following up after a stalled negotiation","談判協商","I wanted to circle back on our discussion last week and see if there's room to move on the delivery timeline.","想針對上週的討論再跟您確認，看看交期上是否還有調整空間。",["circle back = 回頭再談（比 follow up 口語）","room to move = 有讓步空間","I wanted to… 讓語氣委婉"],"中級","Harvard Business Review","circle back"],
+    ["Opening a meeting with a clear agenda","會議英文","Let's kick things off. We have three items today, and I'd like to wrap up by 3:30.","我們開始吧。今天有三個議題，希望在 3:30 前結束。",["kick things off = 開始會議","wrap up = 收尾","先講議題數量，掌控節奏"],"初級","BBC Learning English","wrap up"],
+    ["Writing a concise status update email","商務Email","Quick update: the beta is on track, but QA flagged two blockers we're addressing this week.","快速更新：Beta 版進度正常，但 QA 標出兩個阻礙問題，本週處理中。",["Quick update: 開頭直接進重點","flag = 標記問題","on track / blockers 對比"],"中級","Harvard Business Review","blocker"],
+    ["Presenting data without overwhelming","簡報英文","Rather than walk through every number, I'll focus on the two trends that matter most.","與其逐一說明每個數字，我會聚焦在最重要的兩個趨勢。",["Rather than…, I'll… 轉折句型","walk through = 逐步說明","先聲明重點數量"],"高級","BBC Learning English","walk through"]];
+  enT.forEach((t,k)=>[0,1,2,3,4,5,6].forEach(d=>{if((d+k)%2===0)push("lang","en",d,{title:t[0],category:t[1],original:t[2],translation:t[3],points:t[4],difficulty:t[5],source:t[6],url:"https://www.bbc.co.uk/learningenglish",dictWord:t[7]})}));
+  const jaT=[["〜を余儀なくされる","文法","N1","台風の影響で、イベントは中止を余儀なくされた。","因颱風影響，活動被迫取消。",["【N1文法】〜を余儀なくされる＝不得不、被迫","【商用場景】說明不可抗力的延期","【例句對照】予定変更を余儀なくされました"],"余儀ない"],
+    ["ご査収のほどよろしくお願いいたします","ビジネス","N2","資料を添付いたしましたので、ご査収のほどよろしくお願いいたします。","已附上資料，敬請查收。",["【商用場景】寄送附件的固定結尾","【語彙】査収＝查收","比「ご確認ください」更正式"],"査収"],
+    ["〜につき（理由・通知）","文法","N2","本日は棚卸しにつき、午後3時で閉店いたします。","本日因盤點，下午 3 點打烊。",["【N2文法】〜につき＝因為（公告、通知用）","【商用場景】公告、門市告示、郵件主旨","【例句對照】工事中につき、通行止め"],"につき"],
+    ["〜させていただきます","敬語","N3","明日はお休みをいただきますので、田中が対応させていただきます。","明天我請假，由田中為您處理。",["【N3文型】使役＋いただく＝謙讓表達","【商用場景】交接、代理回覆","⚠ 過度使用會顯得囉嗦，正式文件可改「いたします」"],"させていただく"],
+    ["〜次第（〜しだい）","文法","N2","詳細が決まり次第、改めてご連絡いたします。","細節一確定，會再與您聯絡。",["【N2文法】動詞ます形＋次第＝一…就立刻","【商用場景】承諾後續聯絡","【例句對照】到着次第、お電話いたします"],"次第"],
+    ["円安が続く背景","ニュース","N1","市場では円安基調が続いており、輸入企業のコスト負担が増している。","市場持續日圓走弱，進口企業成本負擔增加。",["【語彙】基調＝基本趨勢","【例句對照】〜が増している＝持續增加中","新聞常用「〜を受けて」"],"基調"],
+    ["お手数ですが","敬語","N3","お手数ですが、ご署名のうえご返送ください。","麻煩您簽名後寄回。",["【N3商用】請託前的緩衝語（クッション言葉）","類似：恐れ入りますが／差し支えなければ","【例句對照】お手数をおかけしますが"],"手数"]];
+  jaT.forEach((t,k)=>[0,1,2,4,6].forEach(d=>{if((d+k)%2===0||d===0)push("lang","ja",d,{title:t[0],category:t[1],level:t[2],original:t[3],translation:t[4],points:t[5],tags:["💼 商用"],source:["Tofugu","JapanesePod101","NHK"][k%3],url:"https://www.tofugu.com/",dictWord:t[6]})}));
+  const W=(...a)=>a.map(w=>({name:w[0],url:w[1]}));
+  const an=[{title:"（範例）星海的回聲",title_orig:"星海のエコー",studio:"範例動畫工作室",season_type:"current",latest:"第7話",synopsis:"少年與失憶的星艦 AI 在廢棄航道上尋找故鄉，每一集解開一段 AI 遺失的記憶。",original:"原創動畫",broadcast:"每週六 23:30（日本）",episodes:"預定 12 話",hook:"作畫穩定、太空場景極美，前三集鋪陳後第 5 話起劇情急轉。",tags:["科幻","冒險","原創"],watch:W(["巴哈姆特動畫瘋","https://ani.gamer.com.tw/"],["Netflix","https://www.netflix.com/"])},
+    {title:"（範例）放學後的料理研究社",title_orig:"放課後料理研究部",studio:"範例工作室B",season_type:"current",latest:"第8話",synopsis:"面臨廢社危機的料理社，靠一道又一道家常菜收服學生會。",original:"漫畫改編（全 6 卷）",broadcast:"每週四 24:00",episodes:"預定 12 話",hook:"療癒系日常，附真實食譜，適合下班放空。",tags:["日常","美食"],watch:W(["Muse 木棉花","https://www.youtube.com/@MuseChinese"])},
+    {title:"（範例）劍與魔法的稅務官",title_orig:"剣と魔法の税務官",studio:"範例工作室C",season_type:"next",latest:"下季開播",synopsis:"轉生到異世界的會計師，以查帳揭開王國的財政陰謀。",original:"輕小說改編",broadcast:"預定下季",episodes:"未公布",hook:"罕見的「財務」題材異世界，原作人氣高。",tags:["異世界","喜劇","職場"],watch:W(["巴哈姆特動畫瘋","https://ani.gamer.com.tw/"])},
+    {title:"（範例）夏日終點站",title_orig:"夏の終着駅",studio:"範例工作室D",season_type:"prev",latest:"完結（全12話）",synopsis:"鄉間小站裡交錯的三段夏天戀情。",original:"原創動畫",broadcast:"已完結",episodes:"全 12 話",hook:"適合一次追完，配樂評價很高。",tags:["戀愛","青春"],watch:W(["Crunchyroll","https://www.crunchyroll.com/"])}];
+  an.forEach((a,k)=>[k,k+2].forEach(d=>push("acgn","anime",d,Object.assign({season:a.season_type==="next"?"2027 冬":a.season_type==="prev"?"2026 夏":"2026 秋",image:art(a.title,"anime",300,400,k),imageSrc:"AniList"},a))));
+  const cm=[{title:"（範例）黑潮之刃",author:"範例作者A",origin:"日漫",latest:"第42話",status:"連載中",freq:"週刊（每週一）",synopsis:"海賊之子為奪回故鄉向帝國艦隊宣戰，與昔日仇敵組成同盟。",hook:"戰鬥分鏡魄力十足，第 40 話後進入新篇章，現在入坑剛好。",tags:["熱血","冒險"],watch:W(["少年Jump+","https://shonenjumpplus.com/"])},
+    {title:"（範例）第二次的社長千金",author:"샘플작가",origin:"韓漫",latest:"第88話",status:"連載中",freq:"每週六更新",synopsis:"重生回十年前的財閥千金，決定改寫家族命運並揭穿陰謀。",hook:"經典重生復仇爽文節奏，全彩條漫手機好讀。",tags:["重生","復仇","戀愛"],watch:W(["LINE Webtoon","https://www.webtoons.com/"])},
+    {title:"（範例）地下城外送員",author:"範例作者B",origin:"韓漫",latest:"第15話",status:"連載中",freq:"每週三更新",synopsis:"F 級獵人靠「外送」技能在地下城裡求生兼賺錢。",hook:"獵人題材加上搞笑元素，新作上升中。",tags:["獵人","搞笑"],watch:W(["KakaoPage","https://page.kakao.com/"])},
+    {title:"（範例）連載中的某熱門作",author:"範例作者C",origin:"連載更新",latest:"第231話",status:"連載中",freq:"漫畫站更新清單",synopsis:"來自漫畫站最新更新清單（每日抓取連載章節，追蹤珍藏作品）。",hook:"珍藏後首頁會提示新章節。",tags:["奇幻"],watch:W(["拷貝漫畫","https://www.mangacopy.com/"])}];
+  cm.forEach((c,k)=>[k,k+3].forEach(d=>push("acgn","comic",d,Object.assign({image:art(c.title,"comic",300,400,k+1),imageSrc:k===3?"漫畫站封面":"AniList"},c))));
+  const gm=[{title:"（範例）Lumen Drift",developer:"範例獨立工作室",platform:"Indie",platforms:["PC/Steam"],release:"近期搶先體驗",genre:"解謎冒險",price:"買斷制（約 NT$ 300）",synopsis:"以光線反射解謎的漂流冒險，探索被淹沒的城市。",highlights:["光影反射解謎","無戰鬥放鬆向","手繪美術","支援繁中"],hook:"適合喜歡《紀念碑谷》類型的玩家。"},
+    {title:"（範例）星環戰紀",developer:"範例遊戲公司",platform:"手機",platforms:["iOS","Android"],release:"2026-11 上市",genre:"開放世界動作 RPG",price:"免費＋抽卡",synopsis:"開放世界動作 RPG，主打跨平台四人共鬥。",highlights:["四人即時共鬥","元素連攜系統","PC/手機跨平台"],hook:"事前登錄獎勵豐富，封測評價佳。"},
+    {title:"（範例）Iron Orchard",developer:"Sample Studio",platform:"PC/Steam",platforms:["PC/Steam"],release:"已推出",genre:"經營＋塔防",price:"買斷制",synopsis:"末日後的果園經營，白天種植、夜晚防守。",highlights:["經營＋塔防混合","季節循環","Roguelite 解鎖"],hook:"Steam 評價「極度好評」，適合碎片時間。"}];
+  gm.forEach((g,k)=>[k,k+3].forEach(d=>push("acgn","games",d,Object.assign({watch:W(["商店頁","https://store.steampowered.com/"]),image:art(g.title,"games",640,280,k),screenshots:[1,2,3].map(s=>art("截圖 "+s,"games",320,180,k+s)),imageSrc:k===1?"官方網站":"Steam"},g))));
+  const nv=[{title:"（範例）我在修仙界開便利商店",author:"範例網文作者",origin:"華文網文",status:"連載中",length:"約 186 萬字／612 章",genre:"仙俠・經營・輕鬆",setting:"靈氣復甦的修仙世界，宗門林立、物資稀缺。",protagonist:"現代物流主管穿越成廢柴弟子，綁定「便利商店系統」。",synopsis:"穿越者用現代物流與會員制度顛覆修仙界，從賣泡麵到壟斷靈石供應鏈。",hook:"不靠打打殺殺、用商業頭腦升級，節奏輕快、笑點密集。",adaptation:"有聲書上線，動畫化消息傳聞中",readers:"喜歡經營、系統流、輕鬆爽文的讀者",update:"日更 2 章",watch:W(["起點中文網","https://www.qidian.com/"])},
+    {title:"（範例）全知讀者的第二輪",author:"샘플작가",origin:"韓國網路小說",status:"已完結",length:"全 551 話（含外傳）",genre:"末日・回歸・群像",setting:"小說情節成真，世界被分割成一個個「劇本」關卡。",protagonist:"唯一讀完結局的上班族，帶著記憶第二次進入小說世界。",synopsis:"主角以「讀者」視角改寫結局，同時面對原作裡沒寫到的空白。",hook:"後設敘事設計精巧，角色群像完整，結局評價兩極但討論度高。",adaptation:"已改編 Webtoon，真人影視化",readers:"喜歡高智商布局、群像劇的讀者",update:"已完結，可一次追完",watch:W(["Naver Series","https://series.naver.com/"],["KakaoPage","https://page.kakao.com/"])},
+    {title:"（範例）長安夜雨",author:"範例作者D",origin:"華文網文",status:"連載中",length:"約 72 萬字／240 章",genre:"古言・懸疑・探案",setting:"架空盛唐，長安城內連環奇案與朝堂權鬥交織。",protagonist:"大理寺唯一的女評事，擅長驗屍與推理。",synopsis:"女評事追查連環懸案，一路查到宮廷深處的舊案。",hook:"推理嚴謹不靠巧合，感情線慢熱克制。",adaptation:"影視版權已售出",readers:"喜歡探案、古風權謀的讀者",update:"週更 5 章",watch:W(["晉江文學城","https://www.jjwxc.net/"])},
+    {title:"（範例）重返 SSS 級塔頂",author:"샘플작가2",origin:"韓國網路小說",status:"連載中",length:"連載至 320 話",genre:"獵人・回歸・成長",setting:"巨塔出現後，人類以攀登樓層取得能力。",protagonist:"死在 100 樓的獵人回到 10 年前的第 1 層。",synopsis:"帶著前世情報重爬巨塔，搶先拿下所有隱藏獎勵。",hook:"典型「回歸爽文」，戰鬥與數值成長描寫清楚。",adaptation:"Webtoon 連載中",readers:"喜歡獵人、數值成長類的讀者",update:"週更 5 話",watch:W(["Munpia","https://www.munpia.com/"])}];
+  nv.forEach((n,k)=>[k,k+2].forEach(d=>push("acgn","novel",d,Object.assign({image:art(n.title,"novel",300,400,k+2),imageSrc:"閱讀平台封面"},n))));
+  const nw=[{title:"（範例）某大型 IP 宣布動畫第二季製作決定",category:"動漫",origin:"TW",source:"巴哈姆特 GNN",points:["官方於直播中公開第二季製作決定與前導視覺","原班聲優與製作公司續任，導演更換","預計明年春季開播，台灣同步代理","第一季藍光銷量為製作關鍵"]},
+    {title:"（範例）Global publisher announces new manga app",category:"漫畫",origin:"INTL",source:"Anime News Network",points:["國際出版商推出全新閱讀 App，首波上架 200 部作品","支援繁體中文介面，部分作品日本同步更新","採免費＋付費章節混合模式"]},
+    {title:"（範例）年度遊戲展首日重點整理",category:"遊戲",origin:"TW",source:"4Gamers",points:["首日公開 12 款新作，其中 5 款支援繁中","獨立遊戲區人潮創新高，台灣團隊作品受矚目","兩款手遊宣布年底上市並開放事前登錄","展期至週日，部分試玩需現場預約"]},
+    {title:"（範例）Korean web novel tops global chart",category:"小說",origin:"INTL",source:"Korea JoongAng Daily",points:["韓國網路小說英文版登上全球平台月榜第一","作品已累計 3 億次閱讀，改編 Webtoon 同步連載","出版社計畫推出更多語言版本，含繁體中文"]},
+    {title:"（範例）大型串流平台調整動畫授權策略",category:"業界",origin:"INTL",source:"Variety",points:["平台宣布明年起擴大日本動畫獨家授權","亞洲地區將同步上架新番","業界預期會影響其他平台的代理競爭"]}];
+  [0,1,2,3,4,5,6].forEach(d=>nw.forEach((n,k)=>{if((d+k)%2===0||d<2)push("news","news",d,Object.assign({url:"https://example.com/",pick:k<3&&d<2,summary:n.points[0]},n))}));
+  return {meta:{last_updated:new Date().toISOString()},items:it,weeklies:mockWeeklies()};
+}
+function mockWeeklies(){
+  const base=(wk,off,g,ph,en,ac)=>({id:"weekly_"+wk,mod:"weekly",cat:"weekly",title:`週報 ${wk}`,weekId:wk,range:`${ds(off+6)} ~ ${ds(off)}`,added:ds(off),
+    ja:{grammar:g,phrases:ph},en:{phrases:en},acgn:ac});
+  return [
+   base("2026-W43",0,[["〜を余儀なくされる","N1","不得不、被迫","說明延期、不可抗力"],["〜につき","N2","因為（公告）","告示、郵件主旨"],["〜次第","N2","一…就立刻","承諾後續聯絡"],["〜させていただく","N3","謙讓表達","交接、代理回覆"]],[["ご査収のほど","敬請查收"],["お手数ですが","麻煩您了"]],[["circle back","回頭再談"],["kick things off","開始"],["wrap up","收尾"],["flag a blocker","標出阻礙"]],["動畫：本季話題作進入中段劇情，新增 2 部下季預定作","漫畫：韓漫「重生/復仇」題材新作 3 部","遊戲：2 款獨立遊戲開放搶先體驗","小說：韓國網路小說英文版熱度上升"]),
+   base("2026-W42",7,[["〜をもって","N1","以…（期限/方式）","離職、結束公告"],["〜に基づいて","N2","根據","契約、規範"],["〜ようにする","N3","盡量做到","工作習慣"]],[["恐れ入りますが","不好意思（請託）"],["取り急ぎご連絡まで","先行聯絡"]],[["touch base","聯繫一下"],["on the same page","共識一致"],["take it offline","會後再談"]],["動畫：秋季新番首週評價整理","遊戲：手遊大作公開上市日期"]),
+   base("2026-W41",14,[["〜に即して","N1","依照","依實際狀況判斷"],["〜上で","N2","在…之後","檢討後回覆"]],[["承知いたしました","了解（正式）"]],[["ballpark figure","大概數字"],["bandwidth","餘力"]],["小說：華文網文年度榜單公布","漫畫：日漫兩部長篇完結"])];
+}
+
+/* ================= 字庫（正式版：data/lexicon.json，排程每天自動新增） ================= */
+const FAM_BASE=[["accept","acceptance","acceptable","acceptably","acceptance criteria 驗收標準"],["achieve","achievement","achievable","—","achieve a target 達成目標"],["analyze","analysis / analyst","analytical","analytically","in-depth analysis 深入分析"],["apply","application / applicant","applicable","—","where applicable 如適用"],["approve","approval","approved","—","pending approval 待核准"],["assess","assessment","assessable","—","risk assessment 風險評估"],["assume","assumption","assumed","—","based on the assumption that 基於…假設"],["attend","attendance / attendee","—","—","attendance rate 出席率"],["collaborate","collaboration / collaborator","collaborative","collaboratively","cross-team collaboration 跨部門合作"],["communicate","communication","communicative","—","internal communication 內部溝通"],["compete","competition / competitor","competitive","competitively","competitive advantage 競爭優勢"],["comply","compliance","compliant","—","in compliance with 遵循"],["consider","consideration","considerable / considerate","considerably","take into consideration 納入考量"],["consult","consultation / consultant","consultative","—","upon consultation 經諮詢後"],["decide","decision","decisive","decisively","make a decision 做決定"],["deliver","delivery / deliverable","—","—","key deliverables 主要交付項目"],["depend","dependence / dependency","dependent / dependable","dependably","dependent on 取決於"],["develop","development / developer","developmental","—","product development 產品開發"],["distribute","distribution / distributor","distributive","—","distribution channel 通路"],["estimate","estimate / estimation","estimated","—","rough estimate 粗估"],["expand","expansion","expansive","expansively","market expansion 市場擴張"],["expect","expectation","expected","unexpectedly","meet expectations 符合預期"],["finance","finance / financing","financial","financially","financially viable 財務可行"],["implement","implementation","implementable","—","implementation plan 執行計畫"],["improve","improvement","improved","—","room for improvement 改善空間"],["inform","information","informative","—","for your information (FYI)"],["invest","investment / investor","—","—","return on investment (ROI)"],["maintain","maintenance","maintainable","—","scheduled maintenance 定期維護"],["manage","management / manager","manageable / managerial","—","manageable workload 可負荷工作量"],["motivate","motivation","motivated / motivational","—","highly motivated 積極主動"],["negotiate","negotiation / negotiator","negotiable","—","the price is negotiable 價格可議"],["operate","operation / operator","operational","operationally","operational cost 營運成本"],["prioritize","priority","prior","—","top priority 最優先"],["produce","product / production / productivity","productive","productively","productivity tools 生產力工具"],["profit","profit / profitability","profitable","profitably","profit margin 利潤率"],["propose","proposal","proposed","—","submit a proposal 提交提案"],["reduce","reduction","reducible","—","cost reduction 降低成本"],["rely","reliance / reliability","reliable","reliably","reliable supplier 可靠供應商"],["require","requirement","required / requisite","—","meet the requirements 符合需求"],["respond","response","responsive","responsively","prompt response 迅速回應"],["satisfy","satisfaction","satisfactory / satisfied","satisfactorily","customer satisfaction 顧客滿意度"],["strategize","strategy","strategic","strategically","strategic partnership 策略合作"],["succeed","success / successor","successful / successive","successfully","success rate 成功率"],["sustain","sustainability","sustainable","sustainably","sustainable growth 永續成長"],["verify","verification","verifiable","verifiably","identity verification 身分驗證"],["—","efficiency","efficient","efficiently","improve efficiency 提升效率"]];
+const FAM_NEW=[["accommodate","accommodation","accommodating","—","accommodate a request 配合需求"],["allocate","allocation","allocated","—","budget allocation 預算分配"],["authorize","authorization","authorized","—","authorized dealer 授權經銷商"],["coordinate","coordination / coordinator","coordinated","—","coordinate schedules 協調時程"],["evaluate","evaluation","evaluative","—","performance evaluation 績效評估"],["facilitate","facilitation / facilitator","facilitative","—","facilitate a workshop 主持工作坊"],["justify","justification","justifiable","justifiably","justify the cost 說明成本合理性"],["mitigate","mitigation","mitigating","—","risk mitigation 降低風險"],["optimize","optimization","optimal","optimally","cost optimization 成本優化"],["recommend","recommendation","recommended","—","strongly recommend 強烈建議"],["reimburse","reimbursement","reimbursable","—","expense reimbursement 費用報銷"],["terminate","termination","terminal","—","terminate a contract 終止合約"],["validate","validation","valid","validly","validate assumptions 驗證假設"],["innovate","innovation / innovator","innovative","innovatively","drive innovation 推動創新"]];
+const J_=(g,m,ex)=>({g,m,ex});
+const JLPT_BASE={
+ N1:[J_("〜を余儀なくされる","被迫…","計画の変更を余儀なくされた。"),J_("〜をもって","以…（期限／方式）","本日をもって退職いたします。"),J_("〜に即して","依照…","実情に即して判断いたします。"),J_("〜いかんによらず","無論…如何","理由のいかんによらず、返金はいたしかねます。"),J_("〜べく","為了…而","目標を達成すべく、全力を尽くします。")],
+ N2:[J_("〜次第","一…就立刻","確認でき次第、ご連絡いたします。"),J_("〜に基づいて","根據…","契約に基づいて対応いたします。"),J_("〜につき","因為…（公告）","工事中につき、ご迷惑をおかけします。"),J_("〜上で","在…之後","検討した上で、お返事いたします。"),J_("〜にかかわらず","不論…","経験の有無にかかわらず、応募可能です。"),J_("〜を踏まえて","根據…考量","ご意見を踏まえて、修正いたしました。")],
+ N3:[J_("〜ようにする","盡量做到…","毎朝メールを確認するようにしています。"),J_("〜ことになる","（決定）變成…","来月から大阪に異動することになりました。"),J_("〜について","關於…","新製品についてご説明します。"),J_("〜させていただく","謙讓地做…","資料を送付させていただきます。"),J_("〜ことにする","（自己）決定…","今回は見送ることにしました。")]};
+const JLPT_NEW=[["N1","〜を皮切りに","以…為開端","東京を皮切りに、全国で展開いたします。"],["N2","〜に際して","在…之際","ご利用に際しての注意事項をご確認ください。"],["N3","〜ために","為了…","品質向上のために、研修を実施します。"],["N1","〜に足る","值得…","信頼に足るパートナーを探しております。"],["N2","〜に先立って","在…之前","発売に先立ち、説明会を開催いたします。"],["N3","〜によると","根據（消息來源）","報告によると、売上は増加しています。"],["N1","〜ものとする","規定為…（契約書用語）","本契約は締結日より1年間有効なものとする。"],["N2","〜に応じて","依照…","ご要望に応じて対応いたします。"],["N2","〜をめぐって","圍繞…","価格をめぐって議論が続いています。"]];
+function mockLex(){
+  const old=ds(20);
+  return {updated:{fam:ds(1),jlpt:ds(1)},
+    fam:FAM_BASE.map(r=>({r,added:old})).concat([]),famPending:FAM_NEW.slice(),
+    jlpt:{N1:JLPT_BASE.N1.map(x=>Object.assign({added:old},x)),N2:JLPT_BASE.N2.map(x=>Object.assign({added:old},x)),N3:JLPT_BASE.N3.map(x=>Object.assign({added:old},x))},
+    jPending:JLPT_NEW.slice()};
+}
+let LEX=mockLex();
+
+/* ================= 狀態 / 儲存 ================= */
+const LS={fav:"hub_favs_v2",pref:"hub_pref_v2",vocab:"hub_vocab_v1",coll:"hub_coll_v1"};
+const ls={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let DB={items:[],weeklies:[],wparts:[],meta:{}},favs=ls.get(LS.fav,{}),vocab=ls.get(LS.vocab,{}),pref=ls.get(LS.pref,{});
+let S={mod:pref.mod||"home",cat:pref.cat||{},f:{},f2:{},day:{},q:"",favCat:"all",
+  dict:{tab:"search",lang:"en",word:"",res:null},verb:"書く",vtype:"auto",adj:"高い",wk:0,coll:ls.get(LS.coll,{}),more:{},onlyNew:{},wsub:"all",qs:"site",
+  v:{lang:"all",type:"all",lv:"all",mode:"list",fi:0,show:false,form:false}};
+const savePref=()=>ls.set(LS.pref,{mod:S.mod,cat:S.cat});
+const esc=s=>(s==null?"":String(s)).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const hl=s=>{s=esc(s);if(!S.q)return s;const q=S.q.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");return s.replace(new RegExp(q,"gi"),m=>`<mark>${m}</mark>`)};
+const days=()=>[0,1,2,3,4,5,6].map(ds);
+const catInfo=c=>{for(const m in MODS)if(MODS[m].cats&&MODS[m].cats[c])return MODS[m].cats[c]};
+function toast(t){const e=document.getElementById("toast");e.textContent=t;e.style.display="block";clearTimeout(e._t);e._t=setTimeout(()=>e.style.display="none",1800)}
+const findItem=id=>DB.items.find(x=>x.id===id)||DB.weeklies.find(x=>x.id===id)||DB.wparts.find(x=>x.id===id);
+
+/* ---- 珍藏 ---- */
+const isFav=id=>!!favs[id];
+function toggleFav(id){
+  if(favs[id]){delete favs[id];toast("已取消珍藏")}
+  else{const it=findItem(id);if(!it)return;favs[id]={item:it,savedAt:new Date().toISOString()};toast("★ 已加入珍藏")}
+  ls.set(LS.fav,favs);render();
+}
+const favBtn=id=>`<button class="fav ${isFav(id)?"on":""}" data-fav="${esc(id)}" title="珍藏">${isFav(id)?"★":"☆"}</button>`;
+function favUpdates(){return Object.values(favs).map(f=>findItem(f.item.id)||f.item).filter(x=>x.latest).sort((a,b)=>(b.updated||"").localeCompare(a.updated||"")).slice(0,3)}
+
+/* ---- 單字庫 ---- */
+let VREG=[];
+const vid=(lang,term)=>lang+":"+term.trim();
+function addBtn(o){const has=!!vocab[vid(o.lang,o.term)];VREG.push(o);return `<button class="mini ${has?"added":""}" data-addv="${VREG.length-1}" title="加入單字庫">${has?"✓ 已在單字庫":"＋單字庫"}</button>`}
+function addVocab(o){const id=vid(o.lang,o.term);if(vocab[id]){toast("已在單字庫中");return}
+  vocab[id]=Object.assign({id,reading:"",meaning:"",example:"",note:"",type:"單字",src:"",status:0,added:new Date().toISOString().slice(0,10)},o);ls.set(LS.vocab,vocab);toast("📝 已加入單字庫："+o.term);render()}
+const sayBtn=(t,l)=>`<button class="say" data-say="${esc(t)}" data-slang="${l}" title="朗讀">🔊</button>`;
+function speak(t,l){try{const u=new SpeechSynthesisUtterance(t);u.lang=l==="ja"?"ja-JP":"en-US";u.rate=.9;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){toast("此瀏覽器不支援朗讀")}}
+
+/* ================= 搜尋 ================= */
+const FIELDS=["title","title_orig","author","studio","developer","source","category","origin","level","latest","release","genre","synopsis","summary","original","translation","hook","setting","protagonist","adaptation"];
+function hay(it){return FIELDS.map(f=>it[f]||"").concat(it.points||[],it.tags||[],it.highlights||[],it.platforms||[],(it.watch||[]).map(w=>w.name)).join(" ").toLowerCase()}
+const mq=it=>!S.q||hay(it).includes(S.q.toLowerCase());
+
+/* ================= 卡片 ================= */
+const info=(it,rows)=>{const r=rows.filter(([k])=>it[k]);return r.length?`<dl class="info">${r.map(([k,l])=>`<dt>${l}</dt><dd>${hl(it[k])}</dd>`).join("")}</dl>`:""};
+const img=(src,cls,cap,it)=>`<img class="${cls}" src="${esc(src)}" alt="${esc(cap)}" loading="lazy" referrerpolicy="no-referrer" data-zoom="${esc(cap)}" onerror="this.onerror=null;this.src=FALLBACK(${esc(JSON.stringify(it.title))},'${it.cat}',300,400)">`;
+function card(it){
+  if(it.mod==="weekly")return weeklyCard(it);
+  const ci=catInfo(it.cat)||{n:"",c:"#888"};let c=ci.c;let meta="",bd=[],body="",lk="",top="",cover="";
+  const watch=(it.watch||[]).map(w=>`<a href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.name)} ↗</a>`).join("");
+  const tags=(it.tags||[]).map(t=>`<span class="b">#${hl(t)}</span>`).join("");
+  if(it.added===ds(0))bd.push(`<span class="b new">NEW</span>`);
+  if(it.cat==="en"||it.cat==="ja"){
+    meta=`${esc(it.source)} · ${esc(it.category)}${it.difficulty?" · "+esc(it.difficulty):""}`;
+    if(it.level)bd.push(`<span class="b c">${esc(it.level)}</span>`);
+    (it.tags||[]).forEach(t=>bd.push(`<span class="b soft">${esc(t)}</span>`));
+    body=`<div class="desc">${hl(it.original)} ${sayBtn(it.original,it.cat)}</div><ul class="pts">${(it.points||[]).map(p=>`<li>${hl(p)}</li>`).join("")}</ul>
+      <button class="more" data-open>展開中譯 ▾</button><div class="full"><b>中譯：</b>${hl(it.translation)}</div>`;
+    lk=(it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">原文來源 ↗</a>`:"")+(it.dictWord?`<button data-dict="${esc(it.dictWord)}" data-dlang="${it.cat}">📖 ${esc(it.dictWord)}</button>`+addBtn({lang:it.cat,term:it.dictWord,type:it.dictWord.includes(" ")||it.dictWord.length>4?"字詞":"單字",example:it.original,meaning:"",src:it.title}):"")+addBtn({lang:it.cat,term:it.title.replace(/（.*?）/,""),type:"句型",example:it.original,meaning:it.translation,src:"學習文章"});
+  }else if(it.cat==="news"){
+    c=NEWSC[it.category]||c;
+    meta=`${esc(it.source)} · ${it.origin==="TW"?"🇹🇼 台灣":"🌐 國際（已翻譯）"}`;
+    bd.push(`<span class="b c">${esc(it.category)}</span>`);if(it.pick)bd.push(`<span class="b pick">🔥 今日必看</span>`);
+    body=`<div class="ptitle">重點整理（${(it.points||[]).length} 點）</div><ul class="pts">${(it.points||[]).map(p=>`<li>${hl(p)}</li>`).join("")}</ul>`;
+    lk=`<a href="${esc(it.url)}" target="_blank" rel="noopener">閱讀原文 ↗</a>`;
+  }else{
+    if(it.latest)bd.push(`<span class="b up">最新 ${esc(it.latest)}</span>`);
+    if(it.cat==="anime"){
+      meta=[it.studio,it.season].filter(Boolean).join(" · ");bd.unshift(`<span class="b c">${{current:"本季",next:"下季",prev:"上季"}[it.season_type]||""}</span>`);
+      body=`<div class="desc">${hl(it.synopsis)}</div>${info(it,[["original","原作"],["broadcast","播出"],["episodes","話數"]])}`;
+    }else if(it.cat==="comic"){
+      meta=it.author?"作者："+it.author:"";bd.unshift(`<span class="b c">${esc(it.origin)}</span>`);
+      body=`<div class="desc">${hl(it.synopsis)}</div>${info(it,[["status","狀態"],["freq","更新"]])}`;
+    }else if(it.cat==="games"){
+      meta=[it.developer,it.release].filter(Boolean).join(" · ");(it.platforms||[]).forEach(p=>bd.push(`<span class="b c">${esc(p)}</span>`));
+      body=`<div class="desc">${hl(it.synopsis)}</div>${info(it,[["genre","類型"],["price","收費"]])}`+
+        (it.screenshots?`<div class="ptitle">遊戲截圖</div><div class="shots">${it.screenshots.map((s,i)=>img(s,"",it.title+" 截圖 "+(i+1),it)).join("")}</div>`:"")+
+        `<div class="ptitle">玩法亮點</div><ul class="pts">${(it.highlights||[]).map(h=>`<li>${hl(h)}</li>`).join("")}</ul>`;
+    }else if(it.cat==="novel"){
+      meta=it.author?"作者："+it.author:"";bd.unshift(`<span class="b c">${esc(it.origin)}</span>`);if(it.status)bd.push(`<span class="b soft">${esc(it.status)}</span>`);
+      body=`<div class="desc">${hl(it.synopsis)}</div>${info(it,[["genre","類型"],["length","篇幅"],["update","更新"]])}
+        <button class="more" data-open>看完整作品介紹 ▾</button>
+        <div class="full">${info(it,[["setting","世界觀"],["protagonist","主角"],["adaptation","改編"],["readers","適合誰"]])}</div>`;
+    }
+    if(it.hook)body+=`<div class="ptitle">💡 推薦理由</div><div class="desc" style="margin-top:2px">${hl(it.hook)}</div>`;
+    body+=tags?`<div class="bd">${tags}</div>`:"";lk=watch;
+    {const g=it.cat==="games",im=it.image||art(it.title||"",it.cat,g?640:300,g?280:400,(it.title||"").length);if(g)top=img(im,"banner",it.title,it);else cover=img(im,"cover",it.title,it)}
+  }
+  const head=`<div class="k">${MODS[it.mod].ic} ${ci.n}</div>
+    <h3>${hl(it.title)}${it.title_orig?` <small>${esc(it.title_orig)}</small>`:""}</h3>
+    ${meta?`<div class="meta">${hl(meta)}</div>`:""}
+    ${bd.length?`<div class="bd">${bd.join("")}</div>`:""}`;
+  const src=it.imageSrc?`<div class="imgsrc">圖片來源：${esc(it.imageSrc)}</div>`:"";
+  return `<div class="card ${top?"g":""}" style="--c:${c}">
+    ${top}${favBtn(it.id)}
+    ${cover?`<div class="media">${cover}<div class="mt">${head}</div></div>${src}`:head+(top?src:"")}
+    ${body}
+    ${lk?`<div class="lk">${lk}</div>`:""}
+    <div class="foot"><span>收錄 ${esc(it.added)}</span>${it.updated&&it.updated!==it.added?`<span>更新 ${esc(it.updated)}</span>`:""}</div>
+  </div>`;
+}
+const grid=a=>a.length?`<div class="grid" data-n="${a.length}">${a.map(card).join("")}</div>`:`<div class="empty" data-n="0">沒有符合的項目${S.q?`（查詢「${esc(S.q)}」）`:""}</div>`;
+
+/* ================= 首頁 / 列表 ================= */
+const lastDay=f=>DB.items.filter(f).map(x=>x.added).sort().pop();
+function viewHome(){
+  if(S.q)return `<div class="sec"><h2>全站查詢結果</h2></div>`+grid(DB.items.filter(mq));
+  const nd=lastDay(y=>y.cat==="news"&&y.pick),news=DB.items.filter(x=>x.cat==="news"&&x.pick&&x.added===nd).slice(0,3);
+  const fu=favUpdates();const vn=Object.values(vocab).filter(v=>v.status<2).length;
+  const stats=[["en","lang"],["ja","lang"],["anime","acgn"],["comic","acgn"],["games","acgn"],["novel","acgn"],["news","news"]].map(([c,m])=>{
+    const all=DB.items.filter(x=>x.cat===c),today=all.filter(x=>x.added===ds(0)).length,ci=catInfo(c);
+    return `<div class="stat" style="--c:${ci.c}" data-go="${m}" data-cat="${c}"><div class="v">${all.length}</div><div class="l">${ci.n}</div><div class="d">今日 +${today}</div></div>`}).join("")+
+    `<div class="stat" style="--c:var(--vocab)" data-go="vocab"><div class="v">${Object.keys(vocab).length}</div><div class="l">📝 單字庫</div><div class="d">待複習 ${vn}</div></div>`;
+  return `<div class="sec"><h2>🔥 今日必看 3 則</h2><button class="go" data-go="news">全部新聞 →</button></div>
+   <div class="picks">${news.map((n,i)=>`<div class="pick"><span class="no">${i+1}</span><span class="b c" style="--c:${NEWSC[n.category]}">${esc(n.category)}</span> <span style="font-size:11.5px;color:var(--sub)">${n.origin==="TW"?"台灣":"國際"} · ${esc(n.source)}</span><h3>${esc(n.title)}</h3><ul>${n.points.slice(0,3).map(p=>`<li>${esc(p)}</li>`).join("")}</ul></div>`).join("")}</div>
+   <div class="sec"><h2>★ 珍藏作品近期更新</h2><button class="go" data-go="fav">我的珍藏 →</button></div>
+   ${fu.length?grid(fu):`<div class="panel" style="color:var(--sub)">還沒有珍藏。在任何卡片按右上角 ☆，之後追蹤的動畫集數、漫畫章節更新會出現在這裡（最多 3 則）。</div>`}
+   <div class="sec"><h2>📈 各模組總覽</h2></div><div class="stats">${stats}</div>
+   <div class="sec"><h2>🗣️ 今日語言學習</h2><button class="go" data-go="lang">前往 →</button></div>
+   ${grid(DB.items.filter(x=>x.mod==="lang"&&x.added===lastDay(y=>y.mod==="lang")).slice(0,4))}
+   <div class="sec"><h2>🎴 ACGN 今日新增</h2><button class="go" data-go="acgn">前往 →</button></div>
+   ${grid(DB.items.filter(x=>x.mod==="acgn"&&x.added===lastDay(y=>y.mod==="acgn")).slice(0,6))}${homeStatus()}`;
+}
+function viewList(mod){
+  const cats=Object.keys(MODS[mod].cats);const cat=cats.includes(S.cat[mod])?S.cat[mod]:cats[0];S.cat[mod]=cat;
+  const F=FILTERS[cat],dk=mod+cat,dayIdx=S.day[dk]??-1,cc=MODS[mod].cats[cat].c;
+  const opt=o=>Array.isArray(o)?o:[o,o];
+  let h=cats.length>1?`<div class="subtabs">${cats.map(c=>`<button class="st ${c===cat?"on":""}" style="--c:${MODS[mod].cats[c].c}" data-cat="${c}">${MODS[mod].cats[c].n}</button>`).join("")}</div>`:"";
+  h+=`<div class="bar"><div class="pager"><button data-day="prev" ${dayIdx>=6?"disabled":""}>‹</button><span class="d">${dayIdx<0?"近 7 天全部":days()[dayIdx]+(dayIdx===0?"（今天）":"")}</span><button data-day="next" ${dayIdx<0?"disabled":""}>›</button><button data-day="all" title="近7天全部">⟲</button></div>
+    <span class="chip ${!S.f[cat]?"on":""}" data-f="">全部</span>${F.opts.map(o=>{const[v,l]=opt(o);const col=F.colors?F.colors[v]:cc;return`<span class="chip ${S.f[cat]===v?"on":""}" style="--c:${col}" data-f="${esc(v)}">${F.colors?'<span class="dot"></span>':""}${esc(l)}</span>`}).join("")}
+    ${F.opts2?`<span class="lbl">${F.lbl2}</span>`+F.opts2.map(o=>{const[v,l]=opt(o);return`<span class="chip ${S.f2[cat]===v?"on":""}" style="--c:${cc}" data-f2="${v}">${l}</span>`}).join(""):""}
+    <span class="cnt" id="cnt"></span></div>`;
+  let a=DB.items.filter(x=>x.cat===cat).filter(mq);
+  if(dayIdx>=0)a=a.filter(x=>x.added===days()[dayIdx]);
+  if(S.f[cat])a=a.filter(x=>x[F.key]===S.f[cat]);
+  if(S.f2[cat])a=a.filter(x=>x[F.key2]===S.f2[cat]);
+  a.sort((x,y)=>y.added.localeCompare(x.added));
+  return h+grid(a);
+}
+
+/* ================= 珍藏（依類別拆分） ================= */
+function viewFav(){
+  const all=Object.values(favs).map(f=>findItem(f.item.id)||f.item);
+  const groups=[["all","全部","var(--brown)"],["en","🇺🇸 英文","var(--en)"],["ja","🇯🇵 日文","var(--ja)"],["anime","動畫","var(--anime)"],["comic","漫畫","var(--comic)"],["games","遊戲","var(--games)"],["novel","小說","var(--novel)"],["news","新聞","var(--news)"],["weekly","週報","var(--brown)"]];
+  let a=all.filter(x=>x.mod==="weekly"||mq(x));if(S.favCat!=="all")a=a.filter(x=>x.cat===S.favCat);
+  let sub="";
+  if(S.favCat==="weekly"){
+    const subs=[["all","全部"],["whole","整期"],["ja","🇯🇵 日文"],["en","🇺🇸 英文"],["acgn","🎴 ACGN 動態"]];
+    const wk=all.filter(x=>x.cat==="weekly");
+    sub=`<div class="bar"><span class="lbl">週報分區</span>${subs.map(([k,l])=>`<span class="chip ${S.wsub===k?"on":""}" data-wsub="${k}">${l} (${k==="all"?wk.length:wk.filter(x=>(x.group||"whole")===k).length})</span>`).join("")}</div>`;
+    if(S.wsub!=="all")a=a.filter(x=>(x.group||"whole")===S.wsub);
+  }
+  return `<div class="tools">${groups.map(([k,l,c])=>{const n=k==="all"?all.length:all.filter(x=>x.cat===k).length;return `<span class="chip ${S.favCat===k?"on":""}" style="--c:${c}" data-favcat="${k}">${l} (${n})</span>`}).join("")}
+    <span style="flex:1"></span><button class="btn" data-act="export">⬇ 匯出備份</button><button class="btn" data-act="import">⬆ 匯入備份</button></div>
+    ${sub}
+    <div class="panel" style="font-size:12.5px;color:var(--sub);padding:10px 14px">珍藏會存整張卡片的快照，原資料過期被清掉也會永久保留。週報可整期收藏，也可只收藏日文、英文、ACGN 動態其中一區，或單一則 ACGN 動態。「匯出備份」同時包含珍藏與單字庫。</div>
+    ${a.length?grid(a):`<div class="empty">這個分類還沒有珍藏</div>`}`;
+}
+
+/* ================= 週報（整期／分區／單則 皆可收藏） ================= */
+const WSEC={jag:{n:"日文商用文法",g:"ja",c:"var(--ja)",ic:"🇯🇵"},jap:{n:"商用日文",g:"ja",c:"var(--ja)",ic:"💼"},en:{n:"英文商用句型",g:"en",c:"var(--en)",ic:"🇺🇸"},acgn:{n:"ACGN 動態",g:"acgn",c:"var(--anime)",ic:"🎴"}};
+function weeklyParts(w){
+  const mk=(sec,rows)=>({id:w.id+"_"+sec,mod:"weekly",cat:"weekly",group:WSEC[sec].g,sec,title:`${w.weekId}・${WSEC[sec].n}`,wid:w.id,weekId:w.weekId,range:w.range,added:w.added,rows});
+  const p=[mk("jag",w.ja.grammar.map(g=>[g[0],`${g[1]}・${g[2]}`])),mk("jap",w.ja.phrases),mk("en",w.en.phrases),mk("acgn",w.acgn.map(x=>[x,""]))];
+  w.acgn.forEach((x,i)=>p.push({id:w.id+"_line"+i,mod:"weekly",cat:"weekly",group:"acgn",sec:"line",title:x,wid:w.id,weekId:w.weekId,range:w.range,added:w.added}));
+  return p;
+}
+function weeklyCard(w){
+  if(w.sec==="line")return `<div class="card" style="--c:var(--anime)">${favBtn(w.id)}<div class="k">📊 週報 ${esc(w.weekId)}・🎴 ACGN 動態（單則）</div><div class="desc" style="padding-right:26px">${esc(w.title)}</div><div class="lk"><button data-openwk="${esc(w.wid)}">開啟這期週報 →</button></div></div>`;
+  if(w.sec){const s=WSEC[w.sec];return `<div class="card" style="--c:${s.c}">${favBtn(w.id)}<div class="k">📊 週報・${s.ic} ${s.n}</div><h3>${esc(w.title)}</h3><div class="meta">${esc(w.range)}</div>
+    <ul class="pts">${w.rows.map(r=>`<li><b>${esc(r[0])}</b>${r[1]?"　"+esc(r[1]):""}</li>`).join("")}</ul><div class="lk"><button data-openwk="${esc(w.wid)}">開啟這期週報 →</button></div></div>`}
+  return `<div class="card" style="--c:var(--brown)">${favBtn(w.id)}<div class="k">📊 週報・整期</div><h3>${esc(w.title)}</h3><div class="meta">${esc(w.range)}</div>
+   <div class="ptitle">日文文法</div><div class="desc">${w.ja.grammar.map(g=>esc(g[0])).join("、")}</div>
+   <div class="ptitle">英文句型</div><div class="desc">${w.en.phrases.map(g=>esc(g[0])).join("、")}</div>
+   <div class="lk"><button data-openwk="${esc(w.id)}">開啟這期週報 →</button></div></div>`;
+}
+function viewWeekly(){
+  const W=DB.weeklies;if(!W.length)return `<div class="empty">尚無週報</div>`;
+  const w=W[Math.min(S.wk,W.length-1)];
+  const row=(x,l)=>`<td class="w" data-dict="${esc(x.replace(/^〜/,""))}" data-dlang="${l}">${esc(x)} ${sayBtn(x,l)}</td>`;
+  const av=(x,l,m,type)=>`<td class="act">${addBtn({lang:l,term:x,meaning:m,type,src:w.title})}</td>`;
+  const nfav=k=>isFav(w.id+"_"+k)?" ★":"";
+  return `<div class="tools">${W.map((x,i)=>{const any=DB.wparts.some(p=>p.wid===x.id&&isFav(p.id))||isFav(x.id);return `<span class="chip ${i===S.wk?"on":""}" data-wk="${i}">${any?"★ ":""}${esc(x.weekId)}</span>`}).join("")}</div>
+  <div class="panel">${favBtn(w.id)}<h3>📅 ${w.weekId}（${w.range}）· 每週日 21:00 自動產生</h3><p>右上 ☆ 收藏整期；每個區塊右上 ☆ 可單獨收藏該區；ACGN 動態每一則也能各自收藏。詞條可查字典、🔊 朗讀、＋單字庫。</p></div>
+  ${collBar()}
+  <div class="wk">
+   ${P("wk-jag",`🇯🇵 日文商用文法（N1～N3）${nfav("jag")}`,`<div class="scroll"><table class="t"><tr><th>文法</th><th>級</th><th>意思</th><th>場景</th><th></th></tr>${w.ja.grammar.map(g=>`<tr>${row(g[0],"ja")}<td>${g[1]}</td><td>${g[2]}</td><td>${g[3]}</td>${av(g[0],"ja",g[2],"句型")}</tr>`).join("")}</table></div>`,{fav:w.id+"_jag",style:"border-top:4px solid var(--ja)"})}
+   ${P("wk-jap",`💼 商用日文${nfav("jap")}`,`<table class="t">${w.ja.phrases.map(p=>`<tr>${row(p[0],"ja")}<td>${p[1]}</td>${av(p[0],"ja",p[1],"字詞")}</tr>`).join("")}</table>`,{fav:w.id+"_jap",style:"border-top:4px solid var(--ja)"})}
+   ${P("wk-en",`🇺🇸 英文商用句型${nfav("en")}`,`<table class="t">${w.en.phrases.map(p=>`<tr>${row(p[0],"en")}<td>${p[1]}</td>${av(p[0],"en",p[1],"字詞")}</tr>`).join("")}</table>`,{fav:w.id+"_en",style:"border-top:4px solid var(--en)"})}
+   ${P("wk-acgn",`🎴 ACGN 本週動態${nfav("acgn")}`,`<div>${w.acgn.map((x,i)=>{const id=w.id+"_line"+i;return `<div class="wline"><button class="lstar ${isFav(id)?"on":""}" data-fav="${esc(id)}" title="收藏這則">${isFav(id)?"★":"☆"}</button><span>${esc(x)}</span></div>`}).join("")}</div>`,{fav:w.id+"_acgn",style:"border-top:4px solid var(--anime)"})}
+  </div>`;
+}
+
+/* ================= 字典・文法 ================= */
+const GH={user:"lindor8787-sun",repo:"ACGN_sunny"};
+const issueUrl=(title,body)=>`https://github.com/${GH.user}/${GH.repo}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body||"")}`;
+const DICTS={
+  en:[{n:"Cambridge 英漢",u:"https://dictionary.cambridge.org/dictionary/english-chinese-traditional/{q}"},
+      {n:"Merriam-Webster",u:"https://www.merriam-webster.com/dictionary/{q}"},
+      {n:"Longman",u:"https://www.ldoceonline.com/dictionary/{q}"},
+      {n:"Yahoo 奇摩字典",u:"https://tw.dictionary.search.yahoo.com/search?p={q}"},
+      {n:"YouGlish 真人發音",u:"https://youglish.com/pronounce/{q}/english"}],
+  ja:[{n:"Weblio 國語",u:"https://www.weblio.jp/content/{q}"},
+      {n:"Weblio 日中",u:"https://cjjc.weblio.jp/content/{q}"},
+      {n:"Jisho",u:"https://jisho.org/search/{q}"},
+      {n:"Kotobank",u:"https://kotobank.jp/search?q={q}"},
+      {n:"Weblio 類語",u:"https://thesaurus.weblio.jp/content/{q}"},
+      {n:"YouGlish 真人發音",u:"https://youglish.com/pronounce/{q}/japanese"}]
+};
+/* 站內詳解：一個字詞列出「所有」意思＋情境＋例句（正式版由排程用 Gemini 產生並快取） */
+const S_=(pos,zh,def,ex,exZh,scene)=>({pos,zh,def,ex,exZh,scene});
+const DETAIL={
+ "subtle":{lang:"en",ph:"/ˈsʌt.əl/",level:"CEFR C1",forms:"比較級 subtler／最高級 subtlest｜名詞 subtlety｜副詞 subtly",senses:[
+   S_("adj.","細微的、不易察覺的","not obvious; small but important","There's a subtle difference between the two proposals.","兩份提案之間有細微的差異。","比較方案、分析數據"),
+   S_("adj.","含蓄的、委婉的、不著痕跡的","done in a quiet, indirect way","She gave him a subtle hint to wrap up the meeting.","她委婉地暗示他該結束會議了。","溝通、給回饋"),
+   S_("adj.","巧妙的、精妙的","clever and skilful in a way that is not obvious","It was a subtle marketing strategy that built trust over time.","那是個巧妙的行銷策略，逐步建立信任。","評價策略、設計"),
+   S_("adj.","（人、頭腦）敏銳的、精明的","able to notice and understand small details","He's a subtle negotiator who reads the room well.","他是很敏銳的談判者，很會察言觀色。","評價人"),
+   S_("adj.","（顏色、氣味、味道）淡雅的、清淡的","delicate and not strong","The packaging uses a subtle shade of beige.","包裝使用淡雅的米色。","產品、設計描述")],
+   syn:"slight, understated, delicate, nuanced",ant:"obvious, blatant",confuse:"subtle（細微、含蓄）≠ delicate（易碎、精緻）；字中的 b 不發音"},
+ "needy":{lang:"en",ph:"/ˈniː.di/",level:"CEFR B2",forms:"比較級 needier／最高級 neediest｜名詞 neediness",senses:[
+   S_("adj.","貧困的、需要救濟的","not having enough money, food, etc.","The foundation supports needy families in rural areas.","基金會援助鄉村地區的貧困家庭。","公益、CSR 報告"),
+   S_("n.（the needy）","窮人、需要幫助的人（集合名詞）","people who are poor","The company donates part of its profits to the needy.","公司把部分利潤捐給弱勢族群。","公益、新聞"),
+   S_("adj.","黏人的、情感上過度依賴的（口語，帶負面）","wanting a lot of attention or reassurance","He's a bit needy and asks for feedback every hour.","他有點黏人，每小時都要回饋。","描述同事或伴侶 ⚠ 帶貶意"),
+   S_("adj.","（客戶）需求很多的、需要大量關照的","requiring a lot of support or attention","We have a needy client who calls several times a day.","我們有個需要大量關照的客戶，一天打好幾通電話。","客服、專案管理；正式場合改說 high-maintenance 或 requires a lot of support")],
+   syn:"poor, deprived（貧困）／clingy, demanding（黏人）",ant:"well-off／independent",confuse:"needy（需要幫助的）≠ needful（必要的，較古典）"},
+ "negotiate":{lang:"en",ph:"/nɪˈɡoʊ.ʃi.eɪt/",level:"CEFR B2",forms:"名詞 negotiation／negotiator｜形容詞 negotiable",senses:[
+   S_("v.","談判、協商","to discuss in order to reach an agreement","We are negotiating with two suppliers.","我們正在跟兩家供應商談判。","採購、合作洽談"),
+   S_("v.","談妥、議定（合約、價格）","to reach an agreement on something","They negotiated a three-year contract.","他們談妥了三年合約。","合約、報價"),
+   S_("v.","順利通過、克服（障礙、困難）","to successfully get past something difficult","The team negotiated several obstacles before launch.","團隊在上線前克服了好幾個難關。","專案回顧"),
+   S_("v.（金融）","兌現、轉讓（票據）","to transfer or convert a cheque or bill","The bank refused to negotiate the cheque.","銀行拒絕兌現這張支票。","財務、貿易")],
+   syn:"bargain, discuss, work out",ant:"—",confuse:"negotiate with 人／negotiate 某事物（不加 about 也可）"},
+ "circle back":{lang:"en",ph:"/ˈsɝː.kəl bæk/",level:"商務口語",forms:"circled back／circling back",senses:[
+   S_("phr. v.","（會議中）回頭再談、稍後再討論","to return to a topic later","Let's circle back to the budget after the demo.","Demo 之後我們再回頭談預算。","會議主持"),
+   S_("phr. v.","之後再聯絡、回覆","to contact someone again later with information","I'll circle back with you once I hear from legal.","等法務回覆後我再跟你聯絡。","郵件、跟進"),
+   S_("phr. v.","回到原點、重新檢視","to go back to the starting point","We need to circle back to our original goal.","我們需要回到最初的目標重新檢視。","策略討論")],
+   syn:"follow up, revisit, get back to",ant:"—",confuse:"過度使用會被視為職場套話（corporate jargon）"},
+ "wrap up":{lang:"en",ph:"/ræp ʌp/",level:"CEFR B1",forms:"wrapped up／wrapping up｜名詞 wrap-up",senses:[
+   S_("phr. v.","結束、收尾（會議、專案）","to finish something","Let's wrap up the meeting by 3:30.","我們 3:30 前把會議收尾。","會議主持"),
+   S_("n.（wrap-up）","總結、摘要","a summary","Here's a quick wrap-up of today's discussion.","以下是今天討論的簡短總結。","會議記錄、郵件"),
+   S_("phr. v.","包裝、包好","to cover something in paper","Could you wrap it up as a gift?","可以幫我包裝成禮物嗎？","購物"),
+   S_("phr. v.","穿暖","to put on warm clothes","Wrap up warm — it's cold outside.","穿暖一點，外面很冷。","日常"),
+   S_("be wrapped up in","全神貫注於","to be very busy with or focused on","She's wrapped up in the product launch this week.","她這週全心投入產品上市。","描述同事狀態")],
+   syn:"conclude, finish, summarize",ant:"kick off, start",confuse:"wrap up（結束）vs. wrap-up（名詞，總結）"},
+ "次第":{lang:"ja",ph:"しだい",level:"JLPT N2",forms:"〜次第／次第に／事の次第／式次第／〜次第です",senses:[
+   S_("接尾（動詞ます形＋次第）","一…就立刻","〜したらすぐに","準備ができ次第、出発いたします。","準備一好就出發。","承諾後續聯絡（商用高頻）"),
+   S_("接尾（名詞＋次第）","取決於、全憑","〜によって決まる","合否は面接の結果次第です。","錄取與否取決於面試結果。","說明條件、前提"),
+   S_("名詞（事の次第）","緣由、來龍去脈","物事の経過・事情","事の次第をご説明いたします。","向您說明事情的經過。","事故報告、致歉"),
+   S_("名詞（〜次第です／次第で）","（書面）情況如此、特此…","〜というわけです","以上のような次第で、発売を延期することとなりました。","基於上述情況，決定延後發售。","說明信、道歉信結論"),
+   S_("名詞（式次第）","程序、流程、議程","物事を行う順序","式次第は受付でお配りします。","典禮流程表將於報到處發放。","典禮、正式會議"),
+   S_("副詞（次第に）","逐漸、漸漸","だんだん","売上は次第に回復しています。","營收正逐漸回升。","報告趨勢")],
+   syn:"〜たらすぐ（口語）／〜によって／だんだん",ant:"—",confuse:"〜次第（一…就）的前句不能用過去式；〜次第です 是書面說明，不是「一…就」"},
+ "査収":{lang:"ja",ph:"さしゅう",level:"商用書面",forms:"ご査収ください／ご査収のほど",senses:[
+   S_("名詞・サ変","查收（文件、款項、物品）","よく調べて受け取ること","請求書を添付いたしましたので、ご査収ください。","已附上請款單，敬請查收。","寄送附件、文件")],
+   syn:"ご確認ください（較口語）",ant:"—",confuse:"只用於「需要對方確認內容」的文件或款項；單純通知用「ご確認ください」"},
+ "基調":{lang:"ja",ph:"きちょう",level:"JLPT N1",forms:"基調講演／〜を基調とする",senses:[
+   S_("名詞","基本趨勢（經濟、市場）","全体の基本的な傾向","市場では円安基調が続いている。","市場持續日圓走弱的趨勢。","經濟新聞、市場報告"),
+   S_("名詞（〜を基調とする）","基本方針、主軸、主色調","根底にある考え方・色合い","白を基調としたデザインです。","以白色為主色調的設計。","設計、方針說明"),
+   S_("名詞（基調講演）","主題演講（keynote）","会議の基本方針を示す講演","社長が基調講演を務めます。","由社長擔任主題演講。","研討會、活動")],
+   syn:"傾向、方針、トーン",ant:"—",confuse:"基調（基本傾向）≠ 基本（基礎）"},
+};
+function dictUrl(site,w){return site.u.replace("{q}",encodeURIComponent(w))}
+function inSiteHits(w){if(!w)return[];const q=w.toLowerCase();return DB.items.filter(x=>x.mod==="lang"&&hay(x).includes(q)).slice(0,4)}
+/* 分層查詢：①站內詳解 → ②離線辭典（ECDICT 英中、JMdict 日英，按字首分檔）→ ③線上 API → ④AI 詳解請求 */
+async function lookup(w,lang){
+  const key=lang==="en"?w.toLowerCase():w;
+  if(DETAIL[key])return Object.assign({src:["站內詳解"]},DETAIL[key]);
+  const out={ph:"",senses:[],src:[],zh:""};
+  const strip=s=>String(s||"").replace(/<[^>]+>/g,"").trim();
+  if(!PREVIEW){try{const shard=lang==="en"?`data/dict/en/${key.replace(/[^a-z]/g,"").slice(0,2)||"_"}.json`:`data/dict/ja/${key.codePointAt(0)%64}.json`;
+    const j=await fetch(shard).then(r=>r.json());const e=j[key];
+    if(e){out.ph=e.ph||"";out.forms=e.forms||"";e.senses.forEach(s=>out.senses.push(S_(s.pos,s.zh,s.def||"","","","")));out.src.push(lang==="en"?"ECDICT 離線辭典（MIT）":"JMdict 離線辭典（EDRDG・CC BY-SA）")}}catch(x){}}
+  try{
+    if(lang==="en"){const r=await fetch("https://api.dictionaryapi.dev/api/v2/entries/en/"+encodeURIComponent(w));
+      if(r.ok){const j=await r.json();j.forEach(e=>{out.ph=out.ph||e.phonetic||((e.phonetics||[]).find(p=>p.text)||{}).text||"";
+        e.meanings.forEach(m=>m.definitions.forEach(d=>{if(!out.senses.some(s=>s.def===d.definition))out.senses.push(S_(m.partOfSpeech,"",d.definition,d.example||"","",""))}))});out.src.push("Free Dictionary API")}}
+    else{const r=await fetch("https://en.wiktionary.org/api/rest_v1/page/definition/"+encodeURIComponent(w));
+      if(r.ok){const j=await r.json();(j.ja||[]).forEach(m=>m.definitions.forEach(d=>out.senses.push(S_(m.partOfSpeech,"",strip(d.definition),strip((d.examples||[])[0]),"",""))));out.src.push("Wiktionary")}}
+    if(!out.senses.some(s=>s.zh)){const t=await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(w)}&langpair=${lang}|zh-TW`);if(t.ok){const j=await t.json();out.zh=(j.responseData||{}).translatedText||"";if(out.zh)out.src.push("MyMemory 翻譯")}}
+  }catch(e){}
+  if(!out.senses.length&&!out.zh)return{none:true};
+  return out;
+}
+function aiReqBtn(w,lang){return `<button class="btn" data-aireq="${esc(w)}" data-alang="${lang}">🤖 請求 AI 完整詳解</button>`}
+function renderEntry(w,lang,R){
+  const c=lang==="en"?"var(--en)":"var(--ja)";
+  const senses=(R.senses||[]).map((s,i)=>`<div class="sense"><div class="sn">${i+1}</div><div class="sbody">
+     <div><span class="pos" style="--c:${c}">${esc(s.pos)}</span>${s.zh?`<b class="szh">${esc(s.zh)}</b>`:""}${s.def?` <span class="sdef">${esc(s.def)}</span>`:""}</div>
+     ${s.ex?`<div class="sex">${esc(s.ex)} ${sayBtn(s.ex,lang)}${s.exZh?`<div>${esc(s.exZh)}</div>`:""}</div>`:""}
+     <div class="srow">${s.scene?`<span class="scene">📍 ${esc(s.scene)}</span>`:""}${addBtn({lang,term:w+(R.senses.length>1?`（${i+1}）`:""),reading:R.ph||"",meaning:(s.zh||s.def)+(s.pos?"｜"+s.pos:""),example:s.ex+(s.exZh?"｜"+s.exZh:""),type:/\s/.test(w)?"字詞":"單字",src:"字典・義項 "+(i+1)})}</div></div></div>`).join("");
+  const partial=!R.detail&&!(R.src||[]).includes("站內詳解");
+  return `<div class="ehead"><span class="eword">${esc(w)}</span><span class="eph">${esc(R.ph||"")}</span>${sayBtn(w,lang)}
+     ${R.level?`<span class="b c" style="--c:${c}">${esc(R.level)}</span>`:""}<span class="b">${(R.senses||[]).length} 個意思</span>
+     ${addBtn({lang,term:w,reading:R.ph||"",meaning:(R.senses||[]).map((s,i)=>(i+1)+". "+(s.zh||s.def)).join("　")||R.zh||"",example:((R.senses||[]).find(s=>s.ex)||{}).ex||"",type:/\s/.test(w)?"字詞":"單字",src:"字典查詢"})}</div>
+   ${R.forms?`<div class="eforms">${esc(R.forms)}</div>`:""}
+   ${R.zh&&!(R.senses||[]).some(s=>s.zh)?`<div class="def" style="--c:${c}"><b>中文：</b>${esc(R.zh)}</div>`:""}
+   ${senses}
+   ${R.syn||R.confuse?`<dl class="info">${R.syn?`<dt>近義</dt><dd>${esc(R.syn)}</dd>`:""}${R.ant&&R.ant!=="—"?`<dt>反義</dt><dd>${esc(R.ant)}</dd>`:""}${R.confuse?`<dt>易混淆</dt><dd>${esc(R.confuse)}</dd>`:""}</dl>`:""}
+   <div class="srcline">資料來源：${(R.src||[]).map(s=>`<span class="b">${esc(s)}</span>`).join(" ")}</div>
+   ${partial?`<div class="hint">ℹ️ 這筆來自離線辭典或線上 API，中文翻譯或情境可能不完整。${aiReqBtn(w,lang)}</div>`:""}`;
+}
+function viewDict(){
+  const T=S.dict.tab;
+  const tabs=[["search","🔎 字典查詢"],["ja","🇯🇵 日文文法"],["japat","🇯🇵 商用日文句型"],["en","🇺🇸 英文文法"],["enpat","🇺🇸 商用英文句型"]];
+  let h=`<div class="subtabs">${tabs.map(([k,l])=>`<button class="st ${T===k?"on":""}" style="--c:var(--dict)" data-dtab="${k}">${l}</button>`).join("")}</div>`;
+  if(T!=="search")h+=collBar();
+  return h+({search:dictSearch,ja:jaGrammar,japat:jaPatterns,en:enGrammar,enpat:enPatterns}[T]||dictSearch)();
+}
+function dictSearch(){
+  const D=S.dict,sites=DICTS[D.lang],w=D.word,R=D.res,c=D.lang==="en"?"var(--en)":"var(--ja)";
+  const hits=inSiteHits(w);let res="";
+  if(w){
+    if(!R||R.loading)res=`<p>查詢中…</p>`;
+    else if(R.none)res=`<div class="hint">找不到「${esc(w)}」。${PREVIEW?"（預覽視窗不連網，只有內建詳解詞：subtle、needy、negotiate、circle back、wrap up、次第、査収、基調）":"離線辭典與線上字典都沒有收錄。"}<br>${aiReqBtn(w,D.lang)} ${addBtn({lang:D.lang,term:w,type:/\s/.test(w)?"字詞":"單字",src:"字典查詢（待補解釋）"})}</div>`;
+    else res=renderEntry(w,D.lang,R);
+  }
+  const quick=(D.lang==="en"?["subtle","needy","negotiate","circle back","wrap up"]:["次第","査収","基調"]).map(x=>`<button class="mini" data-dict="${esc(x)}" data-dlang="${D.lang}">${esc(x)}</button>`).join("");
+  return `<div class="panel">
+    <div class="tools" style="margin:0 0 8px">
+      <span class="chip ${D.lang==="en"?"on":""}" style="--c:var(--en)" data-dl="en">🇺🇸 英文</span>
+      <span class="chip ${D.lang==="ja"?"on":""}" style="--c:var(--ja)" data-dl="ja">🇯🇵 日文</span>
+    </div>
+    <form id="dform" style="display:flex;gap:8px"><input class="inp" id="dq" value="${esc(w)}" placeholder="${D.lang==="en"?"輸入英文單字或片語，例如 subtle、needy":"輸入日文單字，例如 次第、査収"}"><button class="btn pri" type="submit">查詢</button></form>
+    <div class="lk" style="margin-top:8px"><span class="lbl" style="margin:0">試試：</span>${quick}</div>
+  </div>
+  ${w?`<div class="panel" style="--c:${c}">${res}
+    ${hits.length?`<h4>📚 站內學習內容中的例句</h4>${hits.map(x=>`<div class="def" style="--c:${c}"><b>${esc(x.title)}</b><div style="font-size:12.5px;margin-top:3px">${esc(x.original)}</div><div style="font-size:12px;color:var(--sub)">${esc(x.translation)}</div></div>`).join("")}`:""}</div>
+  ${P("dict-ext","🌐 外部字典（另開分頁）",`<div class="dictsites">${sites.map(s=>`<a class="btn" href="${esc(dictUrl(s,w))}" target="_blank" rel="noopener">${esc(s.n)} ↗</a>`).join("")}</div>
+   <p style="font-size:12px">這些網站設定了禁止被嵌入，所以改為另開分頁。</p>`)}`
+  :`<div class="panel"><p>輸入單字開始查詢。每個字會列出<b>所有意思</b>，並附例句、使用情境；每個意思都能單獨「＋單字庫」。</p></div>`}`;
+}
+/* ---- 收合工具 ---- */
+let PKEYS=[];
+function P(key,title,body,o={}){PKEYS.push(key);const closed=!!S.coll[key];
+  return `<div class="panel coll ${closed?"closed":""}" ${o.style?`style="${o.style}"`:""}>${o.fav?favBtn(o.fav):""}<h3 class="ph" data-coll="${key}"><span class="chev">${closed?"▸":"▾"}</span>${title}${o.badge||""}</h3><div class="pb">${body}</div></div>`}
+function collBar(){return `<div class="tools"><button class="btn" data-collall="0">▾ 全部展開</button><button class="btn" data-collall="1">▸ 全部收合</button><span class="lbl">點區塊標題可單獨收合；長表格預設只顯示前 10 筆</span></div>`}
+function lim(key,rows,n=10){const open=!!S.more[key];
+  return{rows:rows.map((r,i)=>i>=n&&!open?r.replace("<tr","<tr class=\"x\""):r).join(""),btn:rows.length>n?`<div style="text-align:center;margin-top:8px"><button class="more" data-more="${key}">${open?"收合 ▴":`顯示全部 ${rows.length} 筆 ▾`}</button></div>`:""}}
+const isNew=d=>d&&(new Date(ds(0))-new Date(d))/864e5<=3;
+const newTag=d=>isNew(d)?`<span class="b new" style="font-size:10px;padding:1px 6px">NEW</span> `:"";
+/* ---- 字庫（字根家族、JLPT 商用文法）：排程每天自動從網路新增，亦可立即刷新 ---- */
+function lexInfo(kind){
+  const list=kind==="fam"?LEX.fam:[].concat(LEX.jlpt.N1,LEX.jlpt.N2,LEX.jlpt.N3);const nw=list.filter(x=>isNew(x.added)).length;
+  const on=S.onlyNew[kind];
+  return `<div class="lexbar"><span>📦 共 ${list.length} 筆</span><span>🆕 近 3 天新增 ${nw} 筆</span><span>🕘 上次更新 ${esc(LEX.updated[kind])}</span>
+   <span class="chip ${on?"on":""}" data-onlynew="${kind}">只看新增</span>
+   <button class="btn grn" data-lexref="${kind}">☁️ 從網路抓新的</button></div>
+   <div style="font-size:11.5px;color:var(--mut);margin:-4px 0 8px">每天 10:00 排程自動新增 ${kind==="fam"?"3 組":"每級 1 句"}（Gemini 免費層產生，自動去重）；按「從網路抓新的」可立即執行一次。</div>`;
+}
+function refreshLex(kind){
+  if(!PREVIEW){window.open(issueUrl(`[lexicon] refresh ${kind}`,"由 Sunny Hub 發出：立即從網路抓取新字庫。送出後約 1～2 分鐘完成，重新整理頁面即可看到。"),"_blank");return}
+  const today=ds(0);let n=0;
+  if(kind==="fam"){LEX.famPending.splice(0,5).forEach(r=>{LEX.fam.unshift({r,added:today});n++})}
+  else{LEX.jPending.splice(0,3).forEach(([lv,g,m,ex])=>{LEX.jlpt[lv].unshift({g,m,ex,added:today});n++})}
+  LEX.updated[kind]=today;toast(n?`☁️ 已從網路抓到 ${n} 筆新資料（預覽模擬）`:"目前沒有更多新資料（預覽）");render();
+}
+/* ---- 日文動詞活用 ---- */
+const ROW={"う":"わいうえお","く":"かきくけこ","ぐ":"がぎぐげご","す":"さしすせそ","つ":"たちつてと","ぬ":"なにぬねの","ぶ":"ばびぶべぼ","む":"まみむめも","る":"らりるれろ"};
+const TE={"う":"って","つ":"って","る":"って","む":"んで","ぶ":"んで","ぬ":"んで","く":"いて","ぐ":"いで","す":"して"};
+const GODAN_RU=["帰る","入る","走る","知る","切る","要る","限る","減る","喋る","滑る","参る","握る","蹴る","焦る","戻る","登る","茂る"];
+function vType(v,force){
+  if(force!=="auto")return force;
+  if(/(する|為る)$/.test(v))return"suru";
+  if(v==="来る"||v==="くる")return"kuru";
+  if(!v.endsWith("る"))return"godan";
+  if(GODAN_RU.includes(v))return"godan";
+  const p=v.slice(-2,-1);if("あかがさざたなはばぱまやらわうくぐすずつぬふぶぷむゆるおこごそぞとどのほぼぽもよろ".includes(p))return"godan";
+  if(/[一-鿿]/.test(p))return ["見る","着る","寝る","出る","似る","煮る","居る","得る","経る","射る"].includes(v)?"ichidan":"godan";
+  return"ichidan";
+}
+function conjugate(v,force){
+  const t=vType(v,force);let F;
+  if(t==="suru"){const s=v.replace(/(する|為る)$/,"");F=[s+"する",s+"します",s+"して",s+"した",s+"しない",s+"できる",s+"される",s+"させる",s+"しよう",s+"すれば",s+"しろ",s?"ご"+s+"なさる":"なさる",s?"ご"+s+"いたす":"いたす"];}
+  else if(t==="kuru"){F=["来る（くる）","来ます（きます）","来て（きて）","来た（きた）","来ない（こない）","来られる（こられる）","来られる（こられる）","来させる（こさせる）","来よう（こよう）","来れば（くれば）","来い（こい）","いらっしゃる／お見えになる","参る／伺う"];}
+  else if(t==="ichidan"){const s=v.slice(0,-1);F=[v,s+"ます",s+"て",s+"た",s+"ない",s+"られる",s+"られる",s+"させる",s+"よう",s+"れば",s+"ろ","お"+s+"になる","お"+s+"する"];}
+  else{const s=v.slice(0,-1),e=v.slice(-1),r=ROW[e];if(!r)return{t,F:null};
+    let te=TE[e];if(v==="行く"||v==="いく")te="って";const a=e==="う"?"わ":r[0];
+    F=[v,s+r[1]+"ます",s+te,s+te.replace(/て$/,"た").replace(/で$/,"だ"),s+a+"ない",s+r[3]+"る",s+a+"れる",s+a+"せる",s+r[4]+"う",s+r[3]+"ば",s+r[3],"お"+s+r[1]+"になる","お"+s+r[1]+"する"];
+    if(v==="ある")F[4]="ない";}
+  return{t,F};
+}
+const CONJ_L=["辭書形","ます形（丁寧）","て形","た形（過去）","ない形（否定）","可能形","受身形（被動）","使役形","意向形（〜よう）","條件形（〜ば）","命令形","尊敬語（例）","謙讓語（例）"];
+const TYPEN={godan:"第一類・五段動詞",ichidan:"第二類・一段動詞",suru:"第三類・サ變（する）",kuru:"第三類・カ變（来る）"};
+function adjConj(a){
+  if(a.endsWith("い")&&!["きれい","嫌い","有名"].includes(a)){const s=a==="いい"?"よ":a.slice(0,-1);return{t:"い形容詞",F:[[a,"現在肯定"],[s+"くない","現在否定"],[s+"かった","過去肯定"],[s+"くなかった","過去否定"],[s+"くて","て形（並列）"],[s+"く","副詞形"],[s+"ければ","條件形"],[s+"さ","名詞化"]]}}
+  const s=a.replace(/な$/,"");return{t:"な形容詞",F:[[s+"だ／です","現在肯定"],[s+"ではない／じゃない","現在否定"],[s+"だった／でした","過去肯定"],[s+"ではなかった","過去否定"],[s+"で","て形（並列）"],[s+"に","副詞形"],[s+"なら（ば）","條件形"],[s+"な＋名詞","修飾名詞"]]};
+}
+const PARTICLES=[
+ ["は","主題；對比","本件は来週決定します。／会議は出ますが、懇親会は欠席します。","報告時先點出主題；婉拒時用「は」對比，語氣較柔和"],
+ ["が","主語（新資訊）；焦點；逆接緩衝","担当の山田が伺います。／恐縮ですが、少々お時間をいただけますか。","說明「誰」負責；「〜が、」當請託前的緩衝"],
+ ["を","動作對象；經過或離開的場所","資料をお送りします。／17時に会社を出ます。","寄送、提交、報告的對象"],
+ ["に","時間點；對象；目的地；目的","3時に伺います。／部長に報告します。／打ち合わせに参ります。","約時間、說明向誰報告"],
+ ["で","動作場所；手段；原因；範圍、期限","会議室で打ち合わせします。／メールでご連絡します。／本日で締め切ります。","說明聯絡方式、會議地點、截止"],
+ ["へ","方向（書面感）","大阪本社へ出張いたします。／お客様へのご案内","公告、郵件中的「寄給〜」「前往〜」"],
+ ["と","共同對象；引用；全部列舉","取引先と面談します。／「承知した」と伝えてください。","轉達訊息、說明與誰開會"],
+ ["から","起點；來源；理由（主觀）","9時から始めます。／お客様から連絡がありました。","說明消息來源；講理由時商用較常改用「ので」"],
+ ["まで／までに","持續到（まで）vs 期限前完成（までに）","5時まで会議です。／金曜日までにご提出ください。","最常搞混！交期請用「までに」"],
+ ["より","比較；起點（書面）","昨年より売上が10％増加しました。／本日より受付を開始いたします。","報告數據、公告開始日"],
+ ["の","所屬；修飾；名詞化","弊社の製品／担当するのは私です。","介紹公司、產品"],
+ ["も","也；強調數量多","私も参加いたします。／3時間も待ちました。","附和、強調"],
+ ["や","不完全列舉（還有其他）","価格や納期についてご相談させてください。","列出部分議題"],
+ ["か","疑問；選擇；不確定","AかBでご検討ください。／ご出席いただけるかご確認ください。","提供選項、確認是否"],
+ ["ね","尋求同意、確認","では、明日10時でよろしいですね。","會議最後確認共識"],
+ ["よ","告知對方不知道的事","資料はもう共有しましたよ。","⚠ 對上司、客戶語氣偏強，少用"],
+ ["ので","客觀理由（較禮貌）","電車が遅れたので、10分ほど遅れます。","商用說明理由的首選"],
+ ["のに","逆接（帶不滿）","確認したのに、ミスがありました。","⚠ 對人使用易顯責備，商用避免"],
+ ["ば／たら／なら／と","條件：一般/完成後/話題/必然","ご不明な点があれば／届いたらご連絡します／その件なら山田が担当です／押すと起動します","郵件結尾「ご不明な点があれば」最常用"],
+ ["ても","即使…也","多少遅くなっても構いません。","給對方彈性"],
+ ["ながら","同時；雖然（慣用）","残念ながら／勝手ながら、休業いたします。","婉拒、公告的固定說法"],
+ ["だけ／しか〜ない","只有（中性）／只有（強調不足）","確認だけお願いします。／在庫が3つしかありません。","說明庫存、請對方只做某件事"],
+ ["ほど／くらい","大約；程度","1週間ほどお時間をください。","估時程，「ほど」比「くらい」正式"],
+ ["こそ","強調","こちらこそよろしくお願いいたします。","回應對方的道謝、問候"],
+ ["さえ〜ば","只要…就","ご署名さえいただければ、手続きは完了です。","說明最低條件"],
+ ["について／に関して","關於（複合助詞）","新製品についてご説明します。／本件に関してご質問はありますか。","簡報、郵件主旨"],
+ ["によって／により","依據；原因；手段（書面）","部署によって異なります。／システム障害により、配信が遅れております。","公告、致歉信"]];
+const KEIGO=[["言う","おっしゃる","申す／申し上げる"],["行く","いらっしゃる","参る／伺う"],["来る","いらっしゃる／お見えになる","参る"],["いる","いらっしゃる","おる"],["する","なさる","いたす"],["見る","ご覧になる","拝見する"],["食べる・飲む","召し上がる","いただく"],["知っている","ご存じだ","存じている／存じ上げる"],["会う","お会いになる","お目にかかる"],["もらう","お受け取りになる","いただく／頂戴する"],["聞く","お聞きになる","伺う／拝聴する"],["思う","お思いになる","存じる"]];
+function jaGrammar(){
+  const {t,F}=conjugate(S.verb.trim(),S.vtype);const A=adjConj(S.adj.trim());
+  const w=x=>`<td class="w" data-dict="${esc(x.replace(/^〜/,"").replace(/[（(].*$/,""))}" data-dlang="ja">${esc(x)}</td>`;
+  const pr=lim("ptab",PARTICLES.map(p=>`<tr data-row="${esc(p.join(" "))}"><td><b style="font-size:15px">${esc(p[0])}</b></td><td>${esc(p[1])}</td><td>${esc(p[2])} ${sayBtn(p[2].split("／")[0],"ja")}</td><td style="color:var(--sub)">${esc(p[3])}</td><td class="act">${addBtn({lang:"ja",term:"助詞「"+p[0]+"」",meaning:p[1],example:p[2],type:"句型",src:"助詞表"})}</td></tr>`));
+  const kg=lim("keigo",KEIGO.map(k=>`<tr data-row="${esc(k.join(" "))}">${w(k[0])}<td>${k[1]}</td><td>${k[2]}</td><td class="act">${addBtn({lang:"ja",term:k[0]+" → "+k[1]+"／"+k[2],meaning:"尊敬／謙讓",type:"字詞",src:"敬語表"})}</td></tr>`));
+  const on=S.onlyNew.jlpt;
+  const jl=["N1","N2","N3"].map(l=>{const L=LEX.jlpt[l].filter(x=>!on||isNew(x.added));const r=lim("jl"+l,L.map(g=>`<tr data-row="${esc(g.g+" "+g.m+" "+g.ex)}">${w(g.g)}<td>${newTag(g.added)}${esc(g.m)}</td><td>${esc(g.ex)} ${sayBtn(g.ex,"ja")}</td><td class="act">${addBtn({lang:"ja",term:g.g,meaning:g.m,example:g.ex,type:"句型",src:"文法 "+l})}</td></tr>`),8);
+    return `<h4><span class="b c" style="--c:var(--ja)">${l}</span> <span style="font-size:12px;color:var(--mut)">${L.length} 筆</span></h4><div class="scroll"><table class="t lim" id="jl${l}"><tr><th>文法</th><th>意思</th><th>商用例句</th><th></th></tr>${r.rows}</table></div>${r.btn}`}).join("");
+  return [
+  P("ja-jlpt","📈 商用文法分級（N1 → N2 → N3）",lexInfo("jlpt")+jl),
+  P("ja-verb","🔧 動詞活用產生器",`<p>輸入辭書形動詞（例：書く、食べる、検討する、来る），自動判斷種類並列出常用變化。「る」結尾若判斷錯誤，可手動切換。</p>
+   <form id="vform" style="display:flex;gap:8px;flex-wrap:wrap"><input class="inp" id="vq" value="${esc(S.verb)}" style="max-width:220px">
+    <select class="inp" id="vt" style="max-width:190px">${[["auto","自動判斷"],["godan","五段"],["ichidan","一段"],["suru","サ變"],["kuru","カ變"]].map(([v,l])=>`<option value="${v}" ${S.vtype===v?"selected":""}>${l}</option>`).join("")}</select>
+    <button class="btn pri">變化</button>${addBtn({lang:"ja",term:S.verb,type:"單字",meaning:"",src:"動詞活用"})}</form>
+   ${F?`<div style="margin-top:10px"><span class="b c" style="--c:var(--ja)">${TYPEN[t]}</span></div><div class="conj">${F.map((x,i)=>`<div><small>${CONJ_L[i]}</small><b>${esc(x)}</b> ${sayBtn(x.replace(/（.*?）/g,""),"ja")}</div>`).join("")}</div>`:`<p>無法辨識，請輸入以う段假名結尾的辭書形。</p>`}`),
+  P("ja-adj","🧩 形容詞活用",`<form id="aform" style="display:flex;gap:8px"><input class="inp" id="aq" value="${esc(S.adj)}" style="max-width:220px" placeholder="高い、静か"><button class="btn pri">變化</button></form>
+   <div style="margin-top:10px"><span class="b c" style="--c:var(--ja)">${A.t}</span></div><div class="conj">${A.F.map(([x,l])=>`<div><small>${l}</small><b>${esc(x)}</b></div>`).join("")}</div>`),
+  P("ja-part",`🔗 助詞用法・例句・情境（${PARTICLES.length} 組）`,`<input class="inp" data-filter="ptab" placeholder="篩選助詞或用法，例如 までに、理由" style="max-width:280px;margin-bottom:8px">
+   <div class="scroll"><table class="t lim" id="ptab"><tr><th>助詞</th><th>用法</th><th>例句</th><th>商用情境</th><th></th></tr>${pr.rows}</table></div>${pr.btn}`),
+  P("ja-keigo","🎩 商用敬語對照表",`<div class="scroll"><table class="t lim" id="keigo"><tr><th>一般</th><th>尊敬語（對方）</th><th>謙讓語（自己）</th><th></th></tr>${kg.rows}</table></div>${kg.btn}`),
+  P("ja-type","📋 動詞三大類怎麼分",`<div class="scroll"><table class="t"><tr><th>種類</th><th>判斷方式</th><th>例</th></tr>
+   <tr><td>第一類（五段）</td><td>結尾是う段假名；「る」前為 あ/う/お 段；漢字＋る 多為五段</td><td>書く、話す、待つ、読む、取る</td></tr>
+   <tr><td>第二類（一段）</td><td>「る」前為 い段或え段</td><td>食べる、見る、起きる、決める</td></tr>
+   <tr><td>第三類（不規則）</td><td>する、来る（含〜する複合動詞）</td><td>検討する、連絡する、来る</td></tr>
+   <tr><td>⚠ 例外</td><td>長得像一段但其實是五段</td><td>帰る、入る、走る、知る、切る、要る</td></tr></table></div>`)].join("");
+}
+const JAPAT=[
+ ["開頭問候",[["いつもお世話になっております。","承蒙關照（郵件第一句）"],["突然のご連絡失礼いたします。","冒昧聯絡（初次）"],["ご無沙汰しております。","久疏問候"]],[["お疲れさまです。","辛苦了（公司內）"],["今、お時間よろしいでしょうか。","現在方便嗎？"]]],
+ ["自我介紹",[["○○株式会社の△△と申します。","我是○○公司的△△"],["このたび担当となりました△△です。","此次擔任窗口的△△"]],[["はじめまして、△△と申します。","初次見面"],["本日はよろしくお願いいたします。","今天請多指教"]]],
+ ["請託",[["ご確認のほど、よろしくお願い申し上げます。","敬請確認"],["ご対応いただけますと幸いです。","若能協助處理將不勝感激"],["ご検討いただけますでしょうか。","能否請您考慮"]],[["お願いできますか。","可以麻煩你嗎"],["〜していただけませんか。","能幫我…嗎"]]],
+ ["緩衝語",[["恐れ入りますが、","不好意思（請託前）"],["誠に勝手ながら、","雖然是我方的單方面決定"],["差し支えなければ、","若您不介意的話"]],[["すみませんが、","不好意思"],["申し訳ないんですが、","很抱歉"]]],
+ ["附件・資料",[["資料を添付いたしますので、ご査収ください。","附上資料，請查收"],["詳細は添付ファイルをご参照ください。","詳情請參閱附件"]],[["資料、後でメールでお送りしますね。","資料等等用郵件寄給你"],["画面共有しますね。","我分享一下畫面"]]],
+ ["確認・澄清",[["念のため確認させていただきたく存じます。","為慎重起見想確認一下"],["認識に相違がないかご確認ください。","請確認理解是否一致"]],[["〜ということでよろしいでしょうか。","是…這樣理解對嗎"],["確認なんですが、","我確認一下"]]],
+ ["跟進・催促",[["先日お送りした件について、その後いかがでしょうか。","前幾天寄的那件事後續如何"],["ご多忙のところ恐縮ですが、ご返信いただけますと幸いです。","百忙中打擾，盼回覆"]],[["例の件、どうなりましたか。","那件事後來怎樣了"],["進捗いかがですか。","進度如何"]]],
+ ["日程調整",[["ご都合のよい日時をお知らせいただけますでしょうか。","能否告知方便的時間"],["下記日程でご都合いかがでしょうか。","以下時段是否方便"]],[["来週のどこかで、お時間いただけますか。","下週能撥點時間嗎"],["何時ごろがご都合よろしいですか。","大概幾點方便"]]],
+ ["提議",[["〜してはいかがでしょうか。","…您覺得如何"],["下記の通りご提案いたします。","提案如下"]],[["〜するのはどうでしょう。","…怎麼樣"],["一つ提案があるんですが、","我有個提議"]]],
+ ["同意・保留",[["承知いたしました。","了解（正式）"],["一度社内で検討させていただきます。","容我們內部討論一下"]],[["かしこまりました。","明白了"],["おっしゃる通りです。","您說得對"],["持ち帰って検討します。","帶回去討論"]]],
+ ["婉拒",[["誠に残念ながら、今回は見送らせていただきます。","很遺憾這次先不考慮"],["ご期待に添えず申し訳ございません。","未能符合期待很抱歉"]],[["ちょっと難しいですね…。","這有點困難…"],["今回はご遠慮させていただきます。","這次就先婉拒了"]]],
+ ["道歉",[["ご迷惑をおかけし、誠に申し訳ございません。","造成困擾深感抱歉"],["深くお詫び申し上げます。","深表歉意"]],[["申し訳ありません。","對不起"],["大変失礼いたしました。","非常失禮"]]],
+ ["感謝",[["ご丁寧にありがとうございます。","感謝您的周到"],["ご尽力いただき、心より感謝申し上げます。","衷心感謝您的盡力"]],[["助かりました。","幫了大忙"],["本当にありがとうございます。","真的很謝謝"]]],
+ ["電話應對",[],[["お電話ありがとうございます、○○でございます。","感謝來電，這裡是○○"],["少々お待ちください。","請稍等"],["担当の者に代わります。","幫您轉接負責人"],["折り返しお電話いたします。","稍後回電給您"]]],
+ ["結尾",[["引き続きよろしくお願いいたします。","今後也請多關照"],["取り急ぎご連絡まで。","先行聯絡"],["ご不明な点がございましたら、お気軽にお問い合わせください。","如有不明請隨時詢問"]],[["では、失礼いたします。","那我先告辭了"],["お先に失礼します。","我先下班了"]]]];
+const ENPAT=[
+ ["Opening 開場",[["I hope this email finds you well.","希望您一切安好"],["I am writing to inquire about…","來信詢問關於…"],["I'm reaching out regarding…","聯繫您是關於…"]],[["Thanks for jumping on the call.","謝謝撥空上線"],["Let's get started.","我們開始吧"]]],
+ ["Request 請求",[["I would appreciate it if you could…","若您能…將不勝感激"],["Could you kindly provide…?","能否請您提供…"],["Would it be possible to…?","是否有可能…"]],[["Would you mind…?","你介意…嗎"],["Can I ask you a favor?","能幫個忙嗎"]]],
+ ["Follow-up 跟進",[["I'm following up on my previous email regarding…","追蹤先前關於…的郵件"],["Just a gentle reminder that…","溫馨提醒…"]],[["Any updates on…?","…有進度嗎"],["Where are we on…?","…進行到哪了"]]],
+ ["Clarify 確認",[["Could you please clarify…?","能否請您說明…"],["To confirm, …","確認一下，…"]],[["Just to make sure we're on the same page…","確認我們想法一致"],["So what you're saying is…","所以你的意思是…"]]],
+ ["Attachments 附件",[["Please find attached…","附件為…"],["For your reference, …","供您參考，…"]],[["I'll send it over right after this.","等等就寄給你"],["I'll drop it in the chat.","我貼到聊天室"]]],
+ ["Suggest 建議",[["I would like to propose…","我想提議…"],["It may be worth considering…","或許值得考慮…"]],[["What if we…?","如果我們…呢"],["How about…?","…怎麼樣"]]],
+ ["Agree 同意",[["We are in agreement with…","我們同意…"],["That works for us.","這對我們可行"]],[["That makes sense.","有道理"],["I'm on board.","我支持"]]],
+ ["Disagree 保留",[["I have some reservations about…","我對…有些保留"],["While I understand…, I'm concerned that…","雖然理解…，但擔心…"]],[["I see your point, but…","我懂你的意思，但…"],["I'm not sure that'll work.","不確定行得通"]]],
+ ["Decline 婉拒",[["Unfortunately, we are unable to… at this time.","很遺憾目前無法…"],["We regret to inform you that…","很遺憾通知您…"]],[["I'm afraid I can't make it.","恐怕我沒辦法參加"],["That's going to be tough for us.","這對我們有難度"]]],
+ ["Apologize 道歉",[["Please accept our apologies for…","對…深表歉意"],["We apologize for any inconvenience caused.","造成不便敬請見諒"]],[["Sorry about the mix-up.","抱歉搞混了"],["My bad, I'll fix that.","我的錯，馬上改"]]],
+ ["Deadline 時程",[["Please submit … by EOD Friday.","請於週五下班前提交…"],["We are on track to deliver by…","預計可於…前交付"]],[["Can we push it to next week?","能延到下週嗎"],["We're running a bit behind.","我們進度有點落後"]]],
+ ["Meeting 會議",[["The purpose of this meeting is to…","本次會議目的是…"],["Please find the agenda below.","議程如下"]],[["Let's move on to the next item.","進入下一個議題"],["Let's take this offline.","這個會後再談"],["Can we circle back to that?","等等再回到這點好嗎"]]],
+ ["Presenting 簡報",[["As shown in the chart, …","如圖所示，…"],["The data indicates that…","數據顯示…"]],[["Let me walk you through…","我帶大家看一下…"],["The key takeaway is…","重點是…"]]],
+ ["Negotiation 談判",[["We are prepared to offer…","我們願意提供…"],["This offer is contingent on…","此報價以…為前提"]],[["Is there any wiggle room on the price?","價格有調整空間嗎"],["Can we meet halfway?","各退一步如何"]]],
+ ["Thanks 感謝",[["Thank you for your prompt reply.","感謝您迅速回覆"],["We greatly appreciate your support.","非常感謝您的支持"]],[["Thanks a lot, that helps.","謝啦，很有幫助"],["I owe you one.","欠你一次"]]],
+ ["Closing 結尾",[["Please do not hesitate to contact me if you have any questions.","如有問題請隨時聯繫"],["I look forward to hearing from you.","期待您的回覆"]],[["Let me know if anything comes up.","有狀況再跟我說"],["Talk soon.","再聊"]]]];
+function patView(PT,lang,title){
+  const c=lang==="ja"?"var(--ja)":"var(--en)";const pre=lang+"pat";
+  const cell=(arr,kind)=>arr.map(([s,m])=>`<div style="margin-bottom:6px"><span class="${kind==="書面"?"tagw":"tags"}">${kind}</span><b>${esc(s)}</b> ${sayBtn(s.replace(/[○△…]/g,""),lang)}<div style="font-size:12px;color:var(--sub)">${esc(m)} ${addBtn({lang,term:s,meaning:m,type:"句型",src:title+"・"+kind})}</div></div>`).join("")||`<span style="color:var(--mut)">—</span>`;
+  return `<div class="panel"><p style="margin:0"><span class="tagw">書面</span>郵件、文件、公告　<span class="tags">口語</span>會議、電話、當面。共 ${PT.length} 個情境，每個情境可單獨收合；每句可 🔊 朗讀、＋單字庫。</p>
+   <input class="inp" data-filtercards="patc" placeholder="篩選情境或句子" style="max-width:280px;margin-top:8px"></div>`+
+   PT.map((p,i)=>`<div class="patc" data-row="${esc(p[0]+" "+p[1].flat().join(" ")+" "+p[2].flat().join(" "))}">${P(pre+i,`${esc(p[0])} <span style="font-size:12px;color:var(--mut);font-weight:400">書面 ${p[1].length}・口語 ${p[2].length}</span>`,`<div class="pat2"><div>${cell(p[1],"書面")}</div><div>${cell(p[2],"口語")}</div></div>`,{style:`border-left:4px solid ${c}`})}</div>`).join("");
+}
+const jaPatterns=()=>patView(JAPAT,"ja","商用日文句型");
+const enPatterns=()=>patView(ENPAT,"en","商用英文句型");
+const IRR=[["be","was/were","been"],["become","became","become"],["begin","began","begun"],["bring","brought","brought"],["build","built","built"],["buy","bought","bought"],["choose","chose","chosen"],["come","came","come"],["cut","cut","cut"],["deal","dealt","dealt"],["do","did","done"],["draw","drew","drawn"],["drive","drove","driven"],["fall","fell","fallen"],["find","found","found"],["forecast","forecast","forecast"],["get","got","got/gotten"],["give","gave","given"],["go","went","gone"],["grow","grew","grown"],["hold","held","held"],["keep","kept","kept"],["know","knew","known"],["lead","led","led"],["leave","left","left"],["lend","lent","lent"],["lose","lost","lost"],["make","made","made"],["mean","meant","meant"],["meet","met","met"],["pay","paid","paid"],["put","put","put"],["rise","rose","risen"],["run","ran","run"],["say","said","said"],["see","saw","seen"],["sell","sold","sold"],["send","sent","sent"],["set","set","set"],["speak","spoke","spoken"],["spend","spent","spent"],["take","took","taken"],["teach","taught","taught"],["tell","told","told"],["think","thought","thought"],["understand","understood","understood"],["withdraw","withdrew","withdrawn"],["write","wrote","written"]];
+function enGrammar(){
+  const w=x=>`<td class="w" data-dict="${esc(x)}" data-dlang="en">${esc(x)}</td>`;
+  const on=S.onlyNew.fam;const L=LEX.fam.filter(x=>!on||isNew(x.added));
+  const fr=lim("famt",L.map(({r,added})=>`<tr data-row="${esc(r.join(" "))}">${r[0]==="—"?"<td>—</td>":w(r[0])}<td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td style="color:var(--sub)">${newTag(added)}${esc(r[4])}</td><td class="act">${addBtn({lang:"en",term:r[0]==="—"?r[2]:r[0],meaning:"n. "+r[1]+"｜adj. "+r[2]+"｜adv. "+r[3],example:r[4],type:"單字",src:"字根家族"})}</td></tr>`),12);
+  const ir=lim("irrt",IRR.map(r=>`<tr data-row="${r.join(" ")}">${w(r[0])}<td>${r[1]}</td><td>${r[2]}</td></tr>`),12);
+  return [
+  P("en-fam",`🔁 字根家族：詞性變化`,lexInfo("fam")+`<input class="inp" data-filter="famt" placeholder="篩選，例如 nego、cost" style="max-width:260px;margin-bottom:8px">
+   <div class="scroll"><table class="t lim" id="famt"><tr><th>動詞</th><th>名詞</th><th>形容詞</th><th>副詞</th><th>商用搭配</th><th></th></tr>${fr.rows}</table></div>${fr.btn}`),
+  P("en-tense","⏱ 12 時態（商用例句）",`<div class="scroll"><table class="t"><tr><th></th><th>簡單</th><th>進行</th><th>完成</th><th>完成進行</th></tr>
+   <tr><th>現在</th><td>We ship weekly.</td><td>We are reviewing it.</td><td>I have sent the file.</td><td>We have been working on it since May.</td></tr>
+   <tr><th>過去</th><td>They approved it.</td><td>I was drafting the deck.</td><td>We had closed the deal before Q3.</td><td>She had been leading the team for years.</td></tr>
+   <tr><th>未來</th><td>I will follow up.</td><td>I'll be traveling next week.</td><td>We will have finished by Friday.</td><td>By June, I'll have been working here 3 years.</td></tr></table></div>`),
+  P("en-polite","🤝 委婉程度階梯（請託）",`<table class="t"><tr><th>程度</th><th>句型</th><th></th></tr>
+   ${[["直接","Send me the report."],["普通","Can you send me the report?"],["禮貌","Could you send me the report?"],["更禮貌","Would you mind sending me the report?"],["最委婉","I was wondering if you could send me the report."]].map(r=>`<tr><td>${r[0]}</td><td>${r[1]} ${sayBtn(r[1],"en")}</td><td class="act">${addBtn({lang:"en",term:r[1],meaning:"請託・"+r[0],type:"句型",src:"委婉階梯"})}</td></tr>`).join("")}</table>`),
+  P("en-irr",`📚 商用常見不規則動詞（${IRR.length}）`,`<input class="inp" data-filter="irrt" placeholder="篩選，例如 sp" style="max-width:240px;margin-bottom:8px"><div class="scroll"><table class="t lim" id="irrt"><tr><th>原形</th><th>過去式</th><th>過去分詞</th></tr>${ir.rows}</table></div>${ir.btn}`)].join("");
+}
+
+/* ================= 單字庫 ================= */
+const LV=["不熟","學習中","已熟"];
+function viewVocab(){
+  const V=S.v;let all=Object.values(vocab).sort((a,b)=>b.added.localeCompare(a.added)||a.term.localeCompare(b.term));
+  let a=all.filter(x=>(V.lang==="all"||x.lang===V.lang)&&(V.type==="all"||x.type===V.type)&&(V.lv==="all"||x.status===+V.lv)&&(!S.q||(x.term+x.meaning+x.example+x.note).toLowerCase().includes(S.q.toLowerCase())));
+  const cnt=(f)=>all.filter(f).length;
+  const chips=(key,opts)=>opts.map(([v,l,c])=>`<span class="chip ${V[key]===v?"on":""}" style="--c:${c||"var(--vocab)"}" data-vf="${key}" data-vv="${v}">${l}</span>`).join("");
+  let h=`<div class="tools"><button class="btn grn" data-vact="review">🃏 開始複習（${cnt(x=>x.status<2)}）</button><button class="btn" data-vact="form">✏️ 手動新增</button><button class="btn" data-go="dict">📖 去查字典</button><span style="flex:1"></span><button class="btn" data-act="export">⬇ 匯出備份</button><button class="btn" data-act="import">⬆ 匯入備份</button></div>`;
+  if(V.form)h+=`<div class="panel"><h3>✏️ 手動新增</h3><form id="vaddform"><div class="form2">
+    <select class="inp" id="na-lang"><option value="en">🇺🇸 英文</option><option value="ja">🇯🇵 日文</option></select>
+    <select class="inp" id="na-type"><option>單字</option><option>字詞</option><option>句型</option></select>
+    <input class="inp" id="na-term" placeholder="單字／字詞／句型 *" required><input class="inp" id="na-read" placeholder="讀音／音標">
+    <input class="inp" id="na-mean" placeholder="中文意思"><input class="inp" id="na-ex" placeholder="例句"><input class="inp" id="na-note" placeholder="筆記（選填）"></div>
+    <div style="margin-top:8px"><button class="btn grn">加入單字庫</button> <button class="btn" type="button" data-vact="form">取消</button></div></form></div>`;
+  if(V.mode==="review")return h+viewReview(all.filter(x=>x.status<2&&(V.lang==="all"||x.lang===V.lang)));
+  h+=`<div class="bar">${chips("lang",[["all","全部"],["en","🇺🇸 英文","var(--en)"],["ja","🇯🇵 日文","var(--ja)"]])}<span class="lbl">類型</span>${chips("type",[["all","全部"],["單字","單字"],["字詞","字詞"],["句型","句型"]])}<span class="lbl">熟悉度</span>${chips("lv",[["all","全部"],["0","不熟","#c0663f"],["1","學習中","#c08a1e"],["2","已熟","#5c7a5a"]])}<span class="cnt">${a.length} / ${all.length} 筆</span></div>`;
+  if(!all.length)return h+`<div class="panel"><p>單字庫還是空的。在字典查詢結果、文法表、句型表、週報或學習卡片上按「＋單字庫」，就會收進這裡；也可以「手動新增」。之後用「🃏 開始複習」做翻卡練習。</p></div>`;
+  return h+`<div class="vgrid">${a.map(x=>`<div class="vc" style="--c:${x.lang==="en"?"var(--en)":"var(--ja)"}">
+    <div style="display:flex;align-items:center;gap:4px"><span class="term">${hl(x.term)}</span>${x.reading?`<span class="rd">${esc(x.reading)}</span>`:""}${sayBtn(x.term.replace(/[〜→／].*$/,""),x.lang)}<span style="margin-left:auto" class="b">${esc(x.type)}</span></div>
+    ${x.meaning?`<div class="mn">${hl(x.meaning)}</div>`:`<div class="mn" style="color:var(--mut)">（尚未填寫意思）</div>`}
+    ${x.example?`<div class="ex">${hl(x.example)}</div>`:""}
+    ${x.note?`<div style="font-size:12px;color:var(--sub)">📝 ${esc(x.note)}</div>`:""}
+    <div class="row">${LV.map((l,i)=>`<span class="lv l${i} ${x.status===i?"on":""}" data-vlv="${esc(x.id)}" data-i="${i}">${l}</span>`).join("")}
+      <span style="flex:1"></span><button class="mini" data-dict="${esc(x.term.replace(/[〜→／].*$/,"")||x.term)}" data-dlang="${x.lang}">📖</button><button class="mini" data-vnote="${esc(x.id)}">📝</button><button class="mini" data-vdel="${esc(x.id)}">🗑</button></div>
+    <div style="font-size:10.5px;color:var(--mut);margin-top:5px">${esc(x.src||"")} · ${esc(x.added)}</div></div>`).join("")}</div>`;
+}
+function viewReview(list){
+  if(!list.length)return `<div class="panel"><p>沒有需要複習的項目 🎉（不熟／學習中都已清空）</p><button class="btn" data-vact="list">回列表</button></div>`;
+  const i=S.v.fi%list.length,x=list[i];
+  return `<div class="flash ${S.v.show?"show":""}"><div style="font-size:12px;color:var(--mut);margin-bottom:10px">${i+1} / ${list.length} · ${x.lang==="en"?"🇺🇸 英文":"🇯🇵 日文"} · ${esc(x.type)} · 目前：${LV[x.status]}</div>
+    <div class="ft">${esc(x.term)}</div><div>${sayBtn(x.term.replace(/[〜→／].*$/,""),x.lang)}</div>
+    <div class="fb">${x.reading?`<div style="color:var(--mut)">${esc(x.reading)}</div>`:""}<div><b>${esc(x.meaning||"（未填意思）")}</b></div>${x.example?`<div class="ex" style="font-size:13px;color:var(--sub);margin-top:6px">${esc(x.example)}</div>`:""}</div>
+    <div class="tools" style="justify-content:center;margin-top:18px">${S.v.show?`<button class="btn" data-rv="0" data-id="${esc(x.id)}">😵 還不熟</button><button class="btn" data-rv="1" data-id="${esc(x.id)}">🤔 有點印象</button><button class="btn grn" data-rv="2" data-id="${esc(x.id)}">✅ 記住了</button>`:`<button class="btn pri" data-vact="flip">翻面看答案</button>`}</div>
+    <button class="more" data-vact="list">結束複習</button></div>`;
+}
+
+/* ================= 資料來源狀態 ================= */
+function homeStatus(){const st=DB.status;if(!st||!st.sources)return"";const v=Object.values(st.sources),ok=v.filter(s=>s.ok).length;
+  return `<div class="panel" style="margin-top:20px;font-size:12.5px;color:var(--sub)">🩺 資料來源 ${ok}/${v.length} 正常・最後執行 ${esc((st.updated||"").replace("T"," "))}　<button class="more" data-go="arch">查看詳情 →</button></div>`}
+function statusPanel(){const st=DB.status;
+  if(!st||!st.sources||!Object.keys(st.sources).length)return P("ar-status","🩺 資料來源狀態",`<p>尚未執行過。請到 GitHub › Actions › 「資料來源自我檢測」按 Run workflow，這裡會列出每個來源是否抓得到。</p>`);
+  const v=Object.values(st.sources).sort((a,b)=>(a.module||"").localeCompare(b.module||"")),ok=v.filter(s=>s.ok).length,m=st.model||{};
+  const rows=v.map(s=>`<tr><td>${s.ok?"✅":"❌"}</td><td>${esc(s.name)}</td><td>${esc(s.module)}</td><td>${s.count||0}</td><td>${esc((s.last_ok||"—").replace("T"," "))}</td><td style="color:var(--sub);font-size:12px">${esc(s.error||"")}</td></tr>`).join("");
+  return P("ar-status",`🩺 資料來源狀態（${ok}/${v.length} 正常）`,`<p>最後執行：${esc((st.updated||"").replace("T"," "))}｜AI：${esc(m.model||"")}（備援 ${esc(m.fallback||"")}），該次呼叫 ${m.calls||0} 次${(m.unavailable||[]).length?"｜暫不可用："+esc(m.unavailable.join("、")):""}${m.has_key===false?"｜⚠ 尚未設定 GEMINI_API_KEY":""}</p>
+   <div class="scroll"><table class="t"><tr><th></th><th>來源</th><th>模組</th><th>筆數</th><th>最後成功</th><th>錯誤訊息</th></tr>${rows}</table></div>
+   ${(st.runs||[]).length?`<h4>最近執行紀錄</h4><ul class="pts">${st.runs.slice(0,6).map(r=>`<li>${esc((r.at||"").replace("T"," "))}：${esc((r.modules||[]).join(", "))}${(r.notes||[]).length?"｜"+esc(r.notes.slice(-3).join("；")):""}</li>`).join("")}</ul>`:""}`)}
+
+/* ================= 架構說明 ================= */
+function viewArch(){
+  return collBar()+statusPanel()+[
+  P("ar-v4","🆕 v4 調整清單",`<table class="t">
+   <tr><td class="ok">✔</td><td>字典改為「分層查詢」，needy、subtle 這類字都查得到，並列出<b>所有意思</b>（詞性、中文、英/日文定義、例句＋翻譯、使用情境）；每個意思都能單獨＋單字庫</td></tr>
+   <tr><td class="ok">✔</td><td>字根家族、日文 N1～N3 商用文法改為「字庫」：每天自動從網路新增，並有「☁️ 從網路抓新的」立即刷新、NEW 標記、只看新增</td></tr>
+   <tr><td class="ok">✔</td><td>日文商用文法排序改為 N1 → N2 → N3，並移到日文文法頁最上方</td></tr>
+   <tr><td class="ok">✔</td><td>所有區塊可點標題收合（會記住狀態），另有全部展開／全部收合；長表格預設只顯示前 10 筆；句型頁每個情境各自收合</td></tr>
+   <tr><td class="ok">✔</td><td>週報可整期、分區（日文文法／商用日文／英文／ACGN）、或單則 ACGN 動態收藏；珍藏頁的週報再細分區</td></tr>
+   <tr><td class="ok">✔</td><td>頂部搜尋加下拉選單：預設「本站查詢」，可切換 Google、維基、YouTube、巴哈姆特、動畫瘋、AniList、MyAnimeList、Steam、字典網站</td></tr>
+  </table>`),
+  P("ar-dict","🔎 為什麼 needy、subtle 之前查不到？怎麼解決",`<table class="t">
+   <tr><td class="ng">原因</td><td>① 預覽視窗不連網，v3 只有 4 個內建示範字。② 就算部署後連網，免費英英字典只有英文定義，中文只能整個字翻一次，所以多義字只會看到一種翻譯。</td></tr>
+   <tr><td class="ok">①</td><td><b>站內詳解</b>：學習內容、文法表、句型、字庫、單字庫裡出現的字，排程用 Gemini 產生「所有意思＋中文＋情境＋例句」並存成快取，最完整。</td></tr>
+   <tr><td class="ok">②</td><td><b>離線辭典</b>：英文用 ECDICT（MIT 授權、數十萬詞條、每個字多個中文義項，轉成繁體）；日文用 JMdict（CC BY-SA，常用詞約兩萬筆、多義項英文釋義）。依字首切成小檔，查哪個字只下載那一小檔，不連外部 API 也查得到。</td></tr>
+   <tr><td class="ok">③</td><td><b>線上 API</b>：Free Dictionary（英）、Wiktionary（日）補例句與發音。</td></tr>
+   <tr><td class="ok">④</td><td><b>🤖 請求 AI 完整詳解</b>：前三層都不夠完整時按一下，會開啟你 GitHub repo 的預填 Issue，送出後約 1～2 分鐘排程自動補進站內詳解（只接受你本人帳號送出的請求，避免別人濫用額度）。</td></tr>
+  </table><p>預覽版內建完整詳解的字：subtle、needy、negotiate、circle back、wrap up、次第、査収、基調。</p>`),
+  P("ar-lex","☁️ 字庫怎麼自動更新",`<table class="t">
+   <tr><td>自動</td><td>每天 10:00 語言排程順便用 Gemini（免費層）產生 3 組新的商用字根家族、每級 1～2 句 N1～N3 商用文法；以單字或文法本身去重，標 NEW 三天。</td></tr>
+   <tr><td>立即</td><td>按「☁️ 從網路抓新的」→ 開啟預填 Issue → 送出後約 1～2 分鐘完成。（網頁本身不放 API 金鑰，所以由 GitHub 代為執行，這是零費用又安全的做法。）</td></tr>
+   <tr><td>預覽</td><td>預覽版按下去會直接模擬抓到新資料，方便看效果。</td></tr></table>`),
+  P("ar-old","1️⃣ 整合了哪些舊系統",`<div class="scroll"><table class="t">
+   <tr><th>舊系統</th><th>新架構中的位置</th></tr>
+   <tr><td>學日文／學英文／學語言</td><td>語言學習＋字典・文法＋週報＋單字庫</td></tr>
+   <tr><td>ACGN ERP</td><td>ACGN 模組（動畫/漫畫/遊戲/小說，含圖片）</td></tr>
+   <tr><td>漫畫（本機版）／漫畫 remote</td><td>ACGN › 漫畫 ›「連載更新」＋珍藏更新追蹤</td></tr>
+   <tr><td>新聞 remote（ACGN NewsHub）</td><td>ACGN 新聞＋首頁「今日必看」</td></tr>
+  </table></div>`),
+  P("ar-flow","2️⃣ 運作流程（零費用、不綁 Claude／公司電腦）",`<div class="flow">
+    <div class="box"><b>⏰ GitHub Actions</b>依時段／Issue 觸發</div><div class="arr">→</div>
+    <div class="box"><b>🐍 fetch.py</b>公開 API／RSS／排行榜（AniList、Bangumi、Steam、App Store、晉江、漫畫站…）→ Gemini 只負責翻譯整理</div><div class="arr">→</div>
+    <div class="box"><b>🗂 data/</b>各模組 json、字庫、字典快取、離線辭典分檔</div><div class="arr">→</div>
+    <div class="box"><b>🌐 GitHub Pages</b>手機／PC 皆可開，免登入</div></div>`),
+  P("ar-sch","3️⃣ 排程（台北時間）",`<div class="scroll"><table class="t">
+   <tr><td>每天 09:00</td><td>ACGN 四類別（含圖片）＋新聞＋漫畫連載</td></tr>
+   <tr><td>平日 10:00／17:00</td><td>語言：英文 4＋日文 5；10:00 場順便更新字庫與字典快取</td></tr>
+   <tr><td>每天 20:00</td><td>ACGN 集數/章節更新＋新聞晚間場</td></tr>
+   <tr><td>週日 21:00</td><td>週報</td></tr>
+   <tr><td>Issue 觸發</td><td>AI 詳解請求、立即刷新字庫（僅限本人）</td></tr>
+  </table></div>`),
+  P("ar-repo","4️⃣ Repo 結構（單一 repo：sunny-hub）",`<pre>sunny-hub/
+├─ index.html
+├─ fetch.py                      ← python fetch.py --modules acgn,news
+├─ modules/
+│   ├─ lang.py acgn.py news.py manga_sites.py weekly.py images.py
+│   ├─ lexicon.py               ← 字根家族、JLPT 字庫自動新增
+│   ├─ dictionary.py            ← 站內詳解（Gemini）＋離線辭典建置
+│   └─ common.py
+├─ data/
+│   ├─ lang.json acgn.json news.json lexicon.json
+│   ├─ weekly/index.json
+│   └─ dict/detail.json  dict/en/aa.json…  dict/ja/0.json…
+├─ .github/workflows/hub.yml     ← 排程＋Issue 觸發
+└─ README.md</pre><p>網址：<code>https://lindor8787-sun.github.io/ACGN_sunny/</code></p>`),
+  P("ar-next","5️⃣ 確認後才執行（第二階段）",`<table class="t">
+   <tr><td class="q">●</td><td>查證當下 Gemini 免費且支援 grounding 的模型（<code>GEMINI_MODEL</code> 可改）</td></tr>
+   <tr><td class="q">●</td><td>建置離線辭典分檔（ECDICT 轉繁體、JMdict 常用詞），確認檔案大小</td></tr>
+   <tr><td class="q">●</td><td>產出完整程式、離線驗證，打包 <code>sunny-hub-v1.zip</code>＋README</td></tr>
+   <tr><td class="q">●</td><td>可選：停用此帳號內殘留的舊排程</td></tr></table>`)].join("");
+}
+
+/* ================= 頂部搜尋（下拉切換） ================= */
+const QSITES=[
+ ["本站",[["site","🏠 本站查詢",""]]],
+ ["綜合",[["google","Google","https://www.google.com/search?q={q}"],["wiki","維基百科","https://zh.wikipedia.org/w/index.php?search={q}"],["yt","YouTube","https://www.youtube.com/results?search_query={q}"]]],
+ ["ACGN",[["baha","巴哈姆特（Google 站內）","https://www.google.com/search?q=site%3Agamer.com.tw+{q}"],["ani","動畫瘋（Google 站內）","https://www.google.com/search?q=site%3Aani.gamer.com.tw+{q}"],["anilist","AniList","https://anilist.co/search/anime?search={q}"],["mal","MyAnimeList","https://myanimelist.net/search/all?q={q}"],["steam","Steam","https://store.steampowered.com/search/?term={q}"],["webtoon","Webtoon（Google 站內）","https://www.google.com/search?q=site%3Awebtoons.com+{q}"],["qidian","起點（Google 站內）","https://www.google.com/search?q=site%3Aqidian.com+{q}"]]],
+ ["字典",[["camb","Cambridge 英漢","https://dictionary.cambridge.org/dictionary/english-chinese-traditional/{q}"],["weblio","Weblio","https://www.weblio.jp/content/{q}"],["jisho","Jisho","https://jisho.org/search/{q}"]]]];
+const QMAP=Object.fromEntries(QSITES.flatMap(g=>g[1]).map(o=>[o[0],o]));
+function qsHtml(){return QSITES.map(([g,os])=>`<optgroup label="${g}">${os.map(o=>`<option value="${o[0]}" ${S.qs===o[0]?"selected":""}>${o[1]}</option>`).join("")}</optgroup>`).join("")}
+function goExternal(){const o=QMAP[S.qs],q=document.getElementById("q").value.trim();if(!o||!o[2]||!q)return;window.open(o[2].replace("{q}",encodeURIComponent(q)),"_blank","noopener")}
+
+/* ================= Render / 事件 ================= */
+const ORDER=["home","lang","dict","acgn","news","fav","weekly","vocab","arch"];
+const SHORT={lang:"語言",dict:"字典",news:"新聞",vocab:"單字",arch:"架構"};
+function navHtml(mobile){
+  return ORDER.map(k=>{const n=k==="fav"?Object.keys(favs).length:k==="vocab"?Object.keys(vocab).length:k==="weekly"?DB.weeklies.length:(MODS[k].cats?DB.items.filter(x=>x.mod===k).length:"");
+    if(mobile)return `<button class="${S.mod===k?"on":""}" data-go="${k}"><span class="ic">${MODS[k].ic}</span>${SHORT[k]||MODS[k].name}</button>`;
+    return (k==="fav"?'<div class="nav-sep"></div>':k==="arch"?'<div class="nav-sep"></div>':"")+`<button class="nav-btn ${S.mod===k?"on":""}" data-go="${k}"><span class="ic">${MODS[k].ic}</span>${MODS[k].name}<span class="n">${n||""}</span></button>`}).join("");
+}
+function render(){
+  VREG=[];PKEYS=[];
+  document.getElementById("nav").innerHTML=navHtml(false);
+  document.getElementById("bnav").innerHTML=navHtml(true);
+  document.getElementById("ttl").textContent=MODS[S.mod].ic+" "+MODS[S.mod].name;
+  const v=document.getElementById("view");
+  const V={home:viewHome,fav:viewFav,weekly:viewWeekly,arch:viewArch,dict:viewDict,vocab:viewVocab};
+  v.innerHTML=V[S.mod]?V[S.mod]():viewList(S.mod);
+  const g=v.querySelector("[data-n]");const c=document.getElementById("cnt");if(c)c.textContent=(g?g.dataset.n:0)+" 筆";
+}
+async function openDict(word,lang){S.mod="dict";S.dict.tab="search";S.dict.lang=lang==="ja"?"ja":"en";S.dict.word=word;S.dict.res={loading:true};render();window.scrollTo(0,0);
+  const r=await lookup(word,S.dict.lang);if(S.dict.word===word){S.dict.res=r;render()}}
+function backup(){return{version:1,exportedAt:new Date().toISOString(),favs,vocab}}
+const saveColl=()=>ls.set(LS.coll,S.coll);
+document.addEventListener("click",e=>{
+  const z=e.target.closest("[data-zoom]");if(z){const lb=document.getElementById("lb");document.getElementById("lbimg").src=z.src;document.getElementById("lbcap").textContent=z.dataset.zoom;lb.classList.add("on");return}
+  if(e.target.closest("#lb")){document.getElementById("lb").classList.remove("on");return}
+  if(e.target.closest("#qgo")){goExternal();return}
+  const t=e.target.closest("[data-fav],[data-addv],[data-say],[data-aireq],[data-lexref],[data-onlynew],[data-coll],[data-collall],[data-more],[data-wsub],[data-dict],[data-go],[data-cat],[data-day],[data-f],[data-f2],[data-open],[data-favcat],[data-act],[data-dtab],[data-dl],[data-wk],[data-openwk],[data-vf],[data-vact],[data-vlv],[data-vdel],[data-vnote],[data-rv]");if(!t)return;
+  const d=t.dataset;
+  if(d.fav!==undefined){e.stopPropagation();return toggleFav(d.fav)}
+  if(d.addv!==undefined){const o=VREG[+d.addv];if(o)addVocab(o);return}
+  if(d.say!==undefined)return speak(d.say,d.slang);
+  if(d.aireq!==undefined){if(PREVIEW){toast("🤖 已送出 AI 詳解請求（預覽模擬）：正式版約 1～2 分鐘後自動補進字典")}else window.open(issueUrl(`[dict] ${d.aireq} (${d.alang})`,"由 Sunny Hub 發出：請產生此字詞的完整詳解（所有意思、中文、情境、例句）。"),"_blank");return}
+  if(d.lexref)return refreshLex(d.lexref);
+  if(d.onlynew){S.onlyNew[d.onlynew]=!S.onlyNew[d.onlynew];render();return}
+  if(d.coll){S.coll[d.coll]=!S.coll[d.coll];saveColl();render();return}
+  if(d.collall!==undefined){PKEYS.forEach(k=>S.coll[k]=d.collall==="1");saveColl();render();return}
+  if(d.more){S.more[d.more]=!S.more[d.more];render();return}
+  if(d.wsub){S.wsub=d.wsub;render();return}
+  if(d.dict!==undefined){e.preventDefault();return openDict(d.dict,d.dlang)}
+  if(d.open!==undefined){const cd=t.closest(".card");cd.classList.toggle("open");const o=cd.classList.contains("open");t.textContent=t.textContent.replace(o?"▾":"▴",o?"▴":"▾");return}
+  if(d.go){S.mod=d.go;if(d.cat)S.cat[d.go]=d.cat;savePref();render();window.scrollTo(0,0);return}
+  if(d.dtab){S.dict.tab=d.dtab;render();return}
+  if(d.dl){S.dict.lang=d.dl;S.dict.word="";S.dict.res=null;render();return}
+  if(d.wk!==undefined){S.wk=+d.wk;render();return}
+  if(d.openwk){S.mod="weekly";S.wk=Math.max(0,DB.weeklies.findIndex(x=>x.id===d.openwk));render();window.scrollTo(0,0);return}
+  if(d.vf){S.v[d.vf]=d.vv;render();return}
+  if(d.vact){const a=d.vact;if(a==="form")S.v.form=!S.v.form;if(a==="review"){S.v.mode="review";S.v.fi=0;S.v.show=false}if(a==="list")S.v.mode="list";if(a==="flip")S.v.show=true;render();return}
+  if(d.vlv){vocab[d.vlv].status=+d.i;ls.set(LS.vocab,vocab);render();return}
+  if(d.vdel){if(confirm("從單字庫移除「"+vocab[d.vdel].term+"」？")){delete vocab[d.vdel];ls.set(LS.vocab,vocab);render()}return}
+  if(d.vnote){const n=prompt("筆記／中文意思補充：",vocab[d.vnote].note||"");if(n!==null){vocab[d.vnote].note=n;ls.set(LS.vocab,vocab);render()}return}
+  if(d.rv){vocab[d.id].status=+d.rv;ls.set(LS.vocab,vocab);if(+d.rv<2)S.v.fi++;S.v.show=false;render();return}
+  if(d.cat){S.cat[S.mod]=d.cat;savePref();render();return}
+  const cat=S.cat[S.mod],dk=S.mod+cat;
+  if(d.day){let i=S.day[dk]??-1;if(d.day==="all")i=-1;else if(d.day==="prev")i=Math.min(6,i+1);else if(d.day==="next")i=i<=0?-1:i-1;S.day[dk]=i;render();return}
+  if(d.f!==undefined){S.f[cat]=d.f||"";render();return}
+  if(d.f2!==undefined){S.f2[cat]=S.f2[cat]===d.f2?"":d.f2;render();return}
+  if(d.favcat){S.favCat=d.favcat;S.wsub="all";render();return}
+  if(d.act==="export"){const b=new Blob([JSON.stringify(backup(),null,1)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download="sunny-hub-backup.json";a.click();toast("已匯出珍藏＋單字庫");return}
+  if(d.act==="import"){const i=document.createElement("input");i.type="file";i.accept=".json";i.onchange=()=>{const r=new FileReader();r.onload=()=>{try{const j=JSON.parse(r.result);if(j.favs||j.vocab){Object.assign(favs,j.favs||{});Object.assign(vocab,j.vocab||{})}else Object.assign(favs,j);ls.set(LS.fav,favs);ls.set(LS.vocab,vocab);render();toast("已匯入備份")}catch(x){toast("檔案格式錯誤")}};r.readAsText(i.files[0])};i.click();return}
+});
+document.addEventListener("submit",e=>{
+  e.preventDefault();const id=e.target.id,$=x=>document.getElementById(x).value.trim();
+  if(id==="dform"){const w=$("dq");if(w)openDict(w,S.dict.lang)}
+  if(id==="vform"){S.verb=$("vq")||"書く";S.vtype=document.getElementById("vt").value;render()}
+  if(id==="aform"){S.adj=$("aq")||"高い";render()}
+  if(id==="vaddform"){const term=$("na-term");if(!term)return;S.v.form=false;addVocab({lang:document.getElementById("na-lang").value,type:document.getElementById("na-type").value,term,reading:$("na-read"),meaning:$("na-mean"),example:$("na-ex"),note:$("na-note"),src:"手動新增"})}
+});
+document.addEventListener("change",e=>{
+  if(e.target.id==="qs"){S.qs=e.target.value;const ext=S.qs!=="site",q=document.getElementById("q");
+    q.placeholder=ext?`輸入關鍵字，按 Enter 在「${QMAP[S.qs][1]}」搜尋（另開分頁）`:"本站查詢：作品、作者、文法、標籤、來源…";
+    document.getElementById("qgo").style.display=ext?"":"none";
+    if(ext&&S.q){S.q="";render()}else if(!ext){S.q=q.value.trim();render()}q.focus()}
+});
+document.addEventListener("keydown",e=>{
+  if(e.key==="Escape")document.getElementById("lb").classList.remove("on");
+  if(e.key==="Enter"&&e.target.id==="q"&&S.qs!=="site"){e.preventDefault();goExternal()}
+});
+document.addEventListener("input",e=>{
+  if(e.target.id==="q"){if(S.qs!=="site")return;S.q=e.target.value.trim();render();return}
+  const f=e.target.dataset&&e.target.dataset.filter;
+  if(f){const q=e.target.value.toLowerCase();const tb=document.getElementById(f);if(tb)tb.classList.toggle("filtering",!!q);document.querySelectorAll("#"+f+" [data-row]").forEach(r=>r.style.display=r.dataset.row.toLowerCase().includes(q)?"":"none")}
+  const fc=e.target.dataset&&e.target.dataset.filtercards;
+  if(fc){const q=e.target.value.toLowerCase();document.querySelectorAll("."+fc).forEach(r=>r.style.display=r.dataset.row.toLowerCase().includes(q)?"":"none")}
+});
+
+async function boot(){
+  const J=(p,d)=>fetch(p+"?_="+Date.now()).then(r=>r.ok?r.json():d).catch(()=>d);
+  if(PREVIEW){DB=mockData();}
+  else{
+    const [l,a,n,w,lx,dt,st]=await Promise.all([J("data/lang.json",{items:[]}),J("data/acgn.json",{items:[]}),J("data/news.json",{items:[]}),
+      J("data/weekly/index.json",[]),J("data/lexicon.json",null),J("data/dict/detail.json",{}),J("data/status.json",null)]);
+    DB={items:[...(l.items||[]),...(a.items||[]),...(n.items||[])],weeklies:Array.isArray(w)?w:[],wparts:[],
+        meta:{last_updated:[l,a,n].map(x=>(x.meta||{}).last_updated||"").sort().pop()||""},status:st};
+    if(lx&&lx.fam)LEX=Object.assign({famPending:[],jPending:[],updated:{fam:"",jlpt:""}},lx);
+    Object.assign(DETAIL,dt||{});
+    if([l,a,n].some(x=>(x.meta||{}).seed))document.getElementById("seedbar").style.display="";
+  }
+  DB.wparts=(DB.weeklies||[]).flatMap(weeklyParts);
+  document.getElementById("qs").innerHTML=qsHtml();
+  document.getElementById("upd").textContent=DB.meta.last_updated?"更新於 "+new Date(DB.meta.last_updated).toLocaleString("zh-TW",{month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"}):"";
+  render();
+}
+boot();
+</script>
+</body>
+</html>

@@ -1,0 +1,478 @@
+{
+ "meta": {
+  "last_updated": "2026-10-20T07:17",
+  "seed": true
+ },
+ "items": [
+  {
+   "id": "news_66",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-20",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": true,
+   "summary": "官方於直播中公開第二季製作決定與前導視覺",
+   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
+   "category": "動漫",
+   "origin": "TW",
+   "source": "巴哈姆特 GNN",
+   "points": [
+    "官方於直播中公開第二季製作決定與前導視覺",
+    "原班聲優與製作公司續任，導演更換",
+    "預計明年春季開播，台灣同步代理",
+    "第一季藍光銷量為製作關鍵"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_67",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-20",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": true,
+   "summary": "國際出版商推出全新閱讀 App，首波上架 200 部作品",
+   "title": "（範例）Global publisher announces new manga app",
+   "category": "漫畫",
+   "origin": "INTL",
+   "source": "Anime News Network",
+   "points": [
+    "國際出版商推出全新閱讀 App，首波上架 200 部作品",
+    "支援繁體中文介面，部分作品日本同步更新",
+    "採免費＋付費章節混合模式"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_68",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-20",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": true,
+   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
+   "title": "（範例）年度遊戲展首日重點整理",
+   "category": "遊戲",
+   "origin": "TW",
+   "source": "4Gamers",
+   "points": [
+    "首日公開 12 款新作，其中 5 款支援繁中",
+    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
+    "兩款手遊宣布年底上市並開放事前登錄",
+    "展期至週日，部分試玩需現場預約"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_69",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-20",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "韓國網路小說英文版登上全球平台月榜第一",
+   "title": "（範例）Korean web novel tops global chart",
+   "category": "小說",
+   "origin": "INTL",
+   "source": "Korea JoongAng Daily",
+   "points": [
+    "韓國網路小說英文版登上全球平台月榜第一",
+    "作品已累計 3 億次閱讀，改編 Webtoon 同步連載",
+    "出版社計畫推出更多語言版本，含繁體中文"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_70",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-20",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "平台宣布明年起擴大日本動畫獨家授權",
+   "title": "（範例）大型串流平台調整動畫授權策略",
+   "category": "業界",
+   "origin": "INTL",
+   "source": "Variety",
+   "points": [
+    "平台宣布明年起擴大日本動畫獨家授權",
+    "亞洲地區將同步上架新番",
+    "業界預期會影響其他平台的代理競爭"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_71",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-19",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": true,
+   "summary": "官方於直播中公開第二季製作決定與前導視覺",
+   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
+   "category": "動漫",
+   "origin": "TW",
+   "source": "巴哈姆特 GNN",
+   "points": [
+    "官方於直播中公開第二季製作決定與前導視覺",
+    "原班聲優與製作公司續任，導演更換",
+    "預計明年春季開播，台灣同步代理",
+    "第一季藍光銷量為製作關鍵"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_72",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-19",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": true,
+   "summary": "國際出版商推出全新閱讀 App，首波上架 200 部作品",
+   "title": "（範例）Global publisher announces new manga app",
+   "category": "漫畫",
+   "origin": "INTL",
+   "source": "Anime News Network",
+   "points": [
+    "國際出版商推出全新閱讀 App，首波上架 200 部作品",
+    "支援繁體中文介面，部分作品日本同步更新",
+    "採免費＋付費章節混合模式"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_73",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-19",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": true,
+   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
+   "title": "（範例）年度遊戲展首日重點整理",
+   "category": "遊戲",
+   "origin": "TW",
+   "source": "4Gamers",
+   "points": [
+    "首日公開 12 款新作，其中 5 款支援繁中",
+    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
+    "兩款手遊宣布年底上市並開放事前登錄",
+    "展期至週日，部分試玩需現場預約"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_74",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-19",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "韓國網路小說英文版登上全球平台月榜第一",
+   "title": "（範例）Korean web novel tops global chart",
+   "category": "小說",
+   "origin": "INTL",
+   "source": "Korea JoongAng Daily",
+   "points": [
+    "韓國網路小說英文版登上全球平台月榜第一",
+    "作品已累計 3 億次閱讀，改編 Webtoon 同步連載",
+    "出版社計畫推出更多語言版本，含繁體中文"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_75",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-19",
+   "updated": "2026-10-20",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "平台宣布明年起擴大日本動畫獨家授權",
+   "title": "（範例）大型串流平台調整動畫授權策略",
+   "category": "業界",
+   "origin": "INTL",
+   "source": "Variety",
+   "points": [
+    "平台宣布明年起擴大日本動畫獨家授權",
+    "亞洲地區將同步上架新番",
+    "業界預期會影響其他平台的代理競爭"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_76",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-18",
+   "updated": "2026-10-19",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "官方於直播中公開第二季製作決定與前導視覺",
+   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
+   "category": "動漫",
+   "origin": "TW",
+   "source": "巴哈姆特 GNN",
+   "points": [
+    "官方於直播中公開第二季製作決定與前導視覺",
+    "原班聲優與製作公司續任，導演更換",
+    "預計明年春季開播，台灣同步代理",
+    "第一季藍光銷量為製作關鍵"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_77",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-18",
+   "updated": "2026-10-19",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
+   "title": "（範例）年度遊戲展首日重點整理",
+   "category": "遊戲",
+   "origin": "TW",
+   "source": "4Gamers",
+   "points": [
+    "首日公開 12 款新作，其中 5 款支援繁中",
+    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
+    "兩款手遊宣布年底上市並開放事前登錄",
+    "展期至週日，部分試玩需現場預約"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_78",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-18",
+   "updated": "2026-10-19",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "平台宣布明年起擴大日本動畫獨家授權",
+   "title": "（範例）大型串流平台調整動畫授權策略",
+   "category": "業界",
+   "origin": "INTL",
+   "source": "Variety",
+   "points": [
+    "平台宣布明年起擴大日本動畫獨家授權",
+    "亞洲地區將同步上架新番",
+    "業界預期會影響其他平台的代理競爭"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_79",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-17",
+   "updated": "2026-10-18",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "國際出版商推出全新閱讀 App，首波上架 200 部作品",
+   "title": "（範例）Global publisher announces new manga app",
+   "category": "漫畫",
+   "origin": "INTL",
+   "source": "Anime News Network",
+   "points": [
+    "國際出版商推出全新閱讀 App，首波上架 200 部作品",
+    "支援繁體中文介面，部分作品日本同步更新",
+    "採免費＋付費章節混合模式"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_80",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-17",
+   "updated": "2026-10-18",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "韓國網路小說英文版登上全球平台月榜第一",
+   "title": "（範例）Korean web novel tops global chart",
+   "category": "小說",
+   "origin": "INTL",
+   "source": "Korea JoongAng Daily",
+   "points": [
+    "韓國網路小說英文版登上全球平台月榜第一",
+    "作品已累計 3 億次閱讀，改編 Webtoon 同步連載",
+    "出版社計畫推出更多語言版本，含繁體中文"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_81",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-16",
+   "updated": "2026-10-17",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "官方於直播中公開第二季製作決定與前導視覺",
+   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
+   "category": "動漫",
+   "origin": "TW",
+   "source": "巴哈姆特 GNN",
+   "points": [
+    "官方於直播中公開第二季製作決定與前導視覺",
+    "原班聲優與製作公司續任，導演更換",
+    "預計明年春季開播，台灣同步代理",
+    "第一季藍光銷量為製作關鍵"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_82",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-16",
+   "updated": "2026-10-17",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
+   "title": "（範例）年度遊戲展首日重點整理",
+   "category": "遊戲",
+   "origin": "TW",
+   "source": "4Gamers",
+   "points": [
+    "首日公開 12 款新作，其中 5 款支援繁中",
+    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
+    "兩款手遊宣布年底上市並開放事前登錄",
+    "展期至週日，部分試玩需現場預約"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_83",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-16",
+   "updated": "2026-10-17",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "平台宣布明年起擴大日本動畫獨家授權",
+   "title": "（範例）大型串流平台調整動畫授權策略",
+   "category": "業界",
+   "origin": "INTL",
+   "source": "Variety",
+   "points": [
+    "平台宣布明年起擴大日本動畫獨家授權",
+    "亞洲地區將同步上架新番",
+    "業界預期會影響其他平台的代理競爭"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_84",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-15",
+   "updated": "2026-10-16",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "國際出版商推出全新閱讀 App，首波上架 200 部作品",
+   "title": "（範例）Global publisher announces new manga app",
+   "category": "漫畫",
+   "origin": "INTL",
+   "source": "Anime News Network",
+   "points": [
+    "國際出版商推出全新閱讀 App，首波上架 200 部作品",
+    "支援繁體中文介面，部分作品日本同步更新",
+    "採免費＋付費章節混合模式"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_85",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-15",
+   "updated": "2026-10-16",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "韓國網路小說英文版登上全球平台月榜第一",
+   "title": "（範例）Korean web novel tops global chart",
+   "category": "小說",
+   "origin": "INTL",
+   "source": "Korea JoongAng Daily",
+   "points": [
+    "韓國網路小說英文版登上全球平台月榜第一",
+    "作品已累計 3 億次閱讀，改編 Webtoon 同步連載",
+    "出版社計畫推出更多語言版本，含繁體中文"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_86",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-14",
+   "updated": "2026-10-15",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "官方於直播中公開第二季製作決定與前導視覺",
+   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
+   "category": "動漫",
+   "origin": "TW",
+   "source": "巴哈姆特 GNN",
+   "points": [
+    "官方於直播中公開第二季製作決定與前導視覺",
+    "原班聲優與製作公司續任，導演更換",
+    "預計明年春季開播，台灣同步代理",
+    "第一季藍光銷量為製作關鍵"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_87",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-14",
+   "updated": "2026-10-15",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
+   "title": "（範例）年度遊戲展首日重點整理",
+   "category": "遊戲",
+   "origin": "TW",
+   "source": "4Gamers",
+   "points": [
+    "首日公開 12 款新作，其中 5 款支援繁中",
+    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
+    "兩款手遊宣布年底上市並開放事前登錄",
+    "展期至週日，部分試玩需現場預約"
+   ],
+   "seed": true
+  },
+  {
+   "id": "news_88",
+   "mod": "news",
+   "cat": "news",
+   "added": "2026-10-14",
+   "updated": "2026-10-15",
+   "url": "https://example.com/",
+   "pick": false,
+   "summary": "平台宣布明年起擴大日本動畫獨家授權",
+   "title": "（範例）大型串流平台調整動畫授權策略",
+   "category": "業界",
+   "origin": "INTL",
+   "source": "Variety",
+   "points": [
+    "平台宣布明年起擴大日本動畫獨家授權",
+    "亞洲地區將同步上架新番",
+    "業界預期會影響其他平台的代理競爭"
+   ],
+   "seed": true
+  }
+ ]
+}
