@@ -334,5 +334,189 @@
   "syn": "傾向、方針、トーン",
   "ant": "—",
   "confuse": "基調（基本傾向）≠ 基本（基礎）"
+ },
+ "stress testing": {
+  "lang": "en",
+  "ph": "/ˈstrɛs ˌtɛstɪŋ/",
+  "level": "C1",
+  "forms": "stress test (v./n.)",
+  "senses": [
+   {
+    "pos": "noun",
+    "zh": "壓力測試（金融風險評估）",
+    "def": "A simulation test to assess the ability of a financial institution or system to withstand various crisis scenarios.",
+    "ex": "The central bank requires all major commercial banks to undergo annual stress testing.",
+    "exZh": "中央銀行要求所有大型商業銀行進行年度壓力測試。",
+    "scene": "金融業風險管理與合規審查"
+   },
+   {
+    "pos": "noun",
+    "zh": "壓力測試（工程與軟體）",
+    "def": "Testing a system or product under extreme conditions to determine its breaking point.",
+    "ex": "Our engineering team is conducting stress testing on the server to prepare for the product launch.",
+    "exZh": "我們的工程團隊正在對伺服器進行壓力測試，以為產品上市做準備。",
+    "scene": "IT 與軟體開發"
+   }
+  ],
+  "syn": "scenario analysis, load testing",
+  "ant": "—",
+  "confuse": "與 standard testing（標準測試）不同，壓力測試刻意將系統推向極限以檢視極端狀況下的表現。"
+ },
+ "skepticism": {
+  "lang": "en",
+  "ph": "/ˈskɛptɪˌsɪzəm/",
+  "level": "C1",
+  "forms": "skeptic (n.), skeptical (adj.)",
+  "senses": [
+   {
+    "pos": "noun",
+    "zh": "懷疑態度",
+    "def": "An attitude of doubt or a disposition to disbelief either in general or toward a particular object.",
+    "ex": "The board met the new CEO's aggressive expansion plan with considerable skepticism.",
+    "exZh": "董事會對新任執行長的積極擴張計畫抱持相當大的懷疑態度。",
+    "scene": "高層會議評估新策略"
+   }
+  ],
+  "syn": "doubt, cynicism, mistrust",
+  "ant": "certainty, gullibility",
+  "confuse": "與 cynicism（憤世嫉俗）不同，skepticism 是指基於缺乏證據而保持保留與質疑的態度。"
+ },
+ "overspending": {
+  "lang": "en",
+  "ph": "/ˌoʊvərˈspɛndɪŋ/",
+  "level": "B2",
+  "forms": "overspend (v.), overspent (v. past)",
+  "senses": [
+   {
+    "pos": "noun",
+    "zh": "超支、過度花費",
+    "def": "Spending more money than was budgeted or more than one has.",
+    "ex": "Department managers were warned that any overspending on the project would not be reimbursed.",
+    "exZh": "部門經理們接獲警告，該專案的任何超支金額將不予報銷。",
+    "scene": "財務預算管控"
+   }
+  ],
+  "syn": "budget overrun, overage",
+  "ant": "underspending, saving",
+  "confuse": "與 investment（投資）不同，overspending 明確指超出預算或過度支出的負面情況。"
+ },
+ "zeitgeist": {
+  "lang": "en",
+  "ph": "/ˈzaɪtˌɡaɪst/",
+  "level": "C2",
+  "forms": "—",
+  "senses": [
+   {
+    "pos": "noun",
+    "zh": "時代精神、時代思潮",
+    "def": "The defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time.",
+    "ex": "The company's new remote-work policy captures the current zeitgeist regarding work-life balance.",
+    "exZh": "該公司的遠距工作新政策掌握了目前關於工作與生活平衡的時代精神。",
+    "scene": "行銷定位與企業文化溝通"
+   }
+  ],
+  "syn": "spirit of the age, ethos",
+  "ant": "—",
+  "confuse": "為德語借詞，常被誤用為單純的 trend（趨勢），但 zeitgeist 更側重於深層的思想與文化氛圍。"
+ },
+ "踏まえる": {
+  "lang": "ja",
+  "ph": "ふまえる",
+  "level": "JLPT N1",
+  "forms": "踏まえて (te-form), 踏まえた (modifier)",
+  "senses": [
+   {
+    "pos": "verb",
+    "zh": "根據、考量、基於",
+    "def": "前例や事実、状況などを判断の基準や土台として心に留める。",
+    "ex": "前回の会議での議論を踏まえて、企画書を修正いたしました。",
+    "exZh": "基於上次會議的討論，我已經修正了企劃書。",
+    "scene": "商務提案與修正回報"
+   },
+   {
+    "pos": "verb",
+    "zh": "踏在...上、踩著",
+    "def": "足の裏でしっかりと受ける。足元に置く。",
+    "ex": "安全靴を着用し、足場を踏まえて作業を行ってください。",
+    "exZh": "請穿戴安全鞋，踩穩鷹架進行作業。",
+    "scene": "工安與現場作業"
+   }
+  ],
+  "syn": "考慮する, 基づく",
+  "ant": "—",
+  "confuse": "常與「基づく」混用，但「踏まえる」更強調將既有事實或經驗作為依據納入考量。"
+ },
+ "かねる": {
+  "lang": "ja",
+  "ph": "かねる",
+  "level": "JLPT N1",
+  "forms": "〜かねない (potential negative)",
+  "senses": [
+   {
+    "pos": "verb",
+    "zh": "難以...、無法...（婉拒）",
+    "def": "心理的または物理的な理由で、その動作を行うことができない。",
+    "ex": "誠に勝手ながら、本件の値下げのご要望には応じかねます。",
+    "exZh": "非常抱歉，關於本案降價的要求，我們實難答應。",
+    "scene": "商務正式拒絕與婉轉回覆"
+   },
+   {
+    "pos": "verb",
+    "zh": "兼任、同時從事",
+    "def": "一つのものが二つ以上の役割や機能を同時に果たす。",
+    "ex": "彼は営業部長と人事部長を兼ねている。",
+    "exZh": "他兼任業務部長與人事部長。",
+    "scene": "組織職稱介紹"
+   }
+  ],
+  "syn": "〜できない, 致しかねる",
+  "ant": "〜うる, 〜できる",
+  "confuse": "接在動詞連用形（ます形）後面表示「做不到」，與「〜かねない」（有可能會發生不好的事）語意完全相反。"
+ },
+ "facilitate": {
+  "lang": "en",
+  "ph": "/fəˈsɪlɪˌteɪt/",
+  "level": "C1",
+  "forms": "facilitates (3rd person), facilitated (past), facilitating (participle)",
+  "senses": [
+   {
+    "pos": "verb",
+    "zh": "促進、使便利、推動",
+    "def": "To make an action or process easy or easier.",
+    "ex": "The new software is designed to facilitate communication between remote teams.",
+    "exZh": "這款新軟體旨在促進遠距團隊之間的溝通。",
+    "scene": "推動跨部門合作或專案執行"
+   },
+   {
+    "pos": "verb",
+    "zh": "主持、帶領（會議或工作坊）",
+    "def": "To act as a facilitator in a meeting, discussion, or workshop.",
+    "ex": "HR will facilitate the brainstorming session tomorrow morning.",
+    "exZh": "人資部門將主持明天早上的腦力激盪會議。",
+    "scene": "會議管理與培訓"
+   }
+  ],
+  "syn": "ease, assist, streamline, moderate",
+  "ant": "hinder, impede, obstruct",
+  "confuse": "與 facilitate 相關的名詞 facilitator 常指會議的主持人或引導者，而非單純的參與者。"
+ },
+ "evaluate": {
+  "lang": "en",
+  "ph": "/ɪˈvæljʊˌeɪt/",
+  "level": "B2",
+  "forms": "evaluates (3rd person), evaluated (past), evaluating (participle)",
+  "senses": [
+   {
+    "pos": "verb",
+    "zh": "評估、評價",
+    "def": "To form an idea of the amount, number, or value of; assess.",
+    "ex": "Management needs more time to evaluate the financial impact of the merger.",
+    "exZh": "管理階層需要更多時間來評估該併購案的財務影響。",
+    "scene": "決策評估與成效審查"
+   }
+  ],
+  "syn": "assess, appraise, evaluate, review",
+  "ant": "—",
+  "confuse": "與 estimate（估算）不同，evaluate 通常指對價值、成效或品質進行綜合性的判斷。"
  }
 }

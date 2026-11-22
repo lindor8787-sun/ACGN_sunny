@@ -1,830 +1,134 @@
 {
  "meta": {
-  "last_updated": "2026-10-20T07:17",
-  "seed": true
+  "last_updated": "2026-11-22T18:12+08:00",
+  "seed": false
  },
  "items": [
   {
-   "id": "en_0",
    "mod": "lang",
    "cat": "en",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "Following up after a stalled negotiation",
-   "category": "談判協商",
-   "original": "I wanted to circle back on our discussion last week and see if there's room to move on the delivery timeline.",
-   "translation": "想針對上週的討論再跟您確認，看看交期上是否還有調整空間。",
-   "points": [
-    "circle back = 回頭再談（比 follow up 口語）",
-    "room to move = 有讓步空間",
-    "I wanted to… 讓語氣委婉"
-   ],
-   "difficulty": "中級",
+   "title": "We’re Seeing the Costs of Moving Fast",
+   "url": "https://hbr.org/2026/11/were-seeing-the-costs-of-moving-fast",
    "source": "Harvard Business Review",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "circle back",
-   "seed": true
+   "original": "Recent technology breakdowns suggest organizations aren’t spending adequate time and resources stress testing their operations.",
+   "id": "en_f949a04b5892",
+   "translation": "近期的技術故障顯示，各組織並未花費足夠的時間和資源來對其營運進行壓力測試。",
+   "points": [
+    "spend time and resources = 花費時間與資源",
+    "stress test = 壓力測試",
+    "technology breakdown = 技術故障"
+   ],
+   "category": "商業詞彙",
+   "difficulty": "中級",
+   "dictWord": "stress testing",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "en_1",
    "mod": "lang",
    "cat": "en",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "title": "Following up after a stalled negotiation",
-   "category": "談判協商",
-   "original": "I wanted to circle back on our discussion last week and see if there's room to move on the delivery timeline.",
-   "translation": "想針對上週的討論再跟您確認，看看交期上是否還有調整空間。",
-   "points": [
-    "circle back = 回頭再談（比 follow up 口語）",
-    "room to move = 有讓步空間",
-    "I wanted to… 讓語氣委婉"
-   ],
-   "difficulty": "中級",
+   "title": "A Better Way to Foster Rigorous Debate in the Boardroom",
+   "url": "https://hbr.org/2026/11/a-better-way-to-foster-rigorous-debate-in-the-boardroom",
    "source": "Harvard Business Review",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "circle back",
-   "seed": true
-  },
-  {
-   "id": "en_2",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "title": "Following up after a stalled negotiation",
-   "category": "談判協商",
-   "original": "I wanted to circle back on our discussion last week and see if there's room to move on the delivery timeline.",
-   "translation": "想針對上週的討論再跟您確認，看看交期上是否還有調整空間。",
+   "original": "Use “the Cartesian voice” to encourage disciplined inquiry, skepticism, and discussion.",
+   "id": "en_453d8c26d2ae",
+   "translation": "運用「笛卡兒之聲」來鼓勵有紀律的探究、懷疑與討論。",
    "points": [
-    "circle back = 回頭再談（比 follow up 口語）",
-    "room to move = 有讓步空間",
-    "I wanted to… 讓語氣委婉"
+    "encourage discussion = 鼓勵討論",
+    "disciplined inquiry = 有紀律的探究",
+    "Cartesian voice = 笛卡兒之聲"
    ],
-   "difficulty": "中級",
-   "source": "Harvard Business Review",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "circle back",
-   "seed": true
-  },
-  {
-   "id": "en_3",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "title": "Following up after a stalled negotiation",
-   "category": "談判協商",
-   "original": "I wanted to circle back on our discussion last week and see if there's room to move on the delivery timeline.",
-   "translation": "想針對上週的討論再跟您確認，看看交期上是否還有調整空間。",
-   "points": [
-    "circle back = 回頭再談（比 follow up 口語）",
-    "room to move = 有讓步空間",
-    "I wanted to… 讓語氣委婉"
-   ],
-   "difficulty": "中級",
-   "source": "Harvard Business Review",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "circle back",
-   "seed": true
-  },
-  {
-   "id": "en_4",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "title": "Opening a meeting with a clear agenda",
    "category": "會議英文",
-   "original": "Let's kick things off. We have three items today, and I'd like to wrap up by 3:30.",
-   "translation": "我們開始吧。今天有三個議題，希望在 3:30 前結束。",
-   "points": [
-    "kick things off = 開始會議",
-    "wrap up = 收尾",
-    "先講議題數量，掌控節奏"
-   ],
-   "difficulty": "初級",
-   "source": "BBC Learning English",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "wrap up",
-   "seed": true
-  },
-  {
-   "id": "en_5",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
-   "title": "Opening a meeting with a clear agenda",
-   "category": "會議英文",
-   "original": "Let's kick things off. We have three items today, and I'd like to wrap up by 3:30.",
-   "translation": "我們開始吧。今天有三個議題，希望在 3:30 前結束。",
-   "points": [
-    "kick things off = 開始會議",
-    "wrap up = 收尾",
-    "先講議題數量，掌控節奏"
-   ],
-   "difficulty": "初級",
-   "source": "BBC Learning English",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "wrap up",
-   "seed": true
-  },
-  {
-   "id": "en_6",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-15",
-   "updated": "2026-10-16",
-   "title": "Opening a meeting with a clear agenda",
-   "category": "會議英文",
-   "original": "Let's kick things off. We have three items today, and I'd like to wrap up by 3:30.",
-   "translation": "我們開始吧。今天有三個議題，希望在 3:30 前結束。",
-   "points": [
-    "kick things off = 開始會議",
-    "wrap up = 收尾",
-    "先講議題數量，掌控節奏"
-   ],
-   "difficulty": "初級",
-   "source": "BBC Learning English",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "wrap up",
-   "seed": true
-  },
-  {
-   "id": "en_7",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "Writing a concise status update email",
-   "category": "商務Email",
-   "original": "Quick update: the beta is on track, but QA flagged two blockers we're addressing this week.",
-   "translation": "快速更新：Beta 版進度正常，但 QA 標出兩個阻礙問題，本週處理中。",
-   "points": [
-    "Quick update: 開頭直接進重點",
-    "flag = 標記問題",
-    "on track / blockers 對比"
-   ],
-   "difficulty": "中級",
-   "source": "Harvard Business Review",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "blocker",
-   "seed": true
-  },
-  {
-   "id": "en_8",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "title": "Writing a concise status update email",
-   "category": "商務Email",
-   "original": "Quick update: the beta is on track, but QA flagged two blockers we're addressing this week.",
-   "translation": "快速更新：Beta 版進度正常，但 QA 標出兩個阻礙問題，本週處理中。",
-   "points": [
-    "Quick update: 開頭直接進重點",
-    "flag = 標記問題",
-    "on track / blockers 對比"
-   ],
-   "difficulty": "中級",
-   "source": "Harvard Business Review",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "blocker",
-   "seed": true
-  },
-  {
-   "id": "en_9",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "title": "Writing a concise status update email",
-   "category": "商務Email",
-   "original": "Quick update: the beta is on track, but QA flagged two blockers we're addressing this week.",
-   "translation": "快速更新：Beta 版進度正常，但 QA 標出兩個阻礙問題，本週處理中。",
-   "points": [
-    "Quick update: 開頭直接進重點",
-    "flag = 標記問題",
-    "on track / blockers 對比"
-   ],
-   "difficulty": "中級",
-   "source": "Harvard Business Review",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "blocker",
-   "seed": true
-  },
-  {
-   "id": "en_10",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "title": "Writing a concise status update email",
-   "category": "商務Email",
-   "original": "Quick update: the beta is on track, but QA flagged two blockers we're addressing this week.",
-   "translation": "快速更新：Beta 版進度正常，但 QA 標出兩個阻礙問題，本週處理中。",
-   "points": [
-    "Quick update: 開頭直接進重點",
-    "flag = 標記問題",
-    "on track / blockers 對比"
-   ],
-   "difficulty": "中級",
-   "source": "Harvard Business Review",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "blocker",
-   "seed": true
-  },
-  {
-   "id": "en_11",
-   "mod": "lang",
-   "cat": "en",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "title": "Presenting data without overwhelming",
-   "category": "簡報英文",
-   "original": "Rather than walk through every number, I'll focus on the two trends that matter most.",
-   "translation": "與其逐一說明每個數字，我會聚焦在最重要的兩個趨勢。",
-   "points": [
-    "Rather than…, I'll… 轉折句型",
-    "walk through = 逐步說明",
-    "先聲明重點數量"
-   ],
    "difficulty": "高級",
-   "source": "BBC Learning English",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "walk through",
-   "seed": true
+   "dictWord": "skepticism",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "en_12",
    "mod": "lang",
    "cat": "en",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
-   "title": "Presenting data without overwhelming",
-   "category": "簡報英文",
-   "original": "Rather than walk through every number, I'll focus on the two trends that matter most.",
-   "translation": "與其逐一說明每個數字，我會聚焦在最重要的兩個趨勢。",
+   "title": "The Case for “Small AI”",
+   "url": "https://hbr.org/2026/11/the-case-for-small-ai",
+   "source": "Harvard Business Review",
+   "original": "Stop overspending on technology your organization doesn’t need.",
+   "id": "en_d88e9e9a6d5b",
+   "translation": "停止在組織不需要的技術上過度支出。",
    "points": [
-    "Rather than…, I'll… 轉折句型",
-    "walk through = 逐步說明",
-    "先聲明重點數量"
+    "overspend on = 過度花費於",
+    "stop doing something = 停止做某事",
+    "organization = 組織"
    ],
-   "difficulty": "高級",
-   "source": "BBC Learning English",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "walk through",
-   "seed": true
+   "category": "商務Email",
+   "difficulty": "初級",
+   "dictWord": "overspending",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "en_13",
    "mod": "lang",
    "cat": "en",
-   "added": "2026-10-15",
-   "updated": "2026-10-16",
-   "title": "Presenting data without overwhelming",
-   "category": "簡報英文",
-   "original": "Rather than walk through every number, I'll focus on the two trends that matter most.",
-   "translation": "與其逐一說明每個數字，我會聚焦在最重要的兩個趨勢。",
+   "title": "How 3 Brands Bought in on the “Grand Theft Auto VI” Hype",
+   "url": "https://hbr.org/2026/11/how-3-brands-bought-in-on-the-grand-theft-auto-vi-hype",
+   "source": "Harvard Business Review",
+   "original": "Strategies for hitching your organization to the zeitgeist.",
+   "id": "en_2852f106c8af",
+   "translation": "將你的組織與時代精神相結合的策略。",
    "points": [
-    "Rather than…, I'll… 轉折句型",
-    "walk through = 逐步說明",
-    "先聲明重點數量"
+    "strategy for = ……的策略",
+    "hitch to = 附著於、與……結合",
+    "organization = 組織"
    ],
+   "category": "商業詞彙",
    "difficulty": "高級",
-   "source": "BBC Learning English",
-   "url": "https://www.bbc.co.uk/learningenglish",
-   "dictWord": "walk through",
-   "seed": true
+   "dictWord": "zeitgeist",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "ja_14",
    "mod": "lang",
    "cat": "ja",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "〜を余儀なくされる",
-   "category": "文法",
+   "title": "〜を踏まえて",
    "level": "N1",
-   "original": "台風の影響で、イベントは中止を余儀なくされた。",
-   "translation": "因颱風影響，活動被迫取消。",
+   "category": "文法",
+   "original": "前回の会議でのご意見を踏まえて、新規プロジェクトの企画書を修正いたしました。",
+   "translation": "考量到上次會議大家的意見，我們已經修改了新專案的企劃書。",
    "points": [
-    "【N1文法】〜を余儀なくされる＝不得不、被迫",
-    "【商用場景】說明不可抗力的延期",
-    "【例句對照】予定変更を余儀なくされました"
+    "【N1文法】接在名詞後面，表示「根據」、「考量到」某個情況或事實來做決定、採取行動。",
+    "【商用場景】常用於企劃提案、會議總結或向客戶說明決策依據時，展現周全的思考過程。",
+    "【例句對照】市場の動向を踏まえて、来期の販売戦略を立案する必要があります。"
    ],
    "tags": [
     "💼 商用"
    ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "余儀ない",
-   "seed": true
+   "source": "Sunny Hub（AI 編寫）",
+   "url": "",
+   "dictWord": "踏まえる",
+   "id": "ja_31f338cc9481",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "ja_15",
    "mod": "lang",
    "cat": "ja",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "title": "〜を余儀なくされる",
-   "category": "文法",
+   "title": "〜かねない",
    "level": "N1",
-   "original": "台風の影響で、イベントは中止を余儀なくされた。",
-   "translation": "因颱風影響，活動被迫取消。",
-   "points": [
-    "【N1文法】〜を余儀なくされる＝不得不、被迫",
-    "【商用場景】說明不可抗力的延期",
-    "【例句對照】予定変更を余儀なくされました"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "余儀ない",
-   "seed": true
-  },
-  {
-   "id": "ja_16",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "title": "〜を余儀なくされる",
-   "category": "文法",
-   "level": "N1",
-   "original": "台風の影響で、イベントは中止を余儀なくされた。",
-   "translation": "因颱風影響，活動被迫取消。",
-   "points": [
-    "【N1文法】〜を余儀なくされる＝不得不、被迫",
-    "【商用場景】說明不可抗力的延期",
-    "【例句對照】予定変更を余儀なくされました"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "余儀ない",
-   "seed": true
-  },
-  {
-   "id": "ja_17",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "title": "〜を余儀なくされる",
-   "category": "文法",
-   "level": "N1",
-   "original": "台風の影響で、イベントは中止を余儀なくされた。",
-   "translation": "因颱風影響，活動被迫取消。",
-   "points": [
-    "【N1文法】〜を余儀なくされる＝不得不、被迫",
-    "【商用場景】說明不可抗力的延期",
-    "【例句對照】予定変更を余儀なくされました"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "余儀ない",
-   "seed": true
-  },
-  {
-   "id": "ja_18",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "ご査収のほどよろしくお願いいたします",
    "category": "ビジネス",
-   "level": "N2",
-   "original": "資料を添付いたしましたので、ご査収のほどよろしくお願いいたします。",
-   "translation": "已附上資料，敬請查收。",
+   "original": "このまま納期が遅れれば、クライアントからの信用を失いかねない。",
+   "translation": "照這樣下去交期若再延誤，恐怕會失去客戶的信任。",
    "points": [
-    "【商用場景】寄送附件的固定結尾",
-    "【語彙】査収＝查收",
-    "比「ご確認ください」更正式"
+    "【N1文法】接在動詞連用形（ます形）後面，表示「有可能導致某種不好的結果」，帶有強烈的擔憂語氣。",
+    "【商用場景】常用於內部風險評估、向上司匯報危機或向團隊提出警告時使用。",
+    "【例句對照】不十分な説明では、お客様に誤解を与えかねませんのでご注意ください。"
    ],
    "tags": [
     "💼 商用"
    ],
-   "source": "JapanesePod101",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "査収",
-   "seed": true
-  },
-  {
-   "id": "ja_19",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "title": "ご査収のほどよろしくお願いいたします",
-   "category": "ビジネス",
-   "level": "N2",
-   "original": "資料を添付いたしましたので、ご査収のほどよろしくお願いいたします。",
-   "translation": "已附上資料，敬請查收。",
-   "points": [
-    "【商用場景】寄送附件的固定結尾",
-    "【語彙】査収＝查收",
-    "比「ご確認ください」更正式"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "JapanesePod101",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "査収",
-   "seed": true
-  },
-  {
-   "id": "ja_20",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "〜につき（理由・通知）",
-   "category": "文法",
-   "level": "N2",
-   "original": "本日は棚卸しにつき、午後3時で閉店いたします。",
-   "translation": "本日因盤點，下午 3 點打烊。",
-   "points": [
-    "【N2文法】〜につき＝因為（公告、通知用）",
-    "【商用場景】公告、門市告示、郵件主旨",
-    "【例句對照】工事中につき、通行止め"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "NHK",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "につき",
-   "seed": true
-  },
-  {
-   "id": "ja_21",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "title": "〜につき（理由・通知）",
-   "category": "文法",
-   "level": "N2",
-   "original": "本日は棚卸しにつき、午後3時で閉店いたします。",
-   "translation": "本日因盤點，下午 3 點打烊。",
-   "points": [
-    "【N2文法】〜につき＝因為（公告、通知用）",
-    "【商用場景】公告、門市告示、郵件主旨",
-    "【例句對照】工事中につき、通行止め"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "NHK",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "につき",
-   "seed": true
-  },
-  {
-   "id": "ja_22",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "title": "〜につき（理由・通知）",
-   "category": "文法",
-   "level": "N2",
-   "original": "本日は棚卸しにつき、午後3時で閉店いたします。",
-   "translation": "本日因盤點，下午 3 點打烊。",
-   "points": [
-    "【N2文法】〜につき＝因為（公告、通知用）",
-    "【商用場景】公告、門市告示、郵件主旨",
-    "【例句對照】工事中につき、通行止め"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "NHK",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "につき",
-   "seed": true
-  },
-  {
-   "id": "ja_23",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "title": "〜につき（理由・通知）",
-   "category": "文法",
-   "level": "N2",
-   "original": "本日は棚卸しにつき、午後3時で閉店いたします。",
-   "translation": "本日因盤點，下午 3 點打烊。",
-   "points": [
-    "【N2文法】〜につき＝因為（公告、通知用）",
-    "【商用場景】公告、門市告示、郵件主旨",
-    "【例句對照】工事中につき、通行止め"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "NHK",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "につき",
-   "seed": true
-  },
-  {
-   "id": "ja_24",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "〜させていただきます",
-   "category": "敬語",
-   "level": "N3",
-   "original": "明日はお休みをいただきますので、田中が対応させていただきます。",
-   "translation": "明天我請假，由田中為您處理。",
-   "points": [
-    "【N3文型】使役＋いただく＝謙讓表達",
-    "【商用場景】交接、代理回覆",
-    "⚠ 過度使用會顯得囉嗦，正式文件可改「いたします」"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "させていただく",
-   "seed": true
-  },
-  {
-   "id": "ja_25",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "title": "〜させていただきます",
-   "category": "敬語",
-   "level": "N3",
-   "original": "明日はお休みをいただきますので、田中が対応させていただきます。",
-   "translation": "明天我請假，由田中為您處理。",
-   "points": [
-    "【N3文型】使役＋いただく＝謙讓表達",
-    "【商用場景】交接、代理回覆",
-    "⚠ 過度使用會顯得囉嗦，正式文件可改「いたします」"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "させていただく",
-   "seed": true
-  },
-  {
-   "id": "ja_26",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "〜次第（〜しだい）",
-   "category": "文法",
-   "level": "N2",
-   "original": "詳細が決まり次第、改めてご連絡いたします。",
-   "translation": "細節一確定，會再與您聯絡。",
-   "points": [
-    "【N2文法】動詞ます形＋次第＝一…就立刻",
-    "【商用場景】承諾後續聯絡",
-    "【例句對照】到着次第、お電話いたします"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "JapanesePod101",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "次第",
-   "seed": true
-  },
-  {
-   "id": "ja_27",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "title": "〜次第（〜しだい）",
-   "category": "文法",
-   "level": "N2",
-   "original": "詳細が決まり次第、改めてご連絡いたします。",
-   "translation": "細節一確定，會再與您聯絡。",
-   "points": [
-    "【N2文法】動詞ます形＋次第＝一…就立刻",
-    "【商用場景】承諾後續聯絡",
-    "【例句對照】到着次第、お電話いたします"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "JapanesePod101",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "次第",
-   "seed": true
-  },
-  {
-   "id": "ja_28",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "title": "〜次第（〜しだい）",
-   "category": "文法",
-   "level": "N2",
-   "original": "詳細が決まり次第、改めてご連絡いたします。",
-   "translation": "細節一確定，會再與您聯絡。",
-   "points": [
-    "【N2文法】動詞ます形＋次第＝一…就立刻",
-    "【商用場景】承諾後續聯絡",
-    "【例句對照】到着次第、お電話いたします"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "JapanesePod101",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "次第",
-   "seed": true
-  },
-  {
-   "id": "ja_29",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "title": "〜次第（〜しだい）",
-   "category": "文法",
-   "level": "N2",
-   "original": "詳細が決まり次第、改めてご連絡いたします。",
-   "translation": "細節一確定，會再與您聯絡。",
-   "points": [
-    "【N2文法】動詞ます形＋次第＝一…就立刻",
-    "【商用場景】承諾後續聯絡",
-    "【例句對照】到着次第、お電話いたします"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "JapanesePod101",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "次第",
-   "seed": true
-  },
-  {
-   "id": "ja_30",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "円安が続く背景",
-   "category": "ニュース",
-   "level": "N1",
-   "original": "市場では円安基調が続いており、輸入企業のコスト負担が増している。",
-   "translation": "市場持續日圓走弱，進口企業成本負擔增加。",
-   "points": [
-    "【語彙】基調＝基本趨勢",
-    "【例句對照】〜が増している＝持續增加中",
-    "新聞常用「〜を受けて」"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "NHK",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "基調",
-   "seed": true
-  },
-  {
-   "id": "ja_31",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "title": "円安が続く背景",
-   "category": "ニュース",
-   "level": "N1",
-   "original": "市場では円安基調が続いており、輸入企業のコスト負担が増している。",
-   "translation": "市場持續日圓走弱，進口企業成本負擔增加。",
-   "points": [
-    "【語彙】基調＝基本趨勢",
-    "【例句對照】〜が増している＝持續增加中",
-    "新聞常用「〜を受けて」"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "NHK",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "基調",
-   "seed": true
-  },
-  {
-   "id": "ja_32",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "お手数ですが",
-   "category": "敬語",
-   "level": "N3",
-   "original": "お手数ですが、ご署名のうえご返送ください。",
-   "translation": "麻煩您簽名後寄回。",
-   "points": [
-    "【N3商用】請託前的緩衝語（クッション言葉）",
-    "類似：恐れ入りますが／差し支えなければ",
-    "【例句對照】お手数をおかけしますが"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "手数",
-   "seed": true
-  },
-  {
-   "id": "ja_33",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "title": "お手数ですが",
-   "category": "敬語",
-   "level": "N3",
-   "original": "お手数ですが、ご署名のうえご返送ください。",
-   "translation": "麻煩您簽名後寄回。",
-   "points": [
-    "【N3商用】請託前的緩衝語（クッション言葉）",
-    "類似：恐れ入りますが／差し支えなければ",
-    "【例句對照】お手数をおかけしますが"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "手数",
-   "seed": true
-  },
-  {
-   "id": "ja_34",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "title": "お手数ですが",
-   "category": "敬語",
-   "level": "N3",
-   "original": "お手数ですが、ご署名のうえご返送ください。",
-   "translation": "麻煩您簽名後寄回。",
-   "points": [
-    "【N3商用】請託前的緩衝語（クッション言葉）",
-    "類似：恐れ入りますが／差し支えなければ",
-    "【例句對照】お手数をおかけしますが"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "手数",
-   "seed": true
-  },
-  {
-   "id": "ja_35",
-   "mod": "lang",
-   "cat": "ja",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "title": "お手数ですが",
-   "category": "敬語",
-   "level": "N3",
-   "original": "お手数ですが、ご署名のうえご返送ください。",
-   "translation": "麻煩您簽名後寄回。",
-   "points": [
-    "【N3商用】請託前的緩衝語（クッション言葉）",
-    "類似：恐れ入りますが／差し支えなければ",
-    "【例句對照】お手数をおかけしますが"
-   ],
-   "tags": [
-    "💼 商用"
-   ],
-   "source": "Tofugu",
-   "url": "https://www.tofugu.com/",
-   "dictWord": "手数",
-   "seed": true
+   "source": "Sunny Hub（AI 編寫）",
+   "url": "",
+   "dictWord": "かねる",
+   "id": "ja_6d4c3c1361fb",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   }
  ]
 }

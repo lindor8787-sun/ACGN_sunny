@@ -1,478 +1,368 @@
 {
  "meta": {
-  "last_updated": "2026-10-20T07:17",
-  "seed": true
+  "last_updated": "2026-11-22T18:12+08:00",
+  "seed": false
  },
  "items": [
   {
-   "id": "news_66",
+   "id": "news_d3141e849081",
    "mod": "news",
    "cat": "news",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
-   "pick": true,
-   "summary": "官方於直播中公開第二季製作決定與前導視覺",
-   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
-   "category": "動漫",
-   "origin": "TW",
+   "title": "「Pikmin Bloom Journey 2026 in 神戶」現場直擊！與皮克敏漫步港都收集明信片",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315390",
    "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
    "points": [
-    "官方於直播中公開第二季製作決定與前導視覺",
-    "原班聲優與製作公司續任，導演更換",
-    "預計明年春季開播，台灣同步代理",
-    "第一季藍光銷量為製作關鍵"
+    "智慧型手機遊戲《Pikmin Bloom》在日本兵庫縣神戶市舉辦實體活動。",
+    "邀請玩家帶著皮克敏漫步神戶街頭，走訪城市各處的特殊地點。",
+    "透過步行、種花及完成任務，蒐集當地限定的飾品皮克敏與明信片。"
    ],
-   "seed": true
+   "summary": "智慧型手機遊戲《Pikmin Bloom》在日本兵庫縣神戶市舉辦實體活動。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "news_67",
+   "id": "news_6950ce1962bb",
    "mod": "news",
    "cat": "news",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
+   "title": "【電玩瘋】手機週報《WendyQuest》、《Booster Pack Heroes》與《Hillthorn》等遊戲",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315389",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "巴哈姆特電玩瘋本週介紹共 9 款風格各異的手機遊戲作品。",
+    "包含獨特的冒險遊戲《A Fool's Errand 》與策略 RPG《變形金剛：無盡戰爭》。",
+    "亦收錄獨立開發者打造的色彩主題解謎系列《brown》與開卡包塔防遊戲等內容。"
+   ],
+   "summary": "巴哈姆特電玩瘋本週介紹共 9 款風格各異的手機遊戲作品。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_512cdc6c3b6e",
+   "mod": "news",
+   "cat": "news",
+   "title": "《鳴潮》公開 4.0 版本全新實機展示影片 帶來新角色「安娜」、「露希爾」及全新機甲",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315388",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "庫洛遊戲宣布開放世界動作 RPG《鳴潮》正式公開 4.0 版本全新實機展示影片。",
+    "支援 Windows、Mac、PlayStation 5、XBOX、iOS 及 Android 等多平台。",
+    "本次預告帶來新角色「安娜」、「露希爾」以及全新的機甲內容供玩家先睹為快。"
+   ],
+   "summary": "庫洛遊戲宣布開放世界動作 RPG《鳴潮》正式公開 4.0 版本全新實機展示影片。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_f11078712b2e",
+   "mod": "news",
+   "cat": "news",
+   "title": "《Pikmin Bloom》向臺灣玩家發布宣告 強調個人資料僅儲存於美國伺服器",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315387",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "《Pikmin Bloom》由任天堂授權、Scopely Explore 營運。",
+    "營運團隊透過遊戲內公告向台灣玩家表達感謝之意。",
+    "強調玩家個人資料僅儲存在美國伺服器，未來也將持續遵循相關原則。"
+   ],
+   "summary": "《Pikmin Bloom》由任天堂授權、Scopely Explore 營運。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_2695c99c5b66",
+   "mod": "news",
+   "cat": "news",
+   "title": "距離《加速世界》更近一步！Neuralink實現腦內晶片玩《GTA 6》 開車、射擊全都辦得到",
+   "url": "https://www.4gamers.com.tw/news/detail/83446/neuralink-can-play-gta6",
+   "source": "4Gamers",
+   "origin": "TW",
+   "image": "https://img.4gamers.com.tw/news-image/9668fa8f-0ea0-4335-8811-14a75326a241.jpg",
+   "category": "業界",
+   "points": [
+    "馬斯克的 Neuralink 發表最新研究成果，成功讓四肢癱瘓患者透過大腦意識遊玩《GTA 6》。",
+    "受試者能透過大腦想像控制 PS5 控制器，進行駕車、射擊及甩尾等細膩操作。",
+    "展現腦內晶片高即時與高複雜度處理能力，象徵未來生活便利性與意識流操作的無限可能。"
+   ],
+   "summary": "馬斯克的 Neuralink 發表最新研究成果，成功讓四肢癱瘓患者透過大腦意識遊玩《GTA 6》。",
    "pick": true,
-   "summary": "國際出版商推出全新閱讀 App，首波上架 200 部作品",
-   "title": "（範例）Global publisher announces new manga app",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_b7c11cf1344f",
+   "mod": "news",
+   "cat": "news",
+   "title": "NVIDIA釋出621.35手動更新 修正SSD大量寫入問題",
+   "url": "https://www.4gamers.com.tw/news/detail/83445/nvidia-release-driver-fixed-ssd-overwrite",
+   "source": "4Gamers",
+   "origin": "TW",
+   "image": "https://img.4gamers.com.tw/news-image/c74f47b5-8c6b-45c5-b8da-9e3352cc6caf.jpg",
+   "category": "業界",
+   "points": [
+    "NVIDIA 顯卡驅動先前存在 Bug，會導致頻繁覆寫日誌檔到 SSD 中產生大量資料。",
+    "官方正式釋出可選驅動 GeForce Hotfix Driver 621.35 來修正此問題。",
+    "本次更新未透過 NVIDIA App 推送，需至官網手動下載，屬暫時性修復方案。"
+   ],
+   "summary": "NVIDIA 顯卡驅動先前存在 Bug，會導致頻繁覆寫日誌檔到 SSD 中產生大量資料。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_e2806848a050",
+   "mod": "news",
+   "cat": "news",
+   "title": "動畫頻道認《閃靈二人組》生成AI影片決策與講談社無關",
+   "url": "https://www.4gamers.com.tw/news/detail/83444/anime-channel-admits-ai-generated-getbackers-video-was-made-without-kodanshas-consent",
+   "source": "4Gamers",
+   "origin": "TW",
+   "image": "https://img.4gamers.com.tw/news-image/47c4764f-c4f9-49c8-9cd3-ec3b209bcc98.jpg",
+   "category": "動漫",
+   "points": [
+    "有聲漫畫 YouTube 頻道因《閃靈二人組》AI 生成宣傳影片引起爭議並發布致歉公告。",
+    "頻道官方坦承部分片段使用 AI 生成動畫是團隊自身決策，講談社並未參與。",
+    "原作者先前曾表示對企劃一無所知，官方承諾未來本編將維持原作漫畫與聲優結合形式。"
+   ],
+   "summary": "有聲漫畫 YouTube 頻道因《閃靈二人組》AI 生成宣傳影片引起爭議並發布致歉公告。",
+   "pick": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_4bfb392b85ed",
+   "mod": "news",
+   "cat": "news",
+   "title": "2027臺北動漫節｜青春靈異漫畫《靈靈總總拍不到》 作者コノシマルカ來臺舉辦簽名會",
+   "url": "https://www.4gamers.com.tw/news/detail/83424/utsuranain-desu-author-fan-meeting-event-in-tica-2027",
+   "source": "4Gamers",
+   "origin": "TW",
+   "image": "https://img.4gamers.com.tw/news-image/faad2d49-9dfa-4c92-827a-fd8ce36ca4da.jpg",
    "category": "漫畫",
-   "origin": "INTL",
-   "source": "Anime News Network",
    "points": [
-    "國際出版商推出全新閱讀 App，首波上架 200 部作品",
-    "支援繁體中文介面，部分作品日本同步更新",
-    "採免費＋付費章節混合模式"
+    "第 15 屆台北國際動漫節將於 2027 年 1 月 28 日起在台北世貿一館熱鬧登場。",
+    "台灣角川將邀請日本漫畫家コノシマルカ來台舉辦《靈靈總總拍不到》簽名會。",
+    "現場將首賣最新作《靈靈總總拍不到》第 7 集首刷特裝版與相關周邊商品。"
    ],
-   "seed": true
-  },
-  {
-   "id": "news_68",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
+   "summary": "第 15 屆台北國際動漫節將於 2027 年 1 月 28 日起在台北世貿一館熱鬧登場。",
    "pick": true,
-   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
-   "title": "（範例）年度遊戲展首日重點整理",
-   "category": "遊戲",
-   "origin": "TW",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_734cfb1c9560",
+   "mod": "news",
+   "cat": "news",
+   "title": "《明日方舟：終末地》2.0+全新版本11/25開啟 統一布丁合作即將開跑",
+   "url": "https://www.4gamers.com.tw/news/detail/83443/arknights-endfield-new-version-2-point-zero-release-in-25-november",
    "source": "4Gamers",
-   "points": [
-    "首日公開 12 款新作，其中 5 款支援繁中",
-    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
-    "兩款手遊宣布年底上市並開放事前登錄",
-    "展期至週日，部分試玩需現場預約"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_69",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "韓國網路小說英文版登上全球平台月榜第一",
-   "title": "（範例）Korean web novel tops global chart",
-   "category": "小說",
-   "origin": "INTL",
-   "source": "Korea JoongAng Daily",
-   "points": [
-    "韓國網路小說英文版登上全球平台月榜第一",
-    "作品已累計 3 億次閱讀，改編 Webtoon 同步連載",
-    "出版社計畫推出更多語言版本，含繁體中文"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_70",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "平台宣布明年起擴大日本動畫獨家授權",
-   "title": "（範例）大型串流平台調整動畫授權策略",
-   "category": "業界",
-   "origin": "INTL",
-   "source": "Variety",
-   "points": [
-    "平台宣布明年起擴大日本動畫獨家授權",
-    "亞洲地區將同步上架新番",
-    "業界預期會影響其他平台的代理競爭"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_71",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
-   "pick": true,
-   "summary": "官方於直播中公開第二季製作決定與前導視覺",
-   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
-   "category": "動漫",
    "origin": "TW",
-   "source": "巴哈姆特 GNN",
+   "image": "https://img.4gamers.com.tw/news-image/8123d536-5300-4216-933b-10f8f1819620.jpg",
+   "category": "遊戲",
    "points": [
-    "官方於直播中公開第二季製作決定與前導視覺",
-    "原班聲優與製作公司續任，導演更換",
-    "預計明年春季開播，台灣同步代理",
-    "第一季藍光銷量為製作關鍵"
+    "鷹角網路宣布《明日方舟：終末地》將於 11 月 25 日開啟 2.0 大型更新「穿越甚大蘑境與你相逢」。",
+    "推出六星全新幹員小刻與五星活動幹員米米諾，並引入蘑菇幻覺等探索地圖。",
+    "同步新增模擬經營玩法、重建禁區常駐玩法及多項趣味卡牌與挑戰活動。"
    ],
-   "seed": true
+   "summary": "鷹角網路宣布《明日方舟：終末地》將於 11 月 25 日開啟 2.0 大型更新「穿越甚大蘑境與你相逢」。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "news_72",
+   "id": "news_a66ff18ebb30",
    "mod": "news",
    "cat": "news",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
-   "pick": true,
-   "summary": "國際出版商推出全新閱讀 App，首波上架 200 部作品",
-   "title": "（範例）Global publisher announces new manga app",
-   "category": "漫畫",
-   "origin": "INTL",
+   "title": "Shōzen 電視動畫公開全新預告、主視覺圖與聲優陣容",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-22/shozen-tv-anime-unveils-new-trailer-key-visual-cast/.244063",
    "source": "Anime News Network",
-   "points": [
-    "國際出版商推出全新閱讀 App，首波上架 200 部作品",
-    "支援繁體中文介面，部分作品日本同步更新",
-    "採免費＋付費章節混合模式"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_73",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
-   "pick": true,
-   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
-   "title": "（範例）年度遊戲展首日重點整理",
-   "category": "遊戲",
-   "origin": "TW",
-   "source": "4Gamers",
-   "points": [
-    "首日公開 12 款新作，其中 5 款支援繁中",
-    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
-    "兩款手遊宣布年底上市並開放事前登錄",
-    "展期至週日，部分試玩需現場預約"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_74",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "韓國網路小說英文版登上全球平台月榜第一",
-   "title": "（範例）Korean web novel tops global chart",
-   "category": "小說",
    "origin": "INTL",
-   "source": "Korea JoongAng Daily",
-   "points": [
-    "韓國網路小說英文版登上全球平台月榜第一",
-    "作品已累計 3 億次閱讀，改編 Webtoon 同步連載",
-    "出版社計畫推出更多語言版本，含繁體中文"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_75",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "平台宣布明年起擴大日本動畫獨家授權",
-   "title": "（範例）大型串流平台調整動畫授權策略",
-   "category": "業界",
-   "origin": "INTL",
-   "source": "Variety",
-   "points": [
-    "平台宣布明年起擴大日本動畫獨家授權",
-    "亞洲地區將同步上架新番",
-    "業界預期會影響其他平台的代理競爭"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_76",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "官方於直播中公開第二季製作決定與前導視覺",
-   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
+   "image": "",
    "category": "動漫",
-   "origin": "TW",
-   "source": "巴哈姆特 GNN",
    "points": [
-    "官方於直播中公開第二季製作決定與前導視覺",
-    "原班聲優與製作公司續任，導演更換",
-    "預計明年春季開播，台灣同步代理",
-    "第一季藍光銷量為製作關鍵"
+    "預定四月開播的電視動畫《Shōzen》公開了全新的宣傳預告片。",
+    "同步釋出作品的官方主視覺圖以及參與演出的主要聲優名單。",
+    "知名聲優花澤香菜確定加入該部四月新番的演出陣容。"
    ],
-   "seed": true
+   "summary": "預定四月開播的電視動畫《Shōzen》公開了全新的宣傳預告片。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "news_77",
+   "id": "news_1338720c6846",
    "mod": "news",
    "cat": "news",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
-   "title": "（範例）年度遊戲展首日重點整理",
-   "category": "遊戲",
-   "origin": "TW",
-   "source": "4Gamers",
-   "points": [
-    "首日公開 12 款新作，其中 5 款支援繁中",
-    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
-    "兩款手遊宣布年底上市並開放事前登錄",
-    "展期至週日，部分試玩需現場預約"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_78",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "平台宣布明年起擴大日本動畫獨家授權",
-   "title": "（範例）大型串流平台調整動畫授權策略",
-   "category": "業界",
-   "origin": "INTL",
-   "source": "Variety",
-   "points": [
-    "平台宣布明年起擴大日本動畫獨家授權",
-    "亞洲地區將同步上架新番",
-    "業界預期會影響其他平台的代理競爭"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_79",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "國際出版商推出全新閱讀 App，首波上架 200 部作品",
-   "title": "（範例）Global publisher announces new manga app",
-   "category": "漫畫",
-   "origin": "INTL",
+   "title": "《夜櫻家大作戰》第二季動畫第二部分公佈三木真一郎參演聲優",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-22/mission-yozakura-family-season-2-anime-2nd-part-casts-shinichiro-miki/.244061",
    "source": "Anime News Network",
-   "points": [
-    "國際出版商推出全新閱讀 App，首波上架 200 部作品",
-    "支援繁體中文介面，部分作品日本同步更新",
-    "採免費＋付費章節混合模式"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_80",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "韓國網路小說英文版登上全球平台月榜第一",
-   "title": "（範例）Korean web novel tops global chart",
-   "category": "小說",
    "origin": "INTL",
-   "source": "Korea JoongAng Daily",
-   "points": [
-    "韓國網路小說英文版登上全球平台月榜第一",
-    "作品已累計 3 億次閱讀，改編 Webtoon 同步連載",
-    "出版社計畫推出更多語言版本，含繁體中文"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_81",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "官方於直播中公開第二季製作決定與前導視覺",
-   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
+   "image": "",
    "category": "動漫",
-   "origin": "TW",
-   "source": "巴哈姆特 GNN",
    "points": [
-    "官方於直播中公開第二季製作決定與前導視覺",
-    "原班聲優與製作公司續任，導演更換",
-    "預計明年春季開播，台灣同步代理",
-    "第一季藍光銷量為製作關鍵"
+    "人氣動畫《夜櫻家大作戰》第二季的第二部分公布最新選角消息。",
+    "資深聲優三木真一郎將參與演出。",
+    "新角色預計會在動畫的第 47 集當中正式登場亮相。"
    ],
-   "seed": true
+   "summary": "人氣動畫《夜櫻家大作戰》第二季的第二部分公布最新選角消息。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "news_82",
+   "id": "news_32afb71e3486",
    "mod": "news",
    "cat": "news",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
-   "title": "（範例）年度遊戲展首日重點整理",
-   "category": "遊戲",
-   "origin": "TW",
-   "source": "4Gamers",
-   "points": [
-    "首日公開 12 款新作，其中 5 款支援繁中",
-    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
-    "兩款手遊宣布年底上市並開放事前登錄",
-    "展期至週日，部分試玩需現場預約"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_83",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "平台宣布明年起擴大日本動畫獨家授權",
-   "title": "（範例）大型串流平台調整動畫授權策略",
-   "category": "業界",
-   "origin": "INTL",
-   "source": "Variety",
-   "points": [
-    "平台宣布明年起擴大日本動畫獨家授權",
-    "亞洲地區將同步上架新番",
-    "業界預期會影響其他平台的代理競爭"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_84",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-15",
-   "updated": "2026-10-16",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "國際出版商推出全新閱讀 App，首波上架 200 部作品",
-   "title": "（範例）Global publisher announces new manga app",
-   "category": "漫畫",
-   "origin": "INTL",
+   "title": "全新《緋彈的亞莉亞》短篇動畫公開標題、新舊聲優陣容與 2027 年 4 月開播",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-22/new-aria-the-scarlet-ammo-short-anime-unveils-title-new-and-returning-cast-april-2027-debut/.244075",
    "source": "Anime News Network",
-   "points": [
-    "國際出版商推出全新閱讀 App，首波上架 200 部作品",
-    "支援繁體中文介面，部分作品日本同步更新",
-    "採免費＋付費章節混合模式"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_85",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-15",
-   "updated": "2026-10-16",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "韓國網路小說英文版登上全球平台月榜第一",
-   "title": "（範例）Korean web novel tops global chart",
-   "category": "小說",
    "origin": "INTL",
-   "source": "Korea JoongAng Daily",
-   "points": [
-    "韓國網路小說英文版登上全球平台月榜第一",
-    "作品已累計 3 億次閱讀，改編 Webtoon 同步連載",
-    "出版社計畫推出更多語言版本，含繁體中文"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_86",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "官方於直播中公開第二季製作決定與前導視覺",
-   "title": "（範例）某大型 IP 宣布動畫第二季製作決定",
+   "image": "",
    "category": "動漫",
-   "origin": "TW",
-   "source": "巴哈姆特 GNN",
    "points": [
-    "官方於直播中公開第二季製作決定與前導視覺",
-    "原班聲優與製作公司續任，導演更換",
-    "預計明年春季開播，台灣同步代理",
-    "第一季藍光銷量為製作關鍵"
+    "全新短篇動畫《緋彈的亞莉亞 Corto》正式公開作品標題。",
+    "官方同步揭曉參與製作的主要工作人員名單。",
+    "同時公布新加入以及回歸的聲優陣容，預定 2027 年 4 月正式播出。"
    ],
-   "seed": true
+   "summary": "全新短篇動畫《緋彈的亞莉亞 Corto》正式公開作品標題。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "news_87",
+   "id": "news_0ff982e66019",
    "mod": "news",
    "cat": "news",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "首日公開 12 款新作，其中 5 款支援繁中",
-   "title": "（範例）年度遊戲展首日重點整理",
-   "category": "遊戲",
-   "origin": "TW",
-   "source": "4Gamers",
-   "points": [
-    "首日公開 12 款新作，其中 5 款支援繁中",
-    "獨立遊戲區人潮創新高，台灣團隊作品受矚目",
-    "兩款手遊宣布年底上市並開放事前登錄",
-    "展期至週日，部分試玩需現場預約"
-   ],
-   "seed": true
-  },
-  {
-   "id": "news_88",
-   "mod": "news",
-   "cat": "news",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "url": "https://example.com/",
-   "pick": false,
-   "summary": "平台宣布明年起擴大日本動畫獨家授權",
-   "title": "（範例）大型串流平台調整動畫授權策略",
-   "category": "業界",
+   "title": "《偵探已經死了》動畫第二季為全新篇章公開預告片與視覺圖",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-22/the-detective-is-already-dead-anime-2nd-season-reveals-trailer-visual-for-new-arc/.244074",
+   "source": "Anime News Network",
    "origin": "INTL",
-   "source": "Variety",
+   "image": "",
+   "category": "動漫",
    "points": [
-    "平台宣布明年起擴大日本動畫獨家授權",
-    "亞洲地區將同步上架新番",
-    "業界預期會影響其他平台的代理競爭"
+    "人氣動畫《偵探已經死了》針對第二季的新篇章釋出宣傳預告片。",
+    "同步公開了新篇章的官方主視覺圖宣傳插畫。",
+    "該季新動畫內容已於 10 月 7 日正式開播登場。"
    ],
-   "seed": true
+   "summary": "人氣動畫《偵探已經死了》針對第二季的新篇章釋出宣傳預告片。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_6094da8f4537",
+   "mod": "news",
+   "cat": "news",
+   "title": "《賽馬娘 Pretty Derby》聯手丹佛野馬隊",
+   "url": "https://www.animenewsnetwork.com/interest/2026-11-21/uma-musume-pretty-derby-joins-the-denver-broncos/.244053",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "業界",
+   "points": [
+    "《賽馬娘 Pretty Derby》跨界合作消息公開。",
+    "賽馬娘角色們將穿上球衣裝備。",
+    "準備與邁阿密海豚隊展開特別的聯動企劃。"
+   ],
+   "summary": "《賽馬娘 Pretty Derby》跨界合作消息公開。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_d2dc84d1ee61",
+   "mod": "news",
+   "cat": "news",
+   "title": "《柴遊記：靠死亡遊戲謀生》動畫宣佈製作續篇",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-21/shiboyugi-playing-death-games-to-put-food-on-the-table-anime-gets-sequel/.244070",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "生存死亡遊戲題材動畫《柴遊記：靠死亡遊戲謀生》正式宣布將製作續篇動畫。",
+    "官方同步公開了續篇製作的早期前導視覺圖。",
+    "讓期待後續發展的粉絲們能先睹為快。"
+   ],
+   "summary": "生存死亡遊戲題材動畫《柴遊記：靠死亡遊戲謀生》正式宣布將製作續篇動畫。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_000600b0b412",
+   "mod": "news",
+   "cat": "news",
+   "title": "《結界師的新娘》電視動畫揭曉 1 月 6 日一小時特別首播與宣傳影片新聲優",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-21/bride-of-the-barrier-master-tv-anime-reveals-1-hour-debut-on-january-6-more-cast-in-video/.244073",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "電視動畫《結界師的新娘》確定將於 1 月 6 日以一小時特別篇形式首播。",
+    "官方透過最新宣傳影片公開更多參與演出的聲優陣容。",
+    "確認片頭曲將由關西傑尼斯組合 Naniwa Danshi 演唱，並加入小林千晃與江口拓也等聲優。"
+   ],
+   "summary": "電視動畫《結界師的新娘》確定將於 1 月 6 日以一小時特別篇形式首播。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_62960047f809",
+   "mod": "news",
+   "cat": "news",
+   "title": "《歡迎來到實力至上主義的教室》動畫第五季公開完整標題、視覺圖與 2027 年開播",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-21/classroom-of-the-elite-anime-5th-season-reveals-full-title-visual-2027-debut/.244051",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "人氣改編動畫《歡迎來到實力至上主義的教室》正式公開第五季的完整標題。",
+    "同步釋出全新的官方視覺宣傳插畫供粉絲欣賞。",
+    "確認將於 2027 年正式開播，劇情將涵蓋二年級學期前半段的故事。"
+   ],
+   "summary": "人氣改編動畫《歡迎來到實力至上主義的教室》正式公開第五季的完整標題。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "news_63d1df776f72",
+   "mod": "news",
+   "cat": "news",
+   "title": "《迴轉企鵝罐》動畫將由幾原邦彥舉辦朗讀會活動",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-21/mawaru-penguindrum-anime-inspires-stage-reading-production-by-kunihiko-ikuhara/.244065",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "《迴轉企鵝罐》宣布將推出由監督幾原邦彥主導的舞台朗讀會製作。",
+    "幾原邦彥將親自參與共同編劇與共同導演。",
+    "活動定名為「Reading in the dark: Kodomo Broiler Sensō」，預定於 2 月 6 日至 7 日舉辦。"
+   ],
+   "summary": "《迴轉企鵝罐》宣布將推出由監督幾原邦彥主導的舞台朗讀會製作。",
+   "pick": false,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   }
  ]
 }

@@ -1,868 +1,1891 @@
 {
  "meta": {
-  "last_updated": "2026-10-20T07:17",
-  "seed": true
+  "last_updated": "2026-11-22T18:12+08:00",
+  "seed": false,
+  "counts": {
+   "anime": 17,
+   "comic": 12,
+   "games": 10,
+   "novel": 14
+  }
  },
  "items": [
   {
-   "id": "anime_36",
-   "mod": "acgn",
    "cat": "anime",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "season": "2026 秋",
-   "title": "（範例）星海的回聲",
-   "title_orig": "星海のエコー",
-   "studio": "範例動畫工作室",
    "season_type": "current",
-   "latest": "第7話",
-   "synopsis": "少年與失憶的星艦 AI 在廢棄航道上尋找故鄉，每一集解開一段 AI 遺失的記憶。",
-   "original": "原創動畫",
-   "broadcast": "每週六 23:30（日本）",
-   "episodes": "預定 12 話",
-   "hook": "作畫穩定、太空場景極美，前三集鋪陳後第 5 話起劇情急轉。",
-   "tags": [
-    "科幻",
-    "冒險",
-    "原創"
-   ],
+   "season": "2026 秋",
+   "title_orig": "サイバーパンク: エッジランナーズ2",
+   "studio": "TRIGGER",
+   "latest": "完結",
+   "broadcast": "",
+   "episodes": "全 10 話",
+   "original": "遊戲改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195539-4LdfmKIHzuxr.png",
+   "imageSrc": "AniList",
    "watch": [
-    {
-     "name": "巴哈姆特動畫瘋",
-     "url": "https://ani.gamer.com.tw/"
-    },
     {
      "name": "Netflix",
-     "url": "https://www.netflix.com/"
-    }
-   ],
-   "seed": true
-  },
-  {
-   "id": "anime_37",
-   "mod": "acgn",
-   "cat": "anime",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "season": "2026 秋",
-   "title": "（範例）星海的回聲",
-   "title_orig": "星海のエコー",
-   "studio": "範例動畫工作室",
-   "season_type": "current",
-   "latest": "第7話",
-   "synopsis": "少年與失憶的星艦 AI 在廢棄航道上尋找故鄉，每一集解開一段 AI 遺失的記憶。",
-   "original": "原創動畫",
-   "broadcast": "每週六 23:30（日本）",
-   "episodes": "預定 12 話",
-   "hook": "作畫穩定、太空場景極美，前三集鋪陳後第 5 話起劇情急轉。",
-   "tags": [
-    "科幻",
-    "冒險",
-    "原創"
-   ],
-   "watch": [
-    {
-     "name": "巴哈姆特動畫瘋",
-     "url": "https://ani.gamer.com.tw/"
+     "url": "https://www.netflix.com/title/81744227"
     },
     {
-     "name": "Netflix",
-     "url": "https://www.netflix.com/"
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF%3A%20%E3%82%A8%E3%83%83%E3%82%B8%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%BA2"
     }
    ],
-   "seed": true
+   "mod": "acgn",
+   "id": "anime_5b07e5569e81",
+   "title": "電馭叛客：邊緣行者 2",
+   "synopsis": "夜城再次捲入極端命運。過氣傳奇龐克弱者失去義體，在被世界拋棄後尋找生存意義，同時流浪者D追尋復仇，捲入企業機密，展開十集獨立故事。",
+   "hook": "重回夜城，展開關於家族、執念與傳奇的全新獨立篇章。",
+   "tags": [
+    "科幻",
+    "動作",
+    "劇情"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "anime_38",
-   "mod": "acgn",
    "cat": "anime",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "season": "2026 秋",
-   "title": "（範例）放學後的料理研究社",
-   "title_orig": "放課後料理研究部",
-   "studio": "範例工作室B",
    "season_type": "current",
-   "latest": "第8話",
-   "synopsis": "面臨廢社危機的料理社，靠一道又一道家常菜收服學生會。",
-   "original": "漫畫改編（全 6 卷）",
-   "broadcast": "每週四 24:00",
-   "episodes": "預定 12 話",
-   "hook": "療癒系日常，附真實食譜，適合下班放空。",
-   "tags": [
-    "日常",
-    "美食"
-   ],
-   "watch": [
-    {
-     "name": "Muse 木棉花",
-     "url": "https://www.youtube.com/@MuseChinese"
-    }
-   ],
-   "seed": true
-  },
-  {
-   "id": "anime_39",
-   "mod": "acgn",
-   "cat": "anime",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
    "season": "2026 秋",
-   "title": "（範例）放學後的料理研究社",
-   "title_orig": "放課後料理研究部",
-   "studio": "範例工作室B",
-   "season_type": "current",
+   "title_orig": "薬屋のひとりごと 第3期",
+   "studio": "OLM",
    "latest": "第8話",
-   "synopsis": "面臨廢社危機的料理社，靠一道又一道家常菜收服學生會。",
-   "original": "漫畫改編（全 6 卷）",
-   "broadcast": "每週四 24:00",
-   "episodes": "預定 12 話",
-   "hook": "療癒系日常，附真實食譜，適合下班放空。",
-   "tags": [
-    "日常",
-    "美食"
-   ],
-   "watch": [
-    {
-     "name": "Muse 木棉花",
-     "url": "https://www.youtube.com/@MuseChinese"
-    }
-   ],
-   "seed": true
-  },
-  {
-   "id": "anime_40",
-   "mod": "acgn",
-   "cat": "anime",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "season": "2027 冬",
-   "title": "（範例）劍與魔法的稅務官",
-   "title_orig": "剣と魔法の税務官",
-   "studio": "範例工作室C",
-   "season_type": "next",
-   "latest": "下季開播",
-   "synopsis": "轉生到異世界的會計師，以查帳揭開王國的財政陰謀。",
-   "original": "輕小說改編",
-   "broadcast": "預定下季",
-   "episodes": "未公布",
-   "hook": "罕見的「財務」題材異世界，原作人氣高。",
-   "tags": [
-    "異世界",
-    "喜劇",
-    "職場"
-   ],
-   "watch": [
-    {
-     "name": "巴哈姆特動畫瘋",
-     "url": "https://ani.gamer.com.tw/"
-    }
-   ],
-   "seed": true
-  },
-  {
-   "id": "anime_41",
-   "mod": "acgn",
-   "cat": "anime",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "season": "2027 冬",
-   "title": "（範例）劍與魔法的稅務官",
-   "title_orig": "剣と魔法の税務官",
-   "studio": "範例工作室C",
-   "season_type": "next",
-   "latest": "下季開播",
-   "synopsis": "轉生到異世界的會計師，以查帳揭開王國的財政陰謀。",
-   "original": "輕小說改編",
-   "broadcast": "預定下季",
-   "episodes": "未公布",
-   "hook": "罕見的「財務」題材異世界，原作人氣高。",
-   "tags": [
-    "異世界",
-    "喜劇",
-    "職場"
-   ],
-   "watch": [
-    {
-     "name": "巴哈姆特動畫瘋",
-     "url": "https://ani.gamer.com.tw/"
-    }
-   ],
-   "seed": true
-  },
-  {
-   "id": "anime_42",
-   "mod": "acgn",
-   "cat": "anime",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
-   "season": "2026 夏",
-   "title": "（範例）夏日終點站",
-   "title_orig": "夏の終着駅",
-   "studio": "範例工作室D",
-   "season_type": "prev",
-   "latest": "完結（全12話）",
-   "synopsis": "鄉間小站裡交錯的三段夏天戀情。",
-   "original": "原創動畫",
-   "broadcast": "已完結",
+   "broadcast": "每週五 23:00（日本）",
    "episodes": "全 12 話",
-   "hook": "適合一次追完，配樂評價很高。",
-   "tags": [
-    "戀愛",
-    "青春"
-   ],
+   "original": "輕小說改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
+   "imageSrc": "AniList",
    "watch": [
     {
      "name": "Crunchyroll",
-     "url": "https://www.crunchyroll.com/"
+     "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
+    },
+    {
+     "name": "Netflix",
+     "url": "https://www.netflix.com/us/title/81712068"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%97%A5%E5%B1%8B%E5%B0%91%E5%A5%B3%E7%9A%84%E5%91%A2%E5%96%83%20%E7%AC%AC%E4%B8%89%E5%AD%A3"
     }
    ],
-   "seed": true
+   "title": "藥屋少女的呢喃 第三季",
+   "mod": "acgn",
+   "id": "anime_5e725e770881",
+   "synopsis": "壬氏揭露皇弟身分並承擔重任，深憂國難警告。同時貓貓回到花街重操藥師舊業，卻因早餐異常展開調查，神祕巫女的流言也讓里國再度壟罩陰影。",
+   "hook": "國難危機逼近，貓貓的藥師本能與壬氏的重任將擦出什麼火花？",
+   "tags": [
+    "懸疑",
+    "劇情"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "anime_43",
-   "mod": "acgn",
    "cat": "anime",
-   "added": "2026-10-15",
-   "updated": "2026-10-16",
-   "season": "2026 夏",
-   "title": "（範例）夏日終點站",
-   "title_orig": "夏の終着駅",
-   "studio": "範例工作室D",
-   "season_type": "prev",
-   "latest": "完結（全12話）",
-   "synopsis": "鄉間小站裡交錯的三段夏天戀情。",
-   "original": "原創動畫",
-   "broadcast": "已完結",
-   "episodes": "全 12 話",
-   "hook": "適合一次追完，配樂評價很高。",
-   "tags": [
-    "戀愛",
-    "青春"
-   ],
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "ブラッククローバー 第2期",
+   "studio": "Studio Pierrot",
+   "latest": "第8話",
+   "broadcast": "每週六 23:00（日本）",
+   "episodes": "未公布",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
+   "imageSrc": "AniList",
    "watch": [
     {
      "name": "Crunchyroll",
-     "url": "https://www.crunchyroll.com/"
-    }
-   ],
-   "seed": true
-  },
-  {
-   "id": "comic_44",
-   "mod": "acgn",
-   "cat": "comic",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "（範例）黑潮之刃",
-   "author": "範例作者A",
-   "origin": "日漫",
-   "latest": "第42話",
-   "status": "連載中",
-   "freq": "週刊（每週一）",
-   "synopsis": "海賊之子為奪回故鄉向帝國艦隊宣戰，與昔日仇敵組成同盟。",
-   "hook": "戰鬥分鏡魄力十足，第 40 話後進入新篇章，現在入坑剛好。",
-   "tags": [
-    "熱血",
-    "冒險"
-   ],
-   "watch": [
+     "url": "https://www.crunchyroll.com/series/GRE50KV36/black-clover"
+    },
     {
-     "name": "少年Jump+",
-     "url": "https://shonenjumpplus.com/"
-    }
-   ],
-   "seed": true
-  },
-  {
-   "id": "comic_45",
-   "mod": "acgn",
-   "cat": "comic",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
-   "title": "（範例）黑潮之刃",
-   "author": "範例作者A",
-   "origin": "日漫",
-   "latest": "第42話",
-   "status": "連載中",
-   "freq": "週刊（每週一）",
-   "synopsis": "海賊之子為奪回故鄉向帝國艦隊宣戰，與昔日仇敵組成同盟。",
-   "hook": "戰鬥分鏡魄力十足，第 40 話後進入新篇章，現在入坑剛好。",
-   "tags": [
-    "熱血",
-    "冒險"
-   ],
-   "watch": [
+     "name": "Bilibili TV",
+     "url": "https://www.bilibili.tv/en/media/2432940"
+    },
     {
-     "name": "少年Jump+",
-     "url": "https://shonenjumpplus.com/"
-    }
-   ],
-   "seed": true
-  },
-  {
-   "id": "comic_46",
-   "mod": "acgn",
-   "cat": "comic",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "title": "（範例）第二次的社長千金",
-   "author": "샘플작가",
-   "origin": "韓漫",
-   "latest": "第88話",
-   "status": "連載中",
-   "freq": "每週六更新",
-   "synopsis": "重生回十年前的財閥千金，決定改寫家族命運並揭穿陰謀。",
-   "hook": "經典重生復仇爽文節奏，全彩條漫手機好讀。",
-   "tags": [
-    "重生",
-    "復仇",
-    "戀愛"
-   ],
-   "watch": [
+     "name": "iQ",
+     "url": "https://www.iq.com/album/qchxviq611"
+    },
     {
-     "name": "LINE Webtoon",
-     "url": "https://www.webtoons.com/"
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%20%E7%AC%AC2%E6%9C%9F"
     }
    ],
-   "seed": true
-  },
-  {
-   "id": "comic_47",
    "mod": "acgn",
-   "cat": "comic",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "title": "（範例）第二次的社長千金",
-   "author": "샘플작가",
-   "origin": "韓漫",
-   "latest": "第88話",
-   "status": "連載中",
-   "freq": "每週六更新",
-   "synopsis": "重生回十年前的財閥千金，決定改寫家族命運並揭穿陰謀。",
-   "hook": "經典重生復仇爽文節奏，全彩條漫手機好讀。",
+   "id": "anime_f83dab52b93c",
+   "title": "黑色五葉草 第二季",
+   "synopsis": "三極惡佔領黑桃王國，亞斯塔與魔法騎士團發動突襲營救隊長，卻陷入超乎想像的殘酷苦戰。亞斯塔必須超越極限，守護同伴並兌現與尤諾的承諾。",
+   "hook": "迎戰最強敵手，亞斯塔突破極限的熱血死鬥！",
    "tags": [
-    "重生",
-    "復仇",
-    "戀愛"
-   ],
-   "watch": [
-    {
-     "name": "LINE Webtoon",
-     "url": "https://www.webtoons.com/"
-    }
-   ],
-   "seed": true
-  },
-  {
-   "id": "comic_48",
-   "mod": "acgn",
-   "cat": "comic",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "title": "（範例）地下城外送員",
-   "author": "範例作者B",
-   "origin": "韓漫",
-   "latest": "第15話",
-   "status": "連載中",
-   "freq": "每週三更新",
-   "synopsis": "F 級獵人靠「外送」技能在地下城裡求生兼賺錢。",
-   "hook": "獵人題材加上搞笑元素，新作上升中。",
-   "tags": [
-    "獵人",
+    "動作",
+    "奇幻",
+    "冒險",
     "搞笑"
    ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "テムパル～アイテムの力～",
+   "studio": "J.C.STAFF",
+   "latest": "第8話",
+   "broadcast": "每週日 23:30（日本）",
+   "episodes": "全 12 話",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/GT00384004"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%A3%9D%E5%82%99%E6%88%91%E6%9C%80%E5%BC%B7"
+    }
+   ],
+   "title": "裝備我最強",
+   "mod": "acgn",
+   "id": "anime_a110aa2bc461",
+   "synopsis": "低級玩家申榮宇在遊戲中獲得神祕道具，轉職為傳奇職業「帕瑪的傳人」。他成為能打造最強裝備的鐵匠，企圖藉此獲得名利，卻在遊戲世界掀起巨大風波。",
+   "hook": "廢柴玩家意外轉職傳奇鐵匠，展開名利雙收的遊戲人生！",
+   "tags": [
+    "冒險",
+    "奇幻",
+    "動作",
+    "搞笑"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "ホタルの嫁入り",
+   "studio": "david production",
+   "latest": "第7話",
+   "broadcast": "每週五 23:30（日本）",
+   "episodes": "全 12 話",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/GT00383999"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%9E%A2%E7%81%AB%E8%9F%B2%E7%9A%84%E5%87%BA%E5%AB%81"
+    }
+   ],
+   "title": "螢火蟲的出嫁",
+   "mod": "acgn",
+   "id": "anime_b2fdf7469387",
+   "synopsis": "貴族千金紗都子身患重病時日無多，卻遭神祕殺手新平盯上。為了自保，她提出結婚的瘋狂提議，而新平對這份愛意則是認真看待至死方休。",
+   "hook": "命在旦夕的千金向殺手求婚，展開瘋狂又致命的純愛對決！",
+   "tags": [
+    "愛情",
+    "劇情"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "転生したら剣でした 第2期",
+   "studio": "C2C",
+   "latest": "第8話",
+   "broadcast": "每週四 00:30（日本）",
+   "episodes": "全 12 話",
+   "original": "輕小說改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-GGFwlDskc5vR.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "HIDIVE",
+     "url": "https://www.hidive.com/season/39506"
+    },
+    {
+     "name": "Amazon Prime Video",
+     "url": "https://www.amazon.com/gp/video/detail/B0HLCHQS6T"
+    },
+    {
+     "name": "iQ",
+     "url": "https://www.iq.com/album/1v4ebkyoz21"
+    },
+    {
+     "name": "YouTube",
+     "url": "https://www.youtube.com/playlist?list=PLcSpWjb7H0lk"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%82%89%E5%89%A3%E3%81%A7%E3%81%97%E3%81%9F%20%E7%AC%AC2%E6%9C%9F"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_3a9654868e4f",
+   "title": "轉生成為魔劍 第2期",
+   "synopsis": "人氣輕小說改編動畫《轉生成為魔劍》第二季，延續前作的世界觀與冒險旅程。",
+   "hook": "最強魔劍與黑貓族少女的冒險第二季正式展開！",
+   "tags": [
+    "冒險",
+    "奇幻",
+    "動作"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "生徒会にも穴はある！",
+   "studio": "Passione",
+   "latest": "第8話",
+   "broadcast": "每週日 00:30（日本）",
+   "episodes": "全 12 話",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "OceanVeil",
+     "url": "https://oceanveil.net/anime_titles/542"
+    },
+    {
+     "name": "Bilibili TV",
+     "url": "https://www.bilibili.tv/en/media/2433041"
+    },
+    {
+     "name": "iQ",
+     "url": "https://www.iq.com/album/28ki6pjn6a1"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E5%AD%B8%E7%94%9F%E6%9C%83%E4%B9%9F%E6%9C%89%E6%B4%9E%EF%BC%81"
+    }
+   ],
+   "title": "學生會也有洞！",
+   "mod": "acgn",
+   "id": "anime_25393a64a190",
+   "synopsis": "藤那須學園高一生成績優異卻因理科不及格面臨留級，為此加入學生會提升學業。在學生會中，他遇到了充滿魅力的會長與嚴肅的會計等獨特成員。",
+   "hook": "為了不留級而加入學生會，展開充滿笑料的校園日常！",
+   "tags": [
+    "搞笑",
+    "校園",
+    "日常"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "アオのハコ Season２",
+   "studio": "Electric Circus",
+   "latest": "第7話",
+   "broadcast": "每週日 16:30（日本）",
+   "episodes": "全 12 話",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/81663323"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E3%82%A2%E3%82%AA%E3%81%AE%E3%83%8F%E3%82%B3%20%E7%AC%AC2%E6%9C%9F"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_40e4efec5700",
+   "title": "藍箱 第二季",
+   "synopsis": "大喜與千夏在各自的青春道路上向前邁進，隨著彼此的情感逐漸加深，過去破碎的友誼與激烈的全國大賽競爭也為他們的道路帶來挑戰。",
+   "hook": "青春戀愛與體育競技交織，大喜與千夏的情感迎來新考驗！",
+   "tags": [
+    "愛情",
+    "運動",
+    "日常"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "prev",
+   "season": "2026 夏",
+   "title_orig": "無職転生Ⅲ ～異世界行ったら本気だす～",
+   "studio": "Studio Bind",
+   "latest": "完結（全14話）",
+   "broadcast": "",
+   "episodes": "全 14 話",
+   "original": "輕小說改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation"
+    },
+    {
+     "name": "iQ",
+     "url": "https://www.iq.com/album/ds3kartbap"
+    },
+    {
+     "name": "YouTube",
+     "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1LMA6zhohDzfoV-XXFxS9Z"
+    },
+    {
+     "name": "Bilibili TV",
+     "url": "https://www.bilibili.tv/media/2411609"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F%20%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E%20%E7%AC%AC3%E6%9C%9F"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_7be4b432d49c",
+   "title": "無職轉生～到了異世界就拿出真本事～ 第三季",
+   "synopsis": "人氣異世界轉生作品《無職轉生》第三季，繼續描繪主角魯迪烏斯的冒險與成長歷程。",
+   "hook": "人氣異世界神作第三季，見證魯迪烏斯的全新篇章！",
+   "tags": [
+    "冒險",
+    "奇幻",
+    "劇情"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "prev",
+   "season": "2026 夏",
+   "title_orig": "スーパーの裏でヤニ吸うふたり",
+   "studio": "Asahi Production",
+   "latest": "完結（全12話）",
+   "broadcast": "",
+   "episodes": "全 12 話",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/GT00378116/smoking-behind-the-supermarket-with-you"
+    },
+    {
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/82757039"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%81%AE%E8%A3%8F%E3%81%A7%E3%83%A4%E3%83%8B%E5%90%B8%E3%81%86%E3%81%B5%E3%81%9F%E3%82%8A"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_1c45502d2ed5",
+   "title": "超人氣的抽菸日常",
+   "synopsis": "過勞上班族佐佐木靠著抽菸與超市店員山田的親切笑容撐過日常。某晚他加班後拖著疲憊身軀前往，卻發現山田不在，正失落時，一位有耳洞的年輕女子叫住了他。",
+   "hook": "疲憊社畜與神祕超商女孩的療癒抽菸時光。",
+   "tags": [
+    "愛情",
+    "日常",
+    "搞笑"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "prev",
+   "season": "2026 夏",
+   "title_orig": "BLEACH 千年血戦篇-禍進譚-",
+   "studio": "PIERROT FILMS",
+   "latest": "完結（全10話）",
+   "broadcast": "",
+   "episodes": "全 10 話",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "YouTube",
+     "url": "https://youtube.com/@official_bleach"
+    },
+    {
+     "name": "Hulu",
+     "url": "https://www.hulu.com/series/bleach-thousand-year-blood-war-02a3c8c0-4f1d-4610-bbb4-5b8e9468d7b1"
+    },
+    {
+     "name": "Disney Plus",
+     "url": "https://www.disneyplus.com/series/bleach-thousand-year-blood-war/4Afet1Q421gy"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20BLEACH%20%E5%8D%83%E5%B9%B4%E8%A1%80%E6%88%A6%E7%AF%87%20%E7%AC%AC4%E3%82%AF%E3%83%BC%E3%83%AB"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_534fb83949c5",
+   "title": "BLEACH 死神少年的千年血戰篇 禍進譚",
+   "synopsis": "靈王之死引發三界崩壞，各界異變頻生。護廷十三隊與零番隊在真世界城爆發激烈大戰，一護得知雨龍真實意圖後，決心攜手夥伴守護世界，迎向終局。",
+   "hook": "三界存亡的最終決戰！絕望與希望究竟哪個在終點等著？",
+   "tags": [
+    "奇幻",
+    "冒險",
+    "熱血"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "prev",
+   "season": "2026 夏",
+   "title_orig": "幼女戦記Ⅱ",
+   "studio": "NUT",
+   "latest": "完結（全12話）",
+   "broadcast": "",
+   "episodes": "全 12 話",
+   "original": "輕小說改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/GR9P57W96/saga-of-tanya-the-evil"
+    },
+    {
+     "name": "YouTube",
+     "url": "https://www.youtube.com/playlist?list=PLcWpc-sy22u4"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E5%B9%BC%E5%A5%B3%E6%88%A6%E8%A8%98%E2%85%A1"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_94f84a2b7c0c",
+   "title": "幼女戰記 第二季",
+   "synopsis": "人氣動畫《幼女戰記》的第二季作品，延續前作的世界觀與精彩的戰鬥風格，帶來更多充滿緊張感的劇情發展。",
+   "hook": "瘋狂幼女再度出擊，不容錯過的第二季！",
+   "tags": [
+    "動作",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "next",
+   "season": "2027 冬",
+   "title_orig": "マッシュル-MASHLE- 三魔対争神覚者最終試験編",
+   "studio": "A-1 Pictures",
+   "latest": "1月開播",
+   "broadcast": "",
+   "episodes": "未公布",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177704-f2TBC7j9d7ug.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/GDKHZEP8W/mashle-magic-and-muscles"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB-MASHLE-%20%E7%AC%AC3%E6%9C%9F"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_cf7891351e85",
+   "title": "MASHLE MASHLE 三魔對爭神覺者最終試驗篇",
+   "synopsis": "改編自漫畫人氣篇章的《MASHLE-MASHLE-》第三期，聚焦於緊張刺激的三魔對爭神覺者最終試驗，帶來更多魔法與肌肉的對決。",
+   "hook": "最強肌肉魔法使的回歸，最終試驗引爆笑料與熱血！",
+   "tags": [
+    "動作",
+    "搞笑",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "next",
+   "season": "2027 冬",
+   "title_orig": "シャングリラ・フロンティア 3rd season",
+   "studio": "C2C",
+   "latest": "1月開播",
+   "broadcast": "每週日 17:00（日本）",
+   "episodes": "未公布",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189323-gHXhqIOBUY8F.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "YouTube",
+     "url": "https://www.youtube.com/@TV-kt7jx"
+    },
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/G79H23Z8P/shangri-la-frontier"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%A9%E3%83%BB%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E3%80%9C%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%2C%20%E7%A5%9E%E3%82%B2%E3%83%BC%E3%81%AB%E6%8C%91%E3%81%BE%E3%82%93%E3%81%A8%E3%81%99%E3%80%9C%203rd%20season"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_abab5360ddf4",
+   "title": "香格里拉・開拓異境～糞作獵人挑戰神作～ 第三季",
+   "synopsis": "超人氣網游題材動畫《香格里拉・開拓異境》迎來第三季，主角將繼續在龐大的遊戲世界中展開全新的冒險與挑戰。",
+   "hook": "糞作獵人這次又會挑戰什麼神作？千萬別錯過第三季！",
+   "tags": [
+    "動作",
+    "冒險",
+    "科幻",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "next",
+   "season": "2027 冬",
+   "title_orig": "気になってる人が男じゃなかった",
+   "studio": "CloverWorks",
+   "latest": "1月開播",
+   "broadcast": "每週五 23:00（日本）",
+   "episodes": "未公布",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186822-9zsR5NtOP0yJ.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://crunchyroll.com"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E4%BA%BA%E3%81%8C%E7%94%B7%E3%81%98%E3%82%83%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_084b972e4204",
+   "title": "在意的人竟然不是男人",
+   "synopsis": "高中女生綾對神祕的CD行店員一見鍾情，卻不知對方其實是同班同學三月。兩人因座位相鄰而拉近距離，隱藏身分的三月也漸漸無法忽視綾的愛慕。",
+   "hook": "音樂與心動交織的青春戀曲，雙向暗戀超心跳！",
+   "tags": [
+    "音樂",
+    "戀愛"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "next",
+   "season": "2027 冬",
+   "title_orig": "世界最高の暗殺者、異世界貴族に転生する 2ndシーズン",
+   "studio": "SILVER LINK.",
+   "latest": "1月開播",
+   "broadcast": "",
+   "episodes": "未公布",
+   "original": "輕小說改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169579-KxMH0iq7jlPr.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/GMEHME55K/the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E3%81%AE%E6%9A%97%E6%AE%BA%E8%80%85%E3%80%81%E7%95%B0%E4%B8%96%E7%95%8C%E8%B2%B4%E6%97%8F%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%99%E3%82%8B%202nd%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_6df9f5ebddb9",
+   "title": "暗殺貴族轉生異世界 第二季",
+   "synopsis": "人氣輕小說改編動畫《世界頂級的暗殺者轉生為異世界貴族》第二季，結合暗殺技巧、異世界元素與豐富劇情的奇幻冒險。",
+   "hook": "最強暗殺者的異世界冒險續篇，精彩戰鬥不容錯過！",
+   "tags": [
+    "動作",
+    "冒險",
+    "奇幻",
+    "戀愛"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "anime",
+   "season_type": "next",
+   "season": "2027 冬",
+   "title_orig": "SAKAMOTO DAYS 第2期",
+   "studio": "TMS Entertainment",
+   "latest": "1月開播",
+   "broadcast": "每週二 00:00（日本）",
+   "episodes": "未公布",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204363-MtBgHE8uhEpJ.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/81663325"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E3%82%B5%E3%82%AB%E3%83%A2%E3%83%88%20%E3%83%87%E3%82%A4%E3%82%BA%20%E7%AC%AC2%E6%9C%9F"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_90f02f7ac268",
+   "title": "SAKAMOTO DAYS 坂本日常 第二季",
+   "synopsis": "熱血動作喜劇《SAKAMOTO DAYS 坂本日常》的第二季動畫，繼續帶來充滿張力的動作場面與幽默搞笑的日常。",
+   "hook": "最強殺手的搞笑日常與刺激對決，第二季熱血回歸！",
+   "tags": [
+    "動作",
+    "搞笑"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "ONE PIECE",
+   "author": "尾田栄一郎",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "MANGA Plus",
+     "url": "https://mangaplus.shueisha.co.jp/titles/100020"
+    },
+    {
+     "name": "Shonen Jump",
+     "url": "https://www.shonenjump.com/j/rensai/onepiece.html"
+    },
+    {
+     "name": "MANGA Plus",
+     "url": "https://mangaplus.shueisha.co.jp/titles/100079"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_5a31fa5cf51c",
+   "title": "航海王",
+   "synopsis": "魯夫小時候受紅髮傑克啟發立志成為海盜，卻意外吃到橡膠惡魔果實變得能像橡膠一樣伸展，代價是永遠不能游泳。多年後他獨自出海尋找傳說中的大秘寶。",
+   "hook": "熱血經典的海洋冒險，一同踏上成為海賊王的偉大航道吧！",
+   "tags": [
+    "冒險",
+    "熱血",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "転生ストリーマー",
+   "author": "넥스트레벨스튜디오",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203593-L46M3wKxLkc2.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Piccoma",
+     "url": "https://piccoma.com/web/product/175783?etype=episode"
+    },
+    {
+     "name": "KakaoPage",
+     "url": "https://page.kakao.com/content/68258823"
+    },
+    {
+     "name": "Kakao Webtoon",
+     "url": "https://webtoon.kakao.com/content/환생자의-스트리밍/4735"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_ab4e1984df84",
+   "title": "轉生者直播爬塔",
+   "synopsis": "傳奇玩家李秀赫遭好友背叛身亡，帶著虛弱身體轉生回到等級一。他靠著直播將爬塔復仇過程化為觀看數，隨著能力隨觀看次數提升，展開一場無人預料的復仇秀。",
+   "hook": "直播打怪還能順便復仇？爽感十足的爬塔網漫！",
+   "tags": [
+    "動作",
+    "奇幻",
+    "轉生"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "魔女と傭兵",
+   "author": "宮木真人",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b174233-VVAJkWx1XwCh.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Pocket Magazine",
+     "url": "https://pocket.shonenmagazine.com/episode/10044607041200910816"
+    },
+    {
+     "name": "K MANGA",
+     "url": "https://kmanga.kodansha.com/title/10570/episode/350366"
+    },
+    {
+     "name": "Seven Seas Entertainment",
+     "url": "https://sevenseasentertainment.com/series/witch-and-mercenary-manga/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_166fb3867ef4",
+   "title": "魔女與傭兵",
+   "synopsis": "身材高大的傭兵吉格在參與一場魔女狩獵時，與強悍的魔女展開激烈決鬥。厭倦生活被輕視的魔女請求吉格保護她，兩人於是結伴前往未知的奇幻大陸尋找生存之地。",
+   "hook": "硬派傭兵與神祕魔女的未知大陸冒險，硬派風格必看！",
+   "tags": [
+    "動作",
+    "冒險",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "クラスで一番かわいいギャルを餌付けしている話",
+   "author": "白乃友",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192945-MwvjCHZoN5RX.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Manga UP!",
+     "url": "https://www.manga-up.com/titles/1540"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_1741b84905fb",
+   "title": "餵食班上最可愛辣妹的故事",
+   "synopsis": "班上最有人氣的辣妹香月櫻與喜歡宅文化的高見風其實是沒有血緣的同居繼兄妹。櫻在學校光鮮亮麗，回家後卻深陷風的料理魅力中，展開一段甜蜜的雙面日常生活。",
+   "hook": "人氣辣妹私下居然是個吃貨？超甜的同居日常讓人融化！",
+   "tags": [
+    "戀愛",
+    "喜劇",
+    "校園"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "めっちゃ召喚された件 THE COMIC",
+   "author": "さいとうさ",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx134141-hSgtn9BQCQtU.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "J-Novel Club",
+     "url": "https://j-novel.club/series/oversummoned-overpowered-and-over-it-manga"
+    },
+    {
+     "name": "Nico Nico Seiga",
+     "url": "https://sp.manga.nicovideo.jp/comic/49581"
+    },
+    {
+     "name": "Magcomi",
+     "url": "https://magcomi.com/episode/13933686331682099976"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_8e2e566c2d93",
+   "title": "不斷被召喚的某件的事 THE COMIC",
+   "synopsis": "只想好好睡覺的藤井祈遭到異世界國王召喚去打倒魔王。正當他覺得英雄待遇還不錯時，卻又接二連三被其他人召喚到不同地方，每次都獲得全新超能力。",
+   "hook": "一直被異世界召喚是哪招？看主角如何無奈面對接二連三的開掛人生！",
+   "tags": [
+    "異世界",
+    "冒險",
+    "喜劇"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "モブから始まる探索英雄譚",
+   "author": "てりてりお",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159547-PrqYrjNrTJxy.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Nico Nico Seiga",
+     "url": "https://seiga.nicovideo.jp/comic/55183"
+    },
+    {
+     "name": "Official Site",
+     "url": "https://youngchampion.jp/series/ccd56d875c3d0"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_cd23d3c88bd2",
+   "title": "從路人開始的探索英雄譚",
+   "synopsis": "高達尾形是個每天在地下城打史萊姆賺零用錢的低階高中生。某天他打敗了一隻稀有的金色史萊姆，掉落了價值數億、能召喚神話級美少女戰士的卡片，從此展開戰鬥奇幻冒險。",
+   "hook": "路人高中生打怪爆神卡，召喚美少女戰士展開逆襲！",
+   "tags": [
+    "動作",
+    "奇幻",
+    "校園"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "검술명가 막내아들",
+   "author": "COBY",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149332-adkSyOFY3c5U.jpg",
+   "imageSrc": "AniList",
    "watch": [
     {
      "name": "KakaoPage",
-     "url": "https://page.kakao.com/"
+     "url": "https://page.kakao.com/content/59264548"
+    },
+    {
+     "name": "Kakao Webtoon",
+     "url": "https://webtoon.kakao.com/content/검술명가-막내아들/2852"
+    },
+    {
+     "name": "Tapas",
+     "url": "https://tapas.io/series/the-swordmasters-son/info"
     }
    ],
-   "seed": true
+   "mod": "acgn",
+   "id": "comic_4a7a75161277",
+   "title": "劍術名家的小兒子",
+   "synopsis": "身為劍術名家繼承人候補的吉恩因劍術不佳遭流放，死前與神明締結契約重獲新生。帶著第二人生的記憶與全新力量，他誓言成為頂尖劍士。",
+   "hook": "劍術天才重回童年，展開復仇與登頂的最強之路！",
+   "tags": [
+    "動作",
+    "冒險",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "comic_49",
-   "mod": "acgn",
    "cat": "comic",
-   "added": "2026-10-15",
-   "updated": "2026-10-16",
-   "title": "（範例）地下城外送員",
-   "author": "範例作者B",
    "origin": "韓漫",
-   "latest": "第15話",
+   "title_orig": "마법학교 앞점멸 천재가 되었다",
+   "author": "서유",
    "status": "連載中",
-   "freq": "每週三更新",
-   "synopsis": "F 級獵人靠「外送」技能在地下城裡求生兼賺錢。",
-   "hook": "獵人題材加上搞笑元素，新作上升中。",
-   "tags": [
-    "獵人",
-    "搞笑"
-   ],
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178379-dokda9kEw3Ns.jpg",
+   "imageSrc": "AniList",
    "watch": [
     {
      "name": "KakaoPage",
-     "url": "https://page.kakao.com/"
+     "url": "https://page.kakao.com/content/64227839"
+    },
+    {
+     "name": "Kakao Webtoon",
+     "url": "https://webtoon.kakao.com/content/마법학교-앞점멸-천재가-되었다/4105?tab=episode"
+    },
+    {
+     "name": "Tapas",
+     "url": "https://tapas.io/series/blink-master-of-the-magic-academy/info?utm_source=comick"
     }
    ],
-   "seed": true
-  },
-  {
-   "id": "comic_50",
    "mod": "acgn",
-   "cat": "comic",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
-   "title": "（範例）連載中的某熱門作",
-   "author": "範例作者C",
-   "origin": "連載更新",
-   "latest": "第231話",
-   "status": "連載中",
-   "freq": "漫畫站更新清單",
-   "synopsis": "來自漫畫站最新更新清單（每日抓取連載章節，追蹤珍藏作品）。",
-   "hook": "珍藏後首頁會提示新章節。",
+   "id": "comic_fbc70b762abf",
+   "title": "魔法學校的閃現天才",
+   "synopsis": "在遊戲《乙太世界》中被視為廢物、只會短距離傳送技能「閃現」的白裕雪，為了達成遊戲真正的結局，決定運用這個廢物技能在魔法學校中智取強敵。",
+   "hook": "全服公認最廢技能，卻成通關真結局的關鍵奇招！",
    "tags": [
+    "動作",
+    "冒險",
     "奇幻"
    ],
-   "watch": [
-    {
-     "name": "拷貝漫畫",
-     "url": "https://www.mangacopy.com/"
-    }
-   ],
-   "seed": true
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "comic_51",
-   "mod": "acgn",
    "cat": "comic",
-   "added": "2026-10-14",
-   "updated": "2026-10-15",
-   "title": "（範例）連載中的某熱門作",
-   "author": "範例作者C",
-   "origin": "連載更新",
-   "latest": "第231話",
-   "status": "連載中",
-   "freq": "漫畫站更新清單",
-   "synopsis": "來自漫畫站最新更新清單（每日抓取連載章節，追蹤珍藏作品）。",
-   "hook": "珍藏後首頁會提示新章節。",
-   "tags": [
-    "奇幻"
-   ],
+   "origin": "韓漫",
+   "title_orig": "빌어먹을 환생",
+   "author": "키키",
+   "status": "已完結",
+   "latest": "第81話",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151512-q0Xddr1JNKNq.png",
+   "imageSrc": "AniList",
    "watch": [
     {
-     "name": "拷貝漫畫",
-     "url": "https://www.mangacopy.com/"
+     "name": "KakaoPage",
+     "url": "https://page.kakao.com/home?seriesId=59617058"
+    },
+    {
+     "name": "Tapas",
+     "url": "https://tapas.io/series/my-blasted-reincarnated-life"
     }
    ],
-   "seed": true
+   "mod": "acgn",
+   "id": "comic_c9dc88a9fafe",
+   "title": "該死的轉生",
+   "synopsis": "戰士哈梅爾為保護死對頭伯姆特而犧牲，死前要求對方消滅魔王。三百年後他帶著記憶轉生成為自己死對頭後代尤金，必須透過訓練成為家族佼佼者，徹底消滅剩餘的魔王。",
+   "hook": "轉生成死對頭的後代，最強戰士的復仇與冒險再開！",
+   "tags": [
+    "動作",
+    "奇幻",
+    "轉生"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "games_52",
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "너만 보인단 말이야",
+   "author": "채군",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx210397-ylqPjFPXwTAo.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/comic/detail.series?productNo=13939347"
+    },
+    {
+     "name": "Naver Webtoon",
+     "url": "https://comic.naver.com/webtoon/list?titleId=849279"
+    }
+   ],
    "mod": "acgn",
+   "id": "comic_4b74df54d274",
+   "title": "我眼裡只有妳",
+   "synopsis": "朴振永聽從想像中好友的建議，把所有女生都當成石頭看待。直到有一天，一個看起來不像石頭的少女孫宇出現，讓他在五年內再次心跳加速。",
+   "hook": "把女生全當石頭的少年，遇見了讓他破功的命運少女！",
+   "tags": [
+    "戀愛",
+    "喜劇",
+    "校園"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "멸망한 가문의 회귀자",
+   "author": "양평",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173233-sSWxsYy8oXFK.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/comic/detail.series?productNo=10580540"
+    },
+    {
+     "name": "Naver Webtoon",
+     "url": "https://comic.naver.com/webtoon/list?titleId=819946"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/zh-hant/fantasy/a-flame-reborn/list?title_no=6257"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_d8977ecbd86e",
+   "title": "復仇者羅根",
+   "synopsis": "中年騎士羅根戰死後重生回年輕時期，帶著前世記憶與經驗，他決定發展勢力、籌措資金，試圖改變家族命運並對帝國展開復仇。",
+   "hook": "看主角如何運用前世經驗逆轉悲劇，展開爽快的復仇與成長之旅！",
+   "tags": [
+    "重生",
+    "復仇",
+    "奇幻冒險"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "던전을 그리는 화가",
+   "author": "오솟",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx213942-bmqafwT9feOb.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "AniList",
+     "url": "https://anilist.co/manga/213942"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_e8ebc2fea61b",
+   "title": "畫出地牢的畫家",
+   "synopsis": "平凡美術老師徐知歐在火災中喪生後，竟困在畫作中獲得全能之力，能在不同次元間穿梭並協助他人，同時逐步揭開自己死亡的真相。",
+   "hook": "穿梭多元次元解開謎團，獨特的畫作奇幻設定絕對別錯過！",
+   "tags": [
+    "奇幻",
+    "懸疑",
+    "穿越"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
    "cat": "games",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "watch": [
-    {
-     "name": "商店頁",
-     "url": "https://store.steampowered.com/"
-    }
-   ],
-   "title": "（範例）Lumen Drift",
-   "developer": "範例獨立工作室",
+   "title": "PERI.CO",
+   "developer": "BugForge",
    "platform": "Indie",
    "platforms": [
     "PC/Steam"
    ],
-   "release": "近期搶先體驗",
-   "genre": "解謎冒險",
-   "price": "買斷制（約 NT$ 300）",
-   "synopsis": "以光線反射解謎的漂流冒險，探索被淹沒的城市。",
-   "highlights": [
-    "光影反射解謎",
-    "無戰鬥放鬆向",
-    "手繪美術",
-    "支援繁中"
+   "release": "2026 年 11 月 22 日",
+   "genre": "動作、冒險、休閒",
+   "price": "NT$ 103",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191120/05716b623368b0b4aa263373181d18a04225e722/header.jpg?t=1795337421",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191120/d08836b717e4a56657f85feea15050b7fa1670cd/ss_d08836b717e4a56657f85feea15050b7fa1670cd.600x338.jpg?t=1795337421",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191120/e3fb0f9a556cd780d128c77e38c03145232e5281/ss_e3fb0f9a556cd780d128c77e38c03145232e5281.600x338.jpg?t=1795337421",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191120/5dc2343a847ea9a67ec5c88516d733fe0c27b9d9/ss_5dc2343a847ea9a67ec5c88516d733fe0c27b9d9.600x338.jpg?t=1795337421"
    ],
-   "hook": "適合喜歡《紀念碑谷》類型的玩家。",
-   "seed": true
-  },
-  {
-   "id": "games_53",
-   "mod": "acgn",
-   "cat": "games",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
    "watch": [
     {
-     "name": "商店頁",
-     "url": "https://store.steampowered.com/"
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5191120/"
     }
    ],
-   "title": "（範例）Lumen Drift",
-   "developer": "範例獨立工作室",
+   "mod": "acgn",
+   "id": "games_66f4cd4735a7",
+   "synopsis": "支援最多8人的第一人稱合作動作遊戲。玩家需深入隨機變化的據點完成任務、擊敗巨型頭目，並在時間耗盡前撤離。可用賺取的薪水升級裝備，挑戰各種合約。",
+   "highlights": [
+    "支援多人合作",
+    "雙手武器組合",
+    "挑戰巨型頭目"
+   ],
+   "hook": "快揪好友一起組隊挑戰隨機任務，在時限內撤離並賺取薪水升級裝備吧！",
+   "tags": [
+    "合作",
+    "動作",
+    "第一人稱"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "games",
+   "title": "Purplestar",
+   "developer": "EnergeticSniffer, zacbrow8",
    "platform": "Indie",
    "platforms": [
     "PC/Steam"
    ],
-   "release": "近期搶先體驗",
-   "genre": "解謎冒險",
-   "price": "買斷制（約 NT$ 300）",
-   "synopsis": "以光線反射解謎的漂流冒險，探索被淹沒的城市。",
-   "highlights": [
-    "光影反射解謎",
-    "無戰鬥放鬆向",
-    "手繪美術",
-    "支援繁中"
+   "release": "2026 年 11 月 22 日",
+   "genre": "冒險、休閒、獨立製作",
+   "price": "NT$ 46",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5377120/0ae59a2490de68d92737d38665021da04542df61/header.jpg?t=1795336104",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5377120/a05666f0c72d3be26c0d857d2e6edcef7f6c1284/ss_a05666f0c72d3be26c0d857d2e6edcef7f6c1284.600x338.jpg?t=1795336104",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5377120/1db4d9a96ec46d346e3644d4a811acc162ea1a70/ss_1db4d9a96ec46d346e3644d4a811acc162ea1a70.600x338.jpg?t=1795336104",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5377120/230a1975ce3b794c7e0e4896bf20b24baa10df30/ss_230a1975ce3b794c7e0e4896bf20b24baa10df30.600x338.jpg?t=1795336104"
    ],
-   "hook": "適合喜歡《紀念碑谷》類型的玩家。",
-   "seed": true
-  },
-  {
-   "id": "games_54",
-   "mod": "acgn",
-   "cat": "games",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
    "watch": [
     {
-     "name": "商店頁",
-     "url": "https://store.steampowered.com/"
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5377120/"
     }
    ],
-   "title": "（範例）星環戰紀",
-   "developer": "範例遊戲公司",
-   "platform": "手機",
+   "mod": "acgn",
+   "id": "games_a8e3dcc418c3",
+   "synopsis": "在充滿無心者的荒涼小島上求生。玩家可以單人或與最多7位好友一同搜刮物資、鍛造武器、建立基地，並在夜晚抵禦掠奪者的襲擊，同時小心森林中詭異的威脅。",
+   "highlights": [
+    "搜刮與造武",
+    "基地防禦戰",
+    "支援多人連線"
+   ],
+   "hook": "孤島求生加上夜晚的恐怖威脅，快和好友一起聯手打造基地度過難關！",
+   "tags": [
+    "生存",
+    "多人",
+    "建造"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "games",
+   "title": "Eko36 and the gang",
+   "developer": "Shock Productions",
+   "platform": "Indie",
    "platforms": [
-    "iOS",
-    "Android"
+    "PC/Steam"
    ],
-   "release": "2026-11 上市",
-   "genre": "開放世界動作 RPG",
-   "price": "免費＋抽卡",
-   "synopsis": "開放世界動作 RPG，主打跨平台四人共鬥。",
-   "highlights": [
-    "四人即時共鬥",
-    "元素連攜系統",
-    "PC/手機跨平台"
+   "release": "2026 年 11 月 22 日",
+   "genre": "休閒、獨立製作、競速",
+   "price": "NT$ 195",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208650/06ba1ae3955e51957cdea0a20751c0eb8c37cb70/header.jpg?t=1795334788",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208650/af12e9e62d357c43620e59d254fe95977022ab90/ss_af12e9e62d357c43620e59d254fe95977022ab90.600x338.jpg?t=1795334788",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208650/e050b7b11cddae212679cf19d67abf0225ac9b5f/ss_e050b7b11cddae212679cf19d67abf0225ac9b5f.600x338.jpg?t=1795334788",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208650/0417c4ec142482613ef85c9ce8c58c56e08b8377/ss_0417c4ec142482613ef85c9ce8c58c56e08b8377.600x338.jpg?t=1795334788"
    ],
-   "hook": "事前登錄獎勵豐富，封測評價佳。",
-   "seed": true
-  },
-  {
-   "id": "games_55",
-   "mod": "acgn",
-   "cat": "games",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
    "watch": [
     {
-     "name": "商店頁",
-     "url": "https://store.steampowered.com/"
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5208650/"
     }
    ],
-   "title": "（範例）星環戰紀",
-   "developer": "範例遊戲公司",
-   "platform": "手機",
+   "mod": "acgn",
+   "id": "games_647d0949fabb",
+   "synopsis": "一款主打良好路況與帥氣大甩尾的駕駛遊戲。讓玩家能在方向盤後方享受純粹的駕馭樂趣，體驗流暢的甩尾快感與輕鬆愉快的時光。",
+   "highlights": [
+    "流暢大甩尾",
+    "駕駛樂趣多",
+    "享受好路況"
+   ],
+   "hook": "喜歡享受純粹甩尾和駕馭快感的玩家，絕對不能錯過的輕鬆駕駛遊戲！",
+   "tags": [
+    "駕駛",
+    "賽車"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "games",
+   "title": "四面楚歌 Four Directions",
+   "developer": "LHStudio",
+   "platform": "Indie",
    "platforms": [
-    "iOS",
-    "Android"
+    "PC/Steam"
    ],
-   "release": "2026-11 上市",
-   "genre": "開放世界動作 RPG",
-   "price": "免費＋抽卡",
-   "synopsis": "開放世界動作 RPG，主打跨平台四人共鬥。",
-   "highlights": [
-    "四人即時共鬥",
-    "元素連攜系統",
-    "PC/手機跨平台"
+   "release": "2026 年 11 月 21 日",
+   "genre": "動作、冒險、獨立製作",
+   "price": "NT$ 69",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3776750/1995e54a517539b9d4aad0ed8c0bd10a53fb4eec/header.jpg?t=1795326340",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3776750/b0f3563ab86b9a21f5a04a06a4dd9225f3111b7b/ss_b0f3563ab86b9a21f5a04a06a4dd9225f3111b7b.600x338.jpg?t=1795326340",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3776750/93ed7c5744e53917bdd64a7be89a34f30f1ae34e/ss_93ed7c5744e53917bdd64a7be89a34f30f1ae34e.600x338.jpg?t=1795326340",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3776750/ec5c2ed27d5d23ad0cf5da4f7abd3f2166f361be/ss_ec5c2ed27d5d23ad0cf5da4f7abd3f2166f361be.600x338.jpg?t=1795326340"
    ],
-   "hook": "事前登錄獎勵豐富，封測評價佳。",
-   "seed": true
-  },
-  {
-   "id": "games_56",
-   "mod": "acgn",
-   "cat": "games",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
    "watch": [
     {
-     "name": "商店頁",
-     "url": "https://store.steampowered.com/"
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/3776750/"
     }
    ],
-   "title": "（範例）Iron Orchard",
-   "developer": "Sample Studio",
+   "mod": "acgn",
+   "id": "games_6149bb8b14c3",
+   "synopsis": "結合可旋轉魔術方塊棋盤的回合制策略遊戲。巧妙融合了機械任務與卡牌技能，讓玩家透過啟動棋盤地圖上的機構來正面迎擊敵人。",
+   "highlights": [
+    "旋轉魔術方塊",
+    "回合制策略",
+    "結合卡牌技能"
+   ],
+   "hook": "透過旋轉魔術方塊棋盤來佈署戰局，結合卡牌與機構挑戰策略極限！",
+   "tags": [
+    "策略",
+    "回合制",
+    "卡牌"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "games",
+   "title": "Stormtide Skies",
+   "developer": "Mysterymike71",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "2026 年 11 月 21 日",
+   "genre": "動作、冒險、獨立製作",
+   "price": "NT$ 198",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5379430/208c3f30821c19fca8de2e45ef6b012062238dd4/header.jpg?t=1795323542",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5379430/7cc5eb6615f36a7e36b169e27afc4b08e74a0af4/ss_7cc5eb6615f36a7e36b169e27afc4b08e74a0af4.600x338.jpg?t=1795323542",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5379430/bf0c7468692d5f83721097eb508c7c17801e38b7/ss_bf0c7468692d5f83721097eb508c7c17801e38b7.600x338.jpg?t=1795323542",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5379430/087b3a29360a9c345fe3eb257050c6d83ccab9c0/ss_087b3a29360a9c345fe3eb257050c6d83ccab9c0.600x338.jpg?t=1795323542"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5379430/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_4727fe68963e",
+   "synopsis": "指揮蒸汽動力飛艇在暴風肆虐的天空中戰鬥。玩家可選擇單人遊玩、挑戰AI、線上競技、體驗電影般的故事，或在紅喚圍城中抵抗不間斷的敵方波次與巨大頭目。",
+   "highlights": [
+    "蒸氣飛艇戰",
+    "電影級故事",
+    "抵禦巨型頭目"
+   ],
+   "hook": "駕駛蒸汽飛艇征服暴風天空，體驗刺激的空中海戰與豐富的挑戰模式！",
+   "tags": [
+    "動作",
+    "戰鬥",
+    "冒險"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "games",
+   "title": "Beyond the Masque of the Red Death",
+   "developer": "Odysseas Tsiridis",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "即將推出：即將推出",
+   "genre": "冒險、獨立製作",
+   "price": "未定價",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859890/3b7b4d30caba4613b099c56bff648060239b94f3/header.jpg?t=1795336154",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859890/0dc5710ccee3c8d90904c5f31eb8b0a2294df625/ss_0dc5710ccee3c8d90904c5f31eb8b0a2294df625.600x338.jpg?t=1795336154",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859890/7429ec7834d294b8e6286dd17bdfad16a6e86339/ss_7429ec7834d294b8e6286dd17bdfad16a6e86339.600x338.jpg?t=1795336154",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859890/7426723e50cc385a3523c6921e0d76c7fa327311/ss_7426723e50cc385a3523c6921e0d76c7fa327311.600x338.jpg?t=1795336154"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/4859890/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_f376d1955687",
+   "synopsis": "這是一款受到愛倫坡作品《紅死病的面具》啟發的文字冒險遊戲。玩家需在哥德式且恐怖的環境中，透過輸入文字來與世界互動，探索具有象徵意義的物品，體驗超越原作結局的故事。",
+   "highlights": [
+    "文字輸入互動",
+    "哥德恐怖風格",
+    "延伸經典故事"
+   ],
+   "hook": "喜歡文字冒險與文學改編的玩家，快來輸入指令探索愛倫坡風格的黑暗世界！",
+   "tags": [
+    "冒險",
+    "文字遊戲"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "games",
+   "title": "Keep The Ammo Flowing",
+   "developer": "YCF Productions",
    "platform": "PC/Steam",
    "platforms": [
     "PC/Steam"
    ],
-   "release": "已推出",
-   "genre": "經營＋塔防",
-   "price": "買斷制",
-   "synopsis": "末日後的果園經營，白天種植、夜晚防守。",
-   "highlights": [
-    "經營＋塔防混合",
-    "季節循環",
-    "Roguelite 解鎖"
+   "release": "即將推出：2026 年 11 月 22 日",
+   "genre": "策略",
+   "price": "未定價",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158540/59eecf20079f65dce621eec2d75dd2de0f752ee8/header.jpg?t=1795017456",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158540/37fd75ad82beb64eecdf734161d7f6cb7e01ef7f/ss_37fd75ad82beb64eecdf734161d7f6cb7e01ef7f.600x338.jpg?t=1795017456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158540/9e8a5f1e005d902c8fb66e6fee43054f054f3a21/ss_9e8a5f1e005d902c8fb66e6fee43054f054f3a21.600x338.jpg?t=1795017456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158540/0adfef3dbdbd06a612edc0e9e41a0435785c7fa0/ss_0adfef3dbdbd06a612edc0e9e41a0435785c7fa0.600x338.jpg?t=1795017456"
    ],
-   "hook": "Steam 評價「極度好評」，適合碎片時間。",
-   "seed": true
-  },
-  {
-   "id": "games_57",
-   "mod": "acgn",
-   "cat": "games",
-   "added": "2026-10-15",
-   "updated": "2026-10-16",
    "watch": [
     {
-     "name": "商店頁",
-     "url": "https://store.steampowered.com/"
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5158540/"
     }
    ],
-   "title": "（範例）Iron Orchard",
-   "developer": "Sample Studio",
-   "platform": "PC/Steam",
+   "mod": "acgn",
+   "id": "games_40762743b6af",
+   "synopsis": "在遭到蜂擁敵群佔領的月球上開採礦石、鍛造彈藥並鋪設鐵路。玩家需供應自動砲塔彈藥、切換行進與攻城狀態，並在俯視視角下升級移動式機具進行物流防禦。",
+   "highlights": [
+    "採礦與鐵路",
+    "供應砲塔彈藥",
+    "物流防禦玩法"
+   ],
+   "hook": "在月球上鋪設鐵路並打造防線，考驗你的物流調度與即時防禦能力！",
+   "tags": [
+    "策略",
+    "防禦",
+    "管理"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "games",
+   "title": "Night Wash: GE-418-NK",
+   "developer": "MTSU",
+   "platform": "Indie",
    "platforms": [
     "PC/Steam"
    ],
-   "release": "已推出",
-   "genre": "經營＋塔防",
-   "price": "買斷制",
-   "synopsis": "末日後的果園經營，白天種植、夜晚防守。",
+   "release": "即將推出：2026 年 11 月 22 日",
+   "genre": "冒險、獨立製作、模擬",
+   "price": "未定價",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492690/7ff5f225cc15d2738316baa1496d2d95ca78cc8c/header.jpg?t=1795283964",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492690/72497ed48c19da4c88b8f8bdaffe6aa71a9ae4d4/ss_72497ed48c19da4c88b8f8bdaffe6aa71a9ae4d4.600x338.jpg?t=1795283964",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492690/46c75efe969744179bcc1e3860be180891654841/ss_46c75efe969744179bcc1e3860be180891654841.600x338.jpg?t=1795283964",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492690/7d3da221b9bf2a3e010d44f2abb559dcf1969d4d/ss_7d3da221b9bf2a3e010d44f2abb559dcf1969d4d.600x338.jpg?t=1795283964"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5492690/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_23eded5f2153",
+   "synopsis": "玩家要在小鎮邊緣的隧道式洗車場值夜班。工作包含收錢、登記車牌，讓刷子運轉到早上六點。同時上一任值班員三週前失蹤，留下了一本抽屜裡的筆記。",
    "highlights": [
-    "經營＋塔防混合",
-    "季節循環",
-    "Roguelite 解鎖"
+    "夜班洗車場",
+    "收錢登記車牌",
+    "神祕失蹤筆記"
    ],
-   "hook": "Steam 評價「極度好評」，適合碎片時間。",
-   "seed": true
+   "hook": "在詭異的洗車場上夜班，面對單調的工作與前手留下的神祕筆記，你能撐到天亮嗎？",
+   "tags": [
+    "模擬",
+    "懸疑"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "novel_58",
-   "mod": "acgn",
-   "cat": "novel",
-   "added": "2026-10-20",
-   "updated": "2026-10-20",
-   "title": "（範例）我在修仙界開便利商店",
-   "author": "範例網文作者",
-   "origin": "華文網文",
-   "status": "連載中",
-   "length": "約 186 萬字／612 章",
-   "genre": "仙俠・經營・輕鬆",
-   "setting": "靈氣復甦的修仙世界，宗門林立、物資稀缺。",
-   "protagonist": "現代物流主管穿越成廢柴弟子，綁定「便利商店系統」。",
-   "synopsis": "穿越者用現代物流與會員制度顛覆修仙界，從賣泡麵到壟斷靈石供應鏈。",
-   "hook": "不靠打打殺殺、用商業頭腦升級，節奏輕快、笑點密集。",
-   "adaptation": "有聲書上線，動畫化消息傳聞中",
-   "readers": "喜歡經營、系統流、輕鬆爽文的讀者",
-   "update": "日更 2 章",
+   "cat": "games",
+   "title": "Incraiders",
+   "developer": "Oumu Studio",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "即將推出：2026 年 11 月 22 日",
+   "genre": "動作、休閒、獨立製作",
+   "price": "未定價",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5172070/22f2e119e91dee8e9b8df4d424d9b9fc29323f6e/header.jpg?t=1795263822",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5172070/fe2c43f4fc266e8c597c491bbd76caefbc63298c/ss_fe2c43f4fc266e8c597c491bbd76caefbc63298c.600x338.jpg?t=1795263822",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5172070/a005bb116737c38caf6f198da67ee07e233e33f3/ss_a005bb116737c38caf6f198da67ee07e233e33f3.600x338.jpg?t=1795263822",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5172070/a81b591d64278d2303dc4e98d95a3d25dca6f4b3/ss_a81b591d64278d2303dc4e98d95a3d25dca6f4b3.600x338.jpg?t=1795263822"
+   ],
    "watch": [
     {
-     "name": "起點中文網",
-     "url": "https://www.qidian.com/"
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5172070/"
     }
    ],
-   "seed": true
-  },
-  {
-   "id": "novel_59",
    "mod": "acgn",
-   "cat": "novel",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "title": "（範例）我在修仙界開便利商店",
-   "author": "範例網文作者",
-   "origin": "華文網文",
-   "status": "連載中",
-   "length": "約 186 萬字／612 章",
-   "genre": "仙俠・經營・輕鬆",
-   "setting": "靈氣復甦的修仙世界，宗門林立、物資稀缺。",
-   "protagonist": "現代物流主管穿越成廢柴弟子，綁定「便利商店系統」。",
-   "synopsis": "穿越者用現代物流與會員制度顛覆修仙界，從賣泡麵到壟斷靈石供應鏈。",
-   "hook": "不靠打打殺殺、用商業頭腦升級，節奏輕快、笑點密集。",
-   "adaptation": "有聲書上線，動畫化消息傳聞中",
-   "readers": "喜歡經營、系統流、輕鬆爽文的讀者",
-   "update": "日更 2 章",
-   "watch": [
-    {
-     "name": "起點中文網",
-     "url": "https://www.qidian.com/"
-    }
+   "id": "games_817ab103de54",
+   "synopsis": "這是一款主打動態玩法的放置型遊戲。玩家透過從倒下的入侵者身上獲取能量，逐步成長為跨維度的宇宙守護者。",
+   "highlights": [
+    "動態放置玩法",
+    "擊殺收集能量",
+    "宇宙守護成長"
    ],
-   "seed": true
+   "hook": "輕鬆收集能量不斷成長，享受化身跨維度宇宙守護者的放置樂趣！",
+   "tags": [
+    "放置",
+    "模擬"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "novel_60",
-   "mod": "acgn",
-   "cat": "novel",
-   "added": "2026-10-19",
-   "updated": "2026-10-20",
-   "title": "（範例）全知讀者的第二輪",
-   "author": "샘플작가",
-   "origin": "韓國網路小說",
-   "status": "已完結",
-   "length": "全 551 話（含外傳）",
-   "genre": "末日・回歸・群像",
-   "setting": "小說情節成真，世界被分割成一個個「劇本」關卡。",
-   "protagonist": "唯一讀完結局的上班族，帶著記憶第二次進入小說世界。",
-   "synopsis": "主角以「讀者」視角改寫結局，同時面對原作裡沒寫到的空白。",
-   "hook": "後設敘事設計精巧，角色群像完整，結局評價兩極但討論度高。",
-   "adaptation": "已改編 Webtoon，真人影視化",
-   "readers": "喜歡高智商布局、群像劇的讀者",
-   "update": "已完結，可一次追完",
+   "cat": "games",
+   "title": "PlayStation App",
+   "developer": "PlayStation Mobile Inc.",
+   "platform": "手機",
+   "platforms": [
+    "iOS",
+    "Android（多數同步）"
+   ],
+   "release": "上架 2013-12-12",
+   "genre": "娛樂",
+   "price": "免費",
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/47/a6/7a47a62b-e11d-e11a-62b0-529d38ba42b3/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+   "imageSrc": "App Store",
+   "screenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/52/1e/a1521e2f-4d4a-e801-6eeb-d7777ee27973/iphone_01.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/39/c8/0239c8fb-3afb-5daa-f893-9204c3925587/iphone_02.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/1a/6c/7c1a6c09-e2c9-e9d5-6462-cf77b3e9cbb5/iphone_03.png/320x480bb.jpg"
+   ],
    "watch": [
     {
-     "name": "Naver Series",
-     "url": "https://series.naver.com/"
+     "name": "App Store",
+     "url": "https://apps.apple.com/tw/app/playstation-app/id410896080?uo=4"
     },
     {
-     "name": "KakaoPage",
-     "url": "https://page.kakao.com/"
+     "name": "Google Play 搜尋",
+     "url": "https://play.google.com/store/search?c=apps&q=PlayStation%20App"
     }
    ],
-   "seed": true
-  },
-  {
-   "id": "novel_61",
    "mod": "acgn",
-   "cat": "novel",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
-   "title": "（範例）全知讀者的第二輪",
-   "author": "샘플작가",
-   "origin": "韓國網路小說",
-   "status": "已完結",
-   "length": "全 551 話（含外傳）",
-   "genre": "末日・回歸・群像",
-   "setting": "小說情節成真，世界被分割成一個個「劇本」關卡。",
-   "protagonist": "唯一讀完結局的上班族，帶著記憶第二次進入小說世界。",
-   "synopsis": "主角以「讀者」視角改寫結局，同時面對原作裡沒寫到的空白。",
-   "hook": "後設敘事設計精巧，角色群像完整，結局評價兩極但討論度高。",
-   "adaptation": "已改編 Webtoon，真人影視化",
-   "readers": "喜歡高智商布局、群像劇的讀者",
-   "update": "已完結，可一次追完",
-   "watch": [
-    {
-     "name": "Naver Series",
-     "url": "https://series.naver.com/"
-    },
-    {
-     "name": "KakaoPage",
-     "url": "https://page.kakao.com/"
-    }
+   "id": "games_ffb81454884e",
+   "synopsis": "PlayStation官方應用程式，讓玩家隨時隨地與好友保持聯繫並全面掌控主機。支援查看線上狀態、語音聊天、互傳訊息、瀏覽PS Store優惠，以及遠端下載遊戲與管理主機儲存空間。",
+   "highlights": [
+    "好友語音聊天",
+    "PS Store優惠",
+    "遠端啟動遊戲"
    ],
-   "seed": true
+   "hook": "隨時隨地掌握PS最新動態、與好友語音聊天並遠端下載遊戲，PS玩家必備神器！",
+   "tags": [
+    "工具",
+    "社交"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "novel_62",
-   "mod": "acgn",
    "cat": "novel",
-   "added": "2026-10-18",
-   "updated": "2026-10-19",
-   "title": "（範例）長安夜雨",
-   "author": "範例作者D",
    "origin": "華文網文",
-   "status": "連載中",
-   "length": "約 72 萬字／240 章",
-   "genre": "古言・懸疑・探案",
-   "setting": "架空盛唐，長安城內連環奇案與朝堂權鬥交織。",
-   "protagonist": "大理寺唯一的女評事，擅長驗屍與推理。",
-   "synopsis": "女評事追查連環懸案，一路查到宮廷深處的舊案。",
-   "hook": "推理嚴謹不靠巧合，感情線慢熱克制。",
-   "adaptation": "影視版權已售出",
-   "readers": "喜歡探案、古風權謀的讀者",
-   "update": "週更 5 章",
+   "title": "十二月花事",
+   "author": "明開夜合",
    "watch": [
     {
      "name": "晉江文學城",
-     "url": "https://www.jjwxc.net/"
+     "url": "https://www.jjwxc.net/onebook.php?novelid=8718162"
     }
    ],
-   "seed": true
+   "status": "連載中",
+   "length": "約 21 萬字",
+   "mod": "acgn",
+   "id": "novel_c3d2f9ff0955",
+   "synopsis": "盛靈姿與前男友聞疏白久別重逢，展開一場女暗戀男追女、從校園走到都市的破鏡重圓愛情故事。",
+   "genre": "現代言情",
+   "setting": "現代校園到都市，融合雨天重逢與日常互動的都會背景。",
+   "protagonist": "性格非常不完美但備受作者肯定的女主，與對她深情執著的男主。",
+   "hook": "融合仇富型暗戀與破鏡重圓的設定，看前男友如何在日常互動中再次融化女主的心。",
+   "readers": "喜歡校園到都市、久別重逢與雙初戀設定的言情小說讀者。",
+   "tags": [
+    "破鏡重圓",
+    "校園到都市",
+    "久別重逢"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "novel_63",
-   "mod": "acgn",
    "cat": "novel",
-   "added": "2026-10-16",
-   "updated": "2026-10-17",
-   "title": "（範例）長安夜雨",
-   "author": "範例作者D",
    "origin": "華文網文",
-   "status": "連載中",
-   "length": "約 72 萬字／240 章",
-   "genre": "古言・懸疑・探案",
-   "setting": "架空盛唐，長安城內連環奇案與朝堂權鬥交織。",
-   "protagonist": "大理寺唯一的女評事，擅長驗屍與推理。",
-   "synopsis": "女評事追查連環懸案，一路查到宮廷深處的舊案。",
-   "hook": "推理嚴謹不靠巧合，感情線慢熱克制。",
-   "adaptation": "影視版權已售出",
-   "readers": "喜歡探案、古風權謀的讀者",
-   "update": "週更 5 章",
+   "title": "將軍的繼室",
+   "author": "袖側",
    "watch": [
     {
      "name": "晉江文學城",
-     "url": "https://www.jjwxc.net/"
+     "url": "https://www.jjwxc.net/onebook.php?novelid=7864399"
     }
    ],
-   "seed": true
+   "status": "連載中",
+   "length": "約 13 萬字",
+   "mod": "acgn",
+   "id": "novel_a397513ace41",
+   "synopsis": "出身馬伕的將軍權勢薰天後指定要娶威遠侯府四房嫡女，病秧子邵蓁因此被捲入填房的命運中。",
+   "genre": "古代言情",
+   "setting": "權謀交織的古代侯府與封疆大吏的府邸之中。",
+   "protagonist": "出身病弱卻面臨家族安排的邵蓁，以及從馬伕一路殺成封疆大吏的權臣。",
+   "hook": "看病弱女主如何應對家族的聯姻算計，以及權臣將軍勢在必得的強勢追求。",
+   "readers": "喜愛古代權謀、先婚後愛與強取豪奪風格的讀者。",
+   "tags": [
+    "古代言情",
+    "權謀",
+    "先婚後愛"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "novel_64",
-   "mod": "acgn",
    "cat": "novel",
-   "added": "2026-10-17",
-   "updated": "2026-10-18",
-   "title": "（範例）重返 SSS 級塔頂",
-   "author": "샘플작가2",
-   "origin": "韓國網路小說",
-   "status": "連載中",
-   "length": "連載至 320 話",
-   "genre": "獵人・回歸・成長",
-   "setting": "巨塔出現後，人類以攀登樓層取得能力。",
-   "protagonist": "死在 100 樓的獵人回到 10 年前的第 1 層。",
-   "synopsis": "帶著前世情報重爬巨塔，搶先拿下所有隱藏獎勵。",
-   "hook": "典型「回歸爽文」，戰鬥與數值成長描寫清楚。",
-   "adaptation": "Webtoon 連載中",
-   "readers": "喜歡獵人、數值成長類的讀者",
-   "update": "週更 5 話",
+   "origin": "華文網文",
+   "title": "如露如電",
+   "author": "七寶酥",
    "watch": [
     {
-     "name": "Munpia",
-     "url": "https://www.munpia.com/"
+     "name": "晉江文學城",
+     "url": "https://www.jjwxc.net/onebook.php?novelid=11114343"
     }
    ],
-   "seed": true
+   "status": "連載中",
+   "length": "約 8 萬字",
+   "mod": "acgn",
+   "id": "novel_3285e39fe6b9",
+   "synopsis": "文采本只想載自由譯者一程，卻意外展開一段從泡友轉正的現代都市成年人戀愛故事。",
+   "genre": "現代言情",
+   "setting": "步調明快的現代都會生活圈。",
+   "protagonist": "擔任品牌傳播經理的女主與自由譯者男主。",
+   "hook": "設定新穎的成年人戀愛，看兩人如何從隨性關係走向認真的現代愛情。",
+   "readers": "喜愛現代都市背景、情感寫實的大眾言情讀者。",
+   "tags": [
+    "現代言情",
+    "都會",
+    "情場日常"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   },
   {
-   "id": "novel_65",
-   "mod": "acgn",
    "cat": "novel",
-   "added": "2026-10-15",
-   "updated": "2026-10-16",
-   "title": "（範例）重返 SSS 級塔頂",
-   "author": "샘플작가2",
-   "origin": "韓國網路小說",
-   "status": "連載中",
-   "length": "連載至 320 話",
-   "genre": "獵人・回歸・成長",
-   "setting": "巨塔出現後，人類以攀登樓層取得能力。",
-   "protagonist": "死在 100 樓的獵人回到 10 年前的第 1 層。",
-   "synopsis": "帶著前世情報重爬巨塔，搶先拿下所有隱藏獎勵。",
-   "hook": "典型「回歸爽文」，戰鬥與數值成長描寫清楚。",
-   "adaptation": "Webtoon 連載中",
-   "readers": "喜歡獵人、數值成長類的讀者",
-   "update": "週更 5 話",
+   "origin": "華文網文",
+   "title": "雲海小鎮的冬天",
+   "author": "夢筱二",
    "watch": [
     {
-     "name": "Munpia",
-     "url": "https://www.munpia.com/"
+     "name": "晉江文學城",
+     "url": "https://www.jjwxc.net/onebook.php?novelid=9282268"
     }
    ],
-   "seed": true
+   "status": "連載中",
+   "length": "約 4 萬字",
+   "mod": "acgn",
+   "id": "novel_24e55396b90c",
+   "synopsis": "肖冬凱因暴風雪受困北歐小鎮，意外結識孤女桑梓，兩人展開一段溫暖而跨越身份的愛情。",
+   "genre": "現代言情",
+   "setting": "冬日的北歐小鎮與充滿溫馨氣息的異國雪景。",
+   "protagonist": "身世簡單純潔的桑梓，以及隱藏財閥與頂尖律所Boss身份的肖冬凱。",
+   "hook": "像極晝太陽般溫暖的年齡差戀愛，感受純粹又浪漫的冬日暖心故事。",
+   "readers": "喜歡溫馨治癒系、年齡差與身分反差萌愛情的讀者。",
+   "tags": [
+    "現代言情",
+    "異國情緣",
+    "治癒系"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "華文網文",
+   "title": "長夜難抑",
+   "author": "今嫿",
+   "watch": [
+    {
+     "name": "晉江文學城",
+     "url": "https://www.jjwxc.net/onebook.php?novelid=10056766"
+    }
+   ],
+   "status": "連載中",
+   "length": "約 14 萬字",
+   "mod": "acgn",
+   "id": "novel_45212705aae6",
+   "synopsis": "性格柔善的扶楹與冷酷的豪門掌權人沈鵲應聯姻，卻意外發現對方多年暗戀自己的深情。",
+   "genre": "現代言情",
+   "setting": "奢華壓抑的上流豪門圈與江南背景系列舞台。",
+   "protagonist": "性格純良的扶楹與高傲驕矜、暗戀成真的野心家沈鵲應。",
+   "hook": "頂級豪門先婚後愛，看冷酷掌權人化身佔有慾超強的深情暗戀者。",
+   "readers": "喜愛豪門甜寵、先婚後愛與男主暗戀成真設定的讀者。",
+   "tags": [
+    "豪門世家",
+    "先婚後愛",
+    "暗戀成真"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "華文網文",
+   "title": "大齡貴妃",
+   "author": "三日成晶",
+   "watch": [
+    {
+     "name": "晉江文學城",
+     "url": "https://www.jjwxc.net/onebook.php?novelid=9665722"
+    }
+   ],
+   "status": "連載中",
+   "length": "約 12 萬字",
+   "mod": "acgn",
+   "id": "novel_34affc3529db",
+   "synopsis": "現代鹹魚紀純意外穿越成宮廷奴婢，在宮變時誤打誤撞救了新帝，憑藉強大心理素質成為貴妃。",
+   "genre": "古代言情",
+   "setting": "權力交替、充滿宮廷鬥爭的古代皇宮。",
+   "protagonist": "好吃懶做但心理素質極強的現代穿越女紀純，與俊美年輕的新帝。",
+   "hook": "現代鹹魚穿越求生存的爆笑設定，看大齡宮女如何逆襲成為後宮貴妃。",
+   "readers": "喜歡穿越宮廷、輕鬆搞笑與年齡差設定的讀者。",
+   "tags": [
+    "穿越",
+    "宮廷",
+    "輕鬆搞笑"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "華文網文",
+   "title": "沉迷關係",
+   "author": "六盲星",
+   "watch": [
+    {
+     "name": "晉江文學城",
+     "url": "https://www.jjwxc.net/onebook.php?novelid=9930680"
+    }
+   ],
+   "status": "連載中",
+   "length": "約 7 萬字",
+   "mod": "acgn",
+   "id": "novel_297262e2b403",
+   "synopsis": "沈靳宇為逃避與楚今惜的聯姻而逃跑，不料聯姻對象竟臨時換成了他的哥哥沈則問。",
+   "genre": "現代言情",
+   "setting": "現代都市上流社交圈與家族聯姻背景。",
+   "protagonist": "嬌生慣養的楚今惜與沉穩內斂的沈則問。",
+   "hook": "逃婚不成反被哥哥接盤的刺激設定，交織出意料之外的禁忌火花。",
+   "readers": "喜愛現代都市、豪門愛恨與戲劇性轉折的讀者。",
+   "tags": [
+    "現代言情",
+    "豪門",
+    "陰差陽錯"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "華文網文",
+   "title": "耳語",
+   "author": "殊娓",
+   "watch": [
+    {
+     "name": "晉江文學城",
+     "url": "https://www.jjwxc.net/onebook.php?novelid=10815293"
+    }
+   ],
+   "status": "連載中",
+   "length": "約 3 萬字",
+   "mod": "acgn",
+   "id": "novel_12fa07e34d14",
+   "synopsis": "青梅竹馬江序揚與發燒胡言亂語的褚靈之間，一段輕鬆無誤解的日常向溫馨小故事。",
+   "genre": "現代言情",
+   "setting": "充滿生活氣息的日常校園或都市街巷。",
+   "protagonist": "活力十足且容易發燒的褚靈，與溫柔照顧她的青梅竹馬江序揚。",
+   "hook": "沒有誤解與分離的純粹青梅竹馬戀愛，享受甜而不虐的日常日常。",
+   "readers": "喜歡青梅竹馬、輕鬆日常與甜寵風格的讀者。",
+   "tags": [
+    "青梅竹馬",
+    "甜寵",
+    "日常向"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "타임딜",
+   "author": "별끝작가",
+   "image": "https://comicthumb-phinf.pstatic.net/20261116_65/pocket_1794824447835tbWkP_JPEG/%B8%D5%C4%A1%C5%B2_%B0%CB%BC%BA%C0%C7_%C5%BE_%B5%EE%B9%DD_%C5%B8%C0%CC%C6%B2_%C3%D6%C1%BE.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=15028354"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_9169652a1e11",
+   "title": "타임딜",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "매일10시무료 시리즈 에디션",
+   "author": "도원경",
+   "image": "https://comicthumb-phinf.pstatic.net/20261016_300/pocket_1792138212070YYFvD_JPEG/KBS_cover.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=14843281"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_60db15b19689",
+   "title": "매일10시무료 시리즈 에디션",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "매일10시무료 시리즈 에디션",
+   "author": "연우솔, 레드아이스 스튜디오",
+   "image": "https://comicthumb-phinf.pstatic.net/20260519_299/pocket_1779152400222DR3WL_JPEG/693498_%B4%EB%C7%A5_%BD%E6%B3%D7%C0%CF%28%C7%A5%C1%F6%29.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=13958113"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_042064934c08",
+   "title": "每天10點免費系列特輯（매일10시무료 시리즈 에디션）",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "타임딜",
+   "author": "나나코니",
+   "image": "https://comicthumb-phinf.pstatic.net/20261111_248/pocket_17943666161020upEc_JPEG/%BD%BA%C5%E4%B8%AE%C0%DB_%BE%C6%B9%AB%B5%B5_%B3%BB%B0%A1_%BC%BC%B0%E8_%C0%E7%B9%FA%C0%CE_%C1%D9_%B8%F0%B8%A5%B4%D9_%BD%C3%B8%AE%C1%EE_%BB%E7%C0%CC%C1%EE.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=15001346"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_33b49f030af9",
+   "title": "時間限時特賣（타임딜）",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "광고보고무료 시리즈 에디션",
+   "author": "알파타르트",
+   "image": "https://comicthumb-phinf.pstatic.net/20261122_144/pocket_1795311761116zgFCX_JPEG/690x1000_D.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=3713078"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_311efeff83ab",
+   "title": "看廣告免費系列特輯（광고보고무료 시리즈 에디션）",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "매일10시무료 시리즈 에디션",
+   "author": "유인(流人)",
+   "image": "https://comicthumb-phinf.pstatic.net/20261001_162/pocket_1790854637818G1RjC_JPEG/cover.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=14800755"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_401193c54b20",
+   "title": "每天10點免費系列特輯（매일10시무료 시리즈 에디션）",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-22",
+   "updated": "2026-11-22"
   }
  ]
 }
