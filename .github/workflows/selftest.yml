@@ -1,0 +1,43 @@
+name: 資料來源自我檢測
+
+# 從 GitHub 伺服器逐一連線每個資料來源，結果寫入 data/status.json（網頁「架構說明 › 資料來源狀態」可看）。
+# 第一次設定完成後請手動執行一次；之後每週一自動檢測。
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 0 * * 1"    # 台北 每週一 08:37
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sunny-hub-data
+  cancel-in-progress: false
+
+jobs:
+  selftest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: 檢測所有資料來源
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.8-flash
+          GEMINI_FALLBACK_MODEL: gemini-3.5-flash-lite
+          HUB_RESULT: ${{ runner.temp }}/hub_result.md
+        run: python fetch.py --selftest
+      - name: 提交狀態
+        run: |
+          git config user.name  "sunny-hub-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/status.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "status: selftest $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do git pull --rebase --autostash && git push && exit 0; sleep 7; done
+          exit 1
