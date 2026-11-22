@@ -48,7 +48,7 @@ jobs:
 
       - name: 執行 Sunny Hub
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.ACGN_API }}
           GEMINI_MODEL: gemini-3.8-flash              # 主模型（Google 退役時改這一行）
           GEMINI_FALLBACK_MODEL: gemini-3.5-flash-lite # 主模型額度用完或不可用時改用
           EVENT_NAME: ${{ github.event_name }}
