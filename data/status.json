@@ -1,4 +1,289 @@
 {
- "sources": {},
- "runs": []
+ "sources": {
+  "anilist_anime": {
+   "name": "AniList 季番",
+   "module": "acgn",
+   "ok": true,
+   "last_run": "2026-11-22T17:48+08:00",
+   "count": 3,
+   "last_ok": "2026-11-22T17:48+08:00",
+   "error": ""
+  },
+  "bangumi": {
+   "name": "Bangumi 放送表",
+   "module": "acgn",
+   "ok": true,
+   "last_run": "2026-11-22T17:48+08:00",
+   "count": 112,
+   "last_ok": "2026-11-22T17:48+08:00",
+   "error": ""
+  },
+  "anilist_manga_jp": {
+   "name": "AniList 日漫",
+   "module": "acgn",
+   "ok": true,
+   "last_run": "2026-11-22T17:48+08:00",
+   "count": 2,
+   "last_ok": "2026-11-22T17:48+08:00",
+   "error": ""
+  },
+  "anilist_manga_kr": {
+   "name": "AniList 韓漫",
+   "module": "acgn",
+   "ok": true,
+   "last_run": "2026-11-22T17:48+08:00",
+   "count": 2,
+   "last_ok": "2026-11-22T17:48+08:00",
+   "error": ""
+  },
+  "jikan_manga": {
+   "name": "Jikan 漫畫（備援）",
+   "module": "acgn",
+   "ok": false,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 0,
+   "error": "GET https://api.jikan.moe/v4/top/manga 失敗：HTTPSConnectionPool(host='api.jikan.moe', port=443): Max retries exceeded with url: /v4/top/manga?filter=publishing&limit=15 (Caused by NewConnectionError(\"HTTPSConnection(host='api.jikan.moe', port=443): Failed to establish a new connection: [Errno 101] Net"
+  },
+  "8comic": {
+   "name": "無限動漫 更新列表",
+   "module": "comics",
+   "ok": false,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 0,
+   "error": "回傳 0 筆"
+  },
+  "manhuaren": {
+   "name": "漫畫人 最近更新",
+   "module": "comics",
+   "ok": false,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 0,
+   "error": "回傳 0 筆"
+  },
+  "steam": {
+   "name": "Steam 精選分類",
+   "module": "acgn",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 30,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "appstore": {
+   "name": "App Store 台灣免費榜（遊戲）",
+   "module": "acgn",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 2,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "jjwxc": {
+   "name": "晉江文學城 月榜",
+   "module": "acgn",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 2,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "anilist_novel_cn": {
+   "name": "AniList 華文網文",
+   "module": "acgn",
+   "ok": false,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 0,
+   "error": "回傳 0 筆"
+  },
+  "naver_series": {
+   "name": "Naver Series 小說排行",
+   "module": "acgn",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 3,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "anilist_novel_kr": {
+   "name": "AniList 韓國網路小說",
+   "module": "acgn",
+   "ok": false,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 0,
+   "error": "回傳 0 筆"
+  },
+  "news_gnn": {
+   "name": "巴哈姆特 GNN RSS",
+   "module": "news",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "news_4gamers": {
+   "name": "4Gamers RSS",
+   "module": "news",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "news_ann": {
+   "name": "Anime News Network RSS",
+   "module": "news",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "news_gematsu": {
+   "name": "Gematsu RSS",
+   "module": "news",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "news_siliconera": {
+   "name": "Siliconera RSS",
+   "module": "news",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "lang_hbr": {
+   "name": "Harvard Business Review RSS",
+   "module": "lang",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "lang_bbc_le": {
+   "name": "BBC Learning English RSS",
+   "module": "lang",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "lang_voa_le": {
+   "name": "VOA Learning English RSS",
+   "module": "lang",
+   "ok": false,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 0,
+   "error": "RSS 沒有項目（格式不符）"
+  },
+  "lang_nhk_biz": {
+   "name": "NHK ニュース（経済） RSS",
+   "module": "lang",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "lang_nhk_main": {
+   "name": "NHK ニュース（主要） RSS",
+   "module": "lang",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "lang_yahoo_biz": {
+   "name": "Yahoo!ニュース（経済） RSS",
+   "module": "lang",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 5,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "dict_freedict": {
+   "name": "Free Dictionary API（網頁即時查詢用）",
+   "module": "dict",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 1,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "dict_wiktionary": {
+   "name": "Wiktionary API（網頁即時查詢用）",
+   "module": "dict",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 2,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "dict_mymemory": {
+   "name": "MyMemory 翻譯（網頁即時查詢用）",
+   "module": "dict",
+   "ok": true,
+   "last_run": "2026-11-22T17:49+08:00",
+   "count": 1,
+   "last_ok": "2026-11-22T17:49+08:00",
+   "error": ""
+  },
+  "dict_ecdict": {
+   "name": "ECDICT 離線辭典下載點",
+   "module": "dict",
+   "ok": true,
+   "last_run": "2026-11-22T17:50+08:00",
+   "count": 1,
+   "last_ok": "2026-11-22T17:50+08:00",
+   "error": ""
+  },
+  "dict_jmdict": {
+   "name": "JMdict 離線辭典下載點",
+   "module": "dict",
+   "ok": true,
+   "last_run": "2026-11-22T17:50+08:00",
+   "count": 2,
+   "last_ok": "2026-11-22T17:50+08:00",
+   "error": ""
+  },
+  "gemini": {
+   "name": "Gemini gemini-3.8-flash（免費層）",
+   "module": "ai",
+   "ok": true,
+   "last_run": "2026-11-22T18:06+08:00",
+   "count": 1,
+   "last_ok": "2026-11-22T18:06+08:00",
+   "error": ""
+  }
+ },
+ "runs": [
+  {
+   "at": "2026-11-22T18:06+08:00",
+   "modules": [
+    "selftest"
+   ],
+   "notes": []
+  }
+ ],
+ "updated": "2026-11-22T18:06+08:00",
+ "model": {
+  "model": "gemini-3.8-flash",
+  "fallback": "gemini-3.5-flash-lite",
+  "calls": 4,
+  "by_model": {
+   "gemini-3.8-flash": 3,
+   "gemini-3.5-flash-lite": 1
+  },
+  "unavailable": [],
+  "has_key": true
+ }
 }
