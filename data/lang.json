@@ -1,9 +1,95 @@
 {
  "meta": {
-  "last_updated": "2026-11-23T19:01+08:00",
+  "last_updated": "2026-11-24T05:28+08:00",
   "seed": false
  },
  "items": [
+  {
+   "mod": "lang",
+   "cat": "en",
+   "title": "What the Volatility of the AI Trade Means for Your Company",
+   "url": "https://hbr.org/2026/11/what-the-volatility-of-the-ai-trade-means-for-your-company",
+   "source": "Harvard Business Review",
+   "original": "A Q&A with researcher and former IBM executive Paulo Carvão on how to make sense of the AI-driven swings in the stock market.",
+   "id": "en_7f0b4abe9e06",
+   "translation": "與研究員兼前 IBM 高階主管保羅·卡爾瓦奧的問答訪談，探討如何看懂人工智慧驅動的股市波動。",
+   "points": [
+    "make sense of = 理解或弄懂複雜的事物",
+    "AI-driven = 人工智慧驅動的",
+    "swings in the stock market = 股市波動"
+   ],
+   "category": "商業詞彙",
+   "difficulty": "中級",
+   "dictWord": "make sense of",
+   "added": "2026-11-24",
+   "updated": "2026-11-24"
+  },
+  {
+   "mod": "lang",
+   "cat": "en",
+   "title": "When CEO Comebacks Succeed—and When They Fail",
+   "url": "https://hbr.org/2026/11/when-ceo-comebacks-succeed-and-when-they-fail",
+   "source": "Harvard Business Review",
+   "original": "In his weekly column, the former dean of Harvard Business School looks at the research on leaders’ second acts.",
+   "id": "en_776789c7dd2e",
+   "translation": "在其每週專欄中，哈佛商學院前院長檢視了關於領導者重返職掌的研究。",
+   "points": [
+    "weekly column = 每週專欄",
+    "dean = 學院院長",
+    "second acts = 第二職涯或東山再起"
+   ],
+   "category": "報告撰寫",
+   "difficulty": "高級",
+   "dictWord": "second acts",
+   "added": "2026-11-24",
+   "updated": "2026-11-24"
+  },
+  {
+   "mod": "lang",
+   "cat": "ja",
+   "title": "〜をもちまして",
+   "level": "N2",
+   "category": "敬語",
+   "original": "誠に勝手ながら、本日の営業は午後五時をもちまして終了させていただきます。",
+   "translation": "本公司恕難從命，今日營業時間將於下午五點整結束。",
+   "points": [
+    "【N2文法】表示某個時間、期限或手段的結束。比「〜で」更正式，常用於公告、書信或正式場合。",
+    "【商用場景】多用於結束某項服務、活動、營業時間或宣佈某個階段的截止。",
+    "【例句對照】本会議をもちまして、今年度のスケジュールに関する討議を終了いたします。（以此會議為止，結束本年度日程相關的討論。）"
+   ],
+   "tags": [
+    "💼 商用"
+   ],
+   "source": "Sunny Hub（AI 編寫）",
+   "url": "",
+   "dictWord": "もつ",
+   "id": "ja_5b65605bbec4",
+   "added": "2026-11-24",
+   "updated": "2026-11-24"
+  },
+  {
+   "mod": "lang",
+   "cat": "ja",
+   "title": "〜かねる",
+   "level": "N3",
+   "category": "文法",
+   "original": "せっかくのご提案ですが、社内での検討にお時間を要するため、即答しかねます。",
+   "translation": "雖然非常感謝您的提案，但因為需要在公司內部進行評估而需要時間，恕無法立刻回覆。",
+   "points": [
+    "【N3文法】接在動詞連用形（ます形）後面，表示「客觀或主觀上難以做到、無法辦到」。",
+    "【商用場景】婉轉拒絕客戶或合作夥伴的要求時的標準慣用語，用以保持禮貌與緩和語氣。",
+    "【例句對照】この件につきましては、私の権限ではお答えしかねます。（關於這件事，以我的權限無法回答您。）"
+   ],
+   "tags": [
+    "💼 商用"
+   ],
+   "source": "Sunny Hub（AI 編寫）",
+   "url": "",
+   "dictWord": "かねる",
+   "id": "ja_52728996a909",
+   "added": "2026-11-24",
+   "updated": "2026-11-24"
+  },
   {
    "mod": "lang",
    "cat": "en",
