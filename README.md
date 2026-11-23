@@ -4,7 +4,7 @@
 
 - **完全免費**：GitHub Pages（網站）＋ GitHub Actions（排程）＋ Gemini API 免費層（翻譯整理）。
 - **不綁 Claude、不綁公司帳號**：所有東西都在你自己的 GitHub（`lindor8787-sun`）裡。
-- **手機／電腦都能開**：`https://lindor8787-sun.github.io/sunny-hub/`
+- **手機／電腦都能開**：`https://lindor8787-sun.github.io/ACGN_sunny/`
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### 2. 建立 GitHub Repo
 1. 登入 GitHub（`lindor8787-sun`）→ 右上角 **＋ › New repository**。
-2. 名稱填 `sunny-hub`，選 **Public**（公開 repo 的 Actions 與 Pages 完全免費）→ **Create repository**。
+2. 名稱填 `ACGN_sunny`，選 **Public**（公開 repo 的 Actions 與 Pages 完全免費）→ **Create repository**。
 
 ### 3. 上傳檔案
 1. 在新 repo 頁面點 **uploading an existing file**。
@@ -25,14 +25,17 @@
    - Windows 預設隱藏「.」開頭的資料夾：檔案總管 › 檢視 › 勾選「隱藏的項目」，確認 `.github` 有一起拖上去。
    - 上傳後 repo 首頁應該看得到：`.github`、`data`、`hub`、`scripts`、`fetch.py`、`index.html`、`requirements.txt`、`README.md`。
 
+
+> ⚠ 上傳注意：Chrome 上傳資料夾時會自動略過「.」開頭的資料夾，所以 `.github/workflows/` 底下的三個 yml **無法用拖曳上傳**，必須用 `Add file › Create new file`，檔名欄直接打完整路徑（例如 `.github/workflows/hub.yml`）。
+
 ### 4. 設定金鑰（Secret）
 Repo › **Settings › Secrets and variables › Actions › New repository secret**
-- Name：`GEMINI_API_KEY`
+- Name：`ACGN_API`（workflow 讀的就是這個名稱）
 - Secret：貼上第 1 步的金鑰 → **Add secret**
 
 ### 5. 開啟網站（Pages）
 Repo › **Settings › Pages** › Source 選 **Deploy from a branch** › Branch 選 `main`、資料夾 `/ (root)` › **Save**。
-1～2 分鐘後網址生效：`https://lindor8787-sun.github.io/sunny-hub/`（此時顯示的是範例資料）。
+1～2 分鐘後網址生效：`https://lindor8787-sun.github.io/ACGN_sunny/`（此時顯示的是範例資料）。
 
 ### 6. 手動執行三個工作（只要第一次）
 Repo › **Actions**（若出現提示，先按 *I understand my workflows, go ahead and enable them*），左側依序點選並按 **Run workflow**：
@@ -122,7 +125,7 @@ Repo › **Actions**（若出現提示，先按 *I understand my workflows, go a
 ## 檔案結構
 
 ```
-sunny-hub/
+ACGN_sunny/
 ├─ index.html                    網站（單一檔案）
 ├─ fetch.py                      主程式（依排程決定要跑的模組；--selftest 自我檢測）
 ├─ requirements.txt
@@ -156,6 +159,6 @@ sunny-hub/
 |---|---|
 | 網站一直是範例資料 | Actions › Sunny Hub 每日更新 › Run workflow；看執行紀錄是否有錯 |
 | 某區塊沒更新 | 網站「架構說明 › 資料來源狀態」看該來源是否 ❌，錯誤訊息會寫原因 |
-| 翻譯變成英文原文 | Gemini 額度用完或金鑰錯誤；檢查 Secret `GEMINI_API_KEY` |
+| 翻譯變成英文原文 | Gemini 額度用完或金鑰錯誤；檢查 Secret `ACGN_API` |
 | Actions 出現 `push` 失敗 | Settings › Actions › General › Workflow permissions 選 **Read and write permissions** |
 | 字典查不到多數單字 | 確認 ② 建置離線辭典已執行成功 |
