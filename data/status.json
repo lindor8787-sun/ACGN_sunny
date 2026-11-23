@@ -161,25 +161,25 @@
    "name": "Harvard Business Review RSS",
    "module": "lang",
    "ok": true,
-   "last_run": "2026-11-22T18:12+08:00",
-   "count": 10,
-   "last_ok": "2026-11-22T18:12+08:00",
+   "last_run": "2026-11-23T18:39+08:00",
+   "count": 8,
+   "last_ok": "2026-11-23T18:39+08:00",
    "error": ""
   },
   "lang_bbc_le": {
    "name": "BBC Learning English RSS",
    "module": "lang",
-   "ok": true,
-   "last_run": "2026-11-22T17:49+08:00",
-   "count": 5,
+   "ok": false,
+   "last_run": "2026-11-23T18:39+08:00",
+   "count": 0,
    "last_ok": "2026-11-22T17:49+08:00",
-   "error": ""
+   "error": "回傳 0 筆"
   },
   "lang_voa_le": {
    "name": "VOA Learning English RSS",
    "module": "lang",
    "ok": false,
-   "last_run": "2026-11-22T17:49+08:00",
+   "last_run": "2026-11-23T18:39+08:00",
    "count": 0,
    "error": "RSS 沒有項目（格式不符）"
   },
@@ -187,7 +187,7 @@
    "name": "NHK ニュース（経済） RSS",
    "module": "lang",
    "ok": false,
-   "last_run": "2026-11-22T18:12+08:00",
+   "last_run": "2026-11-23T19:01+08:00",
    "count": 0,
    "last_ok": "2026-11-22T17:49+08:00",
    "error": "回傳 0 筆"
@@ -196,7 +196,7 @@
    "name": "NHK ニュース（主要） RSS",
    "module": "lang",
    "ok": false,
-   "last_run": "2026-11-22T18:12+08:00",
+   "last_run": "2026-11-23T19:01+08:00",
    "count": 0,
    "last_ok": "2026-11-22T17:49+08:00",
    "error": "回傳 0 筆"
@@ -205,9 +205,9 @@
    "name": "Yahoo!ニュース（経済） RSS",
    "module": "lang",
    "ok": true,
-   "last_run": "2026-11-22T18:12+08:00",
+   "last_run": "2026-11-23T19:01+08:00",
    "count": 8,
-   "last_ok": "2026-11-22T18:12+08:00",
+   "last_ok": "2026-11-23T19:01+08:00",
    "error": ""
   },
   "dict_freedict": {
@@ -267,6 +267,20 @@
  },
  "runs": [
   {
+   "at": "2026-11-23T19:01+08:00",
+   "modules": [
+    "lang:am",
+    "lexicon",
+    "dict"
+   ],
+   "notes": [
+    "模型 gemini-3.8-flash 暫不可用（Error code: 429 - {'error': {'message': 'Rate limit exceeded for model gemini-3.），改用備援",
+    "lang:am 完成（5）",
+    "lexicon 完成（2）",
+    "dict 完成（8）"
+   ]
+  },
+  {
    "at": "2026-11-22T18:13+08:00",
    "modules": [
     "acgn",
@@ -294,14 +308,14 @@
    "notes": []
   }
  ],
- "updated": "2026-11-22T18:13+08:00",
+ "updated": "2026-11-23T19:01+08:00",
  "model": {
   "model": "gemini-3.8-flash",
   "fallback": "gemini-3.5-flash-lite",
-  "calls": 15,
+  "calls": 6,
   "by_model": {
    "gemini-3.8-flash": 1,
-   "gemini-3.5-flash-lite": 14
+   "gemini-3.5-flash-lite": 5
   },
   "unavailable": [
    "gemini-3.8-flash"

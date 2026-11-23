@@ -518,5 +518,205 @@
   "syn": "assess, appraise, evaluate, review",
   "ant": "—",
   "confuse": "與 estimate（估算）不同，evaluate 通常指對價值、成效或品質進行綜合性的判斷。"
+ },
+ "curated": {
+  "lang": "en",
+  "ph": "/ˈkjʊər.eɪ.tɪd/",
+  "level": "C1",
+  "forms": "curate (v.), curation (n.), curator (n.)",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精心策劃的、精選的",
+    "def": "Carefully chosen and methodically arranged, typically by an expert.",
+    "ex": "The marketing team presented a curated list of influencers for the upcoming product launch.",
+    "exZh": "行銷團隊為即將到來的產品發表會，提出了一份精心策劃的意見領袖精選名單。",
+    "scene": "職場公關與行銷專案"
+   },
+   {
+    "pos": "adj.",
+    "zh": "策展的、館藏精選的",
+    "def": "Selected and organized for a museum or exhibition.",
+    "ex": "Our corporate headquarters features a curated art collection from local modern artists.",
+    "exZh": "我們的公司總部展示了精選自當地現代藝術家的館藏藝術品。",
+    "scene": "企業形象與辦公環境規劃"
+   }
+  ],
+  "syn": "selected, handpicked, organized",
+  "ant": "random, unorganized, haphazard",
+  "confuse": "與 created（創造的）拼法相似但意義不同，curated 強調「篩選與組織」。"
+ },
+ "reshoring": {
+  "lang": "en",
+  "ph": "/ˌriːˈʃɔːr.ɪŋ/",
+  "level": "C1",
+  "forms": "reshore (v.)",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "回流、製造業回流、本土化生產",
+    "def": "The practice of transferring a business's operations back to its country of origin.",
+    "ex": "Due to supply chain disruptions, the board is considering reshoring our manufacturing plants.",
+    "exZh": "由於供應鏈中斷，董事會正在考慮將我們的製造工廠遷回國內。",
+    "scene": "供應鏈管理與高层戰略會議"
+   }
+  ],
+  "syn": "onshoring, backshoring",
+  "ant": "offshoring, outsourcing",
+  "confuse": "常與 outsourcing（外包）或 offshoring（外移）混淆，reshoring 指的是「搬回來」。"
+ },
+ "adapting": {
+  "lang": "en",
+  "ph": "/əˈdæp.tɪŋ/",
+  "level": "B2",
+  "forms": "adapt (v.), adaptation (n.), adaptable (adj.)",
+  "senses": [
+   {
+    "pos": "v. (present participle)",
+    "zh": "適應、調整",
+    "def": "Adjusting to new conditions or environments.",
+    "ex": "Our team is currently adapting to the new remote work software rolled out by IT.",
+    "exZh": "我們的團隊目前正在適應資訊部門推出的新遠端工作軟體。",
+    "scene": "職場變革管理與日常工作適應"
+   },
+   {
+    "pos": "v. (present participle)",
+    "zh": "改編、改造",
+    "def": "Altering something to suit a new purpose or situation.",
+    "ex": "We are adapting the training manual for our overseas branches.",
+    "exZh": "我們正在為海外分公司改編培訓手冊。",
+    "scene": "跨國企業文件本地化"
+   }
+  ],
+  "syn": "adjusting, modifying, accommodating",
+  "ant": "stagnating, resisting",
+  "confuse": "易與 adopting（採納）混淆；adapting 是「修改或適應以符合」，adopting 是「直接拿來使用」。"
+ },
+ "皮切り": {
+  "lang": "ja",
+  "ph": "かわきり",
+  "level": "JLPT N1",
+  "forms": "皮切りに（副詞的に使用）",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "開端、序幕、以……為起點",
+    "def": "ある物事が始動する最初の一歩。〜を最初に。",
+    "ex": "東京本社での発表会を皮切りに、全国の支社で新商品のプロモーションを展開します。",
+    "exZh": "以東京總部的發表會為開端，將在全國分公司展開新商品的宣傳活動。",
+    "scene": "商業活動企劃與行銷時程"
+   }
+  ],
+  "syn": "手始め、端緒、発端",
+  "ant": "締めくくり、大詰",
+  "confuse": "字面上有「剝皮」的漢字，但在商務中專門指「活動或計畫的開端」。"
+ },
+ "納める": {
+  "lang": "ja",
+  "ph": "おさめる",
+  "level": "JLPT N2",
+  "forms": "納めます、納めて、納めた",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "繳納、交付（金錢、物品）",
+    "def": "金銭や物品を提出する。税金や代金を支払う。",
+    "ex": "今月の売上金を指定の口座に納めてください。",
+    "exZh": "請將本月的營業額匯入指定的帳戶。",
+    "scene": "財務、會計與行政作業"
+   },
+   {
+    "pos": "v.",
+    "zh": "收穫、取得（成果等）",
+    "def": "成果や利益を得る、成功させる。",
+    "ex": "おかげさまで、今期のプロジェクトは多大な成果を納めることができました。",
+    "exZh": "托您的福，本期的專案取得了巨大的成果。",
+    "scene": "業務報告與績效評估"
+   },
+   {
+    "pos": "v.",
+    "zh": "納貨、交付產品",
+    "def": "注文された品物を届ける（納品する）。",
+    "ex": "クライアントの要望通り、週末までに試作品を納める予定です。",
+    "exZh": "預計按照客戶的要求，在週末前交付試製品。",
+    "scene": "業務交期與供應商管理"
+   }
+  ],
+  "syn": "支払う、収める、納品する",
+  "ant": "—",
+  "confuse": "與同音的「治める」（治理、平息）和「収める」（收納、獲得）在漢字使用上需特別區分，商務上常見「納める」（繳納/交貨）與「収める」（取得成果）。"
+ },
+ "delegate": {
+  "lang": "en",
+  "ph": "/ˈdel.ɪ.ɡət/ (v. /ˈdel.ɪ.ɡeɪt/)",
+  "level": "B2",
+  "forms": "delegates, delegated, delegating, delegation (n.)",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "授權、委派、分派（工作）",
+    "def": "To entrust a task or responsibility to another person.",
+    "ex": "As a project manager, you need to learn how to delegate tasks effectively to your team members.",
+    "exZh": "身為專案經理，你需要學會如何有效地將任務分派給團隊成員。",
+    "scene": "主管領導力與工作分配"
+   },
+   {
+    "pos": "n.",
+    "zh": "代表、會議代表",
+    "def": "A person chosen or elected to represent a group.",
+    "ex": "Our company sent three delegates to the international tech summit.",
+    "exZh": "我們公司派了三名代表參加國際科技峰會。",
+    "scene": "商務出差與會議"
+   }
+  ],
+  "syn": "assign, entrust, representative",
+  "ant": "hoard, monopolize",
+  "confuse": "動詞讀音結尾為 /ɡeɪt/，名詞讀音結尾為 /ɡət/，注意詞性與發音的差異。"
+ },
+ "accept": {
+  "lang": "en",
+  "ph": "/əkˈsept/",
+  "level": "A2",
+  "forms": "accepts, accepted, accepting, acceptable (adj.)",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "接受、同意（提案、邀請等）",
+    "def": "To consent to receive or undertake something offered.",
+    "ex": "We are pleased to inform you that the client has accepted our proposal.",
+    "exZh": "我們很高興地通知您，客戶已經接受了我們的提案。",
+    "scene": "業務談判與合約簽署"
+   },
+   {
+    "pos": "v.",
+    "zh": "收受、承認",
+    "def": "To receive payment or terms willingly.",
+    "ex": "Our accounting department does not accept cash for security reasons.",
+    "exZh": "基於安全考量，我們的會計部門不接受現金付款。",
+    "scene": "財務與行政規章"
+   }
+  ],
+  "syn": "receive, agree to, embrace",
+  "ant": "reject, decline, refuse",
+  "confuse": "極易與 except（除了……之外）混淆，accept 是動詞「接受」。"
+ },
+ "achieve": {
+  "lang": "en",
+  "ph": "/əˈtʃiːv/",
+  "level": "B1",
+  "forms": "achieves, achieved, achieving, achievement (n.)",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "達成、實現（目標等）",
+    "def": "To successfully bring about or reach a desired objective by effort, skill, or courage.",
+    "ex": "The sales team worked extra hours to achieve their quarterly targets.",
+    "exZh": "業務團隊加班以達成他們的季度目標。",
+    "scene": "KPI 考核與業績目標達成"
+   }
+  ],
+  "syn": "accomplish, attain, reach",
+  "ant": "fail, miss",
+  "confuse": "常與 reach（到達）混淆，achieve 強調透過努力「達成」抽象的目標或成果。"
  }
 }

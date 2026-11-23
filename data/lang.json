@@ -1,9 +1,115 @@
 {
  "meta": {
-  "last_updated": "2026-11-22T18:12+08:00",
+  "last_updated": "2026-11-23T19:01+08:00",
   "seed": false
  },
  "items": [
+  {
+   "mod": "lang",
+   "cat": "en",
+   "title": "Our Favorite Management Tips on Managing Change Fatigue",
+   "url": "https://hbr.org/2026/11/our-favorite-management-tips-on-managing-change-fatigue",
+   "source": "Harvard Business Review",
+   "original": "A curated list from one of HBR’s most popular newsletters.",
+   "id": "en_6fb8c59ff0eb",
+   "translation": "精選自 HBR 最受歡迎的電子報之一。",
+   "points": [
+    "curated list = 精選清單",
+    "popular newsletter = 熱門電子報",
+    "one of + 名詞複數 = ……之一"
+   ],
+   "category": "商業詞彙",
+   "difficulty": "初級",
+   "dictWord": "curated",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "mod": "lang",
+   "cat": "en",
+   "title": "Why Tariffs Aren’t Bringing Factories Back to the U.S.",
+   "url": "https://hbr.org/2026/11/why-tariffs-arent-bringing-factories-back-to-the-u-s",
+   "source": "Harvard Business Review",
+   "original": "As the auto industry shows, the economics of reshoring still don’t add up for many manufacturers.",
+   "id": "en_b1ae203cc364",
+   "translation": "正如汽車產業所顯示的，對許多製造商而言，回流的經濟效益仍然不合乎邏輯。",
+   "points": [
+    "auto industry = 汽車產業",
+    "reshoring = 製造業回流",
+    "add up = 合乎邏輯、說得通"
+   ],
+   "category": "談判協商",
+   "difficulty": "中級",
+   "dictWord": "reshoring",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "mod": "lang",
+   "cat": "en",
+   "title": "Innovation Summit 2026: Block’s Jack Dorsey on Building a Company Around Intelligence",
+   "url": "https://hbr.org/podcast/2026/11/innovation-summit-2026-blocks-jack-dorsey-on-building-a-company-around-intelligence",
+   "source": "Harvard Business Review",
+   "original": "A conversation with the technology leader about how he’s adapting his organization for the future.",
+   "id": "en_42826a706dea",
+   "translation": "與這位科技領導者進行的對話，探討他如何為未來調整其組織。",
+   "points": [
+    "technology leader = 科技領導者",
+    "adapt... for... = 使……適應……",
+    "organization = 組織、機構"
+   ],
+   "category": "會議英文",
+   "difficulty": "中級",
+   "dictWord": "adapting",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "mod": "lang",
+   "cat": "ja",
+   "title": "〜を皮切りに（して）／〜を皮切りとして",
+   "level": "N1",
+   "category": "文法",
+   "original": "東京本社での新製品発表会を皮切りに、全国主要都市でのプロモーションツアーが開始されます。",
+   "translation": "以東京總公司的新產品發表會為開端，將開始在全國主要城市舉辦宣傳巡迴活動。",
+   "points": [
+    "【N1文法】表示以某個事件為起點，接著陸續展開一連串相同的動作或發展，後續通常接規模擴大的事情。",
+    "【商用場景】適用於企業發表會、新事業展開、全國性活動等大型商業企劃的公關文宣或正式報告中。",
+    "【例句對照】このプロジェクトは社内テストを皮切りに、段階的に一般ユーザーへも公開していく予定です。（這個專案將以內部測試為起點，預計階段性地向一般用戶公開。）"
+   ],
+   "tags": [
+    "💼 商用"
+   ],
+   "source": "Sunny Hub（AI 編寫）",
+   "url": "",
+   "dictWord": "皮切り",
+   "id": "ja_88adde093bd8",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "mod": "lang",
+   "cat": "ja",
+   "title": "お納めいただく",
+   "level": "N2",
+   "category": "敬語",
+   "original": "大変心ばかりの品ではございますが、記念品としてお納めいただけますと幸いに存じます。",
+   "translation": "雖然是一點微薄的心意，若您能作為紀念品收下，將感到非常榮幸。",
+   "points": [
+    "【N2敬語】為「受け取る」的謙讓語「受け取る・もらう」的尊敬表現（納める）的使役／自謙組合，表示請對方收下禮物或資料。",
+    "【商用場景】在贈送客戶禮品、試用樣品或正式文件時，用來展現高度禮貌與謙遜的說法。",
+    "【例句對照】詳細な見積書を同封いたしましたので、ご査収の上、ご検討いただけますようお願い申し上げます。（已隨信附上詳細報價單，請您查收並協助評估。）"
+   ],
+   "tags": [
+    "💼 商用"
+   ],
+   "source": "Sunny Hub（AI 編寫）",
+   "url": "",
+   "dictWord": "納める",
+   "id": "ja_7a312320d66b",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
   {
    "mod": "lang",
    "cat": "en",
