@@ -1,9 +1,333 @@
 {
  "meta": {
-  "last_updated": "2026-11-22T18:12+08:00",
+  "last_updated": "2026-11-26T17:36+08:00",
   "seed": false
  },
  "items": [
+  {
+   "id": "news_dfa93c4a7d65",
+   "mod": "news",
+   "cat": "news",
+   "title": "《奧丁：神叛》海姆達爾伺服器據點佔領戰開放 黑色星期五慶典與黑鐵鍛造活動登場",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315664",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "Kakao Games 旗下 MMORPG《奧丁：神叛》今（26）日推出全新系列活動，包含「黑鐵的鍛造爐」21 日簽到、「矮人的鐵匠鋪」道具兌換及黑色星期五特別慶典，提供玩家豐富的角色養成資源與獎勵。此外，全新伺服器「海姆達爾」日前已開放據"
+   ],
+   "summary": "Kakao Games 旗下 MMORPG《奧丁：神叛》今（26）日推出全新系列活動，包含「黑鐵的鍛造爐」21 日簽到、「矮人的鐵匠鋪」道具兌換及黑色星期五特別慶典，提供玩家豐富的角色養成資源與獎勵。此外，全新伺服器「海姆達爾」日前已開放據點佔領戰，讓公會成員能夠攜手爭奪據點，體驗更具策略性的公會競爭。 ....",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_3f575cc4727d",
+   "mod": "news",
+   "cat": "news",
+   "title": "【TpGS 26】台灣團隊新作《蓋亞鍊成陣》曝光預告影片 化身鍊金術士、用粉筆改寫命運",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315663",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "台灣獨立遊戲團隊幽寧遊戲宣布，旗下自製首款解謎作品《蓋亞鍊成陣（Gaia Ritual）》入圍 Indie Game Award 2027 創新獎，同時曝光遊戲預告影片。 化身受詛咒的鍊金術士，用粉筆改寫命運。《蓋亞鍊成陣》是一款以徒手繪製"
+   ],
+   "summary": "台灣獨立遊戲團隊幽寧遊戲宣布，旗下自製首款解謎作品《蓋亞鍊成陣（Gaia Ritual）》入圍 Indie Game Award 2027 創新獎，同時曝光遊戲預告影片。 化身受詛咒的鍊金術士，用粉筆改寫命運。《蓋亞鍊成陣》是一款以徒手繪製魔法陣為核心玩法的第一人稱探索解謎遊戲，玩家將扮演....",
+   "pick": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_283571f847ee",
+   "mod": "news",
+   "cat": "news",
+   "title": "《勇者鬥惡龍 怪物仙境 4》公開最終宣傳影片 踏上拯救父親的冒險旅程",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315662",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "SQUARE ENIX 預定於 12 月 3 日（四）發售的《勇者鬥惡龍 怪物仙境 4 枯木國的碧安卡與芙蘿拉》（Nintendo Switch 1|2／PS5／Xbox Series X|S／Xbox on PC／Steam），現公開最終"
+   ],
+   "summary": "SQUARE ENIX 預定於 12 月 3 日（四）發售的《勇者鬥惡龍 怪物仙境 4 枯木國的碧安卡與芙蘿拉》（Nintendo Switch 1|2／PS5／Xbox Series X|S／Xbox on PC／Steam），現公開最終宣傳影片。 ※ Steam 版預計於 2026 年 12....",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_81caa5b80762",
+   "mod": "news",
+   "cat": "news",
+   "title": "《卡厄思夢境》公開「達莉亞」宣傳影片 隱藏過去的帝國千金傑拉帝國貴族家族的養女",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315661",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "由世曼凱營運、Super Creative 開發的黑暗奇幻 Roguelike RPG《卡厄思夢境》宣布，現已公開「達莉亞」宣傳影片，預計將於 2026 年 12 月 2 日公開更多情報。 「達莉亞」宣傳影片 這裡有圖片燈箱 ...."
+   ],
+   "summary": "由世曼凱營運、Super Creative 開發的黑暗奇幻 Roguelike RPG《卡厄思夢境》宣布，現已公開「達莉亞」宣傳影片，預計將於 2026 年 12 月 2 日公開更多情報。 「達莉亞」宣傳影片 這裡有圖片燈箱 ....",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_ae771d6d01b1",
+   "mod": "news",
+   "cat": "news",
+   "title": "深層下落動作策略遊戲《百萬深淵》公布 Switch 實體版特典陣容",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315660",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "獨立遊戲發行商 PLAYISM 宣布，由 Cyber Space Biotope 所開發的深層下落動作策略遊戲《百萬深淵（million depth）》Nintendo Switch 實體版所附帶的首發限定特典「收錄 72 首原創音樂的原聲"
+   ],
+   "summary": "獨立遊戲發行商 PLAYISM 宣布，由 Cyber Space Biotope 所開發的深層下落動作策略遊戲《百萬深淵（million depth）》Nintendo Switch 實體版所附帶的首發限定特典「收錄 72 首原創音樂的原聲音樂集」CD 光碟設計，以及各通路原創特典陣容現已公布。 &nbs....",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_eaca008e0c5f",
+   "mod": "news",
+   "cat": "news",
+   "title": "為避開《絲之歌》而延期一年的《永恆之光》可能再次強碰 DLC？團隊幽默聲明：這次不延！",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315659",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "去年為了不與《空洞騎士：絲之歌》發售強碰而延期上市的《永恆之光（暫譯，原名：Aeterna Lucis）》，如今遊戲即將在 12 月 4 日推出，卻面臨可能又會與《空洞騎士：絲之歌》新內容「悲傷之海（暫譯，Sea of Sorrow）」撞期"
+   ],
+   "summary": "去年為了不與《空洞騎士：絲之歌》發售強碰而延期上市的《永恆之光（暫譯，原名：Aeterna Lucis）》，如今遊戲即將在 12 月 4 日推出，卻面臨可能又會與《空洞騎士：絲之歌》新內容「悲傷之海（暫譯，Sea of Sorrow）」撞期的局面。對此開發團隊 Aeternum Game Studios 釋出幽....",
+   "pick": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_4ec182bd3a9e",
+   "mod": "news",
+   "cat": "news",
+   "title": "《瑪利歐賽車世界》8 條既有賽道重新編排 新增 2 條生存賽路線",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315658",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "Nintendo Switch 2 軟體《瑪利歐賽車世界》對外發布了 Ver.1.9.0 免費更新資料，8 條《瑪利歐賽車世界》的既有賽道經重新編排後全新登場，同時新增 2 條生存賽路線。 【以下內容為廠商提供資料原文】 Nintendo "
+   ],
+   "summary": "Nintendo Switch 2 軟體《瑪利歐賽車世界》對外發布了 Ver.1.9.0 免費更新資料，8 條《瑪利歐賽車世界》的既有賽道經重新編排後全新登場，同時新增 2 條生存賽路線。 【以下內容為廠商提供資料原文】 Nintendo ....",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_2cea35961210",
+   "mod": "news",
+   "cat": "news",
+   "title": "《晶核》感恩節版本登場 「永罰霜獄」傳奇模式開啟、推出雪域風行時裝",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315657",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "由 NUVERSE 研發的魔法與機械連擊動作 RPG《晶核 Crystal of Atlan》於 2026 年 11 月 26 日（週四）維護後開放感恩節回饋版本更新內容。參與感恩節活動，冒險者通關任意冒險本、討伐本等日常副本即有機率彈出驚"
+   ],
+   "summary": "由 NUVERSE 研發的魔法與機械連擊動作 RPG《晶核 Crystal of Atlan》於 2026 年 11 月 26 日（週四）維護後開放感恩節回饋版本更新內容。參與感恩節活動，冒險者通關任意冒險本、討伐本等日常副本即有機率彈出驚喜禮包。同時，團本「永罰霜獄」新增傳奇模式，為冒險者帶來更高難度的挑戰與....",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_be4e962ecee9",
+   "mod": "news",
+   "cat": "news",
+   "title": "《七騎士 Re:BIRTH》1.5 周年慶典持續進行中 「狂歡盛宴」與全新英雄「芭艾兒」登場",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315656",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "遊戲開發與發行公司的網石集團 (Netmarble Corporation) 宣布，旗下收集型 RPG《七騎士 Re:BIRTH》推出「Re:BIRTH Day 狂歡盛宴」更新，延續 1.5 周年慶祝活動，加入全新英雄、肉鴿型 PvE 玩法"
+   ],
+   "summary": "遊戲開發與發行公司的網石集團 (Netmarble Corporation) 宣布，旗下收集型 RPG《七騎士 Re:BIRTH》推出「Re:BIRTH Day 狂歡盛宴」更新，延續 1.5 周年慶祝活動，加入全新英雄、肉鴿型 PvE 玩法以及各項特別活動等內容。 ....",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_31f6ccf39e40",
+   "mod": "news",
+   "cat": "news",
+   "title": "1st Witch on the Holy Night Film Opens at #2",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-26/1st-witch-on-the-holy-night-film-opens-at-no.2/.244181",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "業界",
+   "points": [
+    "Godzilla Minus Zero stays at #1 in 3rd weekend"
+   ],
+   "summary": "Godzilla Minus Zero stays at #1 in 3rd weekend",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_b9085168053c",
+   "mod": "news",
+   "cat": "news",
+   "title": "Japan's Gundam Base Stores Toughen ID Verification for Buyers",
+   "url": "https://www.animenewsnetwork.com/interest/2026-11-25/japan-gundam-base-stores-toughen-id-verification-for-buyers/.244190",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "業界",
+   "points": [
+    "Stores now only accept passport or Japan's My Number Card as ID"
+   ],
+   "summary": "Stores now only accept passport or Japan's My Number Card as ID",
+   "pick": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_700ec36e57d0",
+   "mod": "news",
+   "cat": "news",
+   "title": "Live-Action 'Kekkon Shimashō, Koi Suru Mae ni' Series Reveals Cast, Theme Song Artists, January 2027 Streaming Debut",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-25/live-action-kekkon-shimasho-koi-suru-mae-ni-series-reveals-cast-theme-song-artists-january-2027-/.244170",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "業界",
+   "points": [
+    "Former Nogizaka46 idol Tamami Sakaguchi, Genin wa Jibun ni Aru's Jun Mutō star in shorts with song by YU's"
+   ],
+   "summary": "Former Nogizaka46 idol Tamami Sakaguchi, Genin wa Jibun ni Aru's Jun Mutō star in shorts with song by YU's",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_9202973a9598",
+   "mod": "news",
+   "cat": "news",
+   "title": "Nioh 3 Game Streams First Look Trailer for New DLC",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-25/nioh-3-game-streams-first-look-trailer-for-new-dlc/.244166",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "Bloody Insurrection DLC Vol. 2 launches on December 17"
+   ],
+   "summary": "Bloody Insurrection DLC Vol. 2 launches on December 17",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_417137b02196",
+   "mod": "news",
+   "cat": "news",
+   "title": "Live-Action High School Family: Kokosei Kazoku Film Gets Spinoff Shorts",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-25/live-action-high-school-family-kokosei-kazoku-film-gets-spinoff-shorts/.244171",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "業界",
+   "points": [
+    "11 short episodes stream in lead-up to film's January opening"
+   ],
+   "summary": "11 short episodes stream in lead-up to film's January opening",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_637cf1189601",
+   "mod": "news",
+   "cat": "news",
+   "title": "Under Ninja Manga Goes on 4-Week Hiatus",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-25/under-ninja-manga-goes-on-4-week-hiatus/.244180",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "漫畫",
+   "points": [
+    "Manga resumes serialization on December 28"
+   ],
+   "summary": "Manga resumes serialization on December 28",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_66f4a005d834",
+   "mod": "news",
+   "cat": "news",
+   "title": "Exoprimal Game Ends Service in September 2027",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-25/exoprimal-game-ends-service-in-september-2027/.244201",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "Game to be delisted after March 30"
+   ],
+   "summary": "Game to be delisted after March 30",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_e286dfb00487",
+   "mod": "news",
+   "cat": "news",
+   "title": "Melty Blood:Twi-Lumina 2D Fighter Game's New Trailer Confirms Crossplay",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-25/melty-blood-twi-lumina-2d-fighter-game-new-trailer-confirms-crossplay/.244202",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "Game launches for PS5, PS4, Switch 2, Switch, Xbox One, PC on April 22"
+   ],
+   "summary": "Game launches for PS5, PS4, Switch 2, Switch, Xbox One, PC on April 22",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "news_0c289a89f540",
+   "mod": "news",
+   "cat": "news",
+   "title": "Bandai Card Games Launches Digimon Alysion Game",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-25/bandai-card-games-launches-digimon-alysion-game/.244210",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "Free-to-play smartphone card game announced in March 2025"
+   ],
+   "summary": "Free-to-play smartphone card game announced in March 2025",
+   "pick": false,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
   {
    "id": "news_d3141e849081",
    "mod": "news",

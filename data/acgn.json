@@ -1,15 +1,984 @@
 {
  "meta": {
-  "last_updated": "2026-11-22T18:12+08:00",
+  "last_updated": "2026-11-26T17:35+08:00",
   "seed": false,
   "counts": {
-   "anime": 17,
-   "comic": 12,
-   "games": 10,
-   "novel": 14
+   "anime": 18,
+   "comic": 23,
+   "games": 17,
+   "novel": 20
   }
  },
  "items": [
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
+   "studio": "P.A.WORKS",
+   "latest": "第8話",
+   "broadcast": "每週三 00:00（日本）",
+   "episodes": "全 12 話",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/GT00384016/"
+    },
+    {
+     "name": "YouTube",
+     "url": "https://www.youtube.com/playlist?list=PLcCDyXGi-y_w"
+    },
+    {
+     "name": "Bilibili TV",
+     "url": "https://www.bilibili.tv/en/media/2432178"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E3%83%81%E3%83%BC%E4%BB%98%E4%B8%8E"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_061f229c1a2e",
+   "title": "被驅逐的賦加上級魔術師享受隨心所欲的第二人生",
+   "synopsis": "被隊伍驅逐的賦加魔術師萊恩，回收了過去給夥伴裝備的強化點數，與帶著創傷的夥伴們踏上全新的冒險旅程。",
+   "hook": "看男主角收回強化點數爽快重啟冒險，還能療癒夥伴的內心，奇幻世界觀超特別！",
+   "tags": [
+    "奇幻",
+    "冒險",
+    "搞笑",
+    "日常生活"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "魔入りました！入間くん",
+   "author": "西修",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99324-huvqo1tmm4pl.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Kodansha USA",
+     "url": "https://kodansha.us/series/welcome-to-demon-school-iruma-kun/"
+    },
+    {
+     "name": "Official Site",
+     "url": "https://www.akitashoten.co.jp/series/7482"
+    },
+    {
+     "name": "Champion Cross",
+     "url": "https://championcross.jp/series/8016373c7a6b3"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_8005d49f101e",
+   "title": "入間同學入魔了！",
+   "synopsis": "老好人鈴木入間被不負責任的父母賣給惡魔，陰錯陽差成為大惡魔的孫子。他必須隱瞞人類身分，在危機四伏的惡魔學校裡努力求學並生存下去。",
+   "hook": "隱藏人類身分的校園生存戰，爆笑又刺激！",
+   "tags": [
+    "校園",
+    "奇幻",
+    "搞笑"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "転生したらスライムだった件",
+   "author": "伏瀬",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86399-NwbRFVh5koqc.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Official Site",
+     "url": "https://shonen-sirius.com/c/tensura"
+    },
+    {
+     "name": "Nico Nico Seiga",
+     "url": "http://manga.nicovideo.jp/comic/18466"
+    },
+    {
+     "name": "Pocket Magazine",
+     "url": "https://pocket.shonenmagazine.com/episode/10834108156631339284"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_ec499f482d74",
+   "title": "關於我轉生變成史萊姆這檔事",
+   "synopsis": "三十七歲的東京上班族遭遇刺殺身亡，醒來後發現自己轉生到了滿是龍與魔法的異世界，但居然變成一隻盲目且沒有骨頭的史萊姆怪物。",
+   "hook": "最強史萊姆的異世界傳奇冒險，絕對不能錯過！",
+   "tags": [
+    "轉生",
+    "冒險",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "となりの猫と恋知らず",
+   "author": "あきのこ",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174790-7wZ1sDAhcofd.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Official Site",
+     "url": "https://magazine.jp.square-enix.com/top/comics/detail/9784757591264/"
+    },
+    {
+     "name": "Manga UP!",
+     "url": "https://global.manga-up.com/manga/580"
+    },
+    {
+     "name": "Nico Nico Seiga",
+     "url": "https://manga.nicovideo.jp/comic/73191"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_2e3cc05afc39",
+   "title": "不識鄰座貓咪和戀愛情感",
+   "synopsis": "害羞且社交恐懼的高中生湊，被迫去叫醒鄰座如貓咪般愛打瞌睡的貓實。當他鼓起勇氣觸碰對方時，竟意外獲得一個擁抱，兩人笨拙的純愛故事就此展開。",
+   "hook": "社恐少年與貓系女孩的青澀戀曲，甜度超標！",
+   "tags": [
+    "校園",
+    "戀愛",
+    "日常"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "ギャル嫁の秘密",
+   "author": "クドゥー",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169734-vNvdPkieV0Xi.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Ganma!",
+     "url": "https://ganma.jp/galyome"
+    },
+    {
+     "name": "Nico Nico Seiga",
+     "url": "https://manga.nicovideo.jp/comic/69068"
+    },
+    {
+     "name": "Mangas.io",
+     "url": "https://www.mangas.io/lire/personne-ne-connait-ma-femme-comme-moi"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_d48760e9cf0d",
+   "title": "辣妹老婆的祕密",
+   "synopsis": "公司裡高冷幹練的辣妹東條冬雪，私底下其實是工程師原太陽隱婚的妻子。他們必須在嚴禁辦公室戀情的公司裡保密，同時努力縮短彼此之間的距離。",
+   "hook": "職場高冷辣妹與老公的甜蜜祕密，純愛喜劇首選！",
+   "tags": [
+    "職場",
+    "戀愛",
+    "搞笑"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "クラスで２番目に可愛い女の子と友だちになった",
+   "author": "尾野凛",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx148082-kW0qmds2laKs.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Kadocomi",
+     "url": "https://comic-walker.com/contents/detail/KDCW_MF02203170010000_68"
+    },
+    {
+     "name": "Pixiv Comic",
+     "url": "https://comic.pixiv.net/works/8612"
+    },
+    {
+     "name": "Yen Press",
+     "url": "https://yenpress.com/series/i-made-friends-with-the-second-prettiest-girl-in-my-class"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_a529e9ccf61e",
+   "title": "我和班上第二可愛的女生成為朋友",
+   "synopsis": "獨來獨往的高中生前原真樹，某天在錄影帶店意外撞見班上人氣極高、被稱為第二可愛的網美朝凪海。兩人因 B 級電影等共同興趣而結為朋友。",
+   "hook": "邊緣少年與人氣美少女的秘密交流，超甜日常！",
+   "tags": [
+    "校園",
+    "戀愛",
+    "日常"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "나노마신",
+   "author": "거발한",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Naver Webtoon",
+     "url": "https://comic.naver.com/webtoon/list?titleId=747271"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/en/action/nano-machine/list?title_no=4344"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/fr/fantasy/nano-mashin/list?title_no=4341"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_01ffb42e66ee",
+   "title": "奈米魔神",
+   "synopsis": "當奈米科技碰撞上魔神學院的武術！庶出的遙雲獲得來自未來後代注入的神秘奈米機器人，將在與強大半兄弟們的激烈競爭中脫穎而出。",
+   "hook": "奈米科技結合武俠，帶來前所未有的爽快復仇！",
+   "tags": [
+    "動作",
+    "奇幻",
+    "科幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "픽 미 업!",
+   "author": "조우네",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "KakaoPage",
+     "url": "https://page.kakao.com/content/60914825"
+    },
+    {
+     "name": "Piccoma",
+     "url": "https://piccoma.com/web/product/121552"
+    },
+    {
+     "name": "Tapas",
+     "url": "https://tapas.io/series/pick-me-up/info"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_76e964a98a9d",
+   "title": "PICK ME UP：低稀有度英雄的崛起",
+   "synopsis": "韓瑞鎮在極度困難的手遊《Pick Me Up》中將三星英雄視為砲灰，沒想到自己卻穿越成了遊戲中的三星英雄。他必須從底層爬起，對抗操控他的玩家。",
+   "hook": "手遊角色力抗玩家，底層英雄的絕地大反攻！",
+   "tags": [
+    "動作",
+    "冒險",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "게임 속 바바리안으로 살아남기",
+   "author": "한태수",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164857-MVeV0leMZb0m.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/comic/detail.series?productNo=9597018"
+    },
+    {
+     "name": "Naver Webtoon",
+     "url": "https://comic.naver.com/webtoon/list?titleId=808482"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/en/fantasy/surviving-the-game-as-a-barbarian/list?title_no=5515"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_068311239852",
+   "title": "化身野蠻人在異界生存",
+   "synopsis": "李漢洙花了九年通關無人破關的硬核 RPG 遊戲，一到最終BOSS房就顯示新手教學完成，並讓他變成遊戲中的真正的蠻族戰士比約恩延德。",
+   "hook": "硬核玩家化身蠻族，在殘酷異世界殺出一條血路！",
+   "tags": [
+    "動作",
+    "冒險",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "나 혼자만 레벨업 : 라그나로크",
+   "author": "당도",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx179445-ho0nb7baJ1a5.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Kakao Webtoon",
+     "url": "https://webtoon.kakao.com/content/나-혼자만-레벨업-라그나로크/4172"
+    },
+    {
+     "name": "KakaoPage",
+     "url": "https://page.kakao.com/content/64612703"
+    },
+    {
+     "name": "Tapas",
+     "url": "https://tapas.io/series/solo-leveling-ragnarok/info"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_3120f98ad788",
+   "title": "我獨自升級：諸神黃昏",
+   "synopsis": "成秀豪是個平凡的大學生，直到校園突然爆發怪物危機。當他繼承父親的腳步挺身而出時，耳邊響起了恭喜成為玩家的提示音。",
+   "hook": "人氣作《我獨自升級》的正統續作，神級戰力傳承！",
+   "tags": [
+    "動作",
+    "冒險",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "전지적 독자 시점",
+   "author": "UMI",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119257-Pi21aq3ey9GG.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Naver Webtoon",
+     "url": "https://comic.naver.com/webtoon/list.nhn?titleId=747269"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/th/fantasy/omniscient-reader/list?title_no=2106"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_aa704d176c6a",
+   "title": "全知讀者視角",
+   "synopsis": "金獨子喜愛的小說《滅亡的三種方法》竟然成為現實，而他是唯一知道世界如何結局的人。為了改變故事走向並拯救人類，他展開了非凡的冒險。",
+   "hook": "神作級小說真實上演，唯一知情者的逆天改命之旅！",
+   "tags": [
+    "動作",
+    "冒險",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "템빨",
+   "author": "이동욱",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117460-hUdgIZ5fXy9I.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "KakaoPage",
+     "url": "https://page.kakao.com/home?seriesId=54727849"
+    },
+    {
+     "name": "Tapas",
+     "url": "https://tapas.io/series/overgeared/info"
+    },
+    {
+     "name": "Piccoma",
+     "url": "https://jp.piccoma.com/web/product/43170"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_7ba43499ad67",
+   "title": "過份裝備",
+   "synopsis": "現實生活運氣不佳的玩家，在熱門VR遊戲中意外獲得傳說級職業「帕格瑪的繼承者」。他透過鍛造神兵利器展開揚名立萬的冒險，卻也引發了一連串的風波。",
+   "hook": "魯蛇玩家轉職傳說鐵匠，打造最強神裝逆轉人生！",
+   "tags": [
+    "網遊",
+    "奇幻",
+    "冒險"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "games",
+   "title": "The Spectrum Retreat: Redux",
+   "developer": "Dan Smith Studios",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "2026 年 11 月 26 日",
+   "genre": "冒險、獨立製作",
+   "price": "NT$ 198",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397720/a87af4d6fc552e4a3b56edc3012731902e6bb757/header.jpg?t=1795683438",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397720/c516663ba8b4f2139431e92dc3f9ce318549b531/ss_c516663ba8b4f2139431e92dc3f9ce318549b531.600x338.jpg?t=1795683438",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397720/235d32513724871ad751cabe97ffdd7357d3b684/ss_235d32513724871ad751cabe97ffdd7357d3b684.600x338.jpg?t=1795683438",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397720/28d3c3ac59b4c1bfcfb72486754a25eed10ad893/ss_28d3c3ac59b4c1bfcfb72486754a25eed10ad893.600x338.jpg?t=1795683438"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5397720/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_df59de20a5a3",
+   "synopsis": "這是一款氛圍濃厚且令人不安的第一人稱解謎驚悚遊戲，專為現代硬體設備從零開始進行重製。",
+   "highlights": [
+    "第一人稱視角",
+    "解謎驚悚體驗",
+    "現代硬體重製"
+   ],
+   "hook": "喜歡解謎驚悚題材嗎？這款針對現代硬體重製的作品絕對能帶來沉浸且不安的氛圍。",
+   "tags": [
+    "解謎",
+    "驚悚",
+    "第一人稱"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "games",
+   "title": "The Longest Sword",
+   "developer": "LeToaster Games",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "2026 年 11 月 26 日",
+   "genre": "動作、休閒、獨立製作",
+   "price": "NT$ 86",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5583410/baa63bf20e1997a6fc0fe22636d63fa921380b7c/header_tchinese.jpg?t=1795681207",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5583410/cd72f777e65c950c7d2386a1554d28753d4d3610/ss_cd72f777e65c950c7d2386a1554d28753d4d3610.600x338.jpg?t=1795681207",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5583410/3d6c9def262f508119863d83eab6133c96c2f2f6/ss_3d6c9def262f508119863d83eab6133c96c2f2f6.600x338.jpg?t=1795681207",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5583410/5606a679b97e0e1c175c42295cd047c6603af54b/ss_5606a679b97e0e1c175c42295cd047c6603af54b.600x338.jpg?t=1795681207"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5583410/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_fca937d0aefc",
+   "synopsis": "鍛造一把持續變長的劍，從手臂長一路延伸至240公尺！旋轉劍刃橫掃村莊與果園，收集金幣解鎖豐富升級，鑄造足以劈倒城堡的巨刃。",
+   "highlights": [
+    "打造超長巨劍",
+    "橫掃村莊果園",
+    "解鎖百種升級"
+   ],
+   "hook": "想體驗一把劍不斷變長、最後甚至能劈倒城堡的爽快感嗎？快來挑戰收集升級吧！",
+   "tags": [
+    "動作",
+    "升級",
+    "休閒"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "games",
+   "title": "面具謎途",
+   "developer": "Rockbench Studio",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam",
+    "Mac"
+   ],
+   "release": "2026 年 11 月 26 日",
+   "genre": "休閒、獨立製作、策略",
+   "price": "NT$ 115",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508220/7b0db1c825f6cce9006e405c441928f77a8f458a/header.jpg?t=1795680789",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508220/61146bdcef2f09bb7fbb85115d67e7ffb1f5ebe3/ss_61146bdcef2f09bb7fbb85115d67e7ffb1f5ebe3.600x338.jpg?t=1795680789",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508220/a2dbfe6f6520ef5130809817eec2fcae3d82768f/ss_a2dbfe6f6520ef5130809817eec2fcae3d82768f.600x338.jpg?t=1795680789",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508220/77333ae1e0a589e17b2ee76becddc443d885ce00/ss_77333ae1e0a589e17b2ee76becddc443d885ce00.600x338.jpg?t=1795680789"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/4508220/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_439966c8d774",
+   "synopsis": "一款困難又溫馨的類推箱子解謎遊戲。透過拾起與放下不同的面具來改變世界互動方式，推動物體、揭示隱藏道路、啟動開關並點燃蠟燭。",
+   "highlights": [
+    "類推箱子玩法",
+    "運用面具互動",
+    "解開豐富謎題"
+   ],
+   "hook": "喜歡動腦解謎的朋友別錯過！透過獨特的面具機制，在溫馨氛圍中挑戰困難的推箱子關卡。",
+   "tags": [
+    "解謎",
+    "休閒",
+    "策略"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "games",
+   "title": "Core Valley",
+   "developer": "Nekard",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "2026 年 11 月 26 日",
+   "genre": "冒險、獨立製作、角色扮演",
+   "price": "NT$ 236",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5587040/86775acdd0ed322f400ce377fbd7ffd6a39b7eb9/header.jpg?t=1795680355",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5587040/4197592a0047c65c6eff32de234578b92083738c/ss_4197592a0047c65c6eff32de234578b92083738c.600x338.jpg?t=1795680355",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5587040/71eb567d917254df57a5bd5b8755c48914dea7c3/ss_71eb567d917254df57a5bd5b8755c48914dea7c3.600x338.jpg?t=1795680355",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5587040/57fae66944f1ace5fd59033a5c067868e0accb29/ss_57fae66944f1ace5fd59033a5c067868e0accb29.600x338.jpg?t=1795680355"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5587040/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_dc498db9cf1d",
+   "synopsis": "結合舒適的農場經營、製作、釣魚、動物照顧，以及地下城探索和頭目戰鬥。玩家可以獨自遊玩，也能透過區域網路進行合作。",
+   "highlights": [
+    "農場經營與製作",
+    "地下城與頭目戰",
+    "支援區域網路合作"
+   ],
+   "hook": "想體驗種田釣魚又想打王冒險？這款遊戲滿足你所有的願望，還能和朋友一起同樂！",
+   "tags": [
+    "農場經營",
+    "冒險",
+    "合作"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "games",
+   "title": "Oh Baby Blocks",
+   "developer": "Oh Baby Games",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam",
+    "Mac"
+   ],
+   "release": "2026 年 11 月 26 日",
+   "genre": "休閒、獨立製作",
+   "price": "NT$ 118",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5438690/ddf7119588e3e2fb9a422d5317b268d5fa55ec0b/header.jpg?t=1795680151",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5438690/7d4233caac1c95e9aa95a336e106ae758bb50ce7/ss_7d4233caac1c95e9aa95a336e106ae758bb50ce7.600x338.jpg?t=1795680151",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5438690/aca179c3647c2a84d24307e8ef60339fabb0861a/ss_aca179c3647c2a84d24307e8ef60339fabb0861a.600x338.jpg?t=1795680151",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5438690/1c4ac713894bd986a0c55a62291295aa37f261d4/ss_1c4ac713894bd986a0c55a62291295aa37f261d4.600x338.jpg?t=1795680151"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5438690/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_328edea17eeb",
+   "synopsis": "溫馨的編織方塊交換益智遊戲。透過交換與連鎖消除毛線方塊，擊敗戴帽子的Boss，挑戰豐富的手工謎題與對戰模式。",
+   "highlights": [
+    "毛線方塊消除",
+    "挑戰多位Boss",
+    "支援跨平台對戰"
+   ],
+   "hook": "喜歡三消益智與可愛風格的玩家必玩，不僅有豐富關卡，還能與好友跨平台對戰！",
+   "tags": [
+    "益智",
+    "消除",
+    "對戰"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "games",
+   "title": "Kitsune Kart",
+   "developer": "Kemonocept",
+   "platform": "PC/Steam",
+   "platforms": [
+    "PC/Steam",
+    "Mac"
+   ],
+   "release": "2026 年 11 月 26 日",
+   "genre": "動作、競速、運動",
+   "price": "NT$ 142",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5528590/52217111cf1273cbc2e17150b8d4b70725391dcc/header.jpg?t=1795684009",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5528590/c4be7d81ede7a10817a0f7709bb57fa4d6dcac02/ss_c4be7d81ede7a10817a0f7709bb57fa4d6dcac02.600x338.jpg?t=1795684009",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5528590/04e07b8372df1743d06008bfefdaf7bf97ef5877/ss_04e07b8372df1743d06008bfefdaf7bf97ef5877.600x338.jpg?t=1795684009",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5528590/c2aea20bf0d89305bf57312f6730f5a0ba7cffab/ss_c2aea20bf0d89305bf57312f6730f5a0ba7cffab.600x338.jpg?t=1795684009"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5528590/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_efed9f4b8fa8",
+   "synopsis": "化身獸耳妖怪少女，在24條源自日本民間傳說的賽道上競速。透過甩尾與加速，向對手投擲妖怪惡作劇來爭奪領先。",
+   "highlights": [
+    "妖怪少女競速",
+    "日本傳說賽道",
+    "投擲惡作劇道具"
+   ],
+   "hook": "喜愛賽車與日式妖怪題材嗎？快來操控獸耳少女，在傳說賽道中甩尾並用惡作劇陷害對手！",
+   "tags": [
+    "競速",
+    "賽車",
+    "動漫"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "games",
+   "title": "The Great Himalayan Noodle Descent",
+   "developer": "Granité Works",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "即將推出：2026 年 11 月 26 日",
+   "genre": "休閒、獨立製作、競速",
+   "price": "未定價",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554910/8dacc97f022b85067b5405ee9752dd2402526220/header.jpg?t=1794004512",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554910/83ced6fbb6f183cbab61db9126537f5c13bb7ec1/ss_83ced6fbb6f183cbab61db9126537f5c13bb7ec1.600x338.jpg?t=1794004512",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554910/01d69c965a84f769f848f444f640f43232598546/ss_01d69c965a84f769f848f444f640f43232598546.600x338.jpg?t=1794004512",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554910/332f1fc480d42c84fbb7546ae7a79ab51302e50d/ss_332f1fc480d42c84fbb7546ae7a79ab51302e50d.600x338.jpg?t=1794004512"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5554910/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_af2a72282d16",
+   "synopsis": "從聖母峰頂端建造一條超過兩萬英尺的滑道，運用真實物理學將成堆亂甩的麵條送往底部，看看有多少麵條能存活。",
+   "highlights": [
+    "建造高山滑道",
+    "真實物理模擬",
+    "挑戰麵條存活"
+   ],
+   "hook": "從聖母峰頂端滑下成堆的麵條會是什麼光景？快來用真實物理挑戰這場荒謬又有趣的滑道之旅！",
+   "tags": [
+    "模擬",
+    "物理",
+    "搞笑"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "novel",
+   "origin": "華文網文",
+   "title": "小說正文完結後",
+   "author": "山有青木",
+   "watch": [
+    {
+     "name": "晉江文學城",
+     "url": "https://www.jjwxc.net/onebook.php?novelid=10463513"
+    }
+   ],
+   "status": "連載中",
+   "length": "約 14 萬字",
+   "mod": "acgn",
+   "id": "novel_7a4ca7531c9b",
+   "synopsis": "合歡道散修歸明月穿書救下男主墨輕鴻，雙修二十載後欲回現實卻失敗，百年後功力盡失重逢黑化男主。",
+   "genre": "修仙・穿書",
+   "setting": "修仙世界，包含萬枯崖、合歡道等宗門勢力設定。",
+   "protagonist": "歸明月是熟知劇情的穿越者，墨輕鴻是身負怨恨的修仙界共主。",
+   "hook": "師父眼裡的互惠互利，變成徒弟眼裡的始亂終棄，穿書後果相當刺激。",
+   "readers": "喜歡修仙穿書、師徒虐戀與追妻火葬場題材的讀者。",
+   "tags": [
+    "穿書",
+    "修仙",
+    "師徒"
+   ],
+   "_ai": true,
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "매일10시무료 시리즈 에디션",
+   "author": "나이트캣",
+   "image": "https://comicthumb-phinf.pstatic.net/20261117_146/pocket_1794897135574gmEXW_JPEG/%B1%AB%B4%E3_%B9%E6%BC%DB_%BD%C3%C0%DB%C7%D5%B4%CF%B4%D9_%BF%AC%C0%E7.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=15032179"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_a24600a225ac",
+   "title": "每日10點免費 系列版本",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "매일10시무료 시리즈 에디션",
+   "author": "비가",
+   "image": "https://comicthumb-phinf.pstatic.net/20260526_138/pocket_1779771698447wx7hj_JPEG/%C3%B5%B8%B6%C7%A5%C1%F6%28850x1250%29.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=4130558"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_3868f39cfc71",
+   "title": "每日10點免費 系列版本",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "매일10시무료 시리즈 에디션",
+   "author": "한중월야",
+   "image": "https://comicthumb-phinf.pstatic.net/20210317_257/pocket_1615943121504YOXRt_JPEG/_.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=6029740"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_4d54e4076a59",
+   "title": "每日10點免費 系列版本",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "시리즈 에디션",
+   "author": "연우솔, 레드아이스 스튜디오",
+   "image": "https://comicthumb-phinf.pstatic.net/20260519_299/pocket_1779152400222DR3WL_JPEG/693498_%B4%EB%C7%A5_%BD%E6%B3%D7%C0%CF%28%C7%A5%C1%F6%29.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=13958113"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_091369c8943d",
+   "title": "系列版本",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "매일10시무료 시리즈 에디션",
+   "author": "두부두부",
+   "image": "https://comicthumb-phinf.pstatic.net/20260615_63/pocket_17815093921215gJ5L_JPEG/coever.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=11397259"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_fdbcb5b5ebbb",
+   "title": "每日10點免費 系列版本",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-26",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "テムパル～アイテムの力～",
+   "studio": "J.C.STAFF",
+   "latest": "第9話",
+   "broadcast": "每週日 23:30（日本）",
+   "episodes": "全 12 話",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/GT00384004"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%A3%9D%E5%82%99%E6%88%91%E6%9C%80%E5%BC%B7"
+    }
+   ],
+   "title": "裝備我最強",
+   "mod": "acgn",
+   "id": "anime_a110aa2bc461",
+   "synopsis": "低級玩家申榮宇在遊戲中獲得神祕道具，轉職為傳奇職業「帕瑪的傳人」。他成為能打造最強裝備的鐵匠，企圖藉此獲得名利，卻在遊戲世界掀起巨大風波。",
+   "hook": "廢柴玩家意外轉職傳奇鐵匠，展開名利雙收的遊戲人生！",
+   "tags": [
+    "冒險",
+    "奇幻",
+    "動作",
+    "搞笑"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-26"
+  },
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "転生したら剣でした 第2期",
+   "studio": "C2C",
+   "latest": "第9話",
+   "broadcast": "每週四 00:30（日本）",
+   "episodes": "全 12 話",
+   "original": "輕小說改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-GGFwlDskc5vR.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "HIDIVE",
+     "url": "https://www.hidive.com/season/39506"
+    },
+    {
+     "name": "Amazon Prime Video",
+     "url": "https://www.amazon.com/gp/video/detail/B0HLCHQS6T"
+    },
+    {
+     "name": "iQ",
+     "url": "https://www.iq.com/album/1v4ebkyoz21"
+    },
+    {
+     "name": "YouTube",
+     "url": "https://www.youtube.com/playlist?list=PLcSpWjb7H0lk"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%82%89%E5%89%A3%E3%81%A7%E3%81%97%E3%81%9F%20%E7%AC%AC2%E6%9C%9F"
+    }
+   ],
+   "mod": "acgn",
+   "id": "anime_3a9654868e4f",
+   "title": "轉生成為魔劍 第2期",
+   "synopsis": "人氣輕小說改編動畫《轉生成為魔劍》第二季，延續前作的世界觀與冒險旅程。",
+   "hook": "最強魔劍與黑貓族少女的冒險第二季正式展開！",
+   "tags": [
+    "冒險",
+    "奇幻",
+    "動作"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-26"
+  },
   {
    "cat": "anime",
    "season_type": "current",
@@ -134,43 +1103,6 @@
    "cat": "anime",
    "season_type": "current",
    "season": "2026 秋",
-   "title_orig": "テムパル～アイテムの力～",
-   "studio": "J.C.STAFF",
-   "latest": "第8話",
-   "broadcast": "每週日 23:30（日本）",
-   "episodes": "全 12 話",
-   "original": "漫畫改編",
-   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
-   "imageSrc": "AniList",
-   "watch": [
-    {
-     "name": "Crunchyroll",
-     "url": "https://www.crunchyroll.com/series/GT00384004"
-    },
-    {
-     "name": "在動畫瘋搜尋",
-     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%A3%9D%E5%82%99%E6%88%91%E6%9C%80%E5%BC%B7"
-    }
-   ],
-   "title": "裝備我最強",
-   "mod": "acgn",
-   "id": "anime_a110aa2bc461",
-   "synopsis": "低級玩家申榮宇在遊戲中獲得神祕道具，轉職為傳奇職業「帕瑪的傳人」。他成為能打造最強裝備的鐵匠，企圖藉此獲得名利，卻在遊戲世界掀起巨大風波。",
-   "hook": "廢柴玩家意外轉職傳奇鐵匠，展開名利雙收的遊戲人生！",
-   "tags": [
-    "冒險",
-    "奇幻",
-    "動作",
-    "搞笑"
-   ],
-   "_ai": true,
-   "added": "2026-11-22",
-   "updated": "2026-11-22"
-  },
-  {
-   "cat": "anime",
-   "season_type": "current",
-   "season": "2026 秋",
    "title_orig": "ホタルの嫁入り",
    "studio": "david production",
    "latest": "第7話",
@@ -197,54 +1129,6 @@
    "tags": [
     "愛情",
     "劇情"
-   ],
-   "_ai": true,
-   "added": "2026-11-22",
-   "updated": "2026-11-22"
-  },
-  {
-   "cat": "anime",
-   "season_type": "current",
-   "season": "2026 秋",
-   "title_orig": "転生したら剣でした 第2期",
-   "studio": "C2C",
-   "latest": "第8話",
-   "broadcast": "每週四 00:30（日本）",
-   "episodes": "全 12 話",
-   "original": "輕小說改編",
-   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-GGFwlDskc5vR.png",
-   "imageSrc": "AniList",
-   "watch": [
-    {
-     "name": "HIDIVE",
-     "url": "https://www.hidive.com/season/39506"
-    },
-    {
-     "name": "Amazon Prime Video",
-     "url": "https://www.amazon.com/gp/video/detail/B0HLCHQS6T"
-    },
-    {
-     "name": "iQ",
-     "url": "https://www.iq.com/album/1v4ebkyoz21"
-    },
-    {
-     "name": "YouTube",
-     "url": "https://www.youtube.com/playlist?list=PLcSpWjb7H0lk"
-    },
-    {
-     "name": "在動畫瘋搜尋",
-     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%82%89%E5%89%A3%E3%81%A7%E3%81%97%E3%81%9F%20%E7%AC%AC2%E6%9C%9F"
-    }
-   ],
-   "mod": "acgn",
-   "id": "anime_3a9654868e4f",
-   "title": "轉生成為魔劍 第2期",
-   "synopsis": "人氣輕小說改編動畫《轉生成為魔劍》第二季，延續前作的世界觀與冒險旅程。",
-   "hook": "最強魔劍與黑貓族少女的冒險第二季正式展開！",
-   "tags": [
-    "冒險",
-    "奇幻",
-    "動作"
    ],
    "_ai": true,
    "added": "2026-11-22",
