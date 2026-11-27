@@ -1,9 +1,135 @@
 {
  "meta": {
-  "last_updated": "2026-11-24T05:28+08:00",
+  "last_updated": "2026-11-28T02:57+08:00",
   "seed": false
  },
  "items": [
+  {
+   "mod": "lang",
+   "cat": "en",
+   "title": "Gen AI Is Giving Superstar Companies an Even Bigger Edge",
+   "url": "https://hbr.org/2026/11/gen-ai-is-giving-superstar-companies-an-even-bigger-edge",
+   "source": "Harvard Business Review",
+   "original": "New research shows that big firms’ AI-ready workforces, data expertise, and operational-know-how have further widened the gap between superstars and their competitors.",
+   "id": "en_9adeb6652d74",
+   "translation": "最新研究顯示，大企業具備人工智慧就緒能力的人力、數據專業知識與營運實務技能，已進一步拉大頂尖企業與競爭對手之間的差距。",
+   "points": [
+    "widen the gap = 拉大差距、擴大領先優勢",
+    "operational know-how = 營運實務技能、作業專門知識",
+    "AI-ready workforce = 具備AI導入與應用能力的人才團隊"
+   ],
+   "category": "報告撰寫",
+   "difficulty": "高級",
+   "dictWord": "know-how",
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "mod": "lang",
+   "cat": "en",
+   "title": "The 10 Most Popular HBR Articles of November 2026",
+   "url": "https://hbr.org/2026/11/the-10-most-popular-hbr-articles-of-november-2026",
+   "source": "Harvard Business Review",
+   "original": "The human-in-the-loop fallacy, tanking employee engagement, time-based rewards, and more.",
+   "id": "en_f00d1bbda795",
+   "translation": "人機協作的迷思、暴跌的員工投入度、基於工時的獎勵制度，以及更多精選內容。",
+   "points": [
+    "human-in-the-loop = 人機協同、人介入決策流程（AI領域重要商務概念）",
+    "tanking employee engagement = 暴跌的員工投入度（tank 在商用俚語中作動詞表示「重挫、暴跌」）",
+    "time-based rewards = 按工時計算的酬勞或激勵制度"
+   ],
+   "category": "商用慣用語",
+   "difficulty": "高級",
+   "dictWord": "tank",
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "mod": "lang",
+   "cat": "en",
+   "title": "When Your Employees Resist AI",
+   "url": "https://hbr.org/2026/11/11-24-agenda",
+   "source": "Harvard Business Review",
+   "original": "Four strategies to speed up AI adoption among reticent employees.",
+   "id": "en_45291ae5b5c8",
+   "translation": "向持保留態度的員工加速推展 AI 導入的四項策略。",
+   "points": [
+    "speed up = 加快步調、加速推動",
+    "technology adoption = 科技採用與導入（此處為 AI adoption）",
+    "reticent employees = 持保留態度、不願表態的員工"
+   ],
+   "category": "談判協商",
+   "difficulty": "中級",
+   "dictWord": "reticent",
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "mod": "lang",
+   "cat": "en",
+   "title": "Leading Others Without Losing Yourself",
+   "url": "https://hbr.org/2026/11/leading-others-without-losing-yourself",
+   "source": "Harvard Business Review",
+   "original": "An HBR Executive Live with professor and author Arthur C. Brooks",
+   "id": "en_94b97e5f1f6f",
+   "translation": "《哈佛商業評論》高階主管現場直播對談，邀請學者兼暢銷作家亞瑟．布魯克斯蒞臨分享。",
+   "points": [
+    "Executive Live = 高階主管現場直播論壇",
+    "professor and author = 學者兼作家（常用於正式活動的講者背景介紹）",
+    "host a live with someone = 與某人共同主持現場對談活動"
+   ],
+   "category": "人脈拓展",
+   "difficulty": "初級",
+   "dictWord": "executive",
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "mod": "lang",
+   "cat": "ja",
+   "title": "〜につき",
+   "level": "N2",
+   "category": "文法",
+   "original": "本日は棚卸し業務につき、誠に勝手ながら午後5時にて営業を終了させていただきます。",
+   "translation": "今天因進行盤點作業，本公司擅自決定於下午5點結束營業，敬請見諒。",
+   "points": [
+    "【N2文法】接在名詞之後，表示「由於……／因……」，為正式公文、通知或看板標示專用的書面語表達。",
+    "【商用場景】常用於店休公告、系統維修通知或商務信件中，以客觀且具距離感的語氣說明事由。",
+    "【例句對照】ただいま新システムへの移行中につき、一時的にデータ照会サービスを停止しております。（目前因正在進行新系統轉移，暫時停止資料查詢服務。）"
+   ],
+   "tags": [
+    "💼 商用"
+   ],
+   "source": "Sunny Hub（AI 編寫）",
+   "url": "",
+   "dictWord": "につき",
+   "id": "ja_c0d78b5b6078",
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "mod": "lang",
+   "cat": "ja",
+   "title": "〜次第",
+   "level": "N2",
+   "category": "ビジネス",
+   "original": "詳しい日程が決まり次第、改めて担当者よりご連絡差し上げます。",
+   "translation": "詳細日程一旦確定，將由負責人員另行與您聯絡。",
+   "points": [
+    "【N2文法】接在動詞連用形（去ます形）之後，表示「一……就立刻……」，強調前項實現後立即進行後續動作。",
+    "【商用場景】職場電郵與電話應對的必備句型，向客戶承諾「資料一備齊就寄出」、「會議一結束就回電」等後續處理。",
+    "【例句對照】先方より見積書が届き次第、至急社内稟議に回します。（一收到對方的報價單，我會火速送交內部簽呈。）"
+   ],
+   "tags": [
+    "💼 商用"
+   ],
+   "source": "Sunny Hub（AI 編寫）",
+   "url": "",
+   "dictWord": "次第",
+   "id": "ja_59f5731ae84b",
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
   {
    "mod": "lang",
    "cat": "en",
