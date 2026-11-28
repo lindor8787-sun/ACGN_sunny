@@ -1,9 +1,369 @@
 {
  "meta": {
-  "last_updated": "2026-11-26T17:36+08:00",
+  "last_updated": "2026-11-28T16:59+08:00",
   "seed": false
  },
  "items": [
+  {
+   "id": "news_180eeea889f8",
+   "mod": "news",
+   "cat": "news",
+   "title": "邊聽 Lo-Fi 電臺邊闖蕩雨中廢墟！Team Cherry 發行《雨聲電臺 Radio Rain》首度亮相",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315776",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "Team Cherry 在線上直播活動中首度公開發行新作《雨聲電台》",
+    "本作由 Studio Stobie 負責開發，預定將於 PC Steam 平台推出",
+    "玩家將在遊戲中一邊收聽 Lo-Fi 電台，一邊探索雨中的廢墟世界"
+   ],
+   "summary": "Team Cherry 在線上直播活動中首度公開發行新作《雨聲電台》",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_4485a8a11384",
+   "mod": "news",
+   "cat": "news",
+   "title": "《空洞騎士》團隊揭露冒險新作《植物學家與譯者》首部宣傳影片 解開星球上的植物謎團",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315775",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "Team Cherry 於線上發表會公開全新冒險遊戲《植物學家與譯者》",
+    "官方同步釋出首部宣傳影片，展示探索外星星球並解開植物謎團的過程",
+    "本作由獨立遊戲開發者製作，並在活動中揭露相關遊戲世界觀"
+   ],
+   "summary": "Team Cherry 於線上發表會公開全新冒險遊戲《植物學家與譯者》",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_2ac8e8acce49",
+   "mod": "news",
+   "cat": "news",
+   "title": "《空洞騎士》團隊 Team Cherry 擔任發行商！手繪偵探解謎新作《布洛坎：移動城市的秘密》公開",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315774",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "Team Cherry 宣布擔任手繪偵探解謎遊戲《布洛坎：移動城市的秘密》發行商",
+    "本作由開發者 Rohan Fraser 打造，在官方直播活動中首度曝光",
+    "遊戲主打獨特手繪美術風格，玩家將深入調查移動城市背後的未解之謎"
+   ],
+   "summary": "Team Cherry 宣布擔任手繪偵探解謎遊戲《布洛坎：移動城市的秘密》發行商",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_c0a991e2532b",
+   "mod": "news",
+   "cat": "news",
+   "title": "《空洞騎士：絲之歌》首個大型更新「悲傷之海」12 月 11 日免費上線",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315773",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "研發團隊 Team Cherry 宣布《空洞騎士：絲之歌》將推出首個大型更新",
+    "全新更新內容命名為「悲傷之海」，預計於 12 月 11 日正式免費推出",
+    "官方於「Cherry Time!」線上發表會中公開了此項最新改版消息"
+   ],
+   "summary": "研發團隊 Team Cherry 宣布《空洞騎士：絲之歌》將推出首個大型更新",
+   "pick": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_768b0494a972",
+   "mod": "news",
+   "cat": "news",
+   "title": "《寶可夢》動畫 30 週年紀念節目明年一月開播 將回顧歷代動畫經典場面",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315772",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "東京電視台宣布推出 30 週年紀念節目「寶可夢 大調查！皮卡皮卡」",
+    "節目預計自 2027 年 1 月 8 日起正式開播，回顧歷代經典場面",
+    "邀請日本男團浪花男子與搞笑雙人組 Rainbow 共同擔任節目主持"
+   ],
+   "summary": "東京電視台宣布推出 30 週年紀念節目「寶可夢 大調查！皮卡皮卡」",
+   "pick": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_4955586ea583",
+   "mod": "news",
+   "cat": "news",
+   "title": "公開新畫面與 OP！《青澀寶貝重製版》明年 3/25 發售 限定版收錄 16 張 CD",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315771",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "經典戀愛模擬重製作品《青澀寶貝重製版》公開最新遊戲畫面與 OP",
+    "官方確定將於 2027 年 3 月 25 日登上 Switch 與 PS5 平台",
+    "發行商 ENTERGRAM 同步揭露限定版將豪華收錄共 16 張音樂 CD"
+   ],
+   "summary": "經典戀愛模擬重製作品《青澀寶貝重製版》公開最新遊戲畫面與 OP",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_856bc2862c41",
+   "mod": "news",
+   "cat": "news",
+   "title": "《太鼓之達人 咚咚雷音祭》25 週年「奇蹟免費更新」新增 4 人同樂模式與金爆樂團合作歌曲",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315770",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "為慶祝系列 25 週年，《太鼓之達人 咚咚雷音祭》推出「奇蹟免費更新」",
+    "更新追加最多可支援 4 人同樂的全新遊玩模式「超興奮小咚樂園」",
+    "遊戲同步收錄與日本知名樂團 Golden Bomber 合作的最新曲目"
+   ],
+   "summary": "為慶祝系列 25 週年，《太鼓之達人 咚咚雷音祭》推出「奇蹟免費更新」",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_5465cff394e1",
+   "mod": "news",
+   "cat": "news",
+   "title": "《異度神劍 3》公開 Switch 2 版介紹影片 展示 4K / 60fps 畫面與新英雄「迦具夜」",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315769",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "任天堂釋出預計 2026 年底發售的 Switch 2 版最新遊戲介紹影片",
+    "影片展示了本作提升至 4K 與 60fps 的流暢高畫質遊戲表現",
+    "Switch 2 版本將追加全新英雄「迦具夜」與防衛戰模式等豐富要素"
+   ],
+   "summary": "任天堂釋出預計 2026 年底發售的 Switch 2 版最新遊戲介紹影片",
+   "pick": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_b127aa21ccd7",
+   "mod": "news",
+   "cat": "news",
+   "title": "【電玩瘋】833 集《GTA 6》創下熱賣紀錄帶動主機銷量、《異於天堂》實機試玩三個時代等遊戲情報",
+   "url": "https://gnn.gamer.com.tw/detail.php?sn=315768",
+   "source": "巴哈姆特 GNN",
+   "origin": "TW",
+   "image": "",
+   "category": "遊戲",
+   "points": [
+    "最新一集節目報導《俠盜獵車手 6》熱賣並成功帶動 PS5 主機銷量",
+    "帶來《異於天堂》實機試玩，帶領玩家穿梭 3 個不同年代與城市氛圍",
+    "節目同步介紹《進擊的巨人 3》牆內設施探索與《信長之野望》等情報"
+   ],
+   "summary": "最新一集節目報導《俠盜獵車手 6》熱賣並成功帶動 PS5 主機銷量",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_b3e2a2a45364",
+   "mod": "news",
+   "cat": "news",
+   "title": "漫改真人影集《魅惑》定檔 1 月 6 日獨家上線 Disney+",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-28/webtoon-based-live-action-series-portraits-of-delusion-sets-january-6-premiere-on-disney/.244246",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "改編自人氣網漫的真人影集《魅惑》預計於 1 月 6 日在串流平台開播",
+    "劇情背景設定於 1930 年代，描繪一名逃避當局追捕的畫家所經歷的冒險",
+    "主角接下神秘委託，前往替一間神秘飯店的擁有者繪製肖像畫"
+   ],
+   "summary": "改編自人氣網漫的真人影集《魅惑》預計於 1 月 6 日在串流平台開播",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_7f9feafa750a",
+   "mod": "news",
+   "cat": "news",
+   "title": "新版《花樣少年少女》真人日劇釋出全新預告與追加演員名單",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-27/new-live-action-hana-kimi-series-unveils-more-cast-new-trailer/.244263",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "全新改編的《花樣少年少女》真人日劇公開最新宣傳預告片",
+    "官方宣布細貝圭、荒井未羽、遊井亮子與足立悠斗加入演出陣容",
+    "該日劇新作預定於下週六正式開播，引發原作粉絲關注"
+   ],
+   "summary": "全新改編的《花樣少年少女》真人日劇公開最新宣傳預告片",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_dd077137ce63",
+   "mod": "news",
+   "cat": "news",
+   "title": "【漫評】韓漫《爸爸，請跟我離婚！》第 1 至 4 卷：誤會交織的浪漫喜劇",
+   "url": "https://www.animenewsnetwork.com/review/father-i-dont-want-this-marriage/volumes-1-4/.243392",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "漫畫",
+   "points": [
+    "評論指出本作透過層層誤會推動情節，展現討喜的浪漫喜劇節奏",
+    "雖然故事整體氛圍歡樂有趣，但底層仍潛藏著略顯黑暗的世界觀背景",
+    "漫畫前 4 卷以巧妙的誤解手法，成功營造出獨特的角色互動魅力"
+   ],
+   "summary": "評論指出本作透過層層誤會推動情節，展現討喜的浪漫喜劇節奏",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_9a0e410984ec",
+   "mod": "news",
+   "cat": "news",
+   "title": "【動畫短評】《最強魔女的條件》第 8 集：巧妙致敬電玩文化的可愛日常",
+   "url": "https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-8/.244209",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "評論讚賞第 8 集延續一貫可愛風格，並以聰明巧妙的手法調侃電玩梗",
+    "該作憑藉輕鬆詼諧的節奏，已成為評論者今年秋季常態收看的必看節目",
+    "劇中對遊戲文化的趣味致敬，為每週的日常冒險增添不少觀看亮點"
+   ],
+   "summary": "評論讚賞第 8 集延續一貫可愛風格，並以聰明巧妙的手法調侃電玩梗",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_a812e650b8a9",
+   "mod": "news",
+   "cat": "news",
+   "title": "從 YouTube 動漫翻唱到官方主題曲！歌手 PelleK 演唱《骸骨騎士》OP 的追夢歷程",
+   "url": "https://www.animenewsnetwork.com/interview/2026-11-27/pellek-from-posting-anime-covers-on-youtube-to-singing-skeleton-knight-openings/.244085",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "業界",
+   "points": [
+    "外媒專題報導挪威歌手 PelleK 從網路翻唱走向日本動漫歌手的歷程",
+    "探討他在不具備流利日語能力的背景下，如何成功登上主流演唱舞台",
+    "PelleK 最終受邀演唱《骸骨騎士大人異世界冒險中》的電視動畫片頭曲"
+   ],
+   "summary": "外媒專題報導挪威歌手 PelleK 從網路翻唱走向日本動漫歌手的歷程",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_94acee532bdc",
+   "mod": "news",
+   "cat": "news",
+   "title": "【動畫短評】《亂馬 1/2》第 3 季第 8 集：高橋留美子重現《福星小子》經典套路",
+   "url": "https://www.animenewsnetwork.com/review/ranma-season-3/episode-8/.244208",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "評論探討本集中登場的右京與翼兩位角色的互動與情節鋪陳",
+    "指出原作者高橋留美子在本作中重現了早期代表作《福星小子》的劇情手法",
+    "經典的情節推進公式再次展現出作者鮮明的個人喜劇創作特色"
+   ],
+   "summary": "評論探討本集中登場的右京與翼兩位角色的互動與情節鋪陳",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_aaf7f12185fc",
+   "mod": "news",
+   "cat": "news",
+   "title": "【動畫短評】《無情少女妮亞·利斯頓》第 8 集：荒誕搞笑中帶來深刻共鳴",
+   "url": "https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-8/.244172",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "評論針對《無情少女妮亞·利斯頓》最新播出的第 8 集發表心得看法",
+    "認為這部風格看似荒謬搞笑的作品，卻能帶給觀眾意想不到的心理共鳴",
+    "劇中獨特的表現方式讓評論者感到自身情緒在觀看過程中獲得同理"
+   ],
+   "summary": "評論針對《無情少女妮亞·利斯頓》最新播出的第 8 集發表心得看法",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_24b0248a3f2e",
+   "mod": "news",
+   "cat": "news",
+   "title": "《寶可夢》莉可與羅伊篇動畫全新一季將於 2027 年 10 月播出",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-27/pokemon-anime-gets-new-season-featuring-liko-roy-in-october-2027/.244257",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "官方宣布以莉可與羅伊為主角的《寶可夢》動畫新季度定於 2027 年 10 月推出",
+    "同步確認將於 2027 年 1 月 8 日起搶先播出獨立的寶可夢特別節目",
+    "全新季度的推出將持續帶領觀眾探索寶可夢世界的冒險旅程"
+   ],
+   "summary": "官方宣布以莉可與羅伊為主角的《寶可夢》動畫新季度定於 2027 年 10 月推出",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "news_8982b666a099",
+   "mod": "news",
+   "cat": "news",
+   "title": "衍生動畫《魔入間同學！入間君 黑手黨篇》片頭曲確定由 Gero 演唱",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-27/gero-performs-opening-theme-for-welcome-to-demon-school-iruma-kun-irumafia-edition-tv-anime/.244256",
+   "source": "Anime News Network",
+   "origin": "INTL",
+   "image": "",
+   "category": "動漫",
+   "points": [
+    "官方宣布人氣歌手 Gero 將為《魔入間同學！入間君》外傳動畫演唱片頭曲",
+    "該衍生動畫《入間黑手黨篇》共計 12 集，預計於 1 月 4 日正式播出",
+    "改編新作以黑手黨世界觀為特色，自公開以來便備受原作粉絲期待"
+   ],
+   "summary": "官方宣布人氣歌手 Gero 將為《魔入間同學！入間君》外傳動畫演唱片頭曲",
+   "pick": false,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
   {
    "id": "news_dfa93c4a7d65",
    "mod": "news",

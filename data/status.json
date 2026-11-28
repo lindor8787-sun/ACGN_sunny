@@ -4,36 +4,36 @@
    "name": "AniList 季番（本季/上季/下季）",
    "module": "acgn",
    "ok": true,
-   "last_run": "2026-11-26T17:23+08:00",
+   "last_run": "2026-11-28T16:50+08:00",
    "count": 17,
-   "last_ok": "2026-11-26T17:23+08:00",
+   "last_ok": "2026-11-28T16:50+08:00",
    "error": ""
   },
   "bangumi": {
    "name": "Bangumi 放送表（中文名）",
    "module": "acgn",
    "ok": true,
-   "last_run": "2026-11-26T17:23+08:00",
+   "last_run": "2026-11-28T16:50+08:00",
    "count": 113,
-   "last_ok": "2026-11-26T17:23+08:00",
+   "last_ok": "2026-11-28T16:50+08:00",
    "error": ""
   },
   "anilist_manga_jp": {
    "name": "AniList 日漫熱門",
    "module": "acgn",
    "ok": true,
-   "last_run": "2026-11-26T17:23+08:00",
+   "last_run": "2026-11-28T16:50+08:00",
    "count": 6,
-   "last_ok": "2026-11-26T17:23+08:00",
+   "last_ok": "2026-11-28T16:50+08:00",
    "error": ""
   },
   "anilist_manga_kr": {
    "name": "AniList 韓漫熱門",
    "module": "acgn",
    "ok": true,
-   "last_run": "2026-11-26T17:23+08:00",
+   "last_run": "2026-11-28T16:50+08:00",
    "count": 6,
-   "last_ok": "2026-11-26T17:23+08:00",
+   "last_ok": "2026-11-28T16:50+08:00",
    "error": ""
   },
   "jikan_manga": {
@@ -48,7 +48,7 @@
    "name": "無限動漫 更新列表",
    "module": "comics",
    "ok": false,
-   "last_run": "2026-11-26T17:23+08:00",
+   "last_run": "2026-11-28T16:50+08:00",
    "count": 0,
    "error": "回傳 0 筆"
   },
@@ -56,7 +56,7 @@
    "name": "漫畫人 最近更新",
    "module": "comics",
    "ok": false,
-   "last_run": "2026-11-26T17:23+08:00",
+   "last_run": "2026-11-28T16:50+08:00",
    "count": 0,
    "error": "回傳 0 筆"
   },
@@ -64,16 +64,16 @@
    "name": "Steam 新推出／即將推出",
    "module": "acgn",
    "ok": true,
-   "last_run": "2026-11-26T17:24+08:00",
-   "count": 7,
-   "last_ok": "2026-11-26T17:24+08:00",
+   "last_run": "2026-11-28T16:50+08:00",
+   "count": 8,
+   "last_ok": "2026-11-28T16:50+08:00",
    "error": ""
   },
   "appstore": {
    "name": "App Store 台灣免費榜（遊戲）",
    "module": "acgn",
    "ok": false,
-   "last_run": "2026-11-26T17:24+08:00",
+   "last_run": "2026-11-28T16:50+08:00",
    "count": 0,
    "last_ok": "2026-11-22T18:07+08:00",
    "error": "回傳 0 筆"
@@ -82,16 +82,16 @@
    "name": "晉江文學城 月榜",
    "module": "acgn",
    "ok": true,
-   "last_run": "2026-11-26T17:24+08:00",
+   "last_run": "2026-11-28T16:51+08:00",
    "count": 8,
-   "last_ok": "2026-11-26T17:24+08:00",
+   "last_ok": "2026-11-28T16:51+08:00",
    "error": ""
   },
   "anilist_novel_cn": {
    "name": "AniList 華文網文熱門",
    "module": "acgn",
    "ok": false,
-   "last_run": "2026-11-26T17:24+08:00",
+   "last_run": "2026-11-28T16:51+08:00",
    "count": 0,
    "error": "回傳 0 筆"
   },
@@ -99,16 +99,16 @@
    "name": "Naver Series 小說排行",
    "module": "acgn",
    "ok": true,
-   "last_run": "2026-11-26T17:24+08:00",
+   "last_run": "2026-11-28T16:51+08:00",
    "count": 6,
-   "last_ok": "2026-11-26T17:24+08:00",
+   "last_ok": "2026-11-28T16:51+08:00",
    "error": ""
   },
   "anilist_novel_kr": {
    "name": "AniList 韓國網路小說熱門",
    "module": "acgn",
    "ok": false,
-   "last_run": "2026-11-26T17:24+08:00",
+   "last_run": "2026-11-28T16:51+08:00",
    "count": 0,
    "error": "回傳 0 筆"
   },
@@ -116,45 +116,45 @@
    "name": "巴哈姆特 GNN RSS",
    "module": "news",
    "ok": true,
-   "last_run": "2026-11-26T17:35+08:00",
+   "last_run": "2026-11-28T16:57+08:00",
    "count": 20,
-   "last_ok": "2026-11-26T17:35+08:00",
+   "last_ok": "2026-11-28T16:57+08:00",
    "error": ""
   },
   "news_4gamers": {
    "name": "4Gamers RSS",
    "module": "news",
    "ok": true,
-   "last_run": "2026-11-26T17:36+08:00",
+   "last_run": "2026-11-28T16:57+08:00",
    "count": 20,
-   "last_ok": "2026-11-26T17:36+08:00",
+   "last_ok": "2026-11-28T16:57+08:00",
    "error": ""
   },
   "news_ann": {
    "name": "Anime News Network RSS",
    "module": "news",
    "ok": true,
-   "last_run": "2026-11-26T17:36+08:00",
+   "last_run": "2026-11-28T16:57+08:00",
    "count": 20,
-   "last_ok": "2026-11-26T17:36+08:00",
+   "last_ok": "2026-11-28T16:57+08:00",
    "error": ""
   },
   "news_gematsu": {
    "name": "Gematsu RSS",
    "module": "news",
    "ok": true,
-   "last_run": "2026-11-26T17:36+08:00",
-   "count": 20,
-   "last_ok": "2026-11-26T17:36+08:00",
+   "last_run": "2026-11-28T16:57+08:00",
+   "count": 6,
+   "last_ok": "2026-11-28T16:57+08:00",
    "error": ""
   },
   "news_siliconera": {
    "name": "Siliconera RSS",
    "module": "news",
    "ok": true,
-   "last_run": "2026-11-26T17:36+08:00",
-   "count": 11,
-   "last_ok": "2026-11-26T17:36+08:00",
+   "last_run": "2026-11-28T16:57+08:00",
+   "count": 8,
+   "last_ok": "2026-11-28T16:57+08:00",
    "error": ""
   },
   "lang_hbr": {
@@ -267,6 +267,17 @@
  },
  "runs": [
   {
+   "at": "2026-11-28T16:59+08:00",
+   "modules": [
+    "acgn",
+    "news"
+   ],
+   "notes": [
+    "acgn 完成（21）",
+    "news 完成（18）"
+   ]
+  },
+  {
    "at": "2026-11-28T02:57+08:00",
    "modules": [
     "lang:pm"
@@ -339,13 +350,13 @@
    "notes": []
   }
  ],
- "updated": "2026-11-28T02:57+08:00",
+ "updated": "2026-11-28T16:59+08:00",
  "model": {
   "model": "gemini-3.8-flash",
   "fallback": "gemini-3.5-flash-lite",
-  "calls": 2,
+  "calls": 4,
   "by_model": {
-   "gemini-3.8-flash": 2
+   "gemini-3.8-flash": 4
   },
   "unavailable": [],
   "has_key": true

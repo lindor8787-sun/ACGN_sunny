@@ -1,15 +1,862 @@
 {
  "meta": {
-  "last_updated": "2026-11-26T17:35+08:00",
+  "last_updated": "2026-11-28T16:57+08:00",
   "seed": false,
   "counts": {
    "anime": 18,
-   "comic": 23,
-   "games": 17,
-   "novel": 20
+   "comic": 33,
+   "games": 25,
+   "novel": 23
   }
  },
  "items": [
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "のあ先輩はともだち。",
+   "author": "あきやまえんま",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167423-YntPE72Qy0xz.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Tonari no Young Jump",
+     "url": "https://tonarinoyj.jp/episode/4856001361388795523"
+    },
+    {
+     "name": "Official Site",
+     "url": "https://youngjump.jp/manga/noasenpai/"
+    },
+    {
+     "name": "Official Site",
+     "url": "https://ynjn.jp/title/10427"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_b9c6c3b60505",
+   "title": "乃愛前輩是朋友。",
+   "synopsis": "遊戲公司員工大塚理人個性踏實，遇上凡事全力以赴的早乙女乃愛前輩。兩個性格迥異的人因緣際會成為「朋友」，展開略帶沉重卻又甜蜜的職場喜劇。",
+   "hook": "性格反差的兩人意外成為朋友，帶點微甜與沉重的職場日常！",
+   "tags": [
+    "職場",
+    "戀愛喜劇",
+    "日常"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "ブルーロック",
+   "author": "金城宗幸",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Pocket Magazine",
+     "url": "https://pocket.shonenmagazine.com/episode/10834108156632602988"
+    },
+    {
+     "name": "Pixiv Comic",
+     "url": "https://comic.pixiv.net/works/5169"
+    },
+    {
+     "name": "Official Site",
+     "url": "https://bluelock-kc.com/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_aa318bac9dcb",
+   "title": "藍色監獄",
+   "synopsis": "2018年世界盃慘敗後，日本足球聯盟為培養出最具壓倒性、渴望勝利的自私前鋒，召集了全國300名頂尖青年選手，展開殘酷的淘汰競賽。",
+   "hook": "300名菁英爭奪唯一的王牌前鋒，燃燒野心與自私的生存對決！",
+   "tags": [
+    "熱血",
+    "運動",
+    "足球",
+    "生存競賽"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "聖母の断罪",
+   "author": "カズキ",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164303-LKTWK0q9zbrc.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Tonari no Young Jump",
+     "url": "https://tonarinoyj.jp/episode/4856001361192121329"
+    },
+    {
+     "name": "Official Site",
+     "url": "https://ynjn.jp/title/9892"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_1d330d82a75c",
+   "title": "聖母的斷罪",
+   "synopsis": "琉晴一家原本過著幸福的三人生活，但兒子桐高在學校暗中遭受霸凌。隨著某起重大事件爆發，母親茉莉對兒子的愛徹底失控，展開無情的行動。",
+   "hook": "面對校園霸凌引發的悲劇，母親失控的愛化作震撼的驚悚復仇！",
+   "tags": [
+    "懸疑驚悚",
+    "家庭",
+    "復仇"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "放課後のアイドルには秘密がある",
+   "author": "あまねかしこ",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152235-ckNVfSZs9Lqt.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Manga Park",
+     "url": "https://manga-park.com/title/61411"
+    },
+    {
+     "name": "Young Animal",
+     "url": "https://younganimal.com/series/b7095b9a09c9f"
+    },
+    {
+     "name": "Yen Press",
+     "url": "https://yenpress.com/series/everyone-s-darling-has-a-secret"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_d4e23cadcb9b",
+   "title": "放學後的偶像有秘密",
+   "synopsis": "菁英高中新生晝野日向因答案卷畫錯卡導致成績慘不忍睹，被迫參加課後補習。然而補習教室裡並非只有他一人，身旁的夥伴竟然是他憧憬的夢中情人。",
+   "hook": "資優高中生畫錯卡慘遭補習，意想不到的同班夥伴竟是夢中情人！",
+   "tags": [
+    "校園",
+    "戀愛喜劇",
+    "青春"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "comic",
+   "origin": "日漫",
+   "title_orig": "奴隷からの期待と評価のせいで搾取できないのだが",
+   "author": "急川回レ",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx171164-tfdk3FtATLbd.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Kadocomi",
+     "url": "https://comic-walker.com/contents/detail/KDCW_KS13204291010000_68"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_5c204de56232",
+   "title": "因為奴隸的期待與評價害我無法榨取他們",
+   "synopsis": "轉生少年艾倫獲得女神賜予的「回復」外掛技能，原想治好買來的奴隸過上悠閒生活。不料奴隸治癒後各個展現超凡才能，甚至將現代知識發揚光大開創新局。",
+   "hook": "原本只想悠閒度日，買下的奴隸卻個個身懷絕技帶飛事業！",
+   "tags": [
+    "異世界",
+    "奇幻",
+    "搞笑"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "아카데미에서 살아남기",
+   "author": "기린그린",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/comic/detail.series?productNo=10577696"
+    },
+    {
+     "name": "Naver Webtoon",
+     "url": "https://comic.naver.com/webtoon/list?titleId=820097"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/fr/action/the-extras-academy-survival-guide/list?title_no=6388"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_148a700d0b53",
+   "title": "三流反派的學院生存記",
+   "synopsis": "主角穿越成遊戲中被家族驅逐的三流反派艾德，為了謀生只能隱居樹林爭取獎學金。他本想遠離主角群，卻引來四位女主角頻頻接近，甚至改變了原作走向。",
+   "hook": "穿越成遭放逐的三流反派，在森林刻苦求生卻引來女主角們倒貼！",
+   "tags": [
+    "穿越",
+    "奇幻",
+    "學院",
+    "冒險"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "나 혼자 만렙 뉴비",
+   "author": "WAN.Z",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137280-juUL79K7f9s7.png",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Naver Webtoon",
+     "url": "https://comic.naver.com/webtoon/list?titleId=773797"
+    },
+    {
+     "name": "Tappytoon",
+     "url": "https://www.tappytoon.com/en/comics/im-the-max-level-newbie"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/en/action/im-the-max-level-newbie/list?title_no=3915"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_d8333fa62519",
+   "title": "滿級新手",
+   "synopsis": "遊戲實況主姜振赫是唯一通關《試煉之塔》的玩家。就在他準備放棄這款過氣遊戲時，高塔竟在現實降臨，他決定運用全知的高玩經驗稱霸整個世界。",
+   "hook": "現實突然變成殘酷高塔，唯一全破遊戲的實況主展開霸氣虐菜！",
+   "tags": [
+    "熱血",
+    "動作",
+    "奇幻",
+    "攻略升級"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "나태 공자, 노력 천재 되다",
+   "author": "doip",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135325-YAhEGWro8zFK.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Naver Webtoon",
+     "url": "https://comic.naver.com/webtoon/list.nhn?titleId=772853"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/en/fantasy/the-lazy-lord-masters-the-sword/list?title_no=3349"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/fr/action/the-lazy-lord-masters-the-sword/list?title_no=3675"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_1667616a6527",
+   "title": "懶惰公子成長記",
+   "synopsis": "目睹母親離世後，艾倫靠睡覺逃避現實，被眾人嘲笑為「懶惰公子」。即便遭受冷嘲熱諷他也無動於衷，直到某天夢見一名神秘劍客，命運軌跡徹底改變。",
+   "hook": "長年沉睡逃避傷痛的懶惰貴族，因夢中神祕劍客覺醒蛻變！",
+   "tags": [
+    "奇幻",
+    "冒險",
+    "成長",
+    "劍術"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "로그인 무림",
+   "author": "장철벽",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120385-4JYGuOR6cn72.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "KakaoPage",
+     "url": "https://page.kakao.com/home/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%AC%B4%EB%A6%BC/54872059"
+    },
+    {
+     "name": "Piccoma",
+     "url": "https://piccoma.com/web/product/55123"
+    },
+    {
+     "name": "KuaiKan Manhua",
+     "url": "https://www.kuaikanmanhua.com/web/topic/11042/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_3ad3db5c60da",
+   "title": "登入武林",
+   "synopsis": "異界次元門開啟後人類與怪物抗衡，並誕生了獵人職業。底層獵人陳泰慶意外透過一台破舊VR設備登入遊戲，卻發現自己受困於武林世界無法登出。",
+   "hook": "落魄獵人意外登入VR遊戲，竟困在危機四伏的真實武林世界！",
+   "tags": [
+    "武俠",
+    "奇幻",
+    "冒險",
+    "動作"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "comic",
+   "origin": "韓漫",
+   "title_orig": "나 혼자 탑에서 농사",
+   "author": "임형",
+   "status": "連載中",
+   "latest": "",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166658-jbtqReVgxdqH.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Naver Webtoon",
+     "url": "https://comic.naver.com/webtoon/list?titleId=808389"
+    },
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/comic/detail.series?productNo=9632355"
+    },
+    {
+     "name": "WEBTOON",
+     "url": "https://www.webtoons.com/en/fantasy/the-top-dungeon-farmer/list?title_no=5656"
+    }
+   ],
+   "mod": "acgn",
+   "id": "comic_725019a98218",
+   "title": "我獨自在高塔種田",
+   "synopsis": "首爾魯蛇朴世俊意外跌入充滿魔物任務的神秘地下城。面對險境，他憑藉樂觀心態、生存智慧與一群毛茸茸的忠誠夥伴，展開靠種植番茄等作物破關的冒險。",
+   "hook": "誤闖危機四伏的高塔地下城，靠著種田與萌寵夥伴逆轉生存！",
+   "tags": [
+    "奇幻",
+    "種田",
+    "地下城",
+    "療癒"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "games",
+   "title": "CLT Supermarket",
+   "developer": "Gabriel Postal Kretzer",
+   "platform": "PC/Steam",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "2026 年 11 月 28 日",
+   "genre": "動作",
+   "price": "NT$ 96",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545050/5b83b36a9bbc82e9df48bbb05748ab34a501fdbd/header.jpg?t=1795853155",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545050/985146cadddd4d26724461a6558b9785b0c6a777/ss_985146cadddd4d26724461a6558b9785b0c6a777.600x338.jpg?t=1795853155",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545050/dff149f47d7ec329843c0ec8de1e18d160c41467/ss_dff149f47d7ec329843c0ec8de1e18d160c41467.600x338.jpg?t=1795853155",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545050/d195ff30077d22d1c1ac9cc88f2091da4ed3568d/ss_d195ff30077d22d1c1ac9cc88f2091da4ed3568d.600x338.jpg?t=1795853155"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5545050/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_e20a762e2f87",
+   "synopsis": "玩家將扮演被迫值大夜班的警衛，在 CLT 超市裡求生。面對職場與未知的雙重恐懼，你必須奮力反擊，揭開背後隱藏的真相。",
+   "highlights": [
+    "快節奏動作冒險玩法",
+    "大夜班超市恐怖求生",
+    "擊退威脅並調查真相"
+   ],
+   "hook": "體驗社畜夜班的極限恐懼，快節奏反擊求生超刺激！",
+   "tags": [
+    "動作冒險",
+    "恐怖求生",
+    "快節奏"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "games",
+   "title": "Deep Clean",
+   "developer": "FREETATO PLAY",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam",
+    "Mac"
+   ],
+   "release": "2026 年 11 月 27 日",
+   "genre": "動作、冒險、獨立製作",
+   "price": "NT$ 142",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568040/e9e3222e58f9845e6f48d950523eaa9ec5790e1f/header.jpg?t=1795852497",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568040/7b498669fa595d922982be3f474b0475eb081d88/ss_7b498669fa595d922982be3f474b0475eb081d88.600x338.jpg?t=1795852497",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568040/cebddef87c6eb8604e611a2c2e05af34a4548b8a/ss_cebddef87c6eb8604e611a2c2e05af34a4548b8a.600x338.jpg?t=1795852497",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568040/dfb1789622becec4d31e1a5f649e9f8dbb9f2165/ss_dfb1789622becec4d31e1a5f649e9f8dbb9f2165.600x338.jpg?t=1795852497"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5568040/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_f51390cdf104",
+   "synopsis": "支援最多4人合作的恐怖喜劇遊戲。玩家扮演太空清潔工，在事故後清理空間站，並在毫無指引的情況下親身嘗試，探索遊蕩的未知威脅以求生存。",
+   "highlights": [
+    "最多4人線上合作",
+    "無指引自由摸索求生",
+    "清理空間站並記錄圖鑑"
+   ],
+   "hook": "化身太空清潔工組隊除垢，恐怖又搞笑的摸索求生！",
+   "tags": [
+    "合作",
+    "恐怖喜劇",
+    "太空",
+    "多人生存"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "games",
+   "title": "孤狼之春",
+   "developer": "幻象Gal",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam",
+    "Mac"
+   ],
+   "release": "2026 年 11 月 27 日",
+   "genre": "獨立製作",
+   "price": "NT$ 25",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213770/f5165d14ca736e659230a7cfef103cf4b9220b35/header.jpg?t=1795844138",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213770/238d01ca0e78c2e0eb3de275cf05e6a329e2090a/ss_238d01ca0e78c2e0eb3de275cf05e6a329e2090a.600x338.jpg?t=1795844138",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213770/73d72e21553b24119da18070facbf3f3e9fe8bfd/ss_73d72e21553b24119da18070facbf3f3e9fe8bfd.600x338.jpg?t=1795844138",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213770/f95bc222e9acc6646c9e47fbfaf53a140229745a/ss_f95bc222e9acc6646c9e47fbfaf53a140229745a.600x338.jpg?t=1795844138"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/4213770/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_9d1e7d33f952",
+   "synopsis": "本作是一款設定於西方奇幻世界觀的真正後宮向美少女遊戲（Galgame）。",
+   "highlights": [
+    "西方奇幻世界觀",
+    "真正後宮戀愛體驗",
+    "文字冒險美少女遊戲"
+   ],
+   "hook": "體驗西方奇幻世界下的正統後宮戀愛冒險！",
+   "tags": [
+    "Galgame",
+    "後宮",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "games",
+   "title": "Fished Out",
+   "developer": "Rich Chimp",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam",
+    "Mac"
+   ],
+   "release": "2026 年 11 月 27 日",
+   "genre": "冒險、休閒、獨立製作",
+   "price": "NT$ 158",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559520/f93ad80c6afc9fa9987fcc19edb47b7fc7519a0a/header.jpg?t=1795843657",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559520/3c88a023d435997c0c53eb9d48c20510ae7b4a46/ss_3c88a023d435997c0c53eb9d48c20510ae7b4a46.600x338.jpg?t=1795843657",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559520/3e6ae5c087a01b49469068876fbff9319f056894/ss_3e6ae5c087a01b49469068876fbff9319f056894.600x338.jpg?t=1795843657",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559520/9ee8c136734da2f42a28862fcd1fb9ea8c47ec4d/ss_9ee8c136734da2f42a28862fcd1fb9ea8c47ec4d.600x338.jpg?t=1795843657"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5559520/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_c7a67532faed",
+   "synopsis": "支援1至4人的釣魚 Roguelike 遊戲。玩家必須在海上搏鬥捕魚、躲避惡魔巨獸，並在達標之餘前往賭場孤注一擲，一旦未達配額就將失去所有財富。",
+   "highlights": [
+    "1至4人合作釣魚冒險",
+    "躲避惡魔巨獸並達標配額",
+    "賭場豪賭搏翻倍獎勵"
+   ],
+   "hook": "釣魚兼博弈的 Roguelike，一竿沒拉好就傾家蕩產！",
+   "tags": [
+    "Roguelike",
+    "多人合作",
+    "釣魚",
+    "冒險"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "games",
+   "title": "The Old Circle: Ecos da Masmorra",
+   "developer": "Reaper Moon Studio",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "即將推出：2026 年 11 月 28 日",
+   "genre": "動作、冒險、獨立製作",
+   "price": "未定價",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596460/2c03f81599344583a205c27c9deffd0676c0d983/header.jpg?t=1795474707",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596460/71e8e1fd76ad8763cb6c32c49e9ae72558a646aa/ss_71e8e1fd76ad8763cb6c32c49e9ae72558a646aa.600x338.jpg?t=1795474707",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596460/967c11b51884a55d7805ae3fb5536799a4ae13a7/ss_967c11b51884a55d7805ae3fb5536799a4ae13a7.600x338.jpg?t=1795474707",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596460/868b47f012ea65ad8be6c153dc1df3c933da2667/ss_868b47f012ea65ad8be6c153dc1df3c933da2667.600x338.jpg?t=1795474707"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5596460/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_c94f3c7aefc2",
+   "synopsis": "支援1至4人遊玩的像素風動作RPG。玩家可從五種職業中挑選，運用星紋、符文與50套裝備打造專屬流派，深入21座各具致命規則的地城並挑戰強大首領。",
+   "highlights": [
+    "支援1至4人連線合作",
+    "5種職業搭配百變配裝",
+    "挑戰21座地城與首領"
+   ],
+   "hook": "復古像素動作RPG，豐富配裝流派與地城等你組隊挑戰！",
+   "tags": [
+    "動作RPG",
+    "像素風格",
+    "多人合作",
+    "地城探索"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "games",
+   "title": "I'd Choose the Bear",
+   "developer": "NextDrawLabs",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam",
+    "Mac"
+   ],
+   "release": "即將推出：2026 年 11 月 28 日",
+   "genre": "休閒、獨立製作、模擬",
+   "price": "未定價",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5599530/bd03187801fc10b6aa4f5b0a3660c9dbb01acc54/header.jpg?t=1795620528",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5599530/28904481fd5b47027944278d2c874e45a283fb2e/ss_28904481fd5b47027944278d2c874e45a283fb2e.600x338.jpg?t=1795620528",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5599530/2a7ffd58270f903342d819b68580fcb7cf50b2d0/ss_2a7ffd58270f903342d819b68580fcb7cf50b2d0.600x338.jpg?t=1795620528",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5599530/507f45795f5429a7f9d96c7fc0f6e22a4ac2edda/ss_507f45795f5429a7f9d96c7fc0f6e22a4ac2edda.600x338.jpg?t=1795620528"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5599530/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_7552f640cfb2",
+   "synopsis": "玩家要在30天內拯救已故奶奶在哈尼伍德鎮的小木屋。在這個熊與人類共存的湖畔小鎮，你將與六位不同的熊約會，並智取度假村開發商。",
+   "highlights": [
+    "30天期限拯救奶奶木屋",
+    "與六位獨特的熊展開約會",
+    "對抗度假村開發商保衛城鎮"
+   ],
+   "hook": "在熊熊共存的湖畔小鎮展開戀愛，拯救老宅免於開發！",
+   "tags": [
+    "戀愛模擬",
+    "休閒",
+    "幽默"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "games",
+   "title": "ANU: Tablets of Thoth",
+   "developer": "PangeaSuperCorp©",
+   "platform": "PC/Steam",
+   "platforms": [
+    "PC/Steam",
+    "Mac"
+   ],
+   "release": "即將推出：2026 年 11 月 28 日",
+   "genre": "動作、冒險",
+   "price": "未定價",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259950/78909e8081965b66b0cf1df22b42a16efcb0b67f/header.jpg?t=1795600363",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259950/fc234b9781f84c8af4ceb6b13d5c41b05b144a3a/ss_fc234b9781f84c8af4ceb6b13d5c41b05b144a3a.600x338.jpg?t=1795600363",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259950/aacf4d70f7a3de9a2225f516aefa34879ddd4b7f/ss_aacf4d70f7a3de9a2225f516aefa34879ddd4b7f.600x338.jpg?t=1795600363",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259950/1b020ee570c7af5d354650db180b615b393bc7e6/ss_1b020ee570c7af5d354650db180b615b393bc7e6.600x338.jpg?t=1795600363"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/4259950/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_9e5b64df0702",
+   "synopsis": "這是一款3D平台冒險遊戲，玩家扮演轉世的胡狼神阿努，在古埃及奔跑、攀爬、游泳與航行，運用「靈魂虹吸」擊敗亡靈，阻止黑暗術士巫毒禿鷹。",
+   "highlights": [
+    "豐富的3D動作平台移動",
+    "使用靈魂虹吸擊敗亡靈",
+    "探索古埃及並收集文物"
+   ],
+   "hook": "化身胡狼神暢遊古埃及，運用獨特能力打倒黑暗勢力！",
+   "tags": [
+    "3D平台",
+    "冒險",
+    "動作",
+    "奇幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "games",
+   "title": "D.U.B.B.I.O",
+   "developer": "RIMUGAMES",
+   "platform": "Indie",
+   "platforms": [
+    "PC/Steam"
+   ],
+   "release": "即將推出：2026 年 11 月 29 日",
+   "genre": "休閒、獨立製作",
+   "price": "未定價",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555790/ded7f840e6cba13dffdcb225897f87a1a1624bea/header.jpg?t=1795447671",
+   "imageSrc": "Steam",
+   "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555790/5f7c29dd0075fc7b0050cba73229eafcef6ca87c/ss_5f7c29dd0075fc7b0050cba73229eafcef6ca87c.600x338.jpg?t=1795447671",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555790/c24a01bd7905225d5956089317b9d0d52f6b6b80/ss_c24a01bd7905225d5956089317b9d0d52f6b6b80.600x338.jpg?t=1795447671",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555790/d48259e22d1f42753a3c592e17fc90e9426ca2a7/ss_d48259e22d1f42753a3c592e17fc90e9426ca2a7.600x338.jpg?t=1795447671"
+   ],
+   "watch": [
+    {
+     "name": "Steam 商店頁",
+     "url": "https://store.steampowered.com/app/5555790/"
+    }
+   ],
+   "mod": "acgn",
+   "id": "games_0b2e20afc5bc",
+   "synopsis": "玩家將化身反恐 AI「D.U.B.B.I.O」，部署於索拉特市。透過同時處理多項駭客任務干擾恐怖分子、收集線索，推敲其武裝與襲擊地點，揭開行動背後的真相。",
+   "highlights": [
+    "多線並行的駭客干擾操作",
+    "收集現場線索進行推理",
+    "扮演反恐AI抽絲剝繭"
+   ],
+   "hook": "化身反恐AI多工駭入，推理推敲恐怖攻擊的幕後真相！",
+   "tags": [
+    "駭客",
+    "推理",
+    "模擬",
+    "科幻"
+   ],
+   "_ai": true,
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "매일10시무료 시리즈 에디션",
+   "author": "무릎",
+   "image": "https://comicthumb-phinf.pstatic.net/20261124_45/pocket_1795487699499ie7O9_JPEG/%BE%C6%BA%F1%B4%C2_%C1%D7%C1%F6_%BE%CA%B4%C2%B4%D9.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=14864801"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_9c5d5092d802",
+   "title": "每日10點免費 系列版（매일10시무료 시리즈 에디션）",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "타임딜",
+   "author": "종이노트",
+   "image": "https://comicthumb-phinf.pstatic.net/20261119_269/pocket_1795071121699fPTNl_JPEG/%C7%A5%C1%F6_%B3%EB%B0%A1%B4%D9%B2%DB%C0%CC_%BB%E7%C3%B5%B4%E7%B0%A1_%B0%A2%BC%BA%C7%DF%B4%F5%B4%CF_%C0%E7%B9%FA%B5%E9%C0%CC_%C1%FD%C2%F8%C7%D4%28%C1%BE%C0%CC%B3%EB%C6%AE%29.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=15043305"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_c079d145d1d4",
+   "title": "限時特惠（타임딜）",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "novel",
+   "origin": "韓國網路小說",
+   "title_orig": "타임딜",
+   "author": "킹묵",
+   "image": "https://comicthumb-phinf.pstatic.net/20260615_284/pocket_1781499704623Iz0ug_JPEG/703070_60.jpg?type=m79",
+   "imageSrc": "Naver Series",
+   "watch": [
+    {
+     "name": "Naver Series",
+     "url": "https://series.naver.com/novel/detail.series?productNo=14260177"
+    }
+   ],
+   "mod": "acgn",
+   "id": "novel_9fa2df10ab8a",
+   "title": "限時特惠（타임딜）",
+   "_ai": true,
+   "synopsis": "",
+   "added": "2026-11-28",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "薬屋のひとりごと 第3期",
+   "studio": "OLM",
+   "latest": "第9話",
+   "broadcast": "每週五 23:00（日本）",
+   "episodes": "全 12 話",
+   "original": "輕小說改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
+    },
+    {
+     "name": "Netflix",
+     "url": "https://www.netflix.com/us/title/81712068"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%97%A5%E5%B1%8B%E5%B0%91%E5%A5%B3%E7%9A%84%E5%91%A2%E5%96%83%20%E7%AC%AC%E4%B8%89%E5%AD%A3"
+    }
+   ],
+   "title": "藥屋少女的呢喃 第三季",
+   "mod": "acgn",
+   "id": "anime_5e725e770881",
+   "synopsis": "壬氏揭露皇弟身分並承擔重任，深憂國難警告。同時貓貓回到花街重操藥師舊業，卻因早餐異常展開調查，神祕巫女的流言也讓里國再度壟罩陰影。",
+   "hook": "國難危機逼近，貓貓的藥師本能與壬氏的重任將擦出什麼火花？",
+   "tags": [
+    "懸疑",
+    "劇情"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-28"
+  },
+  {
+   "cat": "anime",
+   "season_type": "current",
+   "season": "2026 秋",
+   "title_orig": "ホタルの嫁入り",
+   "studio": "david production",
+   "latest": "第8話",
+   "broadcast": "每週五 23:30（日本）",
+   "episodes": "全 12 話",
+   "original": "漫畫改編",
+   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
+   "imageSrc": "AniList",
+   "watch": [
+    {
+     "name": "Crunchyroll",
+     "url": "https://www.crunchyroll.com/series/GT00383999"
+    },
+    {
+     "name": "在動畫瘋搜尋",
+     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%9E%A2%E7%81%AB%E8%9F%B2%E7%9A%84%E5%87%BA%E5%AB%81"
+    }
+   ],
+   "title": "螢火蟲的出嫁",
+   "mod": "acgn",
+   "id": "anime_b2fdf7469387",
+   "synopsis": "貴族千金紗都子身患重病時日無多，卻遭神祕殺手新平盯上。為了自保，她提出結婚的瘋狂提議，而新平對這份愛意則是認真看待至死方休。",
+   "hook": "命在旦夕的千金向殺手求婚，展開瘋狂又致命的純愛對決！",
+   "tags": [
+    "愛情",
+    "劇情"
+   ],
+   "_ai": true,
+   "added": "2026-11-22",
+   "updated": "2026-11-28"
+  },
   {
    "cat": "anime",
    "season_type": "current",
@@ -1019,45 +1866,6 @@
    "cat": "anime",
    "season_type": "current",
    "season": "2026 秋",
-   "title_orig": "薬屋のひとりごと 第3期",
-   "studio": "OLM",
-   "latest": "第8話",
-   "broadcast": "每週五 23:00（日本）",
-   "episodes": "全 12 話",
-   "original": "輕小說改編",
-   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
-   "imageSrc": "AniList",
-   "watch": [
-    {
-     "name": "Crunchyroll",
-     "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
-    },
-    {
-     "name": "Netflix",
-     "url": "https://www.netflix.com/us/title/81712068"
-    },
-    {
-     "name": "在動畫瘋搜尋",
-     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%97%A5%E5%B1%8B%E5%B0%91%E5%A5%B3%E7%9A%84%E5%91%A2%E5%96%83%20%E7%AC%AC%E4%B8%89%E5%AD%A3"
-    }
-   ],
-   "title": "藥屋少女的呢喃 第三季",
-   "mod": "acgn",
-   "id": "anime_5e725e770881",
-   "synopsis": "壬氏揭露皇弟身分並承擔重任，深憂國難警告。同時貓貓回到花街重操藥師舊業，卻因早餐異常展開調查，神祕巫女的流言也讓里國再度壟罩陰影。",
-   "hook": "國難危機逼近，貓貓的藥師本能與壬氏的重任將擦出什麼火花？",
-   "tags": [
-    "懸疑",
-    "劇情"
-   ],
-   "_ai": true,
-   "added": "2026-11-22",
-   "updated": "2026-11-22"
-  },
-  {
-   "cat": "anime",
-   "season_type": "current",
-   "season": "2026 秋",
    "title_orig": "ブラッククローバー 第2期",
    "studio": "Studio Pierrot",
    "latest": "第8話",
@@ -1094,41 +1902,6 @@
     "奇幻",
     "冒險",
     "搞笑"
-   ],
-   "_ai": true,
-   "added": "2026-11-22",
-   "updated": "2026-11-22"
-  },
-  {
-   "cat": "anime",
-   "season_type": "current",
-   "season": "2026 秋",
-   "title_orig": "ホタルの嫁入り",
-   "studio": "david production",
-   "latest": "第7話",
-   "broadcast": "每週五 23:30（日本）",
-   "episodes": "全 12 話",
-   "original": "漫畫改編",
-   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
-   "imageSrc": "AniList",
-   "watch": [
-    {
-     "name": "Crunchyroll",
-     "url": "https://www.crunchyroll.com/series/GT00383999"
-    },
-    {
-     "name": "在動畫瘋搜尋",
-     "url": "https://www.google.com/search?q=site%3Aani.gamer.com.tw%20%E8%9E%A2%E7%81%AB%E8%9F%B2%E7%9A%84%E5%87%BA%E5%AB%81"
-    }
-   ],
-   "title": "螢火蟲的出嫁",
-   "mod": "acgn",
-   "id": "anime_b2fdf7469387",
-   "synopsis": "貴族千金紗都子身患重病時日無多，卻遭神祕殺手新平盯上。為了自保，她提出結婚的瘋狂提議，而新平對這份愛意則是認真看待至死方休。",
-   "hook": "命在旦夕的千金向殺手求婚，展開瘋狂又致命的純愛對決！",
-   "tags": [
-    "愛情",
-    "劇情"
    ],
    "_ai": true,
    "added": "2026-11-22",
